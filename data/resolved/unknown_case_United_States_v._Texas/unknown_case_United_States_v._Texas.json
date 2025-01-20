@@ -1,0 +1,42 @@
+{
+    "ID": 63503,
+    "name": "United States v. Texas",
+    "href": "https://api.oyez.org/cases/2022/22-58",
+    "view_count": 0,
+    "docket_number": "22-58",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1658379600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55147"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1669701600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55180"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1687496400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55311"
+        }
+    ],
+    "question": "<p>1. Do the state plaintiffs have Article III standing to challenge the Department of Homeland Security\u2019s Guidelines for the Enforcement of Civil Immigration Law?</p>\n<p>2. Do the Guidelines violate the Administrative Procedure Act?</p>\n<p>3. Does 8 U.S.C. \u00a7 1252(f)(1) prevent the entry of an order to \u201chold unlawful and set aside\u201d the guidelines under 5 U.S.C. \u00a7 706(2)?</p>\n",
+    "citation": {
+        "volume": "599",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27906"
+    },
+    "term": "2022",
+    "description": "A case in which the Court was asked to decide whether the Biden administration\u2019s revised immigration policy violates the Administrative Procedure Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/599/22-58/",
+    "facts_of_the_case": "<p>In September 2021, the Secretary of Homeland Security issued the Guidelines for the Enforcement of Civil Immigration Law in an effort to allocate limited resources that could not feasibly deport every removable non-citizen presently in the United States. Texas and Louisiana challenged the Guidelines in federal court. The court concluded Texas had Article III standing to challenge the Guidelines because, as a result of the Guidelines, Texas would have to spend more money on law enforcement and social services. The court further concluded that the Guidelines violate the Administrative Procedure Act because they granted DHS discretion to decide who will be detained and when, and because they were issued without notice and comment. The court vacated the Guidelines nationwide, and the U.S. Court of Appeals for the Fifth Circuit denied a stay pending appeal.</p>\n",
+    "conclusion": "<p>Texas and Louisiana lack Article III standing to challenge immigration-enforcement guidelines promulgated by the Secretary of Homeland Security that prioritize the arrest and removal of certain noncitizens from the United States. Justice Brett Kavanaugh authored the majority opinion of the Court.</p>\n<p>For a plaintiff to establish standing, they must show that they have suffered a real, specific injury that was caused by the defendant and that the court can remedy. While the district court had concluded that the states would suffer an injury in the form of additional costs due to the arrest policy in question, the Supreme Court pointed out that the injury also has to be \"legally and judicially cognizable\"\u2014in other words, that it should be a type of dispute that courts have traditionally been involved in resolving. The states failed to point to any precedent or historical practice that supported their claim to have standing in this particular issue.</p>\n<p>Second, the Court acknowledged that there are good reasons for federal courts to avoid these types of lawsuits, one of which is the Executive Branch\u2019s discretion in deciding whom to arrest or prosecute, which falls under its constitutional Article II powers. Additionally, the courts generally lack the standards to judge the appropriateness of such enforcement decisions, which can be influenced by various factors like resource constraints and public safety needs. This conclusion does not mean that federal courts can never handle cases involving the Executive Branch's decisions about arrests or prosecutions. Indeed, certain circumstances might warrant a different standing analysis; for instance, if there are claims of selective prosecution based on discrimination, or if Congress has explicitly made certain injuries legally recognizable.</p>\n<p>Justice Neil Gorsuch authored an opinion concurring in the judgment, in which Justices Clarence Thomas and Amy Coney Barrett joined, arguing that the states lack standing not because of the \u201ccognizable injury\u201d aspect of standing, but because of the redressability requirement.</p>\n<p>Justice Barrett authored an opinion concurring in the judgment, in which Justice Gorsuch joined, also arguing that the case should be resolved on redressability grounds.</p>\n<p>Justice Samuel Alito authored a dissenting opinion, arguing that Texas does have standing.</p>\n"
+}

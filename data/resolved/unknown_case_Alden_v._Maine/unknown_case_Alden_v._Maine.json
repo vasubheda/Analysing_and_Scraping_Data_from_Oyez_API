@@ -1,0 +1,35 @@
+{
+    "ID": 54704,
+    "name": "Alden v. Maine",
+    "href": "https://api.oyez.org/cases/1998/98-436",
+    "view_count": 0,
+    "docket_number": "98-436",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                922860000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38174"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                930114000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38175"
+        }
+    ],
+    "question": "<p>May Congress use its powers under Article I of the Constitution to abrogate a state's sovereign immunity from private suits in its own courts?</p>\n",
+    "citation": {
+        "volume": "527",
+        "page": "706",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18633"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/527/706/",
+    "facts_of_the_case": "<p>A group of probation officers sued their employer, the State of Maine, in 1992 alleging that the state had violated the overtime provisions of the 1938 Fair Labor Standards Act. Following the Court's decision in Seminole Tribe v. Florida (1996) <em>which held that States are immune from private suits in federal court and that Congress lacks the authority to abrogate that immunity</em> the probation officers' suit was dismissed in Federal district court. Alden and the other probation officers then sued Maine again for violating the Fair Labor Standards Act, this time in state court. The state trial court and the state supreme court both held that Maine had sovereign immunity and could not be sued by private parties in their own court.</p>\n",
+    "conclusion": "<p>No. A sharply divided court held in a 5-4 decision that Congress may not use its Article I powers to abrogate the states' sovereign immunity. Both the terms and history of the eleventh amendment suggest that States are immune from suits in their own courts. And more generally, the original understanding of the Constitution's structure and the terms of the tenth amendment confirm that states retained much of their sovereignty despite their agreeing that the national government would be supreme when exercising its enumerated powers.</p>\n"
+}

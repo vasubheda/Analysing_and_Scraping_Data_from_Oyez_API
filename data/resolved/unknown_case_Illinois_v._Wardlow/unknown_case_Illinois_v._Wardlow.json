@@ -1,0 +1,35 @@
+{
+    "ID": 54842,
+    "name": "Illinois v. Wardlow",
+    "href": "https://api.oyez.org/cases/1999/98-1036",
+    "view_count": 0,
+    "docket_number": "98-1036",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                941522400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38429"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                947656800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38430"
+        }
+    ],
+    "question": "<p>Is a person's sudden and unprovoked flight from identifiable police officers, patrolling a high crime area, sufficiently suspicious to justify the officers' stop of that person?</p>\n",
+    "citation": {
+        "volume": "528",
+        "page": "119",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18771"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/528/119/",
+    "facts_of_the_case": "<p>Sam Wardlow, who was holding an opaque bag, inexplicably fled an area of Chicago known for heavy narcotics trafficking after noticing police officers in the area. When officers caught up with him on the street, one stopped him and conducted a protective pat-down search for weapons because in his experience there were usually weapons in the vicinity of narcotics transactions. The officers arrested Wardlow after discovering that he was carrying handgun. In a trial motion to suppress the gun, Wardlow claimed that in order to stop an individual, short of actually arresting the person, police first had to point to \"specific reasonable inferences\" why the stop was necessary. The Illinois trial court denied the motion, finding that the gun was recovered during a lawful stop and frisk. Wardlow was convicted of unlawful use of a weapon by a felon. In reversing, the Illinois Appellate Court found that the officer did not have reasonable suspicion to make the stop. The Illinois Supreme Court affirmed, determining that sudden flight in a high crime area does not create a reasonable suspicion justifying a stop because flight may simply be an exercise of the right to \"go on one's way.\"</p>\n",
+    "conclusion": "<p>Yes. In an opinion delivered by Chief Justice William H. Rehnquist, the Court held, 5 to 4, that the police officers did not violate the Fourth Amendment when they stopped Wardlow, because the officer was justified in suspecting that the accused was involved in criminal activity and, therefore, in investigating further. Chief Justice Rehnquist wrote for the majority that, \"[n]ervous, evasive behavior is a pertinent factor in determining reasonable suspicion\" to justify a stop. The Chief Justice noted that \"flight is the consummate act of evasion.\" Stevens, joined by three other justices, concurred in avoiding a per se rule but dissented from the majority holding.</p>\n"
+}

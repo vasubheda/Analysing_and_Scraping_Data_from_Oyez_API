@@ -1,0 +1,35 @@
+{
+    "ID": 54491,
+    "name": "Camps Newfound/Owatonna, Inc. v. Town of Harrison",
+    "href": "https://api.oyez.org/cases/1996/94-1988",
+    "view_count": 0,
+    "docket_number": "94-1988",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                844837200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37782"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                864018000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37783"
+        }
+    ],
+    "question": "<p>Did Maine's tax exemption statute violate the Commerce Clause?</p>\n",
+    "citation": {
+        "volume": "520",
+        "page": "564",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18420"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/520/564/",
+    "facts_of_the_case": "<p>Camps Newfound/Owatonna Inc. (Camps) operates a children's church camp in Maine and finances its operations through a $400 per camper weekly tuition charge. The majority of its campers are out of state children. Maine's tax scheme exempts charitable institutions incorporated in the state, and provides a more limited tax benefit for institutions which principally benefit non- Maine residents so long as their weekly service charge does not exceed $30 per person. Ineligible for any exemptions, Camps challenged the constitutionality of Maine's tax exemption statute. The U.S. Supreme Court granted certiorari following a reversal of a favorable Superior Court ruling by the Supreme Court of Maine.</p>\n",
+    "conclusion": "<p>Yes. In a 5-to-4 opinion, the Court held that Maine's tax exemption statute violated the dormant commerce clause since it selectively awarded greater tax benefits to those institutions which served mostly state residents, while penalizing institutions that conducted mostly interstate business. By imposing such selective benefits on a commercial activity in which it did not directly participate, the Court found Maine's governmental tax regulations to be an unconstitutional form of economic protectionism favoring local consumers and business providers.</p>\n"
+}

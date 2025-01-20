@@ -1,0 +1,42 @@
+{
+    "ID": 55592,
+    "name": "Vaden v. Discover Bank",
+    "href": "https://api.oyez.org/cases/2008/07-773",
+    "view_count": 0,
+    "docket_number": "07-773",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1205730000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40250"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1223269200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40251"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1236574800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40252"
+        }
+    ],
+    "question": "<p>1) Does a suit seeking to enforce a state-law arbitration obligation brought under Section 4 of the Federal Arbitration Act establish federal subject matter jurisdiction when the petition to compel raises no federal question, but the dispute itself does raise a federal question?</p>\n<p>2) If not, can a preempted state-law counterclaim supply federal subject matter jurisdiction?</p>\n",
+    "citation": {
+        "volume": "556",
+        "page": "49",
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/19515"
+    },
+    "term": "2008",
+    "description": "A case in which the Court held that a federal court may \"look through\" a Section 4 petition to determine whether the claim establishes federal subject matter jurisdiction.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/556/49/",
+    "facts_of_the_case": "<p>Discover Bank filed this suit in the United States District Court for the District of Maryland in order to compel arbitration on certain counterclaims brought by Betty Vaden, a card member, in a state court suit against her. Discover had originally brought the state suit to recover on Vaden's outstanding credit card balance, but Vaden counterclaimed that certain fees and interest rates had been charged in violation of state law. The district court held that Vaden's usury claims were preempted by federal law and that the agreement clearly contained a provision compelling arbitration in such cases</p>\n<p>The U.S. Court of Appeals for the Fourth Circuit agreed with the district court, holding that Discover was the \"real party in interest\" and that Vaden's claims were therefore preempted by the Federal Deposit Insurance Act. Furthermore, Vaden had failed to overcome the presumption that she received the properly mailed arbitration agreement. Based on these conclusions, the Ninth Circuit granted Discover's motion to compel arbitration.</p>\n",
+    "conclusion": "<p>No and No. The Supreme Court held that a federal court may \"look through\" a Section 4 petition to determine whether the claim establishes federal subject matter jurisdiction. However in this case, the Court recognized the dispute did not bring itself under federal subject matter jurisdiction. With Justice Ruth Bader Ginsburg writing for the majority and joined by Justice Antonin G. Scalia, Justice Anthony M. Kennedy, Justice David H. Souter, and Justice Clarence Thomas, the Court reasoned that Discover's claim against Mr. Vaden did not \"arise under\" federal law nor did Mr. Vaden's \"preempted\" counterclaims create federal subject matter jurisdiction.</p>\n<p>Chief Justice John G. Roberts concurred in part and dissented in part, and was joined by Justice John Paul Stevens, Justice Stephen G. Breyer, and Justice Samuel A. Alito. He agreed with the majority in that a federal court asked to compel arbitration should \"look through\" the dispute to determine whether it has subject matter jurisdiction. However, he disagreed that federal subject matter jurisdiction was not found in this case, as the controversy between the parties was controlled by the Federal Deposit Insurance Act.</p>\n"
+}

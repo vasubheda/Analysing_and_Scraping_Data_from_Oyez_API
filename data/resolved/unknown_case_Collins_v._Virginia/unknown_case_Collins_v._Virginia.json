@@ -1,0 +1,42 @@
+{
+    "ID": 62889,
+    "name": "Collins v. Virginia",
+    "href": "https://api.oyez.org/cases/2017/16-1027",
+    "view_count": 0,
+    "docket_number": "16-1027",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1506574800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54118"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1515477600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54172"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1527570000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54280"
+        }
+    ],
+    "question": "<p>Does the Fourth Amendment's automobile exception permit a police officer without a warrant to enter private property in order to search a vehicle parked a few feet from the house?</p>\n",
+    "citation": {
+        "volume": "584",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27538"
+    },
+    "term": "2017",
+    "description": "A case in which the Court held that a police officer cannot, under the Fourth Amendment, enter private property in order to conduct a warrantless search of a vehicle parked a few feet from the house.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/584/16-1027/",
+    "facts_of_the_case": "<p>On two occasions, a particular unique-looking motorcycle evaded Albemarle police officers after they observed the rider violating traffic laws. After some investigation, one of the officers located the house where the suspected driver of the motorcycle lived and observed what appeared to be the same motorcycle covered by a tarp in the driveway. The officer lifted the tarp and confirmed that it was the motorcycle (which was also stolen) that had eluded detainment on multiple occasions. The officer waited for the suspect to return home, at which point he went to the front door to inquire about the motorcycle. Initially the suspect denied knowing anything about it but eventually confessed that he had bought the motorcycle knowing that it had been stolen. The officer arrested the suspect for receipt of stolen property.</p>\n<p>At trial, the defendant sought to suppress the motorcycle as evidence on the grounds that the police officer conducted an illegal warrantless search (by lifting the tarp covering the motorcycle parked in the driveway) that led to its discovery. The trial court held that the search was based on probable cause and justified under the exigent circumstances automobile exceptions to the Fourth Amendment\u2019s warrant requirement and convicted the defendant. The appeals court affirmed on the grounds of exigent circumstances, and the Virginia Supreme Court affirmed as well, but under the automobile exception only. The Virginia Supreme Court reasoned that the automobile exception applies even when the vehicle is not \u201cimmediately mobile\u201d and applies to vehicles parked on private property.</p>\n",
+    "conclusion": "<p>The Fourth Amendment's automobile exception does not permit a police officer without a warrant to enter private property to search a vehicle parked a few feet from the house. In an 8\u20131 opinion authored by Justice Sonia Sotomayor, the Court held that its own Fourth Amendment jurisprudence regarding the home and the \"curtilage\" of one's home (the area immediately surrounding it) clearly prevents officers from entering and searching without a warrant, even if the object searched is an automobile. The Court found that the area searched (the back of the driveway) was indeed the curtilage of the defendant's home, and thus the Fourth Amendment's highest degree of protection applies there. Although warrantless searches of automobiles are permissible in limited circumstances, the warrantless search of an automobile parked within the curtilage of one's home is not permissible.</p>\n<p>Justice Clarence Thomas wrote a concurring opinion to express doubt about the Court's authority to impose the exclusionary rule on the states.</p>\n<p>Justice Samuel Alito wrote a dissenting opinion in which he opined that the automobile exception should apply in this case and that the search was in no way \"unreasonable.\"</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55646,
+    "name": "United Student Aid Funds Inc. v. Espinosa",
+    "href": "https://api.oyez.org/cases/2009/08-1134",
+    "view_count": 0,
+    "docket_number": "08-1134",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1245042000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40402"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1259647200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40403"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1269320400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40404"
+        }
+    ],
+    "question": "<p>1) Does the procedure by which a debtor merely includes the discharge of his student loans in his Chapter 13 plan, which is then mailed to the creditor, sufficient to meet the requirements of due process?</p>\n<p>2) Are Chapter 13 plans that discharge student loans void if the debtor fails to prove \"undue hardship\" in an adversary proceeding?</p>\n",
+    "citation": {
+        "volume": "559",
+        "page": "260",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19569"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that Chapter 13 bankruptcy plans which discharge student loans are not void if the debtor fails to provide evidence of \"undue hardship\" in an adversary proceeding.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/559/260/",
+    "facts_of_the_case": "<p>Francisco J. Espinosa filed for Chapter 13 bankruptcy and proposed a plan that provided for the repayment of student loans to United Student Aid Funds, Inc. (\"Funds\"). After Funds was notified, it filed a proof of claim roughly $4,500 greater than that was included in the plan. The bankruptcy court approved the original plan and Funds was notified it would be paid the lower figure. Mr. Espinosa subsequently completed the plan and his loans were discharged by the court. Three years later, Funds began intercepting Mr. Espinosa's income tax refunds to satisfy the unpaid portion of his student loans (the $4,500 figure). Mr. Espinosa petitioned the bankruptcy court for an order holding Funds in contempt for violating the discharge injunction. In response, Funds argued that Mr. Espinosa's student loans were improperly discharged because student loans cannot be discharged unless the debtor can show \"undue hardship.\" This can only be shown in an adversary proceeding, which did not take place. Moreover, it argued the lack of an adversary proceeding denied Funds its Fourteenth Amendment due process rights. These arguments were rejected by the bankruptcy court, but, on appeal, were accepted by the Arizona federal district court.</p>\n<p>On appeal, the U.S. Court of Appeals for the Ninth Circuit reversed. It held that simply because Mr. Espinosa failed to comply with additional procedures required by the Bankruptcy Code to discharge student loan debt was not sufficient to set aside the discharge of his student loans, considering Funds had actually been notified of the Chapter 13 plan. It also held that Fund's due process rights were not violated because Fund's had received actual notice of Mr. Espinosa's Chapter 13 plan, even though he had not commenced the adversary proceedings.</p>\n",
+    "conclusion": "<p>Yes. No. The Supreme Court held that the Bankruptcy Court's confirmation order is not void. With Justice Clarence Thomas writing for a unanimous Court, it reasoned that because the Bankruptcy Court's order was final, it could only be rendered void if the order was premised on either a jurisdictional error or on a violation of due process. Here, there was neither a jurisdictional error nor a violation of due process. The Court further reasoned that the Bankruptcy Court's failure to find undue hardship was mere legal error and did not rise to the level of a jurisdictional or due process error that would render the order void.</p>\n"
+}

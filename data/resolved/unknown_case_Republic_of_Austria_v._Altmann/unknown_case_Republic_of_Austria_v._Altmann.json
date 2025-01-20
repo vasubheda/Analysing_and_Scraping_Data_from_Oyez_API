@@ -1,0 +1,42 @@
+{
+    "ID": 55126,
+    "name": "Republic of Austria v. Altmann",
+    "href": "https://api.oyez.org/cases/2003/03-13",
+    "view_count": 0,
+    "docket_number": "03-13",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1064898000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38969"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1077688800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38970"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1086584400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38971"
+        }
+    ],
+    "question": "<p>Does the Foreign Sovereign Immunities Act of 1976 apply to actions that took place before its passage?</p>\n",
+    "citation": {
+        "volume": "541",
+        "page": "677",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19055"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/541/677/",
+    "facts_of_the_case": "<p>Maria Altmann learned that the valuable artwork owned by her uncle had been either seized by the Nazi's or taken by Austria after World War II. She sued in American federal court to recover six paintings from the Austrian Gallery. She filed the suit under the Foreign Sovereign Immunities Act of 1976 (FSIA), which allows suits against foreign nations in cases involving \"rights to property taken in violation of international law.\" Austria, however, claimed that the FSIA did not apply in this case because the paintings were taken in the 1940s, when the United States embraced a different - and more extensive - idea of immunity that would have barred the suit. Because the Act did not explicitly state that it applied retroactively (that is, to actions taken before it was passed) Austria claimed that it was entitled to this broader definition of immunity.</p>\n<p>The district court sided with Altmann, holding that the FSIA applied retroactively. A Ninth Circuit Court of Appeals panel affirmed.</p>\n",
+    "conclusion": "<p>Yes. In a 6-to-3 decision written by Justice John Paul Stevens, the Court ruled that, while the Foreign Sovereign Immunities Act of 1976 does not explicitly state that it should be applied to actions that took place before its passage, there are strong indications in the text of the statute that Congress intended it to apply retroactively. Justice Stevens wrote that, under the Act, immunity \"claims are 'henceforth' to be decided by the courts. ... [T]his language suggests Congress intended courts to resolve all such claims 'in conformity with the principles set forth' in the Act, regardless of when the underlying conduct occurred.\"</p>\n"
+}

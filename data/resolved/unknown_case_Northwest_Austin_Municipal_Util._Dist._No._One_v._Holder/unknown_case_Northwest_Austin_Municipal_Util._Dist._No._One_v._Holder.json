@@ -1,0 +1,42 @@
+{
+    "ID": 55566,
+    "name": "Northwest Austin Municipal Util. Dist. No. One v. Holder",
+    "href": "https://api.oyez.org/cases/2008/08-322",
+    "view_count": 0,
+    "docket_number": "08-322",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1231480800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40178"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1240981200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40179"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1245646800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40180"
+        }
+    ],
+    "question": "<p>1) Does Section 4(a) of the Voting Rights Act (\"VRA\") permit any \"political subunit\" of a \"covered state\" from seeking exemption from Section 5 of the VRA when it permits \"political subdivisions\" within \"covered states\" from seeking such exemptions?</p>\n<p>2) Was the 2006 extension of Section 5 of the Voting Rights Act a valid exercise of congressional power when the <em>Congressional Record</em> indicated no persistent patter of \"covered states\" attempting to evade the enforcement of the VRA?</p>\n",
+    "citation": {
+        "volume": "557",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20840"
+    },
+    "term": "2008",
+    "description": "A case in which the Court held that the Voting Rights Act (VRA) permits all political subdivisions to seek bailout from the preclearance requirements of the VRA.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>Northwest Austin Municipal Utility District Number One (\"Northwest\") sought a declaratory judgment exempting it from Section 5 of the Voting Rights Act of 1965 and alternatively argued that Section 5 was unconstitutional. Section 5 prohibits \"covered jurisdictions\" \u2013 states and political subdivisions with histories of racial discrimination in voting \u2013 from changing their voting procedures without permission from either the Attorney General or a three-judge panel of the U.S. District Court for the District of Columbia.</p>\n<p>The district court held that Northwest was not eligible for exemption from Section 5 reasoning that it did not qualify as a \"political subdivision\" as defined in the Voting Rights Act. Moreover, the court rejected Northwest's argument that Congress' 2006 extension of Section 5 for another 25 years made the provision unconstitutional. Rather, the court held that given the documentation of contemporary racial discrimination in \"covered jurisdictions\", Congress acted rationally in extending the provision, rendering Section 5 constitutional.</p>\n",
+    "conclusion": "<p>Yes. Not answered. The Supreme Court held that the VRA permits all political subdivisions, including the district, to seek to bailout from the preclearance requirements of the VRA. With Chief Justice John G. Roberts writing for the majority and joined by Justices John Paul Stevens, Antonin G. Scalia, Anthony M. Kennedy, David H. Souter, Ruth Bader Ginsburg, Stephen G. Breyer, and Samuel A. Alito, and in part by Justice Clarence Thomas, the Court reasoned that the language of the VRA did not constrict the availability of a bailout for political subunits like Northwest Municipal. Moreover, the Court reasoned that considering that only 17 of 12,000 jurisdictions covered by the VRA had bailed out suggested that Congress had never intended for it to be so difficult to bailout.</p>\n<p>Justice Thomas wrote separately, concurring in the judgment in part and dissenting in part. He criticized the Court for not addressing the constitutionality of Section 5 of the VRA. He argued that he thought it did in fact exceed Congress' power to enforce the 15th Amendment, rendering it unconstitutional.</p>\n"
+}

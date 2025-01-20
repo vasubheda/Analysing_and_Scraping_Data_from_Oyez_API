@@ -1,0 +1,42 @@
+{
+    "ID": 62839,
+    "name": "Patchak v. Zinke",
+    "href": "https://api.oyez.org/cases/2017/16-498",
+    "view_count": 0,
+    "docket_number": "16-498",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1493614800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54031"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1510034400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54114"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1519711200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54213"
+        }
+    ],
+    "question": "<p>Does a statute that directs the federal courts to \u201cpromptly dismiss\u201d a pending lawsuit but that does not amend the underlying substantive or procedural laws violate the Constitution\u2019s separation of powers principles?</p>\n",
+    "citation": {
+        "volume": "583",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27516"
+    },
+    "term": "2017",
+    "description": "A case in which the Court held that a statute that directs the federal courts to \"promptly dismiss\u201d certain lawsuits without affecting any underlying laws does not violate the Constitution\u2019s separation of powers principles.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/583/16-498/",
+    "facts_of_the_case": "<p>The Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians (the Gun Lake Tribe) is an Indian tribe in western Michigan that was first formally recognized by the U.S. Department of the Interior in 1999. In 2001, the Tribe petitioned for a tract of land called the Bradley Property to be put into trust for the Tribe\u2019s use under the Indian Reorganization Act (IRA), 25 U.S.C. \u00a7 465, and the Bureau of Indian Affairs granted the petition in 2005. The Tribe subsequently constructed and opened the Gun Lake Casino on the Bradley Property.</p>\n<p>David Patchak lives in a rural area near the Bradley Property and asserts that he moved there because of its unique rural setting and that the construction and operation of the casino caused him injury. Patchak filed a lawsuit against the Secretary of the Interior and other defendants, claiming that the Secretary lacked the authority to put the Bradley Property into trust for the Gun Lake Tribe. That lawsuit was argued up to the U.S. Supreme Court on a threshold issue of standing, and after the Supreme Court held that Patchak had standing to sue, President Obama signed into law the Gun Lake Act, which provided, among other things, that any legal action relating to the Bradley Property \u201cshall not be filed or maintained in a Federal court and shall be promptly dismissed.\u201d</p>\n",
+    "conclusion": "<p>In a plurality opinion authored by Justice Thomas, the Court affirmed the ruling by the D.C. Circuit, concluding that Section 2(b) of the Gun Lake Act did not violate Article III of the Constitution. The Court stated that it was not an impermissible exercise of legislative power for Congress to change the law applicable to pending lawsuits, even if it made one side much more likely to prevail. The Court distinguished this scenario from legislative attempts to compel a particular result under old law, which would have violated Article III. The Court explained that by stripping federal courts of jurisdiction in actions relating to the property at issue, \u00a72(b) \u201cchanged\u201d the law, and that making this type of change was a valid exercise of legislative power. Justice Breyer filed a concurring opinion. Justice Ginsburg filed a concurring opinion, and Justice Sotomayor joined. Justice Sotomayor filed an opinion concurring in the judgment. Justice Roberts filed a dissenting opinion, and Justices Kennedy and Gorsuch joined.</p>\n"
+}

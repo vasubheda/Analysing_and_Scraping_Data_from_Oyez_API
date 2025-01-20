@@ -1,0 +1,35 @@
+{
+    "ID": 55009,
+    "name": "City of Columbus v. Ours Garage and Wrecker Service, Inc.",
+    "href": "https://api.oyez.org/cases/2001/01-419",
+    "view_count": 0,
+    "docket_number": "01-419",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1019538000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38747"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1024549200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38748"
+        }
+    ],
+    "question": "<p>May the state power reserved in 49 USC section 14501(c)(2)(A) be delegated to municipalities, permitting them to exercise safety regulatory authority over local tow-truck operations?</p>\n",
+    "citation": {
+        "volume": "536",
+        "page": "424",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/18938"
+    },
+    "term": "2001",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/536/424/",
+    "facts_of_the_case": "<p>Pursuant to 49 USC section 14501(c)(2)(A), federal preemption prescriptions relating to motor carriers \"shall not restrict the safety regulatory authority of a State with respect to motor vehicles.\" Columbus, Ohio, extensively regulates the operation of tow trucks seeking to pick up vehicles within city limits. Ours Garage and Wrecker Service, Inc., a tow-truck operator and a trade association of such operators, sought to enjoin enforcement of the City's tow-truck regulations on the ground that they were preempted. The District Court granted Ours Garage summary judgment. In affirming, the Court of Appeals relied on precedent that section 14501(c)(1)'s preemption rule explicitly applies to \"a State [or] political subdivision of a State,\" while the exception for safety regulations, section 14501(c)(2)(A), refers only to the \"authority of a State.\" The appellate court also noted that precedent determined that the contrast in statutory language indicated that Congress meant to limit the safety exception to States alone.</p>\n",
+    "conclusion": "<p>Yes. In a 7-2 opinion delivered by Justice Ruth Bader Ginsburg, the Court held that section 14501(c) does not bar a State from delegating to municipalities and other local units the State's authority to establish safety regulations governing motor carriers of property, including tow trucks. \"A locality, as section 14501(c) recognizes, is a 'political subdivision' of the State,\" wrote Justice Ginsburg. \"Ordinarily, a political subdivision may exercise whatever portion of state power the State...chooses to delegate to the subdivision. Absent a clear statement to the contrary, Congress' reference to the 'regulatory authority of a State' should be read to preserve, not preempt, the traditional prerogative of the States to delegate their authority to their constituent parts.\" Justice Antonin Scalia wrote a dissent, in which Justice Sandra Day O'Connor joined.</p>\n"
+}

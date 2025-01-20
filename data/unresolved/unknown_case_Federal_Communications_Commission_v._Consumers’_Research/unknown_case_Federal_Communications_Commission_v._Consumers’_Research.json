@@ -1,0 +1,26 @@
+{
+    "ID": 63734,
+    "name": "Federal Communications Commission v. Consumers\u2019 Research",
+    "href": "https://api.oyez.org/cases/2024/24-354",
+    "view_count": 0,
+    "docket_number": "24-354",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1732255200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55569"
+        }
+    ],
+    "question": "<p>Did Congress violate the Constitution in the way it delegated power to the FCC to collect Universal Service Fund money, and did the FCC violate the Constitution by letting a private, industry-controlled company make those collection decisions?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28055"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether Congress violated the Constitution in the way it gave power to the FCC to collect Universal Service Fund money, and whether the FCC then violated the Constitution by letting a private, industry-controlled company make those collection decisions.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/24-354/"
+}

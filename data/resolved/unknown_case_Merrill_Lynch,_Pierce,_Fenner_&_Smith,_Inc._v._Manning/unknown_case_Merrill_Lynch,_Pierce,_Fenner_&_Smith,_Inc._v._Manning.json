@@ -1,0 +1,42 @@
+{
+    "ID": 62319,
+    "name": "Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Manning",
+    "href": "https://api.oyez.org/cases/2015/14-1132",
+    "view_count": 0,
+    "docket_number": "14-1132",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1435640400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52788"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1448949600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53285"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1463374800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53594"
+        }
+    ],
+    "question": "<p>Does the Securities Exchange Act of 1934 provide for federal jurisdiction over state law claims seeking to establish liability based on violations of the federal Act?</p>\n",
+    "citation": {
+        "volume": "578",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27119"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that the Securities Exchange Act of 1934 creates the same test for establishing federal jurisdiction as the general test for whether a federal court has jurisdiction: Whether the case \u201carises under\u201d federal law.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/578/14-1132/",
+    "facts_of_the_case": "<p>The plaintiffs are shareholders in Escala Group, Inc. (Escala), and the defendants are a group of financial institutions that engage in equity trading. The plaintiffs sued the defendants in state court and alleged that the defendants participated in the short selling of Escala stock, which increased the pool of tradeable shares by electronically manufacturing counterfeit shares, thereby causing the plaintiffs\u2019 shares to decline in value and dilute their voting rights. The plaintiffs\u2019 claims were based on state law, but the Amended Complaint repeatedly mentioned a 2004 regulation that was adopted by the Securities and Exchange Commission (SEC) pursuant to the authority granted to it by the Securities Exchange Act of 1934, and no parties dispute the fact that the claims included violations of federal law. The defendants sought to remove the case from state court to federal court based on the question of whether the federal court has jurisdiction over the state law issues. The plaintiffs sought to bring the case back to state court, and the magistrate judge recommended that the district court grant the plaintiffs\u2019 motion. The district court disagreed, and the issue went to the U.S. Court of Appeals for the Third Circuit. The appellate court held that the case should properly be heard in state court.</p>\n",
+    "conclusion": "<p>The Securities Exchange Act of 1934 creates the same test for establishing federal jurisdiction as the general test for whether a federal court has jurisdiction: Whether the case \u201carises under\u201d federal law. Justice Elena Kagan delivered the opinion for the 8-0 majority. The Court held that the text of the Securities Exchange Act that relates to jurisdiction should be interpreted as conferring the same jurisdiction as the general federal question statute because both the relevant language and judicial precedent support that reading. Although the language of the statutes are not identical, there is no indication that Congress intended for the courts to use a different test than the one that already existed. Additionally, the Court had previously rejected the more expansive reading for which the petitioners advocated and has traditionally read statutory grants of jurisdiction as not altering the usual balance of jurisdiction between state and federal courts.</p>\n<p>In his opinion concurring in the judgment, Justice Clarence Thomas wrote that the express language of the Securities Exchange Act provides the appropriate test. Under that Act, a suit that is \u201cbrought to enforce\u201d Exchange Act requirements may be heard in federal court; therefore, if a claim depends on a breach of a statutory requirement, the Act grants federal jurisdiction. Applying this test in this case, Justice Thomas argued that the case was properly within state court jurisdiction rather than federal. Justice Sonia Sotomayor joined in the opinion concurring in the judgment.</p>\n"
+}

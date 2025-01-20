@@ -1,0 +1,35 @@
+{
+    "ID": 54702,
+    "name": "Your Home Visiting Nurse Services, Inc. v. Shalala",
+    "href": "https://api.oyez.org/cases/1998/97-1489",
+    "view_count": 0,
+    "docket_number": "97-1489",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                912578400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38170"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                919749600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38171"
+        }
+    ],
+    "question": "<p>Can Medicare-reimbursed health care providers appeal a fiscal intermediary's refusal to reopen previous reimbursement decisions?</p>\n",
+    "citation": {
+        "volume": "525",
+        "page": "449",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18631"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/525/449/",
+    "facts_of_the_case": "<p>Your Home Visiting Nurse Services, Inc. provides home health care services to Medicare beneficiaries. Under the Medicare Act, providers seeking reimbursement for covered health services submit a yearly cost report to a fiscal intermediary, usually a private insurance company. The intermediary then issues a Notice of Program Reimbursement (NPR) determining the provider's reimbursement. The Act allows the provider up to 180 days to appeal a reimbursement determination to the Provider Reimbursement Review Board. The provider also has up to three years to ask the intermediary to reopen a determination of the Board. Your Home Visiting Nurse submitted cost reports for 1989 to its intermediary and did not appeal the reimbursement decision. However, within three years Your Home Visiting Nurse asked its intermediary to reopen its 1989 reimbursement determination on the ground that \"new and material\" evidence demonstrated entitlement to additional compensation. The intermediary denied the request. Your Home Visiting Nurse appealed the denial to the Board, which dismissed the appeal on the ground that lacked it jurisdiction to review an intermediary's refusal to reopen a reimbursement determination. Your Home Visiting Nurse then brought action in Federal District Court, seeking review of the Board's dismissal and of the intermediary's refusal to reopen. The District Court agreed that the Board lacked jurisdiction to review the refusal to reopen. Moreover, it rejected Your Home Visiting Nurse's contention that the federal-question statute or the mandamus statute gave the District Court jurisdiction to review the intermediary's refusal directly. Subsequently, the court dismissed the complaint. The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>No. In a unanimous decision, announced by Justice Antonin Scalia, the Court ruled that the Board does not have jurisdiction to review a fiscal intermediary's refusal to reopen a reimbursement determination. Moreover, the Court held that the federal-question statute and mandamus statute do not entitle Your Home Visiting Nurse to judicial review of the intermediary's reopening decision.</p>\n"
+}

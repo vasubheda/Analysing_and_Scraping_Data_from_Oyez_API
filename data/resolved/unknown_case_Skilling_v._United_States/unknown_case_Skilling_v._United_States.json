@@ -1,0 +1,42 @@
+{
+    "ID": 55710,
+    "name": "Skilling v. United States",
+    "href": "https://api.oyez.org/cases/2009/08-1394",
+    "view_count": 0,
+    "docket_number": "08-1394",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1255410000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40560"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1267423200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40561"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1277355600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40562"
+        }
+    ],
+    "question": "<p>1) Does the \"Honest Services\" fraud statute, 18 U.S.C. Section 1346, require the government to prove that defendant's conduct was intended to achieve \"private gain\", and, if not, is Section 1346 unconstitutionally vague?</p>\n<p>2) When the presumption of jury prejudice arises because of widespread community impact of the defendant's alleged conduct and widespread inflammatory pretrial publicity, may the government rebut the presumption of prejudice, and, if so, must the government prove beyond a reasonable doubt that no juror was actually prejudiced?</p>\n",
+    "citation": {
+        "volume": "561",
+        "page": "358",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19632"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that the former CEO of Enron received a fair trial before an impartial jury, and that the federal law that makes it a crime to deprive someone of a fair and honest trial only applies to bribery and kickback schemes.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/561/358/",
+    "facts_of_the_case": "<p>A Texas federal district court convicted Jeffrey Skilling of conspiracy, securities fraud, making false representations to auditors, and insider trading. Mr. Skilling was the former C.E.O. of Enron Corp. On appeal, he argued that the government prosecuted him under an invalid legal theory and that the jury was biased.</p>\n<p>The United States Court of Appeals for the Fifth Circuit affirmed the conviction, but vacated Mr. Skilling's sentence and remanded the case for resentencing. The court first held that the government's theory under the \"Honest Services\" fraud statute was valid. It reasoned that it was immaterial whether Enron's board of directors knew or even tacitly approved of Mr. Skilling's fraudulent conduct when he withheld information that would lead a reasonable employer to change its conduct. Moreover, the court held that while Mr. Skilling proved that there was sufficient inflammatory and pervasive pretrial publicity to require a presumption that prejudice tainted the jury, the government met its burden to show that jury screening was adequate, and that the district court did not empanel any juror who was unconstitutionally prejudiced.</p>\n",
+    "conclusion": "<p>Not answered, Not answered. The Supreme Court held that pretrial publicity and community prejudice did not prevent Mr. Skilling from obtaining a fair trial. He did not establish that a presumption of juror prejudice arose or that actual bias infected the jury that tried him. With Justice Ruth Bader Ginsburg writing for the majority, the Court noted substantial differences between Mr. Skilling's case and in those where a presumption of juror prejudice arose. Most notably, the Court recognized that Mr. Skilling's trial took place in Houston, the fourth most populous city in the United States, as opposed to a local hamlet where it would more difficult to weed out biased jurors. The Court also recognized that the jury that convicted Mr. Skilling acquitted him of nine other counts. The Court further held that Section 1346, which proscribes fraudulent deprivations of \"the intangible right of honest services,\" is properly confined to cover only bribery and kickback schemes. Here, Mr. Skilling's alleged misconduct entailed no bribe or kickback, and thus did not fall within Section 1346's coverage.</p>\n<p>Justice Antonin Scalia, joined by Justices Clarence Thomas and Anthony M. Kennedy, concurred in part and concurred in the judgment. He agreed with the Court's holding and reasoning as to Mr. Skilling's jury impartiality challenge. He also agreed that the Fifth Circuit's decision with respect to the \"honest services fraud\" claim warranted reversal, but on different grounds. He reasoned that Section 1346 is impermissibly vague and therefore violates the constitution. Justice Samuel A. Alito also concurred in part and concurred in the judgment. He clarified that his understanding of the \"impartial jury\" requirement dictated by the Sixth Amendment requires only that \"no biased juror is actually seated at trial.\" Justice Sonia Sotomayor, joined by Justices John Paul Stevens and Stephen G. Breyer, concurred in part and dissented in part. She agreed with the Court's resolution of the \"honest services fraud\" claim. However, she disagreed that Mr. Skilling received a fair trial considering the hostility that emerged in Houston after the collapse of Enron.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 63139,
+    "name": "McKinney v. Arizona",
+    "href": "https://api.oyez.org/cases/2019/18-1109",
+    "view_count": 0,
+    "docket_number": "18-1109",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1560142800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54526"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1576044000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54628"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1582610400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54658"
+        }
+    ],
+    "question": "<p>After the Ninth Circuit identifies an <em>Eddings</em> error, may the state appellate court reweigh the aggravating and mitigating circumstances, or must a jury resentence the defendant?</p>\n",
+    "citation": {
+        "volume": "589",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27686"
+    },
+    "term": "2019",
+    "description": "A case in which the Court held that a state court of appeals, not a jury, can reweigh aggravating and mitigating circumstances on habeas corpus review in death penalty cases.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/589/18-1109/",
+    "facts_of_the_case": "<p>By way of relevant background, James McKinney\u2019s childhood was \u201chorrific\u201d due to poverty, physical and emotional abuse\u2014all detailed in the court filings. Around age 11, he began drinking alcohol and smoking marijuana, and he dropped out of school in the seventh grade. He repeatedly tried to run away from home and was placed in juvenile detention.</p>\n<p>In 1991, when McKinney was 23, he and his half-brother Michael Hedlund committed two burglaries that resulted in two deaths. The state of Arizona tried McKinney and Hedlund before dual juries. McKinney\u2019s jury found him guilty of two counts of first-degree murder (without specifying whether it reached that verdict by finding premeditation or by finding felony murder), and Hedlund\u2019s jury found him guilty of one count of first-degree murder and one count of second-degree murder.</p>\n<p>At McKinney\u2019s capital sentencing hearing (before a judge), a psychologist testified that he had diagnosed McKinney with PTSD \u201cresulting from the horrific childhood McKinney had suffered.\u201d The psychologist further testified that witnessing violence could trigger McKinney\u2019s childhood trauma and produce \u201cdiminished capacity.\u201d The trial judge credited the psychologist\u2019s testimony, but under Arizona law at the time, the judge was prohibited from considering non-statutory mitigating evidence that the judge found to be unconnected to the crime. Because McKinney\u2019s PTSD was not connected to the burglaries, the judge could not consider it mitigating evidence and thus sentenced him to death.</p>\n<p>The Arizona Supreme Court affirmed McKinney\u2019s death sentence on appeal. In 2003, McKinney filed a habeas petition in federal court. The district court denied relief, and a panel of the Ninth Circuit affirmed. The Ninth Circuit granted rehearing en banc and held that the Arizona courts had violated the U.S. Supreme Court\u2019s decision in <a href=\"https://www.oyez.org/cases/1981/80-5727\"><em>Eddings v. Oklahoma</em>, 455 U.S. 104 (1982)</a>, by refusing to consider McKinney\u2019s PTSD. In Eddings, the Court held that a sentencer in a death penalty case may not refuse consider any relevant mitigating evidence. A violation of <em>Eddings</em>, the Ninth Circuit held, required resentencing. Thus, the Ninth Circuit remanded to the federal district court to either correct the constitutional error or vacate the sentence and impose a lesser sentence. Arizona moved for independent review of McKinney\u2019s sentence by the Arizona Supreme Court; McKinney opposed the motion on the ground that he was entitled to resentencing by a jury under the U.S. Supreme Court\u2019s decision in <a href=\"https://www.oyez.org/cases/2001/01-488\"><em>Ring v. Arizona</em>, 536 U.S. 584 (2002)</a>, which held that juries, rather than judges, must make the findings necessary to impose the death penalty. The Arizona Supreme Court disagreed, finding that McKinney was not entitled to resentencing by a jury because his case was \u2018final\u2019 before the U.S. Supreme Court issued its decision in <em>Ring</em>.</p>\n",
+    "conclusion": "<p>After a finding of a capital sentencing (<em>Eddings</em>) error during habeas corpus review, the state appellate court, rather than the jury, may reweigh the aggravating and mitigating circumstances to resentence the defendant. Justice Brett Kavanaugh authored the 5-4 majority opinion for the Court.</p>\n<p>In <em>Clemons v. Mississippi</em>, 494 U.S. 738 (1990), the Supreme Court a state appellate court may conduct the reweighing of aggravating and mitigating circumstances after a capital sentencing error was found on collateral review. Although that case involved improperly <em>considering</em> an <em>aggravating</em> circumstance, and this case involved improperly <em>ignoring</em>\u00a0a <em>mitigating</em> circumstance, the Court found no meaningful difference in the context. Thus, the Court found, <em>Clemons</em> determined the outcome in this case. The Court found unpersuasive McKinney\u2019s argument that because the Arizona trial court, not a jury, made the initial aggravating circumstances finding that made him eligible for the death penalty, a jury must weigh the aggravating and mitigating circumstances under the Court\u2019s decision in <em>Ring</em>. Agreeing with the court below, the Court found that McKinney\u2019s case was \u201cfinal\u201d before <em>Ring</em> was decided, and that case does not apply retroactively to this situation.</p>\n<p>Justice Ruth Bader Ginsburg wrote a dissenting opinion, in which Justices Stephen Breyer, Sonia Sotomayor, and Elena Kagan joined. Justice Ginsburg argued that the Constitution and the Supreme Court\u2019s precedent require the application of new rules of constitutional law to cases currently on direct review (with two exceptions, neither of which applies, by the Court\u2019s own holding). Thus, Justice Ginsburg, argued, the \u201cpivotal question\u201d in this case is whether McKinney\u2019s case is currently on direct review, in which case <em>Ring</em> applies (retroactively), or on collateral review, in which case <em>Ring</em> does not apply. McKinney\u2019s first appeal of a criminal conviction is \u201cthe archetype\u201d of direct review, and his renewal of that first appeal \u201ccannot sensibly be characterized as anything other than direct review.\u201d As such, Justice Ginsburg argued that the Arizona Supreme Court\u2019s proceeding presently before the Court is a direct review and thus that <em>Ring</em> applies, making McKinney\u2019s death sentences unconstitutional.\u00a0</p>\n"
+}

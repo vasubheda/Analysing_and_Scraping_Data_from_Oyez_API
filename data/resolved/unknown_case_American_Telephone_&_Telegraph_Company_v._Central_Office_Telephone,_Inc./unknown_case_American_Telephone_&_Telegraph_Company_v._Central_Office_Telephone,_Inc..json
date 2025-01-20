@@ -1,0 +1,35 @@
+{
+    "ID": 54594,
+    "name": "American Telephone & Telegraph Company v. Central Office Telephone, Inc.",
+    "href": "https://api.oyez.org/cases/1997/97-679",
+    "view_count": 0,
+    "docket_number": "97-679",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                890632800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37972"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                897886800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37973"
+        }
+    ],
+    "question": "<p>Do the federally filed tariff requirements of section 203 of the Communications Act of 1934 pre-empt state-law claims?</p>\n",
+    "citation": {
+        "volume": "524",
+        "page": "214",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18523"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/524/214/",
+    "facts_of_the_case": "<p>Under the Communications Act of 1934, AT&amp;T must file \"tariffs\" containing all its charges for interstate services and all \"classifications, practices and regulations affecting such charges\" with the Federal Communications Commission (FCC). Under section 203(c) of the Act, a common carrier, such as AT&amp;T, may not \"extend to any person any privileges or facilities in such communication, or employ or enforce any classifications, regulations, or practices affecting such charges, except as specified in such [tariff].\"In 1989, AT&amp;T sold Central Office Telephone, Inc. its Software Defined Network, a long-distance service. Subsequently, Central Office experienced problems with the service and withdrew from the contract. Central Office sued AT&amp;T in Federal District Court, asserting state-law claims for breach of contract and for tortious interference with contractual relations for failure to deliver various service, provisioning, and billing options in addition to those set forth in the tariff. Ultimately, the Court of Appeals affirmed a jury's damages award.</p>\n",
+    "conclusion": "<p>Yes. In a 7-1 opinion delivered by Justice Antonin Scalia, the Court held that Communications Act's filed-tariff requirements pre-empt Central Office Telephone, Inc.'s state-law claims. Invoking the \"filed-rate\" doctrine, under which the rate a carrier duly files is the only lawful charge, the Court denied Central Office's claims of AT&amp;T's failure to fulfill promised preferences not specified in its tariff filed with the FCC. \"Because [Central Office Telephone, Inc.] asks for privileges not included in the tariff,\" wrote Justice Scalia, \"its state-law claims are barred in either case.\" Justice John Paul Stevens wrote a dissenting opinion. Justice Sandra Day O'Connor took no part in the consideration or decision of the case.</p>\n"
+}

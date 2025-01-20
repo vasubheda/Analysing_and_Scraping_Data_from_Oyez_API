@@ -1,0 +1,42 @@
+{
+    "ID": 62636,
+    "name": "Ross v. Blake",
+    "href": "https://api.oyez.org/cases/2015/15-339",
+    "view_count": 0,
+    "docket_number": "15-339",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1449813600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53355"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1459227600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53420"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1465189200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53709"
+        }
+    ],
+    "question": "<p>Is there a \"special circumstances\" exception to the Prison Litigation Reform Act\u2019s requirement to exhaust administrative remedies when the inmate erroneously believes that he satisfied the requirement by participating in an internal investigation?</p>\n",
+    "citation": {
+        "volume": "578",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27392"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that the Prison Litigation Reform Act\u2019s requirement to exhaust administrative remedies does not have a \u201cspecial circumstances\u201d exception.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/578/15-339/",
+    "facts_of_the_case": "<p>On June 21, 2007, Lieutenants Michael Ross and James Madigan were escorting Shaidon Blake from his cell when Madigan shoved Blake several times. The incident escalated to Madigan punching Blake in the face several times with a key ring wrapped around his fingers while Ross held him. Blake was then taken to the medical unit and later diagnosed with nerve damage. Blake reported the incident to senior corrections officers, and the Internal Investigative Unit of the Maryland Department of Public Safety and Correctional Services conducted an investigation and issued a formal report. The formal report determined that Madigan had used excessive force against Blake and that Blake was not at fault in any way. Blake subsequently sued Ross and Madigan in addition to two supervisors and three government entities under 42 U.S.C. \u00a7 1983 and argued that they violated his constitutional rights by using excessive force.</p>\n<p>Nearly two years after Blake initially filed the suit, Ross filed an amended answer to the complaint that alleged that Blake had failed to exhaust his administrative remedies as the Prison Litigation Reform Act (PLRA) required. Ross also moved for summary judgment based on the same argument, and the district court granted the motion. The U.S. Court of Appeals for the Fourth Circuit reversed and held that the \u201cspecial circumstances\u201d exception to the PLRA\u2019s exhaustion requirement was met in this case. Because the internal investigation provided the correction officials time and opportunity to address the complaints internally and Blake reasonably believed that he had exhausted his administrative remedies by participating in an internal investigation, the requirements for the \u201cspecial circumstances\u201d exception to the PLRA were met.</p>\n",
+    "conclusion": "<p>The Prison Litigation Reform Act\u2019s requirement to exhaust administrative remedies does not have a \u201cspecial circumstances\u201d exception. Justice Elena Kagan delivered the opinion for the 8-0 majority. The Court held that the plain text of the statute clearly does not include any sort of special circumstances exception. Because no such exception exists, courts may not excuse a failure to exhaust administrative remedies, regardless of what \u201cspecial circumstances\u201d might exist. Judicial precedent interpreting the PLRA\u2019s exhaustion provision has continually taken this strict approach to construing the provision. Additionally, the precursor to the PLRA had a relatively weak exhaustion provision, so the PLRA is best interpreted as a stronger response to what came before it. However, the Court also noted that the PLRA\u2019s exhaustion scheme hinges on the \u201cavailability\u201d of remedies, and that there might be cases in which administrative remedies were not available. Because this case might be one in which remedies were not \u201cavailable\u201d within the meaning of the PLRA, the Court remanded the case.</p>\n<p>In his opinion concurring in part and dissenting in part, Justice Clarence Thomas wrote that the majority opinion impermissibly considered the existence of documents that were not properly before the Court because they were not part of the appellate record. In his separate opinion concurring in part, Justice Stephen G. Breyer wrote that the term \u201cexhaustion\u201d should be given the meaning it traditionally has in administrative law. Therefore, the term should include \u201cwell-established\u201d exceptions to exhaustion, though none were relevant to the disposition of this case.</p>\n"
+}

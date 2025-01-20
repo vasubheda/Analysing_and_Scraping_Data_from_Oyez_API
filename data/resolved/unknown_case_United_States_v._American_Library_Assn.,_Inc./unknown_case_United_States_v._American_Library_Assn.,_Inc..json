@@ -1,0 +1,35 @@
+{
+    "ID": 55058,
+    "name": "United States v. American Library Assn., Inc.",
+    "href": "https://api.oyez.org/cases/2002/02-361",
+    "view_count": 0,
+    "docket_number": "02-361",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1046844000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38840"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1056344400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38841"
+        }
+    ],
+    "question": "<p>Does Congress have the authority to require libraries to censor internet content in order to receive federal funding?</p>\n",
+    "citation": {
+        "volume": "539",
+        "page": "194",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/18987"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/539/194/",
+    "facts_of_the_case": "<p>Congress passed the Children's Internet Protection Act (CIPA) in 2000, requiring public libraries to install internet filtering software on their computers in order to qualify for federal funding. The American Library Association and others challenged the law, claiming that it improperly required them to restrict the First Amendment rights of their patrons. As stipulated by the law, a three judge panel heard the case, and ruled unanimously that the CIPA violated the First Amendment.</p>\n",
+    "conclusion": "<p>Yes. In a 6-3 judgment delivered by Chief Justice William H. Rehnquist, the Court held that, because public libraries' use of Internet filtering software does not violate their patrons' First Amendment rights, CIPA does not induce libraries to violate the Constitution and is a valid exercise of Congress's spending power. Justices Sandra Day O'Connor, Antonin Scalia, and Clarence Thomas joined the Chief Justice's opinion. Justices Anthony M. Kennedy and Stephen G. Breyer filed opinions concurring in the judgment. Both noted that CIPA imposed a comparatively small burden on library Internet users that was not disproportionate to any potential speech-related harm, especially in light of the libraries' ability to unblock sites. Justices John Paul Stevens and David H. Souter dissented. Justice Ruth Bader Ginsburg joined Justice Souter's dissent.</p>\n"
+}

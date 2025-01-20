@@ -1,0 +1,42 @@
+{
+    "ID": 63578,
+    "name": "Culley v. Marshall",
+    "href": "https://api.oyez.org/cases/2023/22-585",
+    "view_count": 0,
+    "docket_number": "22-585",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1681707600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55262"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1698642000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55352"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1715230800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55457"
+        }
+    ],
+    "question": "<p>What test must a district court apply when determining whether and when a post-deprivation hearing is required under the Due Process Clause?</p>\n",
+    "citation": {
+        "volume": "601",
+        "page": null,
+        "year": "2024",
+        "href": "https://api.oyez.org/case_citation/case_citation/27948"
+    },
+    "term": "2023",
+    "description": "A case in which the Court held that in civil forfeiture cases involving personal property, the Due Process Clause requires a timely forfeiture hearing but does not require a separate preliminary hearing.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/601/22-585/",
+    "facts_of_the_case": "<p>On February 17, 2019, Halima Tariffa Culley\u2019s son was pulled over by police while driving a car registered to his mother. Police arrested him, charged him with possession of marijuana and drug paraphernalia, and seized the vehicle. Culley unsuccessfully tried to retrieve the vehicle, and on February 27, 2019, the State of Alabama filed a civil asset forfeiture action in state court. After 20 months, the state court granted Culley summary judgment, finding that she was entitled to the return of her vehicle under Alabama\u2019s innocent-owner defense.</p>\n<p>Culley filed a class-action lawsuit in federal court claiming under 42 U.S.C. \u00a7 1983 that the failure of the state and local officials to provide a prompt post-deprivation hearing violated their rights under the Eighth and Fourteenth Amendments. The district court ruled for the defendants, and the U.S. Court of Appeals for the Eleventh Circuit affirmed as to those claims that were not moot.</p>\n",
+    "conclusion": "<p>In civil forfeiture cases involving personal property, the Due Process Clause requires a timely forfeiture hearing but does not require a separate preliminary hearing. Justice Brett Kavanaugh authored the 6-3 majority opinion of the Court.</p>\n<p>The Due Process Clause of the Fourteenth Amendment generally requires notice and a hearing before the government seizes property. However, the Court\u2019s precedents differentiate between real property, which can be neither moved nor concealed, personal property risks being removed, destroyed, or concealed before a civil forfeiture hearing. Thus, as the Court recognized in <em>United States v. $8,850</em> and <em>United States v. Von Neumann</em>, a timely post-seizure forfeiture hearing provides the constitutionally required process after seizing personal property. For such personal property, a separate preliminary hearing before the forfeiture hearing is not required. In contrast, in <em>United States v. James Daniel Good Real Property</em>, the Court held that the government must ordinarily provide notice and a hearing before seizing real property that is subject to civil forfeiture. Here, the property subject to forfeiture is a vehicle\u2014personal property\u2014so a timely post-seizure forfeiture hearing is all the Due Process Clause requires.</p>\n<p>Justice Neil Gorsuch authored a concurring opinion, in which Justice Clarence Thomas joined, agreeing in large part with the majority\u2019s reasoning and conclusions but writing separately to highlight some of the many larger questions this decision leaves unresolved about whether, and to what extent, contemporary civil forfeiture practices can be squared with the Constitution\u2019s promise of due process.</p>\n<p>Justice Sonia Sotomayor authored a dissenting opinion, in which Justices Elena Kagan and Ketanji Brown Jackson joined. Justice Sotomayor argued that the majority\u2019s opinion is too broad and prevents \u201clower courts from addressing myriad abuses of the civil forfeiture system.\u201d She, on the other hand, \u201cwould have decided only which due process test governs whether a retention hearing is required and left it to the lower courts to apply that test to different civil forfeiture schemes.\u201d</p>\n"
+}

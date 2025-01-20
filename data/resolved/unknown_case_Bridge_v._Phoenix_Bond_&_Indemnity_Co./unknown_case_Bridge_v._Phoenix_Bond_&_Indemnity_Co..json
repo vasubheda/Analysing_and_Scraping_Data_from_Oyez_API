@@ -1,0 +1,42 @@
+{
+    "ID": 55524,
+    "name": "Bridge v. Phoenix Bond & Indemnity Co.",
+    "href": "https://api.oyez.org/cases/2007/07-210",
+    "view_count": 0,
+    "docket_number": "07-210",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1199426400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40059"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1208149200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40060"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1212987600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40061"
+        }
+    ],
+    "question": "<p>May individuals and companies bring RICO lawsuits against defendants whose false statements directly harmed them, even if the defendants made these statements to a neutral third party?</p>\n",
+    "citation": {
+        "volume": "553",
+        "page": "639",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20757"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/553/639/",
+    "facts_of_the_case": "<p>Property owners in Cook County, Illinois neglected to pay their tax bills and the county acquired liens on their real estate. John Bridge and Phoenix Bond &amp; Indemnity Co. mailed competing bids for the real estate liens when they were auctioned off by the county. Property liens are distributed proportionally to the parties seeking the lowest penalty from the original owner. After Bridge and Phoenix tied for the best bid, they were required to mail affidavits to the county stating that they were bidding in their own names and were not related to any other bidders. Subsequently, Phoenix filed suit against Bridge claiming the affidavits he sent were false and hid the fact that he was actually in collusion with other bidders, thereby obtaining more than his fair share of the liens. The district court held Phoenix lacked standing because Bridge had made the false statements to the county, not Phoenix.</p>\n<p>The U.S. Court of Appeals for the Seventh Circuit reversed, stating that Phoenix had suffered injury in fact proximately caused by Bridge. In seeking certiorari, Bridge noted splits between the circuits on the issue of whether a plaintiff must plead and prove reliance on a false statement in a RICO claim. Although Phoenix suggested that proximate cause, not reliance or standing, was the ultimate issue in this case, the Court has decided to frame its review around the reliance issue.</p>\n",
+    "conclusion": "<p>Yes, they may. In a unanimous opinion written by Justice Clarence Thomas, the Court held in favor of Phoenix, stating that a plaintiff bringing a RICO claim based on mail fraud does not need to show that it actually relied on the defendant's misrepresentations. Plaintiffs do not lack standing merely because the false statements were made to a third party.</p>\n"
+}

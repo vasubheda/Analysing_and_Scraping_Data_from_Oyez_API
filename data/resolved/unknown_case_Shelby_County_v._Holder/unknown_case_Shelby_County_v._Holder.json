@@ -1,0 +1,42 @@
+{
+    "ID": 55932,
+    "name": "Shelby County v. Holder",
+    "href": "https://api.oyez.org/cases/2012/12-96",
+    "view_count": 0,
+    "docket_number": "12-96",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1352440800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41158"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1361944800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41159"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1372136400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41160"
+        }
+    ],
+    "question": "<p>Does the renewal of Section 5 of the Voter Rights Act under the constraints of Section 4(b) exceed Congress' authority under the Fourteenth and Fifteenth Amendments, and therefore violate the Tenth Amendment and Article Four of the Constitution?</p>\n",
+    "citation": {
+        "volume": "570",
+        "page": "529",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19854"
+    },
+    "term": "2012",
+    "description": "A case in which the Court found that Section 4 of the Voting Rights Act was unconstitutional.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/570/529/",
+    "facts_of_the_case": "<p>The Fourteenth Amendment protects every person's right to due process of law. The Fifteenth Amendment protects citizens from having their right to vote abridged or denied due to \"race, color, or previous condition of servitude.\" The Tenth Amendment reserves all rights not granted to the federal government to the individual states. Article Four of the Constitution guarantees the right of self-government for each state.</p>\n<p>The Voting Rights Act of 1965 was enacted as a response to the nearly century-long history of voting discrimination. Section 5 prohibits eligible districts from enacting changes to their election laws and procedures without gaining official authorization. Section 4(b) defines the eligible districts as ones that had a voting test in place as of November 1, 1964 and less than 50% turnout for the 1964 presidential election. Such districts must prove to the Attorney General or a three-judge panel of a Washington, D.C. district court that the change \"neither has the purpose nor will have the effect\" of negatively impacting any individual's right to vote based on race or minority status. Section 5 was originally enacted for five years, but has been continually renewed since that time.</p>\n<p>Shelby County, Alabama, filed suit in district court and sought both a declaratory judgment that Section 5 and Section 4(b) are unconstitutional and a permanent injunction against their enforcement. The district court upheld the constitutionality of the Sections and granted summary judgment for the Attorney General. The U.S. Court of Appeals for the District of Columbia Circuit held that Congress did not exceed its powers by reauthorizing Section 5 and that Section 4(b) is still relevant to the issue of voting discrimination.</p>\n",
+    "conclusion": "<p>Yes, Section 4 of the Voting Rights Act is unconstitutional. Chief Justice John G. Roberts, Jr. delivered the opinion of the 5-4 majority. The Court held that Section 4 of the Voting Rights Act imposes current burdens that are no longer responsive to the current conditions in the voting districts in question. Although the constraints this section places on specific states made sense in the 1960s and 1970s, they do not any longer and now represent an unconstitutional violation of the power to regulate elections that the Constitution reserves for the states. The Court also held that the formula for determining whether changes to a state's voting procedure should be federally reviewed is now outdated and does not reflect the changes that have occurred in the last 50 years in narrowing the voting turnout gap in the states in question.</p>\n<p>In his concurring opinion, Justice Clarence Thomas argued that Section 5 of the Voting Rights Act is unconstitutional in addition to Section 4. He wrote that the blatant discrimination against certain voters that Section 5 was intended to prohibit is no longer evident. Without such extraordinary circumstances, Congress cannot constitutionally justify placing the burden of Section 5 on the states in question.</p>\n<p>Justice Ruth Bader Ginsburg wrote a dissent in which she argued that Congress' power to enforce the Fourteenth and Fifteenth Amendments encompasses legislative action such as the Voting Rights Act. The legislative history and text of the Amendments as well as previous judicial precedent support Congress' authority to enact legislation that specifically targets potential state abuses. However, Congress does not have unlimited authority but must show that the means taken rationally advance a legitimate objective, as is the case with the Voting Rights Act. The evidence Congress gathered to determine whether to renew the Voting Rights Act sufficiently proved that there was still a current need to justify the burdens placed on the states in question. She also argued that, by holding Section 4 unconstitutional, the majority's opinion makes it impossible to effectively enforce Section 5. Justice Stephen G. Breyer, Justice Sonia Sotomayor, and Justice Elena Kagan joined in the dissent.</p>\n"
+}

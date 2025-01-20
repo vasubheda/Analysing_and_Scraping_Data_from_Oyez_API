@@ -1,0 +1,35 @@
+{
+    "ID": 54568,
+    "name": "Oubre v. Entergy Operations Inc.",
+    "href": "https://api.oyez.org/cases/1997/96-1291",
+    "view_count": 0,
+    "docket_number": "96-1291",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                879314400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37920"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                885794400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37921"
+        }
+    ],
+    "question": "<p>Is an employee's release of claims under the Age Discrimination in Employment Act unenforceable if the release did not comply with the requirements of the Older Workers Benefit Protection Act?</p>\n",
+    "citation": {
+        "volume": "522",
+        "page": "422",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18497"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/522/422/",
+    "facts_of_the_case": "<p>In 1994, Dolores Oubre, a scheduler at a power plant run by Entergy Operations, Inc., was given the option of either improving her job performance or accepting a voluntary arrangement for her severance. Accepting a severance package, Oubre signed a release of all claims against Entergy. Entergy failed to comply with several requirements for a release under the Age Discrimination in Employment Act (ADEA), as set forth in the Older Workers Benefit Protection Act (OWBPA). After receiving all of her severance pay, Oubre filed a charge of age discrimination with the Equal Employment Opportunity Commission. Oubre then sued Entergy, alleging constructive discharge on the basis of her age in violation of the ADEA and state law. Entergy argued that Oubre had ratified the defective release by failing to return the $6,258 in severance she had received. The District Court entered summary judgment for Entergy. The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>Yes. In a 6-3 opinion delivered by Justice Anthony M. Kennedy, the Court held that because the release did not comply with OWBPA's requirements, the release could not bar Oubre's ADEA claim. Justice Kennedy wrote for the Court that an employee may not waive an ADEA claim unless the waiver or release satisfies the OWBPA's requirements. Accordingly, Oubre's retention of her severance did not amount to a ratification equivalent to a valid release of her ADEA claims, since the retention did not comply with the OWBPA any more than the original release did. Justices Clarence Thomas and Antonin Scalia wrote dissenting opinions. Chief Justice William H. Rehnquist joined Justice Thomas' dissent.</p>\n"
+}

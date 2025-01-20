@@ -1,0 +1,42 @@
+{
+    "ID": 62260,
+    "name": "Alice Corporation v. CLS Bank International",
+    "href": "https://api.oyez.org/cases/2013/13-298",
+    "view_count": 0,
+    "docket_number": "13-298",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1386309600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52616"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1396242000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52617"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1403154000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52618"
+        }
+    ],
+    "question": "<p>Are claims regarding computer-implemented inventions\u2014including systems, machines, processes, and items of manufacture\u2014patent-eligible subject matter?</p>\n",
+    "citation": {
+        "volume": "573",
+        "page": "208",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/27056"
+    },
+    "term": "2013",
+    "description": "A case in which the Court found that patent laws should not place restraints on abstract ideas that form the \"building blocks of human ingenuity.\"",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/573/208/",
+    "facts_of_the_case": "<p>Alice Corporation (Alice) is an Australian company that owns the '479, '510, '720, and '375 patents, all of which have to do with a computerized trading platform that deals with financial transactions in which a third party settles obligations between two others so as to settlement eliminate risk. Settlement risk is the risk to each party in an exchange that only one party will pay its obligation. Alice's patents address that risk by using the third party as the guarantor.</p>\n<p>On May 24, 2007, CLS Bank International (CLS) sued Alice and sought a declaratory judgment of non-infringement and invalidity of the '479, '510, and '720 patents. Alice countersued and claimed infringement. CLS moved for summary judgment by arguing that any possible infringement could not have occurred in the United States and that Alice's claims were drawn from ineligible subject matter. Alice filed crossmotions, and the district court denied both motions. In the meantime, the '375 patent processed, and Alice amended its complaint to include this patent. Both parties renewed their crossmotions. For the purposes of these motions, the district court assumed that all asserted patent claims required electronic implementation and granted summary judgment in favor of CLS. The district court held that Alice's patents were invalid because they were directed at an abstract idea and that those claims could preempt the use of the abstract concept of a neutral intermediary to facilitate exchange and eliminate risk. The U.S. Court of Appeals for the Federal Circuit affirmed.</p>\n",
+    "conclusion": "<p>No. Justice Clarence Thomas wrote the opinion for the unanimous Court. The Court held that patent law should not restrain abstract ideas that are the \"building blocks of human ingenuity\" and held all of Alice's claims ineligible for patent protection. Because using a third party to eliminate settlement risk is a fundamental and prevalent practice, it is essentially a building block of the modern economy. The Court held that Alice's claims did no more than require a generic computer to implement this abstract idea of intermediated settlement by performing generic computer functions, which is not enough to transform an abstract idea into a patent-eligible invention.</p>\n<p>Justice Sonia M. Sotomayor wrote a concurring opinion in which she argued that any claim that merely describes a method of doing business should not be patentable. In this case, Justice Sotomayor agreed that the method claims at issue pertained to an abstract idea. Justice Ruth Bader Ginsburg and Justice Stephen G. Breyer joined the concurrence.</p>\n"
+}

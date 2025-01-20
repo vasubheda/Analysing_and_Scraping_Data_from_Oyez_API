@@ -1,0 +1,35 @@
+{
+    "ID": 54450,
+    "name": "Smiley v. Citibank (South Dakota), N. A.",
+    "href": "https://api.oyez.org/cases/1995/95-860",
+    "view_count": 0,
+    "docket_number": "95-860",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                830322000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37706"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                833778000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37707"
+        }
+    ],
+    "question": "<p>Does the National Bank Act of 1864 authorize a national bank to charge late-payment fees that are lawful in the bank's home State but prohibited in the States where the cardholders reside?</p>\n",
+    "citation": {
+        "volume": "517",
+        "page": "735",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18379"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/517/735/",
+    "facts_of_the_case": "<p>Barbara Smiley, a resident of California, possessed credits cards issued by Citibank, a national bank located in South Dakota. Under certain circumstances, Citibank will issue late-payment fees. In 1992, Smiley brought a class action against Citibank on behalf of herself and other California holders of Citibank's credit cards, alleging that the late-payment fees charged by Citibank, although legal under South Dakota law, violated California law. In response, Citibank argued that a provision of the National Bank Act of 1864, which permits a national bank to charge its loan customers \"interest at the rate allowed by the laws of the State... where the bank is located,\" pre-empted Smiley's state law claims. After accepting Citibank's argument that late-payment fees constituted \"interest,\" the California Superior Court ruled in its favor. The California Superior Court Supreme Court affirmed.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion delivered by Justice Antonin Scalia, the Court held that the National Bank Act of 1864 authorizes such charges because a regulation adopted by the Comptroller of the Currency, which defined interest to include late-payment fees, was a reasonable interpretation of the act and entitled to deference. The Court rejected arguments that late-payment fees do not constitute interest because they do not vary based on the payment owed or the time period of delay and because they are penalties.</p>\n"
+}

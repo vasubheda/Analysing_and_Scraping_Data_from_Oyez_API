@@ -1,0 +1,42 @@
+{
+    "ID": 54333,
+    "name": "Arizona v. Evans",
+    "href": "https://api.oyez.org/cases/1994/93-1660",
+    "view_count": 0,
+    "docket_number": "93-1660",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                786780000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37487"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                794037600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37488"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                770360400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53520"
+        }
+    ],
+    "question": "<p>Does the exclusionary rule prohibit the introduction of the evidence seized in violation of the Fourth Amendment on the basis of an erroneous police record?</p>\n",
+    "citation": {
+        "volume": "514",
+        "page": "1",
+        "year": "1995",
+        "href": "https://api.oyez.org/case_citation/case_citation/18262"
+    },
+    "term": "1994",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/514/1/",
+    "facts_of_the_case": "<p>In January 1991, Phoenix police officer Bryan Sargent observed Isaac Evans driving the wrong way on a one-way street. Sargent directed Evans to pull over and asked to see his license. Evans informed Sargent that his license was suspended, and upon running the license, Sargent found that there was also an outstanding warrant for Evans\u2019 arrest. During the arrest, Evans dropped a hand-rolled cigarette that smelled of marijuana, so officers searched his car and discovered a bag of marijuana. When Evans was charged with possession of marijuana, the police were informed that his arrest warrant had been quashed and only remained on the record due to a clerical error. Evans moved to exclude the marijuana evidence because it was discovered during the course of an illegal arrest. The trial court granted the motion.</p>\n<p>The Arizona Court of Appeals reversed and held that the exclusionary rule was not intended to deter government employees who were not directly associated with the arrest. The Arizona Supreme Court reversed and held there was no meaningful distinction between clerical errors committed by law enforcement personnel and those committed by court employees.</p>\n",
+    "conclusion": "<p>No. Chief Justice William H. Rehnquist delivered the opinion of the 7-2 majority. The Court held that the Supreme Court has jurisdiction to review cases from state courts that deal primarily with federal law. The Court also held that the Fourth Amendment was designed to protect against intrusions into a home or onto private property, or the conduct of police officers. The exclusionary rule therefore does not apply to the conduct of judicial officers.</p>\n<p>Justice Sandra Day O\u2019Connor wrote a concurring opinion where she argued that the majority\u2019s decision does not allow any evidence that is the result of a clerical error. Rather, the police must rely on accurate record-keeping systems in order to admit evidence found based on the information in those records. Justice David H. Souter and Stephen G. Breyer joined in the concurrence. In his concurrence, Justice Souter wrote that the majority\u2019s opinion should be read as dealing solely with the issue of this type of clerical error, and not as dealing with the concept of how deterrence by exclusion extends to the government as a whole. Justice Breyer joined in the concurrence.</p>\n<p>Justice John Paul Stevens wrote a dissent and argued that the Fourth Amendment was meant as a constraint on governmental power as a whole, and not merely on its agents, namely the police. He also argued that the exclusionary rule does not place the government at a disadvantage in trial; the government is merely in the position it would be if it had not conducted the illegal search at all. In her dissenting opinion, Justice Ruth Bader Ginsburg argued that the writ of certiorari should be dismissed because the Arizona Supreme Court ruled on the issue based on its constitutional analysis, rather than federal law, so the U.S. Supreme Court does not have jurisdiction. She also argued that the exclusionary rule should apply to judicial clerical errors because such errors become magnified and can hugely impact an innocent citizens life. Justice Stevens joined in the dissent.</p>\n"
+}

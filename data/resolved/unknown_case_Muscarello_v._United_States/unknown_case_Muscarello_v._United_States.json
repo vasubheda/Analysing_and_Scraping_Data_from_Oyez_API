@@ -1,0 +1,35 @@
+{
+    "ID": 54595,
+    "name": "Muscarello v. United States",
+    "href": "https://api.oyez.org/cases/1997/96-1654",
+    "view_count": 0,
+    "docket_number": "96-1654",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                890632800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37974"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                897282000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37975"
+        }
+    ],
+    "question": "<p>Does the fact that guns were found in a locked glove compartment, or the trunk, of a car, preclude the application of 18 U section 924(c)(1), which imposes a 5-year mandatory prison term upon a person who \"uses or carries a firearm\" \"during and in relation to\" a \"drug trafficking crime\"?</p>\n",
+    "citation": {
+        "volume": "524",
+        "page": "125",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18524"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/524/125/",
+    "facts_of_the_case": "<p>18 USC section 924(c)(1) subjects a person who \"uses or carries a firearm\" \"during and in relation to\" a \"drug trafficking crime\" to a 5-year mandatory prison term. In 96-1654, police officers found a handgun locked in Frank J. Muscarello's truck's glove compartment. Muscarello was transporting marijuana for sale in his truck. Muscarello argued that his \"carrying\" of the gun in the glove compartment did not fall within the scope of the statutory word \"carries.\" In 96-8837, federal agents found drugs and guns in Donald Cleveland and Enrique Gray-Santana's car at a drug-sale point. The Court of Appeals, in both cases, found that the defendants had violated section 924(c)(1).</p>\n",
+    "conclusion": "<p>No. In a 5-4 opinion delivered by Justice Stephen G. Breyer, the Court held that the phrase \"carries a firearm\" applies to a person who knowingly possesses and conveys firearms in a vehicle, including in the locked glove compartment or trunk of a car, which the person accompanies. Exploring the meaning of \"carry,\" Justice Breyer concluded, among other things, that the statute's basic purpose to combat the dangerous combination of drugs and guns does not support limiting \"carry\" to an \"on the person\" application. In a dissenting opinion, in which Chief Justice William H. Rehnquist and Justices Antonin Scalia and David H. Souter, Justice Ruth Bader Ginsburg argued that \"carries a firearm\" means bearing a firearm in a manner as to be ready to use it as a weapon.</p>\n"
+}

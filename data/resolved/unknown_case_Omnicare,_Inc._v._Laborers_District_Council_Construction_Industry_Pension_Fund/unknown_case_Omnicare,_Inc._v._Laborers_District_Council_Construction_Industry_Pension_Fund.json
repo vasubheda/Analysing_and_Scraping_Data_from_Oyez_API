@@ -1,0 +1,42 @@
+{
+    "ID": 56086,
+    "name": "Omnicare, Inc. v. Laborers District Council Construction Industry Pension Fund",
+    "href": "https://api.oyez.org/cases/2014/13-435",
+    "view_count": 0,
+    "docket_number": "13-435",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1393826400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41665"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1414994400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41666"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1427173200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41772"
+        }
+    ],
+    "question": "<p>For purposes of \u00a711 of the Securities Act of 1933, may an entity\u2019s opinion statements constitute an untrue statement of fact if the opinion statement is shown to be objectively false without proof that the entity knew the opinion statement was false?</p>\n",
+    "citation": {
+        "volume": "575",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20945"
+    },
+    "term": "2014",
+    "description": "A case in which the Court ruled that a statement of opinion, even if shown to be objectively false, cannot constitute an untrue statement of fact because of the different nature between opinions and facts.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/575/175/",
+    "facts_of_the_case": "<p>Plaintiffs were investors who bought Omnicare securities in a December 15, 2005 public offering. At the same time, Omnicare offered 12.8 million shares of common stock and made related filing with the Securities and Exchange Commission. These filings were incorporated into a Registration Statement. The plaintiffs sold all the securities by January 31, 2006. Plaintiffs brought suit under \u00a711 of the Securities Act of 1993 claiming Omnicare materially misled or omitted material information on the registration statement because they were engaged in illegal activities that included kickback arrangements with pharmaceutical manufacturers and submitting false claims to Medicare and Medicaid. Plaintiffs further allege that Omnicare failed to comply with Generally Accepted Accounting Principles (GAAP), which resulted in a substantial overstatement of the company's revenue affecting the 2005 public offering.</p>\n<p>The original suit filed in the district court had multiple claims from which this case arose, but all were dismissed in favor of Omnicare. The claims were dismissed because the plaintiffs failed to plead that the defendants had knowledge of wrongdoing when they materially falsified information on the registration statement. The United States Court of Appeals for the Sixth Circuit affirmed the dismissals except one filed under \u00a711 for materially misleading or omitting material information because that claim was filed under a strict liability statute which did not require pleading to knowledge of wrongdoing. The Court held that plaintiffs had met their burden for making a prima facie case under \u00a711 and remanded the case to district court.</p>\n",
+    "conclusion": "<p>No. Justice Elena Kagan delivered the opinion for the unanimous Court. The Court held a statement of opinion, even if shown to be objectively false, cannot constitute an untrue statement of fact because of the different nature between opinions and facts. Facts are intended to express certainty; opinions are not. Therefore, an opinion can only constitute an untrue statement of fact if a plaintiff can show that the entity which put forth the opinion does not actually hold the stated opinion. Because the determination of whether a statement is misleading depends on a reasonable investor\u2019s perspective, the Court remanded the case in order for the lower court to determine whether Omnicare omitted facts that a reasonable investor would find misleading.</p>\n<p>Justice Antonin Scalia wrote an opinion concurring in part and concurring in the judgment in which he emphasized that a statement of opinion, which does not convey additional facts, only implies two facts: (1) that the speaker genuinely believes the opinion; and (2) that the speaker believes his/her basis for the opinion is sufficient. Only if a plaintiff can show that one of these two implications is false may a statement of opinion, which does not convey additional facts, constitute an untrue statement of fact.</p>\n"
+}

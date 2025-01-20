@@ -1,0 +1,42 @@
+{
+    "ID": 62757,
+    "name": "McLane Company, Inc. v. E.E.O.C",
+    "href": "https://api.oyez.org/cases/2016/15-1248",
+    "view_count": 0,
+    "docket_number": "15-1248",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1475125200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53893"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1487656800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53970"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1491195600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54011"
+        }
+    ],
+    "question": "<p>Should a district court\u2019s determination on whether to enforce an Equal Employment Opportunity Commission subpoena be reviewed \u201cde novo,\u201d or without deference to the lower court\u2019s determination?</p>\n",
+    "citation": {
+        "volume": "581",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27462"
+    },
+    "term": "2016",
+    "description": "A case in which the Court will decide whether a district court\u2019s decision to enforce an Equal Employment Opportunity Commission subpoena should be reviewed \u201cde novo,\u201d or without deference to the lower court\u2019s determination.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/581/15-1248/",
+    "facts_of_the_case": "<p>Damiana Ochoa filed a charge with the Equal Employment Opportunity Commission (EEOC) against her former employer, McLane Company (McLane), for violating Title VII of the Civil Rights Act of 1964. McLane required all new employees and employees returning work after a medical leave to take a physical capability strength test for positions that are classified as physically demanding. Ochoa failed the test three times, and therefore her employment was terminated. The EEOC opened up an investigation into McLane Co. During the investigation, the EEOC issued a subpoena for information McLane withheld, including either \u201cpedigree information\u201d for each test-taker or reasons the test-taker\u2019s employment was terminated. McLane continued to refuse to provide that information, so the EEOC filed a subpoena enforcement action. The district court required McLane to disclose some of the information the EEOC subpoenaed, but it refused to require McLane to divulge the \u201cpedigree information\u201d or reasons for termination. The U.S. Court of Appeals for the Ninth Circuit reversed in part and vacated in part after reviewing the lower court\u2019s decision \u201cde novo,\u201d or without giving deference to the lower court\u2019s determination. </p>\n",
+    "conclusion": "<p dir=\"ltr\">A district court\u2019s determination on whether to enforce an Equal Employment Opportunity Commission (EEOC) subpoena should be reviewed for abuse of discretion, which gives deference to the lower court\u2019s determination. Justice Sonia Sotomayor delivered the opinion for the 7-1 majority. The Court held that, when there is no explicit statutory command regarding the level of deference a lower court\u2019s determination deserves, there are two relevant factors to consider: the history of appellate practice and whether one actor is better positioned to decide the issue in question. In reviewing a district court\u2019s decision of whether to enforce or quash an administrative subpoena, the history of appellate practice as well as current practice is for such decisions to be reviewed under the deferential abuse of discretion standard. This standard also reflects the fact that these decisions are case-specific ones that a district court judge is in a better position to make than an appellate court. Therefore, both factors indicate that the abuse of discretion standard is the correct one for appellate courts to use when reviewing a district court\u2019s decision to enforce or quash an EEOC subpoena. Because the lower appellate court in this case did not review the district court\u2019s decision under the correct standard, the Court remanded the case. </p>\n<p dir=\"ltr\">In her opinion concurring in part and dissenting in part, Justice Ruth Bader Ginsburg wrote that, although the abuse of discretion standard is the correct one, the lower appellate court\u2019s decision should be affirmed. Justice Ginsburg argued that the district court\u2019s refusal to enforce the subpoena rested on legal error, and questions of legal error are reviewed under the \u201cde novo\u201d standard, without deference. </p>\n"
+}

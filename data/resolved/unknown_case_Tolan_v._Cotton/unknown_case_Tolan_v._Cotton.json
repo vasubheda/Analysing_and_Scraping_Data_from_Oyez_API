@@ -1,0 +1,35 @@
+{
+    "ID": 62266,
+    "name": "Tolan v. Cotton",
+    "href": "https://api.oyez.org/cases/2013/13-551",
+    "view_count": 0,
+    "docket_number": "13-551",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1399266000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52634"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1399266000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52635"
+        }
+    ],
+    "question": "<p>Should a court consider the factual reasonableness of the search or seizure when applying the \"clearly established right\" prong of the qualified immunity test in Fourth Amendment cases?</p>\n",
+    "citation": {
+        "volume": "572",
+        "page": "650",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/27062"
+    },
+    "term": "2013",
+    "description": "A case which the Court remanded concerning whether or not a police officer had the right to shoot a man outside of his home when the officer believed him to be in possession of a stolen car.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/572/650/",
+    "facts_of_the_case": "<p>In the early morning hours of New Year's Eve 2008, Jeffrey Cotton, a police officer, fired three shots at Robert Tolan in front of Tolan's parents' home in Bellaire, Texas. Cotton mistakenly believed that Tolan and his cousin, Anthony Cooper, had stolen a black Nissan, because another officer had incorrectly entered the license plate number of Tolan's black Nissan Xterra. One bullet hit Tolan, collapsed his right lung, and pierced his liver. Tolan sued Cotton in district court and argued that he had used excessive force in violation of the Fourth Amendment. Cotton filed a motion for summary judgment and argued that he was entitled to qualified immunity, which protects government officials from litigation when their conduct has not violated a clearly established right. The district court ruled in favor of Cotton and found that Cotton's use of force was not unreasonable and did not violate the Fourth Amendment.</p>\n<p>The U.S. Court of Appeals for the Fifth Circuit affirmed but declined to adopt the lower court's reasoning. Instead, the Court of Appeals held that Cotton was entitled to qualified immunity regardless of whether he violated the Fourth Amendment because he did not violate a \"clearly established\" right. In support of its ruling, the Court of Appeals cited evidence that would lead a reasonable officer in Cotton's position to believe that Tolan presented an immediate threat to his safety.</p>\n",
+    "conclusion": "<p>Not answered. In a per curiam opinion, the Court held that the Court of Appeals erred in its application of the summary judgment standard by failing to consider all of the evidence in the light most favorable to Tolan. The Supreme Court cited testimony that indicated that the Court of Appeals improperly resolved disputed facts in favor of Cotton. The Court vacated the judgment and remanded the proceeding, with instructions to acknowledge and credit evidence in Tolan's favor when determining whether Cotton's actions violated clearly-established law.</p>\n<p>Justice Samuel A. Alito, Jr. wrote an opinion concurring in the judgment in which he argued that the Court should avoid granting certiorari to cases that present only a \"routine\" question of whether the evidence the lower court relied on supported a grant of summary judgment. Justice Antonin Scalia joined in the opinion concurring in the judgment.</p>\n"
+}

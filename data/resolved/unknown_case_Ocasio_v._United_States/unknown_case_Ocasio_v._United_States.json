@@ -1,0 +1,42 @@
+{
+    "ID": 62325,
+    "name": "Ocasio v. United States",
+    "href": "https://api.oyez.org/cases/2015/14-361",
+    "view_count": 0,
+    "docket_number": "14-361",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1425276000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52796"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1444107600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52797"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1462165200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53505"
+        }
+    ],
+    "question": "<p>Does a conspiracy to commit extortion require that the conspirators agree to extort money or property from a third party outside of the conspiracy?</p>\n",
+    "citation": {
+        "volume": "578",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27125"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that a conspiracy to commit extortion can involve the purported victims of the extortion as members of the conspiracy.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/578/14-361/",
+    "facts_of_the_case": "<p>Samuel Ocasio was a police officer of the Baltimore Police Department who was indicted in connection with a kickback scheme involving payments to police officers in exchange for referrals to Majestic Auto Repair Shop (Majestic). The indictment charged Ocasio with conspiring to violate the Hobbs Act by agreeing to unlawfully obtain money or property under color of right from Majestic. The jury convicted Ocasio, and he appealed by arguing that he cannot be guilty of conspiring to commit extortion with the owners of Majestic because they were also the victims of the conspiracy, and the victim of a Hobbes Act conspiracy must be a person outside of the alleged conspiracy. The U.S. Court of Appeals for the Fourth Circuit affirmed Ocasio\u2019s conviction.</p>\n",
+    "conclusion": "<p>A conspiracy to commit extortion can involve the purported victims of the extortion as members of the conspiracy. Justice Samuel A. Alito, Jr. delivered the opinion of the 5-3 majority. The Court held that, under longstanding principles of conspiracy law, a defendant may be convicted of conspiring to violate the Hobbs Act based on proof that he was conspiring to obtain property from another conspirator under color of law. Although conspirators have to be pursuing the same criminal objective, an individual conspirator need not agree to facilitate every element of the crime; the intent to agree that the substantive offense be committed is all that is necessary. The Court also held that this reading of the Hobbs Act is not overly broad because it still focused on the intent to commit the conspiracy.</p>\n<p>In his concurring opinion, Justice Stephen G. Breyer wrote that the Supreme Court\u2019s decision in <em>Evans v. United States</em>\u00a0makes it difficult to draw a distinction between the involuntary action of paying a bribe and the voluntary behavior of joining a conspiracy.</p>\n<p>Justice Clarence Thomas wrote a dissent in which he argued that the Court\u2019s decision in <em>Evans v. United States</em>\u00a0wrongly conflated bribery with extortion and that the majority\u2019s opinion in this case continued that error. Under the Hobbs Act definition of extortion, people cannot conspire to extort one of their own because all those involved would know that the person accepting the money is not entitled to it. In her separate dissent, Justice Sonia Sotomayor wrote that the majority opinion endorses an unnatural reading of the Hobbs Act, which clearly criminalizes extortion \u201cfrom another.\u201d Therefore, a conspiracy to violate the Hobbs Act must still focus on a victim that is \u201cother\u201d than the conspiratorial group. This reading is also consistent with the Court\u2019s conspiracy precedent, which focuses on the criminal behavior of the conspiratorial group as a whole. Chief Justice John G. Roberts, Jr. joined in the dissent.</p>\n"
+}

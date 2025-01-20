@@ -1,0 +1,35 @@
+{
+    "ID": 54800,
+    "name": "Public Lands Council v. Babbitt",
+    "href": "https://api.oyez.org/cases/1999/98-1991",
+    "view_count": 0,
+    "docket_number": "98-1991",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                951890400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38349"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                958366800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38350"
+        }
+    ],
+    "question": "<p>Do the Secretary of the Interior's amendments governing grazing preferences, permit issuance, and ownership of range improvements to the Taylor Grazing Act of 1934 exceed the authority that this statute grants the Secretary and violate the Act?</p>\n",
+    "citation": {
+        "volume": "529",
+        "page": "728",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18729"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/529/728/",
+    "facts_of_the_case": "<p>The Taylor Grazing Act grants the Secretary of the Interior authority to divide the public rangelands into grazing districts, to specify the amount of grazing permitted in each district, and to issue grazing leases or permits to \"settlers, residents, and other stock owners.\" When Interior Secretary Bruce Babbitt announced new regulations governing the administration of livestock on 170 million acres of public range, the Public Lands Council (Council), a group of nonprofit ranching-related organizations, objected. The Council's members who held grazing permits brought an action against Secretary Babbitt challenging 10 of the new federal grazing regulations issued by the Secretary in 1995. The Council claimed that the Secretary acted beyond his power in regulating the grazing patterns. The District Court found 4 of the 10 regulations unlawful. Reversing in part, the Court of Appeals upheld three previously overturned regulations, which changed the definition of \"grazing preference,\" permitted those who were not \"engaged in the livestock business\" to qualify for grazing permits; and granted the United States title to all future range improvements.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Stephen G. Breyer, the Court held that \"[t]he regulatory changes do not exceed the Secretary's Taylor Grazing Act authority.\" \"Congress itself has directed development of land-use plans, and their use in the allocation process in order to preserve, improve and develop the public rangelands,\" wrote Justice Stephen G. Breyer. \"And the secretary [of the Interior] has always had the statutory authority...to reclassify and withdraw range land from grazing use.\"</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 62301,
+    "name": "Luis v. United States",
+    "href": "https://api.oyez.org/cases/2015/14-419",
+    "view_count": 0,
+    "docket_number": "14-419",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1433739600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52751"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1447135200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52814"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1459314000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53475"
+        }
+    ],
+    "question": "<p>&lt;p&gt;Does the pretrial restraint of assets that are not directly related to the crime at issue and are needed to retain counsel of choice violate the defendant\u2019s Fifth and Sixth Amendment rights?&lt;/p&gt;</p>\n",
+    "citation": {
+        "volume": "578",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27099"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that the pretrial restraining of a defendant's assets untainted by their crime that are needed to retain counsel of choice violates the Sixth Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/578/14-419/",
+    "facts_of_the_case": "<p>A federal grand jury indicted Sila Luis for her alleged role in a Medicare fraud scheme that involved giving kickbacks to patients who enrolled with her home healthcare companies. Because federal law allows the government to file a pretrial motion to restrain the assets of defendants accused of particular types of fraud, including substitute assets not directly related to the fraud, the government did so in this case. Luis objected to the motion and argued that she needed those funds in order to pay for her criminal defense lawyer, and therefore granting the motion would violate her right to counsel under the Sixth Amendment. The district court granted the motion, and the U.S. Court of Appeals for the Eleventh Circuit affirmed.</p>\n",
+    "conclusion": "<p>The pretrial restraint of assets untainted by the crime that are needed to retain counsel of choice violates the Sixth Amendment. Justice Stephen G. Breyer delivered an opinion for the four-justice plurality, which held that the fundamental nature of the right in question prohibits the government from undermining the defendant\u2019s ability to be represented by the counsel of his choice that he can afford. While it is important that the defendant\u2019s assets be available to pay penalties, the assets in question are untainted by the crime, which means that they remain firmly in the lawful possession of the defendant. The government does not have a sufficiently substantial interest to provide the legal authority to restrain them. Because the defendant\u2019s interest in being able to afford counsel of his or her choice outweighs any interest the government may have in ensuring the defendant has assets to pay criminal penalties, the government\u2019s pretrial restraint of assets untainted by the crime that are needed to retain counsel of choice violates the Sixth Amendment. The Court held that this decision was in line with Sixth Amendment and forfeiture jurisprudence, and creates a workable line between tainted and untainted assets.</p>\n<p>In his opinion concurring in the judgment, Justice Clarence Thomas wrote that the text of the Sixth Amendment clearly implies the right to use lawful property to pay for counsel of choice. Without that implication, the Sixth Amendment right to counsel would be meaningless, and constitutional rights must also protect related acts necessary to their exercise. Additionally, common law has historically limited the pretrial restraint of assets to those tainted by the crime, which further supports this reading of the Sixth Amendment and provides an easily administrable line. Justice Thomas also argued that the plurality\u2019s balancing test was unnecessary to reach this conclusion.</p>\n<p>Justice Anthony M. Kennedy wrote a dissent in which he argued that the Court\u2019s holding allows defendants to protect assets that might be needed to provide the victim with adequate restitution. Especially in cases that involve fungible assets, it is important to allow the government to restrain such assets, in the same manner that it may be important to restrain the defendant. In holding otherwise, the Court goes against forfeiture precedent and asserts a Sixth Amendment right to spend forfeitable assets that lacks a firm basis in precedent. Justice Samuel A. Alito, Jr. joined in the dissent. In her separate dissent, Justice Elena Kagan wrote that, according to precedent, as long as the government has established probable cause to believe that it will eventually recover the assets, the defendant cannot use those assets to pay for counsel of choice. The distinction between tainted and untainted assets is meaningless prior to a judgment of guilt, and therefore the government has the same right to restrain either type.</p>\n"
+}

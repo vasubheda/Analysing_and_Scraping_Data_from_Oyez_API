@@ -1,0 +1,42 @@
+{
+    "ID": 55357,
+    "name": "Brigham City v. Stuart",
+    "href": "https://api.oyez.org/cases/2005/05-502",
+    "view_count": 0,
+    "docket_number": "05-502",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1136527200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39608"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1145854800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39609"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1148274000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39610"
+        }
+    ],
+    "question": "<p>What objectively reasonable level of concern is necessary to trigger the emergency aid exception to the Fourth Amendment's warrant requirement?</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "398",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20638"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/547/398/",
+    "facts_of_the_case": "<p>Responding to a complaint about a loud party, police arrived at a house where they saw minors drinking alcohol outside and heard shouting inside. As they approached the house, they saw a fight through the window involving a juvenile and four adults, one of whom was punched hard enough to make him spit blood. The officers announced their presence, but the people fighting did not hear them so they entered the home. They arrested the men for contributing to the delinquency of a minor and other related offenses. The trial court judge, however, refused to allow the evidence collected after the police entered the home because it was a warrantless search in violation of the Fourth Amendment. On appeal, the government argued that the search was covered by the \"emergency aid doctrine\" because the officers were responding to seeing the man be punched. The Supreme Court of Utah disagreed, however, ruling that the doctrine only applies when there is an unconscious, semiconscious, or missing person who is feared injured or dead. The Court also gave weight to the fact that the officers acted exclusively in a law enforcement capacity, not to assist the injured man.</p>\n",
+    "conclusion": "<p>In a unanimous decision, the Supreme Court held that police may enter a building without a warrant when they have an objectively reasonable basis to believe that an occupant is \"seriously injured or threatened with such injury.\" Quoting from <em>Mincey v. Arizona</em>, Chief Justice John Roberts wrote that \"[t]he need to protect or preserve life or avoid serious injury is justification for what would be otherwise illegal absent an exigency or emergency.\"</p>\n<p><em>Learn more about the Roberts Court and the Fourth Amendment in <a href=\"http://projects.oyez.org/shifting-scales/\">Shifting Scales</a>, a nonpartisan Oyez resource.</em></p>\n"
+}

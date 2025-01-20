@@ -1,0 +1,42 @@
+{
+    "ID": 55394,
+    "name": "Roper v. Weaver",
+    "href": "https://api.oyez.org/cases/2006/06-313",
+    "view_count": 0,
+    "docket_number": "06-313",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1165471200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39697"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1174453200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39698"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1179723600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39699"
+        }
+    ],
+    "question": "<p>Does a federal Court of Appeals exceed its authority under the Antiterrorism and Effective Death Penalty Act of 1996 by overturning a death sentence on the ground that the prosecutor's penalty phase closing argument was \"unfairly inflammatory\"?</p>\n",
+    "citation": {
+        "volume": "550",
+        "page": "598",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20697"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/550/598/",
+    "facts_of_the_case": "<p>William Weaver was convicted of the first degree murder of a prospective witness in a drug trial. During the penalty phase of the trial, the prosecutor gave a closing statement arguing for a death sentence. In the course of the statement, the prosecutor said: \"You've got to think beyond William Weaver [...] This is society's worst nightmare\" and \"Sometimes killing is not only fair and justified; it's right. Sometimes it's your duty [...] it's right to kill him [Weaver] now.\" The jury sentenced Weaver to death. Weaver appealed in state court, arguing that the prosecutor's statements had inflamed and prejudiced the jury.</p>\n<p>The Missouri state courts denied the appeal, but a federal District Court granted habeas corpus. The District Court overturned the sentence, ruling that the \"unfairly inflammatory\" closing statement had violated Weaver's right to due process. The U.S. Court of Appeals for the Eighth Circuit affirmed. On appeal to the Supreme Court, the state cited the Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA), which states that federal courts shall not grant a prisoner's habeas petition unless the state court's decision was \"contrary to [...] clearly established Federal law, as determined by the Supreme Court of the United States.\" The Eighth Circuit had cited some Supreme Court cases pertaining to prejudicial closing statements in the guilt phase of the trial, but the state argued that the federal courts should not have granted habeas relief, because the Supreme Court had not specifically addressed the issue of closing statements in the penalty phase.</p>\n",
+    "conclusion": "<p>Unanswered. By a 6-3 vote, the Court dismissed the case as improvidently granted, citing elements of the case's \"unusual procedural history.\" Weaver had filed a habeas petition before AEDPA went into effect, but the district court had ruled that he must abandon his habeas petition if he wanted to petition the Supreme Court for certiorari. The Court made it clear in 2007 that the district court's decision had been incorrect (see <em>Lawrence v. Florida</em> ). After the Court denied his petition for certiorari, Weaver refiled the habeas petition - but by then AEDPA was in effect, with its stricter requirements for habeas petitions. Rather than risk allowing Weaver's fate to hinge on the district court's mistake, the majority decided to dismiss the case. The dissenters argued that these considerations should not prevent the Court from correcting the Eighth Circuit's mistreatment of AEDPA. Justice Scalia suggested in dissent that other Circuit Courts should \"do unto the Eighth Circuit\u00eds decision just what it did unto AEDPA: ignore it.\"</p>\n"
+}

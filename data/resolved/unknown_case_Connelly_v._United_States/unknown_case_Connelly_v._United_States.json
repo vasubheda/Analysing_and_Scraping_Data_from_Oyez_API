@@ -1,0 +1,42 @@
+{
+    "ID": 63637,
+    "name": "Connelly v. United States",
+    "href": "https://api.oyez.org/cases/2023/23-146",
+    "view_count": 0,
+    "docket_number": "23-146 ",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1702447200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55376"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1711515600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55433"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1717650000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55471"
+        }
+    ],
+    "question": "<p>Should the proceeds of a life insurance policy taken out by a closely held corporation on a shareholder in order to facilitate the redemption of the shareholder\u2019s stock be considered a corporate asset when calculating the value of the shareholder\u2019s shares for purposes of the federal estate tax?</p>\n",
+    "citation": {
+        "volume": "602",
+        "page": null,
+        "year": "2024",
+        "href": "https://api.oyez.org/case_citation/case_citation/27995"
+    },
+    "term": "2023",
+    "description": "A case in which the Court held that a corporation\u2019s contractual obligation to redeem shares is not necessarily a liability that reduces a corporation\u2019s value for purposes of the federal estate tax.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/602/23-146/",
+    "facts_of_the_case": "<p>Brothers Michael and Thomas Connelly were the sole shareholders of a corporation. The corporation obtained life insurance on each brother so that if one died, the corporation could use the proceeds to redeem his shares. When Michael died, the Internal Revenue Service assessed taxes on his estate, which included his stock interest in the corporation. According to the IRS, the corporation\u2019s fair market value included the life insurance proceeds intended for the stock redemption. Michael\u2019s estate argued otherwise and sued for a tax refund.</p>\n<p>The district court granted summary judgment to the IRS, finding that the stock-purchase agreement did not affect the valuation and furthermore, that a proper valuation of the corporation must include the life insurance proceeds used for redemption because they were a significant asset of the company. The U.S. Court of Appeals for the Eighth Circuit affirmed.</p>\n",
+    "conclusion": "<p>A corporation\u2019s contractual obligation to redeem shares is not necessarily a liability that reduces a corporation\u2019s value for purposes of the federal estate tax. Justice Clarence Thomas authored the unanimous opinion of the Court.</p>\n<p>A share buyback at fair market value does not economically impact any shareholder. Although the remaining shareholders have a larger ownership percentage in a less valuable company following the buyback, the value of their holdings remains the same. Moreover, a hypothetical buyer of the shares pre-buyback would pay full price, knowing they could later redeem the shares from the company at that same fair market value.</p>\n<p>Furthermore, the deceased shareholder's shares must be valued just prior to death, before the buyback occurs, not after. At that point, the life insurance proceeds are still a company asset that increases share value. The Court rejected the argument that the buyback obligation is a liability that offsets the life insurance asset, noting that a stock buyback by definition reduces a company's value and concentrates ownership among fewer shares. Consequently, in this case, the company's obligation to buy back the shares using life insurance proceeds does not reduce the taxable value of the deceased shareholder's stock at the time of death, as the insurance remains a company asset at that point.</p>\n<p>While acknowledging that this decision could make succession planning more challenging, the Court pointed out that shareholders could have used alternate arrangements, such as a cross-purchase agreement, to avoid this particular tax outcome.</p>\n"
+}

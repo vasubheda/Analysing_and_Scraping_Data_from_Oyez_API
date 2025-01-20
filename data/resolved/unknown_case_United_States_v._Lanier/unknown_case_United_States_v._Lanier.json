@@ -1,0 +1,35 @@
+{
+    "ID": 54533,
+    "name": "United States v. Lanier",
+    "href": "https://api.oyez.org/cases/1996/95-1717",
+    "view_count": 0,
+    "docket_number": "95-1717",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                852616800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37859"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                859788000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37860"
+        }
+    ],
+    "question": "<p>Did the Court of Appeals use a too demanding standard when it ruled that freedom from sexual assault, as included under the Fourteenth Amendment's due process right to liberty, has never been recognized as a federally protected constitutional right and therefore cannot be the basis for a federal prosecution?</p>\n",
+    "citation": {
+        "volume": "520",
+        "page": "259",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18462"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/520/259/",
+    "facts_of_the_case": "<p>David W. Lanier was convicted under 18 U.S.C. Section 242 of criminally violating the constitutional rights of five women by assaulting them sexually while he served as a state judge. The jury had been instructed that the Government had to prove, as an element of the offense, that Lanier had deprived the victims of their Fourteenth Amendment due process right to liberty, which included the right to be free from sexually motivated physical assaults and coerced sexual battery. The District Court denied Lanier's motion, which sought to dismiss the indictment on the grounds that the law is void for vagueness. The en banc Court of Appeals vacated Lanier's convictions for \"lack of any notice to the public that this ambiguous criminal statute includes simple or sexual assault crimes within its coverage.\" The Court of Appeals held that the law may be imposed only if the constitutional right, said to have been violated, is first identified in a decision of the U.S Supreme Court, and only when the right has been held to apply in a factual situation \"fundamentally similar.\" The court regarded these combined requirements as substantially higher than the \"clearly established\" standard used to judge qualified immunity in civil cases.</p>\n",
+    "conclusion": "<p>es. In a unanimous decision, authored by Justice David Souter, the Court ruled that the standard of notice that the Court of Appeals employed was higher than the Constitution requires and too demanding. Justice Souter wrote that the Court of Appeals mistakenly concluded that it takes a Supreme Court decision in a \"fundamentally similar\" case to make a constitutional right specific enough that its violation can be prosecuted. Law makes it a crime to deprive anyone of rights \"secured . . . by the Constitution.\"</p>\n"
+}

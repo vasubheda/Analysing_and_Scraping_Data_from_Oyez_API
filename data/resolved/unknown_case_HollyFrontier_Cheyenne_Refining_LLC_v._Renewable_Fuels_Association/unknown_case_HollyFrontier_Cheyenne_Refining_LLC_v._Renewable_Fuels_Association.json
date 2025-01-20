@@ -1,0 +1,42 @@
+{
+    "ID": 63321,
+    "name": "HollyFrontier Cheyenne Refining LLC v. Renewable Fuels Association",
+    "href": "https://api.oyez.org/cases/2020/20-472",
+    "view_count": 0,
+    "docket_number": "20-472",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1610085600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54829"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1619499600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54886"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1624597200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54933"
+        }
+    ],
+    "question": "<p>To qualify for a hardship exemption under Section 7545(o)(9)(B)(i) of the Renewable Fuel Standards, must a small refinery have received uninterrupted, continuous hardship exemptions for every year since 2011?</p>\n",
+    "citation": {
+        "volume": "594",
+        "page": null,
+        "year": "2021",
+        "href": "https://api.oyez.org/case_citation/case_citation/27795"
+    },
+    "term": "2020",
+    "description": "A case in which the Court held that, in order to qualify for a hardship exemption under Section 7545(o)(9)(B)(i) of the Renewable Fuel Standards, a small refinery need not receive uninterrupted, continuous hardship exemptions for every year since 2011.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/594/20-472/",
+    "facts_of_the_case": "<p>Congress amended the Clean Air Act through the Energy Policy Act of 2005 in an effort to reduce the nation\u2019s dependence on fossil fuels. The legislation set certain targets for replacing fossil fuels with renewable fuels but created several exemptions, including one for small refineries if compliance in a given year would impose disproportionate economic hardship.</p>\n<p>The U.S. Environmental Protection Agency (EPA) promulgated three different orders granting extensions of the small refinery exemption, but these orders were not made publicly available. A group of renewable fuels producers challenged the orders, alleging that the orders exceeded the EPA\u2019s statutory authority. The Tenth Circuit agreed, finding that a small refinery may obtain an exemption only when it had received uninterrupted, continuous extensions of the exemption for every year since 2011.</p>\n",
+    "conclusion": "<p>A small refinery that previously received a hardship exemption may obtain an \u201cextension\u201d under \u00a77545(o)(9)(B)(i) even if it saw a lapse in exemption coverage in a previous year. Justice Neil Gorsuch authored the 6-3 majority opinion.</p>\n<p>Although the key term \u201cextension\u201d is not defined in the statute, three textual clues indicate that it means an extension in time. The plain meaning of the word \u201cextension\u201d in a temporal sense does not require unbroken continuity. Without modifiers like \u201csuccessive\u201d or \u201cconsecutive,\u201d nothing in the statute suggests that a lapse in coverage precludes the extension.</p>\n<p>Justice Amy Coney Barrett authored a dissenting opinion, in which Justices Sonia Sotomayor and Elena Kagan joined. Justice Barrett argued that the question before the Court is simply whether the provision limits the EPA to prolonging exemptions currently in place, or instead allows the EPA to provide exemptions to refineries that lack them. Justice Barrett concluded that the text and structure of the statute make clear that the EPA cannot \u201cextend\u201d an exemption that a refinery no longer has.</p>\n<p>\u00a0</p>\n"
+}

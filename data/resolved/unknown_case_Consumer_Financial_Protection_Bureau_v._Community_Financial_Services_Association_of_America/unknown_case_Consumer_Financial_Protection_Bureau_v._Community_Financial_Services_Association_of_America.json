@@ -1,0 +1,42 @@
+{
+    "ID": 63560,
+    "name": "Consumer Financial Protection Bureau v. Community Financial Services Association of America",
+    "href": "https://api.oyez.org/cases/2023/22-448",
+    "view_count": 0,
+    "docket_number": "22-448",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1677477600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55227"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1696309200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55343"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1715835600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55460"
+        }
+    ],
+    "question": "<p>Does the funding scheme for the Consumer Financial Protection Bureau, which receives funding directly from the Federal Reserve, violate the Appropriations Clause of the Constitution?</p>\n",
+    "citation": {
+        "volume": "601",
+        "page": null,
+        "year": "2024",
+        "href": "https://api.oyez.org/case_citation/case_citation/27942"
+    },
+    "term": "2023",
+    "description": "A case in which the Court upheld the funding scheme for the Consumer Financial Protection Bureau as consistent with the Appropriations Clause.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/601/22-448/",
+    "facts_of_the_case": "<p>In response to the financial crisis around 2007, Congress passed the Dodd\u2013Frank Wall Street Reform and Consumer Protection Act, which, among other things, authorized the creation of the Consumer Financial Protection Bureau (CFPB) as an independent agency within the Federal Reserve. The CFPB was tasked with writing and enforcing rules for financial institutions, examining financial institutions, monitoring and reporting on markets, and tracking consumer complaints.</p>\n<p>In 2017, the CFPB adopted a rule that prohibited lenders from further attempting to withdraw funds from borrowers\u2019 bank accounts after two consecutive attempts failed for lack of funds.</p>\n<p>A group of lenders sued the CFPB over that rule, arguing that the agency\u2019s funding scheme was unconstitutional. Instead of receiving money allocated to it each year by Congress, as most agencies do, the CFPB receives funding directly from the Federal Reserve, which collects fees from member banks. The district court concluded the funding scheme was not unconstitutional, but the U.S. Court of Appeals for the Fifth Circuit reversed.</p>\n",
+    "conclusion": "<p>The funding scheme for the Consumer Financial Protection Bureau satisfies the Appropriations Clause. Justice Clarence Thomas authored the 7-2 majority opinion of the Court.</p>\n<p>The Appropriations Clause provides that \u201c[n]o Money shall be drawn from the Treasury, but in Consequence of Appropriations made by Law.\u201d Art. I, \u00a79, cl. 7\u2014in other words, government spending must be authorized by an act of Congress. Historically, the word \u201cappropriation\u201d requires identifying a source of public funds and authorizing the expenditure of those funds for designated purposes. The practices of the English Parliament after the Glorious Revolution, the American Colonies, early state legislatures, and the First Congress varied widely in their specificity, duration, and structure, but all met these basic requirements.</p>\n<p>The statute authorizing the CFPB\u2019s funding likewise contains the necessary elements of a valid appropriation under the Appropriations Clause. It identifies a source of funds (the combined earnings of the Federal Reserve System), sets a maximum amount that can be drawn, and specifies the purpose for which the funds can be used (to pay the CFPB\u2019s expenses in carrying out its duties). Furthermore, the CFPB\u2019s funding mechanism is analogous to some of the broad, open-ended appropriations passed by the First Congress. Therefore, the CFPB's funding statute satisfies the requirements of the Appropriations Clause.</p>\n<p>Justice Elena Kagan authored a concurring opinion, in which Justices Sonia Sotomayor, Brett Kavanaugh, and Amy Coney Barrett joined, noting that CFPB\u2019s funding scheme would have been acceptable not only in the late-18th century, but also any other time in our Nation\u2019s history.</p>\n<p>Justice Ketanji Brown Jackson authored a concurring opinion, endorsing judicial restraint. She pointed out that \u201cwhen the Constitution\u2019s text does not provide a limit to a coordinate branch\u2019s power,\u201d courts \u201cshould not lightly assume that Article III implicitly directs the Judiciary to find one.\u201d</p>\n<p>Justice Samuel Alito authored a dissenting opinion, in which Justice Neil Gorsuch joined, arguing that the Appropriations Clause imposes more stringent obligations on Congress to monitor and control the expenditure of public funds and the projects they finance.</p>\n"
+}

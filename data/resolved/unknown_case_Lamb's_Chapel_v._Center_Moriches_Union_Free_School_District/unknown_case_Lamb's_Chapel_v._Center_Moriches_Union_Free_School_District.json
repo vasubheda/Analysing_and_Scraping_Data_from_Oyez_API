@@ -1,0 +1,35 @@
+{
+    "ID": 54098,
+    "name": "Lamb's Chapel v. Center Moriches Union Free School District",
+    "href": "https://api.oyez.org/cases/1992/91-2024",
+    "view_count": 0,
+    "docket_number": "91-2024",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                730533600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37046"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                739429200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37047"
+        }
+    ],
+    "question": "<p>Did the District violate the First Amendment's freedom of speech when it denied Lamb's Chapel the use of school premises to show religious-oriented films?</p>\n",
+    "citation": {
+        "volume": "508",
+        "page": "384",
+        "year": "1993",
+        "href": "https://api.oyez.org/case_citation/case_citation/20462"
+    },
+    "term": "1992",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/508/384/",
+    "facts_of_the_case": "<p>A New York law authorized schools to regulate the after-hour use of school property and facilities. The Center Moriches School District, acting under the statute, prohibited the use of its property by any religious group. The District refused repeated requests by Lamb's Chapel to use the school's facilities for an after-hours religious-oriented film series on family values and child rearing. The Chapel brought suit against the School District in federal court.</p>\n",
+    "conclusion": "<p>Yes, by a unaminous vote. The Supreme Court's holding consisted of two parts. First, the District violated freedom of speech by refusing the Chapel's request to show movies on school premises solely because such movies were religiously oriented. While non-public schools are permitted under New York law to restrict access to their premises based on subject matter or speaker identity, such restrictions must be reasonable and \"viewpoint neutral.\" In this case, the District's restriction was neither reasonable nor viewpoint neutral, since it allowed the presentation of all other views about family values and child rearing - except those which were presented from a religious perspective. Second, a grant of permission to the Chapel to use the District's premises would not have amounted to an establishment of religion. This is because the showing of the films would neither be school-sponsored during school hours nor closed to the public.</p>\n"
+}

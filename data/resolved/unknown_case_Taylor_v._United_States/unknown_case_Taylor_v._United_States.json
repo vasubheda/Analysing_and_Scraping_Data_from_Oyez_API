@@ -1,0 +1,42 @@
+{
+    "ID": 62580,
+    "name": "Taylor v. United States",
+    "href": "https://api.oyez.org/cases/2015/14-6166",
+    "view_count": 0,
+    "docket_number": "14-6166",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1443675600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53273"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1456207200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53363"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1466398800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53790"
+        }
+    ],
+    "question": "<p>In a federal criminal prosecution under the Hobbs Act, is the government required to prove beyond a reasonable doubt that the robbery of a drug dealer is an inherent economic enterprise that satisfies the interstate commerce element of the offense?</p>\n",
+    "citation": {
+        "volume": "579",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27358"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that, in a prosecution for robbery under the Hobbs Act, the commerce element is satisfied when the government shows that the defendant robbed a drug dealer of drugs or drug proceeds.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/579/14-6166/",
+    "facts_of_the_case": "<p>David Anthony Taylor was a member of the \u201cSouthwest Goonz,\u201d a group of robbers based in Roanoke, Virginia, that focused on robbing drug dealers, who typically have drug proceeds in their home and are reluctant to report crime. Taylor was indicted on two counts of robbery under the Hobbs Act, which prohibits actual or attempted robbery or extortion affecting interstate or foreign commerce. At Taylor\u2019s second trial, after his first resulted in a hung jury, the government moved to prevent Taylor from offering evidence that robbing a drug dealer who grows marijuana outside of state lines does not affect interstate commerce and therefore cannot violate the Hobbs Act. The district court granted the government\u2019s motion, and Taylor was subsequently convicted of both counts under the Hobbs Act. Taylor moved to set aside the verdict on the grounds that the government did not present sufficient evidence that his actions affected interstate commerce. The district court denied Taylor\u2019s motion, and the U.S. Court of Appeals for the Fourth Circuit affirmed the conviction.</p>\n",
+    "conclusion": "<p>In a prosecution for robbery under the Hobbs Act, the commerce element is satisfied when the government shows that the defendant robbed a drug dealer of drugs or drug proceeds. Justice Samuel A. Alito, Jr. delivered the opinion for the 7-1 majority. The Court held that \u201ccommerce\u201d under the Hobbs Act is defined broadly as all interstate commerce over which the federal government has jurisdiction. Precedent has established that the federal government can regulate intrastate economic activity that has substantial effects on interstate commerce, and although the sale of drugs is illegal under federal law, it is still an economic activity; therefore Congress can regulate purely intrastate drug theft. The government does not need to prove that the defendant\u2019s specific action affected interstate commerce as long as the affected activity does so in the aggregate.</p>\n<p>Justice Clarence Thomas wrote a dissent in which he argued that the majority\u2019s opinion went too far in expanding Commerce Clause jurisprudence. Because Congress does not have the power to regulate robbery by itself, it can only do so when such regulation is \u201cnecessary and proper\u201d to carrying out one of Congress\u2019 enumerated powers, such as the power to regulate interstate commerce. Commerce Clause jurisprudence has established that Congress may also regulate activities that bear an \u201cobvious, simple, and direct\u201d relationship to regulating interstate commerce. While a robbery might fit this criteria, not every robbery would. Therefore, in order to regulate robbery under the Hobbs Act, the government must prove that the robbery in question affected interstate commerce. To hold otherwise would rid the government of its burden in a criminal case to prove every element of the offense beyond a reasonable doubt.</p>\n"
+}

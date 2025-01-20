@@ -1,0 +1,42 @@
+{
+    "ID": 55210,
+    "name": "Pace v. DiGuglielmo",
+    "href": "https://api.oyez.org/cases/2004/03-9627",
+    "view_count": 0,
+    "docket_number": "03-9627",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1096347600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39206"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1109570400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39207"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1114578000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39208"
+        }
+    ],
+    "question": "<p>If a state court rejected Pace's post-conviction appeal as untimely, could his federal habeas petition still be \"properly filed\" within the context of the federal law establishing a one-year statute of limitations for such petitions?</p>\n",
+    "citation": {
+        "volume": "544",
+        "page": "408",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19138"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/544/408/",
+    "facts_of_the_case": "<p>In 1986 John Pace was convicted for murder in a Pennsylvania court. His post-conviction appeal was rejected by the state courts as untimely. In 1999 he filed a federal habeas corpus petition. While federal law provides a one-year statute of limitations on filing habeas petitions, that period is tolled while \"a properly filed\" state appeal is pending. The district court found Pace entitled to both statutory and equitable tolling, effectively discounting the period of time when Pace pursued appeals in state courts. Pennsylvania appealed and argued the court had no basis for the extension. The Third Circuit Court of Appeals agreed and ruled Pace could not file a federal habeas petition.</p>\n",
+    "conclusion": "<p>No. In a 5-4 opinion delivered by Chief Justice William H. Rehnquist, the Court held that the federal statute of limitations barred Pace's petition, as it was filed beyond the deadline. Pace was not entitled to statutory tolling because a petition filed after a time limit, which does meet any exceptions to that limit, was no more \"properly filed\" than a petition filed after a time limit permitting no exception. Moreover, because Pace did not pursue claims in a \"diligent\" and timely fashion, he was not entitled equitable tolling for any of the time period during which he pursued his state appeals.</p>\n"
+}

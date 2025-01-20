@@ -1,0 +1,42 @@
+{
+    "ID": 56117,
+    "name": "Teva Pharmaceuticals USA, Inc. v. Sandoz, Inc.",
+    "href": "https://api.oyez.org/cases/2014/13-854",
+    "view_count": 0,
+    "docket_number": "13-854",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1396242000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41709"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1413349200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41710"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1421733600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41711"
+        }
+    ],
+    "question": "<p>Can a district court's finding of fact in the construction of a patent claim be reviewed <em>de novo</em>, as though for the first time, which the U.S. Court of Appeals for the Federal Circuit requires and did in this case?</p>\n",
+    "citation": {
+        "volume": "574",
+        "page": "318",
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20925"
+    },
+    "term": "2014",
+    "description": "A case in which the Court ruled that a federal appellate court can only overturn a district court\u2019s finding of fact if those findings were determined to be \u201cclearly erroneous.\u201d",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/574/318/",
+    "facts_of_the_case": "<p>Sandoz, Inc., (Sandoz) and Mylan Pharmaceuticals, Inc. (Mylan) submitted Abbreviated New Drug Applications (ANDAs) to the Food and Drug Administration (FDA) to produce and market generic versions of Copaxone, a drug used to treat Multiple Sclerosis. Teva Pharmaceuticals USA, Inc., the manufacturer of the original drug, sued Sandoz and Mylan and used two different types of claims that are based on different ways to use molecular weight to distinguish between polymer samples. The district court did not distinguish between the different methods of using molecular weight and held that the claims were not indefinite as Sandoz and Mylan argued. After a bench trial, the district court held that the Sandoz and Mylan products infringed on Teva's patent.</p>\n<p>The U.S. Court of Appeals for the Federal Circuit held that the district court did not error in holding that the patents were infringed, but that some of the claims had not been effectively shown to be definite.</p>\n",
+    "conclusion": "<p>No. Justice Stephen G. Breyer delivered the opinion for the 7-2 majority. The Court held that a federal appellate court could only overturn a district court's finding of fact if those findings were determined to be \"clearly erroneous.\" Federal Rule of Civil Procedure 52(a)(6) established this standard without any exceptions, and there was no reason to create one in this case. Because the construction of a patent claim is essentially a factual determination, it should be governed by this well-established standard. Therefore, while an appellate court may still review a lower court's construction of a claim <em>de novo</em>, to overturn the lower court's ruling, the appellate court must find that the lower court has made a clear error with respect to the findings of fact.</p>\n<p>Justice Clarence Thomas wrote a dissent in which he argued that the construction of patent claims deals with questions of law, so Federal Rule of Procedure 52(a)(6), which only applies to questions of fact, is not the controlling standard. Instead, the appellate court was correct to apply a <em>de novo</em> standard of review, which increases uniformity. Justice Thomas wrote that a district court's determination is factual in nature when it deals with the historical fact of the case, as in the case of contracts and deeds, while it is a legal conclusion when it defines rules applicable beyond the specifics of the case at hand, as in the case of statutes. Based on this definition, the construction of patent claims should be considered a question of law. Justice Samuel A. Alito, Jr. joined in the dissent.</p>\n"
+}

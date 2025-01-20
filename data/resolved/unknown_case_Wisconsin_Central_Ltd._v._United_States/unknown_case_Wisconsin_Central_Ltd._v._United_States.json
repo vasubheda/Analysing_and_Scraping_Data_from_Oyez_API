@@ -1,0 +1,42 @@
+{
+    "ID": 62950,
+    "name": "Wisconsin Central Ltd. v. United States",
+    "href": "https://api.oyez.org/cases/2017/17-530",
+    "view_count": 0,
+    "docket_number": "17-530",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1515736800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54198"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1523854800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54227"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1529557200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54306"
+        }
+    ],
+    "question": "<p>Is the stock that a railroad company transfers to its employees taxable under the Railroad Retirement Tax Act, 26 U.S.C. \u00a7 3231(e)(1)?</p>\n",
+    "citation": {
+        "volume": "585",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27575"
+    },
+    "term": "2017",
+    "description": "A case in which the Court decided that employee stock options are not taxable \u201ccompensation\u201d under the Railroad Retirement Tax Act because they are not \u201cmoney remuneration.\u201d",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/585/17-530/",
+    "facts_of_the_case": "<p>Several subsidiaries of the Canadian National Railway Company (\u201cthe railway\u201d) began in 1996 paying its employees in stock options as part of their compensation. Under the Railroad Retirement Tax Act, 26 U.S.C. \u00a7 3231(e)(1), any form of \u201cmoney remuneration\u201d paid to railway employees is subject to an excise tax \u201cequal to a specified percentage of its employees\u2019 wages\u2026.\u201d (Railroad retirement tax rates are much higher than social security tax rates.)</p>\n<p>When employees exercise their stock options when the market price exceeds the price at which the employee has a right to buy the stock, the employee can benefit from a windfall. The Internal Revenue Service argues that this windfall is taxable, just as employees\u2019 wages are taxable.\u00a0</p>\n<p>The district court found for the government, and the Ninth Circuit affirmed. The appeals court reasoned that while the government\u2019s argument that \u201canything that has a market value is a form of money remuneration\u201d was too broad, it was still correct in its assertion that stock is equivalent to cash. Moreover, as a policy concern, the government\u2019s position avoids creating a tax incentive that could distort the ways in which employers structure compensation packages.</p>\n",
+    "conclusion": "<p>The Court reversed and remanded, holding that employee stock options are not taxable \u201ccompensation\u201d under the Railroad Retirement Tax Act because they are not \u201cmoney remuneration.\u201d\u00a0</p>\n<p>In a 5-4 opinion authored by Justice Gorsuch, the Court explained that as a matter of textual interpretation, stock options did not fall within the definition of \u201cmoney\u201d as it was understood at the time the Act was adopted. Stock options could be bought or sold for money, but did not constitute a medium of exchange themselves. And while adding the term \u201cremuneration\u201d indicated that Congress wanted to tax monetary compensation, which could take many forms, it did not indicate that it wanted to tax things that were not money at all, like stock.\u00a0</p>\n<p>The Court also stated that the broader statutory context of the time supported its reading. A provision of the 1939 Internal Revenue Code treated \u201cmoney\u201d and \u201cstock\u201d as two different things, and a companion statute to the Act taxed \u201call remuneration\u201d instead of just \u201cmoney remuneration,\u201d reflecting a difference in meaning between the two.</p>\n<p>The IRS itself also issued a regulation in 1938, explaining that the Act taxes \u201call remuneration in money, or in something which may be used in lieu of money,\u201d which included things like salaries, commissions, and bonuses. But the regulation did not suggest that stock was taxable.</p>\n<p>Justice Breyer authored a dissenting opinion, which was joined by Justices Ginsburg, Kagan, and Sotomayor.\u00a0</p>\n"
+}

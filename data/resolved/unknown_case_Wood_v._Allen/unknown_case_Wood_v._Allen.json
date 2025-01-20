@@ -1,0 +1,42 @@
+{
+    "ID": 55673,
+    "name": "Wood v. Allen",
+    "href": "https://api.oyez.org/cases/2009/08-9156",
+    "view_count": 0,
+    "docket_number": "08-9156",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1242622800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40469"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1257314400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40470"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1263967200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40471"
+        }
+    ],
+    "question": "<p>1) Is a state court's decision on post-conviction relief unreasonable when it concludes that during the sentencing phase of a capital case that an inexperienced attorney's decision not to present evidence of the defendant's intellectual deficiencies was strategic, while ignoring evidence that demonstrated otherwise?</p>\n<p>2) Did the rule followed by the Eleventh Circuit in this case abdicate its judicial review function under the Antiterrorism and Effective Death Penalty Act by failing to determine whether the state court decision was unreasonable in light of the entire state court record?</p>\n",
+    "citation": {
+        "volume": "558",
+        "page": null,
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19595"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that an inmate's conviction was proper, despite the fact that his attorney failed to properly investigate or introduce evidence that his IQ was well below average.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/558/290/",
+    "facts_of_the_case": "<p>In 1994, Holly Wood was convicted in an Alabama state court of capital murder during a first-degree burglary and sentenced to death. Both the Alabama Court of Criminal Appeals and the Alabama Supreme Court affirmed the conviction and sentence. Mr. Wood subsequently filed for post-conviction relief under Alabama Rule of Criminal Procedure 32, arguing that he was mentally retarded and thus not eligible for a death sentence and that his trial counsel was ineffective. The Rule 32 court disagreed and denied his petition. Mr. Wood then filed for federal habeas corpus relief in an Alabama federal district court. The district court granted relief, agreeing that Mr. Wood's counsel was ineffective at sentencing because they failed to present evidence of Mr. Wood's deficient intellectual deficiencies.</p>\n<p>On appeal, the U.S. Court of Appeals for the Eleventh Circuit reversed. It held that Mr. Wood's counsel was not ineffective. The court reasoned that Mr. Wood's attorneys acted reasonably when they decided it was in Mr. Wood's best interest to leave out information that illustrated his mental deficiencies. Moreover, the court recognized that while Mr. Wood's counsel included an inexperienced attorney, he merely acted as an assistant to the two experienced attorneys chiefly responsible for the case.</p>\n",
+    "conclusion": "<p>No. Not answered. The Supreme Court held that the state court's conclusion that counsel made a strategic decision not to pursue or present evidence of Mr. Wood's mental deficiencies was not an unreasonable determination under the facts. With Justice Sonia Sotamayor writing for the majority and joined by Chief Justice John G. Roberts and Justices Antonin G. Scalia, Clarence Thomas, Stephen G. Breyer, and Samuel A. Alito, the Court reasoned that the state court's conclusion was not unreasonable merely because a federal habeas court would have reached a different conclusion. Moreover, the evidence in the record indicated that counsel's failure to pursue or present evidence of the defendant's mental deficiencies was the result of a deliberate decision to focus on other defenses.</p>\n<p>Justice John Paul Stevens, joined by Justice Anthony M. Kennedy, wrote a separate dissenting opinion. Justice Stevens noted that the majority failed to distinguish between a decision not to introduce evidence at the guilt phase of trial and a failure to investigate mitigating evidence at the penalty phase. He argued that, contrary to the majority's conclusion, the evidence indicated that the decision of Mr. Wood's counsel was the result of \"inattention and neglect,\" rather than strategy.</p>\n"
+}

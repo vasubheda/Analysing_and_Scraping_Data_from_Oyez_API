@@ -1,0 +1,35 @@
+{
+    "ID": 62584,
+    "name": "MHN Government Services, Inc., and Managed Health Network, Inc. v. Zaborowski, et al.",
+    "href": "https://api.oyez.org/cases/2015/14-1458",
+    "view_count": 0,
+    "docket_number": "14-1458",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1443675600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53277"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1452146400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53452"
+        }
+    ],
+    "question": "<p>Is an arbitration clause in an employment contract that has been held to be unconscionable still enforceable?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/27362"
+    },
+    "term": "2015",
+    "description": "A case in which the Court will determine whether an unconscionable arbitration clause in a contract is enforceable. ",
+    "justia_url": null,
+    "facts_of_the_case": "<p>MHN Government Services (MHN) hired the plaintiffs, a group of professionally licensed counselors, to provide counseling to military service members and their families across the United States and overseas. The plaintiffs sued MHN for unpaid overtime under the Fair Labor Standards Act and claimed they were improperly identified as \u201cconsultants\u201d for MHN and not full-time employees, which resulted in the denial of overtime compensation. MHN filed a motion to compel arbitration because the plaintiffs\u2019 employment contract with MHN included a clause requiring arbitration and denying the right to \u201cjury or court trial.\u201d The district court denied the motion because it held that the arbitration provision was unconscionable, and under California law, unconscionable contracts are unenforceable. The district court held that the provision was unconscionable due to its placement near the bottom of the employment contract with no effort to highlight or draw attention to the provision, the fact that MHN is a major corporation whose bargaining power and finances put it in a superior position to the plaintiffs during arbitration, and the fact that the arbitration provision of the employment contract allowed for limited discovery. The U.S. Court of Appeals for the Ninth Circuit affirmed the lower court\u2019s decision.</p>\n",
+    "conclusion": "<p>Prior to oral arguments, the parties agreed to settle. After the parties notified the Court of this, the case was removed from the argument calendar.</p>\n"
+}

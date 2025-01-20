@@ -1,0 +1,35 @@
+{
+    "ID": 54709,
+    "name": "Albertsons Inc. v. Kirkingburg",
+    "href": "https://api.oyez.org/cases/1998/98-591",
+    "view_count": 0,
+    "docket_number": "98-591",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                925275600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38184"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                930027600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38185"
+        }
+    ],
+    "question": "<p>Are all individuals with vision problems of any degree \"disabled\" under the Americans with Disabilities Act and, therefore, subject to its protections?</p>\n",
+    "citation": {
+        "volume": "527",
+        "page": "555",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18638"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/527/555/",
+    "facts_of_the_case": "<p>Before starting his job as a truck driver for Albertsons Inc., Hallie Kirkingburg underwent an eye examination during which he was erroneously certified as meeting basic Department of Transportation (DOT) visual standards. Two years later, in 1992, the error of Kirkingburg's earlier diagnosis was discovered during a routine physical examination. Kinrkingburg was told that he had to obtain a DOT waiver if he wanted to continue driving. Before he could do so, however, Albertsons fired him for failing to meet minimum visual requirements and refused to rehire him even after he obtained the waiver. Kirkingburg challenged his dismissal under the 1990 Americans with Disabilities Act (ADA). On appeal from an adverse Ninth Circuit Court ruling reversing a favorable district court finding, the Supreme Court granted Albertsons certiorari.</p>\n",
+    "conclusion": "<p>No. In a unanimous decision, the Court held that not all individuals who suffer some sort of physical difficulty are per se \"disabled\" under the ADA. Instead, those who believe they suffer from a disability must prove their claim on a case-by-case basis by showing that their alleged disability substantially impacts on a major life activity. Moreover, such impact could be mitigated by the availability of artificial aids, such as medications or technical devices, and the body's own corrective measures. As such, Kirkingburg's visual limitation was not reflexively covered under the ADA and so his challenge was inappropriate.</p>\n"
+}

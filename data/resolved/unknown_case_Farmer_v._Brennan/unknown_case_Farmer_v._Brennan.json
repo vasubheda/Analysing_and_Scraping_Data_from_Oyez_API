@@ -1,0 +1,42 @@
+{
+    "ID": 54231,
+    "name": "Farmer v. Brennan",
+    "href": "https://api.oyez.org/cases/1993/92-7247",
+    "view_count": 0,
+    "docket_number": "92-7247",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                758354400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37298"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                770878800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37299"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                749710800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53598"
+        }
+    ],
+    "question": "<p>Is Farmer entitled to damages or an injunction against various federal prison officials responsible for transferring her to, or assigning Farmer within, a prison facility where Farmer was sexually assaulted by another inmate?</p>\n",
+    "citation": {
+        "volume": "511",
+        "page": "825",
+        "year": "1994",
+        "href": "https://api.oyez.org/case_citation/case_citation/18160"
+    },
+    "term": "1993",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/511/825/",
+    "facts_of_the_case": "<p>Dee Farmer, a biological male, underwent estrogen therapy, received silicone breast implants and underwent unsuccessful sex reassignment surgery.  Farmer was convicted and sentenced to prison on federal criminal charges. Prison medical personnel diagnosed Farmer as a transsexual.  Farmer was generally kept separate from the general male population, in part because of Farmer\u2019s misconduct, but also because of safety concerns.</p>\n<p>Farmer was transferred to the U.S. Penitentiary Terre Haute and placed in the general male population in accordance with prison policy.  Within two weeks, a cellmate allegedly beat and raped Farmer.  Farmer sued in federal district court, alleging that prison officials deliberately and indifferently failed to protect a prisoner.  This violated Farmer\u2019s protection against cruel and unusual punishment under the Eighth Amendment.  Farmer sought damages and an injunction against future incarceration in any prison.  The district court granted summary judgment in favor of the prison officials, noting that Farmer never complained or expressed any safety concerns prior to the incident.  The U.S. Court of Appeals for the Seventh Circuit affirmed.</p>\n",
+    "conclusion": "<p>Maybe.  Justice David H. Souter, writing for seven members of the court, vacated the lower court judgment and remanded.  The Supreme Court held that prison officials may be liable if they showed \u201cdeliberate indifference\u201d to a substantial risk of serious harm when the official was subjectively aware of the risk and disregarded it.  The Court remanded the case for further consideration of whether prison officials were aware of the risk to Farmer.  Justice Harry A. Blackmun concurred, writing that inhumane prison conditions violate the Eighth Amendment regardless of a prison official\u2019s state of mind.  Justice John Paul Stevens also concurred writing that he agreed with Justice Blackmun, but joined in the majority because it followed prior precedent.  Justice Clarence Thomas concurred in the judgment arguing that conditions of confinement do not violate the Eighth Amendment unless they are imposed as part of a sentence.</p>\n"
+}

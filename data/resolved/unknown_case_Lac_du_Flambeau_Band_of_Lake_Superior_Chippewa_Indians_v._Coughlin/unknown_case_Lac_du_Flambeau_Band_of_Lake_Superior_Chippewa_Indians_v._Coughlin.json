@@ -1,0 +1,42 @@
+{
+    "ID": 63552,
+    "name": "Lac du Flambeau Band of Lake Superior Chippewa Indians v. Coughlin",
+    "href": "https://api.oyez.org/cases/2022/22-227",
+    "view_count": 0,
+    "docket_number": "22-227",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1673589600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55209"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1682312400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55253"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1686805200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55295"
+        }
+    ],
+    "question": "<p>Does the Bankruptcy Code unequivocally abrogate tribal sovereign immunity?</p>\n",
+    "citation": {
+        "volume": "599",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27937"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held the Bankruptcy Code unequivocally expresses Congress\u2019s intent to abrogate the sovereign immunity of Native American tribes.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/599/22-227/",
+    "facts_of_the_case": "<p>In July 2019, Brian W. Coughlin took out a $1,100 payday loan from Lendgreen, a wholly owned subsidiary of the Lac Du Flambeau Band of Lake Superior Chippewa Indians (\u201cBand\u201d). Later that year, he filed a Chapter 13 bankruptcy petition in the District of Massachusetts and listed his debt to Lendgreen as a nonpriority unsecured claim. When he filed his petition, the Bankruptcy Code imposed an automatic stay enjoining \u201cdebt-collection efforts outside the umbrella of the bankruptcy case.\u201d</p>\n<p>Despite the stay, Lendgreen repeatedly contacted Coughlin seeking repayment of his debt. Coughlin moved to enforce the automatic stay against Lendgreen, and in response, the Band asserted tribal sovereign immunity and moved to dismiss the enforcement proceeding. The bankruptcy court granted the motion to dismiss, and the U.S. Court of Appeals for the First Circuit reversed.</p>\n",
+    "conclusion": "<p>The Bankruptcy Code unequivocally abrogates the sovereign immunity of all governments, including federally recognized Indian tribes. Justice Ketanji Brown Jackson authored the majority opinion of the Court.</p>\n<p>To abrogate sovereign immunity, Congress must make its intent to abrogate \u201cunmistakably clear in the language of the statute.\u201d The statute at issue here contains such unmistakably clear language.</p>\n<p>First, 11 U.S.C. \u00a7 106(a) expressly abrogates the sovereign immunity of \u201cgovernmental unit[s]\u201d for certain enumerated purposes. Section 101(27), defines \u201cgovernmental unit\u201d as \u201cUnited States; State; Commonwealth; District; Territory; municipality; foreign state; department, agency, or instrumentality of the United States . . . , a State, a Commonwealth, a District, a Territory, a municipality, or a foreign state; or other foreign or domestic government.\u201d This definition \u201cexudes comprehensiveness from beginning to end,\u201d and other provisions of the Bankruptcy Code support this understanding as well. Federally recognized tribes are \u201cindisputably\u201d governments, so the \u00a7 106(a) unequivocally abrogates their sovereign immunity.</p>\n<p>Justice Clarence Thomas authored an opinion concurring in the judgment. Justice Thomas reiterated an argument he has made before that to the extent that tribes possess sovereign immunity at all, that immunity does not extend to \u201csuits arising out of a tribe\u2019s commercial activities conducted beyond its territory.\u201d</p>\n<p>Justice Neil Gorsuch authored a dissenting opinion arguing that the Court\u2019s clear-statement rule requires the statute to expressly mention Indian tribes in order to abrogate their sovereign immunity. Because the Bankruptcy Code does not, he would hold that it does not abrogate federally recognized Indian tribes\u2019 sovereign immunity.</p>\n"
+}

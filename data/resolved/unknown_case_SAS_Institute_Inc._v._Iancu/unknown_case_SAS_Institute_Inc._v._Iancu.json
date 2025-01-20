@@ -1,0 +1,42 @@
+{
+    "ID": 62847,
+    "name": "SAS Institute Inc. v. Iancu",
+    "href": "https://api.oyez.org/cases/2017/16-969",
+    "view_count": 0,
+    "docket_number": "16-969",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1495429200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54037"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1511762400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54126"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1524546000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54255"
+        }
+    ],
+    "question": "<p>Under 35 U.S.C. \u00a7 318(a), must the Patent Trial and Appeal Board in its final written decision address every claim that is challenged in the petition, or may said decision merely address a subset of those claims?\u2028</p>\n",
+    "citation": {
+        "volume": "584",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27518"
+    },
+    "term": "2017",
+    "description": "A case in which the Court decided that when the United States Patent and Trademark Office institutes an inter partes review to reconsider an already-issued patent claim, under 35 U.S.C. \u00a7\u00a7 311-319, it must decide the patentability of all of the claims the petitioner has challenged.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/584/16-969/",
+    "facts_of_the_case": "<p>SAS Institute Inc. appealed a decision by the U.S. Court of Appeals for the Federal Circuit in which that court held that the Patent Trial and Appeal Board (PTAB) did not err in issuing a final written decision in an inter partes review that was petitioned by SAS Institute. While the PTAB contended that it need only have addressed certain challenged claims, rather than every challenged claim, SAS alleged that the PTAB in fact misconstrued a claim term, as well as erred by not addressing all the claims SAS challenged in its original petition.\u2028</p>\n",
+    "conclusion": "<p>In a 5-4 opinion the Court reversed and remanded, holding that when the United States Patent and Trademark Office institutes an inter partes review to reconsider an already-issued patent claim, under 35 U.S.C. \u00a7\u00a7311\u2013319, it must decide the patentability of all of the claims the petitioner has challenged.</p>\n<p>Justice Gorsuch authored the majority opinion, stating that the plain text of the statute decided the question in this case. The Court explained that \u00a7 318(a)'s use of the words \"shall\" and \"any\" imposed a mandatory and comprehensive directive. Thus, if the statutory language provided that the Patent Trial and Appeal Board's \"final written decision 'shall' resolve the patentability of 'any patent claim challenged by the petitioner,' it mean[t] the Board must address every claim the petitioner . . . challenged.\"</p>\n<p>The Court went on to state that \u00a7 312(a)(3) envisioned a review process guided by the petitioner rather than the agency. And while the agency director had the authority to reexamine any patentability questions on an ex parte basis at any time under \u00a7 303(a), Congress structured the inter partes review statute to provide the director with simply a \"yes or no\" choice as to whether to review pursuant to a given petition.&nbsp;</p>\n<p>The Court rejected the notion that efficiency considerations justified a claim-by-claim approach, characterizing this as a policy argument better suited for legislative than judicial consideration. It also found unpersuasive the idea that any \"partial institution\" power asserted by the director was not entitled to Chevron deference. Finally, the opinion noted that judicial review pursuant to the Administrative Procedure Act remained available in the event that the agency acted outside the confines of its statutory authority.</p>\n<p>Justice Ginsburg authored a dissenting opinion, which was joined by Justices Breyer and Sotomayor. Justice Kagan joined the dissent except as to Part III-A.</p>\n"
+}

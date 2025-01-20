@@ -1,0 +1,35 @@
+{
+    "ID": 54664,
+    "name": "Almendarez-Torres v. United States",
+    "href": "https://api.oyez.org/cases/1997/96-6839",
+    "view_count": 0,
+    "docket_number": "96-6839",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                876805200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38104"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                890719200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38105"
+        }
+    ],
+    "question": "<p>Does subsection (b)(2) of 8 USC section 1326(a), which forbids an alien who once was deported to return to the United States without special permission, define a separate crime?</p>\n",
+    "citation": {
+        "volume": "523",
+        "page": "224",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18593"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/523/224/",
+    "facts_of_the_case": "<p>8 USC section 1326(a) makes it a crime, punishable by up to two years in prison, for a deported alien to return to the United States without special permission. In 1998, Congress added subsection (b)(2), which authorizes a maximum prison term of 20 years for \"any alien described\" in subsection (a), if the initial \"deportation was subsequent to a conviction for commission of an aggravated felony.\" In 1995, Hugo Almendarez-Torres pleaded guilty to violating section 1326. Ultimately, the District Court sentenced Almendarez- Torres to 85 months' imprisonment. The court rejected his argument that, because his indictment failed to mention his aggravated felony convictions, the court could not sentence him to more than the maximum sentence authorized by section 1326(a). In affirming, the Court of Appeals held that subsection (b)(2) is a penalty provision which permits the imposition of a higher sentence when the unlawfully returning alien also has a record of prior convictions.</p>\n",
+    "conclusion": "<p>No. In a 5-4 opinion delivered by Justice Stephen G. Breyer, the Court held that subsection (b)(2) of 8 USC section 1326(a) is a penalty provision, which authorizes a court to increase the sentence for a recidivist, and does not define a separate crime. \"[W]e note that the relevant statutory subject matter is recidivism,\" wrote Justice Breyer, \"[t]hat subject matter -- prior commission of a serious crime -- is as typical a sentencing factor as one might imagine.\" Therefore, neither subsection (b)(2) nor the due process clause of the Fifth Amendment required that the government charge a prior aggravated felony conviction in the alien's indictment for the imposition of a sentence more than 2 years.</p>\n"
+}

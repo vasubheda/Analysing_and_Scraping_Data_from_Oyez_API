@@ -1,0 +1,42 @@
+{
+    "ID": 56150,
+    "name": "Kingsley v. Hendrickson",
+    "href": "https://api.oyez.org/cases/2014/14-6368",
+    "view_count": 0,
+    "docket_number": "14-6368",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1421388000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41759"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1430110800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41760"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1434949200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52763"
+        }
+    ],
+    "question": "<p>When the plaintiff is a pretrial detainee, are the requirements of an excessive force claim satisfied by showing that the state actor deliberately used force and the use of force was objectively unreasonable?</p>\n",
+    "citation": {
+        "volume": "576",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20970"
+    },
+    "term": "2014",
+    "description": "A case in which the Court held that a pretrial detainee who brings an excessive force claim need only prove that the use of force in question was objectively unreasonable.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/576/389/",
+    "facts_of_the_case": "<p>In May 2010, Michael Kingsley, who was being held as a pretrial detainee in Monroe County Jail, was ordered to take down a piece of paper covering the light above his cell bed but refused to do so. After Sergeant Stan Hendrickson ordered Kingsley to take down the paper several times and each time was met with refusal, Lieutenant Robert Conroy, the jail administrator, ordered the jail staff to take down the paper and transfer Kingsley to another cell. During the transfer, Kingsley refused to act as ordered, so the officers pulled him to his feet in such a manner that his feet hit the bedframe, which caused pain and made him unable to walk or stand. In the new cell, when Kingsley resisted the officers' attempts to remove the handcuffs, Hendrickson put his knee in Kingsley's back and Kingsley yelled at him. Kingsley also claimed that Hendrickson smashed his head into the concrete bunk. After further verbal exchange, another officer applied a taser to Kingsley's back.</p>\n<p>Kingsley sued Hendrickson and other jail staff members and claimed that their actions violated his due process rights under the Fourteenth Amendment. The jury found the defendants not guilty. Kingsley appealed and argued that the jury was wrongly instructed on the standards for judging excessive force and intent. The U.S. Court of Appeals for the Seventh Circuit reversed.</p>\n",
+    "conclusion": "<p>Yes. Justice Stephen G. Breyer delivered the opinion of the 5-4 majority. The Court held that, in a claim regarding whether an officer used excessive force against a pretrial detainee, the plaintiff is not required to prove that the defendant thought the force was excessive but that the force was excessive based on an objective standard. Therefore, the court must determine whether, from the perspective of a reasonable officer on the scene at the time, the use of force in question was excessive. The Court held that the objective standard is in line with existing precedent that holds that the Due Process Clause protects pretrial detainees from excessive force that amounts to punishment, which can be shown through evidence that proves that the force in question was not reasonably related to the legitimate purpose of holding detainees for trial. The objective standard also protects an officer who acts in good faith by taking into account the situation as the officer was aware of it at the time. The Court also noted that the use of force in question must be deliberate in order to give rise to an excessive force claim.</p>\n<p>Justice Antonin Scalia wrote a dissenting opinion in which he argued that, while the Due Process Clause protects pretrial detainees from conditions that amount to punishment, objectively unreasonable force does not rise to the level of intentional punishment that the Due Process Clause prohibits. Because punitive intent cannot be inferred simply from the fact that an officer used more force than was objectively necessary, simply showing that the force in question was objectively unreasonable does not violate a pretrial detainees rights under the Due Process Clause. Chief Justice John G. Roberts, Jr. and Justice Clarence Thomas joined in the dissent. In his separate dissent, Justice Samuel A. Alito, Jr. wrote that the Court should have dismissed this case as improvidently granted because such a case should be examined under Fourth Amendment search and seizure analysis before the Court addresses the due process claims brought here.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55918,
+    "name": "Ryan v. Gonzales",
+    "href": "https://api.oyez.org/cases/2012/10-930",
+    "view_count": 0,
+    "docket_number": "10-930",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1332133200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41117"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1349758800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41118"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1357624800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41119"
+        }
+    ],
+    "question": "<p>Does a death row inmate have the right to suspend federal habeas corpus proceedings when found incompetent to assist counsel?</p>\n",
+    "citation": {
+        "volume": "568",
+        "page": "57",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19840"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that no right to competence exists during federal habeas corpus proceedings.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/568/57/",
+    "facts_of_the_case": "<p>Ernest Valencia Gonzales was convicted for the murder of Darrel Wagner. His conviction and death sentence became final on January 8, 1996. Gonzalez exhausted his state-court post-conviction relief opportunities before challenging his conviction in federal court.</p>\n<p>In November 1999, Gonzales initiated a federal habeas proceeding, which raised 60 claims for federal habeas relief, including claims relating to Gonzales' competence and ability to rationally communicate with his court-appointed attorneys. The federal court stayed Gonzales' execution pending resolution of those proceedings. Ultimately, the district court denied Gonzales' motion for a competency hearing and a stay of proceedings. Even though it determined that Gonzales was incompetent, the court considered this irrelevant because Gonzales' claims could not benefit from rational communication with counsel.</p>\n<p>Gonzales appealed to the U.S. Court of Appeals for the Ninth Circuit. It disagreed with the lower court and held that Gonzales was entitled to a stay pending a competency determination. The Arizona Department of Corrections appealed.</p>\n<p>The related case, <em>Tibbals v. Carter</em>, was a similar capital murder appeal from the U.S. Court of Appeals for the Sixth Circuit. Sean Carter, the defendant, was adjudged incompetent to assist his attorneys following his murder conviction. The district court granted Carter a stay on his habeas corpus proceedings based on a right to competence in such proceedings. After the appellate court affirmed, the State appealed further and the Court granted certiorari to answer the same question as in <em>Ryan v. Gonzales</em>.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion, Justice Clarence Thomas reversed the judgment of the Ninth Circuit and vacated the judgment of the Sixth Circuit. The Court reasoned that neither a statutory nor a constitutional right to competence exists during federal habeas corpus proceedings. Though the district court has broad discretion to grant a stay on habeas proceedings, this discretion is not without its limitations. In both cases, a stay was unwarranted because communication between the defendant and his attorney was unnecessary. The record provided adequate information for an attorney to handle habeas proceedings on his own, regardless of a client's incompetence. Even if the district court were to decide that the defendant's competence was necessary, it should only grant a stay if the defendant is likely to regain competence in the foreseeable future. Otherwise, allowing a stay on their proceedings would unreasonably burden the judicial system.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 56057,
+    "name": "Gelboim v. Bank of America",
+    "href": "https://api.oyez.org/cases/2014/13-1174",
+    "view_count": 0,
+    "docket_number": "13-1174",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1404104400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41628"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1418104800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41629"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1421820000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41630"
+        }
+    ],
+    "question": "<p>Is a dismissed claim immediately appealable if the claim is part of a consolidated action and no final order has been issued concerning all claims in the action?</p>\n",
+    "citation": {
+        "volume": "574",
+        "page": "405",
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20913"
+    },
+    "term": "2014",
+    "description": "A case in which the Court ruled that a dismissed claim is immediately appealable if the claim is part of a consolidated action and no final order has been issued concerning all claims in the action.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/574/405/",
+    "facts_of_the_case": "<p>The London Interbank Offer Rate (LIBOR) is a daily interest rate benchmark that is used to help set the interest rate of financial transactions across the globe. Between August 2007 and May 2010, it has been alleged that the LIBOR rate was artificially manipulated downward by a number of colluding financial institutions. Ellen Gelboim was one of many parties to file individual suits against these financial institutions. Given the large number of cases, Gelboim's case was consolidated with a number of other similar cases for pre-trial purposes. During this pre-trial phase, the district court dismissed a number of the cases, including Gelboim's, for failure to state a claim. Gelboim sought to appeal the dismissal, however the U.S. Court of Appeals for the Second Circuit dismissed Gelboim's appeal and held that it lacked jurisdiction over the appeal because the district court had not entered a final order concerning all the claims in the consolidated action.</p>\n",
+    "conclusion": "<p>Yes. Justice Ruth Bader Ginsburg delivered the opinion for the unanimous Court. The Court held that, because cases that are consolidated for pretrial proceedings retain their separate identities, the question is not whether all claims within the consolidated cases have been subject to a final order, but whether the specific case which is being appealed has been subject to a final order. Because Gelboim's case had been dismissed without leave to amend, the dismissal acted as a final order and thus Gelboim could appeal the district court's dismissal of her case.</p>\n"
+}

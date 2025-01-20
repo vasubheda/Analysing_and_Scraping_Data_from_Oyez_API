@@ -1,0 +1,35 @@
+{
+    "ID": 54802,
+    "name": "Stenberg v. Carhart",
+    "href": "https://api.oyez.org/cases/1999/99-830",
+    "view_count": 0,
+    "docket_number": "99-830",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                956638800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38353"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                962168400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38354"
+        }
+    ],
+    "question": "<p>Does the Nebraska statute, which makes the performance of a \"partial birth abortions\" a crime, violate the liberty protected by due process of the Fourteenth Amendment in the U.S. Constitution?</p>\n",
+    "citation": {
+        "volume": "530",
+        "page": "914",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18731"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/530/914/",
+    "facts_of_the_case": "<p>A Nebraska law prohibited any \"partial birth abortion\" unless that procedure was necessary to save the mother's life. It defined \"partial birth abortion\" as a procedure in which the doctor \"partially delivers vaginally a living unborn child before killing the... child,\" and defined the latter phrase to mean \"intentionally delivering into the vagina a living unborn child, or a substantial portion thereof, for the purpose of performing a procedure that the [abortionist] knows will kill the... child and does kill the... child.\" Violation of the law is a felony, and it provides for the automatic revocation of a convicted doctor's state license to practice medicine. Leroy Carhart, a Nebraska physician who performs abortions in a clinical setting, brought suit seeking a declaration that the statute violates the U.S. Constitution, claiming the law was unconstitutionally vague and placed an undue burden on himself and female patients seeking abortions. The District Court held the statute unconstitutional. The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>Yes. In a complicated 5-4 decision delivered by Justice Stephen G. Breyer, the Court held that \"Nebraska's statute criminalizing the performance of \"partial birth abortion[s]\" violates the U.S. Constitution, as interpreted in Casey and Roe.\" The sharply divided Court struck down the statute because it placed an undue burden on a woman's right to have an abortion and did not allow for exception in cases of threatened health. \"All those who perform abortion procedures using that method must fear prosecution, conviction, and imprisonment,\" that results in \"an undue burden upon a woman's right to make an abortion decision,\" wrote Justice Breyer for the Court. Justice Antonin Scalia's dissent concluded that \"[t]he notion that the Constitution of the United States... prohibits the States from simply banning this visibly brutal means of eliminating our half-born posterity is quite simply absurd.\"</p>\n<p><em>Learn more about the Supreme Court and abortion law in <a href=\"http://projects.oyez.org/body-politic\">Body Politic</a>, a nonpartisan Oyez resource.</em></p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 53891,
+    "name": "Payne v. Tennessee",
+    "href": "https://api.oyez.org/cases/1990/90-5721",
+    "view_count": 0,
+    "docket_number": "90-5721",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                672469200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36653"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                677998800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36654"
+        }
+    ],
+    "question": "<p>Does the Eighth Amendment prohibit a capital sentencing jury from considering the impact that a victim's death had upon surviving family members?</p>\n",
+    "citation": {
+        "volume": "501",
+        "page": "808",
+        "year": "1991",
+        "href": "https://api.oyez.org/case_citation/case_citation/17820"
+    },
+    "term": "1990",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/501/808/",
+    "facts_of_the_case": "<p>A Tennessee court tried Pervis Payne for murdering Charisse Christopher and her daughter Lacie. In hopes of avoiding the death penalty, Payne provided four witnesses testifying to his good character. The prosecution had Charisse's mother share how Charisse's death had impacted her surviving son Nicholas. In closing arguments, the prosecutor referenced Nicholas' loss of his mother when calling for the death penalty. The jury convicted him and sentenced him to death. Payne argued that the prosecution could not use testimony of how the victim's death impacted family members when contending for the death penalty. The Tennessee Supreme Court ruled against him.</p>\n",
+    "conclusion": "<p>No. Chief Justice William H. Rehnquist delivered the opinion for a 6-3 court. The Court overruled <em>Booth v. Maryland</em> and <em>South Carolina v. Gathers</em> which prohibited the submission of evidence relating to the harms caused by the victim's death. The Court reasoned that since \"[v]irtually no limits are placed on the relevant mitigating evidence a capital defendant may introduce concerning his own circumstances,\" the prosecution must be allowed to submit similar counter evidence. Evidence regarding the \"assessment of the harm caused by the defendant has long been an important factor in determining the appropriate punishment, and victim impact evidence is simply another method of informing the sentencing authority about such harm.\"</p>\n"
+}

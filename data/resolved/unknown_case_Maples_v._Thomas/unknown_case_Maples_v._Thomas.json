@@ -1,0 +1,42 @@
+{
+    "ID": 55890,
+    "name": "Maples v. Thomas",
+    "href": "https://api.oyez.org/cases/2011/10-63",
+    "view_count": 0,
+    "docket_number": "10-63",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1300683600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41033"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1317704400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41034"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1326866400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41035"
+        }
+    ],
+    "question": "<p>Did the Eleventh Circuit properly hold that there was no \"cause\" to excuse any procedural default when the petitioner was blameless for the default, the State's own conduct contributed to the default and the petitioner's attorneys of record were no longer functioning as his agents at the time of any default?</p>\n",
+    "citation": {
+        "volume": "565",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19812"
+    },
+    "term": "2011",
+    "description": "A case in which the Court found that a prisoner's attorneys abandoning his case without informing him was a reasonable excuse to prevent the prisoner from having an appeal denied due to a failure to file a motion in advance of the deadline.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/565/266/",
+    "facts_of_the_case": "<p>Cory Maples was convicted of murder and sentenced to death by an Alabama jury in 1997. Alabama does not provide death row inmates with lawyers to appeal their convictions and sentences; they must rely on pro bono lawyers to represent them on appeal. Two associates from Sullivan &amp; Cromwell, a New York law firm, agreed to represent Maples without charge. However the two associates subsequently left the firm, and when the Alabama court sent two copies of a ruling in Maples' case to the firm's mailroom it sent them back unopened. The firm had not notified the court or the mailroom that new lawyers had stepped in.</p>\n<p>When Maples learned of the missed deadline, he immediately informed his step-mother, who contacted Sullivan &amp; Cromwell. Other attorneys at that firm then sought leave to file an appeal notwithstanding the missed deadline, but that request was denied. The Alabama Supreme Court and later the U.S. Court of Appeals for the Eleventh Circuit also declined to waive the deadline for filing an appeal in his case.</p>\n",
+    "conclusion": "<p>No. Justice Ruth Bader Ginsburg delivered the opinion of the Court reversing the appellate court's holding. After a critical discussion of Alabama's practices regarding post-conviction representation, the Court held that cause for a procedural default exists when something external to a petitioner impedes the petitioner's efforts to comply with a State's procedural rules. The Court noted that attorney negligence generally does not constitute cause, because an attorney is said to be the agent of the attorney's client which means that the client is responsible for the attorney's negligence. However, the court noted that in this case, Maples' attorneys' negligent actions did constitute cause because the attorneys effectively severed the principal agent relationship by abandoning Maples. In the case of the Alabama attorney, the Court determined his role to be so minimal that that it stated that the Alabama attorney never truly began to have an attorney client relationship.</p>\n<p>Justice Samuel Alito wrote a concurring opinion. The justice agreed that the petitioner effectively lacked legal representation. However, he emphasized that the Alabama system of relying on out-of-state lawyers for post conviction death penalty appeals was not to blame for Maples' misfortune, but that Maples' misfortune was the result of a unique set of circumstances.</p>\n<p>Justice Antonin Scalia wrote a dissenting opinion, which Justice Clarence Thomas joined. The Justice agreed with the principal that a court could excuse a procedural default due to abandonment by an attorney and that the two out-of-state attorneys of record abandoned representation of Maples. However, he disagreed with the Court's conclusion that Maples was left unrepresented during the relevant window. Instead, he concluded that Maples continued to be represented by the law firm Sullivan &amp; Cromwell as well as the Alabama attorney John Butler.</p>\n"
+}

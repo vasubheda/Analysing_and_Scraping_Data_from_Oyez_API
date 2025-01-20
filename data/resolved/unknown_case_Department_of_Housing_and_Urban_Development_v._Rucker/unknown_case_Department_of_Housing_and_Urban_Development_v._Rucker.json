@@ -1,0 +1,35 @@
+{
+    "ID": 54957,
+    "name": "Department of Housing and Urban Development v. Rucker",
+    "href": "https://api.oyez.org/cases/2001/00-1770",
+    "view_count": 0,
+    "docket_number": "00-1770",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1014098400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38651"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1017122400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38652"
+        }
+    ],
+    "question": "<p>Does the Anti-Drug Abuse Act of 1988, as amended, allow local public housing agencies to evict tenants for drug-related activity of non-tenant relatives or guests regardless of whether tenants knew, or should have known, about the activity?</p>\n",
+    "citation": {
+        "volume": "535",
+        "page": "125",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/18886"
+    },
+    "term": "2001",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/535/125/",
+    "facts_of_the_case": "<p>The Anti-Drug Abuse Act of 1988, as amended, provides that each \"public housing agency shall utilize leases...providing that...any drug-related criminal activity on or off [federally assisted low-income housing] premises, engaged in by a public housing tenant, any member of the tenant's household, or any guest or other person under the tenant's control, shall be cause for termination of tenancy.\" Paragraph 9(m) of the leases of the tenants of the Oakland Housing Authority (OHA) obligates them to \"assure that the tenant, any member of the household, a guest, or another person under the tenant's control, shall not engage in?any drug-related criminal activity on or near the premises.\" After the relations of four tenants were linked to drug activity, OHA instituted state-court eviction proceedings against respondents, alleging violations of lease paragraph 9(m) by a member of each tenant's household or a guest. The tenants filed an action, arguing that the Act does not require lease terms authorizing the eviction of the \"innocent\" tenants. The District Court's issuance of a preliminary injunction against OHA was affirmed by an en banc Court of Appeals.</p>\n",
+    "conclusion": "<p>Yes. In an 8-0 opinion delivered by Chief Justice William H. Rehnquist, the Court held that the Anti-Drug Abuse Act of 1988 unambiguously requires lease terms that vest local public housing authorities with the discretion to evict tenants for the drug-related activity of household members and guests whether or not the tenant knew, or should have known, about the activity. Chief Justice Rehnquist wrote, \"Congress' decision not to impose any qualification in the statute, combined with its use of the term 'any' to modify 'drug-related criminal activity,' precludes any knowledge requirement.\" The Chief Justice also noted that it was reasonable for Congress to permit no-fault evictions in order to provide public housing that was decent, safe, and free from illegal drugs. Justice Stephen G. Breyer did not participate in the case.</p>\n"
+}

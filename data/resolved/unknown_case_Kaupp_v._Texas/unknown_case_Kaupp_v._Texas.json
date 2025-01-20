@@ -1,0 +1,35 @@
+{
+    "ID": 55033,
+    "name": "Kaupp v. Texas",
+    "href": "https://api.oyez.org/cases/2002/02-5636",
+    "view_count": 0,
+    "docket_number": "02-5636",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1052110800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38793"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                1052110800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53466"
+        }
+    ],
+    "question": "<p>1. Does an arrest for which the police did not obtain a warrant and in which it was not clear that the suspect could decline to go with the police violate the Fourth Amendment?</p>\n<p>2. If so, should the subsequent confession be suppressed?</p>\n",
+    "citation": {
+        "volume": "538",
+        "page": "626",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/18962"
+    },
+    "term": "2002",
+    "description": "A case in which the Court held that an arrest that lacked probable cause and to which the suspect did not consent violated the Fourth Amendment, and therefore any subsequent confession that resulted from the illegal arrest must be suppressed. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/538/626/",
+    "facts_of_the_case": "<p>In January 1999, a 14-year-old girl disappeared. The police discovered that she had been having a sexual relationship with her 19-year-old half-brother, who had been with Robert Kaupp on the day of the girl\u2019s disappearance. The police questioned the girl\u2019s half-brother and Kaupp at police headquarters and allowed Kaupp to leave. The half-brother later confessed to stabbing the missing girl and implicated Kaupp in the crime. The police failed to obtain a warrant to question Kaupp, but they went to his home in the middle of the night and were given permission to enter by Kaupp\u2019s father. Police officers awakened Kaupp and said, \u201cWe need to go and talk,\u201d and Kaupp responded, \u201cOkay.\u201d Wearing only his pajamas and no shoes, Kaupp was handcuffed and taken for questioning. There is no evidence that Kaupp was told he could decline to go with the officers for questioning. Kaupp was read his Miranda rights at the police station and, after being informed of the half-brother\u2019s confession, admitted to some involvement in the crime. At trial, Kaupp moved to suppress his confession as the fruit of an illegal arrest. The motion was denied, and Kaupp was convicted of murder and sentenced to 55 years in prison. The Texas Court of Appeals confirmed the district court\u2019s conviction and held that no arrest had occurred until after Kaupp\u2019s confession because Kaupp\u2019s statement indicated that he consented to going with the officers. The Texas Court of Criminal Appeals denied discretionary review.</p>\n",
+    "conclusion": "<p>An arrest within the meaning of the Fourth Amendment occurs when a reasonable person would not feel free to ignore the police and go about his business, and such an arrest requires probable cause. A confession that results from an illegal arrest must be suppressed unless the conditions of the confession indicated it was not influenced by the illegal arrest. In a per curiam opinion, the Court held that an arrest within the meaning of the Fourth Amendment occurred and that Kaupp\u2019s conduct was not consent sufficient to overcome the probable cause requirement. Although he received the Miranda warnings, the warnings were insufficient to constitute an intervening event that could remove the influence of the illegal arrest when all the other conditions of the illegal arrest, such as Kaupp\u2019s partially clothed state and the presence of the officers who arrested him, remained present. Thus,\u00a0Kaupp\u2019s confession in this case should have been suppressed.</p>\n"
+}

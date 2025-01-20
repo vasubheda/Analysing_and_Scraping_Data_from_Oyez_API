@@ -1,0 +1,35 @@
+{
+    "ID": 55114,
+    "name": "Howsam v. Dean Witter Reynolds, Inc.",
+    "href": "https://api.oyez.org/cases/2002/01-800",
+    "view_count": 0,
+    "docket_number": "01-800",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1034139600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38944"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1039500000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38945"
+        }
+    ],
+    "question": "<p>Should a federal district court decide whether to interpret and apply the National Association of Securities Dealers' time-limit rule regarding disputes where six years have elapsed since the event that gives rise to the dispute?</p>\n",
+    "citation": {
+        "volume": "537",
+        "page": "79",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/19043"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/537/79/",
+    "facts_of_the_case": "<p>According to Dean Witter Reynolds, Inc.'s standard client agreement, Karen Howsam chose to arbitrate her dispute with the company before the National Association of Securities Dealers (NASD). NASD's Code of Arbitration Procedure section 10304 states that no dispute \"shall be eligible for submission...where six (6) years have elapsed from the occurrence or event giving rise to the dispute.\" Dean Witter filed suit, asking the Federal District Court to declare the dispute ineligible for arbitration because it was more than six years old. The court dismissed the action, stating that the NASD arbitrator should interpret and apply the NASD rule. In reversing, the Court of Appeals found that the rule's application presented a question of the underlying dispute's arbitrability and the presumption is that a court will ordinarily decide an arbitrability question.</p>\n",
+    "conclusion": "<p>No. In an 8-0 opinion delivered by Justice Stephen G. Breyer, the Court held that the applicability of the NASD time-limit rule is a matter presumptively for the arbitrator. Justice Breyer reasoned that the issue did not raise a substantive question of arbitrability requiring judicial resolution. The NASD's time-limit rule \"falls within the class of gateway procedural disputes that do not present what our cases have called 'questions of arbitrability.' And the strong pro-court presumption as to the parties' likely intent does not apply,\" concluded Justice Breyer. Justice Clarence Thomas concurred in the judgment. Justice Sandra Day O'Connor took no part in the consideration or decision of this case.</p>\n"
+}

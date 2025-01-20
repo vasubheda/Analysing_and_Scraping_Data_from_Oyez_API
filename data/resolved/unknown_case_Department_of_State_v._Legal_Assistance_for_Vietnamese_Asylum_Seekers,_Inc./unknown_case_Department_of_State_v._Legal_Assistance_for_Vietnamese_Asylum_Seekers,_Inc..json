@@ -1,0 +1,35 @@
+{
+    "ID": 54472,
+    "name": "Department of State v. Legal Assistance for Vietnamese Asylum Seekers, Inc.",
+    "href": "https://api.oyez.org/cases/1996/95-1521",
+    "view_count": 0,
+    "docket_number": "95-1521",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                845355600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37746"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                845874000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37747"
+        }
+    ],
+    "question": "<p>Did the United States State Department violate the Immigration and Nationality Act by instructing a foreign consulate to cease issuing visas to a class of applicants?</p>\n",
+    "citation": {
+        "volume": "519",
+        "page": "1",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18401"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>Prior to 1989, Hong Kong automatically granted Vietnamese immigrants temporary refuge. Due to increasing immigration rates from Vietnam, Hong Kong revoked the privilege in 1989 and began requiring that Vietnamese immigrants prove refugee status or be \"screened-out\" (advised to leave Hong Kong).</p>\n<p>The United States consulate continued to process visas for \"screened-out\" applicants until 1993, when the State Department specifically instructed the consulate to buttress Hong Kong's immigration policy by sending \"screened-out\" applicants back to Vietnam. Two applicants claimed that the department had violated the Immigration and Nationality Act (INA) by denying visas to a class of applicants on the basis of their nationality and place of residence (8 U.S.C. 1152(a)). A district court held that the case was moot and granted summary judgment to the State Department.</p>\n<p>Legal Assistance for Vietnamese Asylum Seekers, Inc. (LAVAS) appealed to the U.S. Court of Appeals for the District of Columbia Circuit, which reversed the decision and mandated that the foreign consulate continue to process the visa applications. The case was appealed to the Supreme Court and consolidated with <em>Le v. United States Dept. of State</em>.</p>\n",
+    "conclusion": "<p>Unanswered. Before the Supreme Court could decide the case, Congress passed the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (IIRA), which clarified that no provision in the INA \"shall be construed to limit the authority of the Secretary of State to determine the procedures for the processing of immigrant visa applications or the locations where such applications will be processed.\" The Supreme Court, in a unanimous per curiam decision, instructed the District Court to reconsider the case in light of the IIRA's clarification.</p>\n"
+}

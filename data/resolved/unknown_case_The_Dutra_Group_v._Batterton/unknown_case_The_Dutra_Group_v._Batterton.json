@@ -1,0 +1,42 @@
+{
+    "ID": 63085,
+    "name": "The Dutra Group v. Batterton",
+    "href": "https://api.oyez.org/cases/2018/18-266",
+    "view_count": 0,
+    "docket_number": "18-266",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1544162400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54427"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1553490000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54457"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1561352400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54555"
+        }
+    ],
+    "question": "<p>Are punitive damages available to a seaman in a personal injury lawsuit alleging a breach of the general maritime duty to provide a seaworthy vessel?</p>\n",
+    "citation": {
+        "volume": "588",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27658"
+    },
+    "term": "2018",
+    "description": "A case in which the Court held that punitive damages are not available to a Jones Act seaman in a personal injury lawsuit alleging a breach of the general maritime duty to provide a seaworthy vessel.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/588/18-266/",
+    "facts_of_the_case": "<p>Respondent Christopher Batterton was a deckhand on a vessel owned and operated by the the petitioner, Dutra Group. While Batterton was working on the vessel, a hatch cover blew open and crushed his hand. The hatch cover blew open because the vessel lacked a particular exhaust mechanism, the lack of which made the vessel unseaworthy as a matter of law.</p>\n<p>The district court denied Dutra Group\u2019s motion to strike the claim for punitive damages, and the US Court of Appeals for the Ninth Circuit affirmed.\u00a0</p>\n<p>In <em>Evich v. Morris</em>, 819 F.2d 256 (9th Cir. 1987), the Ninth Circuit held that \u201cpunitive damages are available under general maritime law for claims of unseaworthiness,\u201d as distinguished from Jones Act claims, where punitive damages are unavailable. Dutra Group argues that <em>Evich</em> is implicitly overruled by the US Supreme Court\u2019s decision in <a href=\"https://www.oyez.org/cases/1990/89-1158\"><em>Miles v. Apex Marine Corp.</em>, 498 U.S. 19 (1990)</a>, which holds that loss of society damages are unavailable in a general maritime action for wrongful death and lost future earnings are unavailable in a general maritime survival action.</p>\n<p>The Ninth Circuit found unpersuasive Dutra Group\u2019s argument, finding that the Court in <em>Miles</em> considered only damages for loss of society and of future earnings, not punitive damages. While <em>Miles</em> does limit recovery for \u201cpecuniary loss,\u201d punitive damages are not \u201cpecuniary loss,\u201d which means simply loss of money. Thus, <em>Miles</em> left undisturbed the Ninth Circuit\u2019s opinion in <em>Evich</em>.</p>\n",
+    "conclusion": "<p>A plaintiff may not recover punitive damages on a maritime claim of unseaworthiness. Justice Samuel Alito authored the 6-3 majority opinion of the Court.</p>\n<p>The Court first needed to reconcile two seemingly conflicting precedents. In <em>Miles v. Apex Marine Corp.</em>, the Court held that non-economic damages were unavailable in a general maritime-law wrongful death action because such relief was unavailable under the Jones Act. But in <a href=\"https://www.oyez.org/cases/2008/08-214\"><em>Atlantic Sounding Co. v. Townsend</em>, 557 U.S. 404 (2009)</a>, the Court held under maritime law that a plaintiff may seek punitive damages for an employer\u2019s willful and wanton disregard of its obligation to pay maintenance and cure. The Court distinguished <em>Atlantic Sounding</em> based on the finding in that case that there was significant \u201chistorical evidence\u201d that punitive damages had been available in maintenance-and-cure cases. In contrast, punitive damages were unavailable under the Jones Act, and there was \u201coverwhelming historical evidence\u201d that punitive damages were unavailable in general maritime-law unseaworthiness actions for personal injuries. The Court found \u201cpractically dispositive\u201d the absence of recovery of punitive damages in maritime cases.</p>\n<p>Justice Ruth Bader Ginsburg filed a dissenting opinion, joined by Justice Stephen Breyer and Sonia Sotomayor. Justice Ginsburg argued that by default, punitive damages are available in maritime cases, and <em>Miles</em> exemplified the exception rather than the rule. Moreover, the Jones Act had expanded the remedies available to seamen and did not bar punitive damages in unseaworthiness actions.</p>\n"
+}

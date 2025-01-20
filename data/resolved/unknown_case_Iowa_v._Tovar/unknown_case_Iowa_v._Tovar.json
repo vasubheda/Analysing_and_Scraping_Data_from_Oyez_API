@@ -1,0 +1,42 @@
+{
+    "ID": 55188,
+    "name": "Iowa v. Tovar",
+    "href": "https://api.oyez.org/cases/2003/02-1541",
+    "view_count": 0,
+    "docket_number": "02-1541",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1064898000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39143"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1074664800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39144"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1078725600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39145"
+        }
+    ],
+    "question": "<p>Given the 6th Amendment's right to counsel, to what extent must a defendant be informed of the consequences of pleading guilty while waiving the right to an attorney?</p>\n",
+    "citation": {
+        "volume": "541",
+        "page": "77",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19116"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/541/77/",
+    "facts_of_the_case": "<p>Felipe E. Tovar was charged with drunk-driving in Iowa three times in four years. Tovar pleaded guilty both times and waived his right to an attorney the first time. The third time, because Iowa law increases sentencing for successive drunk-driving, Tovar faced up to five years in prison. Tovar argued that his first conviction was an invalid waiver of his 6th Amendment right to counsel and should not increase his third sentence. The waiver was invalid, Tovar argued, because the judge did not warn him of the consequences of entering a guilty plea without an attorney. The Iowa district court rejected Tovar's argument and sentenced him to 30 days in jail. The court of appeals affirmed. The Iowa Supreme Court reversed.</p>\n",
+    "conclusion": "<p>In a unanimous opinion delivered by Justice Ruth Bader Ginsburg, the Court held that Tovar's Sixth Amendment right to counsel was not violated. In a case like Tovar's, the Sixth Amendment requires the judge to inform the accused of the charges against him, of his right to counsel regarding his plea, and of the range of punishments he faces if he pleads guilty. The Court decided Tovar's trial court judge satisfied these requirements and that Tovar's waiver of his right to counsel was \"knowing, voluntary, and intelligent.\"</p>\n"
+}

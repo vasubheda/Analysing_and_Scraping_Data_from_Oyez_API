@@ -1,0 +1,42 @@
+{
+    "ID": 55648,
+    "name": "Perdue v. Kenny A.",
+    "href": "https://api.oyez.org/cases/2009/08-970",
+    "view_count": 0,
+    "docket_number": "08-970",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1238994000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40407"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1255496400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40408"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1271826000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40409"
+        }
+    ],
+    "question": "<p>Can the reasonable attorneys' fee award under a federal fee-shifting statute ever be enhanced based solely on the quality of performance and results obtained?</p>\n",
+    "citation": {
+        "volume": "559",
+        "page": "542",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19571"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that reasonable attorneys' fees awarded under a federal fee-shifting statute can be enhanced based on the quality of the attorney's performance and results obtained in exceptional circumstances.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/559/542/",
+    "facts_of_the_case": "<p>In 2005, the Georgia Department of Human Resources (DHR) and related state agencies settled a class action lawsuit with plaintiff foster children under the care of the DHR. However, the parties could not agree on the appropriate amount of attorneys' fees to be included in the settlement. Subsequently, the plaintiffs filed a motion in a Georgia federal district court for that court to make a fee determination and award. The plaintiffs argued that they were owed over $7 million for services rendered and also deserved a $7 million fee enhancement for a job well done. The district court largely agreed with the plaintiffs and awarded $10,522,405.08 in compensation, over $4 million of which was a fee enhancement. The district court reasoned that \"the superb quality of counsel's representation far exceeded what could reasonably be expected for the standard hourly rates used to calculate the fee\" and thus justified the enhancement.</p>\n<p>On appeal, the Eleventh Circuit affirmed, holding that the district court did not abuse its discretion when it enhanced the lodestar figure (hours reasonably expended multiplied by a reasonable hourly rate) because of counsel's skill, commitment, dedication, and professionalism. The Court reasoned that the enhancement of the lodestar amount of attorney's fees may be allowed for superior representation coupled with the exceptional nature of results.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court held that the calculation of an attorney's fee based on the lodestar may be increased due to superior performance, but only in extraordinary circumstances. With Justice Samuel A. Alito writing for the majority, the Court rejected the contention that a fee determined by the lodestar method may not be enhanced in any situation. The Court then explained that there were circumstances where superior attorney performance is not adequately taken into account by the lodestar. However, the Court counseled that such enhancements should not be awarded without specific evidence that the lodestar fee would not have been \"adequate to attract competent counsel.\"</p>\n<p>Justice Anthony M. Kennedy wrote separately, concurring. He lauded the Court for rejecting that all enhancements under the lodestar method should be barred. Justice Clarence Thomas also wrote separately, concurring. He was careful to note that the majority opinion placed precise limitations on the availability of lodestar enhancements. Justice Stephen G. Breyer, joined by Justices John Paul Stevens, Ruth Bader Ginsburg, and Sonia Sotomayor, concurred in part and dissented in part. He agreed that lodestar enhancements may sometimes be permissible. However, he would have affirmed the Eleventh Circuit because the Supreme Court was too far removed from the fact intensive inquiry as to whether a fee enhancement in this case was warranted.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 55050,
+    "name": "Kentucky Association of Health Plans, Inc. v. Miller",
+    "href": "https://api.oyez.org/cases/2002/00-1471",
+    "view_count": 0,
+    "docket_number": "00-1471",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1042524000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38826"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1049263200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38827"
+        }
+    ],
+    "question": "<p>Does the Employee Retirement Income Security Act of 1974 preempt any of Kentucky's \"Any Willing Provider\" statutes?</p>\n",
+    "citation": {
+        "volume": "538",
+        "page": "329",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/18979"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/538/329/",
+    "facts_of_the_case": "<p>Kentucky's two \"Any Willing Provider\" (AWP) statutes prohibit \"[a] health insurer [from] discriminating against any provider who is...willing to meet the terms and conditions for participation established by the?insurer,\" and require a \"health benefit plan that includes chiropractic benefits [to]...permit any licensed chiropractor who agrees to abide by the terms [and] conditions?of the?plan to serve as a participating primary chiropractic provider.\" Certain health maintenance organizations (HMOs) filed suit asserting that Kentucky's AWP laws are preempted by the Employee Retirement Income Security Act of 1974 (ERISA), which preempts all state laws \"insofar as they?relate to any employee benefit plan,\" but saves from preemption state \"laws...which regulate insurance.\" The District Court concluded that although both AWP statutes \"relate to\" employee benefit plans each law \"regulates insurance\" and is therefore saved from preemption. The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Antonin Scalia, the Court held that Kentucky's AWP statutes are \"laws...which regulate insurance\" under ERISA. The Court reasoned that the statutes were specifically directed toward entities engaged in insurance, regardless of the fact that the statutes also had the effect of prohibiting providers from entering into limited network contracts with the HMOs. Moreover, the Court concluded that, by expanding the number of providers from whom an insured may receive health services, AWP laws alter the scope of permissible bargains between insurers and insureds thus affecting the type of risk pooling arrangements that the HMOs could offer, thereby constituting regulation of the business of insurance.</p>\n"
+}

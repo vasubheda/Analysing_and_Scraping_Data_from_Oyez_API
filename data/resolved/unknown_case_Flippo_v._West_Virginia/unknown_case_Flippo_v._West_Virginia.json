@@ -1,0 +1,28 @@
+{
+    "ID": 54814,
+    "name": "Flippo v. West Virginia",
+    "href": "https://api.oyez.org/cases/1999/98-8770",
+    "view_count": 0,
+    "docket_number": "98-8770",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                940222800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38377"
+        }
+    ],
+    "question": "<p>Does the judgment of a West Virginia Circuit Court, which denied a motion to suppress evidence on the ground that the police were entitled to make a thorough search of any crime scene and the objects found there, conflict with the U.S. Supreme Court's decision in Mincey v. Arizona?</p>\n",
+    "citation": {
+        "volume": "528",
+        "page": "11",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18743"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>In 1996, James Michael Flippo called 911 to report that he and his wife had been attacked while camping in a West Virginia state park. Inside Flippo's cabin, officer's found his wife, with fatal head wounds. During their search, officers found and opened a closed briefcase, in which they discovered various photographs and negatives that allegedly incriminated Flippo. After he was indicted for murder, Flippo moved to suppress the photographs and negatives on the grounds that the police had obtained no warrant, and that no exception to the warrant requirement of the Fourth Amendment had justified the search and seizure. The Circuit Court denied the motion to suppress on the ground that the officers, having secured the homicide crime scene for investigative purposes, had been within the law to conduct a thorough investigation and examination of anything and everything found within the crime scene area. On appeal, the Supreme Court of Appeals of West Virginia denied discretionary review.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous per curiam opinion, the Court held that the Circuit Court's \"position squarely conflicts with Mincey v. Arizona (437 U.S. 385) where we rejected the contention that there is a 'murder scene exception' to the Warrant Clause of the Fourth Amendment.\" \"We noted that police may make warrantless entries onto premises if they reasonably believe a person is in need of immediate aid and may make prompt warrantless searches of a homicide scene for possible other victims or a killer on the premises, but we rejected any general 'murder scene exception' as 'inconsistent with the Fourth and Fourteenth Amendments -- . . . the warrantless search of Mincey's apartment was not constitutionally permissible simply because a homicide had recently occurred there,'\" stated the opinion.</p>\n"
+}

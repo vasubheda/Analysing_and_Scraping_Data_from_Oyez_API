@@ -1,0 +1,42 @@
+{
+    "ID": 55875,
+    "name": "Coleman v. Maryland Court of Appeals",
+    "href": "https://api.oyez.org/cases/2011/10-1016",
+    "view_count": 0,
+    "docket_number": "10-1016",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1309150800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40991"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1326261600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40992"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1332219600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40993"
+        }
+    ],
+    "question": "<p>Did Congress constitutionally abrogate states' Eleventh Amendment immunity when it passed the self-care leave provision of the Family and Medical Leave Act?</p>\n",
+    "citation": {
+        "volume": "566",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19797"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that states have sovereign immunity to suits brought under the self-care provision of the Family and Medical Leave Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/566/30/",
+    "facts_of_the_case": "<p>Former Maryland Court of Appeals employee Daniel Coleman filed a lawsuit under the self-care provision of the Family and Medical Leave Act, alleging that he was fired after requesting sick leave for a documented medical condition. The lower court dismissed Coleman's claim and the U.S. Court of Appeals for the Fourth Circuit affirmed, holding that the claim was properly dismissed because his employer is a state agency.</p>\n",
+    "conclusion": "<p>No, in a 5-4 decision. In the plurality opinion, written by Justice Anthony Kennedy, the Court held that the self-care provision, standing alone, did not validly abrogate Maryland's immunity from suits for damages. Justice Kennedy argued that Congress' evidence failed to show a pattern of state constitutional violations when it wrote the self-care provision; instead, Congress considered evidence that men and women are on medical leave in roughly equal numbers. In contrast, Congress often referred to its concerns about discrimination against women when constructing the family-care portion of the act. Hence, the self-care leave provision was not a congruent and proportional response to discriminatory conduct under \u00a7 5 of the Fourteenth Amendment and did not abrogate Maryland's sovereign immunity.</p>\n<p>Justice Clarence Thomas concurred, arguing that Congress also failed to show a pattern of state discriminatory practice when it enacted the family-care provision.</p>\n<p>Justice Antonin Scalia agreed in the judgment and wrote a special concurrence, arguing that \u00a7 5 of the Fourteenth Amendment only allows Congress to regulate conduct that itself violates the Fourteenth Amendment.</p>\n<p>Justice Ruth Bader Ginsburg, joined by Justice Stephen Bryer and by Justices Elena Kagan and Sonia Sotomayor as to all but Footnote 1, dissented. Looking to the Family and Medical Leave Act's history, Justice Ginsburg argued that the act as a whole was directed at sex discrimination. She argued that Congress presented ample evidence of a pattern of discrimination against pregnant women, by definition discrimination on the basis of sex. By mandating self-care leave for everyone, Congress intended to prevent further discrimination against pregnant women without discriminating against other sick persons.</p>\n"
+}

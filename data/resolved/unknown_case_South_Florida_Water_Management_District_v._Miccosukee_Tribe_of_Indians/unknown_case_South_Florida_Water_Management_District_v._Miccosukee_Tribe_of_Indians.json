@@ -1,0 +1,42 @@
+{
+    "ID": 55160,
+    "name": "South Florida Water Management District v. Miccosukee Tribe of Indians",
+    "href": "https://api.oyez.org/cases/2003/02-626",
+    "view_count": 0,
+    "docket_number": "02-626",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1056690000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39061"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1074060000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39062"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1080021600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39063"
+        }
+    ],
+    "question": "<p>Does pumping water into a water conservation area - where the water being pumped contains a pollutant but the pumping station itself adds no pollutants to the water - violate the Clean Water Act's prohibition of adding pollutants from a point source?</p>\n",
+    "citation": {
+        "volume": "541",
+        "page": "95",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19088"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/541/95/",
+    "facts_of_the_case": "<p>The Miccosukee Tribe of Indians and the Friends of the Everglades sued the South Florida Water Management District under the Clean Water Act (CWA) in federal district court. The suit alleged that the water district violated the Clean Water Act by releasing pollutants from a pump system without a discharge elimination system permit. The Clean Water Act prohibits the \"addition of any pollutant... from any point source\" without a specific permit. The water district defended its action by claiming that it was not actually adding pollutants to the water, but merely transporting polluted water from one body of water to another, less polluted, body.</p>\n<p>The district court ruled against the water district and found that it had violated the CWA by using the pump. The 11th Circuit Court of Appeals affirmed on this point, \"conclud[ing] that the release of water caused by the... pump station's operation constitutes an addition of pollutants from a point source.\"</p>\n",
+    "conclusion": "<p>In an opinion delivered by Justice Sandra Day O'Connor, the Court sent the case back to the district court to consider whether the water conservation area and the canal used to transport the water are distinct. If the district court decides the two are not distinct, then the water district will not need a permit under the Clean Water Act. The Court rejected the water district's argument that the act covers a point source only when pollutants originate from that source, not when pollutants originating elsewhere pass through the point source. A point source need only convey the pollutant to navigable waters. The Court was unanimous in sending the case back to district court. Justice Antonin Scalia dissented from part of the Court's reasoning.</p>\n"
+}

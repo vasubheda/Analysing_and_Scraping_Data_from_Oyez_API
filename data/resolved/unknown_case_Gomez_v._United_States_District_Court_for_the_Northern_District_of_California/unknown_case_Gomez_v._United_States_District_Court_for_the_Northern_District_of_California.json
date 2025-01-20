@@ -1,0 +1,28 @@
+{
+    "ID": 54050,
+    "name": "Gomez v. United States District Court for the Northern District of California",
+    "href": "https://api.oyez.org/cases/1991/-767",
+    "view_count": 0,
+    "docket_number": "A-767",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                703832400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36955"
+        }
+    ],
+    "question": "<p>Should the order staying Harris\u2019 execution be vacated?</p>\n",
+    "citation": {
+        "volume": "503",
+        "page": "653",
+        "year": "1992",
+        "href": "https://api.oyez.org/case_citation/case_citation/17979"
+    },
+    "term": "1991",
+    "description": "A case in which the Court vacated the stay of execution because Harris\u2019s decision to wait so long to raise his cruel and unusual punishment claim represented an \u201cobvious attempt\u201d to manipulate the judicial process.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>In 1979, a California state court convicted Robert Allen Harris of kidnapping and murdering two teenage boys in San Diego and sentenced him to death. On April 18, 1992, three days before his scheduled execution date, Harris and other death-row inmates filed a civil rights class action lawsuit in federal district court. The complaint alleged that execution by lethal gas constitutes cruel and unusual punishment in violation of the Eighth Amendment. Just hours before Harris was scheduled to be executed, the U.S. Court of Appeals for the Ninth Circuit issued an order to stay the execution, and the state appealed the stay to the Supreme Court.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion, the Court vacated the stay of execution because Harris\u2019s decision to wait so long to raise his cruel and unusual punishment claim represented an \u201cobvious attempt\u201d to manipulate the judicial process.</p>\n<p>Justice John Paul Stevens wrote a dissent in which he argued that the lower court should hear and rule on Harris\u2019s claim that execution by cyanide gas inflicts extreme and unnecessary pain. Because the state\u2019s authority to impose a punishment depends entirely on its constitutionality, Harris\u2019 delay in raising the claim was immaterial in Justice Stevens\u2019 view. Justice Harry A. Blackmun joined in the dissenting opinion.</p>\n<p>\u00a0</p>\n"
+}

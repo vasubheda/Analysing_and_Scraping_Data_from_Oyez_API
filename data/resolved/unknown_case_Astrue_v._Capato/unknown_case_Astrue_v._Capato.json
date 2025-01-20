@@ -1,0 +1,42 @@
+{
+    "ID": 55834,
+    "name": "Astrue v. Capato",
+    "href": "https://api.oyez.org/cases/2011/11-159",
+    "view_count": 0,
+    "docket_number": "11-159",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1321250400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40882"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1332133200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40883"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1337576400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40884"
+        }
+    ],
+    "question": "<p>Are Karen K. Capato's twins - conceived by in vitro fertilization after their biological father's death - \"child(ren)\" under Title II of the Social Security Act?</p>\n",
+    "citation": {
+        "volume": "566",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19756"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that twins, born through in vitro fertilization after the death of their biological father, were not \"children\" under Title II of the Social Security act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/566/541/",
+    "facts_of_the_case": "<p>In 1999, shortly after Robert and Karen Capato were married in New Jersey, Robert was diagnosed with esophageal cancer, and was advised that chemotherapy might render him sterile. Before beginning treatment, Robert deposited semen at the Northwest Center for Infertility and Reproductive Endocrinology so the couple could conceive a child in the future. Karen Capato conceived a child naturally, however, giving birth to a son in August of 2001. The Capatos wanted their son to have a sibling, but Robert's health deteriorated quickly, and he died in Florida in March of 2002. He was insured by social security when he died. His will named only his son and two children from a previous marriage as beneficiaries.</p>\n<p>Shortly after Robert's death, Karen began treatment for in vitro fertilization using her husband's frozen semen. She gave birth to twins on September 23, 2003, eighteen months after her husband's death. In October 2003, Karen applied for benefits from the Social Security Administration on behalf of her twins. \u00a7 416(e) of the Social Security Act (\"SSA\") defined \"child\" as \"the child or legally adopted child of an individual\". In addition, the child must be dependent on an insured individual at the time of the qualified individual's death. \u00a7 416(h) provided an alternate method of determining a child's qualification, directing the Commissioner of Social Security to look to the intestate property laws of the domiciliary of the deceased insured individual.</p>\n<p>The Social Security Administration denied her claim, and Karen requested a hearing in front of an administrative court. While noting that granting benefits would be consistent with the purpose of social security, the court held that the twins were not Robert's \"child(ren)\" for the purposes of the SSA. The district court affirmed, echoing the ALJ's interpretation of \"child(ren)\". The court also held that because Robert died while domiciled in Florida, Florida's law of intestacy applies. The United States Court of Appeals, Third Circuit, held that the twins were clearly children under \u00a7 416(e) of the SSA because they were the biological children of a married couple. It rejected the district court's argument that Florida state intestacy law should apply before \u00a7 416(e), holding \u00a7 416(h) to be an alternate definition only used when a child's status is in doubt.</p>\n",
+    "conclusion": "<p>No. Writing for a unanimous Court, Justice Ruth Bader Ginsburg held that the Social Security Administration's denial of benefits to the Capato twins was a permissible interpretation of the Social Security Act. Justice Ginsburg rejected the Third Circuit's conclusion that \u00a7 416(h) was only relevant for determining the status of an applicant if that applicant was not clearly a child or legally adopted child of an insured individual under \u00a7 416(e). She argued that the sparse definition in \u00a7 416(e) was not enough to show that congress only intended \"child\" to mean the child of married parents. Capato's offered dictionary definitions were broader than this definition, and other contemporary statutes specifically differentiated between \"children\" and children who were specifically the biological offspring of married parents.</p>\n<p>Justice Ginsburg also pointed out that there was no such thing as a scientifically proven biological relationship when the act was passed in 1939, that a biological parent was not necessarily a child's legal parent, and that marriage does not necessarily make the legal status of a child certain. Further, it was not absolutely clear that the Capato twins fell under Capato's interpretation of \u00a7 416(e) because under Florida law a marriage ended upon the death of a spouse.</p>\n<p>Justice Ginsburg also noted that \u00a7 416(h) instructed the Commissioner to look to state intestacy law in determining the status of a child for the purposes of Title II; placing similar language in \u00a7 416(e) would be redundant. She also pointed out that the core purpose of the legislation was not to help needy people but to provide members of a wage earner's family with protection against the hardship caused by the loss of that wage earner's earnings. State intestacy law specified which children were likely dependant on those earnings.</p>\n<p>Justice Ginsburg also rejected Capato's argument that the SSA's interpretation was a violation of the fourteen amendment's due process clause. Here, the SSA's interpretation was only subject to rational-basis review because the Capato twins did not share any of the characteristics that prompted the Court's skepticism towards other classifications involving the children of unwed parents. Justice Ginsburg finally concluded that the SSA's interpretation was reasonable, overruling the Third Circuit's holding.</p>\n"
+}

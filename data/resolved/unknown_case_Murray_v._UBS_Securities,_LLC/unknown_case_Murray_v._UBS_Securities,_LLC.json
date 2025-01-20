@@ -1,0 +1,42 @@
+{
+    "ID": 63584,
+    "name": "Murray v. UBS Securities, LLC",
+    "href": "https://api.oyez.org/cases/2023/22-660",
+    "view_count": 0,
+    "docket_number": "22-660",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1682917200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55280"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1696914000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55345"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1707372000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55405"
+        }
+    ],
+    "question": "<p>Under 18 U.S.C. \u00a7 1514A, must a whistleblower prove his employer acted with \u201cretaliatory intent\u201d as part of his case in chief?</p>\n",
+    "citation": {
+        "volume": "601",
+        "page": null,
+        "year": "2024",
+        "href": "https://api.oyez.org/case_citation/case_citation/27954"
+    },
+    "term": "2023",
+    "description": "A case in which the Court held that under the Sarbanes-Oxley Act of 2002, a whistleblower need not prove his employer acted with a \u201cretaliatory intent\u201d as part of his case in chief to succeed on a retaliation claim, only that his protected activity was a \u201ccontributing factor\u201d of the unfavorable personnel action.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/601/22-660/",
+    "facts_of_the_case": "<p>In 2011, UBS hired Trevor Murray as a strategist in its commercial mortgage-backed securities business. Under Securities and Exchange Commission regulations, Murray was required to certify that his reports were produced independently and that they accurately reflected his own views. According to Murray, two leaders at UBS improperly pressured him to skew his research. Murray repeatedly reported this conduct to his supervisor, who declined to take action. UBS terminated Murray in 2012.</p>\n<p>Murray sued UBS in 2014 alleging that his former employer terminated him in response to his complaints about fraud on shareholders in violation of the Sarbanes-Oxley Act's antiretaliation provision, 18 U.S.C. \u00a7 1514A. The district court ruled for Murray, and UBS appealed, arguing that the district court erred by failing to instruct the jury that Murray had to prove UBS's retaliatory intent to prevail on his section 1514A claim. The U.S. Court of Appeals for the Second Circuit agreed with UBS and vacated the judgment of the district court.\u00a0</p>\n",
+    "conclusion": "<p>A whistleblower who invokes \u00a71514A must prove that his protected activity was a contributing factor in the employer\u2019s unfavorable personnel action, but need not prove that his employer acted with \u201cretaliatory intent.\u201d Justice Sonia Sotomayor authored the unanimous opinion of the Court.</p>\n<p>The Sarbanes-Oxley Act of 2002 includes a provision that protects whistleblowers, explicitly prohibiting employers from engaging in retaliation, such as firing, demoting, suspending, threatening, harassing, or discriminating in any way against an employee's employment conditions \u201cbecause of\u201d the employee's engagement in protected whistleblowing activities. A whistleblower must first demonstrate that their whistleblowing was a significant factor in the alleged adverse employment action, and then the burden shifts to the employer, who must prove that they would have made the same adverse employment decision regardless of the whistleblower's actions.</p>\n<p>First, the word \u201cdiscriminate\u201d in the statute does not inherently require \u201cretaliatory intent,\u201d which refers to animus or prejudice. Further, to require a whistleblower to prove \u201cretaliatory intent,\u201d as UBS argues, would ignore the statute\u2019s mandatory burden-shifting framework. Contrary to UBS\u2019s contention, innocent employers will not face liability for legitimate, nonretaliatory personnel decisions. The burden-shifting framework precludes that outcome. Thus, A whistleblower who invokes 18 U.S.C. \u00a7 1514A must prove only that his protected activity \u201cwas a contributing factor in the unfavorable personnel action alleged in the complaint.\u201d</p>\n<p>Justice Samuel Alito authored a concurring opinion, in which Justice Amy Coney Barrett joined, reiterating the Court\u2019s rejection of the \u201canimus\u201d requirement does not eliminate the intent requirement of the statute.</p>\n<p>\u00a0</p>\n"
+}

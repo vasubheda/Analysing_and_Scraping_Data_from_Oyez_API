@@ -1,0 +1,35 @@
+{
+    "ID": 54324,
+    "name": "Hurley v. Irish-American Gay, Lesbian and Bisexual Group of Boston, Inc.",
+    "href": "https://api.oyez.org/cases/1994/94-749",
+    "view_count": 0,
+    "docket_number": "94-749",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                798786000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37470"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                803538000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37471"
+        }
+    ],
+    "question": "<p>Did a Massachusetts State Court's mandate to Boston's Veterans' Council, requiring it to include GLIB members in its parade, violate the Council's free speech rights as protected by the First and Fourteenth Amendments?</p>\n",
+    "citation": {
+        "volume": "515",
+        "page": "557",
+        "year": "1995",
+        "href": "https://api.oyez.org/case_citation/case_citation/18253"
+    },
+    "term": "1994",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/515/557/",
+    "facts_of_the_case": "<p>In 1993, the South Boston Allied War Veterans Council was authorized by the city of Boston to organize the St. Patrick's Day Parade. The Council refused a place in the event for the Irish American Gay, Lesbian, and Bisexual Group of Boston (GLIB). The group attempted to join to express its members' pride in their Irish heritage as openly gay, lesbian, and bisexual individuals. The Massachusetts State Court ordered the Veterans' Council to include GLIB under a state law prohibiting discrimination on account of sexual orientation in public accommodations. The Veterans' Council claimed that forced inclusion of GLIB members in their privately-organized parade violated their free speech.</p>\n",
+    "conclusion": "<p>Yes. A unanimous court held that the State Court's ruling to require private citizens who organize a parade to include a group expressing a message that the organizers do not wish to convey violates the First Amendment by making private speech subordinate to the public accommodation requirement. Such an action \"violate[s] the fundamental First Amendment rule that a speaker has the autonomy to choose the content of his own message and, conversely, to decide what not to say.\"</p>\n"
+}

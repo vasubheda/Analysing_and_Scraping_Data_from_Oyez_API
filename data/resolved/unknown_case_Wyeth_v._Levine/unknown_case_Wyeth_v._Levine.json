@@ -1,0 +1,42 @@
+{
+    "ID": 55586,
+    "name": "Wyeth v. Levine",
+    "href": "https://api.oyez.org/cases/2008/06-1249",
+    "view_count": 0,
+    "docket_number": "06-1249",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1200636000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40232"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1225692000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40233"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1236146400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40234"
+        }
+    ],
+    "question": "<p>Does federal law preempt state law in a personal injury action against a drug manufacturer for failing to include an appropriate warning label where the drug in question met the labeling requirements of the Food and Drug Administration?</p>\n",
+    "citation": {
+        "volume": "555",
+        "page": "555",
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20777"
+    },
+    "term": "2008",
+    "description": "A case in which the Court held that federal law did not preempt state law in a personal injury action against a drug manufacturer for failing to include an appropriate warning label, even where the drug in question met the Food and Drug Administration's (FDA) labeling requirements.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/555/555/",
+    "facts_of_the_case": "<p>Diana Levine filed this personal injury action against Wyeth, the drug manufacturer, in state court in Vermont. Ms. Levine had intravenously injected Phenergan, a drug made by Wyeth and used to prevent allergies and motion sickness, into her arm, and complications arising from the injection eventually led to the amputation of her arm. Ms. Levine brought this claim asserting that Wyeth had failed to include a warning label describing the possible arterial injuries that could occur from negligent injection of the drug. Wyeth argued that because their warning label had been deemed acceptable by the FDA, a federal agency, any Vermont state regulations making the label insufficient were preempted by the federal approval. The Superior Court of Vermont found in favor of Ms. Levine and denied Wyeth's motion for a new trial.</p>\n<p>The Supreme Court of Vermont affirmed this ruling on appeal, holding that the FDA requirements merely provide a floor, not a ceiling, for state regulation. Therefore, states are free to create more stringent labeling requirements than federal law provides.</p>\n",
+    "conclusion": "<p>No. The Supreme Court affirmed the Supreme Court of Vermont holding that federal law did not preempt Ms. Levine's state-law claim that Wyeth's labeling of Phenergan failed to warn of the dangers of its intravenous administration. With Justice John Paul Stevens writing for the majority and joined by Justice Anthony M. Kennedy, Justice David H. Souter, Justice Ruth Bader Ginsburg, and Justice Stephen G. Breyer, the Court first rejected Wyeth's argument that by unilaterally changing its labeling of Phenergan, it would have violated federal labeling regulations. Rather, the Court asserted that the manufacturer bears ultimate responsibility for the content of its labels at all times. The Court then rejected Wyeth's argument that requiring it to comply with the state-law duty to provide a stronger warning would interfere with Congress' purpose of entrusting the FDA with drug labeling decisions. Rather, the Court reasoned that Congress did not intend to preempt state-law failure to warn actions when it created the Food, Drug, and Cosmetic Act.</p>\n<p>Justice Breyer wrote a separate concurring opinion noting that the FDA may create regulations that preempt state law tort claims, but such a regulation was not at issue in Ms. Levine's case. Justice Clarence Thomas wrote separately, concurring only in the judgment. He criticized the majority opinion for implicitly endorsing a \"far-reaching implied pre-emption doctrine\" where the Court invalidates state laws based on perceived conflicts with federal statutes by extrapolating from evidence not found in the text of the statute itself. Justice Samuel A. Alito dissented and was joined by Chief Justice John G. Roberts and Justice Antonin G. Scalia. He disagreed with the Court's holding that a jury, rather than the FDA is ultimately responsible for regulating warning labels for prescription drugs. He argued this is incompatible with the Court's precedent in <em>Geier v. American Honda Motor Co.</em>, which established the principles of conflict preemption.</p>\n"
+}

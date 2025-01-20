@@ -1,0 +1,42 @@
+{
+    "ID": 63027,
+    "name": "Azar v. Allina Health Services",
+    "href": "https://api.oyez.org/cases/2018/17-1484",
+    "view_count": 0,
+    "docket_number": "17-1484",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1538024400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54367"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1547532000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54405"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1559538000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54518"
+        }
+    ],
+    "question": "<p>Do the Administrative Procedure Act and Medicare Act require the US Department of Health and Human Services to provide notice and an opportunity to comment before implementing a rule changing its Medicare reimbursement formula?</p>\n",
+    "citation": {
+        "volume": "587",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27627"
+    },
+    "term": "2018",
+    "description": "A case in which the Court vacated a policy change of the US Department of Health and Human Services for failing to provide notice and an opportunity to comment before implementing a rule changing its Medicare reimbursement formula.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/587/17-1484/",
+    "facts_of_the_case": "<p>The U.S. Department of Health and Human Services (HHS) administers the Medicare program, which provides health insurance to Americans 65 and older. Patients may obtain coverage under different \u201cparts\u201d of Medicare, two of which are at issue in this case. When patients enrolled in Medicare Part A receive healthcare, the government makes direct payments to hospitals for the services provided. Patients enrolled in Medicare Part C receive a government subsidy to enroll in a private insurance plan. Importantly, patients enrolled in Part A tend to have lower incomes than those enrolled in Part C.</p>\n<p>HHS contracts with \u201cfiscal intermediaries\u201d to reimburse healthcare service providers for services rendered to Medicare Part A patients. These intermediaries make an initial payment based on an estimate of the cost of services provided and are later adjusted based on actual cost reports.</p>\n<p>The Medicare Act authorizes reimbursement adjustments to increase payments to hospitals that treat a disproportionately high number of low-income patients. The rate of adjustment is calculated in part based on the number of \u201cpatient days\u201d for patients \u201centitled to benefits under part A\u201d of Medicare. In 2012, HHS sought to interpret this phrase as including patient days for patients entitled to benefits under Part C of Medicare as well. Including Part C days in the adjustment calculus would result in lower reimbursement rates, which translates into hundreds of millions of dollars.</p>\n<p>The plaintiff hospitals challenged the rate adjustment in the Provider Reimbursement Review Board, as required by statute. The Board concluded that it lacked authority to resolve the issue, which triggered expedited review before the federal district court. The district court granted summary judgment to HHS, finding that the rate adjustment was an \u201cinterpretive rule\u201d under the Administrative Procedure Act (APA) and thus was exempt from the APA\u2019s notice-and-comment requirement for new rules. The hospitals appealed, and the U.S. Court of Appeals for the D.C. Circuit reversed, finding that the adjustment was not merely an \u201cinterpretive rule\u201d and that HHS violated the Medicare Act by promulgating the rule without providing notice and the opportunity for comment.</p>\n",
+    "conclusion": "<p>The Department of Health and Human Services neglected its statutory duty to provide notice and an opportunity to comment before implementing a rule changing its Medicare reimbursement formula. Justice Neil Gorsuch delivered the opinion for the 7-1 majority.</p>\n<p>The Court focused on whether the government\u2019s announcement in 2014 established or changed a substantive legal standard (as opposed to an interpretive legal standard). Under the Administrative Procedure Act (APA), in order to establish or change a substantive legal standard, an agency must provide notice and an opportunity to comment. A substantive legal standard is one that has the \u201cforce and effect of law,\u201d while an interpretive legal standard merely advises the public of the agency\u2019s construction of the statutes and rules it administers. Specifically, under the APA, statements of policy are definitionally not substantive. The Medicare Act uses the word \u201csubstantive\u201d in a different way. Under the Medicare Act, \u201cstatements of policy\u201d can establish or change a \u201csubstantive legal standard.\u201d Had Congress wanted to incorporate the same meaning for \u201csubstantive\u201d in the Medicare Act as it did in the APA, it could have done so (and did not).</p>\n<p>The Court looked then to the text and structure of the Medicare Act, finding that both support reading the new rule as establishing or changing a substantive legal standard. Given the clear language of the statute, HHS did not meet its statutory duty under 42 U.S.C. \u00a7 1395hh(a)(2) to provide notice and comment.</p>\n<p>Because it reached its conclusion solely under \u00a7 1395hh(a)(2), the Court did not address the question whether \u00a7 1395hh(a)(4) independently required HHS to provide notice and comment.\u00a0</p>\n<p>Justice Stephen Breyer filed a dissenting opinion in which he argued that the language at issue in the Medicare Act, like the APA, applies only to \u201csubstantive\u201d or \u201clegislative\u201d rules. Thus, Justice Breyer would remand the case to the court of appeals to consider whether the agency determination is a substantive rule (which requires notice and comment) or an interpretive rule (which does not).</p>\n<p>Justice Brett Kavanaugh took no part in the consideration or decision of this case.</p>\n"
+}

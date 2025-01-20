@@ -1,0 +1,42 @@
+{
+    "ID": 63148,
+    "name": "Banister v. Davis",
+    "href": "https://api.oyez.org/cases/2019/18-6943",
+    "view_count": 0,
+    "docket_number": "18-6943",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1561352400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54554"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1575439200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54620"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1590987600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54714"
+        }
+    ],
+    "question": "<p>Under what circumstances should a timely Rule 59(e) motion be recharacterized as a successive habeas petition?</p>\n",
+    "citation": {
+        "volume": "590",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27695"
+    },
+    "term": "2019",
+    "description": "A case in which the Court held that a timely Rule 59(e) motion to \u201camend or alter\u201d a habeas court\u2019s judgment is not a second or successive habeas petition.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/590/18-6943/",
+    "facts_of_the_case": "<p>Gregory Dean Banister was convicted by a jury of aggravated assault with a deadly weapon and sentenced to thirty years\u2019 imprisonment. He filed a habeas petition asserting numerous constitutional violations, which the district court denied on the merits on May 15, 2017. He also requested a certificate of appealability (COA), which the district court also denied in the same order.</p>\n<p>On June 12, 2017, Banister filed a motion to \u201camend or alter\u201d the judgment of the district court pursuant to Rule 59(e) of the Federal Rules of Civil Procedure, which the court denied on the merits on June 20, 2017.</p>\n<p>On July 20, 2017, Banister filed a notice of appeal and an application for a COA, which the district court \u201cconsidered\u201d despite its previous order denying the COA, but again denied on July 28, 2017. Banister then sought and received from the Fifth Circuit an extension of time to file a COA application. He filed a petition for a COA with the Fifth Circuit on October 11, 2017, and the court denied his petition, citing lack of jurisdiction, on May 8, 2018. The Fifth Circuit held that Banister\u2019s purported 59(e) motion was, in fact, a successive habeas petition, which would not toll the time for filing a notice of appeal. Citing the U.S. Supreme Court\u2019s decision in <a href=\"https://www.oyez.org/cases/2004/04-6432\"><em>Gonzalez v. Crosby</em>, 545 U.S. 524 (2005)</a>, the Fifth Circuit noted that \u201calleging that the court erred in denying habeas relief on the merits is effectively indistinguishable from alleging that the movant is, under the substantive provisions of the statutes, entitled to habeas relief.\u201d</p>\n",
+    "conclusion": "<p>A Rule 59(e) motion to alter or amend a habeas court\u2019s judgment is not a second or successive habeas petition under 28 U.S.C. \u00a7 2244(b), so Banister\u2019s appeal was timely. Justice Elena Kagan authored the opinion for the 7-2 majority.</p>\n<p>To determine what \u201csecond or successive application\u201d means, the Court first turned to historical habeas doctrine and practice and the purposes of the Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA), which governs federal habeas proceedings. In Browder v. Director, Department of Corrections of Illinois, 434 U.S. 257 (YYYY), decided before AEDPA, the Court held that Rule 59(e) applied in habeas proceedings. Although the language of the rule has since changed, those changes did not narrow the scope of that rule. In the fifty years since the adoption of the Federal Rules, only once has a court dismissed a Rule 59(e) motion as impermissibly successive, resolving all other cases on the merits. When Congress passed AEDPA, it gave no indication it intended to change this understood meaning of a successive application, nor do its purposes suggest such a change in meaning.</p>\n<p>The Court pointed out that its decision in Gonzalez v. Crosby, 545 U.S. 524 (2005), applied to Rule 60(b) and that Rule 60(b) is substantially different from Rule 59(e) in critical ways. While Rule 60(b) is a means of attacking a habeas court\u2019s judgment, a Rule 59(e) motion is a one-time effort to point out alleged errors in a just-issued decision before taking a single appeal.</p>\n<p>Justice Samuel Alito filed a dissenting opinion, in which Justice Clarence Thomas joined, arguing that because a Rule 59(e) motion asserts a habeas claim, it must be viewed as a \u201csecond or successive habeas petition\u201d and be treated as such.</p>\n"
+}

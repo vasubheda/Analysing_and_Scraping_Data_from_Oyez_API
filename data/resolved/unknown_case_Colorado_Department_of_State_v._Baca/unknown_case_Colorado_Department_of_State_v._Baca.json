@@ -1,0 +1,42 @@
+{
+    "ID": 63237,
+    "name": "Colorado Department of State v. Baca",
+    "href": "https://api.oyez.org/cases/2019/19-518",
+    "view_count": 0,
+    "docket_number": "19-518",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1579240800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54687"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1589346000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54709"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1594011600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54741"
+        }
+    ],
+    "question": "<p>1. Do the petitioners in this case, the presidential electors, have judicial standing to sue the state of Colorado over a law requiring them to vote in the Electoral College for the winner of the popular vote in that state?</p>\n<p>2. Is that Colorado law unconstitutional?</p>\n",
+    "citation": {
+        "volume": "591",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27749"
+    },
+    "term": "2019",
+    "description": "A case in which the Court upheld as constitutional a Colorado law that prohibits so-called \u201cfaithless\u201d electors from casting their votes in the Electoral College.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/591/19-518/",
+    "facts_of_the_case": "<p>Michael Baca, Polly Baca, and Robert Nemanich were appointed as three of Colorado\u2019s nine presidential electors for the 2016 general election. Colorado law requires presidential electors to cast their votes for the winner of the popular vote in the state for President and Vice President. When Hillary Clinton won the popular vote in that state, instead of casting his vote for her, Mr. Baca cast his vote for John Kasich. The Colorado Secretary of State discarded his vote and removed him as an elector. As a result, Ms. Baca and Mr. Nemanich voted for Hillary Clinton, despite their desire to vote for John Kasich.</p>\n<p>The three presidential electors sued the Colorado Department of State, alleging that the law requiring presidential electors to vote for the presidential candidate who wins the popular vote in that state violates their constitutional rights under Article II and the Twelfth Amendment of the federal Constitution. The district court dismissed the action, finding the electors lacked standing to bring the lawsuit, and in the alternative, because the electors failed to state a legal claim because the Constitution does not prohibit states from requiring electors to vote for the winner of the state\u2019s popular vote. The U.S. Court of Appeals for the Tenth Circuit affirmed the district court as to Mr. Baca\u2019s standing, but reversed as to the standing of the other two electors who did not cast their votes in violation of the law. On the merits, the Tenth Circuit reversed the lower court, finding the state\u2019s removal of Mr. Baca and nullification of his vote were unconstitutional.</p>\n",
+    "conclusion": "<p>In a per curiam (unsigned) opinion, the Court reversed the judgment of U.S. Court of Appeals for\u00a0the Tenth Circuit below, for the reasons stated in <a href=\"https://www.oyez.org/cases/2019/19-465\"><em>Chiafalo v. Washington</em></a>. Justice Clarence Thomas concurred in the judgment for the reasons stated in his concurring opinion in that case, and Justice Sonia Sotomayor took no part in the decision of this case.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55230,
+    "name": "Orff v. United States",
+    "href": "https://api.oyez.org/cases/2004/03-1566",
+    "view_count": 0,
+    "docket_number": "03-1566",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1097557200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39256"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1109138400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39257"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1119502800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39258"
+        }
+    ],
+    "question": "<p>Did the Reclamation Reform Act of 1982 waive the United States' sovereign immunity from breach of contract suits?</p>\n",
+    "citation": {
+        "volume": "545",
+        "page": "",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/20544"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>The Westlands Water District received water from the U.S. Bureau of Reclamation under a 1963 contract. In 1993 Westlands sued the district for reducing their water supply. California farmers who had bought water from Westlands also sued the bureau, intervening as plaintiffs. After negotiations Westlands agreed to dismiss their suit. But the farmers refused to drop theirs, accusing the bureau of breach of contract. The farmers claimed that as third-party beneficiaries they could enforce the contract and that the United States had waived its sovereing immunity from such suits in the Reclamation Reform Act of 1982. That act allowed parties \"to join the United States as a necessary party defendant in any suit\" over rights under a federal reclamation contract. The district court held that the farmers were not contracting parties or third-party beneficiaries and thus could not invoke the waiver. The Ninth Circuit affirmed that decision.</p>\n",
+    "conclusion": "<p>In this case, no. In a unanimous opinion delivered by Justice Clarence Thomas, the Court held that the act merely permitted parties to join the United States in an action between other parties when the action required interpretation of a contract and joining the U.S. was necessary. The farmers suit was not an attempt to join the U.S. as a necessary party defendant.</p>\n"
+}

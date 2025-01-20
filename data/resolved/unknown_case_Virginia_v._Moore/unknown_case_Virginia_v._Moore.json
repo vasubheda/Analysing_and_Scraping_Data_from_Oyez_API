@@ -1,0 +1,42 @@
+{
+    "ID": 55515,
+    "name": "Virginia v. Moore",
+    "href": "https://api.oyez.org/cases/2007/06-1082",
+    "view_count": 0,
+    "docket_number": "06-1082",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1190696400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40033"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1200290400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40034"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1208926800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40035"
+        }
+    ],
+    "question": "<p>Does the Fourth Amendment require the suppression of evidence obtained incident to an arrest when the arrest violates a provision of state law?</p>\n",
+    "citation": {
+        "volume": "553",
+        "page": "164",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/19438"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/553/164/",
+    "facts_of_the_case": "<p>Virginia police stopped David Lee Moore after receiving a radio call alerting them that he was driving on a suspended license. State law specified the procedure for punishing that infraction: issuance of a citation and summons to appear in court. The officers instead decided to arrest Moore. After reading Moore his Miranda rights, they asked for and received consent to search his hotel room. Once they arrived at the room, they decided to search his person and discovered sixteen grams of crack cocaine. Moore was then charged with possession of cocaine with intent to distribute.</p>\n<p>At trial court, Moore's attorney sought to suppress the cocaine evidence, arguing that it was seized in violation of the Fourth Amendment. The trial court allowed the evidence to be presented and Moore was convicted. On appeal, the Virginia Supreme Court held that the introduction of the cocaine evidence at trial was unconstitutional.</p>\n",
+    "conclusion": "<p>The Court held unanimously that the search did not violate Moore's constitutional rights. Writing for an eight justice majority (with Justice Ruth Bader Ginsburg concurring), Justice Antonin Scalia stated that the existence of probable cause gives an arresting officer the right to perform a reasonable search of the accused to ensure the officer's safety and to safeguard evidence. States may impose stricter search and seizure requirements, Scalia wrote, but \"when states go above the Fourth Amendment minimum, the Constitution's protections concerning search and seizure remain the same.\"</p>\n"
+}

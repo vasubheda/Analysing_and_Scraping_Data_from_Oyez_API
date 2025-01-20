@@ -1,0 +1,33 @@
+{
+    "ID": 63696,
+    "name": "Advocate Christ Medical Center v. Becerra",
+    "href": "https://api.oyez.org/cases/2024/23-715",
+    "view_count": 0,
+    "docket_number": "23-715",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1717995600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55509"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1730786400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55510"
+        }
+    ],
+    "question": "<p>Does the phrase \u201centitled\u2026 to benefits\u201d include all who meet basic program eligibility criteria, whether or not benefits are actually received?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28030"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether the phrase \u201centitled\u2026 to benefits\u201d includes all who meet basic program eligibility criteria, whether or not benefits are actually received.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-715/"
+}

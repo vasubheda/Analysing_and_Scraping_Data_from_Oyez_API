@@ -1,0 +1,42 @@
+{
+    "ID": 55494,
+    "name": "Washington State Grange v. Washington State Republican Party",
+    "href": "https://api.oyez.org/cases/2007/06-713",
+    "view_count": 0,
+    "docket_number": "06-713",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1172469600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39977"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1191214800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39978"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1205816400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39979"
+        }
+    ],
+    "question": "<p>Does Washington's \"modified blanket primary\" system violate the First and Fourteenth Amendment right to freedom of association by denying political parties control over which candidates to endorse?</p>\n",
+    "citation": {
+        "volume": "552",
+        "page": "442",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20745"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/552/442/",
+    "facts_of_the_case": "<p>The State of Washington reconstructed its primary election system according to Initiative 872, which was passed into law by a majority general vote in 2004. The initiative was endorsed by the Washington State Grange and created a new \"modified blanket primary\" system where each candidate on the ballot could affiliate with the party of his choosing regardless of whether the party approved of his candidacy. Political parties claimed that this system violated their First and Fourteenth Amendment rights of free association, arguing that control over which candidates to endorse constituted an essential function of association. The Grange argued that the primary was nonpartisan.</p>\n<p>The U.S. Court of Appeals for the Ninth Circuit affirmed a District Court decision, ruling that since \"party designation is a powerful, partisan message that voters may rely upon in casting a vote,\" Initiative 872 \"constitutes a severe burden upon the parties' associational rights.\" (The case was consolidated with <em>Washington v. Washington State Republican Party</em> for argument before the Supreme Court.)</p>\n",
+    "conclusion": "<p>In a 7-2 opinion, the Court reversed the Ninth Circuit's ruling and held the party affiliation provision constitutional. Writing for the majority, Justice Clarence Thomas explained that the state law never referred to the candidates as nominees of any particular party. Rather, the nominees were simply asserting which party they preferred to be associated with, and the Court found no convincing evidence that this association would lead voters to believe that the particular party actually endorsed the nominee. Chief Justice John G. Roberts concurred in the judgment, joined by Justice Samuel Alito. Justice Antonin Scalia filed a dissenting opinion, joined by Justice Anthony Kennedy.</p>\n"
+}

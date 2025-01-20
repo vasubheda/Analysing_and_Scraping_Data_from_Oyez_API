@@ -1,0 +1,42 @@
+{
+    "ID": 55270,
+    "name": "McCreary County v. American Civil Liberties Union of Ky.",
+    "href": "https://api.oyez.org/cases/2004/03-1693",
+    "view_count": 0,
+    "docket_number": "03-1693",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1097557200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39372"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1109743200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39373"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1119848400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39374"
+        }
+    ],
+    "question": "<ol>\n<li>Do Ten Commandments displays in public schools and in courthouses violate the First Amendment's establishment clause, which prohibits government from passing laws \"respecting an establishment of religion?\" 2. Was a determination that the displays' purpose had been to advance religion sufficient for the displays' invalidation?</li>\n</ol>\n",
+    "citation": {
+        "volume": "545",
+        "page": null,
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/20545"
+    },
+    "term": "2004",
+    "description": "A case in which the Court found the display of the Ten Commandments in public schools and courthouses violated the Establishment Clause of the First Amendment.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>The American Civil Liberties Union (ACLU) sued three Kentucky counties in federal district court for displaying framed copies of the Ten Commandments in courthouses and public schools. The ACLU argued the displays violated the First Amendment's establishment clause, which prohibits the government from passing laws \"respecting an establishment of religion.\" The district court and the Sixth Circuit Court of Appeals ruled the displays violated the establishment clause.</p>\n",
+    "conclusion": "<p>Yes and yes. In a 5-4 opinion delivered by Justice David Souter, the majority held that the displays violated the establishment clause because their purpose had been to advance religion. In the case of each of the displays, the Court held, an observer would have concluded that the government was endorsing religion. The first display for presenting the Ten Commandments in isolation; the second for showing the Commandments along with other religious passages; the third for presenting the Commandments in a presentation of the \"Foundations of American Law,\" an exhibit in which the county reached \"for any way to keep a religious document on the walls of courthouses.\"</p>\n"
+}

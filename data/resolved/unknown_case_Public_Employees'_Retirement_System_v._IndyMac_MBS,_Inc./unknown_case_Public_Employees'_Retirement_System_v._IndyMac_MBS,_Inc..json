@@ -1,0 +1,35 @@
+{
+    "ID": 56103,
+    "name": "Public Employees' Retirement System v. IndyMac MBS, Inc.",
+    "href": "https://api.oyez.org/cases/2013/13-640",
+    "view_count": 0,
+    "docket_number": "13-640",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1394427600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41687"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1411966800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41689"
+        }
+    ],
+    "question": "<p>Does the filing of a class action suit suspend the three-year statute of limitations established in the Securities Act of 1933 with respect to the claims of individual putative class members?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/27107"
+    },
+    "term": "2013",
+    "description": "A case which the Court dismissed regarding whether or not the three-year statute of limitations set forth in the Securities Act of 1933 is suspended when a class-action lawsuit is filed.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>IndyMac MBS, Inc. (IndyMac MBS) is an issuer of mortgage-backed securities that issued securities known as mortgage pass-through certificates. The Police and Fire Retirement System of the City of Detroit and the Wyoming Retirement System filed two separate class action suits on behalf of asserted members of the class who had purchased some of the certificates. The suits claimed that IndyMac MBS had made fraudulent misrepresentations and omissions regarding the sale of the certificates. The district court consolidated these suits and dismissed the claims for lack of standing.</p>\n<p>Despite the fact that the three-year statute of limitation set out in the Securities Act of 1933 had expired, several putative class members sought to intervene and revive the claims. They argued that the rule established in <em>American Pipe &amp; Construction Co. v. Utah</em>, which allowed the commencement of a class action to suspend the statute of limitations as it relates to members of the class, applied in this case. They also argued that Rule 15(c) of the Federal Rules of Civil Procedure allowed them to \"relate back\" their claims to the original class action suit. The district court denied the motions to intervene, and the U.S. Court of Appeals for the Second Circuit affirmed.</p>\n",
+    "conclusion": "<p>Dismissed before argument as improvidently granted.</p>\n"
+}

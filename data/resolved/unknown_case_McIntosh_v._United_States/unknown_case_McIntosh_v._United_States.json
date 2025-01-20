@@ -1,0 +1,42 @@
+{
+    "ID": 63607,
+    "name": "McIntosh v. United States",
+    "href": "https://api.oyez.org/cases/2023/22-7386",
+    "view_count": 0,
+    "docket_number": "22-7386",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1695963600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55335"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1709013600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55409"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1713330000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55444"
+        }
+    ],
+    "question": "<p>May a district court enter a criminal forfeiture order when the time limit specified in the Federal Rules of Criminal Procedure has already passed?</p>\n",
+    "citation": {
+        "volume": "601",
+        "page": null,
+        "year": "2024",
+        "href": "https://api.oyez.org/case_citation/case_citation/27977"
+    },
+    "term": "2023",
+    "description": "A case in which the Court held that, because the relevant rules a time-related directive, a district court can enter a criminal forfeiture order when the time limit specified in the Federal Rules of Criminal Procedure has already passed.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/601/22-7386/",
+    "facts_of_the_case": "<p>On August 22, 2013, a jury convicted Louis McIntosh of multiple Hobbs Act robbery-related offenses and gun charges, leading to a near-life sentence of 720 months. The district court granted some relief by vacating specific counts but imposed a forfeiture amount inconsistently between oral and written judgments. On appeal, the government belatedly submitted a forfeiture order, which both the district court and the U.S. Court of Appeals for the Second Circuit upheld despite its tardiness. The appellate court vacated one of the \u00a7924(c) counts but reinstated others, rejecting the petitioner's arguments. After a Supreme Court decision in United States v. Taylor, 596 U.S. __ (2022), which held that attempted Hobbs Act robbery is not a crime of violence under 18 U.S.C. \u00a7 924(c) the Court granted certiorari, leading to a remand. However, the Second Circuit mostly upheld its prior rulings, making only minor changes.</p>\n",
+    "conclusion": "<p>A district court\u2019s failure to comply with Federal Rule of Criminal Procedure 32.2(b)(2)(B)\u2019s requirement to enter a preliminary order imposing criminal forfeiture before sentencing does not bar a judge from ordering forfeiture at sentencing subject to harmless-error principles on appellate review. Justice Sonia Sotomayor authored the unanimous opinion of the Court.</p>\n<p>There are three types of time limits: jurisdictional deadlines, mandatory claim-processing rules, and time-related directives. Jurisdictional deadlines completely deprive a court of power to act if missed, while mandatory claim-processing rules regulate the timing of motions and claims, and if properly invoked, bar the relevant action after the deadline passes. Time-related directives, on the other hand, encourage prompt action but do not deprive an official of power to act if the deadline is missed.</p>\n<p>Rule 32.2(b)(2)(B) is a time-related directive for several reasons. First, the rule\u2019s language contemplates flexibility by allowing for exceptions when compliance is \u201cimpractical\u201d and using indeterminate language like \u201csufficiently in advance.\u201d Second, unlike other parts of Rule 32.2, this provision does not specify a consequence for noncompliance. Third, the rule governs the conduct of the court, not the litigants, which is more characteristic of time-related directives than claim-processing rules. Thus, a district court\u2019s failure to enter a preliminary forfeiture order before sentencing does not deprive it of the power to order forfeiture.</p>\n"
+}

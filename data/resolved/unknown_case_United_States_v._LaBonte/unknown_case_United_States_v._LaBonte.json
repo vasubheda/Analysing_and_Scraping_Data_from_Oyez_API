@@ -1,0 +1,35 @@
+{
+    "ID": 54516,
+    "name": "United States v. LaBonte",
+    "href": "https://api.oyez.org/cases/1996/95-1726",
+    "view_count": 0,
+    "docket_number": "95-1726",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                852616800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37827"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                864709200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37828"
+        }
+    ],
+    "question": "<p>Did Congress intend by \"maximum term authorized\" in 28 USC section 994(h) the maximum term available for the offense of conviction including any applicable statutory sentencing enhancements?</p>\n",
+    "citation": {
+        "volume": "520",
+        "page": "751",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18445"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/520/751/",
+    "facts_of_the_case": "<p>28 USC section 994(h) directs the United States Sentencing Commission to \"assure\" that its Sentencing Guidelines specify a prison sentence \"at or near the maximum term authorized for categories of\" adult offenders who commit their third felony drug offense or violent crime. Initially, the Guidelines failed to delineate whether the basic statutory maximum persons convicted of a particular offense or the enhanced penalty for career offenders convicted of that same offense should be applied. After the District Court used and the Court of Appeals affirmed the enhanced sentence for sentencing George LaBonte, Alfred Lawrence Hunnewell, and Stephen Dyer, who qualified as career criminals, the Commission adopted Amendment 506, which precludes the consideration of statutory sentence enhancements. When the District Court split over whether reduce LaBonte, Hunnewell, and Dyer's sentences, the Court of Appeals found that Amendment 506 was a reasonable implementation of section 994(h)'s directive.</p>\n",
+    "conclusion": "<p>Yes. In a 6-3 opinion delivered by Justice Clarence Thomas, the Court held that the Commission's interpretation was inconsistent with section 994(h)'s plain language, and therefore \"maximum term authorized\" must be read to include all applicable statutory sentencing enhancements. \"Congress surely did not establish enhanced penalties for repeat offenders only to have the Commission render them a virtual nullity,\" wrote Justice Thomas for the Court. Justice Stephen G. Breyer in a dissent, in which Justices John Paul Stevens and Ruth Bader Ginsburg joined, argued that the words \"maximum term authorized\" in section 994(h) were ambiguous, thus the Court should defer to the Sentencing Commission's interpretation.</p>\n"
+}

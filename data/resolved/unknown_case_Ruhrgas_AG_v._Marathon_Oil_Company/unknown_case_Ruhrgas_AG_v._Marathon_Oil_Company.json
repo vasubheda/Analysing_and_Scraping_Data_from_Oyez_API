@@ -1,0 +1,35 @@
+{
+    "ID": 54731,
+    "name": "Ruhrgas AG v. Marathon Oil Company",
+    "href": "https://api.oyez.org/cases/1998/98-470",
+    "view_count": 0,
+    "docket_number": "98-470",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                922082400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38223"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                926917200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38224"
+        }
+    ],
+    "question": "<p>Is a federal district court barred from dismissing a removed case for lack of personal jurisdiction without first deciding its subject-matter jurisdiction?</p>\n",
+    "citation": {
+        "volume": "526",
+        "page": "574",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18660"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/526/574/",
+    "facts_of_the_case": "<p>In 1976, Marathon Oil Company and Marathon International Oil Company acquired Marathon Petroleum Norge (Norge) and Marathon Petroleum Company (Norway) (MPCN). Following the acquisition, Norge assigned its license to produce gas from the North Sea's Heimdal Field to MPCN, which then contracted to sell 70 percent of its share of the Heimdal gas production to a group of European buyers, including Ruhrgas AG. MPCN's sales agreement with Ruhrgas and the other European buyers provided that disputes would be settled by arbitration in Sweden. In 1995, Marathon Oil Company, Marathon International Oil Company, and Norge sued Ruhrgas in Texas state court, asserting state-law claims of fraud, tortious interference with prospective business relations, participation in breach of fiduciary duty, and civil conspiracy. Ruhrgas removed the case to the District Court, asserting three bases for federal jurisdiction. Ruhrgas then moved to dismiss the complaint for lack of personal jurisdiction, or lack of authority over the parties. Marathon moved to remand the case to the state court for lack of federal subject-matter jurisdiction, or lack of authority over the category of claim in the suit. The District Court granted Ruhrgas' motion. Noting that Texas' long-arm statute authorizes personal jurisdiction to the extent allowed by the Due Process Clause of the U.S. Constitution, the court addressed the constitutional question and concluded that Ruhrgas' contacts with Texas were insufficient to support personal jurisdiction. In reversing, the en banc Court of Appeals held that, in removed cases, district courts must decide issues of subject-matter jurisdiction first, reaching issues of personal jurisdiction only if subject-matter jurisdiction is found to exist.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Ruth Bader Ginsburg, the Court held that in cases removed from a state court to federal court there is \"no unyielding jurisdictional hierarchy requiring the federal court to adjudicate subject-matter jurisdiction before considering a challenge to personal jurisdiction.\" Customarily, however, a federal court would first resolve doubts about its jurisdiction over the subject matter. Justice Ginsburg wrote, \"[w]here...a district court has before it a straightforward personal jurisdiction issue presenting no complex question of state law, and the alleged defect in subject matter jurisdiction raises a difficult and novel question, the court does not abuse its discretion by turning directly to personal jurisdiction.\"</p>\n"
+}

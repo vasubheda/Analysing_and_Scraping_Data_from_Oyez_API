@@ -1,0 +1,35 @@
+{
+    "ID": 54587,
+    "name": "Caterpillar, Inc. v. International Union, United Automobile, Aerospace and Agricultural Implement Workers of America",
+    "href": "https://api.oyez.org/cases/1997/96-1925",
+    "view_count": 0,
+    "docket_number": "96-1925",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                885276000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37958"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                890632800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37959"
+        }
+    ],
+    "question": "<p>Does an employer who grants paid leave of absence to employees who then go to work as a union's full-time grievance chairmen violate Section 302 of the Labor Management Relations Act?</p>\n",
+    "citation": {
+        "volume": "523",
+        "page": "1015",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18516"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>United Auto Workers and Caterpillar, Inc. were involved in a working agreement that provided for employees of Caterpillar, Inc. to devote part of their time to processing employee grievances on behalf of the union, while still maintaining full-time employment status and benefits. This agreement was eventually expanded to allow employees to continue receiving benefits from Caterpillar while working full time for the union. In 1991, Caterpillar refused to continue paying benefits to workers who were not directly providing services for the company. The union filed with the National Labor Relations Board (NLRB) asserting that Caterpillar was engaging in unfair labor practices. Caterpillar claimed that the benefit payments violated section 302 of the Labor Management Relations Act (LMRA). Both the NLRB and the District Court found that the payments did in fact violate Section 302 of the LMRA.</p>\n<p>On appeal, the U.S. Court of Appeals for the Third Circuit reversed and ruled for the union. The Third Circuit found that Congress had not intended the LMRA to ban the type of payments at issue. Then-Judge Samuel Alito dissented, arguing that the payments were illegal under the plain meaning of the legislation.</p>\n",
+    "conclusion": "<p>After the Supreme Court heard oral arguments, but before it ruled, the Union reached a settlement with Caterpillar rendering the case moot.</p>\n"
+}

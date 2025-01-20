@@ -1,0 +1,35 @@
+{
+    "ID": 54288,
+    "name": "Plaut v. Spendthrift Farm, Inc.",
+    "href": "https://api.oyez.org/cases/1994/93-1121",
+    "view_count": 0,
+    "docket_number": "93-1121",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                786175200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37405"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                798181200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37406"
+        }
+    ],
+    "question": "<p>Did Congress violate separation of powers by requiring federal courts reopen settled cases as part of the FDIC Improvement Act?</p>\n",
+    "citation": {
+        "volume": "514",
+        "page": "211",
+        "year": "1995",
+        "href": "https://api.oyez.org/case_citation/case_citation/18217"
+    },
+    "term": "1994",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/514/211/",
+    "facts_of_the_case": "<p>In 1987, several Spendthrift Farm shareholders, including Ed Plaut, brought suit against the corporation claiming stock sales in 1983 and 1984 had violated the Securities and Exchange Act of 1934. The Supreme Court's ruling in <em>Lampf v Gilbertson</em> (1991) set a universal time limit of three years after an alleged violation for suits stemming from the relevant portion the Securities and Exchange Act. Based on this ruling, a district court judge dismissed the shareholders' case on August 13, 1991. On December 19, 1991, Congress enacted the FDIC Improvement Act, which required courts to reinstate cases dismissed under the Supreme Court's limitation in <em>Lampf</em>. The shareholders filed a motion to reinstate. A district court judge agreed the act required the case be reinstated, but denied the request on the ground that Congress had violated separation of powers in requiring the courts to reopen settled matters. On appeal, the United States Court of Appeals for the Sixth Circuit affirmed the lower court's conclusion on the same ground.</p>\n",
+    "conclusion": "<p>Yes. In a 7-2 opinion authored by Justice Antonin Scalia, the Court concluded that Congress had usurped power assigned to the judiciary by Article III and thus had violated the separation of powers principle. Justice Scalia notes that Article III assigns to the courts the \"judicial power of the United States\" and the power to \"say what the law is.\" According to the Court, this clearly includes \"the power to render final judgments,\" and by enacting what Justice Scalia describes as \"retroactive legislation, that is, legislation that prescribes what the law <em>was</em> at an earlier time,\" Congress intruded upon the power of the courts to issue \"the last word of the judicial department with regard to a particular case or controversy.\" Thus, Congress had violated separation of powers.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55554,
+    "name": "Bartlett v. Strickland",
+    "href": "https://api.oyez.org/cases/2008/07-689",
+    "view_count": 0,
+    "docket_number": "07-689",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1205730000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40144"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1223960400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40145"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1236574800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40146"
+        }
+    ],
+    "question": "<p>Is a North Carolina redistricting plan in a county lacking a numerical majority of minority citizens required by the Voting Rights of Act of 1965 and, therefore, exempt from complying with the conditions of the North Carolina Constitution.</p>\n",
+    "citation": {
+        "volume": "556",
+        "page": "1",
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20818"
+    },
+    "term": "2008",
+    "description": "A case in which the Court found that the Voting Rights Act of 1965 did not require redistricting in a county lacking a numerical majority of a racial minority of citizens.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/556/1/",
+    "facts_of_the_case": "<p>Dwight Strickland, a commissioner in Pender County, NC, along with several other county commissioners, brought this suit against state officials alleging that their redistricting plan was in violation of the North Carolina Constitution. The state officials argued that the redistricting plan was required by the Voting Rights Act of 1965 (VRA), stating that the minority group in question, comprised of African-American North Carolina citizens, was sufficiently large and geographically compact to constitute a majority under the terms of the VRA. The North Carolina Superior Court agreed with the state officials and entered summary judgment in their favor.</p>\n<p>The North Carolina Supreme Court reversed on appeal, holding that the minority group did not comprise a numerical majority of citizens and, therefore, redistricting was not required by the VRA. Because the redistricting plan did not meet the conditions of the VRA, the court said, it had to comply with certain terms of North Carolina's Constitution setting a minimum county population for redistricting. The court found that the county did not meet this requirement, and declared the plan unlawful.</p>\n",
+    "conclusion": "<p>No. The Supreme Court affirmed the North Carolina Supreme Court holding that the VRA does not require state officials to redraw election district lines to allow a racial minority group to feasibly join with crossover voters to elect the minority's candidate choice when the racial minority group would make up less than 50 percent of the voting population in the redrawn district. With Justice Anthony M. Kennedy writing for the plurality and joined by Chief Justice John G. Roberts, and Justice Samuel A. Alito, the Court, relying on its decision in <em>Gingles</em>, stated that the VRA allows redistricting only when a geographically compact group of minority voters could form a majority in the redrawn election district. The Court reasoned that this requirement was not satisfied here as the minority group in the redrawn district comprised a mere 39 percent of the voting population.</p>\n<p>Justice Clarence Thomas, joined by Justice Antonin G. Scalia, concurred only in the judgment. He disagreed with the <em>Gingles</em> framework for analyzing vote dilution claims arguing it had no basis in the language of the VRA. Justice David H. Souter dissented and was joined by Justice John Paul Stevens, Justice Ruth Bader Ginsburg, and Justice Stephen G. Breyer. He disagreed with the majority's holding, arguing that a district may be redrawn so long as a cohesive minority population is large enough to elect its chosen candidate when combined with crossover voters. Justice Ginsburg also wrote a separate dissenting opinion, encouraging Congress to remedy what she viewed as the Court's misinterpretation of the VRA. Justice Breyer also wrote a separate dissenting opinion, criticizing the plurality's reliance on a 50 percent threshold as too simplistic because it fails to account for the realities of how people actually vote.</p>\n"
+}

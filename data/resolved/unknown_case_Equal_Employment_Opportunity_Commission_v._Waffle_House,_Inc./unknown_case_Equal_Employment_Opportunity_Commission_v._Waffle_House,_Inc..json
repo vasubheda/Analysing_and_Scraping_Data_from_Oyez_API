@@ -1,0 +1,35 @@
+{
+    "ID": 54976,
+    "name": "Equal Employment Opportunity Commission v. Waffle House, Inc.",
+    "href": "https://api.oyez.org/cases/2001/99-1823",
+    "view_count": 0,
+    "docket_number": "99-1823",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1002690000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38687"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1011074400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38688"
+        }
+    ],
+    "question": "<p>Does an agreement between an employer and an employee to arbitrate employment-related disputes bar the Equal Employment Opportunity Commission from pursuing victim-specific judicial relief in an enforcement action alleging that the employer has violated Title I of the Americans with Disabilities Act of 1990?</p>\n",
+    "citation": {
+        "volume": "534",
+        "page": "279",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/18905"
+    },
+    "term": "2001",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/534/279/",
+    "facts_of_the_case": "<p>Waffle House, Inc.'s employees must each sign an agreement requiring employment disputes to be settled by binding arbitration. After he suffered a seizure and was fired by Waffle House, Eric Baker filed a discrimination charge with the Equal Employment Opportunity Commission (EEOC) alleging that his discharge violated Title I of the Americans with Disabilities Act of 1990 (ADA). The EEOC then filed suit, alleging that Baker?s discharge violated the ADA, and sought injunctive relief and specific relief for Baker, including backpay, reinstatement, and compensatory damages, and punitive damages for malicious and reckless conduct. Under the Federal Arbitration Act (FAA), Waffle House petitioned to stay the EEOC's suit and compel arbitration. The District Court did not stay the action. The Court of Appeals concluded that the arbitration agreement between Baker and Waffle House did not foreclose the enforcement action because the EEOC was not a party to the contract, but had independent statutory authority to bring suit in any federal district court where venue was proper. The appellate court also held that the EEOC was limited to injunctive relief.</p>\n",
+    "conclusion": "<p>No. In a 6-3 opinion delivered by Justice John Paul Stevens, the Court held that the arbitration agreement did not bar the EEOC from pursuing victim-specific judicial relief in an ADA enforcement action. The Court reasoned that the EECO's statutory enforcement powers unambiguously authorized the EEOC to obtain the relief that it sought in its complaint, if it could prove its case against the employer. The Court further noted that no language existed to suggest that an arbitration agreement between private parties materially changed the EEOC's statutory function or the remedies otherwise available. Justice Clarence Thomas filed a dissenting opinion, in which Chief Justice William H. Rehnquist and Justice Antonin Scalia joined.</p>\n"
+}

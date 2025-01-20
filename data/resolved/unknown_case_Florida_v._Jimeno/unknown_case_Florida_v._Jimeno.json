@@ -1,0 +1,35 @@
+{
+    "ID": 53873,
+    "name": "Florida v. Jimeno",
+    "href": "https://api.oyez.org/cases/1990/90-622",
+    "view_count": 0,
+    "docket_number": "90-622",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                669880800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36621"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                674974800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36622"
+        }
+    ],
+    "question": "<p>Does a suspect's consent to a search of his vehicle extend to closed containers found inside?</p>\n",
+    "citation": {
+        "volume": "500",
+        "page": "248",
+        "year": "1991",
+        "href": "https://api.oyez.org/case_citation/case_citation/17802"
+    },
+    "term": "1990",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/500/248/",
+    "facts_of_the_case": "<p>A Dade County police officer overheard Enio Jimeno arranging what appeared to be a drug transaction over a public telephone. He followed in his car, and eventually pulled Jimeno over for a traffic violation. He told him he had reason to believe Jimeno had drugs in the car, and asked for permission to search it. Jimeno consented, and a search revealed a brown paper bag with cocaine inside it. At trial, Jimeno argued that his consent to the search of the car did not extend to the closed paper bag within the car. The trial court agreed, excluded the drugs found inside the bag as the product of an unconstitutional search under the Fourth Amendment. The Florida District Court of Appeal and the Florida Supreme Court both affirmed.</p>\n",
+    "conclusion": "<p>Yes. In a 7-to-2 decision, the Supreme Court held that the search did not violate the Fourth Amendment's prohibition of unreasonable searches. \"The touchstone of the Fourth Amendment is reasonableness,\" wrote Chief Justice William H. Rehnquist in the majority opinion. \"We think it was objectively reasonable for the police to conclude that the general consent to search respondent's car included consent to search containers within that car which might bear drugs. A reasonable person may be expected to know that narcotics are generally carried in some form of a container.\"</p>\n"
+}

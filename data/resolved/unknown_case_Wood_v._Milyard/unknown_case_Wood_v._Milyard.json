@@ -1,0 +1,42 @@
+{
+    "ID": 55854,
+    "name": "Wood v. Milyard",
+    "href": "https://api.oyez.org/cases/2011/10-9995",
+    "view_count": 0,
+    "docket_number": "10-9995",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1317099600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40934"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1330322400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40935"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1335243600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40936"
+        }
+    ],
+    "question": "<p>1) Does an appellate court have the authority to raise the statute of limitations defense without a request by any party?</p>\n<p>2) Does the state's declaration before the district court that it \"will not challenge, but [is] not conceding, the timeliness of Wood's habeas petition,\" amount to a deliberate waiver of any statute of limitations defense the state may have had?</p>\n",
+    "citation": {
+        "volume": "566",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19776"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that, under Day v. McDonough, appellate courts have the authority, though not the obligation, to raise a forfeited statute of limitations defense on its own.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/566/463/",
+    "facts_of_the_case": "<p>Patrick Wood filed <em>pro se</em> (on his own behalf) in federal court for a writ of habeas corpus claiming that his convictions for felony murder and second degree murder violated the Sixth Amendment privilege against double jeopardy and challenging the validity of his jury trial waiver. The District Court denied relief. The U.S. Court of Appeals for the Tenth Circuit appointed Wood with an attorney and directed the parties to address the timeliness of Wood's petition. The appeals court found that Wood's habeas petition was untimely and affirmed the decision of the District Court.</p>\n",
+    "conclusion": "<p>Yes and yes. Justice Ruth Bader Ginsburg, writing for a 9-0 majority, reversed the lower decision and remanded. The Supreme Court held that under <em>Day v. McDonough</em> appellate courts have the authority, though not the obligation, to raise a forfeited statute of limitations defense on its own. The prosecution in this case, however, expressly waived the statute of limitations through its repeated refusal to raise the defense. The U.S. Court of Appeals for the Tenth Circuit abused its discretion when it overrode the prosecution's express waiver of the statute of limitations.</p>\n<p>Justice Clarence Thomas concurred in the judgment, arguing that <em>Day v. McDonough</em> was wrongly decided so district and appellate courts should not have the authority to raise the statute of limitations on their own. Justice Antonin Scalia joined in the concurrence.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55923,
+    "name": "Trevino v. Thaler",
+    "href": "https://api.oyez.org/cases/2012/11-10189",
+    "view_count": 0,
+    "docket_number": "11-10189",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1351486800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41132"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1361772000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41133"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1369717200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41134"
+        }
+    ],
+    "question": "<p>Can the ineffective assistance of a criminal defendant's counsel during state habeas proceedings excuse his failure to properly claim ineffective assistance earlier in the proceedings?</p>\n",
+    "citation": {
+        "volume": "569",
+        "page": "413",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/20862"
+    },
+    "term": "2012",
+    "description": "A case in which the Court found that procedural default will not bar a federal court from hearing a claim of ineffective assistance of trial counsel.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/569/413/",
+    "facts_of_the_case": "<p>On the night of June 9, 1996, Carlos Trevino and four others drove to a nearby store to pick up beer for a party. One of the men noticed 15-year old Linda Salinas and offered to drive her to a nearby restaurant. Instead, the group drove Linda to Espada Park in San Antonio, Texas where they started to sexually assault her. Trevino's cousin, Juan Gonzalez, refused to participate and returned to the car; meanwhile, Trevino and the three other men continued the assault. Linda's body was discovered in the park the next day with fatal stab wounds to her neck.</p>\n<p>After their investigation, the San Antonio Police arrested Trevino and a grand jury indicted him on one count of intentional murder and attempt to commit aggravated sexual assault. At trial, Trevino's cousin Gonzalez testified against him. Gonzalez testified that the men returned to the car with blood on their shirts discussing the murder, with Trevino bragging about how he learned to kill in prison. With this evidence, the jury found Trevino guilty and was left to decide on an appropriate punishment. They determined that Trevino intended to kill Linda and was likely to commit such violent acts in the future. At the jury's suggestion, the trial court sentenced Trevino to death.</p>\n<p>Through both the punishment phase of the trial and the first state habeas corpus proceeding, Trevino's attorney did not investigate or present any mitigating evidence that could have reduced Trevino's sentence. During the federal habeas proceeding that followed, Trevino's attorney withdrew and the court appointed new counsel. Trevino's new counsel undertook his own investigation and discovered several pieces of evidence that the jury could have found relevant during the punishment phase of the trial.</p>\n<p>Trevino returned to state court and filed a second habeas corpus application on the basis that his first attorney had a duty to investigate and present the mitigating evidence. Since the attorney failed to do so, Trevino claimed that his Sixth Amendment right to a competent attorney had been denied. The state court denied his application, stating that Trevino should have presented the ineffective assistance of counsel claim during the first state habeas proceeding. Trevino returned to the federal district court to reassert this claim, but that court also denied his claim because it was never properly raised in state court. The district court went on to explain that the allegedly ineffective performance of his first attorney during state habeas proceedings did not excuse his failure to present an ineffective assistance of counsel claim during those proceedings. The United States Court of Appeals for the Fifth Circuit affirmed the district court's decision and Trevino appealed further. The Supreme Court granted certiorari limited to the question below.</p>\n",
+    "conclusion": "<p>Yes. Justice Stephen G. Breyer delivered the opinion for the 5-4 majority. The Court vacated the lower courts' decisions and held that a procedural default will not bar a federal court from hearing a claim of ineffective assistance of trial counsel. The Court upheld a previous precedent established in <em>Martinez v. Ryan</em> that stated that an attorney's ignorance in a post-conviction hearing did not qualify as a reason to excuse a procedural default ruling. Because Texas' law made it virtually impossible for a defendant to present an ineffective assistance of counsel claim during an appeal, it was highly unlikely that a typical defendant could raise a claim of ineffective assistance of counsel</p>\n<p>Chief Justice John Roberts, joined by Justice Samuel A. Alito, Jr., dissented, and argued that the rule established in <em>Martinez</em> was specifically designed to be applied in a very narrow fashion and that the majority's opinion represented an inconsistent expansion of that holding. Justice Antonin Scalia, joined by Justice Clarence Thomas, wrote a separate dissent in which he argued the rulings in both this case and <em>Martinez</em> drastically altered habeas corpus jurisprudence without providing clear benefits to the judicial process.</p>\n"
+}

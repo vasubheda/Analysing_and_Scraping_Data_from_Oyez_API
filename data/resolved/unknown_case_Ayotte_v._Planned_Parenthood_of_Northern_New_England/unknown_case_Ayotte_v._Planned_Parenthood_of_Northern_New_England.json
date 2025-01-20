@@ -1,0 +1,42 @@
+{
+    "ID": 55349,
+    "name": "Ayotte v. Planned Parenthood of Northern New England",
+    "href": "https://api.oyez.org/cases/2005/04-1144",
+    "view_count": 0,
+    "docket_number": "04-1144",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1116824400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39589"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1133330400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39590"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1137564000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39591"
+        }
+    ],
+    "question": "<p>May Planned Parenthood of Northern New England challenge the constitutionality of the Parental Notification Prior to Abortion Act in federal court before it is put into effect? Does the Parental Notification Prior to Abortion Act, through the judicial bypass procedure or other safeguards, adequately protect the health of minors seeking abortions?</p>\n",
+    "citation": {
+        "volume": "546",
+        "page": "320",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20578"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/546/320/",
+    "facts_of_the_case": "<p>After New Hampshire's state legislature approved the Parental Notification Prior to Abortion Act but before the act went into effect, Planned Parenthood of Northern New England challenged the law in federal district court. They claimed that the law, which requires that parents be notified before their minor daughter has an abortion, violated the \"undue burden\" test laid out in <em>Planned Parenthood v. Casey</em>, a 1992 Supreme Court decision that reformulated the constitutional protections given to abortion in <em>Roe v. Wade</em>. Specifically, they argued that an exemption in the law for abortions necessary to prevent the death of the mother, but not for those abortions necessary to protect merely her health, was unconstitutionally narrow.</p>\n<p>The federal district court agreed, rejecting the argument of New Hampshire's Attorney General that the judicial bypass procedure included in the law, in which a judge could approve an abortion without parental notification for a minor who showed she was mature enough to make the decision on her own, could be used to permit abortions necessary to protect the health of the mother. The judge also rejected New Hampshire's argument that the law could not be challenged until it had actually been implemented. A First Circuit Court of Appeals panel unanimously affirmed the decision.</p>\n",
+    "conclusion": "<p>In a rare unanimous decision regarding abortion, the Supreme Court sidestepped the most contentious questions of the case and focused instead on the proper remedy when a portion of a statute is found unconstitutional. Justice Sandra Day O'Connor, writing for the Court, held that the statute would be unconstitutional when applied to the very small percentage of minors for whom an emergency abortion would be necessary to avert serious damage to their health. The lower court's decision to invalidate the entire statute based on its unconstitutional results in this small percentage of cases, however, was unnecessary. Instead, O'Connor wrote, \"in this case the lower courts can issue a declaratory judgment and an injunction prohibiting [only] the statute's unconstitutional application.\"</p>\n<p>O'Connor warned, however, that a court should be wary of upholding an act while strike down some of its applications when it was obvious that a legislature would prefer the entire act be declared unconstitutional. Because of some disagreement about which course the legislature would have preferred - wholesale nullification or narrower individual rulings - the Court remanded the case to lower court to determine legislative intent.</p>\n"
+}

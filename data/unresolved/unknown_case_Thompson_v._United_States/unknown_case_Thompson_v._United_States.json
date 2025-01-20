@@ -1,0 +1,33 @@
+{
+    "ID": 63705,
+    "name": "Thompson v. United States",
+    "href": "https://api.oyez.org/cases/2024/23-1095",
+    "view_count": 0,
+    "docket_number": "23-1095",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1728018000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55533"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1736834400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55555"
+        }
+    ],
+    "question": "<p>Does the prohibition in 18 U.S.C. \u00a7 1014 on making a \u201cfalse statement\u201d for the purposes of influencing certain financial institutions and federal agencies include making statements that are misleading but not false?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28039"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether 18 U.S.C. \u00a7 1014, which prohibits making a \u201cfalse statement\u201d for the purpose of influencing certain financial institutions and federal agencies, also prohibits making a statement that is misleading but not false.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-1095/"
+}

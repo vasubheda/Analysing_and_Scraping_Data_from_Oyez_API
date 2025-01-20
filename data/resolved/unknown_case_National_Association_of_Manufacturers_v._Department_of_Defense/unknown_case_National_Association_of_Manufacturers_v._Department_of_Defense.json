@@ -1,0 +1,42 @@
+{
+    "ID": 62798,
+    "name": "National Association of Manufacturers v. Department of Defense",
+    "href": "https://api.oyez.org/cases/2017/16-299",
+    "view_count": 0,
+    "docket_number": "16-299",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1484287200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53950"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1507698000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54104"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1516600800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54204"
+        }
+    ],
+    "question": "<p>Does the Clean Water Act grant federal courts of appeals jurisdiction to review the Environmental Protection Agency\u2019s rule that defines the scope of United States waters?</p>\n",
+    "citation": {
+        "volume": "583",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27492"
+    },
+    "term": "2017",
+    "description": "A case in which the Court decided that challenges to the Environmental Protection Agency\u2019s rule that defines the scope of United States waters must be filed in federal district courts.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/583/16-299/",
+    "facts_of_the_case": "<p>The Clean Water Act (CWA) provides for judicial review in instances where the Environmental Protection Agency\u2019s action results in the issuance or denial of any permit or places restrictions on waste emissions or other activities related to the waters.On August 28, 2015, a final rule issued by the Environmental Protection Agency and U.S. Army Corps of Engineers that defined the scope of \u201cthe waters of the United States\u201d under the CWA came into effect. Numerous states and other organizations challenged the validity of the agencies\u2019 rule and contended both that it did not conform with the CWA and was improperly adopted in violation of the requirements of the Administrative Procedures Act. Following consolidation of the claims before the U.S. Court of Appeals for the Sixth Circuit, the National Association of Manufacturers intervened to join the plaintiffs and moved to dismiss. The plaintiffs argued that the CWA does not provide the federal circuit courts with jurisdiction over the agencies\u2019 rule and that review is properly held in the district courts instead. The appellate court held that it had jurisdiction because, although the rule only defined the scope of U.S. waters, by defining its boundaries, the rule functionally placed restrictions on activity related to the waters. Therefore, the rule affected permitting requirements and thus had the practical effect of granting or denying permits. </p>\n",
+    "conclusion": "<p>The Court reversed and remanded, holding because that the Waters of the United States Rule (WOTUS Rule or Rule) does not fall within the scope of Section 1369(b)(1) of the CWA, challenges to the rule must be filed in federal district courts rather than appellate courts.\u00a0</p>\n<p>Writing for a unanimous Court, Justice Sotomayor explained that there are generally two avenues for challenging final EPA actions: (1) in federal district court under the Administrative Procedures Act, or (2) in federal appellate court if the challenged action falls under one of seven specifically enumerated categories. Here, the Court rejected the government's arguments that the WOTUS Rule falls under two of the categories of EPA actions that are exclusively reviewable at the appellate level in the first instance.\u00a0</p>\n<p>The Court held that the first category, under \u00a71369(b)(1)(E), which pertains to agency actions \u201capproving or promulgating any effluent limitation or other limitation under section 1311, 1312, 1316, or 1345\u201d does not apply because the WOTUS Rule is not an effluent limitation. It is also not an \"other limitation,\" which the statutory structure suggested must be similar to an effluent limitation. Further, the Rule was not promulgated under \u00a7 1311 because that section does not provide authority to define statutory terms appearing elsewhere in the CWA.</p>\n<p>The second category, which pertains to actions falling under \u00a7 1369(b)(1)(F), encompasses and grants exclusive and original jurisdiction to courts of appeal to review EPA actions \u201cissuing or denying any permit under section 1342.\u201d The WOTUS Rule does not issue or deny individual permit applications, and the Court therefore rejected the argument that the Rule was exclusively reviewable in appellate court under \u00a7 1369(b)(1)(F).</p>\n<p>Finally, the Court rejected a number of policy arguments the government offered in support of its position. Though acknowledging the persuasiveness of arguments in favor of judicial efficiency and national uniformity with regard to broad regulations, among others, the Court held that these contentions did not outweigh the importance of following the statutory text.</p>\n"
+}

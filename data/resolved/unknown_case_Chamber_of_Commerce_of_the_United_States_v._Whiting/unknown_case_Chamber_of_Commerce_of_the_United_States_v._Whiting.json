@@ -1,0 +1,42 @@
+{
+    "ID": 55739,
+    "name": "Chamber of Commerce of the United States v. Whiting",
+    "href": "https://api.oyez.org/cases/2010/09-115",
+    "view_count": 0,
+    "docket_number": "09-115",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1277701200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40633"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1291788000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40634"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1306386000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40635"
+        }
+    ],
+    "question": "<p>An Arizona law requires state employers to check the immigration status of job applicants through a federal computer database, although the federal law creating the database makes its use voluntary. Arizona also revokes the business license of state companies that hire undocumented workers. Are these provisions pre-empted by federal immigration laws?</p>\n",
+    "citation": {
+        "volume": "563",
+        "page": "582",
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19661"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that Arizona laws requiring employers to verify the employment eligibility of their employees through a federal database was not unconstitutional.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/563/582/",
+    "facts_of_the_case": "<p>Various business and civil-rights organizations challenged the enforceability of The Legal Arizona Worker's Act (\"LAWA\") in an Arizona federal district court. They argued that federal law preempted LAWA, which requires Arizona employers to use the federal E-Verify employment verification system and revokes business licenses of those who hire unauthorized workers. The district court upheld the statute.</p>\n<p>On appeal the U.S. Court of Appeals for the Ninth Circuit affirmed, holding that LAWA was not preempted explicitly or impliedly by the federal Immigration Reform and Control Act (\"IRCA\"). The court reasoned that IRCA although IRCA expressly preempts all state and local laws imposing sanctions for hiring or recruiting unauthorized aliens, it excepts licensing laws \u2013 like LAWA \u2013 from preemptive reach. The court also reasoned that mandating the use of E-Verify is not impliedly preempted by IRCA because Congress could have, but did not, expressly forbid states form requiring E-Verify participation.</p>\n",
+    "conclusion": "<p>No. The Supreme Court affirmed the lower court holding in an opinion by Chief Justice John Roberts. \"Arizona's licensing law falls well within the confines of the authority Congress chose to leave to the States and therefore is not expressly preempted.\" All five members of the majority did not join the chief justice's opinion in full. Meanwhile, Justice Stephen Breyer dissented, joined by Justice Ruth Bader Ginsburg. \"Congress did not intend its 'licensing' language to create so broad an exemption, for doing so would permit States to eviscerate the federal Act's preemption provision,\" Breyer wrote. Justice Sonia Sotomayor authored a separate dissent in which she contended that she \"would also hold that federal law pre-empts the provision of the Arizona Act making mandatory the use of E-Verify, the federal electronic verification system.\" The Justice Elena Kagan took no part in consideration of the case.</p>\n"
+}

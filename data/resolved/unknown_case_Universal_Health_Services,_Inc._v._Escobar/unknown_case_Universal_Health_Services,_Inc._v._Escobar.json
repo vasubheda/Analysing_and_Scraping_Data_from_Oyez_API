@@ -1,0 +1,42 @@
+{
+    "ID": 62633,
+    "name": "Universal Health Services, Inc. v. Escobar",
+    "href": "https://api.oyez.org/cases/2015/15-7",
+    "view_count": 0,
+    "docket_number": "15-7",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1449208800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53347"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1461042000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53432"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1466053200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53780"
+        }
+    ],
+    "question": "<p>(1) Is the implied certification test for determining when claims have sufficiently pled falsity for the purposes of the False Claims Act valid?</p>\n<p>(2) If so, does the relevant statute need to explicitly state the conditions of payment with which the defendant allegedly failed to comply?</p>\n",
+    "citation": {
+        "volume": "579",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27389"
+    },
+    "term": "2015",
+    "description": "A case in which the Court held that the implied certification test could be a valid basis for False Claims Act liability, and the conditions of payment with which the defendant allegedly failed to comply did not need to be explicitly stated. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/579/15-7/",
+    "facts_of_the_case": "<p>Universal Health Services, Inc. (UHS) owns and operates Arbour Counseling Services (Arbour), a mental health services provider in Lawrence, Massachusetts. Arbour participates in the state Medicaid program, MassHealth, and the state has promulgated regulations for such \u201csatellite\u201d facilities.</p>\n<p>Julio Escobar and Carmen Correa are the parents of Yarushka Rivera, a teenager with behavioral issues who began seeing a counselor at Arbour. These counselors were not licensed, and Escobar and Correa became concerned that they were not being properly supervised as the regulations of satellite facilities required. Rivera was eventually diagnosed with bipolar disorder and prescribed a medicine by a \u201cdoctor\u201d who was later discovered to be a nurse under the supervision of a non-board-certified psychiatrist. Rivera soon had an adverse reaction to the medicine and called Arbour for guidance but was unable to speak with anyone. A few days later, she had a seizure and was hospitalized. A few months later, she suffered a fatal seizure.</p>\n<p>Escobar and Correa filed complaints with several state agencies and eventually sued UHS under both the federal and state False Claims Acts. The district court dismissed the complaint and held that the plaintiffs did not sufficiently plead the elements of falsity that claims under the False Claims Act require. The U.S. Court of Appeals reversed and held that the plaintiffs had sufficiently pled the elements of falsity by applying an \u201cimplied certification\u201d test, which states that falsity has been sufficiently pled when there is evidence that the defendant did not comply with a condition of payment.</p>\n",
+    "conclusion": "<p>The implied certification test could be a valid basis for False Claims Act liability, and the conditions of payment with which the defendant allegedly failed to comply did not need to be explicitly stated. Justice Clarence Thomas delivered the opinion of the unanimous Court, which held that the implied certification theory could be a basis for liability under certain circumstances. When the defendant submitted a claim for payment that made specific representations about goods or services provided but knowingly did not disclose noncompliance with statutory, regulatory, or contractual requirements, liability could attach if the omission made those representations misleading. However, liability did not depend on whether the requirements were expressly designated as conditions of payment; instead the determining factor was whether the misrepresentation about compliance was material under the traditional common law meaning of the term. Because the materiality standard and the \u201cknowingly\u201d part of the liability test are strict, the requirements of payment need not be expressly stated.</p>\n"
+}

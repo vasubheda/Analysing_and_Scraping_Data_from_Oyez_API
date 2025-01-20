@@ -1,0 +1,42 @@
+{
+    "ID": 55453,
+    "name": "Lopez v. Gonzales",
+    "href": "https://api.oyez.org/cases/2006/05-547",
+    "view_count": 0,
+    "docket_number": "05-547",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1144040400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39864"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1159851600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39865"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1165298400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39866"
+        }
+    ],
+    "question": "<p>Does a drug crime constitute an \"aggravated felony\" under the Immigration and Naturalization Act if the crime is a felony under state law but only a misdemeanor under federal law?</p>\n",
+    "citation": {
+        "volume": "549",
+        "page": "47",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20672"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/549/47/",
+    "facts_of_the_case": "<p>Jose Lopez, a Mexican national living in South Dakota, was convicted of aiding and abetting the possession of cocaine. The crime is a felony under South Dakota law, but only a misdemeanor under the federal Controlled Substances Act.</p>\n<p>The Immigration and Naturalization Service began proceedings to remove Lopez from the country. Lopez applied for a cancellation of his removal, citing the Immigration and Naturalization Act (INA). The INA allows an alien to avoid removal if he meets certain qualifications and has no prior \"aggravated felony\" convictions. Lopez argued that he was eligible for cancellation of his removal because his drug offense was only a misdemeanor under federal law.</p>\n<p>An Immigration Judge denied Lopez's request for cancellation, and the Board of Immigration Appeals affirmed, on the grounds that Lopez had committed an aggravated felony. Lopez then sued the Attorney General and brought his case to the Court of Appeals for the Eighth Circuit. The Circuit Court affirmed the lower courts, ruling that a crime is an aggravated felony under the INA if it is a felony under either federal or state law.</p>\n",
+    "conclusion": "<p>No. The Court ruled 8-1 that a drug crime must be a felony under the federal Controlled Substances Act (CSA) in order to count as an aggravated felony for purposes of the INA. The opinion by Justice David Souter rejected as unnatural the government's interpretation of the term \"aggravated felony\" in the INA as encompassing any state-law felony punishable under the CSA, whether as a felony or not. Instead, the Court looked to the crimes classified as felonies in the CSA in order to define INA aggravated felonies. Illicit trafficking is a felony drug crime under the CSA, but the Court ruled that Lopez's drug-possession crime could not be considered \"trafficking.\" The Court's approach avoided state-by-state disparities in the types of crimes that can be used to justify deportation.</p>\n"
+}

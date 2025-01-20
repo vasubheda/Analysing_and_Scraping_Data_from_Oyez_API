@@ -1,0 +1,42 @@
+{
+    "ID": 55241,
+    "name": "Graham County Soil & Water Conservation District v. United States ex Rel. Wilson",
+    "href": "https://api.oyez.org/cases/2004/04-169",
+    "view_count": 0,
+    "docket_number": "04-169",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1105077600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39287"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1113973200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39288"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1119243600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39289"
+        }
+    ],
+    "question": "<p>Does the six-year statute of limitations in the False Claims Act apply to suits brought by individuals who were retaliated against by their employers for assisting an investigation of false or fraudulent claims?</p>\n",
+    "citation": {
+        "volume": "545",
+        "page": null,
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/20547"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>The False Claims Act (FCA) allows the government or an individual on the government's behalf to sue any person for \"making false or fraudulent claims for payment to the United States.\" A 1986 amendment to the FCA allows individuas to sue their employer if the employer retaliates against them in any way for assisting in an investigation of such false claims. In 2001, Karen Wilson, a secretary for Graham County Water District, sued her employer for various false claims it allegedly made concerning a federal disaster relief program. She also brought a retaliation suit against her employer, alleging that after she had provided information on the false claims to federal officials in December 1995, she had been repeatedly harassed by Graham County District officials until she resigned in March 1997. The District Court dismissed Wilson's suit as untimely. The court accepted Graham County District's argument that the six-year statute of limitations in the 1986 amendment to the FCA was not intended to apply to retaliation suits. Therefore, the court held, the most closely analogous state limitation applies instead. The north Carolina limit for retaliation suits was three years, so Wilson's suit was brought too late. On appeal, the Court of Appeals for the Fourth Circuit reversed the District Court and applied the six-year limitation to all retaliation suits under the FCA.</p>\n",
+    "conclusion": "<p>No. In a 7-2 decision, the Court ruled that the six-year statute of limitations did not apply to suits for retaliation. The majority opinion by Justice Clarence Thomas found the statute of limitations \"ambiguous.\" The ambiguity arose from the fact that the six-year limitation in the FCA starts from the time the false claim was made. Yet in a retaliation suit, no actual false claim needs to be alleged. The plaintiff only has to allege that her employer retaliated against her in connection with a federal investigation. The Court found that the ambiguity could be resolved by interpreting the statute of limitations to apply only to suits for false claims, not to retaliation suits. The Court left to the lower courts the question of which state statute of limitations should apply in place of the six-year limitation. Justice Stephen Breyer, joined by Justice Ruth Bader Ginsburg, dissented. The dissent characterized the statute of limitations as \"unusual\" but \"reasonably clear,\" and argued that it should be read to apply to retaliation actions.</p>\n"
+}

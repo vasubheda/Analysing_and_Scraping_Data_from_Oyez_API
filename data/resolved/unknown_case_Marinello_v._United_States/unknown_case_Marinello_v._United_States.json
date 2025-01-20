@@ -1,0 +1,42 @@
+{
+    "ID": 62875,
+    "name": "Marinello v. United States",
+    "href": "https://api.oyez.org/cases/2017/16-1144",
+    "view_count": 0,
+    "docket_number": "16-1144",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1498539600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54090"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1512540000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54133"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1521608400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54244"
+        }
+    ],
+    "question": "<p>Does a conviction under 26 U.S.C. \u00a7 7212(a) for corruptly endeavoring to obstruct or impede the due administration of the tax laws require that the government prove the defendant acted with knowledge of a pending Internal Revenue Service action?</p>\n",
+    "citation": {
+        "volume": "584",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27532"
+    },
+    "term": "2017",
+    "description": "A case in which the Court held that a conviction under 26 U.S.C. \u00a7 7212(a) for corruptly endeavoring to obstruct or impede the due administration of the tax laws requires proof that the defendant acted with knowledge of a pending Internal Revenue Service action.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/584/16-1144/",
+    "facts_of_the_case": "<p>Carlo J. Marinello II owned and operated a freight service that couriered items to and from the United States and Canada. Between 1992 and 2010, Marinello did not keep an accounting of his business, nor did he file personal or corporate income tax returns. Indeed, he shredded bank statements and business records. After an investigation by the IRS, Marinello was indicted by a grand jury on nine counts of tax-related offenses, and a jury found him guilty on all counts. He was sentenced to 36 months in prison, one year of parole, and was ordered to pay over $350,000 to the IRS in restitution.</p>\n<p>One of the counts of which Marinello was charged and convicted was violation of 26 U.S.C. \u00a7 7212(a), which imposes criminal liability on one who \"in any . . . way corruptly . . . obstructs or impedes, or endeavors to obstruct or impede, the due administration of this title.\" Marinello appealed his conviction on the grounds that the phrase \"the due administration of this title\" requires the defendant be aware of IRS action, and the government provided no evidence at trial that Marinello knew of a pending IRS investigation against him. Finding that knowledge of a pending investigation is not an element of the offense of which Marinello was convicted, the Second Circuit affirmed his conviction and sentence.</p>\n",
+    "conclusion": "<p>The federal crime of corruptly endeavoring to obstruct or impede the due administration of the tax laws, 26 U.S.C. \u00a7 7212(a), requires proof that the defendant acted with knowledge of a pending Internal Revenue Service action. Justice Stephen Breyer delivered the opinion for the 7-2 majority. Justice Breyer found that in the past, the Court had interpreted similar criminal statutes to require a \"nexus\" between the defendant's obstructive conduct and a particular judicial proceeding. Given that the key words in the statute \"obstruct\" and \"impede\" require an object the taxpayer must act with respect to a particular person or thing of which he is aware. Moreover, just because a taxpayer\u00a0knows that the IRS will review his tax return does\u00a0not mean that every Tax Code violation constitutes obstruction. Rather, in addition to satisfying the nexus requirement, the government\u00a0must also demonstrate that the proceeding was pending at the time the defendant\u00a0engaged in the obstructive conduct or at least was reasonably\u00a0foreseeable by the defendant.</p>\n<p>Justice Clarence Thomas authored a separate dissent in which Justice Samuel Alito joined. Justice Thomas found that the plain language of the statute forbids \"corrupt efforts to impede the IRS from performing any of these activities\" and does not require that the defendant acted with knowledge of a pending IRS action.</p>\n"
+}

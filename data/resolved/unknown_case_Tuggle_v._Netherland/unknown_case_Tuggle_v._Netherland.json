@@ -1,0 +1,28 @@
+{
+    "ID": 54403,
+    "name": "Tuggle v. Netherland",
+    "href": "https://api.oyez.org/cases/1995/95-6016",
+    "view_count": 0,
+    "docket_number": "95-6016",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                815032800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37621"
+        }
+    ],
+    "question": "<p>Did the Court of Appeals correctly interpret Zant v. Stephens, 462 U.S. 862, to establish a rule that, in States that do not weigh aggravating circumstances against mitigating circumstances, a death sentence may be upheld on the basis of one valid aggravating circumstance, regardless of the reasons for which another aggravating factor may have been found to be invalid?</p>\n",
+    "citation": {
+        "volume": "516",
+        "page": "10",
+        "year": "1995",
+        "href": "https://api.oyez.org/case_citation/case_citation/18332"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/516/10/",
+    "facts_of_the_case": "<p>Lem Tuggle was convicted of murder. After the Commonwealth presented unrebutted psychiatric testimony of his future dangerousness, the jury found two statutory aggravating circumstances and sentenced Tuggle to death. Subsequently, the U.S. Supreme Court remanded the case under Ake v. Oklahoma, 470 U.S. 68, which held that when the prosecution presents psychiatric evidence of an indigent defendant's future dangerousness in a capital sentencing proceeding, due process requires the State to provide the defendant with the assistance of an independent psychiatrist. On remand, the State Supreme Court invalidated the future dangerousness aggravating factor, but upheld the death sentence based on the vileness aggravator under Zant v. Stephens, 462 U.S. 862. Agreeing, the Court of Appeals construed Zant as establishing a rule that in nonweighing States a death sentence may be upheld based on one valid aggravating circumstance, regardless of the reasons for finding another aggravating factor invalid.</p>\n",
+    "conclusion": "<p>No. In a per curiam opinion, the Court held that the Court of Appeals' interpretation of Zant was incorrect. The Court reasoned that the record here does not provide comparable support for the death sentence because, even after elimination of the invalid aggravator, the death sentence in Zant rested on two remaining unimpeached aggravating factors. Moreover, the Court noted, the Ake error prevented Tuggle from developing his own evidence to rebut the Commonwealth and to enhance his defense in mitigation, allowing the Commonwealth's psychiatric evidence to go unchallenged, which may have unfairly increased its persuasiveness and affected the jury's decision to impose death rather than life imprisonment.</p>\n"
+}

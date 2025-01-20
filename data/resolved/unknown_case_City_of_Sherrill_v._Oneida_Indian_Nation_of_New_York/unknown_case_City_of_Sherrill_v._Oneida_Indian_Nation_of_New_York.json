@@ -1,0 +1,42 @@
+{
+    "ID": 55248,
+    "name": "City of Sherrill v. Oneida Indian Nation of New York",
+    "href": "https://api.oyez.org/cases/2004/03-855",
+    "view_count": 0,
+    "docket_number": "03-855",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1088398800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39306"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1105423200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39307"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1112076000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39308"
+        }
+    ],
+    "question": "<p>Were land parcels once owned by the Oneida Nation, sold in 1807 but repurchased in the 1990s by the Nation's descedant tribe, part of an Indian Reservation and thus exempt from local taxes?</p>\n",
+    "citation": {
+        "volume": "544",
+        "page": "197",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19176"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/544/197/",
+    "facts_of_the_case": "<p>In the late 18th century, Congress set aside most of the tribal land of the Oneida Indian Nation of New York as a reservation. The tribe later sold off much of the reservation. In the 1990s members of the tribe began to buy back pieces of the land. The tribe said the reacquired land was part of a reservation and therefore exempt from state and municipal taxes. The City of Sherrill - which encompassed some of the tribe's property - argued the land was not tax-exempt. The Oneidas sued Sherrill in federal district court and alleged the land was recognized by the 1794 Treaty of Canandaigua as part of their historic reservation. The Oneidas also pointed to the 1790 Non- Intercourse Act that required federal consent for Indian land to lose its reservation status. Sherrill argued the land lost its reservation status after leaving the Oneidas' ownership originally. The district court and the Second Circuit Court of Appeals ruled for the Oneidas.</p>\n",
+    "conclusion": "<p>No. In an 8-1 opinion delivered by Justice Ruth Bader Ginsburg, the Court held that standards of federal Indian law and federal equity precluded the Tribe from unilaterally reviving its ancient sovereignty over the land at issue. The Court pointed to the \"longstanding, distinctly non-Indian character of central New York and its inhabitants\"and the fact that regulatory authority over the land had been exercised by state and local government for 200 years. By giving up the land in the early 19th century, the Oneidas had \"relinquished governmental reins and could not regain them through open-market purchases from current titleholders.\"</p>\n"
+}

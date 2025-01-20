@@ -1,0 +1,35 @@
+{
+    "ID": 62637,
+    "name": "White v. Wheeler",
+    "href": "https://api.oyez.org/cases/2015/14-1372",
+    "view_count": 0,
+    "docket_number": "14-1372",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1450072800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53356"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1450072800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53357"
+        }
+    ],
+    "question": "<p>Was the decision to strike a potential juror based on that juror\u2019s equivocal statements about his ability to consider the death penalty a reasonable application of the Supreme Court\u2019s precedence as established in <em>Witherspoon v. Illinois</em>?</p>\n",
+    "citation": {
+        "volume": "577",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/27393"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that the decision to strike a potential juror based on that juror\u2019s equivocal statements about his ability to consider the death penalty was a reasonable application of Supreme Court precedent.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/577/73/",
+    "facts_of_the_case": "<p>In October 1997, Nigel Malone and Nairobi Warfield were found dead in their apartment. Blood at the crime scene matched Roger L. Wheeler\u2019s, and he was arrested for the murders. During <em>voir dire</em>, one of the potential jurors gave equivocal responses in response to questions regarding his beliefs about the death penalty. The prosecution moved to strike the juror for cause and cited these replies. The defense opposed the motion and argued that the responses indicated nothing more than an ability to consider all penalty options. The judge struck the juror, and Wheeler was subsequently convicted of the murders and sentenced to death. The Kentucky Supreme Court affirmed the convictions and the sentence and held that the trial judge appropriately struck all the jurors who could not impose the death penalty.</p>\n<p>Wheeler exhausted his state post-conviction proceedings and petitioned for a writ of habeas from the federal district court. The federal district court denied the petition, but the U.S. Court of Appeals for the Sixth Circuit reversed, granted the petition, and held that the exclusion of the juror in question was an unreasonable application of the Supreme Court\u2019s precedent in <em>Witherspoon v. Illinois</em>. In that case, the Supreme Court held that only a juror who is \u201csubstantially impaired in his or her ability to impose the death penalty\u201d can be excused for cause. The appellate court held that the trial court erred in interpreting the juror\u2019s responses that he did not know if he could consider the death penalty as meaning that he could not consider the death penalty.</p>\n",
+    "conclusion": "<p>In a per curiam opinion, the Court held that the trial court\u2019s ruling that the potential juror was not qualified to serve as a juror in a capital trial did not violate clearly established law. In order for a federal court to hold that a state court\u2019s judgment was erroneous on habeas grounds, the prisoner must show that the state court\u2019s ruling was so lacking in justification that there is no possibility for fairminded disagreement. Because this is not a case in which the record forecloses the possibility of holding that the juror was substantially impaired, the trial court reasonably interpreted Supreme Court precedent and there was not a sufficient basis for the federal court to hold that the state court\u2019s judgment was erroneous.</p>\n"
+}

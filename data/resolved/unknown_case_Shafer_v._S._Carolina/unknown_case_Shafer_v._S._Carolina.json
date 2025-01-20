@@ -1,0 +1,35 @@
+{
+    "ID": 54901,
+    "name": "Shafer v. S. Carolina",
+    "href": "https://api.oyez.org/cases/2000/00-5250",
+    "view_count": 0,
+    "docket_number": "00-5250",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                979020000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38543"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                985068000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38544"
+        }
+    ],
+    "question": "<p>Did the South Carolina Supreme Court properly hold Simmons v. South Carolina inapplicable to the state's current sentencing regime?</p>\n",
+    "citation": {
+        "volume": "532",
+        "page": "36",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18830"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/532/36/",
+    "facts_of_the_case": "<p>Wesley Aaron Shafer, Jr., was found guilty of murder, among other things. During the sentencing phase, Shafer's counsel argued that Simmons v. South Carolina required the trial judge to instruct the jury that under South Carolina law a life sentence carries no possibility of parole. The U.S. Supreme Court held in Simmons that where a capital defendant's future dangerousness is at issue, and the only sentencing alternative to death available to the jury is life imprisonment without possibility of parole, due process requires that the jury be informed of the defendant's parole ineligibility. The prosecution responded that because the state did not plan to argue to the jury that Shafer would be a danger in the future that no Simmons instruction was required. During deliberations, the jury asked under what conditions someone convicted of murder could become available for parole. The trial judge stated that parole eligibility or ineligibility was not a matter for the jury's consideration. Ultimately, the jury recommended the death penalty and the judge imposed the sentence. In affirming, the South Carolina Supreme Court held that Simmons generally did not apply to the State's sentencing scheme because an alternative to death other than life without the possibility of parole exists.</p>\n",
+    "conclusion": "<p>No. In a 7-2 opinion delivered by Justice Ruth Bader Ginsburg, the Court held that \"whenever future dangerousness is at issue in a capital sentencing proceeding under South Carolina's new scheme, due process requires that the jury be informed that a life sentence carries no possibility of parole.\" Justice Ginsburg wrote that \"[i]t is only when the jury endeavors the moral judgment whether to impose the death penalty that parole eligibility may become critical. Correspondingly, it is only at that stage that Simmons comes into play, a stage at which South Carolina law provides no third choice, no 30-year mandatory minimum, just death or life without parole.\" Justices Antonin Scalia and Clarence Thomas filed dissenting opinions.</p>\n"
+}

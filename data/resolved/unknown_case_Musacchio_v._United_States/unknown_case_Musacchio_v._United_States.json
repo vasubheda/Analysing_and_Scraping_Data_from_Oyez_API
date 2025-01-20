@@ -1,0 +1,42 @@
+{
+    "ID": 62320,
+    "name": "Musacchio v. United States",
+    "href": "https://api.oyez.org/cases/2015/14-1095",
+    "view_count": 0,
+    "docket_number": "14-1095",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1435554000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52789"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1448863200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53283"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1453701600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53399"
+        }
+    ],
+    "question": "<ol><li>Does the law of the case doctrine require the sufficiency of evidence to be measured against the elements laid out in the jury instructions when those elements require the government to prove more than the statute requires and the government did not object at trial?</li>\n<li>Is a statute of limitations defense that is not raised at trial reviewable on appeal?</li>\n</ol>",
+    "citation": {
+        "volume": "577",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27120"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that the law of the case doctrine does not require that the sufficiency of evidence be measured against the elements laid out in the jury instructions when those elements require the government to prove more than the statute requires and the government did not object at trial. The Court also determined that a statute of limitations defense that is not raised at trial is not reviewable on appeal. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/577/237/",
+    "facts_of_the_case": "<p>Michael Musacchio was the president of Exel Transportation Services (ETS), a transportation brokerage company that arranges freight shipments for business clients, until his resignation in 2004. In 2005, Musacchio founded Total Transportation Services (TTS), a competing company, and several ETS agents moved to the new company with him. Around the same time, the new president of ETS became suspicious when potential new agents were unexpectedly familiar with the terms of ETS contracts. He discovered that Musacchio and other TTS agents had been accessing ETS servers, so ETS sued TTS and the parties settled for $10 million.</p>\n<p>In 2010, the government indicted Musacchio and other TTS agents on counts of conspiracy and violations of the Computer Fraud and Abuse Act. At trial, the district court incorrectly instructed the jury that the government had to prove more stringent elements than the statute actually requires, and the government did not object. After he was convicted, Musacchio appealed and argued that, by not objecting, the government acceded to the higher burden and failed to meet it. Musacchio also argued that one of the counts was barred by a statute of limitations, but he had not raised this defense at trial. The U.S. Court of Appeals for the Fifth Circuit held that the district court\u2019s instructional error did not become the law of the case when the government failed to object and that Musacchio waived the statute of limitations defense by failing to raise it at trial.</p>\n",
+    "conclusion": "<p>The sufficiency of evidence should be measured against the elements of the statute rather than the elements laid out in the jury instructions, and a statute of limitations defense that is not raised at trial is not reviewable on appeal. Justice Clarence Thomas delivered the opinion of the unanimous Court, which held that the additional element added to the jury instruction did not affect the prosecution\u2019s burden of proof because the sufficiency of evidence should be weighed against the elements of the charged crime, not the \u201cerroneously\u201d added element. Furthermore, the Court held that a statute of limitations objection cannot be raised during the appeal unless there is a clear error as to why it was not raised earlier in the trial. The Court held that no such error existed in this case.</p>\n"
+}

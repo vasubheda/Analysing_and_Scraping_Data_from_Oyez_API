@@ -1,0 +1,42 @@
+{
+    "ID": 55691,
+    "name": "Schwab v. Reilly",
+    "href": "https://api.oyez.org/cases/2009/08-538",
+    "view_count": 0,
+    "docket_number": "08-538",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1240808400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40508"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1257228000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40509"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1276750800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40510"
+        }
+    ],
+    "question": "<p>1) When a debtor claims an item \"exempt\" from bankruptcy proceedings, must an interested party object to the claimed exemption in order to preserve their right to claim any value in the item exceeding the value listed as exempt?</p>\n<p>2) Does a creditor who wishes to sell a debtor's \"exempted\" item need to timely object to its exempt status in order to move for its sale, even if its real value exceeds the value claimed by the debtor?</p>\n",
+    "citation": {
+        "volume": "560",
+        "page": "770",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19613"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that someone who files for bankruptcy is allowed to retain the value of certain property that would otherwise be sold to pay off debts, up to a certain dollar limit; if the value of the property is more than the individual in bankruptcy estimated, the value above the pre-determined limit may be used to pay creditors.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/560/770/",
+    "facts_of_the_case": "<p>In April 2005, Nadejda Reilly filed Chapter 7 bankruptcy. Pursuant to standard practice, she listed equipment related to her catering business as \"exempt\" from the bankruptcy proceedings and valued the equipment at over $10,000. Trustee William Schwab independently had Ms. Reilly's business equipment appraised at over $17,000. He then sought a motion for the Bankruptcy Court to sell Ms. Reilly's equipment and turn over the proceeds, less the value of her exemption. Ms. Reilly countered that the business equipment had become fully exempt when Mr. Schwab failed to timely object when she listed the equipment as exempt. The Bankruptcy Court agreed and denied Mr. Schwab's motion to sell off Ms. Reilly's equipment. A federal district court in Pennsylvania affirmed the Bankruptcy Court. On appeal to the U.S. Court of Appeals for the Third Circuit, the court affirmed, holding that Mr. Schwab's failure to file a timely objection to Ms. Reilly's exemption barred him from moving to sell the property.</p>\n",
+    "conclusion": "<p>No. No. The Supreme Court held that a creditor is not required to object to a debtor's exemptions in order to preserve his right to claim any value in the item exceeding the value listed as exempt. With Justice Clarence Thomas writing for the majority, the Court reasoned that the bankruptcy code only requires a timely objection to an asset's categorization as exempt and does not apply to objections about the asset's value.</p>\n<p>Justice Ruth Bader Ginsburg, joined by Chief Justice John G. Roberts and Justice Stephen G. Breyer, dissented. She argued that the failure to object to the debtor's valuation of an exempt asset should prevent the creditor's later challenge to the valuation because the asset's valuation is critical in determining whether the debtor will be allowed to keep the property.</p>\n"
+}

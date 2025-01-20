@@ -1,0 +1,35 @@
+{
+    "ID": 55849,
+    "name": "Hardy v. Cross",
+    "href": "https://api.oyez.org/cases/2011/11-74",
+    "view_count": 0,
+    "docket_number": "11-74",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1323669600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40922"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1323669600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40923"
+        }
+    ],
+    "question": "<p>Did the steps taken to attempt to locate A.S. satisfy the Confrontation Clause's good faith effort requirement?</p>\n",
+    "citation": {
+        "volume": "565",
+        "page": null,
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19771"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that the Confrontation Clause does not require the State to exhaust every possible avenue, even highly unlikely ones, in attempts to obtain witnesses to testify for trial.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/565/65/",
+    "facts_of_the_case": "<p>At a trial for kidnapping and sexual assault, Irving Cross' victim, known as A.S., was terrified to testify against him, but did so anyway. The jury found Cross not guilty of kidnapping, but was unable to reach a decision on the sexual assault charges. The judge declared a mistrial and the State opted to retry Cross on the sexual assault charges.</p>\n<p>A.S. said she would testify at the second trial, but about a month beforehand, the State discovered that A.S. was missing. After an exhaustive search, which included visits to her parent's and old boyfriend's homes on multiple occasions, the State moved to declare A.S. unavailable and enter her prior testimony into evidence in the new trial. The trial court granted the motion and a clerk read the testimony at trial. The jury acquitted Cross of aggravated sexual assault, but found him guilty of criminal sexual assault. The Illinois Court of Appeals affirmed. The Supreme Court of Illinois denied Cross' petition for leave to appeal and the U.S. Supreme Court denied his writ of certiorari.</p>\n<p>Cross then filed for a writ of habeas corpus in the U.S. District Court for the Northern District of Illinois, arguing that the testimony in the second case violated the Confrontation Clause of the 6th Amendment. According to Cross, the State had not made good faith efforts to locate A.S.. The district court denied the writ, but the U.S. Court of Appeals for the Seventh Circuit reversed. The court of appeals stressed the importance of the testimony, and several avenues of inquiry the State did not exhaust in its search.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion the Supreme Court reversed the lower court. The Court held that the Confrontation Clause does not require the prosecution to exhaust every possibly avenue of inquiry, no matter how unlikely. Also under the Antiterrorism and Anti Death Penalty Act, a federal court cannot reverse a state court decision unless the state court acted unreasonably. In this case the state court was reasonable in deciding to declare A.S. unavailable and to admit her prior testimony.</p>\n"
+}

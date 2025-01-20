@@ -1,0 +1,42 @@
+{
+    "ID": 55433,
+    "name": "Hinck v. United States",
+    "href": "https://api.oyez.org/cases/2006/06-376",
+    "view_count": 0,
+    "docket_number": "06-376",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1168581600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39807"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1177304400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39808"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1179723600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39809"
+        }
+    ],
+    "question": "<p>Does Section 6404(h) of the Internal Revenue Code grant the United States Tax Court exclusive jurisdiction to review interest abatement claims made against the Internal Revenue Service?</p>\n",
+    "citation": {
+        "volume": "550",
+        "page": "501",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20699"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/550/501/",
+    "facts_of_the_case": "<p>The Internal Revenue Service (IRS) assessed over $20,000 in interest fees for outstanding taxes against John and Pamela Hinck. The Hincks claimed that the interest accrued because of IRS delays and errors. Section 6404(e)(1) of the Internal Revenue Code authorizes the abatement of interest fees that are caused by IRS delays. The IRS rejected the Hincks' interest abatement claim in 2000. In 2003, the United States Court of Federal Claims determined that it had no jurisdiction to hear the case because Section 6404(h) of the Internal Revenue Code granted the United States Tax Court jurisdiction over interest abatement disputes.</p>\n<p>The Hincks appealed to the United States Court of Appeals for the Federal Circuit, arguing that the Tucker Act granted subject matter jurisdiction to the Federal Claims Court. The Federal Circuit held that Section 6404(h) grants the Tax Court exclusive jurisdiction over interest abatement disputes. The U.S. Court of Appeals for the Fifth Circuit had previously ruled to the contrary.</p>\n",
+    "conclusion": "<p>Yes. Chief Justice John G. Roberts Jr. wrote for a unanimous court that Section 6404(e)(1) requires that claims challenging a refusal to abate (i.e. forgive) interest be brought exclusively in Tax Court. The Court reasoned that its ruling was consistent with the principle that when Congress enacts a detailed, specific judicial remedy (such as 6404(e)(1)) where there was no remedy before, the new remedy will be regarded as exclusive. The Court insisted on reading the statute as a unified whole, so that all of the procedures outlined by Congress for interest abatement claims applied exclusively to the forum (U.S. Tax Court) that Congress mentioned in the same statute. To do otherwise would be to \"disaggregat[e] a statute Congress plainly envisioned as a package deal.\"</p>\n"
+}

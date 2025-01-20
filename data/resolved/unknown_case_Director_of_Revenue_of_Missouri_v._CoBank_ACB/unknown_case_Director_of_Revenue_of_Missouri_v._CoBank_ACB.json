@@ -1,0 +1,35 @@
+{
+    "ID": 54912,
+    "name": "Director of Revenue of Missouri v. CoBank ACB",
+    "href": "https://api.oyez.org/cases/2000/99-1792",
+    "view_count": 0,
+    "docket_number": "99-1792",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                975391200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38564"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                982648800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38565"
+        }
+    ],
+    "question": "<p>Is the National Bank for Cooperatives, which Congress has designated as a federally chartered instrumentality of the United States, exempt from state income taxation?</p>\n",
+    "citation": {
+        "volume": "531",
+        "page": "316",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18841"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/531/316/",
+    "facts_of_the_case": "<p>The Farm Credit Act of 1933 created various lending institutions, including banks for cooperatives, which are designated as federally chartered instrumentalities of the United States. CoBank ACB is the successor to all rights and obligations of the National Bank for Cooperatives. In 1996, CoBank filed amended returns on behalf of that bank, requesting an exemption from all Missouri corporate income taxes and refunds on the taxes it paid for 1991 through 1994. CoBank asserted that the Supremacy Clause accords federal instrumentalities immunity from state taxation unless Congress has expressly waived this immunity, which the Act did not expressly do. The state of Missouri denied the request, but the State Supreme Court reversed, stating that because the Act's current version is silent as to the banks' tax immunity, Congress cannot be said to have expressly consented to state income taxation and, thus, the banks are exempt.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Clarence Thomas, the Court held that banks for cooperatives are subject to taxation. Justice Thomas wrote for the Court that nothing in the 1985 amendments to the Farm Credit Act indicated a repeal of the previous express approval of state taxation and that the structure of the Act indicated by negative implication that banks for cooperatives were not entitled to immunity.</p>\n"
+}

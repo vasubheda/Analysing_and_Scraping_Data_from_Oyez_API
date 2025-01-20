@@ -1,0 +1,35 @@
+{
+    "ID": 56165,
+    "name": "Woods v. Donald",
+    "href": "https://api.oyez.org/cases/2014/14-618",
+    "view_count": 0,
+    "docket_number": "14-618",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1427691600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41774"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1427691600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41775"
+        }
+    ],
+    "question": "<p>Did the U.S. Court of Appeals for the Sixth Circuit properly affirm the granting of federal habeas relief by holding that the Michigan Court of Appeals improperly applied Supreme Court precedent?</p>\n",
+    "citation": {
+        "volume": "575",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20947"
+    },
+    "term": "2014",
+    "description": "A case in which the Court held that  federal habeas relief may only be granted when a state court\u2019s decision runs counter to clearly established federal law, and there is no precedent clearly establishing that the absence of counsel during testimony about codefendants violates a defendant\u2019s Sixth Amendment right to effective assistance of counsel.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/575/312/",
+    "facts_of_the_case": "<p>Cory Donald, Seante Liggins, Rashad Moore, Dewayne Saine, and Fawzi Zaya decided to rob Mohammed Makki, a local drug dealer. During the course of the robbery, several shots were fired and Makki was later discovered dead. Liggins and Zaya pled guilty, and Donald was tried with Moore and Saine for one count of first-degree felony murder and two counts of armed robbery. When the government sought to admit evidence of phone communication among the defendants on the day in question, Donald\u2019s lawyer indicated that evidence did not affect his client, so the judge allowed testimony to proceed when Donald\u2019s lawyer was not in the courtroom. The jury convicted Donald on all three counts. He appealed and argued that his lawyer\u2019s absence from the courtroom during the phone call testimony denied him his Sixth Amendment right to effective assistance of counsel. The Michigan Court of Appeals rejected the claim and the Michigan Supreme Court denied review.</p>\n<p>Donald moved for federal habeas relief, which the district court granted, and the U.S. Court of Appeals for the Sixth Circuit affirmed by holding that the Michigan Court of Appeals did not properly apply the precedent established by the Supreme Court\u2019s decision in <em>United States v. Cronic</em>. In that case, the Court held that courts may presume a defendant\u2019s Sixth Amendment rights have been violated when he is denied the assistance of counsel at a critical stage in his trial, which the appellate court found happened in this case.</p>\n",
+    "conclusion": "<p>No. In a per curiam opinion, the Court held that a federal court may only grant habeas relief when the state court\u2019s decision is contrary to clearly established federal law as interpreted by the Supreme Court. In this case, the Michigan Court of Appeals\u2019 decision was not contrary to clearly established law because the Supreme Court\u2019s decision in <em>United States v. Cronic</em> did not definitively determine whether absence of counsel during testimony dealing with codefendants\u2019 actions violates the Sixth Amendment. Because the Supreme Court had never confronted the question presented in this case, the state court\u2019s decision could not have been contrary to Supreme Court precedent and therefore did not require federal habeas relief.</p>\n"
+}

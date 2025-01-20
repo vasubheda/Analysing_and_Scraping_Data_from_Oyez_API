@@ -1,0 +1,42 @@
+{
+    "ID": 55636,
+    "name": "Graham v. Florida",
+    "href": "https://api.oyez.org/cases/2009/08-7412",
+    "view_count": 0,
+    "docket_number": "08-7412",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1241413200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40376"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1257746400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40377"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1274072400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40378"
+        }
+    ],
+    "question": "<p>Does the imposition of a life sentence without parole on a juvenile convicted of a non-homicidal offense violate the Eighth Amendment's prohibition of \"cruel and unusual punishment?\"</p>\n",
+    "citation": {
+        "volume": "560",
+        "page": "48",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19559"
+    },
+    "term": "2009",
+    "description": "A case in which the Court found that a non-homicidal conviction leading to a life sentence without parole for a juvenile violates the Eighth Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/560/48/",
+    "facts_of_the_case": "<p>When Terrence Graham was 16 years old he was convicted of armed burglary and attempted armed robbery. He served a 12 month sentence and was released. Six months later Mr. Graham was tried and convicted by a Florida state court of armed home robbery and sentenced to life in prison without parole. On appeal, he argued that the imposition of a life sentence without parole on a juvenile, on its face, violated the Eighth Amendment and moreover constituted cruel and unusual punishment, and thus violated the Eighth Amendment. The District Court of Appeal of Florida disagreed. It held that Mr. Graham's sentence neither was a facial violation of the Eighth Amendment nor constituted cruel and unusual punishment.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court held that the Eight Amendment's Cruel and Unusual Punishments Clause does not permit a juvenile offender to be sentenced to life in prison without parole for a non-homicidal crime. Justice Anthony M. Kennedy, writing for the majority, reasoned that because this case implicates a particular type of sentence as it applies to an entire class of offenders (juveniles), the categorical analysis under <em>Atkins</em>, <em>Roper</em>, and <em>Kennedy</em> governs. Under this approach, the Court must: (1) consider objective indicia of society's standards and (2) determine whether the punishment in question violates the Constitution guided by the standards elaborated by controlling precedents. Here, the Court concluded that both (1) and (2) indicated that the punishment in question for the class in question was unconstitutional. The Court made a point to note that life sentences for juveniles for non-homicidal crimes has been \"rejected the world over.\"</p>\n<p>Chief Justice John G. Roberts wrote separately, concurring in the judgment. He disagreed with the manner in which the majority reached its conclusion. Instead, he made his conclusion based on: (1) Supreme Court cases requiring \"narrow proportionality\" review of noncapital sentences and (2) the Supreme Court's conclusion in <em>Roper</em> that juvenile offenders are generally less culpable than adults who commit the same crimes. Justice Clarence Thomas, joined by Justice Antonin G. Scalia, and in part by Justice Samuel A. Alito, dissented. Justice Thomas reprimanded the majority for replacing its own moral judgment for that of American citizens who up to this point had been charged with making the moral distinction as to whether this sentence could ever be imposed. Justice Alito also wrote a separate dissenting opinion. He departed from Justice Thomas's dissent to note that \"[n]othing in the Court's opinion affects the imposition of a sentence to a term of years without the possibility of parole.\" He also would not have reached the issue as to whether Mr. Graham's sentence as-applied violated the Eighth Amendment. He would only have reached the question of whether such sentences categorically violate the Eighth Amendment.</p>\n"
+}

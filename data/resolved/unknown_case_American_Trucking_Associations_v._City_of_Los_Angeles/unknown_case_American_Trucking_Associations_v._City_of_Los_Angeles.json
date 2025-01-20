@@ -1,0 +1,42 @@
+{
+    "ID": 55919,
+    "name": "American Trucking Associations v. City of Los Angeles",
+    "href": "https://api.oyez.org/cases/2012/11-798",
+    "view_count": 0,
+    "docket_number": "11-798",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1357884000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41120"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1366088400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41121"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1371099600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41122"
+        }
+    ],
+    "question": "<p>Can a municipal government limit the activities of motor carriers when it acts as a market participant, as opposed to a market regulator?</p>\n<p>Can a municipal government bar federally licensed motor carriers from access to a port?</p>\n",
+    "citation": {
+        "volume": "569",
+        "page": "641",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19841"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that when a municipal government is acting as a contract-based participant in the market, as opposed to a market regulator, it could not regulate motor carrier activities.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/569/641/",
+    "facts_of_the_case": "<p>In 1997, the Port of Los Angeles (\"the Port\") introduced a plan to expand its cargo terminals to better accommodate its high shipping volume. Following public concern that the plan could significantly increase air pollution, the Board of Harbor Commissioners adopted a Clean Air Action Plan (\"CAAP\"). The CAAP aimed to reduce emissions and specifically targeted the Port's drayage truck business. Roughly 16,000 drayage trucks regularly serve the Port, transporting goods between customers and the cargo terminals. Beginning in 2008, the CAAP banned drayage trucks from the Port, unless the carriers entered into a series of concession agreements. These agreements imposed a progressive ban on older trucks and provided incentives for drayage truck operators to convert their aging fleets to cleaner trucks.</p>\n<p>American Trucking Associations (\"ATA\"), a national association of motor carriers, challenged several provisions within the concession agreements and brought suit against the City of Los Angeles and its Harbor Department. ATA argued that the Federal Aviation Administration Authorization Act (\"FAAA\") preempted the agreements. The FAAA Act prohibits a state from enacting any regulation related to the \"price, route, or service of any motor carrier.\" ATA claimed that the concession agreements amounted to such a regulation. ATA further argued that the State could not limit a federally licensed motor carrier's access to a port.</p>\n<p>The district court disagreed with ATA and held that none of the provisions were preempted; ATA appealed. The United States Court of Appeals for the Ninth Circuit affirmed in part and reversed in part. The appellate court determined that when the Port was acting as a market participant, rather than a market regulator, the FAAA Act did not apply. ATA appealed to the Supreme Court of the United States, which granted certiorari limited to the two questions below.</p>\n",
+    "conclusion": "<p>No, and the Court declined to address the issue of whether a municipal government can ban federally licensed motor carriers' access to the ports. Justice Elena Kegan delivered the opinion for a unanimous Court. The Court held that the FAAA Act draws a rough line between a government's exercise of regulatory power and its own contract-based participation in a market. In this case, the government was not acting as a private participant in a contract but was wielding coercive power over private companies by threatening criminal punishment. The Court held that these actions clearly fit within the FAAA Act's prohibition on government regulating the \"price, route, or service of any motor carrier.\" Contractual commitments resulting from the threat of criminal sanctions rather than ordinary bargaining clearly represent the government taking on a regulatory role.</p>\n<p>Justice Clarence Thomas wrote a concurring opinion in which he noted that the FAAA Act's provision giving the federal government authority over <em>intrastate</em> commerce raises serious Constitutional concerns because the Constitution explicitly limits Congress' regulatory power to <em>interstate</em> commerce. However, because neither party raised a constitutional challenge to the FAAA Act, Justice Thomas joined with the majority.</p>\n"
+}

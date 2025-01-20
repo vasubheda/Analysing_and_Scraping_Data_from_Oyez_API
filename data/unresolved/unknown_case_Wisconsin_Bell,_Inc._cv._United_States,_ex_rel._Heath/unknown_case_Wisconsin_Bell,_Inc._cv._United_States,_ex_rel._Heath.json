@@ -1,0 +1,33 @@
+{
+    "ID": 63688,
+    "name": "Wisconsin Bell, Inc. cv. United States, ex rel. Heath",
+    "href": "https://api.oyez.org/cases/2024/23-1127",
+    "view_count": 0,
+    "docket_number": "23-1127",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1718600400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55476"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1730700000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55508"
+        }
+    ],
+    "question": "<p>Do reimbursement requests submitted to the Federal Communications Commission's E-rate program qualify as \u201cclaims\u201d under the False Claims Act?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28022"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether reimbursement requests submitted to the Federal Communications Commission's E-rate program are \u201cclaims\u201d under the False Claims Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-1127/"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 63473,
+    "name": "National Pork Producers Council v. Ross",
+    "href": "https://api.oyez.org/cases/2022/21-468",
+    "view_count": 0,
+    "docket_number": "21-468",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1648443600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55067"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1665464400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55161"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1683781200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55273"
+        }
+    ],
+    "question": "<p>Does a California law that prohibits the in-state sale of pork from animals confined in a manner inconsistent with California standards violate the \u201cdormant\u201d component of the Constitution\u2019s Commerce Clause?</p>\n",
+    "citation": {
+        "volume": "598",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27885"
+    },
+    "term": "2022",
+    "description": "A case in which the Court affirmed the lower court's dismissal of a challenge to a California law restricting the sale of pork within the state in a way that affects most or all commercial out-of-state farms.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/598/21-468/",
+    "facts_of_the_case": "<p>In 2018, California voters passed Proposition 12, which amends the California Health and Safety Code to prohibit the sale of pork from animals confined in a manner inconsistent with California standards. Trade associations representing the pork industry and farmers challenged the law as violating the dormant Commerce Clause, which prohibits states from discriminating against interstate commerce or imposing undue burdens on interstate commerce.</p>\n<p>According to the challengers, Proposition 12 places an undue burden on interstate commerce and that it causes an impermissible \u201cextraterritorial effect\u201d because it effectively forces all or most hog farmers, regardless of their location, to comply with the California requirements yet mostly affects non-California transactions (because 87% of the pork produced in the country is consumed outside of California).</p>\n<p>The district court dismissed the complaint for failure to state a claim, and the U.S. Court of Appeals for the Ninth Circuit affirmed, finding the complaint did not plausibly plead that Proposition 12 violates the dormant Commerce Clause under either theory.</p>\n",
+    "conclusion": "<p>California\u2019s Proposition 12 does not violate the dormant Commerce Clause. Justice Neil Gorsuch authored an opinion in which a majority of the Court voted to affirm the judgment of the U.S. Court of Appeals for the Ninth Circuit.</p>\n<p>State laws violate the dormant aspect of the Commerce Clause when they seek to \u201cbuild up\u2026domestic commerce\u201d through \u201cburdens upon the industry and business of other States.\u201d An antidiscrimination principle is at the core of the dormant Commerce Clause; an \u201calmost per se\u201d rule against state laws that have extraterritorial effects is unsupported. A state law that does have extraterritorial effects but does not purposefully discriminate does not necessarily violate the dormant Commerce Clause. Under the balancing test established in Pike v. Bruce Church, Inc., 397 U.S. 137 (1970), a court must assess \u201cthe burden imposed on interstate commerce\u201d by the state law and prevent its enforcement if the law\u2019s burdens are \u201cclearly excessive in relation to the putative local benefits.\u201d A majority of the Court concluded that under this test, Proposition 12 does not violate the dormant Commerce Clause.</p>\n<p>Justice Sonia Sotomayor, joined by Justice Elena Kagan, concluded that the petitioners failed to plausibly allege a substantial burden on interstate commerce and thus voted with the majority. Justices Clarence Thomas and Amy Coney Barrett, concluded that the petitioners did allege a substantial burden on interstate commerce, but the benefits and burdens of Proposition 12 are incommensurable.</p>\n<p>Chief Justice John Roberts filed an opinion, joined by Justices Samuel Alito, Brett Kavanaugh, and Ketanji Brown Jackson, concurring in part and dissenting in part. Chief Justice Roberts argued that the petitioners did allege a substantial burden on interstate commerce and that the judgment should be vacated and the case remanded to the court below to decide whether the petitioners had stated a claim under <em>Pike</em>.</p>\n<p>Justice Kavanaugh authored an opinion concurring in part and dissenting in part, largely agreeing with the Chief Justice but pointing out also that state economic regulations like California\u2019s Proposition 12 may raise questions not only under the Commerce Clause, but also under the Import-Export Clause, the Privileges and Immunities Clause, and the Full Faith and Credit Clause.</p>\n"
+}

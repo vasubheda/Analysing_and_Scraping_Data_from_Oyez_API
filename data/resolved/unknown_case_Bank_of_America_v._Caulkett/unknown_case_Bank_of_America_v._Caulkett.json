@@ -1,0 +1,42 @@
+{
+    "ID": 56142,
+    "name": "Bank of America v. Caulkett",
+    "href": "https://api.oyez.org/cases/2014/13-1421",
+    "view_count": 0,
+    "docket_number": "13-1421",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1416204000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41743"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1427173200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41744"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1433134800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51712"
+        }
+    ],
+    "question": "<p>Does Section 506(d) of the Bankruptcy Code allow a debtor filing for bankruptcy to void a second mortgage when the debt owed on the first one exceeds the value of the collateral property?</p>\n",
+    "citation": {
+        "volume": "575",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20937"
+    },
+    "term": "2014",
+    "description": "A case in which the court ruled that Section 506 (d) of the Bankruptcy Code does not allow a debtor filing for bankruptcy to void a second mortgage when the debt owed on the first one exceeds the value of the collateral property. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/575/790/",
+    "facts_of_the_case": "<p>David Caulkett\u2019s property was subject to two mortgage liens when he filed for bankruptcy. Because the debt owed on the first mortgage exceeded the value of the property, the second mortgage, which Bank of America held, was considered \u201cunderwater.\u201d When Caulkett filed for bankruptcy, he moved the bankruptcy court to void Bank of America\u2019s lien on the second mortgage and argued that Section 506(d) of the Bankruptcy Code allowed a debtor filing for bankruptcy to void a second mortgage when the debt owed on the first mortgage exceeded the value of the collateral property. The bankruptcy court granted the motion, and both the district court and the U.S. Court of Appeals for the Eleventh Circuit affirmed.</p>\n<p>This case was consolidated with a similar case, <em>Bank of America v. Toledo-Cardona</em>, which had substantially the same facts and an identical procedural history.</p>\n",
+    "conclusion": "<p>No. Justice Clarence Thomas delivered the opinion of a unanimous Court, which held that Section 506(d) of the Bankruptcy Code allows a debtor to void a mortgage \u201c[t]o the extent that [the] lien secures a claim against the debtor that is not an allowed secured claim.\u201d Although a straightforward reading of this provision appears to favor the debtors, in <em>Dewsnup v. Timm</em>, the Court held that a \u201csecured claim\u201d is one supported by a security interest in property, regardless of whether the value of that property would be sufficient to cover the claim. Thus, even if the second mortgage is underwater, the debtor cannot void that mortgage in bankruptcy proceedings.</p>\n"
+}

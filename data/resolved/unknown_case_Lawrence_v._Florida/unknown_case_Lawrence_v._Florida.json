@@ -1,0 +1,42 @@
+{
+    "ID": 55388,
+    "name": "Lawrence v. Florida",
+    "href": "https://api.oyez.org/cases/2006/05-8820",
+    "view_count": 0,
+    "docket_number": "05-8820",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1143439200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39680"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1162274400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39681"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1171951200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39682"
+        }
+    ],
+    "question": "<p>1) When a defendant facing death has a certiorari petition pending before the United States Supreme Court, does the time the petition is pending count toward the one-year statute of limitations in the Antiterrorism and Effective Death Penalty Act?</p>\n<p>2) Does the division in the Circuit Courts over the statute of limitations constitute an extraordinary circumstance that would allow the Court to set aside the time limit?</p>\n<p>3) Does the ineffectiveness of a defendant's counsel constitute an extraordinary circumstance that would allow the Court to set aside the time limit?</p>\n",
+    "citation": {
+        "volume": "549",
+        "page": "327",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20684"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/549/327/",
+    "facts_of_the_case": "<p>Gary Lawrence was convicted of first-degree murder and sentenced to death. Lawrence appealed his conviction, arguing that his counsel had been ineffective. After exhausting his state-court appeals, Lawrence filed a petition for certiorari, asking the Supreme Court to review the decisions of the Florida courts. Later, Lawrence petitioned for a writ of habeas corpus, which would allow his appeal to be heard in federal court.</p>\n<p>The federal District Court rejected Lawrence's habeas petition, because he had exceeded the one-year statute of limitations in the Antiterrorism and Effective Death Penalty Act (AEDPA). The AEDPA gives defendants one year to submit habeas petitions, but that does not include any time that the petitioner has a \"properly filed application\" pending for \"State post-conviction or other collateral review.\" In Lawrence's case, whether or not he had exceeded the one-year time limit depended on whether or not the time spent waiting for the Supreme Court to process his pending certiorari petition counted toward the time limit. Federal Circuit Courts have disagreed on this question.</p>\n<p>In his appeal, Lawrence argued that time spent on Supreme Court certiorari petitions, like time spent on state-court appeals, was not countable toward the one-year statute of limitations. Lawrence also made an alternative argument that the incompetence of his state-appointed counsel, as well as the disagreement among federal courts on the statute of limitations question, constituted \"extraordinary circumstances.\" If the Court were to find that the delay was due to extraordinary circumstances beyond the defendant's control, it could set aside the time limit under the doctrine of \"equitable tolling.\"</p>\n<p>The U.S. Court of Appeals for the Eleventh Circuit upheld the District Court and rejected Lawrence's petition. The Circuit Court ruled that Lawrence had failed to demonstrate how his lawyer's actions or the confusion over the statute of limitations caused him to miss the deadline. The Circuit Court acknowledged that the statute of limitations had been in dispute, but it followed Circuit precedent that said time spent waiting for a pending Supreme Court certiorari petition did count toward the AEDPA's one-year time limit.</p>\n",
+    "conclusion": "<p>Yes, no, and no. The Court ruled 5-4 that the time a habeas petition is pending before the Supreme Court counts toward the one-year statute of limitations in the Antiterrorism and Effective Death Penalty Act. Section 2244(d)(2) of the Act stops the clock on the time limit while the prisoner appeals in state courts, but the Court ruled that appeals to the Supreme Court are not part of the process referred to in the Act. Justice Clarence Thomas's opinion held that \"Read naturally, the text of the statute must mean that the statute of limitations is tolled only while state courts review the application.\" The Court noted that suspending the statute of limitations for certiorari petitions might cause prisoners to file petitions \"as a delay tactic.\" Finally, the Court rejected Lawrence's equitable tolling claims, holding that attorney miscalculation is not a credible reason for the Court to set aside a deadline.</p>\n"
+}

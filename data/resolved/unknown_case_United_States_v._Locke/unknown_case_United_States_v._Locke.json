@@ -1,0 +1,35 @@
+{
+    "ID": 54833,
+    "name": "United States v. Locke",
+    "href": "https://api.oyez.org/cases/1999/98-1701",
+    "view_count": 0,
+    "docket_number": "98-1701",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                944546400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38411"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                952322400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38412"
+        }
+    ],
+    "question": "<p>Are the State of Washington's maritime regulations on tanker design, equipment, reporting, and operating requirements pre-empted by federal law?</p>\n",
+    "citation": {
+        "volume": "529",
+        "page": "89",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18762"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/529/89/",
+    "facts_of_the_case": "<p>In the aftermath of the Exxon Valdez oil spill, the State of Washington created the Office of Marine Safety, which was directed to establish standards to provide the \"best achievable protection\" (BAP) from oil spill damage. The agency promulgated tanker design, equipment, reporting, and operating requirements. The International Association of Independent Tanker Owners (Intertanko), a trade association of tanker operators, filed suit against the state and local officials responsible for enforcing the BAP regulations. Intertanko argued that Washington's BAP standards had entered an area occupied by the federal government and imposed unique requirements in an area where national uniformity was mandated. Further, Intertanko argued that if every political subdivision were to promulgate such maritime regulations, the goal of national governments to develop effective international environmental and safety would be undermined. The District Court upheld Washington's regulations. Thereafter, the Federal Government intervened on Intertanko's behalf, contending that the District Court's ruling failed to give sufficient weight to the substantial foreign affairs interests of the Federal Government. The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion delivered by Justice Anthony Kennedy, the Court held that Washington's regulations regarding general navigation watch procedures, crew English-language skills and training, and maritime casualty reporting are pre-empted by the comprehensive federal regulatory scheme governing oil tankers. \"The State of Washington has enacted legislation in an area where the federal interest has been manifest since the beginning of our Republic and is now well established,\" wrote Justice Kennedy for the Court. Justice Kennedy also noted that States may regulate their own ports and waterways so long as the rules are based on \"the peculiarities of local waters\" and do not conflict with federal regulation.</p>\n"
+}

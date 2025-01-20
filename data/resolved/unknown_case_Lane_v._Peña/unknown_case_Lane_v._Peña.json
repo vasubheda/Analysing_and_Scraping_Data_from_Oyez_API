@@ -1,0 +1,35 @@
+{
+    "ID": 54396,
+    "name": "Lane v. Pe\u00f1a",
+    "href": "https://api.oyez.org/cases/1995/95-365",
+    "view_count": 0,
+    "docket_number": "95-365",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                829544400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37608"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                835246800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37609"
+        }
+    ],
+    "question": "<p>Did Congress waive the federal government's sovereign immunity against monetary damages with respect to section 504(a) of the 1973 Rehabilitation Act?</p>\n",
+    "citation": {
+        "volume": "518",
+        "page": "187",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18325"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/518/187/",
+    "facts_of_the_case": "<p>The Department of Transportation expelled Lane, a student, from the U.S. Merchant Marine Academy because he was diagnosed with diabetes. Lane sued the Department of Transportation alleging that his termination violated section 504 of the 1973 Rehabilitation Act, which barred \"any program or activity under any executive agency\" from discriminating on the basis of disability. The district court reinstated Lane, but refused to award damages because the federal government's sovereign immunity had not been waived by Congress. The appeals court affirmed the district court decision.</p>\n",
+    "conclusion": "<p>No. Although the related provisions of the 1973 Rehabilitation Act and the 1991 Civil Rights Act might in combination be read as waiving the federal government's sovereign immunity, absent an unambiguous waiver of sovereign immunity, the court cannot permit damages to be awarded.</p>\n"
+}

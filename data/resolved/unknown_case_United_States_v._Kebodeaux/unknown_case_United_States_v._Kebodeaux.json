@@ -1,0 +1,42 @@
+{
+    "ID": 55898,
+    "name": "United States v. Kebodeaux",
+    "href": "https://api.oyez.org/cases/2012/12-418",
+    "view_count": 0,
+    "docket_number": "12-418",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1357884000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41057"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1366174800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41058"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1372050000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41059"
+        }
+    ],
+    "question": "<p>Did the court of appeals err in conducting its constitutional analysis on the premise that Kebodeaux was not under a federal registration obligation until SORNA was enacted, when pre SORNA federal law also obligated him to register as a sex offender?</p>\n<p>Did the court of appeals erred in holding that Congress lacks the Article I authority to provide for criminal penalties as applied to a person who was convicted of a sex offense under federal law and completed his criminal sentence before SORNA was enacted?</p>\n",
+    "citation": {
+        "volume": "570",
+        "page": "387",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19820"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that the Necessary and Proper Clause gave Congress the power to create federal crimes and regulate their punishment, as well as apply the Sex Offender Registration and Notification Act (SORNA) on a defendant.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/570/387/",
+    "facts_of_the_case": "<p>Anthony Kebodeaux was a registered sex offender. He served three years in prison in for his offense. After his release Congress enacted the Sex Offender Registration and Notification Act (SORNA). When Kebodeaux moved from San Antonio, Texas to El Paso, Texas, he failed to update his residence in the registry within three days, as required, and was charged and convicted under SORNA. He appealed, arguing that the law was unconstitutional as it applied to him because regulating a sex offender's intrastate travel after being released from custody exceeds Congress' powers. The U.S. Court of Appeals for the Fifth Circuit reversed, holding that past commission of a federal crime is insufficient to permit the federal government to have unending criminal authority over Kebodeaux. While SORNA was unconstitutional under the circumstances of this case, the court did not question Congress' ability to place restrictions on federal prisoners after release, including requiring sex offenders convicted after SORNA to register intrastate changes of residence.</p>\n",
+    "conclusion": "<p>Yes, yes. Justice Stephen G. Breyer delivered the opinion of the 5-4 majority. The Court held that the Necessary and Proper Clause grants Congress the power to enact SORNA and apply it in this case, despite the fact that Kebodeaux was convicted and served his time prior to SORNA's enactment. Although SORNA was not in effect when Kebodeaux was sentenced, his release was not conditional. Rather, he was subject to the Wetterling Act, a federal act that entailed similar registration requirements later enacted under SORNA. Because Kebodeaux was subject to federal requirements at the time of his release, it is within Congress' power to modify those requirements through SORNA and apply them to Kebodeaux. The Court also held that the Necessary and Proper Clause granted Congress the power to create federal crimes and regulate their punishment, so SONRA did not represent Congress overstepping its bounds.</p>\n<p>Chief Justice John G. Roberts, Jr. wrote an opinion concurring in the judgment in which he argued that the Constitution grants Congress the power to regulate the conduct of members of the military and impose penalties if those regulations are disobeyed. This power, in addition to the Necessary and Proper Clause, gave Congress the authority to act in this case. However, he argued that the majority's opinions analysis of the benefits of the registration requirement are unnecessary to reach the decision in the case and stray too far into justification for a federal police power. In his separate opinion concurring in the judgment, Justice Samuel A. Alito, Jr. wrote that the Necessary and Proper Clause grants Congress the power to require the registration of members of the military who have been convicted of sex crimes as the gap between military and state laws often does not allow the state to do so.</p>\n<p>Justice Antonin Scalia wrote a dissenting opinion in which he argued that an act intended to execute a power of Congress is only necessary and proper if the power is as well. Because it is not clear that the Wetterling Act's registration requirement is a valid Congressional power, SORNA's modification and execution of that power is equally unsure. In his separate dissent, Justice Clarence Thomas argued that SORNA's registration requirements are unconstitutional because they do not execute any Congressional powers explicitly granted by the Constitution. Instead, SORNA represents an unconstitutional usurpation of state powers regarding sex offender registration. Although Congress has the power to regulate the conduct of members of the military, once Kebodeaux became a civilian, there is no justification for the involvement of the federal government. Justice Antonin Scalia partially joined in the dissent.</p>\n"
+}

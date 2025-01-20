@@ -1,0 +1,42 @@
+{
+    "ID": 56106,
+    "name": "Jesinoski v. Countrywide Home Loans, Inc.",
+    "href": "https://api.oyez.org/cases/2014/13-684",
+    "view_count": 0,
+    "docket_number": "13-684",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1398661200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41693"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1415080800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41694"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1421128800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41695"
+        }
+    ],
+    "question": "<p>Does the Truth in Lending Act allow a borrower to rescind a loan by notifying the creditor within the three-year time frame, even though a lawsuit has not yet been filed?</p>\n",
+    "citation": {
+        "volume": "574",
+        "page": "259",
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20921"
+    },
+    "term": "2014",
+    "description": "A case in which the Court ruled that the Truth in Lending Act allows a borrower to rescind a loan by notifying the creditor within the three-year time frame, even though a lawsuit has not yet been filed.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/574/259/",
+    "facts_of_the_case": "<p>On February 23, 2007, Larry and Cheryle Jesinoski refinanced their Eagan, Minnesota, home by borrowing $611,000 from Countrywide Home Loans, Inc. The Jesinoskis received a Truth in Lending Act (TILA) disclosure and a Notice of the Right to Cancel, which gave them until midnight on February 27, 2007, to rescind the loan. The Jesinoskis did not exercise their right to cancel the loan, and they used the money to pay off several consumer debts. On February 23, 2010, the Jesinoskis attempted to rescind the loan and argued that they did not receive sufficient copies of the TILA disclosure and the Notice of the Right to Cancel. After the request to rescind the loan was denied, the Jesinoskis sued Countrywide Home Loans for failure to rescind their loan on February 24, 2011.</p>\n<p>Countrywide Home Loans sought a judgment on the pleadings and argued that the Jesinoskis did not file their suit within the three-year time period allowed by TILA. The Jesinoskis argued that, because they attempted to rescind the loan within the three-year time period, their suit fulfills that requirement and should be allowed to proceed. The district court found in favor of Countrywide Home Loans; the U.S. Court of Appeals for the Eighth Circuit affirmed.</p>\n",
+    "conclusion": "<p>Yes. Justice Antonin Scalia delivered the opinion for a unanimous Court. The Court held that the three-year period required by the Truth in Lending Act (TILA) is satisfied when the borrower notifies the lender of his intent to rescind the loan within that period, even if a lawsuit has not yet been filed. The plain language of TILA specifies that a borrower need only notify the creditor of his intent to rescind the loan; it does not require the borrower to file a lawsuit. Although common law recession traditionally requires the borrower to return what was borrowed (as would result from a lawsuit), modern jurisprudence does not require that a statute be interpreted as implementing its common law analog.</p>\n"
+}

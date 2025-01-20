@@ -1,0 +1,42 @@
+{
+    "ID": 55555,
+    "name": "Horne v. Flores",
+    "href": "https://api.oyez.org/cases/2008/08-289",
+    "view_count": 0,
+    "docket_number": "08-289",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1231480800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40147"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1240203600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40148"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1245906000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40149"
+        }
+    ],
+    "question": "<p>Did the lower courts err in their analysis under Rule 60(b)(5) regarding Arizona's contention that changes in education law, including increased state funding, changes in the management of the school district involved, and passage of the No Child Left Behind Act had so altered the foundations of prior court rulings that relief from such judgments was warranted?</p>\n",
+    "citation": {
+        "volume": "557",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20836"
+    },
+    "term": "2008",
+    "description": "A case in which the Court found that the lower court incorrectly analyzed Rule 60(b)(5), which allows a party to seek relief from a judgment if a significant change in the law has occurred.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>The Arizona Superintendent of Public Instruction and members of the Arizona state legislature moved for relief from judgments of the United States District Court for the District of Arizona. In January 2000, the court had cited the state for civil contempt for failing to adequately fund English Language Learner programs, in violation of the Equal Educational Opportunities Act and subsequently rejected proposed legislation as inadequate to resolve the programs' deficiencies. The superintendent and representatives argued that increases in state funding, changes in the management of the school district involved, and passage of the No Child Left Behind Act sufficiently altered the foundations of the district court's original ruling and therefore relief was warranted. The federal district court of Arizona denied the motion.</p>\n<p>On appeal, the United States Court of Appeals for the Ninth Circuit affirmed. It reasoned that since Arizona never appealed or complied with the district court's original order that it was fair to require compliance.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court held that the lower courts erred in their analysis under Rule 60(b)(5). With Justice Samuel A. Alito writing for the majority and joined by Chief Justice John G. Roberts, and Justices Antonin G. Scalia, Anthony M. Kennedy, and Clarence Thomas, the Court criticized the lower courts for implementing a Rule 60(b)(5) standard that was too strict. It remanded the case for the federal district court to examine four factual and legal areas that may warrant relief for Arizona from its court orders: 1) the impact of a new ELL learning program, 2) the impact of No Child Left Behind, 3) the impact of structural and managerial changes in its school system, and 4) the impact of an increased state general education fund.</p>\n<p>Justice Stephen G. Breyer dissented and was joined by Justices John Paul Stevens, David H. Souter, and Ruth Bader Ginsburg. He disagreed with the Court's reasoning, arguing that the lower courts fairly considered every change in the circumstances that Arizona called to the courts' attention.</p>\n"
+}

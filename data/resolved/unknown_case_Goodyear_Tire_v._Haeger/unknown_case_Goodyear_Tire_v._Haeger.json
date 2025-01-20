@@ -1,0 +1,42 @@
+{
+    "ID": 62753,
+    "name": "Goodyear Tire v. Haeger",
+    "href": "https://api.oyez.org/cases/2016/15-1406",
+    "view_count": 0,
+    "docket_number": "15-1406",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1475125200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53889"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1484028000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53946"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1492491600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54023"
+        }
+    ],
+    "question": "<p>When a court does not afford the sanctioned party the additional procedural protections required to impose punitive sanctions, is the court required to tailor the amount of the sanction to the harm directly caused by the sanctionable conduct, as is required for the imposition of compensatory sanctions?</p>\n",
+    "citation": {
+        "volume": "581",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27458"
+    },
+    "term": "2016",
+    "description": "A case in which the court held that, when a federal court sanctions bad-faith conduct by ordering a litigant to pay the other side\u2019s legal fees, the award is limited to the fees the innocent party incurred solely due to the misconduct.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/581/15-1406/",
+    "facts_of_the_case": "<p dir=\"ltr\">In 2003, Leroy, Donna, Barry, and Suzanne Haeger were injured when one of the tires on their motorhome failed while they were driving on the highway, which caused the motorhome to swerve off the road and overturn. The tire was manufactured by The Goodyear Tire &amp; Rubber Company (Goodyear). In 2005, the Haegers sued Goodyear, which was represented by Basil J. Musnuff on all cases involving that particular model of tire and by Graeme Hancock as local counsel. The parties reached a settlement without going to trial in 2010.</p>\n<p>Over a year later, the Haegers\u2019 attorney saw an article that indicated that Goodyear had done testing on the tire in question that had not been provided to the Haegers during discovery. The attorney filed a motion for sanctions with the district court and argued that Goodyear had committed discovery fraud by knowingly concealing crucial tests. Goodyear opposed the motion and argued that it had never represented that it provided all the test records that had been conducted on the tire at issue. The district court determined that Goodyear and Musnuff had deliberately tried to frustrate attempts to resolve the case on its merits. The district court also determined that, while it could not impose sanctions because the matter was settled, it could award the plaintiffs attorney\u2019s fees for all costs incurred after Goodyear\u2019s responses to the first discovery request, which came to approximately $2.7 million. Musnuff and Goodyear were held jointly responsible for 80% of this figure, and Hancock for the other 20%. Musnuff and Goodyear appealed and argued that the district court could not impose such sanctions without the additional procedural protections required for the imposition of punitive sanctions. The U.S. Court of Appeals for the Ninth Circuit held in both appeals that the district court had not abused its discretion and affirmed the award of sanction fees.</p>\n",
+    "conclusion": "<p>Sanctions imposed by a federal court for a litigant\u2019s misconduct in civil proceedings must be compensatory, rather than punitive in nature. Justice Elena Kagan delivered the opinion for the unanimous Court, which held that, when a federal court sanctions bad-faith conduct by ordering a litigant to pay the other side\u2019s legal fees, the award is limited to the fees the innocent party incurred solely due to the misconduct. To issue sanctions that exceed compensation, a court would need to provide procedural protections applicable in criminal cases, such as the \u201cbeyond a reasonable doubt\u201d standard of proof. However, courts have considerable discretion to make findings regarding the financial impact of a litigant\u2019s misconduct. In some cases, these findings may include determining what expenses were incurred after a particular moment in time. The only constraint on a court\u2019s award is that its sum must not exceed compensation for fees attributable to the offending litigant\u2019s misconduct. </p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 56118,
+    "name": "Department of Homeland Security v. MacLean",
+    "href": "https://api.oyez.org/cases/2014/13-894",
+    "view_count": 0,
+    "docket_number": "13-894",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1400475600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41712"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1415080800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41713"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1421820000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41714"
+        }
+    ],
+    "question": "<p>Does the Whistleblower Protection Act bar an agency from taking enforcement action against an employee who intentionally discloses sensitive security information?</p>\n",
+    "citation": {
+        "volume": "574",
+        "page": "383",
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20926"
+    },
+    "term": "2014",
+    "description": "A case in which the Court ruled that the Whistleblower Protection Act bars an agency from taking enforcement action against employees who intentionally disclose sensitive security information.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/574/383/",
+    "facts_of_the_case": "<p>In July 2003, the Transportation Security Administration (TSA) learned of a potential plot to hijack US planes and briefed the Federal Air Marshals accordingly. Not long after that briefing, the TSA notified the Marshals that all missions on flights from Las Vegas would be cancelled until August. Federal Air Marshal Robert J. MacLean became concerned that the TSA was not appropriately responding to the threat and creating a danger to the flying public, so he contacted an MSNBC reporter about the situation in an attempt to create a public controversy. MSNBC published an article, and several members of Congress joined in criticizing the decision to cancel the missions. That decision was then rescinded. In 2004, MacLean appeared disguised on NBC Night News, and some TSA employees recognized his voice. During the course of the investigation that followed, MacLean revealed his role in the 2003 MSNBC article. This contact was deemed to be an unauthorized disclosure of sensitive security information, and MacLean was removed from his position.</p>\n<p>MacLean challenged the determination that he disclosed sensitive security information before the U.S. Court of Appeals for the Ninth Circuit. MacLean argued that the information about the cancellation of missions was not classified at the time he received it and could not be retroactively classified. The Court of Appeals held that the TSA had simply applied regulations already in force in 2003 to determine that information should fall under that classification. MacLean also challenged his removal before the Merit Systems Protection Board (Board) and argued that his actions were protected under the Whistleblower Protection Act (WPA). The Board determined that MacLean's actions did not fall under the WPA because they were explicitly prohibited by law. The U.S. Court of Appeals for the Federal Circuit reversed the Board's ruling and held that MacLean's actions were not explicitly prohibited by law under the WPA.</p>\n",
+    "conclusion": "<p>Yes. Chief Justice John Roberts, Jr. delivered the opinion for the 7-2 majority. The Court held that the language that Congress used in the exception within the Whistleblower Protection Act (WPA) that allows for prosecution of disclosures \"specifically prohibited by law\" is significant. Because Congress used the phrase, \"law, rule, or regulation\" in other places in the WPA, the fact that the exception only addressed disclosures \"specifically prohibited by law\" indicated that Congress did not intend for the exception to apply to disclosures prohibited by regulations such as the TSA regulation in question. The Court rejected the government's argument that it should prevail because disclosures like MacLean's were specifically prohibited and \"gravely endanger[ed] public safety.\" The Court noted that these concerns were legitimate but held that they must be addressed by Congress or the President.</p>\n<p>Justice Sonia M. Sotomayor authored a dissenting opinion in which she argued that the Homeland Security Act explicitly prohibited the type of disclosure at issue. Therefore, Congress intended to prohibit these types of disclosures because it passed the Homeland Security Act, which required the TSA to enact regulations to prevent such disclosures. Justice Anthony M. Kennedy joined in this dissent.</p>\n"
+}

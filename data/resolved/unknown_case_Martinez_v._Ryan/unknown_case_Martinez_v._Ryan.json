@@ -1,0 +1,42 @@
+{
+    "ID": 55891,
+    "name": "Martinez v. Ryan",
+    "href": "https://api.oyez.org/cases/2011/10-1001",
+    "view_count": 0,
+    "docket_number": "10-1001",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1307336400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41036"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1317704400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41037"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1332219600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41038"
+        }
+    ],
+    "question": "<p>May a defendant in a state criminal case who is prohibited by state law from raising on direct appeal any claim of ineffective assistance of trial counsel, but who has a state-law right to raise such a claim in a first post-conviction proceeding, establish cause for a procedural default of a claim of ineffective assistance at trial by showing ineffective assistance at the initial-review collateral proceeding?</p>\n",
+    "citation": {
+        "volume": "566",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19813"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that a defendant who is prohibited by state law from raising a claim of ineffective assistance of counsel may establish cause for such a claim at trial by showing evidence of ineffective assistance up to that point.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/566/1/",
+    "facts_of_the_case": "<p>Luis Mariano Martinez is serving two consecutive terms of 35 years to life, following his conviction for two counts of sexual conduct with a person under 15. On direct appeal, the Arizona Court of Appeals affirmed Martinez' conviction, and the Arizona Supreme Court denied review. Martinez then petitioned for a writ of habeas corpus, alleging that he has a right to the effective assistance of counsel in the first post-conviction relief proceeding in which he could present a claim of ineffective assistance by his trial counsel.</p>\n<p>The U.S. District Court for the District of Arizona denied the petition, and the United States Court of Appeals for the Ninth Circuit affirmed, holding that since there is no right to appointment of counsel during a defendant's post-conviction relief petition there is no right to effective assistance of counsel.</p>\n",
+    "conclusion": "<p>Yes. In a 7-2 decision written by Justice Anthony Kennedy, the Court carved out an exception to its holding in <em>Coleman v. Thompson</em>, which held that attorney errors in post-conviction hearings do not qualify as cause to excuse procedural defaults. Justice Kennedy declined to answer whether this exception was required by the Constitution. Instead, he distinguished the initial-review collateral hearing from other postconviction review hearings because in the former an attorney's error will likely preclude state courts at any level from further reviewing a prisoner's claims. Justice Kennedy argued that the Court's ruling does not upset <em>stare decisis</em> because the prisoner in <em>Coleman</em> was not claiming ineffective assistance in an initial-review collateral hearing.</p>\n<p>Justice Antonin Scalia, joined by Justice Clarence Thomas, dissented. He accused the majority of creating a constitutional right to effective counsel in all collateral hearings.</p>\n"
+}

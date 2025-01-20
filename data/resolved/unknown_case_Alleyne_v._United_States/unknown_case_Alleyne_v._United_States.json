@@ -1,0 +1,42 @@
+{
+    "ID": 55942,
+    "name": "Alleyne v. United States",
+    "href": "https://api.oyez.org/cases/2012/11-9335",
+    "view_count": 0,
+    "docket_number": "11-9335",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1349413200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41187"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1358143200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41188"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1371445200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41189"
+        }
+    ],
+    "question": "<p>1. Did the district court find enough evidence to convict Alleyne for armed robbery?</p>\n<p>2. Did convicting Alleyne of aiding and abetting the robbery change the original indictment?</p>\n<p>3. Should the court have imposed a minimum sentence for possession of a firearm in relation to a robbery?</p>\n",
+    "citation": {
+        "volume": "570",
+        "page": "99",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19864"
+    },
+    "term": "2012",
+    "description": "A case in which the Court found that a defendant cannot be found guilty of a claim not included in the indictment. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/570/99/",
+    "facts_of_the_case": "<p>On October 1, 2009, Allen Ryan Alleyne and two accomplices robbed the store manager of a Mapco/East Coast convenience store in Petersburg, Virginia as he was dropping off the nightly deposit at the bank. In April 2010, after an extensive investigation, the authorities arrested Alleyne and a grand jury indicted him for robbery and possessing a firearm. On September 7, 2010, after a week-long trial, the jury convicted Alleyne on both counts and the United States District Court for the Eastern District of Virginia sentenced him to 130 months imprisonment.</p>\n<p>Alleyne appealed to the United States Court of Appeals for the Fourth Circuit, claiming the district court made three specific errors: 1) the evidence against him wasn't strong enough to support his convictions; 2) he was convicted of aiding and abetting the robbery and not carrying it out, which changed his original indictment; and 3) he should not have received a mandatory 7 year sentence for possession of a firearm. The Fourth Circuit rejected all three of his claims. First, the appellate court refused to overrule the jury's decision on the strength of the evidence because a jury is best equipped to determine whether evidence is credible. Second, since aiding and abetting a crime is not itself a separate offense, it does not need to be included in the indictment and does not change the original charge. Finally, there was no indication that the district court should not have imposed the minimum sentence for possessing a firearm.</p>\n",
+    "conclusion": "<p>No, yes, no. Justice Clarence Thomas delivered the opinion for the 5-4 majority. The Court held that the Sixth Amendment guarantees the accused a right to a trial by a fair and impartial jury, which can only be accomplished if all of the facts that are elements of the crime are presented to the jury. If an element of the crime increases the mandatory minimum punishment, it must be submitted to the jury and found to be true beyond a reasonable doubt. The Court also held that, because an indictment must contain every allegation legally essential to punishment, a defendant cannot be found guilty of a crime not included in the indictment.</p>\n<p>In her concurring opinion, Justice Sonia Sotomayor wrote that, although the Court generally follows precedent, when the analysis supporting a previous decision has been sufficiently undermined, it is appropriate to overturn it. She argues that the majority's opinion is not the result of judicial sentiment but rather a recognition of shifting Sixth Amendment jurisprudence. Justice Ruth Bader Ginsburg and Justice Elena Kagan joined in the concurrence. Justice Stephen G. Breyer wrote an opinion concurring in part and dissenting in part in which he argued that jury factfinding would serve as a check on judicial power to impose maximum or minimum sentences.</p>\n<p>Chief Justice John G. Roberts, Jr. wrote a dissent in which he argued that the Sixth Amendment was intended to protect defendants from the government but does not limit a judge's discretion within the limits set by the jury. Once a jury finds a defendant guilty, it is the judge's duty to set a punishment within the appropriate limits, and there is no risk of judicial overreach within those limits. He also argued that the majority's decision does not have a basis in judicial history. Justice Antonin Scalia and Justice Anthony M. Kennedy joined in the dissent. In his separate dissent, Justice Samuel A. Alito, Jr. wrote that the majority's opinion alters judicial precedent simply because a majority disagrees with it, without the proper justification.</p>\n"
+}

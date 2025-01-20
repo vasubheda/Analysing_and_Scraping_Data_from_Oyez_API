@@ -1,0 +1,35 @@
+{
+    "ID": 54572,
+    "name": "Crawford-El v. Britton",
+    "href": "https://api.oyez.org/cases/1997/96-827",
+    "view_count": 0,
+    "docket_number": "96-827",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                880956000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37928"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                894258000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37929"
+        }
+    ],
+    "question": "<p>May lawsuits invoking 42 USC section 1983 to allege that a public official violated a prisoner's rights because of an unlawful motive be dismissed because the plaintiff fails to produce clear and convincing evidence of the unlawful motive?</p>\n",
+    "citation": {
+        "volume": "523",
+        "page": "574",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18501"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/523/574/",
+    "facts_of_the_case": "<p>Leonard Crawford-El, a prisoner in the District of Columbia's correctional system, was ultimately transferred to a federal prison in Florida. Crawford- El's belongings were transferred separately. A correctional officer had Crawford-El's brother-in-law pick his belongs rather than ship them. Crawford- El finally received his belongings months after reaching Florida. Crawford-El filed suit under 42 USC section 1983, which provides that \"Every person who... subjects, or causes to be subjected, any citizen of the United States or other person within the jurisdiction thereof to the deprivation of any rights, privileges, or immunities secured by the Constitution and laws, shall be liable to the party injured in an action at law, suit in equity, or other proper proceeding for redress....\" Crawford-El alleged that the diversion of his property was motivated by an intent to retaliate against him for exercising his First Amendment rights. The District Court dismissed the complaint. In remanding, the en banc Court of Appeals conclude among other things, that in an unconstitutional-motive case, a plaintiff must establish motive by clear and convincing evidence.</p>\n",
+    "conclusion": "<p>No. In a 5-4 opinion delivered by Justice John Paul Stevens, the Court held that the Court of Appeals erred in fashioning a heightened burden of proof for unconstitutional-motive cases against public officials. \"Neither the text of [section 1983] or any other federal statute, nor the Federal Rules of Civil Procedure, provides any support for imposing the clear and convincing burden of proof on plaintiffs either at the summary judgment stage or in the trial itself,\" wrote Justice Stevens. In a dissent joined by Justice Sandra Day O'Connor, Chief Justice William H. Rehnquist argued that a government official was entitled to immunity from a motive-based tort suit if the official could proffer a legitimate reason and the plaintiff could not establish that the reason given was a pretext.</p>\n"
+}

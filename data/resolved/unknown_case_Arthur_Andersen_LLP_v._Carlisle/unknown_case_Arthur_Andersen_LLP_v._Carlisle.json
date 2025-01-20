@@ -1,0 +1,42 @@
+{
+    "ID": 55591,
+    "name": "Arthur Andersen LLP v. Carlisle",
+    "href": "https://api.oyez.org/cases/2008/08-146",
+    "view_count": 0,
+    "docket_number": "08-146",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1226037600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40247"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1236060000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40248"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1241413200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40249"
+        }
+    ],
+    "question": "<p>1) Does Section 16(a)(1) of the Federal Arbitration Act confer appellate jurisdiction over an appeal from a motion to stay proceedings under Section 3 of the FAA when appellants are non-signatories to the arbitration agreement?</p>\n<p>2) Does Section 3 of the Federal Arbitration Act allow a federal district court to stay proceedings when non-signatories to an arbitration agreement can attempt to enforce the arbitration agreement under contract and agency law?</p>\n",
+    "citation": {
+        "volume": "556",
+        "page": "624",
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20831"
+    },
+    "term": "2008",
+    "description": "A case in which the Court found that regardless of whether the petitioner is eligible for a stay, a federal court of appeals has jurisdiction over a motion to stay under Section 16(a)(1) of the Federal Arbitration Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/556/624/",
+    "facts_of_the_case": "<p>After Wayne Carlisle and his partners (Carlisle) sold their construction equipment business, they hired multiple consultants in order to set up a tax shelter for the proceeds. The IRS later determined the tax shelter was illegal, but offered amnesty under certain conditions. Carlisle was never informed of these developments and was ultimately required to pay taxes and penalties that exceeded $25 million. Carlisle filed suit in a federal district court against nine parties alleging fraud, negligence, civil conspiracy and breach of fiduciary duty.</p>\n<p>Before trial, one of the defendants motioned to stay the proceedings pending arbitration with Carlisle per a written agreement with Carlisle. Stay was granted. The remaining defendants motioned seeking their own stay arguing that allowing one party to arbitrate with Carlisle and not allowing the rest would be contradictory. The district court denied the motion. On interlocutory appeal, the United States Court of Appeals for the Sixth Circuit denied it had jurisdiction to review the matter. The parties then appealed the denial of jurisdiction. They argued that Section 3 of the Federal Arbitration Act (FAA) applies and makes available a stay of proceedings in order to arbitrate when there is a written agreement that directs litigated issues into arbitration. Section 16(a)(1) of the FAA then grants appellate jurisdiction over Section 3 motions.</p>\n<p>The United States Court of Appeals for the Sixth Circuit held that Section 16(a)(1) did not confer jurisdiction in this case. The court recognized that the appellants were not signatories to the arbitration agreement with Carlisle. Thus, it reasoned there was no written agreement that could direct litigated issues into arbitration. Since the appellants' motion to stay was not rooted in Section 3, Section 16(a)(1) did not grant appellate jurisdiction.</p>\n",
+    "conclusion": "<p>Yes and Yes. The Supreme Court held that a federal court of appeals has jurisdiction over an appeal from a motion to stay proceedings under Section 16(a)(1) of the Federal Arbitration Act, regardless of whether the petitioner is in fact eligible for a stay. With Justice Antonin G. Scalia writing for the majority and joined by Justices Anthony M. Kennedy, Clarence Thomas, Ruth Bader Ginsburg, Stephen G. Breyer, and Samuel A. Alito, the Court reasoned that Section 16 clearly and unambiguously views the underlying merits of the claim irrelevant, but rather looks to the category of order appealed from. In this case, an appeal from a motion to stay proceedings automatically granted the Sixth Circuit jurisdiction. The Court also held that the Sixth Circuit erred in holding that Section 3 of the FAA categorically prevents a non-signatory to an arbitration agreement from pursuing a stay in proceedings. Rather, \"whenever the relevant state law would make a contract to arbitrate a particular dispute enforceable by a non-signatory,\" that person may pursue and obtain a stay under Section 3. Therefore, the Court remanded to the Sixth Circuit to determine whether relevant state law allows the non-signatories to enforce their agreement under state contract law and thus are allowed to pursue a stay in proceedings.</p>\n<p>Justice David H. Souter dissented and was joined by Chief Justice John G. Roberts and Justice John Paul Stevens. He argued that \"longstanding congressional policy\" limits the ability of parties to obtain interlocutory appeals. Accordingly, appeals from a denial of a motion to stay proceedings should not be available to those parties who have not even signed the relevant arbitration agreement.</p>\n"
+}

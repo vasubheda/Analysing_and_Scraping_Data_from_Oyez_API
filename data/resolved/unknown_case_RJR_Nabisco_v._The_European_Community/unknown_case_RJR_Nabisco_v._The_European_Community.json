@@ -1,0 +1,42 @@
+{
+    "ID": 62582,
+    "name": "RJR Nabisco v. The European Community",
+    "href": "https://api.oyez.org/cases/2015/15-138",
+    "view_count": 0,
+    "docket_number": "15-138",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1443675600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53275"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1458536400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53413"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1466398800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53791"
+        }
+    ],
+    "question": "<p>Can the Racketeer Influenced Corrupt Organizations (RICO) statute apply extraterritorially?</p>\n",
+    "citation": {
+        "volume": "579",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27360"
+    },
+    "term": "2015",
+    "description": "A case in which the Court held that some sections of the Racketeer Influenced Corrupt Organizations (RICO) statute can apply extraterritorially because Congress clearly based them on predicate offenses that can occur outside of the United States.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/579/15-138/",
+    "facts_of_the_case": "<p>The European Community and 26 of its member states sued RJR Nabisco (RJR) and alleged that RJR directed, managed, and controlled a global money-laundering enterprise in violation of the Racketeer Influenced and Corrupt Organizations (RICO) statute. The European Community claimed that Colombian and Russian criminal organizations imported illegal drugs into European countries, where they produced revenue in euros that was then laundered back into the currency of the criminal organizations\u2019 home countries while the euros were sold to cigarette importers at a discounted rate to purchase RJR\u2019s cigarettes. The lawsuit alleged that RJR controlled this operation and in the course of executing it committed various violations of the RICO statute as well as violations of New York state law. The defendants moved to dismiss, and the district court granted the motion based on the presumption the U.S. statutes did not apply extraterritorially absent express Congressional intent. The U.S. Court of Appeals for the Second Circuit reversed and held that claims under the RICO statute can apply extraterritorially when the RICO claim is a violation of a predicate statute that Congress clearly intended to apply extraterritorially.</p>\n",
+    "conclusion": "<p>Sections of the Racketeer Influenced Corrupt Organizations (RICO) statute can apply extraterritorially because they rebutted the presumption against extraterritoriality and expressed a clear indication that Congress intended them to apply extraterritorially. Justice Samuel A. Alito, Jr. delivered the opinion of the 7-0 majority. The Court held that some of the relevant substantive provisions of RICO applied extraterritorially because the text clearly defined certain racketeering offenses as ones that can occur outside of the United States. Therefore, the presumption against extraterritoriality was rebutted for the RICO provisions that are based on predicate offenses that are explicitly extraterritorial. However, not every foreign enterprise would qualify; the foreign enterprise must affect or directly affect commerce involving the United States for RICO to apply. The four-justice majority also held that RICO\u2019s private right of action did not rebut the presumption of extraterritorially, and therefore a plaintiff must allege that there was a domestic injury in order for the lawsuit to proceed. In this case, because the plaintiffs waived their damages claims for domestic injuries, their remaining claims were based on injuries suffered abroad and should be dismissed.</p>\n<p>In her opinion concurring in part, dissenting in part, and dissenting in the judgment, Justice Ruth Bader Ginsburg wrote that Congress\u2019 intent for RICO to apply extraterritorially was clear because the text of the statute explicitly included offenses that encompass activities that could occur abroad. However, Justice Ginsburg also argued the private right of action was not limited to domestic injuries. RICO clearly allowed the government to sue based on injuries that occurred abroad, and there was no reason to read the private right of action differently. Justice Stephen G. Breyer and Justice Elena Kagan joined in the opinion concurring in part, dissenting in part, and dissenting in the judgment. Justice Breyer wrote a separate concurring in part, dissenting in part, and dissenting in the judgment in which he argued that the U.S. government\u2019s stance that allowing for recovery in U.S. courts for injuries that occurred abroad would create international friction did not hold up against the opposite argument from the European Community and its 26 member states.</p>\n<p>Justice Sonia Sotomayor did not participate in the discussion or decision of this case.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55543,
+    "name": "Caperton v. A. T. Massey Coal Co.",
+    "href": "https://api.oyez.org/cases/2008/08-22",
+    "view_count": 0,
+    "docket_number": "08-22",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1226642400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40112"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1236060000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40113"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1244437200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40114"
+        }
+    ],
+    "question": "<p>Did Justice Brent Benjamin's failure to recuse himself from participation in a case where one of the parties donated $3 million to his election campaign violate the Due Process Clause of the 14th Amendment?</p>\n",
+    "citation": {
+        "volume": "556",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20834"
+    },
+    "term": "2008",
+    "description": "A case in which the Court held that the Due Process Clause of the 14th Amendment required that a justice recuse himself from a case if one of the parties in the suit donated $3 million to the justice's election campaign. ",
+    "justia_url": null,
+    "facts_of_the_case": "<p>In October 1998, Hugh Caperton filed suit against A.T. Massey Coal Co., Inc. (Massey) for tortious interference, fraudulent misrepresentation, and fraudulent concealment. A state trial court in West Virginia rendered judgment against Massey and found it liable for $50 million in damages. The Supreme Court of Appeals of West Virginia granted review. However, prior to hearing, Mr. Caperton motioned for Justice Brent Benjamin to recuse himself. He argued that since Massey's C.E.O. had donated $3 million to Justice Benjamin's campaign to win a seat on the Supreme Court of Appeals, Justice Benjamin's participation would present a \"constitutionally unacceptable appearance of impropriety.\" The motion was denied. In a 3-2 decision with Justice Benjamin voting in the majority, the Supreme Court of Appeals reversed the trial court and ordered it to dismiss the case. After its decision, the court granted Mr. Caperton's motion for rehearing, but once again denied his motion for Justice Benjamin to recuse himself. On rehearing, the court maintained in a 3-2 decision that the trial court should be reversed and the case dismissed. It reasoned that a forum selection clause in a contract between the parties made the trial court in West Virginia an improper venue. It also concluded that because the parties had previously adjudicated the dispute in a Virginia state trial court, the doctrine of res judicata did not allow this case to be retried.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court held that due process required that Justice Brent Benjamin recuse himself from participation in the case in question. With Justice Anthony M. Kennedy writing for the majority and joined by Justices John Paul Stevens, David H. Souter, Ruth Bader Ginsburg, and Stephen G. Breyer, the Court stated that it need not find that Justice Benjamin was actually biased in his decision making in order to find invalid the decision in which he took part. Rather, it need merely be shown that \"under a realistic appraisal of psychological tendencies and human weakness,\" Justice Benjamin's interest posed \"a risk of actual bias\" and thus he should have recused himself if his participation threatened the adequate implementation of due process. The Court stated that such a risk of bias exists where a judge has a \"direct, personal, substantial, pecuniary interest,\" as Justice Benjamin did. Therefore, the Court reasoned, he improperly failed to recuse himself.</p>\n<p>Chief Justice John G. Roberts dissented and was joined by Justices Antonin G. Scalia, Clarence Thomas, and Samuel A. Alito. He argued that the majority imprudently expanded the standard for which a judge need recuse himself by merely showing a \"probability of bias.\" He raised forty points of uncertainty that arise because of the majority's vague standard. Justice Scalia also wrote a separate dissenting opinion. He argued that the majority performed its duties poorly as a clarifying body by making an area of the law vastly more uncertain.</p>\n"
+}

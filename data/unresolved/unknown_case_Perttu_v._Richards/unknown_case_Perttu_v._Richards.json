@@ -1,0 +1,33 @@
+{
+    "ID": 63713,
+    "name": "Perttu v. Richards",
+    "href": "https://api.oyez.org/cases/2024/23-1324",
+    "view_count": 0,
+    "docket_number": "23-1324",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1728018000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55541"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1740463200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55584"
+        }
+    ],
+    "question": "<p>In cases subject to the Prison Litigation Reform Act, do prisoners have a right to a jury trial concerning their exhaustion of administrative remedies where disputed facts regarding exhaustion are intertwined with the underlying merits of their claim?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28047"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether, in cases subject to the Prison Litigation Reform Act, prisoners have a right to a jury trial concerning their exhaustion of administrative remedies where disputed facts regarding exhaustion are intertwined with the underlying merits of their claim. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-1324/"
+}

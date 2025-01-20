@@ -1,0 +1,42 @@
+{
+    "ID": 55232,
+    "name": "Gonzales v. Raich",
+    "href": "https://api.oyez.org/cases/2004/03-1454",
+    "view_count": 0,
+    "docket_number": "03-1454",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1088398800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39262"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1101708000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39263"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1118034000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39264"
+        }
+    ],
+    "question": "<p>Does the Controlled Substances Act (21 U.S.C. 801) exceed Congress' power under the commerce clause as applied to the intrastate cultivation and possession of marijuana for medical use?</p>\n",
+    "citation": {
+        "volume": "545",
+        "page": "1",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19160"
+    },
+    "term": "2004",
+    "description": "A case in which the Court ruled that the commerce clause of the Controlled Substances Act gives Congress authority to prohibit the local cultivation and use of marijuana, despite state law to the contrary.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/545/1/",
+    "facts_of_the_case": "<p>In 1996 California voters passed the Compassionate Use Act, legalizing marijuana for medical use. California's law conflicted with the federal Controlled Substances Act (CSA), which banned possession of marijuana. After the Drug Enforcement Administration (DEA) seized doctor-prescribed marijuana from a patient's home, a group of medical marijuana users sued the DEA and U.S. Attorney General John Ashcroft in federal district court.</p>\n<p>The medical marijuana users argued the Controlled Substances Act - which Congress passed using its constitutional power to regulate interstate commerce - exceeded Congress' commerce clause power. The district court ruled against the group. The Ninth Circuit Court of Appeals reversed and ruled the CSA unconstitutional as it applied to intrastate (within a state) medical marijuana use. Relying on two U.S. Supreme Court decisions that narrowed Congress' commerce clause power - U.S. v. Lopez (1995) and U.S. v. Morrison (2000) - the Ninth Circuit ruled using medical marijuana did not \"substantially affect\" interstate commerce and therefore could not be regulated by Congress.</p>\n",
+    "conclusion": "<p>No. In a 6-3 opinion delivered by Justice John Paul Stevens, the Court held that the commerce clause gave Congress authority to prohibit the local cultivation and use of marijuana, despite state law to the contrary. Stevens argued that the Court's precedent \"firmly established\" Congress' commerce clause power to regulate purely local activities that are part of a \"class of activities\" with a substantial effect on interstate commerce. The majority argued that Congress could ban local marijuana use because it was part of such a \"class of activities\": the national marijuana market. Local use affected supply and demand in the national marijuana market, making the regulation of intrastate use \"essential\" to regulating the drug's national market. The majority distinguished the case from Lopez and Morrison. In those cases, statutes regulated non-economic activity and fell entirely outside Congress' commerce power; in this case, the Court was asked to strike down a particular application of a valid statutory scheme.</p>\n"
+}

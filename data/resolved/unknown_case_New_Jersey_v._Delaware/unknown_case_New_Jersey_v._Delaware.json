@@ -1,0 +1,35 @@
+{
+    "ID": 55514,
+    "name": "New Jersey v. Delaware",
+    "href": "https://api.oyez.org/cases/2007/134-orig",
+    "view_count": 0,
+    "docket_number": "134-orig",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1196143200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40031"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1206939600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40032"
+        }
+    ],
+    "question": "<p>Does Delaware, under a 1905 compact with New Jersey settling boundary disputes, have the right to refuse to grant a permit for a construction project occurring mainly on New Jersey land but involving underwater land within Delaware's coastal zone?</p>\n",
+    "citation": {
+        "volume": "552",
+        "page": "597",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20775"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>When British Petroleum (BP) wanted to build a natural gas transfer facility on the New Jersey side of the Delaware River, the State of Delaware objected that the pier construction would require the dredging of underwater lands it considered part of its coastal zone. Delaware denied BP a permit for the construction despite the fact that most of the construction would take place on the New Jersey side of the river. New Jersey granted the permit, arguing that a 1905 compact between the States settling a boundary dispute placed the construction site under New Jersey control. New Jersey filed a claim to settle the dispute and the case went directly to the Court under its original jurisdiction to hear disputes between two States.</p>\n",
+    "conclusion": "<p>The Court held 6-2 that the 1905 compact between the States did not give New Jersey exclusive control over the construction project. Justice Ruth Bader Ginsburg, writing for the Court, stated that Delaware acted within its authority in denying unreasonable uses of the river and soil within the lands it controls under the compact. Justice John Paul Stevens concurred in, and Justice Antonin Scalia dissented from, the majority's opinion.Justice Stephen G. Breyer recused himself.</p>\n"
+}

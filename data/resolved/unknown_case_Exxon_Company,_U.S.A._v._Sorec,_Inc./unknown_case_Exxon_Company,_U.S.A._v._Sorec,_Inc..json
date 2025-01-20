@@ -1,0 +1,35 @@
+{
+    "ID": 54456,
+    "name": "Exxon Company, U.S.A. v. Sorec, Inc.",
+    "href": "https://api.oyez.org/cases/1995/95-129",
+    "view_count": 0,
+    "docket_number": "95-129",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                827215200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37718"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                834382800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37719"
+        }
+    ],
+    "question": "<p>Does the \"superseding cause\" doctrine apply to admiralty cases in which the court previously has adopted a comparative fault principle?</p>\n",
+    "citation": {
+        "volume": "517",
+        "page": "830",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18385"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/517/830/",
+    "facts_of_the_case": "<p>An Exxon oil tanker, the Houston, broke free from a mooring facility under control of the respondents, Sofec, Inc. Exxon filed a complaint alleging negligence and breach of warranty in federal district court. Sofec, Inc. filed a successful motion to bifurcate the trial. The trial court considered whether the conduct of the ship's captain, Coyne, was the \"superceding and sole proximate cause of the loss of the ship\" after the ship had broken free of the moorings in order to determine if the tanker would have been lost despite Coyne's actions. The cause of the ship's release from the moorings became a secondary issue. The court found Coyne negligent, which was the primary cause of the Houston's grounding and subsequent loss. The Court of Appeals affirmed the decision. Exxon petitioned the U.S. Supreme Court for certiorari.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion written by Justice Clarence Thomas, the Court held that a plaintiff in admiralty that is the superseding cause of its own injury, and thus the sole, proximate cause, cannot recover part of its damages from tort-feasors or contracting partners whose blameworthy actions were causes in fact of the injury.</p>\n"
+}

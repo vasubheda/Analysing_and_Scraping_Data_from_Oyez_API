@@ -1,0 +1,42 @@
+{
+    "ID": 55260,
+    "name": "Spector v. Norwegian Cruise Line Ltd.",
+    "href": "https://api.oyez.org/cases/2004/03-1388",
+    "view_count": 0,
+    "docket_number": "03-1388",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1096347600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39342"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1109570400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39343"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1118034000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39344"
+        }
+    ],
+    "question": "<p>Does Title III of the Americans with Disabilities Act apply to foreign-flagged cruise ships in U.S. waters?</p>\n",
+    "citation": {
+        "volume": "545",
+        "page": "",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/20543"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>A group of disabled people who travelled on Norwegian Cruise Line ships sued the company in federal district court and alleged two of its ships did not conform with Title III of the Americans with Disabilities Act. The company argued the ADA did not apply to the two ships because, though the ships sailed out of Texas, they sailed under the Bahamian flag. The district court dismissed the group's claims and the Fifth Circuit Court of Appeals ruled foreign-flagged cruise ships are not subject to Title III of the ADA.</p>\n",
+    "conclusion": "<p>Yes. The Court held 6-3 that Title III applied to foreign-flag cruise ships in U.S. waters. Justice Kennedy delivered the Court's controlling opinion, which held that Title III did not apply to foreign ships' internal affairs, because there was no \"clear congressional statement\" showing an intent to do so. A clear statement was necessary before a general law could interfere with a foreign-vessel's internal affairs. Title III's own limitations, however, prevented the statute from imposing requirements that would have threatened safety on the ship or conflicted with international obligations. If Title III were to impose certain requirements, such as major structural modifications, the clear statement rule could bar such an interference.</p>\n"
+}

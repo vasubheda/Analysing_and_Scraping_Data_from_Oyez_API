@@ -1,0 +1,35 @@
+{
+    "ID": 56151,
+    "name": "Toca v. Louisiana",
+    "href": "https://api.oyez.org/cases/2014/14-6381",
+    "view_count": 0,
+    "docket_number": "14-6381",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1418364000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41761"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1422943200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41762"
+        }
+    ],
+    "question": "<p>1. Does the rule in <em>Miller</em> apply retroactively to juveniles sentenced to life in prison without the possibility of parole?</p>\n<p>2. Does the Supreme Court have jurisdiction where a state court has failed to find a <em>Teague</em> exception?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/27127"
+    },
+    "term": "2014",
+    "description": "A case in which the Court was to consider whether the rule in Miller applies retroactively to juveniles sentenced to life in prison without the possibility of parole, but was dismissed prior to arguments. ",
+    "justia_url": null,
+    "facts_of_the_case": "<p>In the 1980s, George Toca was arrested and sentenced to life in prison without the possibility of parole, probation, or suspension of his sentence for accidentally shooting his friend while the two of them committed a robbery. At the time of the robbery, George was 17 years old and was considered a juvenile. In 2012, the Supreme Court held in <em>Miller v. Alabama</em> that sentencing a juvenile to life in prison without the possibility of parole was a violation of the Eighth Amendment's protection against cruel and unusual punishment. In light of the <em>Miller</em> case, Toca applied for a Motion to Correct an Illegal Sentence, which the district court approved by holding that the <em>Miller</em> decision applied retroactively to cases like Toca's. The Supreme Court of Louisiana overturned that decision by denying Toca's motion and holding that the <em>Miller</em> rule does not apply retroactively because it is not a substantive rule, nor does it correct any substantive issues of fairness or accuracy in the criminal proceedings. The Supreme Court of Louisiana also held that the <em>Miller</em> rule is simply a new rule of criminal procedure and does not apply retroactively.</p>\n",
+    "conclusion": "<p>Prior to arguments, the case was dismissed under Court Rule 46.</p>\n"
+}

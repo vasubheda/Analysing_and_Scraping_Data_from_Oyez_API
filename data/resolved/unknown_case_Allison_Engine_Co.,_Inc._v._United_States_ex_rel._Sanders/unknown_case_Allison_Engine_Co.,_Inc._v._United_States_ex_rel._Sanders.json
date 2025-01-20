@@ -1,0 +1,35 @@
+{
+    "ID": 55461,
+    "name": "Allison Engine Co., Inc. v. United States ex rel. Sanders",
+    "href": "https://api.oyez.org/cases/2007/07-214",
+    "view_count": 0,
+    "docket_number": "07-214",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1204005600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39888"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1212987600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39889"
+        }
+    ],
+    "question": "<p>Must whistleblower claimants prove that a private company directly presented a fraudulent bill to the government in order to prevail in a False Claims Act case?</p>\n",
+    "citation": {
+        "volume": "553",
+        "page": "662",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20759"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/553/662/",
+    "facts_of_the_case": "<p>Two workers involved in the manufacture of electrical supplies for the Navy's billion-dollar guided missile destroyers brought a whistleblower case alleging that subcontractors performed faulty work. The two charged that the companies employed unqualified workers, installed leaky gearboxes and used defective temperature gauges. After a five-week trial, the district court granted judgment as a matter of law for the companies, concluding that the False Claims Act under which the suits were brought requires that defendants \"present\" the fraudulent claims to the government. Because the subcontractors actually invoiced the general contractor and not the government, the court ruled that the presentment requirement had not been met. The appeals court reversed, holding that the Act should be liberally construed to discourage private companies from defrauding the government.</p>\n",
+    "conclusion": "<p>Yes. Writing for a unanimous Court, Justice Samuel A. Alito made clear that a plaintiff must prove more than that the false statement's use resulted in payment or approval or that Government money was used to pay the claim. Instead, a plaintiff must show that the defendant intended the false statement to be \"material\" to the Government's decision to pay or approve the false claim.</p>\n"
+}

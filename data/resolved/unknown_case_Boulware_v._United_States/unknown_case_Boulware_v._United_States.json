@@ -1,0 +1,42 @@
+{
+    "ID": 55463,
+    "name": "Boulware v. United States",
+    "href": "https://api.oyez.org/cases/2007/06-1509",
+    "view_count": 0,
+    "docket_number": "06-1509",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1190696400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39893"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1199772000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39894"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1204524000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39895"
+        }
+    ],
+    "question": "<p>Does the return of capital rule apply automatically when a company without earnings or profits distributes money to a shareholder, or must the taxpayer produce contemporaneous evidence that the money was treated as a return of capital when distributed?</p>\n",
+    "citation": {
+        "volume": "552",
+        "page": "421",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/19386"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/552/421/",
+    "facts_of_the_case": "<p>Michael H. Boulware founded a coffee and bottled water company known as Hawaiian Isles Enterprises. As his company became profitable in 1987, he began transferring money \u2013 a total of $4.5 million \u2013 from his company to his mistress. Seven years later, in the midst of a divorce, his mistress refused to return the money when asked, contending that it was a gift. A Hawaii court eventually held that the woman had been holding the money in constructive trust for the company's benefit. Seven years after that, the federal government indicted Boulware for failing to pay taxes on the disputed funds as well as $6 million more that he had received from the company. Boulware argued that under the \"return of capital\" rule, holding that when unprofitable companies distribute money to shareholders, the money is considered a nontaxable return of capital up to the shareholder's basis in the stock, he owed no taxes. The Ninth Circuit rejected that argument.</p>\n",
+    "conclusion": "<p>A unanimous Court reversed Boulware's conviction for tax evasion. In an opinion written by Justice David Souter, the Court held that a defendant in a criminal tax case does not need to show a contemporaneous intent to treat diversions as returns of capital to demonstrate no taxes were owed. All that mattered, according to the Court, was whether the corporation had earnings or profits and the taxpayer's basis for his stock. Based on these considerations, the Court determined that there had been no improper action on Boulware's part.</p>\n"
+}

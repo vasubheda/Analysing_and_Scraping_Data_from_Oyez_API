@@ -1,0 +1,42 @@
+{
+    "ID": 56051,
+    "name": "Perez v. Mortgage Bankers Association",
+    "href": "https://api.oyez.org/cases/2014/13-1041",
+    "view_count": 0,
+    "docket_number": "13-1041",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1402894800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41619"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1417413600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41620"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1425877200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41621"
+        }
+    ],
+    "question": "<p>Must a federal agency engage in a notice-and-comment procedure before it can significantly alter an interpretation of a rule of agency regulation?</p>\n",
+    "citation": {
+        "volume": "575",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20935"
+    },
+    "term": "2014",
+    "description": "A case in which the Court ruled that federal agencies do not need to engage in a notice-and-comment procedure before significantly altering an interpretation of a rule of agency regulation.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/575/92/",
+    "facts_of_the_case": "<p>The Fair Labor Standards Act (FLSA) requires employers to pay overtime wages to employees who work more than 40 hours per week. However, the FLSA also provides exemptions to this overtime rule for employees, including those \"employed in a bona fide executive, administrative, or professional capacity\u2026or in the capacity of outside salesman.\"</p>\n<p>Mortgage Bankers Association (MBA) is a national trade organization that represents real estate financial companies and their employees across the country. Among these employees are mortgage loan officers, who assist prospective buyers in finding and applying for mortgage offers. In 2006, the Department of Labor issued an opinion letter that stated that mortgage loan officers' duties fell within the definition of \"administrative\" and that they qualify for the exception to the overtime rule in the FLSA. In 2010, however, the Deputy Administrator issued a second pronouncement that declared that a mortgage loan officer did not qualify for the administrative employee exception. MBA sued the Department of Labor in district court and argued that the agency could not change its interpretation without first going through a notice-and-comment period required by the Administrative Procedure Act. The district court denied MBA's motion for summary judgment. The U.S. Court of Appeals for the District of Columbia Circuit reversed and remanded the case with instructions to vacate the Department of Labor's 2010 interpretation.</p>\n",
+    "conclusion": "<p>No. Justice Sonia Sotomayor delivered the opinion for the unanimous Court. The Court held that the appellate court improperly relied on the rule established in <em>Paralyzed Veterans of America v. D.C. Arena L.P.</em>, which required an agency to use notice-and-comment procedures when making <em>significant</em> changes to a previously interpreted legislative rule. The Court held that this rule was invalid because it was contrary to the Administrative Procedure Act's (APA) clear provision that agencies need only use notice-and-comment procedures when enacting a legislative rule that has the \"force of law.\" Because notice-and-comment procedures are not required when agencies enact interpretive rules, they should not be required to make subsequent interpretations, as occurred in this case. The Court rejected Mortgage Banker Association's policy argument and noted that the APA contains other safeguards to prevent agencies from creating substantive changes to legislative rules under the guise of \"interpretation.\"</p>\n<p>In his opinion concurring in part and concurring in the judgment, Justice Samuel A. Alito, Jr. wrote that the majority opinion correctly overruled the <em>Paralyzed Veterans</em> rule as incompatible with the APA. Justice Alito also noted his agreement with Justice Scalia's opinion concurring in the judgment.</p>\n<p>Justice Antonin M. Scalia wrote an opinion concurring in the judgment in which he argued that the majority opinion continued the dangerous trend of judicial deference to agencies' interpretation of their own rules. The APA allows reviewing courts to interpret disputed terms in agencies' legislative rules, but traditionally courts have deferred to the definitions that agencies have enacted through their interpretive rules. Justice Scalia pointed out the majority opinion failed to curb growing agency power and would continue to allow the use of interpretive rules to bind the public without notice-and-comment oversight. In his separate opinion concurring in the judgment, Justice Clarence Thomas echoed Justice Scalia's concerns and took issue with judicial deference making way for agencies to enact \"interpreting rules\" that, in reality, have substantive outcomes.</p>\n"
+}

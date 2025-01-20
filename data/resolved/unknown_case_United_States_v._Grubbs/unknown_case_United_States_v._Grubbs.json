@@ -1,0 +1,42 @@
+{
+    "ID": 55344,
+    "name": "United States v. Grubbs",
+    "href": "https://api.oyez.org/cases/2005/04-1414",
+    "view_count": 0,
+    "docket_number": "04-1414",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1127797200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39574"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1137564000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39575"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1142920800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39576"
+        }
+    ],
+    "question": "<p>Did the Fourth Amendment require suppression of evidence seized during a search that had been authorized by an anticipatory warrant, when the warrant's triggering events were not shown to the person searched?</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "90",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20592"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/547/90/",
+    "facts_of_the_case": "<p>On federal trial for possessing child pornography, Grubbs asked the judge to suppress evidence officers seized from his home. Grubbs said the search violated the Fourth Amendment because the officers showed him an \"anticipatory warrant,\" something valid only after triggering events take place, with no mention of the triggering conditions. The condition set on this warrant was that officers could search Grubbs' house only after he received a pornographic video in the mail. The judge denied Grubbs' motion because the trigger was set forth in an affidavit that the officers carried during the search and that the warrant referenced. The Ninth Circuit reversed and said officers had to show the triggering events for an anticipatory warrant to the person being searched.</p>\n",
+    "conclusion": "<p>No. Justice Antonin Scalia, in the majority opinion, wrote that under the Fourth Amendment's particularity requirement a warrant need not set out the conditions that trigger it, only the place to be searched and the persons or things to be searched for. The fact that the triggering conditions were included in the affidavit, even if they were never showed to Grubbs, was therefore sufficient.</p>\n"
+}

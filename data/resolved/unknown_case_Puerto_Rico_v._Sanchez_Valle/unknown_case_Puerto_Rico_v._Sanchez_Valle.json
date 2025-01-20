@@ -1,0 +1,42 @@
+{
+    "ID": 62598,
+    "name": "Puerto Rico v. Sanchez Valle",
+    "href": "https://api.oyez.org/cases/2015/15-108",
+    "view_count": 0,
+    "docket_number": "15-108",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1443675600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53296"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1452664800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53328"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1465448400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53733"
+        }
+    ],
+    "question": "<p>Are the Commonwealth of Puerto Rico and the U.S. federal government separate sovereigns for the purpose of double jeopardy?</p>\n",
+    "citation": {
+        "volume": "579",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27373"
+    },
+    "term": "2015",
+    "description": "A case in which the Court held that Puerto Rico and the U.S. federal government are the same sovereign entity for the purpose of the Double Jeopardy Clause. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/579/15-108/",
+    "facts_of_the_case": "<p>In 2008, Luis M. Sanchez Valle was charged in federal for illegally trafficking in weapons and ammunition in interstate commerce and, on substantially the same facts, was charged with several violations of the Puerto Rico Weapons Act. After Sanchez Valle was convicted in federal court, he filed a motion to dismiss the claims under Puerto Rican law and argued that the constitutional protection against double jeopardy meant that he could not be prosecuted in Puerto Rico for the same offenses for which the federal court had already convicted him. The prosecution argued that, pursuant to the precedent the Supreme Court of Puerto Rico established in <em>Puerto Rico v. Castro Garc\u00eda</em>, the United States and the Commonwealth of Puerto Rico derive their authority from different sources and therefore can punish substantially the same offenses without implicating the constitutional protections against double jeopardy.</p>\n<p>The trial court dismissed the charges against Sanchez Valle and held that he could not be indicted twice for the same offenses by the same sovereign entity, and because Puerto Rico and the United States both derive their authority from the United States Constitution, they are the same sovereign entity. The Court of Appeals consolidated this case with several others presenting the same question and held that, under current law, a person could punished for the same offenses in both federal and Puerto Rican court without implicating the protection against double jeopardy. The Supreme Court of Puerto Rico reversed and held that the U.S. Supreme Court precedent regarding double jeopardy was binding on the Supreme Court of Puerto Rico, and therefore the <em>Puerto Rico v. Castro Garc\u00eda</em> precedent was incorrect and the Puerto Rican charges against Sanchez Valle should be dismissed.</p>\n",
+    "conclusion": "<p>The U.S. federal government and the Puerto Rican government are the \u201csame sovereign\u201d for the purpose of the Double Jeopardy Clause. Justice Elena Kagan delivered the opinion for the 6-2 majority. The Court held that the concept of \u201csovereignty\u201d as used in the Double Jeopardy Clause did not have its ordinary meaning, but rather deals with the question of whether the entities in question derive their authority from different sources. Based on this historical analysis, the Court determined that, while the states derived their sovereign power from a separate source than the federal government, territories do not. Although in many ways Puerto Rico functioned as a separate sovereign because the federal government had delegated much of its power to the people of Puerto Rico, the delegation further emphasizes the fact that historically the authority to govern Puerto Rico derived from the U.S. Constitution.</p>\n<p>In her concurring opinion, Justice Ruth Bader Ginsburg wrote that the double jeopardy protection should perhaps not be limited to prosecutions by the same sovereign and argued that the question of the extent of double jeopardy protections warranted further examination. Justice Clarence Thomas joined in the concurrence. Justice Thomas also wrote a separate opinion concurring in part and dissenting in part in which he disagreed with the Court\u2019s approach to the sovereignty of Indian tribes.</p>\n<p>Justice Stephen G. Breyer wrote a dissent in which he argued that the majority\u2019s view of the U.S. Constitution as the source of Puerto Rico\u2019s power to self-govern was an overly simplistic view of the role the Constitution played in creating the sovereignty of other entities, such as the states that were originally territories. Based on a more complex framework that takes into account customs, actions, and attitudes of different governmental entities, Puerto Rico was a separate sovereign entity for the purposes of the Double Jeopardy Clause. Justice Sonia Sotomayor joined in the dissent.</p>\n"
+}

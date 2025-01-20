@@ -1,0 +1,35 @@
+{
+    "ID": 63015,
+    "name": "Sexton v. Beaudreaux",
+    "href": "https://api.oyez.org/cases/2017/17-1106",
+    "view_count": 0,
+    "docket_number": "17-1106",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1530162000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54331"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1530162000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54332"
+        }
+    ],
+    "question": "<p>Did the Ninth Circuit err in not considering reasonable grounds for the state court\u2019s summary decision and in essentially reviewing the state court\u2019s findings de novo, rather than applying a deferential standard?</p>\n",
+    "citation": {
+        "volume": "585",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27616"
+    },
+    "term": "2017",
+    "description": "A case in which the Court held that the Ninth Circuit erred in failing to consider reasonable grounds for the state court's summary decision and in essentially reviewing the state court's findings de novo, rather than applying a deferential standard.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/585/17-1106/",
+    "facts_of_the_case": "<p>Nicholas Beaudreaux shot and killed Wayne Drummond in 2006. Two witnesses to the shooting recognized or were able to describe Beaudreaux but did not know his name. Seventeen months later, one of the witnesses was arrested for an unrelated crime, and while in custody, was shown a middle-school yearbook with Beaudreaux's photograph. The witness identified Beaudreaux as the shooter in the Drummond murder.</p>\n<p>Officers interviewed the second witness the following day, and the witness identified Beaudreaux as the shooter from a photo array that included Beaudreaux and five other men. Later, the witness was shown a different photo array that used a different photograph of Beaudreaux, and again the witness identified Beaudreaux as the shooter. At a preliminary hearing, the witness positively identified Beaudreaux after seeing him in person.</p>\n<p>Beaudreaux was tried in 2009 for first-degree murder and attempted second-degree robbery. Both witnesses testified and identified Beaudreaux as the shooter, and the trial court sentenced him to a term of 50 years to life. His conviction was affirmed\u00a0on direct appeal, and his first state habeas petition was denied. He filed a second state habeas petition claiming, among other things, that his trial attorney was ineffective for failing to file a motion to suppress the second witness\u2019s identification testimony. The California Court of Appeal summarily denied the petition, and the California Supreme Court denied review. Beaudreaux filed a federal habeas petition, which the district court denied. A divided panel of the Ninth Circuit reversed, finding that under the totality of the circumstances, the identification was not reliable enough to overcome the suggestiveness of the procedures and that counsel\u2019s failure to move to suppress the identification prejudiced Beaudreaux\u2019s case.</p>\n",
+    "conclusion": "<p>The Ninth Circuit erred by not considering the arguments that could have supported the state court\u2019s summary decision and by failing to assess Boudreaux\u2019s ineffectiveness claim with the appropriate amount of deference to the state court. In a per curiam opinion, the Court held that the Ninth Circuit effectively evaluated the merits de novo, rather than deferring to the state court\u2019s findings based on general, fact-driven standards such as suggestiveness and reliability.</p>\n<p>Justice Breyer dissented from the per curiam opinion.</p>\n"
+}

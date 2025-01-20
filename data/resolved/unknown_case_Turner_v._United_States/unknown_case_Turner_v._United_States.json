@@ -1,0 +1,42 @@
+{
+    "ID": 62786,
+    "name": "Turner v. United States",
+    "href": "https://api.oyez.org/cases/2016/15-1503",
+    "view_count": 0,
+    "docket_number": "15-1503",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1481695200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53938"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1490763600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54002"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1498107600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54072"
+        }
+    ],
+    "question": "<p>Does Brady v. Maryland, which established that it was a violation of the defendant\u2019s due process for the prosecution to suppress or withhold evidence that is favorable to the defendant and is material to guilt or punishment, require that the convictions in this case be overturned?</p>\n",
+    "citation": {
+        "volume": "582",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27486"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that the precedent of Brady v. Maryland does not require that the convictions in this case be overturned because the withheld evidence in question is not material under the standard established in Brady.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/582/15-1503/",
+    "facts_of_the_case": "<p dir=\"ltr\">In 1984, the body of Catherine Fuller was discovered in an alley. She had clearly been badly beaten and raped. The police were unable to recover physical evidence that would identify the perpetrators, and the medical examiner was unable to determine how many people were involved. After investigating and conducting over 400 interviews, the police developed a theory that Fuller had been assaulted and killed by a large group of teens who had originally set out to rob her. A total of 13 teens were initially indicted and two of them, Harry Bennett and Calvin Alston, pled guilty and agreed to testify for the government. These two witnesses agreed on the outline of events but differed significantly on some of the details. Turner and several of the other defendants put forth alibi defenses, but some of their alibis conflicted with each other. The jury found Turner and nine of the other defendants guilty, and their convictions were affirmed on direct appeal.</p>\n<p>Nearly 25 years later, Turner and several of the other original defendants moved to have their sentences vacated and claimed that they had not received fair trials because the government had withheld exculpatory evidence in violation of Brady v. Maryland, which established that it was a violation of due process for the prosecution to suppress evidence favorable to the defense that is material to either guilt or punishment. Additionally, Turner and the other defendants argued that newly discovered evidence, including the recantations of Bennett and Alston, established that they were actually innocent of the crime. The trial court denied the motion, and the District of Columbia Court of Appeals affirmed because Turner and the other former defendants had not shown a reasonable probability that the outcome of their trials would have been different had the government disclosed the evidence in question and that the new evidence established their actual innocence by a preponderance of the evidence. The Supreme Court consolidated this case with another suit by one of the other original defendants. </p>\n",
+    "conclusion": "<p dir=\"ltr\">The precedent of Brady v. Maryland does not require that the convictions in this case be overturned because the withheld evidence in question is not material under the standard established in Brady. Justice Stephen G. Breyer delivered the opinion of the 6-2 majority. The Court held that, under Brady v. Maryland, the government violated a defendant\u2019s due process rights if it withheld evidence that was favorable to the defense and material to guilt or punishment. Evidence was material for the purpose of the Brady analysis when there was a reasonable probability that, had the evidence been disclosed, the proceeding would have had a different outcome. The burden was on the defendant to show that the suppression of the evidence in question prejudiced the trial such it undermined confidence in the outcome. In this case, considering the suppressed evidence in the context of the entire record, the Court held that the evidence in question was not sufficient to undermine confidence in the outcome and therefore did not meet the standard for materiality under Brady. </p>\n<p dir=\"ltr\">Justice Elena Kagan wrote a dissenting opinion in which she argued that evidence was material under Brady when there was a reasonable probability that, had the undisclosed evidence been disclosed, the case would have resulted in either an acquittal or a hung jury rather than a conviction. Because all that was required was that the evidence convince a few jury members, the undisclosed evidence in this case clearly met the Brady materiality standard. Had the evidence been disclosed, the defendants would have been able to present a more unified defense, and there was a reasonable probability that such a defense would have persuaded one or more jurors that the prosecution had not proven its case beyond a reasonable doubt. Justice Ruth Bader Ginsburg joined in the dissent. </p>\n<p>\u00a0</p>\n<p dir=\"ltr\">Justice Neil Gorsuch did not participate in the discussion or decision of this case.</p>\n"
+}

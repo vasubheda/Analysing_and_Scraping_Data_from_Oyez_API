@@ -1,0 +1,42 @@
+{
+    "ID": 62599,
+    "name": "Hughes v. Talen Energy Marketing, LLC",
+    "href": "https://api.oyez.org/cases/2015/14-614",
+    "view_count": 0,
+    "docket_number": "14-614",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1445230800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53299"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1456293600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53366"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1461042000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53494"
+        }
+    ],
+    "question": "<p>Does the Federal Power Act preempt attempted state regulation of utility contracts and sales?</p>\n",
+    "citation": {
+        "volume": "578",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27375"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that the Federal Power Act preempted state regulation of utility contracts and sales. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/578/14-614/",
+    "facts_of_the_case": "<p>The Federal Power Act (FPA) was passed in 1935 to regulate interstate electricity sales. The FPA vested the Federal Energy Regulatory Commission (FERC) with authority over the transmission of electrical energy in interstate commerce and the wholesale of electric energy in interstate commerce. To this end, FERC has created regional transmission organizations, such as PJM Interconnection, LLC, (PJM) which regulates a large regional market that includes Maryland and the District of Columbia. Maryland became concerned that FERC actions were failing to adequately incentivize the construction of new plants, so the Maryland Public Service Commission began soliciting proposals for the construction of a new plant and instituted a Generation Order to regulate how the company that won the bid would interact with the rest of the energy market. Commercial Power Ventures Maryland, LLC, (CPV) won the bid. PPL EnergyPlus, LLC, (PPL) and other existing power plants sued and argued that the Generation Order unconstitutionally interfered with the PJM-regulated market. The district court held that the Generation Order was preempted by the federal regulation of the energy markets pursuant to the Supremacy Clause. The U.S. Court of Appeals for the Fourth Circuit affirmed. This case was consolidated with CPV\u2019s suit against PPL and the other existing power plants.</p>\n",
+    "conclusion": "<p>The Federal Power Act preempts state regulation that interferes with the national energy market, as the Generation Order does. Justice Ruth Bader Ginsburg delivered the opinion for the 8-0 majority. The Court held that federal law preempts state law when the state law is in an area that Congress has already extensively legislated or when the state law is an obstacle to the objectives of the federal law. In this case, the program at issue invades the regulatory space that Congress has granted to the Federal Energy Regulatory Commission (FERC). Although states may regulate in areas incident to FERC\u2019s domain, states may not do so when their regulations intrude on FERC\u2019s ability to regulate interstate wholesale rates. Because the program at issue in this case does so, federal law preempts it.</p>\n<p>In her concurring opinion, Justice Sonia Sotomayor wrote that preemption analysis in areas in which both the federal government and states collaboratively regulate must examine the purpose of the regulations at issue rather than \u201ctalismanic vocabulary.\u201d Because the majority opinion properly looked to the purpose of the Federal Power Act and how the Maryland program interfered with it, Justice Sotomayor joined the majority\u2019s opinion in full. Justice Clarence Thomas wrote a separate opinion concurring in part and concurring in the judgment in which he argued that the issue of preemption in this case should be decided solely by examining the relevant text of the statutes in question rather than by looking at the broader doctrine of implied preemption, as the majority opinion did.</p>\n"
+}

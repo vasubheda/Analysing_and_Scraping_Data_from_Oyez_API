@@ -1,0 +1,35 @@
+{
+    "ID": 54326,
+    "name": "Wilson v. Arkansas",
+    "href": "https://api.oyez.org/cases/1994/94-5707",
+    "view_count": 0,
+    "docket_number": "94-5707",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                796370400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37474"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                801118800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37475"
+        }
+    ],
+    "question": "<p>Does the Fourth Amendment's reasonable search and seizure clause require police officers to knock and announce their presence before entering a private residence?</p>\n",
+    "citation": {
+        "volume": "514",
+        "page": "927",
+        "year": "1995",
+        "href": "https://api.oyez.org/case_citation/case_citation/18255"
+    },
+    "term": "1994",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/514/927/",
+    "facts_of_the_case": "<p>In 1992, Sharlene Wilson sold illicit narcotics to undercover agents of the Arkansas state police. Police officers then applied for and obtained warrants to search Ms. Wilson's home and to arrest her. When the police arrived, they found the main door to Ms. Wilson's house open. The officers opened the unlocked screen door and walked in, identified themselves as police officers, and said that they had a warrant. Ms. Wilson's attorney filed a motion to suppress the evidence seized during the search, claiming it was invalid on the grounds that the officers had failed to \"knock and announce\" before entering.</p>\n",
+    "conclusion": "<p>Yes. A unanimous Court held that the common-law \"knock-and announce\" principle forms a part of the Fourth Amendment reasonableness inquiry. \"Given the longstanding common-law endorsement of the practice of announcement, and the wealth of founding-era commentaries, constitutional provisions, statutes, and cases espousing or supporting the knock-and-announce principle,...the Amendment's Framers thought that whether officers announced their presence and authority before entering a dwelling was among the factors to be considered in assessing a search's reasonableness.\" Countervailing law enforcement interests, such as officer safety, may, however, establish the reasonableness of an unannounced entry.</p>\n"
+}

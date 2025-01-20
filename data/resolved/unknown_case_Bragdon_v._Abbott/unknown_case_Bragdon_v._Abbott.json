@@ -1,0 +1,35 @@
+{
+    "ID": 54606,
+    "name": "Bragdon v. Abbott",
+    "href": "https://api.oyez.org/cases/1997/97-156",
+    "view_count": 0,
+    "docket_number": "97-156",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                891237600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37996"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                898750800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37997"
+        }
+    ],
+    "question": "<p>Can a physician refuse or alter care of an HIV-positive patient without violating the equal treatment stipulations of the Americans with Disabilities Act of 1990 (ADA)?</p>\n",
+    "citation": {
+        "volume": "524",
+        "page": "624",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18535"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/524/624/",
+    "facts_of_the_case": "<p>During a visit to her dentist's office, in order to fill a cavity, Sidney Abbott disclosed that although she did not manifest any obvious symptoms she carried the human immunodeficiency virus (HIV). When her dentist, Randon Bragdon, refused to treat her in his office, offering to conduct any necessary work at a hospital for no extra charge other than use of the facilities, Abbott challenged his policy as discriminatory. After both a federal trial and an appeals court ruled in Abbott's favor, Bragdon appealed and the Supreme Court granted certiorari.</p>\n",
+    "conclusion": "<p>No. In a 5-to-4 opinion, the Court held that although the ADA does not force care-givers to treat an \"individual [who] poses a direct threat to the health or safety of others,\" it also prohibits discrimination against any individual \"on the basis of disability in the enjoyment of the services of any place of public accommodation by any person who operates [such] a place.\" The Court then reasoned that since HIV \"substantially limits\" major life activities, such as reproduction, the infection is a \"disability\" that entitles its victims to ADA protections. Having said this, however, the Court concluded that only care-givers can determine if treating an HIV-positive individual would constitute a \"direct threat\" to themselves or others. Therefore, the Court remanded for further risk assessment based on objective medical evidence or risk.</p>\n"
+}

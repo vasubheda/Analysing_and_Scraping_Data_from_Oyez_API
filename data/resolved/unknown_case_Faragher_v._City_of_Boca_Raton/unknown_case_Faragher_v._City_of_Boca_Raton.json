@@ -1,0 +1,35 @@
+{
+    "ID": 54585,
+    "name": "Faragher v. City of Boca Raton",
+    "href": "https://api.oyez.org/cases/1997/97-282",
+    "view_count": 0,
+    "docket_number": "97-282",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                890805600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37954"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                898837200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37955"
+        }
+    ],
+    "question": "<p>May an employer be held liable under Title VII of the Civil Rights Act of 1964 for the acts of an employee whose sexual harassment of subordinates has created a hostile work environment amounting to employment discrimination?</p>\n",
+    "citation": {
+        "volume": "524",
+        "page": "775",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18514"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/524/775/",
+    "facts_of_the_case": "<p>After resigning as a lifeguard, Beth Ann Faragher brought an action against the City of Boca Raton and her immediate supervisors, alleging that the supervisors had created a sexually hostile atmosphere by touching, remarking, and commenting. Faragher asserted that this conduct constituted discrimination in violation of Title VII of the Civil Rights Act of 1964. The District Court concluded that Faragher's supervisors' conduct was sufficiently serious to alter the conditions of her employment and constitute an abusive working environment. The court then held that the city could be held liable. In reversing, the en banc Court of Appeals held that Faragher's supervisors were not acting within the scope of their employment when they engaged in the harassing conduct, that knowledge of the harassment could not be imputed to the City, and that the City could not be held liable for negligence in failing to prevent it.</p>\n",
+    "conclusion": "<p>Yes. In a 7-2 opinion delivered by Justice David H. Souter, the Court held that an employer is vicariously liable under Title VII of the Civil Rights Act of 1964 for actionable discrimination caused by a supervisor. The Court also held that such liability is subject to an affirmative defense looking to the reasonableness of the employer's conduct as well as that of the plaintiff victim. \"The City had entirely failed to disseminate its policy against sexual harassment among the beach employees and that its officials made no attempt to keep track of the conduct of supervisors like [Faragher's],\" wrote Justice Souter, \"[u]nder such circumstances, we hold as a matter of law that the City could not be found to have exercised reasonable care to prevent the supervisors' harassing conduct.\"</p>\n"
+}

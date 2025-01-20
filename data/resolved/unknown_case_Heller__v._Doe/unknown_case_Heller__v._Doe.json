@@ -1,0 +1,35 @@
+{
+    "ID": 54073,
+    "name": "Heller  v. Doe",
+    "href": "https://api.oyez.org/cases/1992/92-351",
+    "view_count": 0,
+    "docket_number": "92-351",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                732780000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36999"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                740898000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37000"
+        }
+    ],
+    "question": "<p>Do Kentucky's involuntary commitment procedures for retarded persons violate the Equal Protection Clause of the Fourteenth Amendment?</p>\n",
+    "citation": {
+        "volume": "509",
+        "page": "312",
+        "year": "1993",
+        "href": "https://api.oyez.org/case_citation/case_citation/18002"
+    },
+    "term": "1992",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/509/312/",
+    "facts_of_the_case": "<p>A class of involuntarily committed mentally retarded persons brought suit against Kentucky in a Kentucky federal court challenging the constitutionality of the state's involuntary commitment procedures. The district court agreed that the procedures were unconstitutional and prevented the enforcement of the applicable statute. After multiple appeals, the U.S. Court of Appeals for the Sixth Circuit instructed the state to amend its procedures.</p>\n",
+    "conclusion": "<p>No. The Supreme Court held that Kentucky's procedures for involuntarily committing mentally retarded persons did not violate the Equal Protection Clause. With Justice Anthony M. Kennedy writing for the majority, the Court reasoned that because retarded persons are not a suspect classification, Kentucky's statute warranted only rational basis scrutiny \u2013 the Court's lowest level of scrutiny. Consequently, the Court concluded that the state met its burden that its procedures were rationally related to a legitimate government purpose and were constitutional.</p>\n<p>Justice Sandra Day O'Connor wrote separately, concurring in the judgment in part and dissenting in part. She argued, in contrast to the majority, that Kentucky's commitment procedures were irrational. Justice Harold A. Blackmun also dissented. He argued that laws that discriminate against the mentally retarded warrant heightened scrutiny by the Court. Justice David H. Souter, joined by Justices Blackmun and John Paul Stevens, and in part by Justice O'Connor, dissented. He argued that Kentucky's commitment procedures were not supported by any rational justification.</p>\n"
+}

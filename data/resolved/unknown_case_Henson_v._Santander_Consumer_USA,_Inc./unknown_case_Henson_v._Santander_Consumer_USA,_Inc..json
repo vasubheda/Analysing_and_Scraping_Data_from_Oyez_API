@@ -1,0 +1,42 @@
+{
+    "ID": 62809,
+    "name": "Henson v. Santander Consumer USA, Inc.",
+    "href": "https://api.oyez.org/cases/2016/16-349",
+    "view_count": 0,
+    "docket_number": "16-349",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1484287200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53967"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1492491600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54017"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1497243600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54053"
+        }
+    ],
+    "question": "<p>Is a company that regularly attempts to collect debts it purchased after the debts had fallen into default is a \u201cdebt collector\u201d subject to the Fair Debt Collection Practices Act?</p>\n",
+    "citation": {
+        "volume": "582",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27503"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that a party that purchases a debt and attempts to collect the debt for its own account is not a \u201cdebt collector\u201d subject to the Fair Debt Collection Practices Act (FDCPA).",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/582/16-349/",
+    "facts_of_the_case": "<p>The petitioners are a group of individuals who all obtained car loans from CitiFinancial Auto. When they were unable to make payments on the vehicles, CitiFinancial repossessed them, sold them, and then informed the petitioners they owed a balance to cover the difference between the agreed purchase price and the amount of money for which CitiFinancial sold the debt. It later sold the defaulted loans to Santander Consumer, USA (Santander), which attempted to collect these alleged debts. In November 2012, the petitioners filed a putative class action lawsuit that alleged that Santander violated the Fair Debt Collection Practices Act (FDCPA) in its communications with them. Santander moved to dismiss the action and claimed that it was not a \u201cdebt collector\u201d under the regulations of the FDCPA because Santander merely bought the debt from another institution and did not originate it. The district court agreed with Santander and dismissed the case.The U.S. Court of Appeals for the Fourth Circuit affirmed the lower court\u2019s decision and declined to rehear the case en banc. </p>\n",
+    "conclusion": "<p>A party that purchases a debt and attempts to collect the debt for its own account is not a \u201cdebt collector\u201d subject to the Fair Debt Collection Practices Act (FDCPA). Justice Neil Gorsuch delivered the opinion for the unanimous Court, which held that the plain text of the FDCPA defined debt collectors as those who collected debts owed to another and therefore focused on debt collection agents collecting on behalf of a debt owner. A debt owner who was collecting debts for his own profit was not subject to the FDCPA. Although the petitioners tried to argue that the statute\u2019s use of the past tense \u201cowed\u201d covered those who were collecting debts that had been previously owned by someone else, as Santander Consumer USA, Inc. (Santander) did, that reading does not comport with the text of the statute. The Court held that it was clear that Congress intended to use \u201cowed\u201d in the present tense in the relevant part of the statute, because elsewhere Congress clearly distinguished between original and current creditors. Because the meaning of the text was plain and there was no evidence that Congress intended an alternate, broader reading, purchasers of debt who collect for their own accounts are not subject to the FDCPA. </p>\n"
+}

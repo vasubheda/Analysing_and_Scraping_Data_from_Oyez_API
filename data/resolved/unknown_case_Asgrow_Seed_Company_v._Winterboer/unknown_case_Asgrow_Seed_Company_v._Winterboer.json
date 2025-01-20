@@ -1,0 +1,35 @@
+{
+    "ID": 54290,
+    "name": "Asgrow Seed Company v. Winterboer",
+    "href": "https://api.oyez.org/cases/1994/92-2038",
+    "view_count": 0,
+    "docket_number": "92-2038",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                784188000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37409"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                790408800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37410"
+        }
+    ],
+    "question": "<p>Is the quantity of protected seed that a farmer can sell under the exemptions in the Plant Variety Protection Act limited to the amount of seed the seller would need to replant his own fields?</p>\n",
+    "citation": {
+        "volume": "513",
+        "page": "179",
+        "year": "1995",
+        "href": "https://api.oyez.org/case_citation/case_citation/18219"
+    },
+    "term": "1994",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/513/179/",
+    "facts_of_the_case": "<p>Asgrow Seed Company (Asgrow) held two Plant Variety Protection Act (PVPA) certificates protecting different varieties of soybean seed. These PVPA certificates act like patents in order to promote research on new varieties of plants and to protect the owners of seed varieties from unauthorized sales. However, there is an exemption for farmers who sell seed to other farmers whose primary occupation is growing crops for sale. In 1990, Winterboer planted and harvested 265 acres of land with two Asgrow soybean varieties. He then sold enough to plant 10,000 acres to other farmers for use as seed. Asgrow claimed that the PVPA prohibits anyone from selling for seed more than would be needed to replant his own fields - an amount greatly exceeded by Winterboer's sales. Winterboer argued that the exemptions in the statute protect sales of unlimited amounts of seed as long as both seller and buyer grow crops primarily for \"other than reproductive purposes.\" The District Court ruled in favor of Asgrow, but the United States Court of Appeals for the Federal Circuit reversed and denied Asgrow's petition for rehearing.</p>\n",
+    "conclusion": "<p>Yes. In an 8-1 decision authored by Justice Antonin Scalia, the Court held that a farmer may sell for reproductive purposes only such seed as he has saved for the purpose of replanting his own fields. While the statute allows farmers to save seed to replant and then sell that saved seed to other farmers for planting, the statute prohibits growing protected seed as a \"step in marketing\" it as seed for planting. The Court held that because Winterboer's planting and harvesting were conducted solely to market (that is, to sell) Asgrow's protected seed varieties, he forfeited eligibility for the PVPA exemption and infringed on Asgrow's protective certificates.</p>\n"
+}

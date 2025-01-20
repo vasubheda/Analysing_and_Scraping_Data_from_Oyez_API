@@ -1,0 +1,42 @@
+{
+    "ID": 55897,
+    "name": "Hollingsworth v. Perry",
+    "href": "https://api.oyez.org/cases/2012/12-144",
+    "view_count": 0,
+    "docket_number": "12-144",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1354860000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41054"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1364274000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41055"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1372222800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41056"
+        }
+    ],
+    "question": "<p>Do the petitioners have standing under Article III of the Constitution to argue this case?</p>\n<p>Does the Equal Protection Clause of the Fourteenth Amendment prohibit the state of California from defining marriage as the union of one man and one woman?</p>\n",
+    "citation": {
+        "volume": "570",
+        "page": "693",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19819"
+    },
+    "term": "2012",
+    "description": "A case in which the Court found that the proponents of California's same-sex marriage ban (Proposition 8) do not have standing to appeal the decision that made Proposition 8 unconstitutional.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/570/693/",
+    "facts_of_the_case": "<p>In 2000, the citizens of California passed Proposition 22, which affirmed a legal understanding that marriage was a union between one man and one woman. In 2008, the California Supreme Court held that the California Constitution required the term \"marriage\" to include the union of same-sex couples and invalidated Proposition 22. Later in 2008, California citizens passed Proposition 8, which amended the California Constitution to provide that \"only marriage between a man and a woman is valid or recognized by California.\"</p>\n<p>The respondents, a gay couple and a lesbian couple, sued the state officials responsible for the enforcement of California's marriage laws and claimed that Proposition 8 violated their Fourteenth Amendment right to equal protection of the law. When the state officials originally named in the suit informed the district court that they could not defend Proposition 8, the petitioners, official proponents of the measure, intervened to defend it. The district court held that Proposition 8 violated the Constitution, and the U.S. Court of Appeals for the Ninth Circuit affirmed.</p>\n",
+    "conclusion": "<p>No, the petitioners do not have standing. The Court did not reach the question on the merits of the case. Chief Justice John G. Roberts, Jr. delivered the opinion of the 5-4 majority. The Supreme Court held that federal courts only have the authority to decide cases in which there is an \"actual controversy,\" which means that the complaining party must have suffered a \"concrete and particularized injury\" that can be redressed through court action. In this case, because the petitioners had only a generalized grievance in the form of a desire to defend Proposition 8, they did not have standing under Article III. The Court also held that the petitioners could not invoke the standing of the state to appeal because a litigant must assert his/her own rights and cannot claim relief through the intervention of a third party. Because the petitioners did not have standing to appeal to the U.S. Court of Appeals for the Ninth Circuit, that court did not have jurisdiction to reach a decision on the case.</p>\n<p>Justice Anthony M. Kennedy wrote a dissent in which he argued that the Supreme Court should defer to states' rights in defining what parties may have standing. Because California law allows a third party to assert the state's interest when state officials decline to do so, the California Supreme Court's decision regarding the petitioners' standing is binding. He also argued that the majority's decision does not take into account the particularities of California's initiative system and the dynamics that may lead the state to allow proponents of an initiative to stand in for the state. Article III does not interfere with a state's rights to allow such proponents to support an initiative in court. Justice Clarence Thomas, Justice Samuel A. Alito, Jr., and Justice Sonia Sotomayor joined in the dissent.</p>\n"
+}

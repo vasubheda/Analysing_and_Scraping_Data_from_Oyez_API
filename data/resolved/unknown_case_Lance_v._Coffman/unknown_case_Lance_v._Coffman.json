@@ -1,0 +1,35 @@
+{
+    "ID": 55442,
+    "name": "Lance v. Coffman",
+    "href": "https://api.oyez.org/cases/2006/06-641",
+    "view_count": 0,
+    "docket_number": "06-641",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1173074400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39833"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                1162792800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53340"
+        }
+    ],
+    "question": "<p>Does an individual citizen have standing in a personal suit for violation of the Elections Clause of Article I of the U.S. Constitution?</p>\n",
+    "citation": {
+        "volume": "549",
+        "page": "434",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/19365"
+    },
+    "term": "2006",
+    "description": "A case in which the Court determined that an individual citizen with no personal stake in litigation regarding the Election Clause of Article I cannot sue in federal court. ",
+    "justia_url": null,
+    "facts_of_the_case": "<p>After the 2000 census, the U.S. Congress increased Colorado\u2019s representation in the U.S. House of Representatives from six congressmen to seven. The Colorado state legislature failed to redraw the districts before the 2002 elections, so the state courts redrew the districts. In 2003, the Colorado state legislature redrew a different district map, which resulted in Colorado having two conflicting district maps. The Colorado Supreme Court ruled that the Colorado state constitution only allows district maps to be redrawn once per census, and therefore the courts\u2019 2002 redistricting took precedence over the redistricting by the state legislature.</p>\n<p>Keith Lance and three other Colorado citizens sued in federal district court and argued that the Colorado Supreme Court\u2019s decision violated the Election Clause of Article I of the U.S. Constitution, and those individuals\u2019 First and Fourteenth Amendment rights to file for redress of grievances. The district court held that they did not have jurisdiction and dismissed the case. Lance appealed to the U.S. Supreme Court, which held that the district court did have jurisdiction to hear the case. The Supreme Court remanded the case back to the district court of Colorado, which dismissed the case on the grounds of issue preclusion, since Lance was an individual citizen not directly affected by the redistricting ruling. Lance again appealed to the U.S. Supreme Court.</p>\n",
+    "conclusion": "<p>In a per curiam opinion, the unanimous Court held that, because the plaintiff was a citizen filing suit regarding a law and had no personal stake in the claim, he lacked standing to bring the Election Clause claim. The Court remanded the decision with instructions to dismiss the Election Clause claim of the plaintiff\u2019s suit.</p>\n"
+}

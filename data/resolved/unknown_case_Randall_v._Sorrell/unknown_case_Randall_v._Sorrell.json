@@ -1,0 +1,42 @@
+{
+    "ID": 55315,
+    "name": "Randall v. Sorrell",
+    "href": "https://api.oyez.org/cases/2005/04-1528",
+    "view_count": 0,
+    "docket_number": "04-1528",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1127797200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39496"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1141106400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39497"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1151298000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39498"
+        }
+    ],
+    "question": "<p>(1) Do expenditure limits for political candidates violate the First Amendment's guarantee of freedom of speech? (2) Are Vermont's contribution limits of $200-$400 per candidate for individuals, political groups, and political parties unconstitutionally low under the First Amendment?</p>\n",
+    "citation": {
+        "volume": "548",
+        "page": "230",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20597"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/548/230/",
+    "facts_of_the_case": "<p>In 1997 Vermont passed a campaign finance law, Act 64, which imposed strict limits both on expenditures by candidates for office during the election cycle and on the contributions of individuals, political groups, and parties. Neil Randall, a state legislator, sued Vermont Attorney General William Sorrell, arguing that the limits were unconstitutional infringements on First Amendment freedom of speech. In Randall's view, the Supreme Court had declared all expenditure limits unconstitutional in <em>Buckley v. Valeo</em>, and Act 64's contribution limits were unconstitutionally low. Sorrell countered that <em>Buckley</em> was outmoded because that Court had not considered one of Vermont's justifications, namely that expenditure limits prevent candidates from spending too much time trying to raise money. Sorrell also argued that Vermont's interests in combating corruption and ensuring fair elections justified the contribution limits. The District Court struck down the expenditure limits, but upheld most of the contribution limits. Only the limits on contributions by political parties - under which national, state, and local parties together could give only $400 to a statewide candidate - were unconstitutionally low. Both parties appealed the ruling to the Second Circuit Court of Appeals. The Circuit Court reversed, ruling that all of Vermont's contribution limits were constitutional. The Second Circuit also found that the expenditure limits would be constitutional as long as they were \"narrowly tailored\" to the state's interests.</p>\n",
+    "conclusion": "<p>Yes and yes. The Court reversed the Circuit Court and invalidated Vermont's Act 64 by a 6-3 vote. The opinion by Justice Stephen Breyer held that the Court should let stand the <em>Buckley</em> decision and its invalidation of expenditure limits. Vermont's argument that such limits prevent candidates from spending too much time fund-raising was deemed irrelevant because it was \"perfectly obvious\" and would not have changed the result in <em>Buckley</em>. The Court affirmed that some limits on political contributions are constitutional, but perceived \"danger signs\" indicating that Vermont's exceptionally low limits could prevent candidates from campaigning effectively. Applying a 5-part test, the Court held that Vermont's contribution limits were \"disproportionate to the public purposes they were enacted to advance.\" Justice Souter wrote a dissent, joined by Justices Ginsburg and Stevens, in which he argued that the contribution limits should be upheld and the expenditure limits should be referred to the lower courts for a determination of whether they were the \"least restrictive means\" of accomplishing Vermont's goals. Justice Stevens wrote a separate dissent arguing that <em>Buckley</em> should be overruled as it pertains to expenditure limits.</p>\n"
+}

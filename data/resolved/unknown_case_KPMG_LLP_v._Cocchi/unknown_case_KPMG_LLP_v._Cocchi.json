@@ -1,0 +1,35 @@
+{
+    "ID": 55821,
+    "name": "KPMG LLP v. Cocchi",
+    "href": "https://api.oyez.org/cases/2011/10-1521",
+    "view_count": 0,
+    "docket_number": "10-1521",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1320645600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40846"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1320645600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40847"
+        }
+    ],
+    "question": "<p>Does a court have a duty under the Federal Arbitration Act (FAA) to compel arbitration of a complaint where some claims are not arbitrable?</p>\n",
+    "citation": {
+        "volume": "565",
+        "page": null,
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19743"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that, under the Federal Arbitration Act, a court must allow arbitration for those claims that are arbitrable, even if other claims are not.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/565/18/",
+    "facts_of_the_case": "<p>Respondents, 19 individuals and entities, bought limited partnerships, which were invested with Bernard Madoff. After losing millions, Respondents sued Petitioner KPMG LLC, a financial auditor, alleging use of improper accounting standards. KPMG moved to compel arbitration under an audit services agreement between KPMG and Tremont, a fund who managed the limited partnerships. This agreement stated that any claim arising out of KPMG's services, including claims by any person for whose benefit the services were provided, would be resolved in mediation or arbitration. The Florida Circuit Court of the Fifteenth Judicial Circuit, Palm Beach County denied the motion. The Court of Appeal of Florida, 4th Circuit affirmed. The court found that Respondents never expressly consented to the arbitration agreement, so the only claims derived from KPMG's services for the management fund were subject to arbitration. The court concluded that two of the claims were direct and not covered under the arbitration agreement. Because these claims were not arbitrable the court refused to compel arbitration of any part of the complaint.</p>\n",
+    "conclusion": "<p>Yes. In a Per Curiam opinion, the Supreme Court held that where some claims are not arbitrable, a court must compel arbitration for those claims that are, even if this leads to separate proceedings in different forums. The Court of Appeals failed apply the FAA when they did not evaluate Respondents remaining potentially arbitrable claims. The judgment of the Court of Appeals was vacated and the case remanded for further proceedings to determine whether the remaining claims were arbitrable.</p>\n"
+}

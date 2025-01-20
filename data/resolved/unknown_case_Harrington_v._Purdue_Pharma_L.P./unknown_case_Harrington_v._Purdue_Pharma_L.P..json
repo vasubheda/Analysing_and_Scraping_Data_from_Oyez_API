@@ -1,0 +1,42 @@
+{
+    "ID": 63609,
+    "name": "Harrington v. Purdue Pharma L.P.",
+    "href": "https://api.oyez.org/cases/2023/23-124",
+    "view_count": 0,
+    "docket_number": "23-124",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1691643600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55337"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1701669600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55370"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1719464400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55500"
+        }
+    ],
+    "question": "<p>Does the Bankruptcy Code authorize a court to approve, as part of a plan of reorganization under Chapter 11 of the Bankruptcy Code, a release that extinguishes claims held by non-debtors against non-debtor third parties, without the claimants\u2019 consent?</p>\n",
+    "citation": {
+        "volume": "603",
+        "page": null,
+        "year": "2024",
+        "href": "https://api.oyez.org/case_citation/case_citation/27979"
+    },
+    "term": "2023",
+    "description": "A case in which the Court held that the Bankruptcy Code does not authorize a court to approve, as part of a plan of reorganization under Chapter 11 of the Bankruptcy Code, a release that extinguishes claims held by non-debtors against non-debtor third parties, without the claimants\u2019 consent.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/603/23-124/",
+    "facts_of_the_case": "<p>The Sackler family, who purchased Purdue Pharma in the 1950s, heavily influenced the company\u2019s direction and was instrumental in the development and marketing of OxyContin. Despite initial claims of low addiction risk, growing evidence of widespread abuse led to legal battles across the United States, with multiple stakeholders including individuals, state governments, and federal agencies suing Purdue. In 2004, the board of Purdue entered into an expansive Indemnity Agreement to protect its directors and officers from financial liability related to lawsuits. This protection was especially broad, extending even after their official tenure at Purdue, but contained a bad faith carveout. From 2007 onwards, the Sacklers began shielding assets, anticipating litigation against them personally. By 2019, Purdue faced weakened financial prospects, and the Sacklers had stepped down from the board.</p>\n<p>In the same year, the DOJ brought criminal and civil charges against Purdue, resulting in a plea agreement in 2020 that prioritized the DOJ\u2019s claims in Purdue\u2019s bankruptcy proceedings. The plea stipulated a $2 billion forfeiture judgment but allowed for the release of $1.775 billion if certain conditions were met. Although Purdue declared bankruptcy in 2019, the Sacklers did not, and litigation against both parties was temporarily halted. The estate of Purdue is estimated to be around $1.8 billion, while claims against both Purdue and the Sacklers are estimated to exceed $40 trillion.</p>\n<p>The U.S. Bankruptcy Court for the Southern District of New York confirmed a proposed bankruptcy plan on September 17, 2021. This plan included a \u201cshareholder release\u201d that, in effect, permanently enjoined certain third-party claims against the Sacklers. Several parties objected to the plan, but the bankruptcy court rejected their claims. On appeal to the U.S. District Court for the Southern District of New York, the district court overturned the bankruptcy court's confirmation, holding that the Bankruptcy Code does not allow for the forced release of direct claims against non-debtors. The U.S. Court of Appeals for the Second Circuit reversed the district court\u2019s order holding that the Bankruptcy Code does not permit nonconsensual third-party releases of direct claims, and affirmed the bankruptcy court\u2019s approval of the plan.</p>\n",
+    "conclusion": "<p>The Bankruptcy Code does not authorize a release and injunction that, as part of a plan of reorganization under Chapter 11, effectively seek to discharge claims against a nondebtor without the consent of affected claimants. Justice Neil Gorsuch authored the 5-4 majority opinion of the Court.</p>\n<p>Applying the ejusdem generis canon of statutory interpretation to Section 1123(b)(6), which is a catchall provision allowing \"any other appropriate provision\" in a bankruptcy plan, the Court reasoned that this provision should be read in light of the specific provisions that precede it, all of which concern the debtor's rights and responsibilities. Therefore, Section 1123(b)(6) cannot be fairly read to grant the radically different power to discharge debts of non-debtors without affected claimants' consent.</p>\n<p>The broader context of the Bankruptcy Code further supports this conclusion. Discharges are generally reserved for debtors who place their assets in the bankruptcy estate, and even then, certain types of claims (like fraud or willful injury) cannot be discharged. The Sacklers, as non-debtors, seek greater protection than the Code typically allows for actual debtors, without meeting the Code's usual requirements. Congress has only explicitly authorized third-party releases in asbestos-related bankruptcies, suggesting that such releases are not generally permissible in other contexts. Therefore, Section 1123(b)(6) does not authorize the nonconsensual release of claims against the Sacklers, who are non-debtors in Purdue Pharma's bankruptcy case.</p>\n<p>Justice Brett Kavanaugh authored a dissenting opinion, in which Chief Justice John Roberts and Justices Sonia Sotomayor and Elena Kagan joined.</p>\n"
+}

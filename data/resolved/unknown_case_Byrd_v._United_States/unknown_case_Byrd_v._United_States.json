@@ -1,0 +1,42 @@
+{
+    "ID": 62887,
+    "name": "Byrd v. United States",
+    "href": "https://api.oyez.org/cases/2017/16-1371",
+    "view_count": 0,
+    "docket_number": "16-1371",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1506574800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54116"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1515477600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54171"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1526274000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54266"
+        }
+    ],
+    "question": "<p>Does a driver have a reasonable expectation of privacy in a rental car when he has the renter's permission to drive the car but is not listed as an authorized driver on the rental agreement?</p>\n",
+    "citation": {
+        "volume": "584",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27536"
+    },
+    "term": "2017",
+    "description": "A case in which the Court held that a driver of a rental car who has permission to drive the car but is not listed as an authorized driver on the rental agreement has a reasonable expectation of privacy in the rental car.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/584/16-1371/",
+    "facts_of_the_case": "<p>Terrence Byrd was driving on a divided four-lane highway near Harrisburg, Pennsylvania, when he was pulled over allegedly for violating a state law requiring drivers to use the left lane for passing only. Recognizing the car as a rental car, the officers asked Byrd for his license and rental agreement, which he had difficulty locating. Once he did locate them, the officers noted that the rental agreement did not list Byrd as an authorized driver, and when they ran his identification, they noted that he was using an alias and had an outstanding warrant in New Jersey. Despite the warrant\u2019s indication that it did not request extradition from other jurisdictions, the officers attempted to contact authorities in New Jersey to confirm they did not seek Byrd\u2019s arrest and extradition, allegedly following protocol for such situations. The officers experienced difficulty with their communications, however, and returned to Byrd\u2019s car, where they asked him to exit the vehicle and about his warrant and alias.</p>\n<p>The officers asked whether Byrd had anything illegal in the car and then requested Byrd\u2019s consent to search the car, noting that they did not actually need his consent because he was not listed on the rental agreement. The officers allege that Byrd gave his consent, but Byrd disputes this contention. The subsequent search turned up heroin and body armor in the trunk of the car.</p>\n<p>At trial, Byrd moved to suppress the evidence, challenging the initial stop, the extension of the stop, and the search. The district court determined that the violation of the traffic law justified the initial stop and that the extension of the stop was justified by the officers\u2019 developing reasonable suspicion of criminal activity. Byrd maintains that he did not consent to the search, so the issue remains whether he needed to consent at all\u2014that is, whether he had a reasonable expectation of privacy in the rental vehicle, despite not being listed on the rental agreement. If he did not have a reasonable expectation of privacy, then the officers\u2019 search of the vehicle did not require his consent.</p>\n<p>There is a circuit split as to whether an unlisted driver of a rental car has a reasonable expectation of privacy in the rental vehicle, and the Third Circuit (where the district court in this case sits) has held that such a driver does not. Thus, the district court denied Byrd\u2019s motion to suppress, and the Third Circuit, reviewing the factual questions for clear error and the legal question de novo, affirmed the judgment of the district court.</p>\n",
+    "conclusion": "<p>In a unanimous opinion authored by Justice Anthony Kennedy, the Court held that a driver of a rental car who has the renter's permission to drive it but is not listed as an authorized driver on the rental agreement does have a reasonable expectation of privacy against government searches of the vehicle. Although such a driver does not have a property interest in the car, property principles inform the reasoning behind this conclusion. A driver who has the permission of the lawful possessor or owner of the car has complete \"dominion and control\" over the property and can rightfully exclude others from it. The Court analogized to the situation in Jones v. United States, 362 U.S. 257 (1960), where the Court found that the defendant had a reasonable expectation of privacy in the apartment in which he was staying temporarily with the owner's permission, not withstanding the fact that the apartment was not lawfully his. Essential to the Court's holding was the finding that the driver in this case was in lawful possession; indeed, the driver of a stolen vehicle lacks a reasonable expectation of privacy in a car he may be driving.</p>\n<p>Justice Clarence Thomas filed a concurring opinion in which Neil Gorsuch joined, questioning the validity of the \"reasonable expectation of privacy\" test. Justice Samuel Alito filed a separate concurring opinion encouraging\u00a0the Court of Appeals to consider the question\u00a0whether Byrd may assert a Fourth Amendment claim\u00a0or to decide the appeal on another appropriate ground.</p>\n"
+}

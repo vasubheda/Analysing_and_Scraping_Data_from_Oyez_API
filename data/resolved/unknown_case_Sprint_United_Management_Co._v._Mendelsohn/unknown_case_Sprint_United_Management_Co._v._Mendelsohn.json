@@ -1,0 +1,42 @@
+{
+    "ID": 55493,
+    "name": "Sprint/United Management Co. v. Mendelsohn",
+    "href": "https://api.oyez.org/cases/2007/06-1221",
+    "view_count": 0,
+    "docket_number": "06-1221",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1181538000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39974"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1196661600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39975"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1204005600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39976"
+        }
+    ],
+    "question": "<p>In employment discrimination cases, must a court admit \"me, too\" evidence - testimony by other employees who are not parties to the case and who were allegedly discriminated against by persons who had no role in the employment decision being challenged by the plaintiff?</p>\n",
+    "citation": {
+        "volume": "552",
+        "page": "379",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20724"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/552/379/",
+    "facts_of_the_case": "<p>During a company-wide reduction in force, Sprint fired fifty-one-year-old employee Ellen Mendelsohn. Mendelsohn sued, alleging that Sprint had discriminated against her on account of age in violation of the Age Discrimination in Employment Act. At the trial, Mendelsohn attempted to present evidence from other Sprint employees who alleged that they were also discriminated against by the company. This type of testimony by employees who are not parties to the case is sometimes called \"me, too\" testimony. The District Court judge refused to admit the testimony, citing the \"same supervisor\" rule. Since the other employees did not share a supervisor with Mendelsohn, their testimony was not relevant to the alleged discriminatory intent behind the decision to fire her.</p>\n<p>The jury returned a verdict for Sprint, but on appeal the U.S. Court of Appeals for the Tenth Circuit reversed and ordered a new trial. The Tenth Circuit held that the \"same supervisor\" rule applies only to discriminatory disciplinary actions and not to suits alleging a company-wide policy of discrimination. The Tenth Circuit held that the \"me, too\" testimony was relevant because the other employees were similarly situated and fired around the same time, and it held that the testimony was important enough that its exclusion had denied Mendelsohn an opportunity to present her allegation of company-wide discrimination. The ruling conflicted with those of several other Circuit Courts which approved the exclusion of \"me, too\" testimony.</p>\n",
+    "conclusion": "<p>In a unanimous decision authored by Justice Clarence Thomas, the Court vacated the Tenth Circuit's ruling and remanded the case for further proceedings. The Tenth Circuit, according to the Court, acted incorrectly when it engaged in its own assessment of the relevance and prejudicial effect of the witness testimony. Instead, the Court said, because the district court's basis for ruling on the evidence was unclear, the Tenth Circuit should have remanded the case for clarification before finding that a per se rule of exclusion had been applied. The Court sent the case back to the Tenth Circuit and instructed it to follow this procedure.</p>\n"
+}

@@ -1,0 +1,33 @@
+{
+    "ID": 63699,
+    "name": "Hewitt v. United States",
+    "href": "https://api.oyez.org/cases/2024/23-1002",
+    "view_count": 0,
+    "docket_number": "23-1002",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1719896400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55527"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1736748000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55552"
+        }
+    ],
+    "question": "<p>Does the First Step Act\u2019s sentencing reduction provision apply to a defendant whose original sentence was imposed before the Act\u2019s enactment, but was later vacated and resentenced after the Act took effect?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28033"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether the First Step Act\u2019s sentencing reduction provisions apply to a defendant whose original sentence was imposed before the Act\u2019s enactment, then vacated and resentenced to a new term of imprisonment after the Act\u2019s enactment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-1002/"
+}

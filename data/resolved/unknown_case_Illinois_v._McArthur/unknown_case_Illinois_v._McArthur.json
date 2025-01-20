@@ -1,0 +1,35 @@
+{
+    "ID": 54936,
+    "name": "Illinois v. McArthur",
+    "href": "https://api.oyez.org/cases/2000/99-1132",
+    "view_count": 0,
+    "docket_number": "99-1132",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                973058400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38611"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                982648800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38612"
+        }
+    ],
+    "question": "<p>Do officers, with probable cause to believe that a man had hidden marijuana in his home, who subsequently prevent that man from entering the home for about two hours while they obtain a search warrant, violate the Fourth Amendment?</p>\n",
+    "citation": {
+        "volume": "531",
+        "page": "326",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18865"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/531/326/",
+    "facts_of_the_case": "<p>In 1997, Tera McArthur asked two police officers to accompany her to her trailer, where she lived with her husband, Charles McArthur, so that they could keep the peace while she removed her belongings. While at the trailer, Tera alerted the officers, Assistant Chief John Love and Officer Richard Skidis, that her husband had marijuana hidden under the couch. Love then asked Charles for permission to search the trailer. Permission was denied and Love sent Officer Skidis with Tera to get a search warrant. Love told Charles he could not reenter his trailer, unless a police officer accompanied him. Afterwards, Love stood just inside the door to observe Charles when he went into the trailer. About two hours later, a search warrant was obtained. Subsequently, a search of the trailer transpired and officers found drug paraphernalia and marijuana. Charles McArthur was arrested. At trial, McArthur moved to suppress the drug paraphernalia and marijuana on the ground that they were the \"fruit\" of an unlawful police seizure, namely, the refusal to let him reenter the trailer unaccompanied, which would have permitted him, he said, to \"have destroyed the marijuana.\" The trial court granted the motion. The Appellate Court of Illinois affirmed and the Illinois Supreme Court denied the state's petition for leave to appeal.</p>\n",
+    "conclusion": "<p>No. In an 8-1 opinion delivered by Justice Stephen G. Breyer, the Court held that given the nature of the intrusion and the law enforcement interest at stake, the brief seizure of the premises was permissible under the Fourth Amendment. \"We have found no case in which this Court has held unlawful a temporary seizure that was supported by probable cause and was designed to prevent the loss of evidence while the police diligently obtained a warrant in a reasonable period of time,\" wrote Justice Breyer for the Court. Dissenting, Justice John Paul Stevens noted he would have dismissed the writ of certiorari as improvidently granted.</p>\n"
+}

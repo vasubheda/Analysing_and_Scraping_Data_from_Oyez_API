@@ -1,0 +1,35 @@
+{
+    "ID": 55024,
+    "name": "United States v. Vonn",
+    "href": "https://api.oyez.org/cases/2001/00-973",
+    "view_count": 0,
+    "docket_number": "00-973",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1005026400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38775"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1015221600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38776"
+        }
+    ],
+    "question": "<p>Does a criminal defendant who lets a Federal Rule of Criminal Procedure Rule 11 error pass without objection in the trial court bear the burden of showing plain error under Rule 52? May a court reviewing Rule 11 error examine the entire record begun at the defendant's first appearance in the matter leading to his eventual plea when considering the effect of any error on the defendant's substantial rights?</p>\n",
+    "citation": {
+        "volume": "535",
+        "page": "55",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/18953"
+    },
+    "term": "2001",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/535/55/",
+    "facts_of_the_case": "<p>Federal Rule of Criminal Procedure 11 lays out steps that a judge must take to ensure that a guilty plea is knowing and voluntary. Rule 11(h)'s requirement that any variance from those procedures \"which does not affect substantial rights shall be disregarded\" is similar to the general harmless-error rule in Rule 52(a). On February 28, 1997, Alphonso Vonn was charged with federal bank robbery and firearm crimes. That day a Magistrate Judge twice advised him of his constitutional rights. Vonn also signed a statement saying that he had read and understood his rights and he answered yes to the court's questions whether he had understood the court's explanation of his rights and whether he had read and signed the statement. When Vonn later pleaded guilty to robbery, the court advised him of the constitutional rights he was relinquishing, but skipped the advice required by Rule (11)(c)(3) that he would have the right to assistance of counsel at trial. Subsequently, Vonn pleaded guilty to the firearm charge and to a later-charged conspiracy count. Again, the court advised him of the rights he was waiving, but did not mention the right to counsel. Appealing his convictions, Vonn raised Rule 11 for the first time. The Court of Appeals agreed that there had been error and vacated the convictions.</p>\n",
+    "conclusion": "<p>Yes and yes. In an opinion delivered by Justice David H. Souter, the Court held 8-1 that silent defendant has the burden to satisfy the plain-error rule and unanimously that a reviewing court may consult the whole record when considering the effect of any error on substantial rights. The Court reasoned that to hold that Rule 11(h)'s terms imply that the latter half of Rule 52 has no application to Rule 11 errors would amount to finding a partial repeal of Rule 52(b) by implication, a disfavored result that Vonn had not establish enough support for. \"The value of finality requires defense counsel to be on his toes, not just the judge, and the defendant who just sits there when a mistake can be fixed cannot just sit there when he speaks up later on,\" wrote Justice Souter.</p>\n"
+}

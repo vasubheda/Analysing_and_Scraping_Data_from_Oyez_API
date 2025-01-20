@@ -1,0 +1,35 @@
+{
+    "ID": 54690,
+    "name": "Strickler v. Greene",
+    "href": "https://api.oyez.org/cases/1998/98-5864",
+    "view_count": 0,
+    "docket_number": "98-5864",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                920440800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38152"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                929595600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38153"
+        }
+    ],
+    "question": "<p>Did Virginia violate Brady v. Maryland, which provides for the disclosure of all possible exculpatory evidence, when a prosecutor failed to disclose all the exculpatory materials in the police's files? Was there an acceptable reason for Tommy Strickler's failure to raise a Brady claim in state court after such an event? Would the outcome of Strickler's trial been different in presence of the exculpatory evidence?</p>\n",
+    "citation": {
+        "volume": "527",
+        "page": "263",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18619"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/527/263/",
+    "facts_of_the_case": "<p>The Commonwealth of Virginia charged Tommy David Strickler with capital murder and related crimes. Strickler's counsel did not file a pretrial motion for discovery of all possible exculpatory evidence under Brady v. Maryland because an open file policy gave him access to all of the evidence in the prosecutor's files. At Strickler's trial, Anne Stoltzfus gave detailed eyewitness testimony about the crimes and Strickler's role as one of the perpetrators. The prosecutor failed to disclose exculpatory materials in the police files, consisting of notes taken by a detective during interviews with Stoltzfus, and letters written by Stoltzfus to the detective, that cast serious doubt on significant portions of her testimony. The jury found Strickler guilty and he was sentenced to death. The Virginia Supreme Court affirmed. In subsequent state habeas corpus proceedings, Strickler advanced an ineffective assistance of counsel claim based on trial counsel's failure to file a motion for disclosure of all exculpatory evidence known to the prosecution or in its possession under Brady. In response, the Commonwealth asserted that such a motion was unnecessary because of the prosecutor's open file policy. The trial court denied relief and the Virginia Supreme Court affirmed. Strickler then filed a federal habeas corpus petition and was granted access to the exculpatory Stoltzfus materials. The District Court vacated Strickler's capital murder conviction and death sentence on the grounds that the Commonwealth had failed to disclose those materials and that he had not, in consequence, received a fair trial. In reversing, the Court of Appeals held that Strickler had procedurally defaulted his Brady claim by not raising it at his trial or in the state collateral proceedings. Ultimately, the court concluded that the claim was, in any event, without merit.</p>\n",
+    "conclusion": "<p>No, yes, and no. In an opinion delivered by Justice John Paul Stevens, the Court held that although Strickler demonstrated cause for his failure to raise a Brady claim, Virginia did not violate Brady by failing to disclose exculpatory evidence to him. Further, the Court held that Strickler received a fair trial in the absence of the exculpatory evidence and did not show a \"reasonable probability that his conviction or sentence would have been different had these materials been disclosed,\" wrote Justice Stevens for the Court.</p>\n"
+}

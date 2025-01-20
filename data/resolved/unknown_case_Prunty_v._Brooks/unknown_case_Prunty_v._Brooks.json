@@ -1,0 +1,28 @@
+{
+    "ID": 54783,
+    "name": "Prunty v. Brooks",
+    "href": "https://api.oyez.org/cases/1999/99-5316",
+    "view_count": 0,
+    "docket_number": "99-5316",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                939704400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38319"
+        }
+    ],
+    "question": "<p>May pro se petitioner Robert E. Prunty be granted leave to proceed in forma pauperis under Supreme Court Rule 39?</p>\n",
+    "citation": {
+        "volume": "528",
+        "page": "9",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18712"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>Pro se petitioner Robert E. Prunty sought leave to proceed in forma pauperis in the U.S. Supreme Court under Rule 39 with respect to a petition for certiorari. In April 1999, the Court had invoked Rule 39.8 to deny Prunty in forma pauperis status with respect to a petition for certiorari. Before the 39.8 denial, Prunty had filed eight petitions for certiorari, all of which were deemed frivolous by the Court and denied without recorded dissent.</p>\n",
+    "conclusion": "<p>No. In an 8-1 per curiam opinion, the Court denied Prunty's request as frivolous pursuant to Rule 39.8. Noting that Prunty had abused the Court's certiorari process, the Court directed the Clerk not to accept any further petitions for certiorari from Prunty in noncriminal matters unless he first pays the docketing fee required by Rule 38 and submits his petitions in compliance with Rule 33.1. \"The order,\" the opinion concluded, \"will not prevent Prunty from petitioning to challenge criminal sanctions which might be imposed on him. The order will, however, allow this Court to devote its limited resources to the claims of petitioners who have not abused our processes.\" Justice John Paul Stevens dissented.</p>\n"
+}

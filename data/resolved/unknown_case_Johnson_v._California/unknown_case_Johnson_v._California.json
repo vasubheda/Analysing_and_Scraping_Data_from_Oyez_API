@@ -1,0 +1,42 @@
+{
+    "ID": 55255,
+    "name": "Johnson v. California",
+    "href": "https://api.oyez.org/cases/2004/04-6964",
+    "view_count": 0,
+    "docket_number": "04-6964",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1105077600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39327"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1113800400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39328"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1118638800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39329"
+        }
+    ],
+    "question": "<p>In order to establish a <em>prima facie</em> case under <em>Batson v. Kentucky</em>, 476 U.S. 79 (1986), must the objector show that it is more likely than not that the other party's peremptory challenges were based on impermissible group bias?</p>\n",
+    "citation": {
+        "volume": "545",
+        "page": "",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/20560"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>NonJay Shawn Johnson, on trial in California for murder, objected to the district attorney's use of peremptory challenges to eliminate all three black prospective jurors. Johnson argued the eliminations were based on race. The judge denied Johnson's motions and held that Johnson had failed to show a \"strong likelihood\" that the dismissals were race-based. The judge relied on People v. Wheeler, the 1978 case in which the California Supreme Court ruled that to establish a prima facie case of racial bias in peremptory challenges, the objector had to show \"strong likelihood\" that the challenges were race-based. The jury found Johnson guilty of second-degree murder.</p>\n<p>Johnson appealed and argued that the \"strong likelihood\" standard in Wheeler was at odds with the 'reasonable inference\" standard the U.S. Supreme Court set in Batson v. Kentucky (1986). The appeals court agreed and reversed Johnson's conviction. The California Supreme Court reversed and ruled that the two standards were the same. The U.S. Supreme Court at first dismissed Johnson's appeal because the case was not finalized (see <em>Johnson v. California</em> 2004, No. 03-6539). After another round of appeals, however, the Court agreed to decide the case.</p>\n",
+    "conclusion": "<p>No. In an 8-1 decision, the Court reversed the California Supreme Court and ruled that California's standard for objections to peremptory challenges was incompatible with the standard set forth in <em>Batson</em>. The opinion by Justice John Paul Stevens explained that the Court had not intended that the objector would have to prove that a peremptory challenge was \"more likely than not the product of purposeful discrimination.\" The Court ruled that in the first step of the <em>Batson</em> procedure, the objector only needs to \"produc[e] evidence sufficient to permit the trial judge to draw an inference that discrimination has occurred.\" The objector ultimately has to prove that the peremptory challenge was motivated by purposeful racial discrimination, but not until the third step of the <em>Batson</em> procedure, after the State has offered \"permissible race-neutral justifications\" for the challenges. Justice Clarence Thomas dissented, arguing that California's standard was within the procedural leeway provided to States by <em>Batson</em>.</p>\n"
+}

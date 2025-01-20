@@ -1,0 +1,42 @@
+{
+    "ID": 63219,
+    "name": "Ford Motor Company v. Montana Eighth Judicial District Court",
+    "href": "https://api.oyez.org/cases/2020/19-368",
+    "view_count": 0,
+    "docket_number": "19-368",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1579240800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54649"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1602046800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54763"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1616648400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54865"
+        }
+    ],
+    "question": "<p>May a state court, consistent with the Due Process Clause, exercise personal jurisdiction over a nonresident defendant when none of the defendant\u2019s contacts with that state caused the plaintiff\u2019s claims?</p>\n",
+    "citation": {
+        "volume": "592",
+        "page": null,
+        "year": "2021",
+        "href": "https://api.oyez.org/case_citation/case_citation/27737"
+    },
+    "term": "2020",
+    "description": "A case in which the Court held that the connection between plaintiffs\u2019 product-liability claims arising from car accidents occurring in each plaintiff\u2019s state of residence and Ford\u2019s activities in those states is sufficient to support specific jurisdiction in the respective state courts, even though the automobiles involved in the accidents were manufactured and sold elsewhere.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/592/19-368/",
+    "facts_of_the_case": "<p>In 2015, Markkaya Jean Gullett, a Montana resident, was driving a Ford Explorer on a Montana highway when the tread on one of her tires separated. She lost control of the vehicle and died as a result of the vehicle rolling into a ditch.</p>\n<p>The personal representative of Gullett\u2019s estate sued Ford Motor Co. in Montana state court, alleging design-defect, failure-to-warn, and negligence claims. Ford moved to dismiss the claims for lack of personal jurisdiction.</p>\n<p>For a state court to have personal jurisdiction over a defendant, the Due Process Clause requires that the court have either general personal jurisdiction or specific personal jurisdiction. A court has general personal jurisdiction over a corporate defendant if the defendant\u2019s headquarters are within the state or if it is incorporated in the state. A court has specific personal jurisdiction over a corporate defendant if the plaintiff\u2019s claims \u201carise out of or relate to\u201d the defendant\u2019s activities within the state.</p>\n<p>Ford Motor Co. has its headquarters in Michigan and is incorporated in Delaware. Ford assembled the vehicle in Kentucky and first sold it to a dealership in Washington State. The dealership then sold it to an Oregon resident, who later sold the vehicle to a purchaser who brought it to Montana.</p>\n<p>The district court denied Ford\u2019s motion to dismiss, finding a \u201cconnection between the forum and the specific claims at issue.\u201d The Montana Supreme Court affirmed, reasoning that by advertising and selling parts within the state of Montana, Ford had availed itself of the privilege of doing business in that state and was therefore subject to specific jurisdiction there.</p>\n<p>This case is consolidated with <em>Ford Motor Company v. Bandemer</em>, No. 19-369, which arises in Minnesota but presents the same legal question.</p>\n",
+    "conclusion": "<p>The state courts in this case properly exercise personal jurisdiction over the defendant because of the connection between plaintiffs\u2019 product-liability claims arising from car accidents occurring in each plaintiff\u2019s state of residence and Ford\u2019s activities in those states. Justice Elena Kagan authored the majority opinion.</p>\n<p>The Due Process Clause of the Fourteenth Amendment limits a state court\u2019s power to exercise personal jurisdiction over a defendant. Such exercise requires that the defendant have sufficient contacts with the forum state that the maintenance of a suit there is reasonable. Despite Ford\u2019s argument to the contrary, this requirement establishes no \u201ccausation\u201d requirement. That is, for jurisdiction to attach, it is not necessary that the defendant\u2019s forum conduct gave rise to the plaintiff\u2019s claims. Rather, the Court\u2019s precedents require only that the suit \u201carise out of or relate to the defendant\u2019s contacts with the forum.\u201d Ford\u2019s substantial presence in the states (advertising, selling, and servicing those two car models, even if not the two specific vehicles involved in this case) establishes minimum contacts, and it does not matter that those contacts did not cause the plaintiffs\u2019 injuries.</p>\n<p>Justice Amy Coney Barrett took no part in the consideration or decision of the case.</p>\n<p>Justice Samuel Alito authored an opinion concurring in the judgment, arguing that the Court need not focus on the words \u201crelate to\u201d as an independent basis for specific jurisdiction, and that doing so \u201crisks needless complications.\u201d</p>\n<p>Justice Neil Gorsuch authored an opinion concurring in the judgment, in which Justice Clarence Thomas joined. Justice Gorsuch argued against the majority\u2019s focus on the phrase \u201crelate to\u201d and elaborated on the \u201cneedless complications\u201d referenced by Justice Alito in his concurrence.</p>\n"
+}

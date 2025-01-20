@@ -1,0 +1,35 @@
+{
+    "ID": 54773,
+    "name": "Cortez Byrd Chips, Inc. v. Harbert Construction Company",
+    "href": "https://api.oyez.org/cases/1999/98-1960",
+    "view_count": 0,
+    "docket_number": "98-1960",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                947484000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38301"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                953618400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38302"
+        }
+    ],
+    "question": "<p>Do the venue provisions of the Federal Arbitration Act limit motions to confirm, vacate, or modify an arbitration award to the district where the award was made?</p>\n",
+    "citation": {
+        "volume": "529",
+        "page": "193",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18702"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/529/193/",
+    "facts_of_the_case": "<p>In 1995, Cortez Byrd Chips hired Bill Harbert Construction to install a chip mill in Mississippi. Byrd and Harbert agreed that any ensuing disputes would be decided by arbitration. After the installation, Harbert demanded an upward adjustment on the bill. Byrd refused, claiming that Harbert had not submitted a written statement requesting additional compensation as required under their contract. Harbert called in the American Arbitration Association. Arbitration was conducted in Alabama and Harbert received an award. In response, Byrd sought to vacate or modify the award in a Federal District Court of Mississippi, where the contract was performed. Harbert then sought to confirm the award in Alabama. The latter court refused to dismiss, transfer, or stay its action, concluding that venue was proper only there because \"[t]he place of arbitration determines the jurisdiction of the court,\" and it entered judgment for Harbert. Byrd appealed, claiming that the Federal Arbitration Act (FAA) provided that the case should be deferred to Mississippi because the suit had been filed there first. In affirming, the Court of Appeals held that, under the FAA, venue for motions to confirm, vacate, or modify awards was exclusively in the district where the arbitration award was made, and thus venue was limited to the Alabama court.</p>\n",
+    "conclusion": "<p>No. In an unanimous opinion, delivered by Justice David H. Souter, the Court held that the \"FAA's venue provisions are permissive, allowing a motion to confirm, vacate, or modify to be brought either in the district where the award was made or in any district proper under the general venue statute.\" Writing for the Court, Justice Souter reasoned that because both the history and function of the FAA's venue provisions dictate that they were meant to expand, not limit, venue choice, it was appropriate for Cortez Byrd to seek to vacate the arbitrator's award in federal court in Mississippi.</p>\n"
+}

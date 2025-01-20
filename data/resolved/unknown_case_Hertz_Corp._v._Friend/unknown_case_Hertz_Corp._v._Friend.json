@@ -1,0 +1,42 @@
+{
+    "ID": 55716,
+    "name": "Hertz Corp. v. Friend",
+    "href": "https://api.oyez.org/cases/2009/08-1107",
+    "view_count": 0,
+    "docket_number": "08-1107",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1244437200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40575"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1257832800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40576"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1266904800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40577"
+        }
+    ],
+    "question": "<p>1) Does the Supreme Court retain jurisdiction over this case even though the court of appeals failed to render a decision within the 60 days required by 28 U.S.C. \u00a7 1453(c)?</p>\n<p>2) For the purposes of determining a corporation's principal place of business, can a court disregard the location of the corporation's headquarters?</p>\n",
+    "citation": {
+        "volume": "559",
+        "page": "77",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19638"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that the court system cannot disregard the location of a corporation's principal place of business in a multi-state lawsuit.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/559/77/",
+    "facts_of_the_case": "<p>Plaintiffs brought a class action suit against Hertz in a California state court. Hertz moved to remove the case to a California federal district court based on diversity jurisdiction. The plaintiffs argued that there was no diversity jurisdiction as Hertz's principal place of business was California and not New Jersey. The federal district court agreed and remanded the case to the state court.</p>\n<p>On appeal, the U.S. Court of Appeals for the Ninth Circuit affirmed the federal district court. It held that the district court correctly applied the \"place of operations test\" to determine Hertz's principal place of business. Therefore, there was no diversity jurisdiction and the district court had no authority over the case.</p>\n",
+    "conclusion": "<p>Yes. No. The Supreme Court held that it retained jurisdiction over the case. With Justice Stephen G. Breyer writing for a unanimous Court, it reasoned that 28 U.S.C. \u00a7 1453(c) simply requires a court of appeals to reach a decision within a specified time and does not deprive the Supreme Court of jurisdiction when a court of appeals fails to reach a decision within the prescribed amount of time. Here, 28 U.S.C. \u00a7 1254 still gives the Supreme Court jurisdiction over any case it grants certiorari while that case is in the court of appeals.</p>\n<p>The Supreme Court also held that the term \"principal place of business\" refers to the place where a corporation's high level officers direct, control, and coordinate the corporation's activities -- in other words its \"nerve center.\" The Court stated that in practice, the nerve center is normally the corporation's headquarters -- provided that the headquarters is the actual center of direction, control, and coordination. The Court remanded the case to the district court in order to determine whether Hertz's headquarters in New Jersey was its nerve center.</p>\n"
+}

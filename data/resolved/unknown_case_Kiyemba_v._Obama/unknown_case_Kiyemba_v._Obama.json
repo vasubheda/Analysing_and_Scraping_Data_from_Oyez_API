@@ -1,0 +1,35 @@
+{
+    "ID": 55692,
+    "name": "Kiyemba v. Obama",
+    "href": "https://api.oyez.org/cases/2009/08-1234",
+    "view_count": 0,
+    "docket_number": "08-1234",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1256014800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40511"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1267423200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40512"
+        }
+    ],
+    "question": "<p>Does a federal district court exercising its habeas corpus jurisdiction have the power to order the release of prisoners held under Executive Order at Guantanamo Bay, Cuba into the United States?</p>\n",
+    "citation": {
+        "volume": "559",
+        "page": "131",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19614"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that a federal court had the power to order the release of prisoners held under executive order, since almost all of the detainees in question had been offered resettlement in another country.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/559/131/",
+    "facts_of_the_case": "<p>Seventeen ethnic Uighurs, Chinese citizens detained at Guantanamo Bay Naval- Base, Cuba sought federal habeas corpus relief in the District of Columbia federal district court. The petitioners argued that since they were no longer considered \"enemy combatants\" they were entitled to transfer and release from Guantanamo Bay. The petitioners feared that a transfer to China would lead to their arrest, torture, or execution. Therefore, they sought a transfer to the United States where they could be released safely. The district court granted the petition and ordered their transfer and release into the United States.</p>\n<p>On appeal, the U.S. Court of Appeals for the D.C. Circuit reversed the district court, holding that the district court lacked authority to order the petitioners' transfer and release into the United States. The court reasoned that only the political branches of government may determine the admissibility of aliens into the United States. Without specific authorization by statute, treaty, or the Constitution, the district court could not grant the relief sought by the petitioners.</p>\n",
+    "conclusion": "<p>Not answered. In a per curiam opinion, the Supreme Court stated that most of the detainees at issue in the case had been offered resettlement in another country -- most of whom had accepted. The Court explained that this change in the underlying facts of the case may affect the legal issues presented. As the Supreme Court is not a court of first view, but rather a court of review, it remanded the case to the U.S. Court of Appeals for the D.C. Circuit to determine what further proceedings in that court or the district court are necessary for the timely disposition of the case.</p>\n"
+}

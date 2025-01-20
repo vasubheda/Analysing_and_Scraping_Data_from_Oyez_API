@@ -1,0 +1,35 @@
+{
+    "ID": 55112,
+    "name": "Citizens Bank v. Alafabco, Inc.",
+    "href": "https://api.oyez.org/cases/2002/02-1295",
+    "view_count": 0,
+    "docket_number": "02-1295",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1054530000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38941"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                1054530000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53474"
+        }
+    ],
+    "question": "<p>Is a debt-restructuring agreement between two parties a transaction that substantially involves interstate commerce so that the Federal Arbitration Act may apply?</p>\n",
+    "citation": {
+        "volume": "539",
+        "page": "52",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/19041"
+    },
+    "term": "2002",
+    "description": "A case in which the Court held that the parties\u2019 debt-restructuring agreement affected interstate commerce, and therefore their arbitration clause was enforceable under the Federal Arbitration Act. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/539/52/",
+    "facts_of_the_case": "<p>Citizens Bank (Citizens) and Alafabco Inc. (Alafabco) had multiple business dealings with each other spanning over a decade. In 1998, Alafabco bid on a construction job based on a contract it had with Citizens to finance the project. When Citizens did not finance the project, Alafabco used existing funds meant to repay the debts it owed to Citizens to fund the project and subsequently defaulted on its loan payments to Citizens. Citizens and Alafabco composed two different debt-restructuring agreements, both of which included arbitration clauses that stated that the Federal Arbitration Act (FAA) would apply. Alafabco sued Citizens in Alabama state court for breach of contract and claimed that it had incurred detrimental debt because of Citizens\u2019 breach. Citizens invoked the arbitration clause, and the state court ordered the parties to submit to arbitration pursuant to their agreement. The Supreme Court of Alabama reversed and held that, because the debt-restructuring agreements did not substantially involve interstate commerce, the FAA did not apply to the parties\u2019 disputes.</p>\n",
+    "conclusion": "<p>In a per curiam opinion, the unanimous Court held that the \u201cinvolving commerce\u201d language is the functional equivalent of the \u201caffecting commerce\u201d language that governs the federal government\u2019s Commerce Clause power, but the FAA has even wider authority. Because debt-restructuring transactions would be determined to \u201caffect commerce\u201d under the Supreme Court\u2019s Commerce Clause analysis, they clearly are within the wider range of permissible FAA regulation. The Court held that the lower court applied an overly narrow reading of the Court\u2019s Commerce Clause jurisprudence. The debt in this case affected interstate commerce, and therefore the FAA applied.</p>\n"
+}

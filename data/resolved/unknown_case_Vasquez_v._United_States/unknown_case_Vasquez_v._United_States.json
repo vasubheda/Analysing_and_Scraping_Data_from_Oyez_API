@@ -1,0 +1,42 @@
+{
+    "ID": 55817,
+    "name": "Vasquez v. United States",
+    "href": "https://api.oyez.org/cases/2011/11-199",
+    "view_count": 0,
+    "docket_number": "11-199",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1322460000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40834"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1332306000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40835"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1333342800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40836"
+        }
+    ],
+    "question": "<p>Did the court apply the correct test in determining that the introduction of conversations between Marina Perez and her husband into evidence was a harmless error? If so, did this error violate Vasquez's Sixth Amendment right to a trial by jury?</p>\n",
+    "citation": {
+        "volume": "566",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19739"
+    },
+    "term": "2011",
+    "description": "A case which the Court dismissed regarding whether or not the Seventh Circuit violated Supreme Court precedent on harmless error by focusing its analysis solely on the weight of untainted evidence, without considering any potential effects of the error.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/566/376/",
+    "facts_of_the_case": "<p>On August 5, 2008, Joel Perez and Carlos Cruz drove to a Shell station in Arlington Heights, Illinois, with Cruz at the wheel. They met with Alejandro Diaz, who was working with Drug Enforcement Agency (\"DEA\") officials. Diaz instructed them to meet him at a different location to complete the deal. Instead, Perez walked to a nearby Denny's, where Alexander Vasquez waited for him in the driver's seat of a black Pontiac Bonneville. Perez got into the passenger seat of the Bonneville and called Cruz, telling him that he was not willing to follow Diaz. Cruz walked to the Denny's where he was introduced to Vasquez. Diaz called Cruz to ask why they were not following him. Cruz informed him that they wanted to complete the deal in the Denny's parking lot, telling him, \"We got the money here.\" Vasquez echoed this statement.</p>\n<p>Diaz contacted his DEA handler, Agent James Chupik. Law enforcement agents surrounded the parking lot in their vehicles; several officers approached the Bonneville to arrest Vasquez, Cruz, and Perez. Cruz, outside the car, raised his hands in surrender. Vasquez, however, immediately put the Bonneville into reverse, striking two squad cars. He then shifted gears and headed for an agent. Agent Chupik stepped in front of the Bonneville and commanded Vasquez to stop, but was forced to dive out of the way. The Bonneville headed west on the eastbound lanes of Algonquin Road.</p>\n<p>Several minutes later, police found the Bonneville abandoned in a Walmart parking lot. A bystander told the police that he saw two men run from the vehicle into a McDonald's. Vasquez and Perez ran into the McDonald's, through its kitchen, then split up. Arlington Heights police officers quickly apprehended them, however. They found a cell phone on Vasquez and several cell phones on the ground near Perez; records indicated several calls between Vasquez's cell phone and both phones apparently belonging to Perez. Police impounded the Bonneville, and later found $23,000 in cash hidden in a secret compartment.</p>\n<p>A federal grand jury indicted Vasquez with conspiracy to possess with intent to distribute more than 500 grams of cocaine and with attempting to possess with intent to distribute more than 500 grams of cocaine. At trial, Agent Chupik testified that he instructed Diaz to have Cruz and his \"customers\" meet Diaz at a gas station in Arlington Heights. In a transcript of the call between Cruz and Diaz, however, Cruz only referred to a single customer. Vasquez's counsel attempted to impeach Agent Chupik on this point, but the judge found the difference to be trivial, limiting Vasquez's right to cross-examination and to refresh Agent Chupik's memory with the transcript. The government introduced Vasquez's previous drug conviction into evidence to demonstrate Vasquez's intent; he was convicted for dealing drugs with Perez in 2002.</p>\n<p>Vasquez called Perez's wife Marina as a witness to testify. Marina Perez testified that she called Vasquez before the events in question to ask him to pick up Joel Perez at the site of the failed drug deal, implying that Vasquez was there by coincidence. In response, the government introduced transcripts and audio recordings of conversations between Marina Perez and her husband as evidence of bias. These indicated that Marina Perez spoke to her husband about a possible plea deal; Marina Perez also mentioned that Vasquez's attorney had told her that, \"everybody is going to lose.\" The trial judge allowed these transcripts and recordings to be admitted to show Marina Perez's bias and for the truth of their contents.</p>\n<p>The jury found Vasquez guilty on the charge of conspiracy but not guilty on the charge of attempting to possess cocaine.</p>\n<p>The U.S. Court of Appeals, Seventh Circuit, held that Vasquez's previous drug conviction was properly introduced into evidence. The court rejected Vasquez's claim that the police's search of the Bonneville violated his Fourth Amendment rights, noting that Vasquez abandoned the car, and that the police had probable cause to believe that the money for the drug transaction was in the Bonneville. The court also rejected Vasquez's claim that the trial court violated his Sixth Amendment right to elicit testimony through the cross-examination of Agent Chupik. The trial court found the distinction between \"customers\" and \"customer\" to be trivial, and the court held this finding to be within the trial court's discretion.</p>\n<p>In a split decision, the court turned to the testimony of Marina Perez, holding that the evidence of conversations between Marina Perez and Vasquez's counsel were properly admitted to show bias and inconsistency with prior statements. While noting that the judge improperly instructed the jury that the recordings could be considered as evidence of the truthfulness of their contents, it held this instruction to be a harmless error. It pointed to other overwhelming evidence of Vasquez's guilt, including his attempt to escape capture and his previous conviction for drug dealing. It held that the jury would have convicted Vasquez absent the introduction of the transcripts and recordings in question.</p>\n<p>Judge David Hamilton dissented on this point alone, describing the recordings as prejudicial and inadmissible. He reminded the majority that the error is only harmless if the court is convinced Vasquez would have been convicted absent the error. He used a different test than the majority, looking to whether or not the error contributed to the conviction. He noted that Vasquez was never directly recorded or mentioned by name in any of the recordings, and that government agents were not aware of his involvement until his arrest. Judge Hamilton argued that Marina Perez' testimony about Vasquez was thus plausible evidence of innocence without the recordings on record.</p>\n",
+    "conclusion": "<p>Unanswered. After argument, the Court dismissed the case as improvidently granted.</p>\n"
+}

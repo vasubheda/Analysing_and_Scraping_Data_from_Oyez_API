@@ -1,0 +1,35 @@
+{
+    "ID": 54708,
+    "name": "Kolstad v. American Dental Association",
+    "href": "https://api.oyez.org/cases/1998/98-208",
+    "view_count": 0,
+    "docket_number": "98-208",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                920268000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38182"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                930027600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38183"
+        }
+    ],
+    "question": "<p>Does an employer's conduct have to be \"egregious\" or \"outrageous,\" independent of its state of mind, in order to sustain an award of punitive damages under Title VII of the 1964 Civil Rights Act?</p>\n",
+    "citation": {
+        "volume": "527",
+        "page": "526",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18637"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/527/526/",
+    "facts_of_the_case": "<p>Carole Kolstad sued the American Dental Association (ADA) for gender discrimination, under Title VII of the 1964 Civil Rights Act, when it promoted a man instead of her. At trial, the District Court denied Kolstad's request for punitive damages based on a showing that the ADA acted with \"malice\" and \"reckless indifference\" to her federally protected rights. When the Court of Appeals affirmed this decision, Kolstad appealed and the Supreme Court granted he certiorari.</p>\n",
+    "conclusion": "<p>No. In a complicated split opinion, the Court held that if an employee can show their employer knowingly acted in violation of federal law then punitive damages may be sustained. The Court explained that the \"malice\" or \"reckless indifference\" standard applied to the relationship between employers and federal law, and is not a characterization of the severity threshold that the discrimination itself must meet. In other words, if an employer maliciously or recklessly violates a federal anti-discrimination law, regardless of the severity of their discriminatory acts, them punitive damages may be imposed. The Court remanded Kolstad's case for renewed consideration of her employer's state of mind during the alleged violations.</p>\n"
+}

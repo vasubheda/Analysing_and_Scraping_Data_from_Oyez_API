@@ -1,0 +1,42 @@
+{
+    "ID": 62830,
+    "name": "Jesner v. Arab Bank, PLC",
+    "href": "https://api.oyez.org/cases/2017/16-499",
+    "view_count": 0,
+    "docket_number": "16-499",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1491195600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54010"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1507698000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54105"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1524546000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54256"
+        }
+    ],
+    "question": "<p>Does the Alien Tort Statute prohibit corporate liability?</p>\n",
+    "citation": {
+        "volume": "584",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27514"
+    },
+    "term": "2017",
+    "description": "A case in which the Court held that the Alien Tort Statute does not permit lawsuits against corporations.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/584/16-499/",
+    "facts_of_the_case": "<p>Several alien individuals were injured, kidnapped, or killed by terrorists in attacks against Israeli citizens overseas. The surviving aliens and the families of those who perished in the attacks accused Arab Bank, PLC (Arab Bank), a bank corporation headquartered in Jordan, of financing and facilitating various terrorist organizations involved in the attacks. The survivors sued Arab Bank in New York federal court under the Alien Tort Statute (ATS), which provides for federal district court jurisdiction over civil actions brought by aliens. Arab Bank moved to dismiss the ATS claims under the U.S. Court of Appeals for the Second Circuit\u2019s decision in Kiobel v. Royal Dutch Petroleum Co. In that case, the appellate court held that the ATS does not authorize claims against foreign corporations. The district court acknowledged that, because the U.S. Supreme Court affirmed Kiobel on other grounds and had not addressed the question of corporate liability, the court of appeals\u2019 holding was still controlling precedent and therefore dismissed the ATS claims. On appeal, the appellate court noted that the Supreme Court\u2019s decision did cast some doubt on the corporate liability holding in Kiobel. However, because the Supreme Court had not addressed the question of corporate liability, the appellate court \u00a0affirmed the lower court\u2019s dismissal.</p>\n",
+    "conclusion": "<p>The Alien Tort Statute (ATS) does not permit lawsuits against corporations. Justice Anthony Kennedy authored the opinion for the 5-4 majority. The Court found that the original purpose of the ATS was to ensure that federal courts of the United States were available venues for foreign nationals alleging violations of international law and thereby to assuage potential foreign-relations issues. The Court reasoned that in this case, to allow the lawsuit to proceed would have the opposite policy effect, straining diplomatic relations with Jordan. If Congress wants to allow for lawsuits against foreign corporations in these types of circumstances, Congress should explicitly do so.</p>\n<p>Justice Neil Gorsuch wrote a concurrence in which he concluded that there are two additional reasons the lawsuit should be dismissed\u2014that the ATS is a jurisdictional statute that does not create a new cause of action and that federal courts should require a domestic defendant before hearing a lawsuit under the ATS.</p>\n<p>Justice Sonia Sotomayor wrote a dissenting opinion in which Justices Ruth Bader Ginsburg, Stephen Breyer, and Elena Kagan joined. Justice Sotomayor wrote that the text, history, and purpose of the ATS support the conclusion that corporations may be sued under the law and that the Court's decision absolves corporations of responsibility for egregious human rights abuses.</p>\n"
+}

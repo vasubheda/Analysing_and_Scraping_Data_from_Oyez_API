@@ -1,0 +1,35 @@
+{
+    "ID": 55573,
+    "name": "CSX Transportation, Inc. v. Hensley",
+    "href": "https://api.oyez.org/cases/2008/08-1034",
+    "view_count": 0,
+    "docket_number": "08-1034",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1243832400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40196"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1243832400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40197"
+        }
+    ],
+    "question": "<p>Did the Tennessee Court of Appeals misread and misapply the Supreme Court's decision in <em>Ayers</em> such that a jury instruction should have been provided as to the standard for finding \"fear of cancer\" damages when CSX requested it?</p>\n",
+    "citation": {
+        "volume": "556",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20829"
+    },
+    "term": "2008",
+    "description": "A case in which the Court held that a court must provide jury instruction as to the standard for finding \"fear of cancer\" damages when requested by the defendant.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>Thurston Hensley sued his longtime employer CSX Transportation Inc. (CSX) under the Federal Employers' Liability Act (FELA)in a Tennessee state court alleging that the railroad had negligently caused him to contract asbestosis. He sought pain and suffering damages for, among other things, his fear of developing lung cancer. Despite the objections of CSX, the trial court refused to provide a jury instruction as to the standard for awarding \"fear of cancer\" damages. Subsequently, the jury awarded Mr. Hensley $5 million in damages. On appeal to the Tennessee Court of Appeals, CSX argued that the trial court misapplied the Supreme Court's decision in <em>Norfolk &amp; Western R. Co. v. Ayers</em> where the Court established a standard for finding \"fear of cancer\" damages. The court of appeals rejected the argument and affirmed the trial court. In its petition for certiorari to the Supreme Court, CSX argued that the Tennessee Court of Appeals misapplied the Court's decision in <em>Ayers</em> and that the jury should have been instructed that Mr. Hensley needed to prove that his fear of cancer was \"genuine and serious\" in order to collect damages.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion the Court reversed the Tennessee Court of Appeals, holding that a court must provide the standard for finding \"fear of cancer\" damages when requested by the defendant. The Court remanded Mr. Hensley's case to the Tennessee state courts for proceedings consistent with its opinion.</p>\n<p>Justice John Paul Stevens dissented. He argued that based on his reading of <em>Ayers</em>, the Court improperly attempted to play the role of error corrector, when that decision explicated that the jury should be provided discretion when making damages calculations.</p>\n"
+}

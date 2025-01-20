@@ -1,0 +1,42 @@
+{
+    "ID": 55727,
+    "name": "Premo v. Moore",
+    "href": "https://api.oyez.org/cases/2010/09-658",
+    "view_count": 0,
+    "docket_number": "09-658",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1269234000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40604"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1286859600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40605"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1295416800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40606"
+        }
+    ],
+    "question": "<p>Does a lawyer provide inadequate representation by failing to seek suppression of a client's confession before he pleads no contest to murder?</p>\n",
+    "citation": {
+        "volume": "562",
+        "page": "115",
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19649"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that a lawyer does not provide inadequate representation by failing to seek repression of a client's confession before he pleads no contest to murder.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/562/115/",
+    "facts_of_the_case": "<p>Randy Moore pled no-contest to felony murder in an Oregon trial court and sentenced to twenty-five years imprisonment. After exhausting his post-conviction state court remedies, Mr. Moore petitioned for habeas corpus relief in an Oregon federal district court. Mr. Moore argued that his trial counsel was ineffective for failing to recognize that his taped confession was obtained unconstitutionally. The district court denied the petition.</p>\n<p>On appeal, the U.S. Court of Appeals for the Ninth Circuit reversed and granted the petition. The court held that Mr. Moore's counsel's failure to suppress Mr. Moore's confession was both constitutionally deficient and prejudicial under the standard set forth in <em>Strickland v. Washington</em>. The court was careful to note that even the state conceded the means by which the state elicited Mr. Moore's confession were unconstitutional because Mr. Moore's request for counsel had been ignored by the police.</p>\n",
+    "conclusion": "<p>No. The court reversed the appeals court decision, holding that defense counsel was not ineffective and that Moore was not in any event prejudiced by his counsel's actions. Justice Anthony Kennedy authored the opinion for the court with Justice Ruth Bader Ginsburg filing a concurring opinion. Justice Elena Kagan did not participate in the consideration or decision of the case.</p>\n"
+}

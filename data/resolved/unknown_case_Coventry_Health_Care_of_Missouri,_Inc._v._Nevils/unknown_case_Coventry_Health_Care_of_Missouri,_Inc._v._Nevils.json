@@ -1,0 +1,42 @@
+{
+    "ID": 62775,
+    "name": "Coventry Health Care of Missouri, Inc. v. Nevils",
+    "href": "https://api.oyez.org/cases/2016/16-149",
+    "view_count": 0,
+    "docket_number": "16-149",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1478235600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53924"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1488348000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53979"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1492491600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54013"
+        }
+    ],
+    "question": "<ol>\n<li>Does the Federal Employee Health Benefits Act (FEHBA) preempt state laws that prohibit insurance companies from claiming the proceeds of personal injury settlements pursuant to their contracts?</li>\n<li>Does the express preemption clause of the Federal Employee Health Benefits Act (FEHBA) violate the Supremacy Clause of the U.S. Constitution?</li>\n</ol>\n",
+    "citation": {
+        "volume": "581",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27475"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that the Federal Employees Health Benefits Act (FEHBA) preempts state laws that prohibit insurance companies from claiming the proceeds of personal injury settlements pursuant to their contracts, and the express preemption clause of the FEHBA does not violate the Supremacy Clause. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/581/16-149/",
+    "facts_of_the_case": "<p dir=\"ltr\">Jodie Nevils was a federal employee with a Coventry Health Care of Missouri (Coventry) health insurance plan that was governed by the Federal Employee Health Benefits Act (FEHBA), which expressly preempts state laws and regulations governing health insurance and benefits plans. After Nevils was awarded a settlement in a personal injury case, Coventry enforced a claim to the settlement money. Nevils sued Coventry and argued that Missouri law prevented insurance companies from claiming the proceeds of personal injury settlements. The trial court entered summary judgment in favor of the insurance company and held that the FEHBA preempted state law regarding insurance companies\u2019 claims to the proceeds of personal injury settlement. The Supreme Court of Missouri reversed and held that the FEHBA did not preempt state law in this case because an insurance company\u2019s claim to a personal injury settlement does not clearly relate to \u201cthe nature, provision, or extent of coverage or benefits.\u201d</p>\n<p>\u00a0\n</p><p>After the Supreme Court of Missouri\u2019s decision, the Office of Personnel Management created a new formal rule. That rule stated that an insurance carrier\u2019s rights and responsibilities with respect to the settlement of an individual covered by that insurance carrier\u2019s plan \u201crelate to the nature, provision, and extent of coverage or benefits\u201d for the purpose of the FEHBA. The U.S. Supreme Court subsequently granted certiorari for this case and vacated and remanded the lower court\u2019s decision for reconsideration in light of this new rule. On remand, the Supreme Court of Missouri held that there is no precedent that establishes that a federal agency\u2019s interpretation of a preemption clause receives judicial deference. Therefore, the Supreme Court of Missouri again determined that the FEHBA did not preempt Missouri state law.</p>\n",
+    "conclusion": "<p dir=\"ltr\">The Federal Employees Health Benefits Act (FEHBA) preempts state laws that prohibit insurance companies from claiming the proceeds of personal injury settlements pursuant to their contracts, and the express preemption clause of the FEHBA does not violate the Supremacy Clause. Justice Ruth Bader Ginsburg delivered the opinion of the 8-0 majority. The Court held that the relevant contractual provisions \u201crelate to the nature, provision, or extent of coverage or benefits,\u201d including with respect to the payment of benefits, under the language of the FEHBA. Because the contractual provisions at issue grant the insurance carriers rights to payments in exchange for the benefits they provide, they clearly fall within the language of the statute. The Court also held that Congress used the language \u201crelate to,\u201d which has traditionally been interpreted broadly with respect to federal preemption of state laws. The statutory context and purpose, along with the significant federal interests at stake, also support this interpretation. Because the federal statute--not the contract at issue--overrides the state law, the Court determined that this scheme did not violate the Supremacy Clause. </p>\n<p dir=\"ltr\">In his concurring opinion, Justice Clarence Thomas wrote a statute that conferred an executive agency the power to create contracts that preempt state law might be an unconstitutional grant of power to the Executive Branch. However, because Nevils did not make that argument, the Court did not address it. </p>\n<p>Justice Gorsuch did not participate in the discussion or decision of this case.</p>\n"
+}

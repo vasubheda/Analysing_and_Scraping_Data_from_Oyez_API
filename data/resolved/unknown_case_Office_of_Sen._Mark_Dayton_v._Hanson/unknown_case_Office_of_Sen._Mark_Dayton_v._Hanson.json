@@ -1,0 +1,35 @@
+{
+    "ID": 55436,
+    "name": "Office of Sen. Mark Dayton v. Hanson",
+    "href": "https://api.oyez.org/cases/2006/06-618",
+    "view_count": 0,
+    "docket_number": "06-618",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1177390800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39816"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1179723600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39817"
+        }
+    ],
+    "question": "<p>1) Does the Speech or Debate Clause of the U.S. Constitution bar federal court jurisdiction of suits under the Congressional Accountability Act of 1995 by congressional employees whose job duties are part of the due functioning of the legislative process?</p>\n<p>2) Was the Office of Senator Mark Dayton entitled to appeal the judgment of the U.S. Court of Appeals for the District of Columbia Circuit directly to the Supreme Court?</p>\n<p>3) Was the case rendered moot by the expiration of Senator Dayton's term of office?</p>\n",
+    "citation": {
+        "volume": "550",
+        "page": "511",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20711"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/550/511/",
+    "facts_of_the_case": "<p>Brad Hanson worked as State Office Manager for U.S. Senator Mark Dayton. Shortly after Hanson took medical leave for a heart problem, Dayton fired him. Hanson sued under the Congressional Accountability Act of 1995, claiming that Dayton had discriminated against him based on a perceived disability. Dayton filed a motion to have the case dismissed for lack of jurisdiction. He argued that he was immunized from the suit by the Speech or Debate Clause of the Constitution (\"for any Speech or Debate in either House, [Senators and Representatives] shall not be questioned in any other Place.\") Dayton claimed that because Hanson's duties were directly related to Dayton's legislative functions, the decision to fire him could not be challenged. The District Court denied the motion.</p>\n<p>Overturning its own precedent, the U.S. Court of Appeals for the District of Columbia Circuit affirmed the lower court's decision that the Speech or Debate Clause does not bar the suit. The clause can be invoked to exclude evidence that would involve legislative acts, but the D.C. Circuit ruled that it is not a blanket ban on suits involving legislative employees. The employee would simply have to make his case without questioning legislative acts or motivations for legislative acts. Senator Dayton appealed directly to the Supreme Court, arguing that the Accountability Act requires the Court to hear the appeal. He also argued that Hanson's suit should be dismissed because the case had become moot after Dayton retired from the Senate.</p>\n",
+    "conclusion": "<p>Unanswered, no, and unanswered. The Court ruled that it had no jurisdiction to hear Senator Dayton's appeal and dismissed the case without reaching the merits. Justice John Paul Stevens wrote the opinion for the 8-0 Court. The Congressional Accountability Act of 1995 only authorizes direct Supreme Court appeal of rulings \"upon the constitutionality\" of the statute. The Justices held that the decisions of the lower courts (holding that Hanson's suit should not be dismissed under the Speech or Debate Clause) did not qualify as rulings on the constitutional validity of the Act. They were better characterized as rulings on the Act's scope. Direct appeal was therefore not authorized by the Act, and the Court declined to grant certiorari.</p>\n"
+}

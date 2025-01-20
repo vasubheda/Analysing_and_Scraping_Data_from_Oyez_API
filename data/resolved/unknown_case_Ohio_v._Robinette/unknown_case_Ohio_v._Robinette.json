@@ -1,0 +1,35 @@
+{
+    "ID": 54474,
+    "name": "Ohio v. Robinette",
+    "href": "https://api.oyez.org/cases/1996/95-891",
+    "view_count": 0,
+    "docket_number": "95-891",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                844750800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37750"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                848296800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37751"
+        }
+    ],
+    "question": "<p>Does the Fourth Amendment's protection against illegal search and seizures require that a lawfully detained defendant be told that he is \"free to go\" before he can be said to have voluntarily agreed to any subsequent search?</p>\n",
+    "citation": {
+        "volume": "519",
+        "page": "33",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18403"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/519/33/",
+    "facts_of_the_case": "<p>After stopping Robinette for speeding, an Ohio deputy warned him, returned his license, and asked him if he had any illegal contraband, weapons, or drugs in his car. Robinette answered \"no\" but after agreeing to have his car searched, the officer found some marijuana and a pill that later proved to be a powerful drug. On appeal from the Ohio Court of Appeals' reversal of his lower court conviction for possession of a controlled substance, the Ohio Supreme Court Affirmed. The Supreme Court granted Ohio certiorari.</p>\n",
+    "conclusion": "<p>No. After establishing its federal jurisdiction, despite a claim that the matter involved aspects of Ohio's Constitution, the Court held that when looking at the totality of the circumstances it may be reasonably concluded that if a defendant consents to be searched, even if not first advised that he is \"free to go,\" the ensuing search will be recognized as voluntary. The Court also added that Robinette's arrest on drug possession charges was lawful, even though the arresting officer did not stop him on an initial suspicion of drug possession nor intend to even issue him a speeding ticket.</p>\n"
+}

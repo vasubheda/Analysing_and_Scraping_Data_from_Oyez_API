@@ -1,0 +1,42 @@
+{
+    "ID": 63044,
+    "name": "United States v. Haymond",
+    "href": "https://api.oyez.org/cases/2018/17-1672",
+    "view_count": 0,
+    "docket_number": "17-1672",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1540530000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54376"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1551160800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54441"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1561525200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54558"
+        }
+    ],
+    "question": "<p>Does 18 U.S.C. \u00a7 3583(k) violate the Fifth and Sixth Amendments by imposing a mandatory minimum punishment on a criminal defendant upon a finding by a preponderance of the evidence that the defendant engaged in certain criminal conduct during supervised release?</p>\n",
+    "citation": {
+        "volume": "588",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27635"
+    },
+    "term": "2018",
+    "description": "A case in which the Court vacated the Tenth Circuit\u2019s decision holding that 18 U.S.C. \u00a7 3583(k), which imposes a mandatory minimum punishment on a criminal defendant upon a finding by a preponderance of the evidence that the defendant engaged in certain criminal conduct while under supervised release, violates the Fifth and Sixth Amendments.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/588/17-1672/",
+    "facts_of_the_case": "<p>Andre Ralph Haymond was convicted by a jury of one count of possession and attempted possession of child pornography and was sentenced to 38-months\u2019 imprisonment followed by ten years of supervised release. Two years into his supervised release, probation officers conducted a surprise search of Haymond\u2019s apartment and seized several devices. After conducting a forensic examination of the devices, officers found evidence that the devices had recently contained child pornography. Based on these findings, Haymond\u2019s probation officer alleged that Haymond had committed five violations of his supervised release, the relevant one of which was the possession of child pornography, in violation of the mandatory condition that Haymond not commit another federal, state, or local crime.</p>\n<p>The district court found by a preponderance of the evidence that Haymond had possessed child pornography, which triggered a mandatory minimum sentence of five years\u2019 incarceration under 18 U.S.C. \u00a7 3583(k). Haymond challenged the district court\u2019s findings, arguing, among other things, that the statute violates his constitutional rights by subjecting him to imprisonment based on facts not found by a jury. The Tenth Circuit agreed with Haymond\u2019s constitutional arguments. It affirmed the district court\u2019s revocation of his supervised release but vacated his sentence and remanded for sentencing.</p>\n",
+    "conclusion": "<p>In a 5-4 decision, the Court vacated the judgment of the Tenth Circuit and remanded the case for further proceedings. Justice Neil Gorsuch delivered an opinion for a four-justice plurality of the Court, in which he concluded that the application of 18 U.S.C. \u00a7 3583(k) in this case violated Haymond\u2019s Fifth and Sixth Amendment right to trial by jury. Justice Stephen Breyer wrote a separate opinion concurring in the judgment but based on different reasoning.</p>\n<p>Justice Gorsuch reasoned that at the time the Fifth and Sixth Amendments were adopted, judges\u2019 power to sentence criminal defendants was limited by the jury\u2019s finding of facts. In <a href=\"https://www.oyez.org/cases/1999/99-478\"><em>Apprendi v. New Jersey</em>, 530 U.S. 466 (2000)</a>, the Court held unconstitutional a sentencing scheme that allowed a judge to increase a defendant\u2019s sentence beyond the statutory maximum based on the judge\u2019s finding of new facts by a preponderance of the evidence. And in <a href=\"https://www.oyez.org/cases/2012/11-9335\"><em>Alleyne v. United States</em>, 570 U.S. 99 (2013)</a>, the Court held that the same principle applies when a judge finds additional facts to increase the mandatory minimum. Those two cases mandate the outcome in this case: that the statutory scheme violated Haymond\u2019s Fifth and Sixth Amendment right to trial by jury. Justice Gorsuch suggested that on remand, the Tenth Circuit consider whether its remedy\u2014declaring the last two sentences of \u00a73583(k) \u201cunconstitutional and unenforceable\u201d\u2014sweeps too broadly.</p>\n<p>Justice Breyer concurred in the judgment, characterizing the provision at issue as \u201cless like ordinary supervised-release revocation and more like punishment for a new offense,\u201d which requires that jury\u2014not judge\u2014find facts of criminal conduct beyond a reasonable doubt. Thus, Justice Breyer would reach the same conclusion without relying on <em>Apprendi</em>.</p>\n<p>Justice Samuel Alito filed a dissenting opinion, in which Chief Justice John Roberts and Justices Clarence Thomas and Brett Kavanaugh joined. Justice Alito argued that the terms of the Sixth Amendment and the original understanding of the scope of the jury trial, coupled with the Court\u2019s precedents with respect to supervised-release revocation proceedings, militate toward the opposite conclusion of the plurality.\u00a0</p>\n"
+}

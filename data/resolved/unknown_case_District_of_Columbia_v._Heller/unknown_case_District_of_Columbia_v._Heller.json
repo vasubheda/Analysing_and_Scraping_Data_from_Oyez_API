@@ -1,0 +1,42 @@
+{
+    "ID": 55490,
+    "name": "District of Columbia v. Heller",
+    "href": "https://api.oyez.org/cases/2007/07-290",
+    "view_count": 0,
+    "docket_number": "07-290",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1195538400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39967"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1205816400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39968"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1214456400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39969"
+        }
+    ],
+    "question": "<p>Do the provisions of the District of Columbia Code that restrict the licensing of handguns and require licensed firearms kept in the home to be kept nonfunctional violate the Second Amendment?</p>\n",
+    "citation": {
+        "volume": "554",
+        "page": "570",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20761"
+    },
+    "term": "2007",
+    "description": "A case in which the Court found a District of Columbia law strictly regulating gun ownership to be unconstitutional.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/554/570/",
+    "facts_of_the_case": "<p>Provisions of the District of Columbia Code made it illegal to carry an unregistered firearm and prohibited the registration of handguns, though the chief of police could issue one-year licenses for handguns. The Code also contained provisions that required owners of lawfully registered firearms to keep them unloaded and disassembled or bound by a trigger lock or other similar device unless the firearms were located in a place of business or being used for legal recreational activities.</p>\n<p>Dick Anthony Heller was a D.C. special police officer who was authorized to carry a handgun while on duty. He applied for a one-year license for a handgun he wished to keep at home, but his application was denied. Heller sued the District of Columbia. He sought an injunction against the enforcement of the relevant parts of the Code and argued that they violated his Second Amendment right to keep a functional firearm in his home without a license. The district court dismissed the complaint. The U.S. Court of Appeals for the District of Columbia Circuit reversed and held that the Second Amendment protects the right to keep firearms in the home for the purpose of self-defense, and the District of Columbia\u2019s requirement that firearms kept in the home be nonfunctional violated that right.</p>\n",
+    "conclusion": "<p>The ban on registering handguns and the requirement to keep guns in the home disassembled or nonfunctional with a trigger lock mechanism violate the Second Amendment. Justice Antonin Scalia delivered the opinion for the 5-4 majority. The Court held that the first clause of the Second Amendment that references a \u201cmilitia\u201d is a prefatory clause that does not limit the operative clause of the Amendment. Additionally, the term \u201cmilitia\u201d should not be confined to those serving in the military, because at the time the term referred to all able-bodied men who were capable of being called to such service. To read the Amendment as limiting the right to bear arms only to those in a governed military force would be to create exactly the type of state-sponsored force against which the Amendment was meant to protect people. Because the text of the Amendment should be read in the manner that gives greatest effect to the plain meaning it would have had at the time it was written, the operative clause should be read to \u201cguarantee an individual right to possess and carry weapons in case of confrontation.\u201d This reading is also in line with legal writing of the time and subsequent scholarship. Therefore, banning handguns, an entire class of arms that is commonly used for protection purposes, and prohibiting firearms from being kept functional in the home, the area traditionally in need of protection, violates the Second Amendment.</p>\n<p>In his dissent, Justice John Paul Stevens wrote that the Second Amendment does not create an unlimited right to possess guns for self-defense purposes. Instead, the most natural reading of the the Amendment is that it protects the right to keep and bear arms for certain military purposes but does not curtail the legislature\u2019s power to regulate nonmilitary use and ownership of weapons. Justice Stevens argued that the Amendment states its purpose specifically in relation to state militias and does not address the right to use firearms in self-defense, which is particularly striking in light of similar state provisions from the same time that do so. Justice Stevens also notes that \u201cthe people\u201d does not enlarge the protected group beyond the context of service in a state-regulated militia. This reading is in line with legal writing of the time that contextualizes the Amendment in relation to state militias and post-enactment legislative history. Justices David Souter, Ruth Bader Ginsburg, and Stephen G. Breyer joined in the dissent. Justice Breyer also wrote a separate dissent in which he argued that the Second Amendment protects militia-related, not self-defense-related, interests, and it does not provide absolute protection from government intervention in these interests. Historical evidence from the time of ratification indicates that colonial laws regulated the storage and use of firearms in the home. Justice Breyer argued that the Court should adopt an interest-balancing test to determine when the government interests were sufficiently weighty to justify the proposed regulation. In this case, because the interest-balancing turns on the type of analysis that the legislature, not the court, is best positioned to make, the Court should defer to the legislature and uphold the restrictions. Justices Stevens, Souter, and Ginsburg joined in the dissent.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 54508,
+    "name": "Chandler v. Miller",
+    "href": "https://api.oyez.org/cases/1996/96-126",
+    "view_count": 0,
+    "docket_number": "96-126",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                853221600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37812"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                861080400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37813"
+        }
+    ],
+    "question": "<p>Did Georgia's drug testing statute violate the Fourth Amendment's guarantee against illegal search and seizures?</p>\n",
+    "citation": {
+        "volume": "520",
+        "page": "305",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18437"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/520/305/",
+    "facts_of_the_case": "<p>Under a Georgia statute, all candidates for elected state office must pass a urinalysis drug test within 30 days prior to their qualifying for nomination or election. Chandler, on behalf of several state office nominees from the Libertarian Party, challenged the statute's constitutionality, naming Georgia's governor and two other regulatory officials as defendants. On appeal from an adverse District Court ruling, the Eleventh Circuit affirmed and the Supreme Court granted certiorari.</p>\n",
+    "conclusion": "<p>Yes. In an 8-to-1 opinion, the Court noted that while the Fourth Amendment generally prohibits officials from conducting search and seizures without individualized suspicion, there does exist a narrowly defined category of permissible suspicionless searches and seizures. The Court held, however, that Georgia's statute did not fall in this exceptional category, since it failed to show why its desire to avoid drug users in its high political offices should outweigh candidates' privacy interests. In addition to Georgia's failure to provide evidence of a drug problem among its state officials, the Court concluded that even if such a problem did exist, the affected officials would most likely not perform the kind of high-risk, safety sensitive tasks, which might justify the statute's proposed incursion on their individual privacy rights.</p>\n"
+}

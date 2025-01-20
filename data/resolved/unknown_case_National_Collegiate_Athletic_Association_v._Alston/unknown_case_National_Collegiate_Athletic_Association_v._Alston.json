@@ -1,0 +1,42 @@
+{
+    "ID": 63310,
+    "name": "National Collegiate Athletic Association v. Alston",
+    "href": "https://api.oyez.org/cases/2020/20-512",
+    "view_count": 0,
+    "docket_number": "20-512",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1608098400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54815"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1617166800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54871"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1624251600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54925"
+        }
+    ],
+    "question": "<p>Does the National Collegiate Athletic Association (NCAA)\u2019s prohibition on compensation for college athletes violate federal antitrust law?</p>\n",
+    "citation": {
+        "volume": "594",
+        "page": null,
+        "year": "2021",
+        "href": "https://api.oyez.org/case_citation/case_citation/27785"
+    },
+    "term": "2020",
+    "description": "A case in which the Court will decide whether the National Collegiate Athletic Association (NCAA)\u2019s prohibition on compensation for college athletes violates federal antitrust laws.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/594/20-512/",
+    "facts_of_the_case": "<p>In <em>NCAA v. Board of Regents of the University of Oklahoma</em>, 468 U.S. 85 (1984), the Supreme Court struck down the NCAA\u2019s television plan as violating antitrust law, but in so doing it held that the rules regarding eligibility standards for college athletes are subject to a different and less stringent analysis than other types of antitrust cases. Because of this lower standard, the NCAA has long argued that antitrust law permits them to restrict athlete compensation to promote competitive equity and to distinguish college athletics from professional sports.</p>\n<p>Several Division 1 football and basketball players filed a lawsuit against the NCAA, arguing that its restrictions on \u201cnon-cash education-related benefits,\u201d violated antitrust law under the Sherman Act. The district court found for the athletes, holding that the NCAA must allow for certain types of academic benefits, such as \u201ccomputers, science equipment, musical instruments and other tangible items not included in the cost of attendance calculation but nonetheless related to the pursuit of academic studies.\u201d However, the district court held that the NCAA may still limit cash or cash-equivalent awards for academic purposes. The U.S. Court of Appeals for the Ninth Circuit affirmed, recognizing the NCAA\u2019s interest in \u201cpreserving amateurism,\u201d but concluding nevertheless that its practices violated antitrust law.</p>\n",
+    "conclusion": "<p>The NCAA\u2019s rules restricting certain education-related benefits for student-athletes violate federal antitrust laws.\u00a0 Writing for a unanimous Court, Justice Neil Gorsuch upheld the trial court\u2019s ruling. The Court affirmed that the traditional \u201crule of reason\u201d standard was appropriate in this case and rejected the NCAA\u2019s call for a more deferential standard. Because the student-athletes who brought the lawsuit did not appeal the Ninth Circuit\u2019s ruling upholding the NCAA\u2019s rules \u201cuntethered to education,\u201d the Court did not pass judgment on that aspect of the case.\u00a0 \u00a0</p>\n<p>In affirming the Ninth Circuit\u2019s ruling, the Court clarified that a prior statement made in the 1984 case <em>NCAA v. Board of Regents of the University of Oklahoma</em> noting that the NCAA\u2019s role in maintaining the \u201crevered tradition of amateurism\u201d was \u201centirely consistent with the goals of the Sherman Act\u201d was not a shield against all challenges to compensation restrictions, as such rules were not even at issue in that case. Instead, there was nothing so unique about the NCAA or amateur sports to alter the traditional method of analysis applied to claims of antitrust violations.</p>\n<p>In a concurring opinion, Justice Brett Kavanaugh noted that while other rules limiting student-athlete compensation unrelated to academics remain in place because they were not properly before the Court, this decision makes clear that the same traditional \u201crule of reason\u201d analysis would apply. He concluded, \u201cthere are serious questions whether the NCAA\u2019s remaining compensation rules can pass muster under ordinary rule of reason scrutiny.\u201d</p>\n"
+}

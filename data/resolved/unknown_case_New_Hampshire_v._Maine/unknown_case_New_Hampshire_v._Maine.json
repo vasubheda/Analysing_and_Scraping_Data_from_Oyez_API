@@ -1,0 +1,35 @@
+{
+    "ID": 54908,
+    "name": "New Hampshire v. Maine",
+    "href": "https://api.oyez.org/cases/2000/130_orig",
+    "view_count": 0,
+    "docket_number": "130-orig",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                987397200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38556"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                991112400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38557"
+        }
+    ],
+    "question": "<p>Is New Hampshire's original suit against Maine, which disputes the Piscataqua River boundary, barred by earlier proceedings?</p>\n",
+    "citation": {
+        "volume": "532",
+        "page": "742",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18837"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/532/742/",
+    "facts_of_the_case": "<p>In 1977, a dispute between New Hampshire and Maine over lobster fishing rights resulted in the U.S. Supreme Court entering a consent judgment setting the precise location of the States' \"lateral marine boundary,\" or the boundary in the marine waters off the coast. Utilizing a 1740 decree of King George II, the States agreed that the decree's words \"Middle of the River\" referred to the middle of the Piscataqua River's main navigable channel. Ultimately, the 1997 consent judgment defined \"Middle of the River\" as \"the middle of the main channel of navigation of the Piscataqua River.\" The consent judgment did not fix the inland Piscataqua River boundary. In 2000, New Hampshire brought an original action against Maine, claiming that the inland river boundary runs along the Maine shore and that the entire Piscataqua River and all of Portsmouth Harbor belong to New Hampshire. In response, Maine filed a motion to dismiss, arguing that the 1740 boundary determination by King George II and the 1977 consent judgment barred the complaint.</p>\n",
+    "conclusion": "<p>Yes. In an opinion delivered by Justice Ruth Bader Ginsburg, the Court held that \"judicial estoppel bars New Hampshire from asserting that the Piscataqua River boundary runs along the Maine shore.\" Under the judicial estoppel doctrine, \"[w]here a party assumes a certain position in a legal proceeding, and succeeds in maintaining that position, he may not thereafter, simply because his interests have changed, assume a contrary position, especially if it be to the prejudice of the party who has acquiesced in the position formerly taken by him,\" wrote Justice Ginsburg. \"New Hampshire's claim that the Piscataqua River boundary runs along the Maine shore is clearly inconsistent with its interpretation of the words 'Middle of the River' during the 1970's litigation,\" concluded Ginsburg.</p>\n"
+}

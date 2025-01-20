@@ -1,0 +1,42 @@
+{
+    "ID": 55458,
+    "name": "Danforth v. Minnesota",
+    "href": "https://api.oyez.org/cases/2007/06-8273",
+    "view_count": 0,
+    "docket_number": "06-8273",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1179723600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39879"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1193806800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39880"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1203487200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39881"
+        }
+    ],
+    "question": "<p>When determining whether Supreme Court decisions on constitutional rules of criminal procedure apply retroactively, may state supreme courts use state-law retroactivity standards that are broader than the standard in <em>Teague v. Lane</em>?</p>\n",
+    "citation": {
+        "volume": "552",
+        "page": "264",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20749"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/552/264/",
+    "facts_of_the_case": "<p>At Stephen Danforth's trial for sexual abuse of a six-year-old boy, the victim was found incompetent to testify in court, so his videotaped testimony was shown instead. Danforth was convicted and his appeals were unsuccessful. After Danforth's case became final, the Supreme Court ruled in <em>Crawford v. Washington</em> that pre-recorded testimony without the possibility of cross-examination is unconstitutional. Danforth filed a second petition for postconviction relief, seeking to have the <em>Crawford</em> decision applied retroactively to his case. Supreme Court decisions announcing constitutional rules of criminal procedure are applied retroactively only in certain circumstances, which are specified in <em>Teague v. Lane</em>. The state court of appeals declined to retroactively apply <em>Crawford</em>.</p>\n<p>On appeal to the Minnesota Supreme Court, Danforth raised an alternative argument, claiming that the state court was free to apply a broader standard of retroactivity than the one in <em>Teague</em>. Under Minnesota state retroactivity principles, Danforth argued, the <em>Crawford</em> case met the criteria for retroactive application. In Danforth's interpretation, the <em>Teague</em> standard was mandatory for federal habeas corpus proceedings but not for state postconviction proceedings. The Minnesota Supreme Court rejected Danforth's arguments, ruling that only U.S. Supreme Court decisions determine the proper standard for retroactive application of constitutional criminal procedure. The Supreme Court subsequently ruled in <em>Whorton v. Bockting</em> that <em>Crawford</em> does not apply retroactively under <em>Teague</em>, but it agreed to consider Danforth's alternative argument.</p>\n",
+    "conclusion": "<p>In a 7-2 opinion written by Justice John Paul Stevens, the Court held that the federal case law precedent, including <em>Teague</em> did not constrain the authority of state courts to give broader effect to new rules of criminal procedure than was required by the precedent. The precedent applied only to federal habeas corpus petitions and had no bearing on state post-conviction proceedings. Chief Justice John G. Roberts Jr. wrote a dissenting opinion in which Justice Anthony Kennedy joined.</p>\n"
+}

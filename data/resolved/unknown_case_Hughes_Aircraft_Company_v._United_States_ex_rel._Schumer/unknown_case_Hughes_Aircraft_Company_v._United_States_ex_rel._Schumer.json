@@ -1,0 +1,35 @@
+{
+    "ID": 54563,
+    "name": "Hughes Aircraft Company v. United States ex rel. Schumer",
+    "href": "https://api.oyez.org/cases/1996/95-1340",
+    "view_count": 0,
+    "docket_number": "95-1340",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                856850400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37911"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                866437200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37912"
+        }
+    ],
+    "question": "<p>Does the False Claims Act, as amended in 1986, apply retroactively to qui tam suits regarding allegedly false claims submitted to the government submitted prior to is enactment?</p>\n",
+    "citation": {
+        "volume": "520",
+        "page": "939",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18492"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/520/939/",
+    "facts_of_the_case": "<p>In 1989, William J. Schumer filed an action against Hughes Aircraft Co. under the False Claims Act (FCA), specifically under the qui tam provision which allows suits by private parties on behalf of the United States against anyone submitting a false claim to the government. Schumer alleged that Hughes had submitted false claims related to two Air Force radar projects between 1982 and 1984. Hughes moved to dismiss the case claiming that the 1986 amendment to the FCA that Schumer had filed under was not retroactive and that the alleged conduct precluded the suit because the government already had the information on which the suit was based. The motion was dismissed; however, the District Court ruled in favor of Hughes based on the merits of the case. Ultimately, the Court of Appeals rejected Hughes, finding that the FCA should be applied retroactively to suits pre-1986. The appellate court also found that, because no public disclosure of information possessed by the Government had been made, the action was not barred under the 1986 version of the Act.</p>\n",
+    "conclusion": "<p>No. In a unanimous decision delivered by Justice Clarence Thomas, the Court held that, because the 1986 amendment does not apply retroactively to qui tam suits regarding allegedly false claims submitted prior to its enactment, Schumer's action should have been dismissed, as required by the pre-1986 version of the FCA. The Court reasoned that, prior to 1986, disclosure to the Government of information about the allegedly false claim would have constituted a full defense, which the retroactive application of the 1986 amendment would deprive Hughes of that defense. \"Given the absence of a clear statutory expression of congressional intent to apply the 1986 amendment to conduct completed before its enactment, we apply our presumption against retroactivity,\" concluded Justice Thomas.</p>\n"
+}

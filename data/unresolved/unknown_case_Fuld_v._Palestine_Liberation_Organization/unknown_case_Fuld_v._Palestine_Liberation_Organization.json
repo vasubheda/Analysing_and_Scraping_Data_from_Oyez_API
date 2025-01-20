@@ -1,0 +1,26 @@
+{
+    "ID": 63736,
+    "name": "Fuld v. Palestine Liberation Organization",
+    "href": "https://api.oyez.org/cases/2024/24-20",
+    "view_count": 0,
+    "docket_number": "24-20",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1733464800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55576"
+        }
+    ],
+    "question": "<p>Does the Promoting Security and Justice for Victims of Terrorism Act violate the Due Process Clause of the Fifth Amendment?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28057"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether the Promoting Security and Justice for Victims of Terrorism Act violates the Due Process Clause of the Fifth Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/24-20/"
+}

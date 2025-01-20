@@ -1,0 +1,35 @@
+{
+    "ID": 54862,
+    "name": "Ferguson v. City of Charleston",
+    "href": "https://api.oyez.org/cases/2000/99-936",
+    "view_count": 0,
+    "docket_number": "99-936",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                970635600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38468"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                985154400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38469"
+        }
+    ],
+    "question": "<p>Is a state hospital's performance of a diagnostic test to obtain evidence of a patient's criminal conduct for law enforcement purposes an unreasonable search in violation of the Fourth Amendment if the patient has not consented to the procedure?</p>\n",
+    "citation": {
+        "volume": "532",
+        "page": "67",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18791"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/532/67/",
+    "facts_of_the_case": "<p>After an increase in the use of cocaine by patients receiving prenatal care, the Medical University of South Carolina (MUSC) started to cooperate with Charleston to formulate a policy to prosecute mothers whose children tested positive for drugs at birth. MUSC obstetrical patients were arrested after testing positive for cocaine. They filed suit challenging the policy's validity on the theory that warrantless and nonconsensual drug tests conducted for criminal investigatory purposes were unconstitutional searches. Among the District Court's actions was an instruction to the jury to find for the patients unless they had consented to such searches. The jury found in favor of the city. In affirming, the Court of Appeals held that the searches were reasonable, reasoning that special needs may, in certain exceptional circumstances, justify a search policy designed to serve non-law-enforcement ends.</p>\n",
+    "conclusion": "<p>Yes. In a 6-3 opinion delivered by Justice John Paul Stevens, the Court held that the diagnostic tests constituted an unreasonable search if the patient has not consented to the procedure. The interest in using the threat of criminal sanctions to deter pregnant women from using cocaine cannot justify a departure from the general rule that an official nonconsensual search is unconstitutional if not authorized by a valid warrant. Examining the \"special needs\" exception to the Fourth Amendment, Justice Stevens wrote that a special need is \"divorced from the State's general interest in law enforcement,\" and that under the city's view \"virtually any nonconsensual suspicionless search could be immunized under the special needs doctrine by defining the search solely in terms of its ultimate...purpose.\"</p>\n"
+}

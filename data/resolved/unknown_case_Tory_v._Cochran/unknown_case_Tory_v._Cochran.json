@@ -1,0 +1,42 @@
+{
+    "ID": 55204,
+    "name": "Tory v. Cochran",
+    "href": "https://api.oyez.org/cases/2004/03-1488",
+    "view_count": 0,
+    "docket_number": "03-1488",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1096347600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39188"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1111471200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39189"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1117515600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39190"
+        }
+    ],
+    "question": "<p>Did a judge's order that someone stop making defaming statements about a public figure, even after that figure's death, violate the First Amendment right to free speech?</p>\n",
+    "citation": {
+        "volume": "544",
+        "page": "734",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19132"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/544/734/",
+    "facts_of_the_case": "<p>Johnnie Cochran sued his former client Ulysses Tory in a California court for making defaming statements. Tory had tried to force Cochran to pay him money in exchange for desisting, Cochran argued. A judge agreed and ordered Tory to never talk about Cochran again. Tory appealed unsuccessfully in state court, arguing the order violated his First Amendment right to free speech. The U.S. Supreme Court agreed to hear the case. Cochran died one week after oral argument.</p>\n",
+    "conclusion": "<p>Yes. In a 7-2 opinion delivered by Justice Stephen Breyer, the Court held that Cochran's death diminished the grounds for the judge's order and that the order therefore amounted to an overly broad prior restraint on speech. Tory could no longer try to force Cochran to pay him in exchange for desisting, the Court reasoned, ending the order's underlying justification.</p>\n"
+}

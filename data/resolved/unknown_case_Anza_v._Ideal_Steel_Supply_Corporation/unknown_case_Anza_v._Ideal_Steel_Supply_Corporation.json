@@ -1,0 +1,42 @@
+{
+    "ID": 55319,
+    "name": "Anza v. Ideal Steel Supply Corporation",
+    "href": "https://api.oyez.org/cases/2005/04-433",
+    "view_count": 0,
+    "docket_number": "04-433",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1133157600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39505"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1143439200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39506"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1149483600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39507"
+        }
+    ],
+    "question": "<p>Can a competitor be \"injured in his business or property by reason of a violation\" of the Racketeer Influenced and Corrupt Organizations Act (RICO) when the competitor is not the party defrauded and did not rely on the fraudulent behavior, but claims to have lost a competitive advantage because of the fraud?</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "451",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20604"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/547/451/",
+    "facts_of_the_case": "<p>Ideal Steel Supply Corporation filed a civil suit against its competitor, National Steel Supply, Inc. in federal court. Ideal alleged that National had failed to charge sales tax for cash purchases, giving it a competitive (but fraudulent) advantage. Under the Racketeer Influenced and Corrupt Organizations Act, \"[a]ny person injured in his business or property\" by racketeering activity may bring a civil suit. Ideal argued that it had been injured through lost sales because of National's illegal lower prices, and therefore had standing to sue.</p>\n<p>The federal district court disagreed, dismissing the suit because Ideal had not had any direct encounters with National or relied on their fraudulent tax records. A Second Circuit Court of Appeals panel reversed the decision, however, finding that a company can sue under RICO when its competitor uses racketeering to gain an advantage.</p>\n",
+    "conclusion": "<p>No. Eight members of the Supreme Court agreed that Ideal did not have standing to bring the suit because the relationship between its injuries and the fraudulent conduct of National was too remote. Justice Anthony Kennedy, writing for a seven-member majority, wrote that \"[w]hen a court evaluates a RICO claim for proximate causation, the central question it must ask is whether the alleged violation led directly to the plaintiff's injuries. In the instance case, the answer is no.\" Justice Stephen Breyer wrote separately to say that the decisive factor in this case was not just the indirectness of the injury but also the fact that legitimate business practices (the lowering of prices) had actually caused it, even though those practices were made possible by the fraud. The ninth member - Justice Clarence Thomas - wrote that while he disagreed with the other justices' concern about directness, he too would have ruled in National's favor because the case had nothing to do with organized crime, RICO's original target.</p>\n"
+}

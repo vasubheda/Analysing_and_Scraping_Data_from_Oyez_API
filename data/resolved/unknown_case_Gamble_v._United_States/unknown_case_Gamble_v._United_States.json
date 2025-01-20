@@ -1,0 +1,42 @@
+{
+    "ID": 63023,
+    "name": "Gamble v. United States",
+    "href": "https://api.oyez.org/cases/2018/17-646",
+    "view_count": 0,
+    "docket_number": "17-646",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1530162000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54341"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1544076000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54381"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1560747600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54535"
+        }
+    ],
+    "question": "<p>Should the Court overrule the \u201cseparate sovereigns\u201d exception to the Double Jeopardy Clause of the Fifth Amendment?</p>\n",
+    "citation": {
+        "volume": "587",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27624"
+    },
+    "term": "2018",
+    "description": "A case in which the Court upheld its \u201cseparate sovereigns\u201d exception to the Double Jeopardy Clause.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/587/17-646/",
+    "facts_of_the_case": "<p>Terance Martez Gamble was convicted for possession of a firearm as a convicted felon. He argues that the district court erred in concluding that Double Jeopardy Clause of the Fifth Amendment did not prohibit the federal government from prosecuting Gamble for the same conduct for which he had been prosecuted and sentenced for by the State of Alabama. The US Supreme Court held in <a href=\"https://www.oyez.org/cases/1958/7\"><em>Abbate v. United States</em>, 359 U.S. 187 (1959)</a>, that prosecution in federal and state court for the same conduct does not violate the Double Jeopardy Clause because the state and federal governments are separate sovereigns (the so-called \u201cseparate sovereigns\u201d exception). Under this binding precedent, the Eleventh Circuit affirmed the district court.</p>\n",
+    "conclusion": "<p>In a 7-2 opinion authored by Justice Samuel Alito, the Court declined to overturn the dual-sovereignty doctrine.</p>\n<p>The Court first clarified that the dual-sovereignty doctrine is not an exception to the right against double jeopardy, but a corollary to the text of the Fifth Amendment. The Double Jeopardy Clause prohibits individuals from being \u201ctwice put in jeopardy . . . for the same offence.\u201d Because an \u201coffence\u201d is determined by law, and laws are determined by a sovereign (the federal or state government), the laws of two sovereigns create two \u201coffences.\u201d The Court found unpersuasive Gamble\u2019s arguments that precedents should be abandoned, including his claim that the incorporation of the Double Jeopardy Clause against the states eroded the theoretical foundation for the dual-sovereignty rule.</p>\n<p>Justice Clarence Thomas filed a concurring opinion in which he argued for his originalist view that the proper role of stare decisis is subordinate to the text of the Constitution and other duly enacted federal law.</p>\n<p>Justice Ruth Bader Ginsburg filed a dissenting opinion, arguing that the Double Jeopardy Clause should bar \u201csuccessive prosecutions for the same offense by parts of the whole USA\u201d and that the separate-sovereigns doctrine is based upon a mere \u201cmetaphysical subtlety.\u201d</p>\n<p>Justice Neil Gorsuch filed a dissenting opinion arguing that \u201c[a] free society does not allow its government to try the same individual for the same crime until it\u2019s happy with the result,\u201d yet \u201cthe Court today endorses a colossal exception to this ancient rule against double jeopardy.\u201d Justice Gorsuch pointed out the \u201cseparate sovereigns\u201d doctrine appears nowhere in the text of the Fifth Amendment and violates the very essence of the right against double jeopardy.</p>\n"
+}

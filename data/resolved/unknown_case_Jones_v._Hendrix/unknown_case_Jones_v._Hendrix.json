@@ -1,0 +1,42 @@
+{
+    "ID": 63490,
+    "name": "Jones v. Hendrix",
+    "href": "https://api.oyez.org/cases/2022/21-857",
+    "view_count": 0,
+    "docket_number": "21-857",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1652677200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55098"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1667278800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55166"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1687410000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55316"
+        }
+    ],
+    "question": "<p>May a federal inmate who did not challenge their conviction on the ground that the statute did not criminalize their activity subsequently apply for habeas relief after the Supreme Court retroactively invalidates the circuit precedent on which the inmate relied in not challenging their conviction?</p>\n",
+    "citation": {
+        "volume": "599",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27895"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held that the saving clause in 28 U. S. C. \u00a72255(e) does not allow a prisoner asserting an intervening change in the interpretation of a criminal statute to circumvent the Antiterrorism and Effective Death Penalty Act of 1996\u2019s restrictions on second or successive \u00a7 2255 motions by filing a habeas petition under \u00a7 2241.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/599/21-857/",
+    "facts_of_the_case": "<p>A jury convicted Marcus DeAngelo Jones of one count of making false statements to acquire a firearm and two counts of possessing a firearm as a felon. Jones appealed, and the U.S. Court of Appeals for the Eighth Circuit affirmed. Jones then filed a motion to vacate his sentence on the grounds that it was illegally imposed. The district court denied his motion, but the Eighth Circuit reversed, concluding that Jones\u2019s counsel was ineffective for not objecting to the two felon-in-possession counts as duplicative. The district court vacated one of his felon-in-possession convictions and resentenced him.</p>\n<p>In 2019, the U.S. Supreme Court held that, to convict someone under \u00a7 922(g), the government must prove that the defendant knew both that he had a prohibited status and that he possessed a firearm. Because Jones had been convicted of this offense without proof that he knew he had a prohibited status, he filed a habeas petition challenging his conviction. The district court dismissed his petition, and the Eighth Circuit affirmed.</p>\n",
+    "conclusion": "<p>Section 2255(e) does not allow a prisoner asserting an intervening change in interpretation of a criminal statute to circumvent the Antiterrorism and Effective Death Penalty Act of 1996\u2019s (AEDPA) restrictions on second or successive \u00a72255 motions by filing a \u00a72241 habeas petition. Justice Clarence Thomas authored the 6-3 majority opinion of the Court.</p>\n<p>The majority first clarified the relationship between \u00a72255 and \u00a72241 in the context of federal prisoners challenging their sentences. Congress introduced \u00a72255 to allow prisoners to challenge their sentences in the sentencing court, rather than through a habeas corpus petition under \u00a72241. While the saving clause in \u00a72255(e) preserved access to \u00a72241 in specific situations, the Antiterrorism and Effective Death Penalty Act (AEDPA) added restrictions on second or successive \u00a72255 motions. The saving clause does not permit prisoners to circumvent AEDPA's restrictions, even if they are challenging a new interpretation of a criminal statute.</p>\n<p>The majority found unpersuasive arguments by both Jones and the federal government regarding when \u00a72255 might be considered \u201cinadequate or ineffective,\u201d thus allowing recourse to \u00a72241. AEDPA\u2019s restrictions reflect Congress\u2019s deliberate choice to balance finality with error correction in the justice system.</p>\n<p>Justices Sonia Sotomayor and Elena Kagan jointly dissented, arguing that Jones presents the precise type of mismatch contemplated in \u00a72255(h) and would those remand for the lower courts to consider his claim under the proper framework.</p>\n<p>Justice Ketanji Brown Jackson authored a dissenting opinion arguing that \u00a72255 requires that Jones\u2019s petition alleging legal innocence should have been considered on the merits.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 55617,
+    "name": "Nelson v. United States",
+    "href": "https://api.oyez.org/cases/2008/08-5657",
+    "view_count": 0,
+    "docket_number": "08-5657",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1232949600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40324"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1232949600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40325"
+        }
+    ],
+    "question": "<p>Did the U.S. Court of Appeals for the Fourth Circuit err in rejecting the petitioner's argument that the district court impermissibly applied a presumption of reasonableness to the United States Sentencing Guidelines at his sentencing?</p>\n",
+    "citation": {
+        "volume": "555",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20846"
+    },
+    "term": "2008",
+    "description": "A case in which the Court held that a sentencing court cannot presume that the United States Sentencing Guidelines are reasonable.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>Lawrence Nelson was convicted in a federal district court of conspiracy to distribute and to possess with intent to distribute more than 50 grams of cocaine and sentenced to 360 months in prison. On appeal, Mr. Nelson argued that the district court erred in presuming the United States Sentencing Guidelines were reasonable. The U.S. Court of Appeals for the Fourth Circuit disagreed and affirmed his sentence. The Supreme Court subsequently granted certiorari, vacated Mr. Nelson's sentence, and remanded the case to the Fourth Circuit in consideration of its decision in <em>Rita v. United States</em>. On remand, the Fourth Circuit once again affirmed Mr. Nelson's sentence, reasoning that the district court did not treat the Sentencing Guidelines as mandatory.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion, the Supreme Court reversed the U.S. Court of Appeals for the Fourth Circuit. The Court held that the Fourth Circuit erred in rejecting the petitioner's argument and reaffirmed its position in <em>Rita</em> that a sentencing court cannot presume that the United States Sentencing Guidelines are reasonable. Rather, that presumption is a prerogative of an appellate court. Mr. Nelson's case was remanded for proceedings consistent with the opinion.</p>\n"
+}

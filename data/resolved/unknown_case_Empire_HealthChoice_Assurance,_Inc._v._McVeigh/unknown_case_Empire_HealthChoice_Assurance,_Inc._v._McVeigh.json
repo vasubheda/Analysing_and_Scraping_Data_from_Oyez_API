@@ -1,0 +1,42 @@
+{
+    "ID": 55367,
+    "name": "Empire HealthChoice Assurance, Inc. v. McVeigh",
+    "href": "https://api.oyez.org/cases/2005/05-200",
+    "view_count": 0,
+    "docket_number": "05-200",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1136527200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39634"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1145941200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39635"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1150347600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39636"
+        }
+    ],
+    "question": "<p>Under the Federal Employees Health Benefits Act of 1959, are suits brought by insurers against beneficiaries to recoup medical expenses heard in federal or state court?</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "677",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20629"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>In accordance with the Federal Employees Health Benefits Act of 1959 (FEHBA), the Office of Personnel Management has negotiated a health insurance plan for federal employees with the Blue Cross Blue Shield Association. The plan requires the administrator to make a reasonable effort to recoup amounts paid for medical care from beneficiaries if those beneficiaries receive recoveries from another source (for example, a law suit or settlement against a third party that caused injury). In New York State, the plan is administered by Empire Healthchoice Assurance (Empire).</p>\n<p>Empire brought suit in federal district court against the estate of Joseph McVeigh, a former federal employee who was injured in an accident and eventually won a settlement with the third party allegedly responsible for his injuries. Empire sought reimbursement for the money spent on McVeigh's medical care. Denise McVeigh, the administrator of Joseph McVeigh's estate, argued that the district court did not have jurisdiction to hear the case under FEHBA and that it should be heard instead by the state court. The district court and Second Circuit Court of Appeals agreed, dismissing the case for lack of jurisdiction.</p>\n",
+    "conclusion": "<p>In a 5-to-4 decision authored by Justice Ruth Bader Ginsburg, the Court held that jurisdiction for this case lay in state court. Justice Ginsburg pointed out that while FEHBA stated that any claims against the United States would be heard in federal district court, it made no provisions for suits brought by insurers seeking to recoup medical expenses from private beneficiaries. Absent that specific provision, a significant conflict with an identifiable federal interest, or the need to resolve a substantial question of federal law in order to establish the insurer's right to recovery, there was no reason to depart from the ordinarily-governing state law. Justices Breyer, Kennedy, Souter and Alito dissented.</p>\n"
+}

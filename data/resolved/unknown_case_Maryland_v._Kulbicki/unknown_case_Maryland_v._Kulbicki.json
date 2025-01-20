@@ -1,0 +1,35 @@
+{
+    "ID": 62597,
+    "name": "Maryland v. Kulbicki",
+    "href": "https://api.oyez.org/cases/2015/14-848",
+    "view_count": 0,
+    "docket_number": "14-848",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1444021200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53294"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1444021200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53295"
+        }
+    ],
+    "question": "<p>Did the Maryland Court of Appeals properly vacate Kulbicki\u2019s conviction on the grounds that he received ineffective assistance of counsel because his attorneys failed to question the legitimacy of the ballistics evidence presented against him?</p>\n",
+    "citation": {
+        "volume": "577",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/27372"
+    },
+    "term": "2015",
+    "description": "A case in which the Court held that the Maryland Court of Appeals impermissibly vacated a conviction based on a claim of ineffective assistance of counsel for failing to question ballistics evidence that was considered valid at the time of the conviction.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/577/1/",
+    "facts_of_the_case": "<p>In 1993, James Kulbicki fatally shot his 22-year-old mistress the weekend before a scheduled hearing on unpaid child support in an ongoing paternity suit between the two. At Kulbicki\u2019s trial, the prosecution presented evidence that the bullet removed from the victim\u2019s brain and the bullet taken from Kulbicki\u2019s gun were a close enough match that they likely came from the same package. After being presented with this ballistics evidence, as well as other physical evidence and witness testimony, the jury convicted Kulbicki of first-degree murder.</p>\n<p>Kulbicki filed a petition for post-conviction relief in state court in which he argued that he received ineffective assistance of counsel because his attorneys failed to question the legitimacy of the ballistics evidence. Kulbicki\u2019s petition was denied at the trial level, but the Maryland Court of Appeals reversed and vacated Kulbicki\u2019s conviction.</p>\n",
+    "conclusion": "<p>No. In a per curiam opinion, the Court held that the Maryland Court of Appeals improperly examined the conduct of Kulbicki\u2019s lawyers based on contemporary views of ballistic evidence rather than how such evidence was viewed at the time of Kulbicki\u2019s original trial. The Court held that, at the time of Kulbicki\u2019s original trial, ballistic evidence was highly respected, and there was no reason for counsel to devote time to analyzing that evidence rather than other avenues of defense. Because effective assistance of counsel does not require attorneys to go looking for a needle in a haystack that might not exist, the Court held that Kulbicki received effective assistance of counsel.</p>\n"
+}

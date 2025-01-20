@@ -1,0 +1,35 @@
+{
+    "ID": 54366,
+    "name": "Wilton v. Seven Falls Company",
+    "href": "https://api.oyez.org/cases/1994/94-562",
+    "view_count": 0,
+    "docket_number": "94-562",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                796284000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37550"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                802933200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37551"
+        }
+    ],
+    "question": "<p>Does the exceptional circumstances test govern a district court's decision to stay a declaratory judgment action during the pendency of parallel state court proceedings? Should a court of appeals evaluate a district court's decision to do so under an abuse of discretion standard of review?</p>\n",
+    "citation": {
+        "volume": "515",
+        "page": "277",
+        "year": "1995",
+        "href": "https://api.oyez.org/case_citation/case_citation/18295"
+    },
+    "term": "1994",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/515/277/",
+    "facts_of_the_case": "<p>London Underwriters refused to defend or indemnify the Hill Group, which was involved in litigation over the ownership and operation of Texas oil and gas properties, under several commercial liability insurance policies. After a verdict was entered against the Hill Group, the underwriters sought a federal declaratory judgment that their policies did not cover the Hill Group's liability. The Hill Group filed a state court suit and moved to dismiss or to stay the underwriter's action. The District Court entered a stay on the ground that the state suit encompassed the same coverage issues raised in the federal action. The Court of Appeals affirmed. Noting that a district court has broad discretion to grant or decline to grant declaratory judgment, the appellate court did not require application of the exceptional circumstances test. The appellate court also reviewed the District Court's decision for abuse of discretion and found none.</p>\n",
+    "conclusion": "<p>No and yes. In a 8-0 opinion delivered by Justice Sandra Day O'Connor, the Court held that the discretionary standard of Brillhart v. Excess Ins. Co. of America, 316 U.S. 491, governs a district court's decision to stay a declaratory judgment action during the pendency of parallel state court proceedings and that a district courts' decisions about the propriety of hearing declaratory judgment actions should be reviewed for abuse of discretion. The Court also concluded that the District Court acted within its bounds in staying the declaratory relief action in this case, since parallel proceedings, presenting an opportunity for the ventilation of the same state law issues, were underway in state court. Justice Stephen G. Breyer did not participate.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55867,
+    "name": "Filarsky v. Delia",
+    "href": "https://api.oyez.org/cases/2011/10-1018",
+    "view_count": 0,
+    "docket_number": "10-1018",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1317099600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40971"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1326780000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40972"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1334638800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40973"
+        }
+    ],
+    "question": "<p>If a private lawyer is retained by the government, is that attorney precluded from claiming qualified immunity solely because he or she is a private lawyer rather than a government employee?</p>\n",
+    "citation": {
+        "volume": "566",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19789"
+    },
+    "term": "2011",
+    "description": "A case in which the Court found that a private attorney retained by a governmental agency is not prevented from claiming qualified immunity simply because they are not a full-time employee of the agency. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/566/377/",
+    "facts_of_the_case": "<p>On August 15, 2006, Rialto firefighter Nicholas B. Delia sustained injuries while working to control a toxic spill. As a result of his injuries, Delia began using sick leave. The City of Rialto suspected that Delia was taking sick leave inappropriately, using his sick days to work on personal home improvement projects. After obtaining video of Delia purchasing home improvement supplies on one of his sick days, the city launched a formal internal affairs investigation. The city retained attorney Steve A. Filarsky to assist with the internal investigation.</p>\n<p>On September 18, 2006, the city ordered Delia to appear at an interview conducted by Filarsky. During the course of the interview, Delia stated that the home improvement supplies that he purchased were unused. Filarsky requested that Delia allow a warrantless search of his home in order to confirm that the supplies were unused. Delia refused, prompting Filarsky to order Delia to produce the supplies. Filarsky and some city officials subsequently followed Delia to his home, where Delia produced the supplies.</p>\n<p>On May 21, 2008, Delia brought a 42 U.S.C. \u00a7 1983 action in federal district court against the City of Rialto, the City of Rialto Fire Department, and several city officials. The court granted summary judgment in favor of the City on the grounds that Delia failed to establish municipal liability against the city and that the individuals were entitled to qualified immunity. Delia appealed the decision, and the U.S. Court of Appeals for the Ninth Circuit reversed the district court opinion as to Filarsky only. Filarsky appealed.</p>\n",
+    "conclusion": "<p>No. Chief Justice John G. Roberts, Jr., writing for a unanimous court, reversed the Ninth Circuit's decision as to Filarsky. Looking at the history of common law and case law on qualified immunity, the Court held that there is no reason to distinguish part time or temporary government workers from full time employees. There is a strong public policy interest in protecting all public employees while they are working on behalf of the government. Denying protection to temporary employees working alongside full time employees would leave the temporary employees \"holding the bag\" for conduct for which they are not fully responsible.</p>\n<p>Justice Ruth Bader Ginsburg concurred, noting that qualified immunity is overcome when the government worker knew or should have known that his conduct violated a clearly established right. Justice Ginsburg instructed the lower court to consider this issue carefully on remand. Justice Sonia Sotomayor wrote a separate concurrence, clarifying that not every private individual who temporarily works for the government is protected by qualified immunity in all circumstances.</p>\n"
+}

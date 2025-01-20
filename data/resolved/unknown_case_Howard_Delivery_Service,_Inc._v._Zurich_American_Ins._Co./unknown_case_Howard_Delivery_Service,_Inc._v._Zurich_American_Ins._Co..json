@@ -1,0 +1,42 @@
+{
+    "ID": 55317,
+    "name": "Howard Delivery Service, Inc. v. Zurich American Ins. Co.",
+    "href": "https://api.oyez.org/cases/2005/05-128",
+    "view_count": 0,
+    "docket_number": "05-128",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1131343200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39499"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1142920800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39500"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1150347600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39501"
+        }
+    ],
+    "question": "<p>May a creditor seek priority status in a bankruptcy case to recover unpaid premiums owed for legally-required workers' compensation insurance?</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "651",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20626"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>Under West Virginia law, employers are required to either participate in a state-run workers' compensation fund or demonstrate that they are financially capable of covering any workers' compensation claims that may arise. Howard Delivery service, a West Virginia freight carrier, chose to fulfill its obligation by purchasing insurance from Zurich American Insurance Company. In January of 2002, however, the company cancelled its policy (still owing thousands of dollars in unpaid premiums) and filed for bankruptcy.</p>\n<p>Zurich filed for special status as a creditor, arguing that the money owed to them consisted of \"contributions to an employee benefit plan arising from services rendered,\" and that under Chapter 11 of the Bankruptcy Code they should therefore be given priority in recovering the premiums. The bankruptcy court rejected Zurich's claims, however, finding that the provision did not apply to the workers compensation insurance premiums because they were not wage-substitute-type benefits for which the company could bargain (because Howard was required by law to have some form of insurance). A federal district court affirmed the decision, but a divided panel of the Fourth Circuit Court of Appeals reversed, holding that contributions to an employee benefit plan did not need to be voluntary to meet the Chapter 11 definition.</p>\n",
+    "conclusion": "<p>No. In a 6-to-3 decision authored by Justice Ruth Bader Ginsburg, the Supreme Court held that the workers' compensation insurance was different from the sort of employee benefit programs for which creditors could be given priority under Chapter 11. The programs for which preferred status was authorized were those whose main beneficiaries were the employees, and which could be offered as an alternative to wage increases. The workers' compensation insurance mandated in this case, however, benefited the employer as much as the employees (because it protected them from liability) and were legally required, not given as part of employment negotiations. Justice Ginsburg wrote that, though the question was a close one, \"we are guided in reaching our decision by the equal distribution objective underlying the Bankruptcy Code, and the corollary principle that provisions allowing preferences must be tightly construed.\"</p>\n"
+}

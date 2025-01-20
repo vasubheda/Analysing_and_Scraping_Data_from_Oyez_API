@@ -1,0 +1,42 @@
+{
+    "ID": 56066,
+    "name": "Coleman v. Tollefson",
+    "href": "https://api.oyez.org/cases/2014/13-1333",
+    "view_count": 0,
+    "docket_number": "13-1333",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1412226000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41640"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1424671200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41641"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1431925200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51655"
+        }
+    ],
+    "question": "<p>Does a district court's dismissal of a lawsuit counts as a \"strike\" under the PLRA while it is still pending on appeal?</p>\n",
+    "citation": {
+        "volume": "575",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/26953"
+    },
+    "term": "2014",
+    "description": "A case in which the Court held that a district court\u2019s dismissal of a lawsuit counts as a \u201cstrike\u201d for the purpose of the Prison Litigation Reform Act\u2019s \u201cthree strikes\u201d provision when the case is pending on appeal.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/575/532/",
+    "facts_of_the_case": "<p>The \"three strikes\" provision of the Prison Litigation Reform Act (PLRA) prohibits a prisoner from proceeding in forma pauperis in federal court if the prisoner has, on three or more prior occasions while incarcerated, brought an action or appeal that was dismissed on the grounds that it is frivolous, malicious, or fails to state a claim. Andre Lee Coleman, a Michigan state prisoner, filed several claims while incarcerated. His first claim was dismissed as frivolous, and his second claim was dismissed for failure to state a claim. Coleman's third claim was also dismissed for failure to state a claim, but he appealed the judgment. Coleman's appeal of his third claim was unresolved when he subsequently filed his fourth claim and moved to proceed in forma pauperis.</p>\n<p>The district court denied Coleman's motion and held that Coleman's three previous dismissals prevented him from proceeding in forma pauperis on his fourth claim. The court then ordered Coleman to pay the $350 filing fee. After Coleman failed to pay the fee and his fourth claim was dismissed, Coleman appealed. The U.S. Circuit Court of Appeals for the Sixth Circuit affirmed and held that the PLRA does not require that all dismissals be final to count as a \"strike.\"</p>\n",
+    "conclusion": "<p>Yes. Justice Stephen G. Breyer delivered the opinion for the unanimous Court, which held that a plain reading of the Prison Litigation Reform Act (PLRA) indicates that a dismissal is a \u201cstrike\u201d for the purpose of the \u201cthree strikes\u201d provision when the case is pending on appeal. The text of the statute refers to when an action is \u201cdismissed,\u201d which does not normally include subsequent activity on appeal. A reading of the statute that does not include appellate action within the meaning of \u201cdismissed\u201d is consistent with the rest of the statute, which treats trials and appeals separately, and with the statute\u2019s purpose of filtering out bad claims. The Court also held that there was little risk that a prisoner would erroneously be denied <em>in forma pauperis</em> status.</p>\n"
+}

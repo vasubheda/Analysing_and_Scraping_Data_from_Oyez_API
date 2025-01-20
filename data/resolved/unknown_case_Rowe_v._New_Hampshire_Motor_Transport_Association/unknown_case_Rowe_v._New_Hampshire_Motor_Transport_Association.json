@@ -1,0 +1,42 @@
+{
+    "ID": 55468,
+    "name": "Rowe v. New Hampshire Motor Transport Association",
+    "href": "https://api.oyez.org/cases/2007/06-457",
+    "view_count": 0,
+    "docket_number": "06-457",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1159765200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39907"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1196229600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39908"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1203487200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39909"
+        }
+    ],
+    "question": "<p>Does the Federal Aviation Administration Authorization Act of 1994 preempt a state law that uses the state's police power to require that air and motor carriers take steps to ensure that tobacco is not sold to minors?</p>\n",
+    "citation": {
+        "volume": "552",
+        "page": "364",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20739"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/552/364/",
+    "facts_of_the_case": "<p>In an effort to address the problem of tobacco use by minors, the Maine legislature passed the Tobacco Delivery Law, which imposes requirements on air and motor carriers that transport tobacco products. One provision of the law requires tobacco retailers to only use carriers that verify the age of each tobacco purchaser, and another provision requires that carriers ensure that no tobacco is shipped to unlicensed retailers. The New Hampshire Motor Transport Association sued, arguing that the state law was preempted by a federal law, the Federal Aviation Administration Authorization Act of 1994 (FAAAA). The preemption provision of the FAAAA prohibits state from enacting laws \"related to\" the prices, routes, or services of air and motor carriers. The Association argued that the Tobacco Delivery Law placed such a burden on the delivery procedures of carriers that significantly affected their prices and services. The state countered that the FAAAA was only meant to preempt traditional economic regulation by states, and therefore laws enacted pursuant to the state's police power - the power of a state to regulate for the health, safety, and welfare of its citizens - were permissible. The U.S. District Court ruled that the law was preempted by the FAAAA.</p>\n<p>The U.S. Court of Appeals for the First Circuit affirmed the lower court. The First Circuit held that a police power exception to the general rule of preemption would be far too broad and was not intended by Congress. Maine could validly ban all unlicensed tobacco products within its borders, but the FAAAA prohibited the state from implementing this goal by imposing requirements on carriers that significantly alter their delivery procedures.</p>\n",
+    "conclusion": "<p>The Court affirmed both lower courts, holding that the FAAAA preempted the state laws. In a unanimous decision written by Justice Stephen Breyer, the Court asserted that the state laws were directly connected with motor carrier services and therefore had a significant and adverse impact on the congressional goal of precluding state regulation in lieu of competitive market forces. The Court further stated that the FAAAA did not allow any exceptions for police powers or public health concerns of the State.</p>\n"
+}

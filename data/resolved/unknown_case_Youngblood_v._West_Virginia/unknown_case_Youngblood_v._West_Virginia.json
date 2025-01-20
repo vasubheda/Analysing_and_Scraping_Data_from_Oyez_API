@@ -1,0 +1,35 @@
+{
+    "ID": 55301,
+    "name": "Youngblood v. West Virginia",
+    "href": "https://api.oyez.org/cases/2005/05-6997",
+    "view_count": 0,
+    "docket_number": "05-6997",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1150693200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39458"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                1150693200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53379"
+        }
+    ],
+    "question": "<p>Does the suppression of evidence favorable to the defense constitute a valid claim of a violation of constitutional rights under <em>Brady v. Maryland</em>?</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "867",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/19229"
+    },
+    "term": "2005",
+    "description": "A case in which the Court held that evidence favorable to the defense that was suppressed by law enforcement constituted a valid claim of a violation of constitutional rights under Brady v. Maryland.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/547/867/",
+    "facts_of_the_case": "<p>Denver A. Youngblood, Jr. was indicted on charges relating to the alleged abduction and sexual assault of three young women. The prosecution\u2019s case rested largely on the testimony of the young women and evidence consistent with their claims. The jury convicted Youngblood of sexual assault, brandishing a firearm, wanton endangerment involving a firearm, and indecent exposure. After being sentenced, Youngblood moved to set aside the verdict and argued that there was new and exculpatory evidence in the form of a note from two of the young women that supported Youngblood\u2019s consensual-sex defense to the sexual assault charge. The note had allegedly been shown to a state trooper who was investigating the incident, but he had refused to accept possession of it and requested that it be destroyed. Youngblood claimed that the suppression of this evidence constituted a violation of his rights under <em>Brady v. Maryland</em>, which held that a constitutional violation occurs when the government fails to disclose evidence favorable to the accused. The trial court denied Youngblood a new trial by holding that the note was only impeachment, not exculpatory, evidence. The Supreme Court of Appeals of West Virginia affirmed by holding that the trial court had not abused its discretion in denying a new trial. The Supreme Court of Appeals did not reach a decision on the merits of the alleged <em>Brady</em> violation.</p>\n",
+    "conclusion": "<p>In a per curiam opinion, the majority of the Court held that Youngblood presented a valid constitutional claim under <em>Brady v. Maryland</em> by alleging that the state trooper suppressed evidence favorable to Youngblood\u2019s defense. Because there was a valid claim of a <em>Brady</em> violation, the Supreme Court of Appeals of West Virginia should have addressed that issue on the merits. Therefore, the case was remanded.</p>\n<p>In his dissent, Justice Antonin Scalia wrote that the Supreme Court should have addressed the <em>Brady</em> issue on the merits rather than remanding the case to the lower court without guidance. Justice Clarence Thomas joined in the dissent. Justice Anthony M. Kennedy wrote a separate dissent in which he argued that remanding a case to a lower court for further explanation on the <em>Brady</em> issue was \u201cboth improper and contrary to our precedents.\u201d</p>\n"
+}

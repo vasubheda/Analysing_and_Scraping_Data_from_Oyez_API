@@ -1,0 +1,35 @@
+{
+    "ID": 54457,
+    "name": "Medtronic Inc. v. Lohr",
+    "href": "https://api.oyez.org/cases/1995/95-754",
+    "view_count": 0,
+    "docket_number": "95-754",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                830235600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37720"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                835765200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37721"
+        }
+    ],
+    "question": "<p>Do the Medical Device Amendments of 1976 pre-empt a state common-law negligence action against the manufacturer of an allegedly defective medical device?</p>\n",
+    "citation": {
+        "volume": "518",
+        "page": "470",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18386"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/518/470/",
+    "facts_of_the_case": "<p>The Medical Device Amendments of 1976 (MDA) provides for \"the safety and effectiveness of medical devices intended for human use,\" and classifies such devices based on their level of risk. Class III devices pose the greatest risk and, thus, are subject to a rigorous premarket approval (PMA) process. However, two statutory exceptions to this process exist. Because Medtronic, Inc.'s pacemaker is a Class III device found substantially equivalent to a pre-existing device, it can avoid the PMA process. In 1990, Lora Lohr's Medtronic pacemaker failed, allegedly according to a defect. Lohr and her spouse filed a Florida state-court suit, alleging both negligence and strict-liability claims. Medtronic removed the case to federal district court. The court then dismissed the case as pre-empted by 21 USC section 360k(a), which provides that \"no State...may establish or continue in effect with respect to a device intended for human use any requirement (1) which is different from, or in addition to, any requirement applicable under [the MDA] to the device, and (2) which relates to the safety or effectiveness of the device or to any other matter included in a requirement applicable to the device under [the Act].\" Reversing and affirming in part, the Court of Appeals concluded that the Lohrs' negligent design claims were not pre-empted, but that their negligent manufacturing and failure to warn claims were. (This case was decided together with 95-886, Lohr et vir v. Medtronic, Inc.)</p>\n",
+    "conclusion": "<p>No. In an opinion delivered by Justice John Paul Stevens, the Court held that the Court of Appeals decision was reversed insofar as it held that any of the claims were pre-empted and affirmed insofar as it rejected any pre-emption defense. In a 9-0 vote, the Court allowed the lawsuit based on alleged defects in the pacemaker's design to proceed. In a 5-4 vote, the Court allowed the lawsuit to proceed on its claims of alleged defects in its manufacturing and failure to warn. Justice Stevens reasoned that the MDA was not intended to pre-empt \"traditional common-law remedies against manufacturers and distributors of defective devices,\" as long as they paralleled federal requirements.</p>\n"
+}

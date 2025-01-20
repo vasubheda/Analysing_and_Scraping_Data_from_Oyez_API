@@ -1,0 +1,42 @@
+{
+    "ID": 56141,
+    "name": "Armstrong v. Exceptional Child Center, Inc.",
+    "href": "https://api.oyez.org/cases/2014/14-15",
+    "view_count": 0,
+    "docket_number": "14-15",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1412226000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41741"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1421733600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41742"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1427778000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41776"
+        }
+    ],
+    "question": "<p>Does the Supremacy Clause give Medicaid providers a private right of action against a state when Congress chose not to create enforceable rights under the Medicaid Act?</p>\n",
+    "citation": {
+        "volume": "575",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20957"
+    },
+    "term": "2014",
+    "description": "A case that determines whether or not a private right of action exists under the Medicaid Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/575/320/",
+    "facts_of_the_case": "<p>The federal Medicaid Act requires that state Medicaid plans contain procedures to ensure that reimbursement rates for healthcare providers \"are consistent with efficiency, economy, and quality of care and are sufficient to enlist enough providers\" to meet the need for care and services in the geographic area. Ninth Circuit precedent also requires that reimbursement rates bear a reasonable relationship to Medicaid provider costs, and where rates do not \"substantially reimburse providers their costs,\" a state cannot justify its rates with \"purely budgetary reasons.\" Richard Armstrong, the Director of Idaho's Department of Health and Welfare, and others (the Directors) conducted provider cost studies and recommended increasing reimbursement rates but ultimately did not increase rates for budgetary reasons.</p>\n<p>A group of Idaho Medicaid providers (the Providers) sued the Directors and claimed that, based on the new cost information, the Department's failure to raise rates was not consistent with the Ninth Circuit's requirements. The Directors argued that the Supremacy Clause of the federal Constitution does not give providers a private right of action and that the existing rates were consistent with the Medicaid Act's requirements of efficiency, economy, and quality of care. The district court granted the Providers' motion for summary judgment and held that the failure to increase rates led to a failure to substantially reimburse providers. The U.S. Court of Appeals for the Ninth Circuit affirmed.</p>\n",
+    "conclusion": "<p>No. Justice Antonin Scalia delivered the opinion for the 5-4 majority. The Court held that the Supremacy Clause instructs courts to defer to federal law when federal and state law contradict each other, but it does not create a private right of action. If the Supremacy Clause were interpreted to include a private right of action, it would mean that the Constitution would require Congress to allow private actors to implement its laws, which would curtail Congress\u2019 ability to guide implementation of federal laws. Although judicial precedent allows for suits to prevent state and federal officers from violating federal laws, that precedent stems from a long history of the jurisprudence of the courts of equity, not the Supremacy Clause. The Court also held that the Idaho Medicaid Providers could not circumvent Congress\u2019 exclusion of a private right of action under the Medicaid Act.</p>\n<p>In his opinion concurring in part and concurring in the judgment, Justice Stephen G. Breyer wrote that federal courts may not grant injunctive relief against state officers who violate federal law when the relevant statute does not provide for that kind of relief. In this case, the Medicaid Act does not do so because such relief could result in increased litigation, inconsistent results, and the disorderly administration of complex federal programs, which Congress could not have intended.</p>\n<p>Justice Sonia Sotomayor wrote a dissenting opinion in which she argued that suits to restrain state officials from executing laws contrary to the Constitution have such a long history in American jurisprudence that there needs to be substantial evidence of congressional intent to restrict such suits in a statute, and the language of the Medicaid Act does not provide such evidence. Because such suits argue that state law contravenes federal law, they are essentially constitutional in nature and stem from the Supremacy Clause. Therefore, even if there is no implied right of action in the Supremacy Clause, it can still be the basis for suits similar to the one in this case. Justice Anthony M. Kennedy, Justice Ruth Bader Ginsburg, and Justice Elena Kagan joined in the dissent.</p>\n"
+}

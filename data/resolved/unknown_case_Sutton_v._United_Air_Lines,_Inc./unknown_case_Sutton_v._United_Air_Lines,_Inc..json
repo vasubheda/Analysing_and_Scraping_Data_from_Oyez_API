@@ -1,0 +1,35 @@
+{
+    "ID": 54766,
+    "name": "Sutton v. United Air Lines, Inc.",
+    "href": "https://api.oyez.org/cases/1998/97-1943",
+    "view_count": 0,
+    "docket_number": "97-1943",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                925275600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38289"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                930027600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38290"
+        }
+    ],
+    "question": "<p>(1) Should the determination of disability under 42 U.S.C. Section12102(2)(A) be made without reference to corrective measures that mitigate the impairment? (2) Is poor vision regarded as an impairment that substantially limits the Suttons in a major life activity?</p>\n",
+    "citation": {
+        "volume": "527",
+        "page": "471",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18695"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/527/471/",
+    "facts_of_the_case": "<p>Karen Sutton and Kimberly Hinton (the Suttons) are identical twins who suffer from acute visual myopia. They brought suit against United Airlines (United) under the Americans with Disabilities Act of 1990 (ADA), 42 U.S.C. Section12101 et seq., after United failed to hire them as commercial airline pilots because their uncorrected vision was worse than 20/100. Although each sister suffered from severe myopia, their vision was correctable with glasses and both sisters were able to function normally in their daily lives. The Suttons claimed that they were disabled within the meaning of the ADA either because, under 42 U.S.C. Section12102(2)(A), they suffered from a physical impairment that \"substantially limits . . . major life activities,\" or because, under 42 U.S.C. Section12102(2)(C), they were regarded as having such an impairment. The district court granted United's 12(b)(6) motion and dismissed the Suttons' complaint for failure to state a claim for which relief could be granted.</p>\n",
+    "conclusion": "<p>No and no. Determination of disability under the ADA should be made in reference to an individual's ability to mitigate his or her impairment through corrective measures. This reading is in harmony with the statutory language and history of the ADA because (1) the phrase \"substantially limits\" requires consideration of present, not future or hypothetical, impairment; (2) the ADA calls for individualized assessments of impairment; and (3) Congress found that approximately 43 million Americans were disabled, a number that would be far too low if Congress had meant to include all those with correctable impairments. Also, assuming without deciding that working is a major life activity for purposes of the ADA, poor vision cannot be regarded as a substantially limiting impairment because it has only foreclosed the Suttons from pursuing work as \"global airline pilots,\" not from numerous other positions in the aviation industry.</p>\n"
+}

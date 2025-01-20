@@ -1,0 +1,35 @@
+{
+    "ID": 54949,
+    "name": "Chao v. Mallard Bay Drilling, Inc.",
+    "href": "https://api.oyez.org/cases/2001/00-927",
+    "view_count": 0,
+    "docket_number": "00-927",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1004508000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38635"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1010556000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38636"
+        }
+    ],
+    "question": "<p>Does the Occupational Safety and Health Administration have jurisdiction under the Occupational Safety and Health Act to issue citations to uninspected vessels, which are subject to minimal Coast Guard regulation?</p>\n",
+    "citation": {
+        "volume": "534",
+        "page": "235",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/18878"
+    },
+    "term": "2001",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/534/235/",
+    "facts_of_the_case": "<p>In 1997, an explosion on board Mallard Bay Drilling Rig 52, a oil and gas exploration barge, killed or injured several workers while the barge was drilling a well in Louisiana's territorial waters. The Coast Guard's subsequent investigation did not accuse Mallard of anything, but did note that the barge was not an \"inspected vessel\" subject to comprehensive Coast Guard regulation. The Occupational Safety and Health Administration (OSHA) then cited Mallard for violations of the Occupational Safety and Health Act (Act) of 1970. Mallard challenged OSHA's jurisdiction to issue the citations on the grounds that Rig 52 was not a \"workplace\" under section 4(a) of the Act and that section 4(b)(1) of the Act pre-empted OSHA jurisdiction because the Coast Guard had exclusive authority to prescribe and enforce occupational safety and health standards on vessels such as Rig 52. Rejecting both arguments, an Administrative Law Judge found that Rig 52 was a \"workplace\" under the Act and held that the Coast Guard had not pre-empted OSHA's jurisdiction. In reversing, the Court of Appeals held that the Coast Guard's exclusive jurisdiction over the regulation of seamen's working conditions aboard vessels such as Rig 52 precluded OSHA's regulation under section 4(b)(1), and that this pre-emption encompassed both inspected and uninspected vessels.</p>\n",
+    "conclusion": "<p>Yes. In an 8-0 opinion delivered by Justice John Paul Stevens, the Court held that OSHA had jurisdiction under the Act to issue the citations. The Court reasoned that section 4(b)(1) did not pre-empt, in favor of Coast Guard jurisdiction, OSHA jurisdiction over the barge, as the Coast Guard had not exercised its authority over the barge because the Guard has neither affirmatively regulated the working conditions at issue, nor asserted comprehensive regulatory jurisdiction over working conditions on uninspected vessels. \"Mere possession by another federal agency of unexercised authority to regulate certain working conditions is insufficient to displace OSHA's jurisdiction,\" wrote Justice Stevens. Justice Antonin Scalia took no part in the decision of this case.</p>\n"
+}

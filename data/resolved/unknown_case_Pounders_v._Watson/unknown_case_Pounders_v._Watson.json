@@ -1,0 +1,28 @@
+{
+    "ID": 54544,
+    "name": "Pounders v. Watson",
+    "href": "https://api.oyez.org/cases/1996/96-1383",
+    "view_count": 0,
+    "docket_number": "96-1383",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                867387600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37881"
+        }
+    ],
+    "question": "<p>Did the Court of Appeals misinterpret the Constitution's due process requirements as applied to an attorney's summary contempt conviction for willful defiance when questioning her client?</p>\n",
+    "citation": {
+        "volume": "521",
+        "page": "982",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18473"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/521/982/",
+    "facts_of_the_case": "<p>A California trial judge convicted attorney Penelope Watson of summary contempt for her conduct in court. After the judge had stated repeatedly not to discuss punishment, Watson asked her client whether he was facing the death penalty and whether he was facing life without possibility of parole. The judge found that Watson had willfully refused to comply with his order not to discuss punishment and that Watson's questions had permanently prejudiced the jury in favor of her client. On appeal, Watson argued that her due process rights were violated because she did not have notice of the prohibited conduct and because the trial judge could not have known without a hearing whether her conduct was willful. Ultimately, the Court of Appeals, in reversing, concluded that Watson had not engaged in a pattern of repeated violations that had pervaded the courtroom and threatened the dignity of the court.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion, the Court held that the Court of Appeals had misinterpreted the Constitution's due process requirements for the imposition of a summary contempt order. The Court reasoned that the trial judge's findings concerning jury prejudice, together with the judge's assessment of the flagrance of Watson's defiance, supported the finding of the need for summary contempt to vindicate the court's authority. Justice John Paul Stevens, joined by Justice Stephen G. Breyer, dissented. Justice Stevens argued that it was not so clear whether the circumstances justified a summary contempt proceeding by the judge before whom the contempt had occurred as to justify the Court's summary reversal.</p>\n"
+}

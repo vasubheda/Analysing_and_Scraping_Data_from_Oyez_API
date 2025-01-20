@@ -1,0 +1,42 @@
+{
+    "ID": 55713,
+    "name": "American Needle Inc. v. National Football League",
+    "href": "https://api.oyez.org/cases/2009/08-661",
+    "view_count": 0,
+    "docket_number": "08-661",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1246251600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40569"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1263362400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40570"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1274677200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40571"
+        }
+    ],
+    "question": "<p>1) Are the NFL and its members a single entity for the purposes of antitrust laws?</p>\n<p>2) Is the agreement of NFL teams with Reebok subject to Section 1 of the Sherman Antitrust Act, when teams own and control the use of their separate logos and trademarks and, but for their agreement not to, could compete with each other in the licensing and sale of team products?</p>\n",
+    "citation": {
+        "volume": "560",
+        "page": "183",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19635"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that separate teams in the NFL are not a collective, single entity, and that their actions regarding licensing their merchandise are subject to the Sherman Antitrust Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/560/183/",
+    "facts_of_the_case": "<p>American Needle Inc. filed suit in an Illinois federal district court against the National Football League (\"NFL\") and Reebok International Ltd. alleging that the teams' exclusive licensing agreement with Reebok violated the Sherman Antitrust Act. American Needle argued that because individual NFL teams separately own their team logos and trademarks, their collective agreement to authorize NFL Properties to award the exclusive headwear license to Reebok, was in fact a conspiracy to restrict other vendors' ability to obtain licenses for the teams' intellectual property. The district court disagreed and dismissed the case.</p>\n<p>On appeal, the U.S. Court of Appeals for the Seventh Circuit affirmed. It held that NFL teams were a single entity for purposes of antitrust laws, and thus could not have conspired to restrict trade. Therefore, the court stated that the teams were free to license their intellectual property on an exclusive basis.</p>\n",
+    "conclusion": "<p>No. Yes. The Supreme Court held that the National Football League's licensing of intellectual property in this case constitutes concerted action that is not categorically beyond Section 1 of the Sherman Antitrust Act's coverage. With Justice John Paul Stevens writing for a unanimous Court, it noted that each NFL team is a substantial, independently owned, and independently managed business, whose objectives are not common. The Court reasoned that while the actions of NFL Properties (\"NFLP\") are not as easily classified as concerted activity, the NFLP's decisions about licensing are a concerted activity and, thus, are covered by Section 1.</p>\n"
+}

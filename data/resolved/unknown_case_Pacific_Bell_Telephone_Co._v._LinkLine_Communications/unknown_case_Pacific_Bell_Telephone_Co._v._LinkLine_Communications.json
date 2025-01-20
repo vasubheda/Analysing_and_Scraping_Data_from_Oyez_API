@@ -1,0 +1,42 @@
+{
+    "ID": 55595,
+    "name": "Pacific Bell Telephone Co. v. LinkLine Communications",
+    "href": "https://api.oyez.org/cases/2008/07-512",
+    "view_count": 0,
+    "docket_number": "07-512",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1214197200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40259"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1228716000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40260"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1235541600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40261"
+        }
+    ],
+    "question": "<p>In light of prior Court precedent on the issue, is \"price squeezing\" still a valid claim under Section 2 of the Sherman Act when brought against a company acting in a partially regulated industry?</p>\n",
+    "citation": {
+        "volume": "555",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20802"
+    },
+    "term": "2008",
+    "description": "A case in which the Court held that a \"price squeezing\" claim cannot be brought under Section 2 of the Sherman Act when the defendant is not under a duty to sell to the plaintiff in the first place.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>LinkLine, along with several other internet-service providers (ISPs), sued Pacific Bell, claiming that the company was selling digital subscriber line (DSL) access at \"a high wholesale price in relation to the price at which [it was] providing retail services.\" The ISPs condemned the scheme as price squeezing in violation of Section 2 of the Sherman Act, a piece of U.S. antitrust legislation designed to prevent the formation of monopolies. A price squeeze occurs when a company holding a monopoly on the production of certain goods sets its wholesale prices higher than the retail prices it charges directly to consumers, preventing the wholesale customers from competing with it at the retail level. The district court denied Pacific Bell's motion to dismiss the case for failure to state a valid claim but granted its motion for an interlocutory appeal, allowing the appellate court to determine whether such price squeezing claims are permissible before delivering a final judgment at the trial level.</p>\n<p>The U.S. Court of Appeals for the Ninth Circuit determined that the ISPs had stated a legitimate price squeezing claim under Section 2. The Ninth Circuit argued that prior Supreme Court precedent had not eliminated the application of traditional antitrust laws to partially regulated industries. While noting that the <em>wholesale</em> market is governed by a separate document, the 1934 FCC Act, the court stated that the retail market remains unregulated and is therefore subject to the antitrust laws. As far as the retail market was concerned then, the ISPs had stated a valid price squeezing claim under Section 2.</p>\n",
+    "conclusion": "<p>No. The Supreme Court reversed the Ninth Circuit holding that a \"price squeezing\" claim cannot be brought under Section 2 of the Sherman Act when the defendant is under no duty to sell inputs to the plaintiff in the first place. With Chief Justice John G. Roberts writing for the majority and joined by Justice Antonin G. Scalia, Justice Anthony M. Kennedy, Justice Clarence Thomas, and Justice Samuel A. Alito, the Court relying on its decision in <em>Verizon Communications Inc. v. Law Offices of Curtis V. Trinko</em>, reasoned that since there was no duty on the part of AT&amp;T to deal with its competitors and no support under existing antitrust doctrine that AT&amp;T's retail prices were \"too low\", the plaintiffs' claim was barred under Section 2.</p>\n<p>Justice Stephen G. Breyer wrote a separate concurring opinion and was joined by Justice John Paul Stevens, Justice David H. Souter, and Justice Ruth Bader Ginsburg. He argued that the Court should remand the case to the district court and allow the plaintiffs to amend their complaint to include a \"predatory pricing\" claim.</p>\n"
+}

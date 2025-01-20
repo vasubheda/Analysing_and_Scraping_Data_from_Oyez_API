@@ -1,0 +1,42 @@
+{
+    "ID": 55175,
+    "name": "Engine Manufacturers' Association v. South Coast Air Quality Management District",
+    "href": "https://api.oyez.org/cases/2003/02-1343",
+    "view_count": 0,
+    "docket_number": "02-1343",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1055134800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39106"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1074060000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39107"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1083128400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39108"
+        }
+    ],
+    "question": "<p>Does the Clean Air Act preempt local government regulations prohibiting the purchase of new motor vehicles with specified emission characteristics?</p>\n",
+    "citation": {
+        "volume": "541",
+        "page": "246",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19103"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/541/246/",
+    "facts_of_the_case": "<p>The Engine Manufacturers Association (EMA) sued the South Coast Air Quality Management District (SCAQMD) - established under the California Health and Safety Code - in federal district court. The EMA alleged that the Clean Air Act (CAA) preempted SCAQMD's \"fleet rules\" - rules that required new commercial vehicles to meet specific emissions standards - and that the rules were therefore illegal. The EMA pointed to section 209 of the act, which prohibits states from enforcing \"any standard relating to the control of emissions from new motor vehicles.\" Reasoning that the regulations affected the standards at which engines could be sold, not the standards to which they must be manufactured, and finding that Congress's purpose was to protect manufactures from \"having to build engines in compliance with a multiplicity of standards,\" the district court ruled that the CAA did not preempt California's fleet rules. The Ninth Circuit Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>Probably. In an 8-to-1 opinion written by Justice Antonin Scalia, the Court ruled that distinguishing between rules governing the standards to which engines must be made and the standards at which they may be sold was unreasonable. Justice Scalia wrote, \"A command ... that certain purchasers may buy only vehicles with particular emission characteristics is as much an 'attempt to enforce' a 'standard' as a command ... that a certain percentage of a manufacturer's sales volume must consist of such vehicles.\" Justice Scalia reserved judgment on the specific regulations at issue in the case, however, sending the case back to the district court for further proceedings consistent with the holding that regulating the standards engines must meet to be sold is no different from regulating the standards at which they must be manufactured.</p>\n"
+}

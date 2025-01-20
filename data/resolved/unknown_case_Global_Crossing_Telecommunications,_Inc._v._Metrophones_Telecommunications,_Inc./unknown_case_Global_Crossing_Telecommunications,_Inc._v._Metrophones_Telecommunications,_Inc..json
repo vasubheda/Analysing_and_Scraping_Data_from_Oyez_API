@@ -1,0 +1,42 @@
+{
+    "ID": 55439,
+    "name": "Global Crossing Telecommunications, Inc. v. Metrophones Telecommunications, Inc.",
+    "href": "https://api.oyez.org/cases/2006/05-705",
+    "view_count": 0,
+    "docket_number": "05-705",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1140501600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39824"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1160456400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39825"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1176786000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39826"
+        }
+    ],
+    "question": "<p>Does Section 201(b) of the Communications Act of 1934 create a private right of action for a payphone service provider to sue a long distance carrier for violations of the FCC's regulations concerning compensation for coinless payphone calls?</p>\n",
+    "citation": {
+        "volume": "550",
+        "page": "45",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20678"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/550/45/",
+    "facts_of_the_case": "<p>In the Telecommunications Act of 1996, Congress declared that payphone service providers (PSPs) must be compensated for every completed call using their payphones. Previously, PSPs were not compensated for coinless \"dial-around\" long-distance calls in which the caller pays a long distance carrier rather than the PSP. The Federal Communications Commission (FCC) adopted rules requiring the carriers to pay the PSPs on a per-call basis. Metrophones Telecommunications, a PSP, sued Global Crossing Telecommunications, a long-distance carrier, alleging that Global Crossing had failed to pay for calls placed from Metrophones's payphones.</p>\n<p>The District Court dismissed Metrophones's first complaint because the Telecommunications Act of 1996 did not create a private right of action to recover compensation from long-distance carriers. Metrophones then filed an amended complaint based on Section 201(b) of the Communications Act of 1934, which deals with \"unjust and unreasonable\" practices of carriers. Global Communications argued that Metrophones had no right to sue under this statute either, but the District Court disagreed and ruled for Metrophones.</p>\n<p>The Ninth Circuit Court of Appeals affirmed this decision. The Circuit Court relied heavily on the FCC's interpretation of the statute, which was that failure to pay compensation to PSPs is an \"unjust and unreasonable\" practice in violation of Section 201(b) and that PSPs have a private right of action to sue carriers for such violations. The Circuit Court held that though the FCC rule on the subject was brief, it was entitled to deference from the courts in the absence of specific guidance from the statute.</p>\n",
+    "conclusion": "<p>Yes. The Court ruled 7-2 that Section 201(b) allows PSPs to sue long distance carriers for \"unjust and unreasonable practices.\" The opinion by Justice Stephen Breyer held that the FCC's regulation on the subject was reasonable and therefore entitled to deference. Justice Breyer wrote that \"The [FCC's] determination easily fits within the language of the statutory phrase.\" \"[I]n ordinary English,\" a carrier's refusal to pay compensation for a benefit received from payphone service providers can be said to be an unreasonable practice, the Court ruled. The majority also emphasized the similarities between the FCC's payphone regulation and traditional regulations of transportation communications.</p>\n"
+}

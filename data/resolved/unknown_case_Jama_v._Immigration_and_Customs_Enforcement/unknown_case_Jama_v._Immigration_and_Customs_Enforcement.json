@@ -1,0 +1,42 @@
+{
+    "ID": 55277,
+    "name": "Jama v. Immigration and Customs Enforcement",
+    "href": "https://api.oyez.org/cases/2004/03-674",
+    "view_count": 0,
+    "docket_number": "03-674",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1077516000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39393"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1097557200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39394"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1105509600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39395"
+        }
+    ],
+    "question": "<p>May immigration officials deport a person to his country of birth under 8 U.S.C. 1231(b)(2)(E)(iv), if that country lacks a functioning central government that is able to accept the person's return?</p>\n",
+    "citation": {
+        "volume": "543",
+        "page": "335",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19205"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/543/335/",
+    "facts_of_the_case": "<p>A Minnesota state court convicted Somalian refugee Keyse Jama of assault. As a result the Immigration and Naturalization Service (INS) argued in immigration court that Jama should be deported to Somalia. The court agreed and an immigration appeals court also agreed. Jama then appealed to a federal district court and argued the part of the U.S. Code dealing with deporting an alien to his country of birth required that country to first accept the alien. Because Somalia lacked a functioning central government, this was impossible. The district court ruled for Jama. A federal appellate court reversed and said Jama and the district court misinterpreted the law.</p>\n",
+    "conclusion": "<p>Yes. Federal immigration law permitted an alien to be removed to a country without the advance consent of that country's government. Of the four removal options federal immigration law listed, an acceptance requirement appeared in only one clause: \"...he shall be removed to another country whose government will accept him.\" That clause only applied after the attorney general attempted the prior deportation option. The grammatical \"rule of the last antecedent,\" prevented \"another\" from applying to the earlier options. Nor did the law's structure impose an acceptance requirement. Moreover, contrary to Jama's argument, the acceptance requirement was hardly settled judicial interpretation.</p>\n"
+}

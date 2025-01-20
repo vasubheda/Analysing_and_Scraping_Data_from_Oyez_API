@@ -1,0 +1,42 @@
+{
+    "ID": 55504,
+    "name": "Kennedy v. Louisiana",
+    "href": "https://api.oyez.org/cases/2007/07-343",
+    "view_count": 0,
+    "docket_number": "07-343",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1199426400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40002"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1208322000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40003"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1214370000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40004"
+        }
+    ],
+    "question": "<p>Do states violate the Eight Amendment's ban on cruel and unusual punishment by imposing the death sentence for the crime of child rape?</p>\n",
+    "citation": {
+        "volume": "554",
+        "page": "407",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20765"
+    },
+    "term": "2007",
+    "description": "A case in which the Court held that the Eighth Amendment prevented states from imposing the death penalty for the rape of a child, in which death was not intended nor resulted from the rape.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/554/407/",
+    "facts_of_the_case": "<p>A Louisiana court found Patrick Kennedy guilty of raping his eight-year-old stepdaughter. Louisiana law allows the district attorney to seek the death penalty for defendants found guilty of raping children under the age of twelve. The prosecutor sought, and the jury awarded, such a sentence; Kennedy appealed.</p>\n<p>The Louisiana Supreme Court affirmed the imposition of the death sentence, noting that although the U.S. Supreme Court had struck down capital punishment for rape of an adult woman in <em>Coker v. Georgia</em>, that ruling did not apply when the victim was a child. Rather the Louisiana high court applied a balancing test set out by the Court in <em>Atkins v. Virginia</em> and <em>Roper v. Simmons</em>, first examining whether there is a national consensus on the punishment and then considering whether the court would find the punishment excessive. In this case, the Louisiana Supreme Court felt that the adoption of similar laws in five other states, coupled with the unique vulnerability of children, justified imposing the death penalty.</p>\n<p>In seeking certiorari, Kennedy argued that five states do not constitute a \"national consensus\" for the purposes of Eighth Amendment analysis, that <em>Coker v. Georgia</em> should apply to all rapes regardless of the age of the victim, and that the law was unfair in its application, singling out black child rapists for death at a significantly higher rate than whites.</p>\n",
+    "conclusion": "<p>Yes. In a 5-4 decision the Court held that the Eighth Amendment bars states from imposing the death penalty for the rape of a child where the crime did not result, and was not intended to result, in the child's death. Applying the death penalty in such a case would be an exercise of \"cruel and unusual punishment\" in violation of a national consensus on the issue. Justice Anthony Kennedy delivered the opinion of the Court. Justice Samuel Alito, joined by Chief Justice John G. Roberts and Justices Clarence Thomas and Antonin Scalia, dissented. In his view, no national consensus existed prohibiting the death penalty in this case, and he vehemently opposed the majority's application of a \"blanket rule\" barring the death penalty in child rape cases regardless of the facts of the case, including the age of the child, the sadistic nature of the crime, and the number of times the child has been raped.</p>\n"
+}

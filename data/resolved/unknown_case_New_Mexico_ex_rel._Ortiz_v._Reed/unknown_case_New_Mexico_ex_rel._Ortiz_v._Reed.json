@@ -1,0 +1,28 @@
+{
+    "ID": 54650,
+    "name": "New Mexico ex rel. Ortiz v. Reed",
+    "href": "https://api.oyez.org/cases/1997/97-1217",
+    "view_count": 0,
+    "docket_number": "97-1217",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                897282000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38077"
+        }
+    ],
+    "question": "<p>Did the Supreme Court of New Mexico err in upholding grant of state habeas corpus relief to parolee whom state of Ohio sought to extradite as alleged fugitive from justice by going beyond the scope of permissible inquiry?</p>\n",
+    "citation": {
+        "volume": "524",
+        "page": "151",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18579"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>The Extradition Act implements the Constitution's extradition clause and provides for the extradition from one state of a fugitive from justice when a demand for the fugitive's extradition is made by another state. Manuel Ortiz, a parolee from the Ohio correctional system, fled to New Mexico after Ohio prison officials told him that they planned to revoke his parole status. The governor of New Mexico issued a warrant directing Ortiz's return upon Ohio's demand. Ortiz then sought habeas corpus relief in New Mexico. Ultimately, the Supreme Court of New Mexico affirmed a grant of habeas corpus relief. The court expressed the view that Ortiz was a refugee from injustice and that the New Mexico constitution, which guarantees the right of seeking and obtaining safety, prevailed over the state's duty under the extradition clause.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous per curiam opinion, the Court held that \"the Supreme Court of New Mexico went beyond the permissible inquiry in an extradition case, and permitted the litigation of issues not open in the asylum State.\" The opinion stated, \"this is simply not the kind of issue that may be tried in the asylum State. In case after case we have held that claims relating to what actually happened in the demanding State, the law of the demanding State, and what may be expected to happen in the demanding State when the fugitive returns, are issues that must be tried in the courts of that State, and not in those of the asylum State.\"</p>\n"
+}

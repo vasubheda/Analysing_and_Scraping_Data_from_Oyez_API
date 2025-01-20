@@ -1,0 +1,35 @@
+{
+    "ID": 62276,
+    "name": "Hope v. Pelzer",
+    "href": "https://api.oyez.org/cases/2001/01-309",
+    "view_count": 0,
+    "docket_number": "01-309",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1019019600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52689"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1025154000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52690"
+        }
+    ],
+    "question": "<p>Does the Court of Appeals holding of qualified immunity where prison guards' conduct violated the Eighth Amendment comport with United States v. Lanier, 520 U.S. 259?</p>\n",
+    "citation": {
+        "volume": "536",
+        "page": "730",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/27072"
+    },
+    "term": "2001",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/536/730/",
+    "facts_of_the_case": "<p>As an Alabama prison inmate, Larry Hope was twice handcuffed to a hitching post for disruptive conduct. Both times prison guards handcuffed Hope above shoulder height, and when he tried moving his arms to improve circulation, the handcuffs cut into his wrists. During the second incident, guards order Hope to remove his shirt and he spent seven hours on the hitching post in the sun. While there, he was given one or two water breaks, but no bathroom breaks. Hope filed a civil suit against the guards. Subsequently, a Magistrate Judge found that the guards were entitled to qualified immunity. Ultimately affirming, the Court of Appeals, while finding that the hitching post's use for punitive purposes violated the Eighth Amendment, concluded that the guards nevertheless entitled to qualified immunity.</p>\n",
+    "conclusion": "<p>No. In a 6-3 opinion delivered by Justice John Paul Stevens, the Court held that the defense of qualified immunity was precluded at the summary judgment phase of Hope's trial. The Court reasoned that, although Hope's allegations if true established an Eighth Amendment violation, prison guards could be shielded from liability for their constitutionally impermissible conduct if their actions did not violate clearly established statutory or constitutional rights of which a reasonable person would have known. Noting that United States v. Lanier makes clear that officials can be on notice that their conduct violates established law even in novel factual situations, the Court concluded that a reasonable officer would have known that using a hitching post as Hope alleged was unlawful.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55634,
+    "name": "Monsanto Co. v. Geertson Seed Farms",
+    "href": "https://api.oyez.org/cases/2009/09-475",
+    "view_count": 0,
+    "docket_number": "09-475",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1263535200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40370"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1272344400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40371"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1277096400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40372"
+        }
+    ],
+    "question": "<p>1) Did the Ninth Circuit err in holding that the plaintiffs are exempt from showing a \"likelihood of irreparable harm\" to obtain an injunction?</p>\n<p>2) Did the Ninth Circuit err in holding that a district court may enter an injunction without conducting an evidentiary hearing?</p>\n",
+    "citation": {
+        "volume": "561",
+        "page": "139",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19557"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that a district court must conduct an evidentiary hearing to enter an injunction.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/561/139/",
+    "facts_of_the_case": "<p>Geertson Seed Farms (\"Geertson\") and Trask Family Seeds (\"Trask\") sought an injunction against Monsanto Company (\"Monsanto\") in a California federal district court. Geertson and Trask feared that the wide-scale sale of a new Monsanto alfalfa variety, resistant to one of the company's herbicides, would lead to cross-pollination with Geertson's and Trask's conventional alfalfa variety and thereby lead to its disappearance. The district court granted the injunction pending an Environmental Impact Statement (\"EIS\") about the effect of Monsanto's new alfalfa variety.</p>\n<p>On appeal, the U.S. Court of Appeals for the Ninth Circuit affirmed holding that the injunction was appropriate and that an evidentiary hearing was not required before the issuance of the injunction.</p>\n",
+    "conclusion": "<p>No. Yes. The Supreme Court first held that the plaintiffs have standing to seek injunctive relief. However, the Court further held that the district court abused its discretion when it entered an injunction absent the completed EIS. With Justice Samuel A. Alito writing for the majority, the Court reasoned that no factor favoring the imposition of an injunction yet existed.</p>\n<p>Justice John Paul Stevens dissented. He argued that the district court's findings of fact all supported the imposition of an injunction: (1) the new alfalfa variety could contaminate other plants, (2) contamination could take place even in a controlled setting, (3) the relevant regulator has limited ability to control or limit limitations on planting, and (4) genetic contamination could decimate farmers' livelihoods all supported.</p>\n"
+}

@@ -1,0 +1,33 @@
+{
+    "ID": 63703,
+    "name": "Cunningham v. Cornell University",
+    "href": "https://api.oyez.org/cases/2024/23-1007",
+    "view_count": 0,
+    "docket_number": "23-1007",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1728018000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55531"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1737525600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55557"
+        }
+    ],
+    "question": "<p>Can a plaintiff state a claim under ERISA\u2019s provision prohibiting a plan fiduciary from knowingly engaging in transactions with barred parties, solely by alleging that such a transaction took place?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28037"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether a plaintiff can state a claim under a provision of the Employee Retirement Income Security Act (ERISA) that bars a plan fiduciary from knowingly engaging in a transaction that is an exchange of goods or services between the plan and anyone barred from doing business with the plan, simply by alleging that such a transaction occurred.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-1007/"
+}

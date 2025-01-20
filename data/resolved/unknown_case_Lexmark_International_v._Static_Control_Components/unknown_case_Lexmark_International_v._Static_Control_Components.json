@@ -1,0 +1,42 @@
+{
+    "ID": 55994,
+    "name": "Lexmark International v. Static Control Components",
+    "href": "https://api.oyez.org/cases/2013/12-873",
+    "view_count": 0,
+    "docket_number": "12-873",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1370235600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41315"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1386050400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41316"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1395723600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41591"
+        }
+    ],
+    "question": "<p>Is the test to establish standing for a false advertising claim the same as the test to establish standing under antitrust statutes?</p>\n",
+    "citation": {
+        "volume": "572",
+        "page": "118",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20902"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that the Lanham Act allowed any party to sue for injuries relating to false advertising, as long as the party bringing suit has an interest that falls in the zone of interest that is protected by law.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/572/118/",
+    "facts_of_the_case": "<p>Lexmark International, Inc. (Lexmark) is a large producer of printers and toner cartridges. In 2002, Lexmark sued Static Control Components, Inc. (SCC) and alleged that SCC violated Lexmark's intellectual property when it manufactured microchips used in the repair and resale of Lexmark toner cartridges. SCC filed a counterclaim and argued that Lexmark, among other things, violated the Lantham Act by engaging in false advertising. The district court dismissed SCC's Lantham Act claims for lack of standing. The U.S. Court of Appeals for the Sixth Circuit reversed the ruling and held that the lower court employed the wrong test to establish standing.</p>\n<p>The Sixth Circuit relied on the \"reasonable interest\" test to establish standing under the Lantham Act, but unlike its sister circuits, did not use the AGC Factors, which use the same standards as those to establish an antitrust claim. Under this test, a claimant must demonstrate 1) a reasonable interest against the alleged false advertising and 2) a reasonable basis for believing that the alleged false advertising will damage that interest.</p>\n",
+    "conclusion": "<p>No. Justice Antonin Scalia delivered the opinion for the unanimous Court. The Court held that the Lanham Act allowed any party to sue that had been injured by false advertising. However, because that language is so broad, the Court held that a determination of standing to sue should be based on proof that the plaintiffs' interests fall within the zone of interests protected by the law and that a violation of the statute was the proximate cause of the injury in question. In order to prove that the plaintiffs' interest fall within the zone of interest the Lanham Act protects, the plaintiffs must prove that they have a commercial interest in reputation or sales. To prove that the injury in question was caused by a violation of the statute, the plaintiff must show that that economic or reputational injury stemmed directly from the defendant's false advertising. The Court also held that the \"reasonable interest\" test the U.S. Court of Appeals for the Sixth Circuit applied was not feasible because it was too vague. In this case, Static Control Component's claim satisfied both the zone of interest and proximate cause requirements to pursue a claim under the Lanham Act.</p>\n"
+}

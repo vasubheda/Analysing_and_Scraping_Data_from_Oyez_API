@@ -1,0 +1,26 @@
+{
+    "ID": 63726,
+    "name": "Oklahoma v. Environmental Protection Agency",
+    "href": "https://api.oyez.org/cases/2024/23-1067",
+    "view_count": 0,
+    "docket_number": "23-1067",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1729486800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55563"
+        }
+    ],
+    "question": "<p>Does the U.S. Court of Appeals for the District of Columbia have exclusive jurisdiction to review an Environmental Protection Agency action that affects only one state or region, simply because the EPA published that action alongside actions affecting other states in a single Federal Register notice?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28052"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether the U.S. Court of Appeals for the D.C. Circuit has exclusive jurisdiction to review an Environmental Protection Agency action that affects only one state or region, simply because the EPA published that action alongside actions affecting other states in a single Federal Register notice.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-1067/"
+}

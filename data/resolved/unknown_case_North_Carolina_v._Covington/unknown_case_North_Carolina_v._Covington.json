@@ -1,0 +1,35 @@
+{
+    "ID": 62851,
+    "name": "North Carolina v. Covington",
+    "href": "https://api.oyez.org/cases/2016/16-1023",
+    "view_count": 0,
+    "docket_number": "16-1023",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1484028000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54048"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1496638800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54049"
+        }
+    ],
+    "question": "<p>Did the U.S. District Court for the Middle District of North Carolina err in ordering that current legislators\u2019 terms of service be truncated and that a special election take place as equitable relief in a redistricting case?</p>\n",
+    "citation": {
+        "volume": "581",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27521"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that ordering equitable relief in a redistricting case requires that a court consider the severity and nature of the constitutional violation, the extent of the likely disruption to the ordinary processes of governance if early elections are imposed, and the need to act with proper judicial restraint when intruding on state sovereignty.\r\n",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/581/16-1023/",
+    "facts_of_the_case": "<p>In 2011, the North Carolina General Assembly redrew state legislative districts in response to changes in population recorded in the 2010 Census. In May 2015, several North Carolina citizens sued North Carolina in federal district court and argued that 28 majority-black districts under the new districting plan were unconstitutional racial gerrymanders. The district court found in favor of the plaintiffs in August 2016 and held that race had been the predominant factor in redrawing the districts at issue. The court did not require changes to the districts in the short time before the November 2016 election but did order the General Assembly to redraw the map prior to holding any other elections. Three months later, the court put in place a remedial order that set a March 2017 deadline for the redrawing of the districts, required that any legislator elected in 2016 from a later-modified district serve only a one-year term, and ordered special elections take place in the fall of 2017. North Carolina appealed the remedial order to the U.S. Supreme Court. </p>\n",
+    "conclusion": "<p>Ordering equitable relief in a redistricting case requires that a court consider the severity and nature of the constitutional violation, the extent of the likely disruption to the ordinary processes of governance if early elections are imposed, and the need to act with proper judicial restraint when intruding on state sovereignty. In a per curiam opinion, the Court held that the lower court erred because it had not conducted an adequate analysis of these factors before ordering a special election. The lower court\u2019s cursory analysis would justify a special election in every racial gerrymandering case and therefore did not satisfy the need for case-specific analysis.</p>\n"
+}

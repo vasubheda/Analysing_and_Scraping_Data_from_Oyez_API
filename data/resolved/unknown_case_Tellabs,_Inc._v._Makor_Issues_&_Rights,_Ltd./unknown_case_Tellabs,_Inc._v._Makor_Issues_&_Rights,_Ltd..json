@@ -1,0 +1,42 @@
+{
+    "ID": 55435,
+    "name": "Tellabs, Inc. v. Makor Issues & Rights, Ltd.",
+    "href": "https://api.oyez.org/cases/2006/06-484",
+    "view_count": 0,
+    "docket_number": "06-484",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1167976800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39813"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1175058000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39814"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1182402000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39815"
+        }
+    ],
+    "question": "<p>In considering whether a securities fraud complaint alleges facts sufficient to establish a \"strong inference\" that the defendant acted with intent to deceive, as required by the Private Securities Litigation Reform Act of 1995, must a court also consider competing inferences of an innocent mental state that might be drawn from the same facts?</p>\n",
+    "citation": {
+        "volume": "551",
+        "page": "308",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20703"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/551/308/",
+    "facts_of_the_case": "<p>Several plaintiffs brought a class action securities fraud lawsuit against Tellabs, Inc., a manufacturer of equipment for fiber optic cable networks. The plaintiffs alleged that Tellabs had misrepresented the strength of its products and earnings in order to conceal the declining value of the company's stock. Under the Private Securities Litigation Reform Act of 1995 (PSLRA), plaintiffs bringing securities fraud complaints must allege specific facts that give rise to a \"strong inference\" that the defendant intended to deceive investors (scienter).</p>\n<p>The District Court dismissed the complaints. The court held that the plaintiff's allegations were too vague to establish a \"strong inference\" of scienter on the part of Tellabs. On appeal, the U.S. Court of Appeals for the Seventh Circuit reversed one of the lower court's dismissals. The Seventh Circuit ruled that a plaintiff need only allege \"acts from which, if true, a reasonable person could infer that the defendant acted with the required intent.\" The Court of Appeals decided to consider only the plausibility of the inference of a guilty mental state, and not any competing inferences of an innocent mental state. This decision was due in part to the court's concern that weighing competing inferences was more properly the task of a jury. The Seventh Circuit's ruling conflicted with those of other Courts of Appeals, which required plaintiffs to show that the inference of scienter supported by the alleged facts was more plausible than any competing inference of innocent intent.</p>\n",
+    "conclusion": "<p>Yes. The Court ruled by a vote of 8-1 that a securities fraud complaint must allege facts establishing an inference of guilty intent that is \"cogent and at least as compelling as any opposing inference of nonfraudulent intent.\" Justice Ruth Bader Ginsburg wrote that opinion for the Court, which held that the Seventh Circuit's more relaxed standard was not strong enough to comport with Congress's intent in PSLRA to limit securities fraud litigation. \"The strength of an inference cannot be decided in a vacuum. The inquiry is inherently comparative [...],\" the Court ruled. A court must consider each plausible inference of intent, both fraudulent and nonfraudulent, and then decide whether a reasonable person would consider the guilty inference \"at least as strong as any opposing inference.\" The lower court need not have worried about impinging on the jury's prerogatives, because it is the role of judges to decide whether there exists an issue for the jury to hear, and the role a the jury to evaluate the issue. Two concurring Justices, Antonin Scalia and Samuel A. Alito Jr., argued that the phrase \"strong inference\" required that the inference of fraudulent intent be <em>stronger</em> than the competing inferences, while Justice John Paul Stevens's lone dissent argued for a more plaintiff-friendly probable-cause standard.</p>\n"
+}

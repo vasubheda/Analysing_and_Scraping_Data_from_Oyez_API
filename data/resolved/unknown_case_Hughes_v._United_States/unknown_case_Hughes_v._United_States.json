@@ -1,0 +1,42 @@
+{
+    "ID": 62931,
+    "name": "Hughes v. United States",
+    "href": "https://api.oyez.org/cases/2017/17-155",
+    "view_count": 0,
+    "docket_number": "17-155",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1512712800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54163"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1522126800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54224"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1528088400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54284"
+        }
+    ],
+    "question": "<p>Is an inmate who enters into a plea bargain under Federal Rule of Criminal Procedure 11(c)(1)(C) (which specifies that an attorney for the government will agree that a specific sentence is appropriate) eligible for a sentence reduction if the sentencing guidelines are changed subsequent to his sentencing?</p>\n",
+    "citation": {
+        "volume": "584",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27559"
+    },
+    "term": "2017",
+    "description": "A case in which the Court decided that a sentence imposed pursuant to a Federal Rule of Criminal Procedure 11(c)(1)(C) (\u201cType C\u201d) plea bargain is \u201cbased on\u201d the defendant\u2019s Federal Sentencing Guidelines range as long as that range was a component of the framework the court used in imposing the sentence or accepting the plea bargain, meaning that in this case, Erik Hughes could seek a sentencing reduction under 18 U.S.C. \u00a7 3582(c)(2).",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/584/17-155/",
+    "facts_of_the_case": "<p>Erik Hughes pleaded guilty to drug and firearm offenses and entered into a plea agreement with the government under Rule 11(c)(1)(C) of the Federal Rules of Criminal Procedure. The district court accepted the agreement and sentenced Hughes accordingly. Hughes then sought a sentence reduction under 18 U.S.C. \u00a7 3582(c)(2), which permits defendants who have been \u201csentenced to a term of imprisonment based on a sentencing range that has subsequently been lowered by the Sentencing Commission.\u201d The district court relied on Justice Sotomayor\u2019s concurring opinion in Freeman v. United States, 564 U.S. 522 (2011) in determining that Hughes was ineligible for a sentence reduction because he was not sentenced \u201cbased on a sentencing range,\u201d but on a plea agreement. The Eleventh Circuit affirmed the district court\u2019s holding.</p>\n",
+    "conclusion": "<p>In a 6-3 opinion authored by Justice Kennedy, the Court held that a sentence imposed pursuant to a Federal Rule of Criminal Procedure 11(c)(1)(C) (\u201cType C\u201d) plea bargain is \u201cbased on\u201d the defendant\u2019s Federal Sentencing Guidelines range as long as that range was a component of the framework the court used in imposing the sentence or accepting the plea bargain, meaning that in this case, Erik Hughes could seek a sentencing reduction under 18 U.S.C. \u00a7 3582(c)(2).</p>\n<p>The Court explained that a central purpose of the Guidelines is uniformity in sentencing.\u00a0 However, in the wake of the Court\u2019s 4-1-4 decision in <em>Freeman v. United States</em>, 564 U.S. 522 (2011), which considered the question of a defendant\u2019s eligibility for a reduced sentence under \u00a7 3582(c)(2) after entering into a Type C agreement, some circuits followed the plurality opinion while others followed Justice Sotomayor\u2019s concurrence, depending on how they applied <em>Marks v. United States</em>, 430 U.S. 188 (1977).</p>\n<p>In seeking to resolve this split in authority, the Court stated that a district court imposes a sentence that is \u201cbased on\u201d the Guidelines range if the range was part of the basis the court used in exercising its discretion to impose a sentence. District courts are required to use the Guidelines range as a starting point for calculating sentences in every case, including cases involving Type C agreements. As such, in most cases, sentences imposed pursuant to Type C agreements are \u201cbased on\u201d the defendant\u2019s guidelines range. Therefore, when the Sentencing Commission lowers the range for a particular offense, unless there is a clear showing that the court would have imposed the same sentence regardless of the Guidelines range, a defendant who has entered into a Type C agreement related to that offense will generally be eligible for a reduction in sentence under \u00a7 3582(c)(2). The Court stated that this interpretation, as a systemic, structural matter, best supported the sentencing system Congress put into place.</p>\n<p>Pursuant to this reasoning and in light of the fact that the Guidelines range was a basis for Hughes\u2019 sentence, the Court held that he was eligible for relief under \u00a7 3582(c)(2) given that the range had been lowered</p>\n<p>The Court declined to decide the question of how <em>Marks</em> should properly apply.</p>\n<p>Justice Sotomayor filed a concurring opinion in which she explained that she was joining the majority in full in the instant case in order to help resolve the confusion that had arisen in the aftermath of <em>Freeman</em>, but stated that she still believed that her concurrence in <em>Freeman</em> set forth the most convincing application of \u00a7 3582(c)(2)\u2019s text.</p>\n<p>Justice Roberts authored a dissenting opinion, in which Justices Alito and Thomas joined.</p>\n"
+}

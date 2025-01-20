@@ -1,0 +1,35 @@
+{
+    "ID": 55873,
+    "name": "Cavazos v. Smith",
+    "href": "https://api.oyez.org/cases/2011/10-1115",
+    "view_count": 0,
+    "docket_number": "10-1115",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1320123600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40986"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1320123600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40987"
+        }
+    ],
+    "question": "<p>Did the Ninth Circuit exceed its authority under the deferential standard for habeas corpus review by granting relief for insufficient evidence based on its acceptance of the cause-of-death testimony of defense experts over the contrary opinion of prosecution experts?</p>\n",
+    "citation": {
+        "volume": "565",
+        "page": null,
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19795"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that evidence is sufficient to support a conviction as long as the essential elements of the crime are found to be beyond a reasonable doubt when viewed by a reasonable person.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/565/1/",
+    "facts_of_the_case": "<p>On November 29, 1996, 7-week-old Etzel Glass died. Doctors initially attributed Etzel's death to sudden infant death syndrome. However, an autopsy conducted by a coroner concluded that the cause of death was shaken baby syndrome (SBS). Shirley Ree Smith, Etzel's grandmother, stated that when Etzel had not responded to her touch she picked him up and gave him a little jostle. Smith was arrested and charged with assault on a child resulting in death.</p>\n<p>At Smith's trial, the jury heard seven days of expert medical testimony on the cause of Etzel's death. The prosecutors offered three experts who each testified that Etzel's death was the result of shaken baby syndrome. The defense called two expert witnesses to dispute the conclusions. The jury found Smith guilty.</p>\n<p>Smith filed a motion for a new trial. The trial judge denied the motion, concluding that the jury carefully weighed the tremendous amount of evidence. On direct review, Smith contended that the evidence was not sufficient to establish that Etzel died from SBS. After reviewing the medical testimony, the California Court of Appeal rejected this claim, determining that where there was competing medical testimony it was for the jury to resolve the conflicts. Smith appealed to the California Supreme Court, which denied review.</p>\n<p>Smith subsequently filed a petition for writ of habeas corpus with the United States District Court for the Central District of California, arguing that the evidence against her was insufficient. The District Court concluded that the evidence was sufficient to support a conviction. On appeal, the U.S. Court of Appeals for the Ninth Circuit reversed and remanded the lower court's opinion, concluding that the absence of physical evidence indicated that the Court of Appeal had unreasonably upheld Smith's conviction. The petitioners appealed.</p>\n",
+    "conclusion": "<p>Yes. In an unsigned, per curiam opinion, the Supreme Court held that the Ninth Circuit erred when it concluded that the evidence was not sufficient to support a conviction. The Court emphasized that evidence is sufficient to support a conviction so long as, after viewing the evidence in the light most favorable to the prosecution, any rational trier of fact could have found the essential elements of the crime beyond a reasonable doubt. The Court further stated that where there is conflicting evidence, a reviewing court must presume that the trier of fact resolved any such conflicts. The Court reversed and remanded the lower court's decision.</p>\n<p>Justice Ruth B. Ginsburg dissented and was joined by Justice Stephen G. Breyer and Justice Sonia Sotomayor. She argued that the petition for review should have been denied since the case was a fact-bound case in which the Court of Appeals unquestionably stated the correct rule of law. She stated that justice was not served by the Supreme Court's exercise of discretion to take up this tragic fact-bound case.</p>\n"
+}

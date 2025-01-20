@@ -1,0 +1,42 @@
+{
+    "ID": 55495,
+    "name": "United States v. Clintwood Elkhorn Mining Co.",
+    "href": "https://api.oyez.org/cases/2007/07-308",
+    "view_count": 0,
+    "docket_number": "07-308",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1196661600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39980"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1206334800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39981"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1208235600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39982"
+        }
+    ],
+    "question": "<p>Whether the claims of taxpayers seeking refunds for unconstitutionally levied taxes under the Export Clause of the Tucker Act, which applies a six-year statute of limitations, are preempted by the United States Tax Code's three-year statute of limitations for such claims?</p>\n",
+    "citation": {
+        "volume": "553",
+        "page": "1",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20762"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/553/1/",
+    "facts_of_the_case": "<p>In 2000, the IRS announced it was admitting the unconstitutionality of a 1978 coal export tax. In response, Clintwood Elkhorn Mining brought suit to recover funds paid, plus interest, under the unconstitutional tax scheme between the years 1994 and 1999. Clintwood sought recovery under the Export Clause of the Tucker Act, 28 U.S.C Section 1491, which applies a six-year statute of limitations to claims and makes no mention of interest payments. The government argued that such claims must be brought under the Tax Code, which allows interest but applies a three-year statute of limitations.</p>\n<p>Both the Court of Federal Claims and the U.S. Court of Appeals for the Federal Circuit allowed the Tucker Act claims, but the circuit court overruled the federal claims court's decision denying interest payments. In urging the Court to review both conclusions, the government contended that the Federal Circuit's ruling was at odds with other circuit decisions prohibiting Tucker Act claims under similar circumstances.</p>\n",
+    "conclusion": "<p>In a unanimous opinion written by Chief Justice John G. Roberts, Jr., the Court refused to pay Clintwood refunds for the unconstitutionally levied taxes. The Court stated that the remedy for taxes imposed in violation of the Export Clause is the same as for any other unlawful tax: filing a timely administrative refund claim. Until taxpayers exhaust this avenue, they are prohibited from bringing a direct suit against the government.</p>\n"
+}

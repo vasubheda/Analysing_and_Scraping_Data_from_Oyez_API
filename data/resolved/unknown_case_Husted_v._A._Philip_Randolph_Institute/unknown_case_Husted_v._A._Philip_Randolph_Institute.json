@@ -1,0 +1,42 @@
+{
+    "ID": 62848,
+    "name": "Husted v. A. Philip Randolph Institute",
+    "href": "https://api.oyez.org/cases/2017/16-980",
+    "view_count": 0,
+    "docket_number": "16-980",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1496120400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54070"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1515564000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54173"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1528693200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54288"
+        }
+    ],
+    "question": "<p>Is Ohio\u2019s list-maintenance process permissible under 52 U.S.C. \u00a7 20507, given that it relies on the inactivity of a registered voter as a \"trigger\" to send a confirmation notice to that voter under the NVRA and HAVA?</p>\n",
+    "citation": {
+        "volume": "584",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27519"
+    },
+    "term": "2017",
+    "description": "A case in which the Court upheld Ohio's list-maintenance process against a challenge under under National Voter Registration Act of 1993 (NVRA) and the Help America Vote Act of 2002 (HAVA).",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/584/16-980/",
+    "facts_of_the_case": "<p>Ohio currently employs a process that clears the state\u2019s voter rolls of individuals who have died or relocated. Under this process, voters who have not voted for two years are sent notices to confirm their registration. If the state receives no response and these individuals do not vote over the next four years, they are ultimately removed from the rolls.</p>\n<p>Plaintiffs are various civil rights groups that are challenging the process, claiming that it is not only inappropriate to remove individuals from the voter rolls as a consequence of failing to vote but also violates part of the National Voter Registration Act of 1993. The Act prohibits a program for voter-list maintenance for federal elections that involves \u201cthe removal of the name of any personal from the official list of voters . . . by reason of the person\u2019s failure to vote.\u201d Plaintiffs believe that the Supreme Court should involve itself and determine whether this process violates the Act. The U.S. Court of Appeals for the 6th Circuit previously struck down these rules, deeming them a violation of federal voting law because Ohio's process involves using an individual's failure to vote as a \"trigger\" for sending out a confirmation notice to that person. Plaintiffs consequently argue that there is no reason to disturb the appellate court decision. Defendants argue that Ohio is adhering to federal voter law, as set forth in the National Voter Registration Act of 1993 (NVRA) and the Help America Vote Act of 2002 (HAVA).</p>\n",
+    "conclusion": "<p>Ohio's list-maintenance process does not violate any provision of the National Voter Registration Act of 1993 (NVRA) or the Help America Vote Act of 2002 (HAVA). In a 5-4 decision authored by Justice Samuel Alito, the Court found that Ohio's procedure of requiring (1) a failure to vote for two years, (2) a failure to return a notice card, and (3) a failure to vote for four additional years was sufficiently rigorous under NVRA and its amended versions. The Court reasoned that by the plain language of the statute, NVRA forbids removal of a voter if failure to vote is the sole reason for removal. While Ohio list-maintenance process does use failure to vote as a trigger for removal, because it is not the sole basis for removal, it does not violate the statute. Justice Clarence Thomas concurred in full but wrote separately to\u00a0offer constitutional reasons for rejecting the proposed interpretation of the National Voter Registration Act (NVRA).</p>\n<p>Justice Stephen Breyer wrote a dissenting opinion in which Justices Sonia Sotomayor, Elena Kagan, and Ruth Bader Ginsburg joined. The dissent argued that the Ohio process does in fact rely on failure to vote to purge voter lists and that the additional requirement of responding to a mailed notice does not mitigate this violation of the statute.</p>\n<p>Justice Sotomayor wrote a separate dissenting opinion arguing that the majority's decision ignores the driving purpose behind the NVRA\u2014to address voter suppression laws\u2014and pointing to statistics from amicus briefs showing that the law has a disproportionate effect of unregistering substantially more African American voters as compared to suburban white voters.</p>\n"
+}

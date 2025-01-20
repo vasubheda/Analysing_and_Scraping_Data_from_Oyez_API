@@ -1,0 +1,42 @@
+{
+    "ID": 55778,
+    "name": "J. McIntyre Machinery, Ltd. v. Nicastro",
+    "href": "https://api.oyez.org/cases/2010/09-1343",
+    "view_count": 0,
+    "docket_number": "09-1343",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1285650000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40734"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1294725600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40735"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1309150800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40736"
+        }
+    ],
+    "question": "<p>May a consumer sue a foreign manufacturer in state court over a product that the foreign company marketed and sold in the United States?</p>\n",
+    "citation": {
+        "volume": "564",
+        "page": null,
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19700"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that a consumer cannot sue a foreign manufacturer in state court over a product that the foreign company marketed and sold in the United States.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/564/873/",
+    "facts_of_the_case": "<p>An accident severed four fingers off the right hand of Robert Nicastro who was operating a recycling machine used to cut metal. A British company manufactured the machine and sold it through its exclusive U.S. distributor. Nicastro sued J. McIntyre Machinery, Ltd., the British company, and its U.S. distributor, McIntyre Machinery America, Ltd., in New Jersey state court for product liability. The state supreme court reversed a trial court's dismissal, finding that the foreign company had sufficient contacts with the state.</p>\n",
+    "conclusion": "<p>No. The Supreme Court reversed the decision of the lower court in a plurality opinion by Justice Anthony Kennedy. \"Although the New Jersey Supreme Court issued an extensive opinion with careful attention to this Court's cases and to its own precedent, the 'stream of commerce' metaphor carried the decision far afield,\" Kennedy wrote. \"Due process protects the defendant's right not to be coerced except by lawful judicial power.\" Justice Stephen Breyer, joined by Justice Samuel Alito, concurred in the judgment, writing: \"I do not doubt that there have been many recent changes in commerce and communication, many of which are not anticipated by our precedents. But this case does not present any of those issues. So I think it unwise to announce a rule of broad applicability without full consideration of the modern-day consequences.\" Meanwhile, Justice Ruth Bader Ginsburg dissented, joined by Justices Sonia Sotomayor and Elena Kagan. \"Inconceivable as it may have seemed yesterday, the splintered majority today 'turn[s] the clock back to the days before modern long-arm statutes when a manufacturer, to avoid being haled into court where a user is injured, need only Pilate-like wash its hands of a product by having independent distributors market it.'\"</p>\n"
+}

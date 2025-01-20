@@ -1,0 +1,42 @@
+{
+    "ID": 55748,
+    "name": "Virginia Office for Protection and Advocacy v. Stewart",
+    "href": "https://api.oyez.org/cases/2010/09-529",
+    "view_count": 0,
+    "docket_number": "09-529",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1277096400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40651"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1291183200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40652"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1303189200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40653"
+        }
+    ],
+    "question": "<p>Does the Eleventh Amendment categorically preclude an independent state agency from bringing an action in federal court against state officials for prospective injunctive relief to remedy a violation of federal law under the doctrine of <em>Ex Parte Young</em>?</p>\n",
+    "citation": {
+        "volume": "563",
+        "page": "247",
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19670"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that a federal court may hear a lawsuit for prospective injunctive relief against state officials brought by another agency of the same state.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/563/247/",
+    "facts_of_the_case": "<p>The Virginia Office of Protection and Advocacy (\"VOPA\"), a state agency dedicated to advocating on behalf of persons with disabilities, sued several Virginia state officials in their official capacities in a Virginia federal district court. VOPA alleged that the officials violated two federal statutes when the officials refused VOPA access to state records which VOPA argued it was entitled. The officials moved to dismiss the case arguing that they were immune to suit under the Eleventh Amendment.</p>\n<p>On appeal the U.S. Court of Appeals for the Fourth Circuit reversed the district court, holding that the state officials were immune to suit under the Eleventh Amendment. The court reasoned that: (1) Congress did not abrogate state immunity under the statutes which VOPA sued under and (2) the mere receipt of federal funds by Virginia under the two statutes did not mean that the state had consented to suit. The court declined to extend the Eleventh Amendment exception established in <em>Ex parte Young</em>, where a private party may seek prospective injunctive relief against state officials, noting that VOPA was not a private party but rather a state agency.</p>\n",
+    "conclusion": "<p>No. \" <em>Ex parte Young</em> allows a federal court to hear a lawsuit for prospective relief against state officials brought by another agency of the same state,\" Justice Antonin Scalia wrote for the 6-2 majority. Chief Justice John G. Roberts Jr. filed a dissenting opinion, which was joined by Justice Samuel Alito. Roberts wrote that he disagreed with the majority's \"substantial and novel expansion of what we have also called a 'narrow exception' to a State's sovereign immunity.\" Justice Anthony Kennedy filed a concurring opinion, which was joined by Justice Clarence Thomas. Justice Elena Kagan took no part in consideration of the case.</p>\n"
+}

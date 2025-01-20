@@ -1,0 +1,35 @@
+{
+    "ID": 54110,
+    "name": "Brecht v. Abrahamson",
+    "href": "https://api.oyez.org/cases/1992/91-7358",
+    "view_count": 0,
+    "docket_number": "91-7358",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                723189600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37068"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                735368400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37069"
+        }
+    ],
+    "question": "<p>Is the \"beyond a reasonable doubt\" standard from <em>Chapman v. California</em> the appropriate standard for setting aside a conviction on the basis of constitutional error?</p>\n",
+    "citation": {
+        "volume": "507",
+        "page": "619",
+        "year": "1993",
+        "href": "https://api.oyez.org/case_citation/case_citation/18039"
+    },
+    "term": "1992",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/507/619/",
+    "facts_of_the_case": "<p>Todd Brecht was charged with murder for shooting his brother-in-law. During his trial, he testified that the shooting was an accident. In addition to presenting other evidence, the prosecution pointed out his silence (both prior to his receiving the Miranda warnings and after) in an attempt to discredit his testimony. Brecht was found guilty and sentenced to life in prison.</p>\n<p>Brecht appealed, claiming that the prosecution's reference to his post-Miranda silence violated his right to due process according to <em>Doyle v. Ohio</em>. The Wisconsin Court of Appeals overturned the conviction, but the Supreme Court of Wisconsin reinstated it. They found that the mention of post-Miranda silence was impermissible under <em>Doyle</em>, but was also harmless error according to the \"beyond a reasonable doubt\" standard from <em>Chapman v. California</em>.</p>\n<p>Brecht sought a writ of habeas corpus in federal court. The District Court upheld his <em>Doyle</em> claim and found that the violation was not harmless error under <em>Chapman</em>. Brecht's conviction was thus overturned again, only to be reinstated by the United States Court of Appeals for the Seventh Circuit.</p>\n<p>The Seventh Circuit held that <em>Chapman</em> was not the appropriate standard under which to review <em>Doyle</em> error in federal habeas petitions. Rather than adhering to the <em>Chapman</em> standard, the court applied the <em>Kotteakos v. United States</em> test, which requires that the <em>Doyle</em> error have a \"substantial and injurious effect\" on the jury's verdict. Brecht's <em>Doyle</em> claim did not meet this standard, and the Seventh Circuit denied the writ.</p>\n",
+    "conclusion": "<p>No. In a 5-4 decision, Chief Justice William H. Rehnquist wrote that the \"substantial and injurious effect\" test was preferable to the \"beyond a reasonable doubt\" test in requests for habeas corpus relief. Habeas proceedings are not to be the primary avenue for resolving disputes; Rehnquist called the writ \"an extraordinary remedy\", reserved for the victims of grave injustice. The Kotteakos standard, then, was sufficient to determine whether Brecht deserved habeas relief.</p>\n"
+}

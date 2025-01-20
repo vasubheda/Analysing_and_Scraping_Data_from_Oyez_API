@@ -1,0 +1,26 @@
+{
+    "ID": 63580,
+    "name": "Carnahan v. Maloney",
+    "href": "https://api.oyez.org/cases/2023/22-425",
+    "view_count": 0,
+    "docket_number": "22-425",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1684126800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55268"
+        }
+    ],
+    "question": "<p>Do individual members of Congress have Article III standing to sue an executive agency to compel it to disclose information that the members have requested under 5 U.S.C. \u00a7 2954?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/27950"
+    },
+    "term": "2023",
+    "description": "A case in which the Court will decide whether individual members of Congress have Article III standing to sue an executive agency to compel it to disclose information that the members have requested under 5 U.S.C. \u00a7 2954.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2023/22-425/"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 55083,
+    "name": "Medical Board of California v. Hason",
+    "href": "https://api.oyez.org/cases/2002/02-479",
+    "view_count": 0,
+    "docket_number": "02-479",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1037599200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38884"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1049691600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38885"
+        }
+    ],
+    "question": "<p>Does the 11th Amendment's grant of sovereign immunity bar suit under Title II of the Americans with Disabilities Act for denial of a medical license based on an applicant's mental illness?</p>\n",
+    "citation": {
+        "volume": "538",
+        "page": "835",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/19012"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>The California Medical Board denied Hason a license to practice medicine because of his mental illness. Hason sued in federal district court, alleging that his rights were violated under the Americans with Disabilities Act (ADA). The district court dismissed the suit, holding that his claims were barred by the 11th Amendment's guarantee of sovereign immunity, which prohibits a private party from suing a non-consenting state or its agencies in federal court. The Ninth Circuit Court of Appeals reversed, ruling that Congress abrogated 11th Amendment sovereign immunity by enacting Title II of the ADA \"and thus states and their agencies may be sued pursuant to Title II.\"</p>\n",
+    "conclusion": "<p>Unanswered. Due to concerns over the litigation's possible effect on the scope of the ADA, the California Medical Board voted to drop its petition. The Supreme Court dismissed the case with a unanimous opinion stating: \"The writ of certiorari is dismissed without award of damages and costs.\"</p>\n"
+}

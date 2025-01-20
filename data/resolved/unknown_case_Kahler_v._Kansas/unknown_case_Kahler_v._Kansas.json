@@ -1,0 +1,42 @@
+{
+    "ID": 63107,
+    "name": "Kahler v. Kansas",
+    "href": "https://api.oyez.org/cases/2019/18-6135",
+    "view_count": 0,
+    "docket_number": "18-6135",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1552885200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54472"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1570424400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54580"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1584939600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54681"
+        }
+    ],
+    "question": "<p>May a state abolish the insanity defense without violating the Eighth and Fourteenth Amendments?</p>\n",
+    "citation": {
+        "volume": "589",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27673"
+    },
+    "term": "2019",
+    "description": "A case in which the Court held that it does not violate the Eighth and Fourteenth Amendments for a state to abolish the insanity defense.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/589/18-6135/",
+    "facts_of_the_case": "<p>Kraig Kahler enjoyed a happy marriage and valued his family for many years. However, in 2008, his marriage began to falter, and his wife began an extramarital affair. By the next year, the formerly happy couple was heading toward divorce, and Kahler allegedly became abusive toward his wife and estranged from their children. Kahler increasingly suffered from depression and obsessive compulsive disorder, and though he saw several psychologists and psychiatrists who prescribed antidepressants, anti-anxiety medications, and sleep aids, he refused to take his medications as directed.</p>\n<p>In November 2009, Kahler went to his wife\u2019s grandmother\u2019s house, where his family was visiting, and shot and killed his wife, his two daughters, and the grandmother. Kahler was arrested, charged, and sentenced to death for the four killings. Experts for the defense and the prosecution agreed that Kahler exhibited major depressive disorder, obsessive-compulsive, borderline, paranoid, and narcissistic personality tendencies. The defense expert testified that, in his opinion, due to Kahler\u2019s mental illness, he did not make the rational choice to kill his family members and indeed had at the time of the shooting temporarily \u201ccompletely lost control.\u201d</p>\n<p>Under Kansas law, a jury cannot consider mental disease or defect as a defense to a crime except insofar as it shows \u201cthat the defendant lacked the mental state required as an element of the offense charged.\u201d In effect, this law makes irrelevant \u201cwhether the defendant is unable to know the nature and quality of his actions or know the difference between right and wrong with respect to his actions.\u201d</p>\n<p>The Kansas Supreme Court affirmed the conviction and sentence.</p>\n",
+    "conclusion": "<p>Yes; due process does not require Kansas to adopt an insanity test that turns on a defendant\u2019s ability to recognize that his crime was morally wrong. Justice Elena Kagan authored the opinion for a 6-3 majority of the Court. The Court acknowledged that for hundreds of years, judges have recognized that a criminal defendant\u2019s insanity at the time of the commission of a criminal act can relieve criminal responsibility. And while the Kansas law at issue does make irrelevant the question of moral incapacity, it still permits mental illness as a defense to culpability if it prevented a defendant from forming the criminal intent required for commission of the crime. The Court has repeatedly declined to adopt one particular version of the insanity defense, and it declined to do so in this case, as well. No single version of the insanity defense has become so ingrained in American law as to be \u201cfundamental,\u201d and states retain the authority to define the precise relationship between criminal culpability and mental illness.</p>\n<p>Justice Stephen Breyer wrote a dissenting opinion, in which Justices Ruth Bader Ginsburg and Sonia Sotomayor joined. Justice Breyer argued that Kansas did not merely redefine the insanity defense; it \u201celiminated the core\u201d of a defense \u201cso rooted in the traditions and conscience of our people as to be ranked as fundamental.\u201d He provided several hypotheticals to illustrate his point that Kansas\u2019s version of the insanity defense \u201crequires conviction of a broad swath of defendants who are obviously insane and would be adjudged not guilty under any traditional form of the defense.\u201d As such, he would conclude that Kansas\u2019s law violates a \u201cfundamental precept of our criminal law\u201d and thus is unconstitutional.</p>\n"
+}

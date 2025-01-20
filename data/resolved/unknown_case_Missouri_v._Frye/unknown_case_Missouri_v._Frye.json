@@ -1,0 +1,42 @@
+{
+    "ID": 55874,
+    "name": "Missouri v. Frye",
+    "href": "https://api.oyez.org/cases/2011/10-444",
+    "view_count": 0,
+    "docket_number": "10-444",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1294380000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40988"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1320037200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40989"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1332306000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40990"
+        }
+    ],
+    "question": "<p>Can a defendant who validly pleads guilty assert a claim of ineffective assistance of counsel by alleging that, but for counsel's error in failing to communicate a plea offer, he would have pleaded guilty with more favorable terms?</p>\n",
+    "citation": {
+        "volume": "566",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19796"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that the Sixth Amendment requires defense attorneys to communicate formal plea offers from the prosecution.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/566/134/",
+    "facts_of_the_case": "<p>Missouri prosecutors offered Galin Edward Frye two deals while seeking his conviction for driving while his license was revoked, but his lawyer never told Frye about the offers. Frye pleaded guilty to a felony charge and was sentenced to three years in prison. He appealed, saying his lawyer should have told him about the previous deals. A Missouri appeals court agreed. Prosecutors contend that not knowing about the deals they offered doesn't mean that Frye didn't know what he was doing when he decided to plead guilty.</p>\n",
+    "conclusion": "<p>Yes. In a 5-4 decision written by Justice Anthony Kennedy, the Court held that the Sixth Amendment requires defense attorneys to communicate formal plea offers from the prosecution. Justice Kennedy looked to <em>Hill v. Lockhart</em> and <em>Padilla v. Kentucky</em> ; in both cases, a prisoner claimed his guilty plea was invalid because counsel provided incorrect advice pertinent to the plea. While acknowledging that a defendant has no right to receive a plea offer, Justice Kennedy noted that the vast majority of both federal and state convictions are the result of guilty pleas. Justice Kennedy finally held that Frye must show a reasonable probability he would have accepted the initial plea and that neither the prosecution nor the trial court would have prevented the offer from being accepted or implemented.</p>\n<p>Justice Antonin Scalia, joined by Chief Justice John Roberts, Justice Clarence Thomas, and Justice Samuel Alito, dissented. Justice Scalia argued that Frye was not denied his constitutional right to a fair trial because counsel's mistake did not deprive him of any substantive or procedural right. He further questioned the speculative nature of the majority's tests for effective counsel in plea bargaining.</p>\n"
+}

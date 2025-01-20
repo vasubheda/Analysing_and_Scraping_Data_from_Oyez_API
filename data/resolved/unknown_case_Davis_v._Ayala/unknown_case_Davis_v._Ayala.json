@@ -1,0 +1,42 @@
+{
+    "ID": 56078,
+    "name": "Davis v. Ayala",
+    "href": "https://api.oyez.org/cases/2014/13-1428",
+    "view_count": 0,
+    "docket_number": "13-1428",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1413781200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41650"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1425362400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41651"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1434603600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52761"
+        }
+    ],
+    "question": "<p>Is a state court's determination that a federal constitutional violation is harmless error an \"adjudication on the merits\" for purposes of the Antiterrorism and Effective Death Penalty Act of 1996?</p>\n<p>Did the Court of Appeals properly apply the standard articulated in <em>Brecht v. Abrahamson</em> for reviewing whether a constitutional violation is harmless error?</p>\n",
+    "citation": {
+        "volume": "576",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/27103"
+    },
+    "term": "2014",
+    "description": "A case in which the Court held that, when a state court has adjudicated constitutional claims on the merits, a federal court can only overturn that determination if the state court\u2019s decision was based on an unreasonable view of the facts or contrary to clearly established federal law, and that there must be grave doubt regarding whether a possible constitutional error was harmless in order to hold that it was not.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/576/257/",
+    "facts_of_the_case": "<p>Hector Ayala, a Hispanic man, was charged with three counts of murder and one count of attempted murder stemming from a failed robbery. During jury selection for his trial in California state court, the prosecution used seven preemptory challenges to exclude each black or Hispanic prospective juror. Ayala challenged the prosecution's use of preemptory challenges as a violation of the Supreme Court's decision in <em>Batson v. Kentucky</em>, which held that the exclusion of jurors on the basis of race was a violation of the Equal Protection Clause of the Fourteenth Amendment. In accordance with <em>Batson</em>, if a party can make a prima facie showing that preemptory challenges are being used in a racially motivated way, the other party must give a non-racially motivated reason for their use of the preemptory challenges. The state court allowed the prosecution to give their non-racially motivated reasons in a closed hearing, from which Ayala and his attorneys were excluded, and subsequently found the prosecution's use of preemptory challenges was not racially motivated. Ayala was not given the prosecution's reasoning or a transcript of the meeting until after the conclusion of his trial. Additionally, after the trial it was discovered that the vast majority of the questionnaires all the potential jurors had to fill out had been lost. Ayala was found guilty of the majority of the charges against him and sentenced to death.</p>\n<p>On appeal, the California Supreme Court found that the state court erred in excluding Ayala from the <em>Batson</em> hearing, but that error as well as the loss of the questionnaires were harmless, and therefore upheld Ayala's conviction. Ayala appealed to the U.S Court of Appeals for the Ninth Circuit and argued that the <em>Batson</em> hearing procedure and loss of the questionnaires violated his constitutional rights. In accordance with the Antiterrorism and Effective Death Penalty Act of 1996, the appellate court found that the California Supreme Court had not adjudicated Ayala's claims of federal constitutional violations on the merits largely on the basis that the California Court had determined the procedure used for the <em>Batson</em> hearing violated California state law; therefore the appellate court reviewed Ayala's claims <em>de novo</em> and found that the exclusion of Ayala from the <em>Batson</em> hearing, as well as the loss of the questionnaires, violated Ayala's constitutional rights. To determine whether the errors were harmless, the Court of Appeals applied the standard set forth in <em> Brecht v. Abrahamson</em> , which asked whether the errors had a substantial and injurious influence on the jury's verdict, and found that the exclusion of Ayala from the Batson  hearing deprived him of the ability to prevail on a compelling <em>Batson</em> challenge.</p>\n",
+    "conclusion": "<p>Yes, no. Justice Samuel A. Alito, Jr. delivered the opinion of the 5-4 majority. The Court held that habeas petitioners are not entitled to relief unless they can establish that the alleged error resulted from \u201cactual prejudice,\u201d which is the standard established in <em>Brecht v. Abrahamson</em>. The standard requires that the reviewing court find that there was more than a \u201creasonable possibility\u201d that the error was harmful; there must be \u201cgrave doubt\u201d as to whether the error had a substantial or injurious effect or influence on the jury\u2019s determination. The Court also held that the California Supreme Court had adjudicated the case on the merits based on the statutory language of the Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA), which means that the highly deferential AEDPA standard applies to a federal habeas petition to review the state court\u2019s decision. Therefore, a federal court cannot overturn a state court\u2019s determination unless the decision was contrary to clearly established law or based on an unreasonable view of the facts. Because the record supports the state court\u2019s interpretation of the facts, the federal appellate court erred in holding that the prosecutions use of peremptory strikes was not harmless.</p>\n<p>In his concurring opinion, Justice Anthony M. Kennedy wrote that there is a great deal of focus on the adjudication of guilt or innocence but not enough on the conditions prisoners face in prison, particularly solitary confinement and its long-term effects on their mental health. Justice Clarence Thomas also wrote a separate concurrence in which he addressed the concerns Justice Kennedy raised by noting that any prison accommodations are more comfortable than those afforded to the victims of Ayala\u2019s crimes.</p>\n<p>Justice Sonia Sotomayor wrote a dissent in which she argued that the majority opinion\u2019s analysis is based on a consideration of whether Ayala\u2019s attorney\u2019s could have raised successful arguments had they been present at the <em>Batson</em> hearing rather than whether they were erroneously excluded. Had Ayala\u2019s attorney\u2019s been present, they likely could have raised potentially significant arguments and at the very least could have added to the record in a manner that would have been helpful on appeal. Because the procedural error of excluding Ayala\u2019s attorneys from the <em>Batson</em> hearing likely prevented Ayala from raising significant arguments, the appellate court could properly review the state court\u2019s determination and find that the errors were not harmless. Justice Ruth Bader Ginsburg, Justice Stephen G. Breyer, and Justice Elena Kagan joined in the dissent.</p>\n"
+}

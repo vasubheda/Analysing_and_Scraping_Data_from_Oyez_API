@@ -1,0 +1,42 @@
+{
+    "ID": 63597,
+    "name": "Moody v. NetChoice, LLC",
+    "href": "https://api.oyez.org/cases/2023/22-277",
+    "view_count": 0,
+    "docket_number": "22-277",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1695963600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55325"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1708927200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55407"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1719810000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55503"
+        }
+    ],
+    "question": "<p>Do Florida S.B. 7072\u2019s content-moderation restrictions comply with the First Amendment, and do the law\u2019s individualized-explanation requirements comply with the First Amendment?</p>\n",
+    "citation": {
+        "volume": "603",
+        "page": null,
+        "year": "2024",
+        "href": "https://api.oyez.org/case_citation/case_citation/27967"
+    },
+    "term": "2023",
+    "description": "A case in which the Court was asked to decide whether Florida S.B. 7072\u2019s content-moderation restrictions comply with the First Amendment and whether the law\u2019s individualized-explanation requirements comply with the First Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/603/22-277/",
+    "facts_of_the_case": "<p>Social-media platforms collect third-party posts, including text, photos, and videos, and distribute them to other users. Importantly, they are private enterprises, not governmental entities, and thus are not subject to constitutional requirements for free speech. Users have no obligation to consume or contribute to the content on these platforms. And unlike traditional media, social-media platforms primarily host content created by individual users rather than the companies themselves (although they do engage in some speech of their own, such as publishing terms of service and community standards). They are not merely conduits of that content, however; they curate and edit the content that users see, which involves removing posts that violate community standards and prioritizing posts based on various factors.</p>\n<p>The State of Florida enacted S.B. 7072 to address what it perceives as bias and censorship by large social media platforms against conservative voices. The legislation imposes various restrictions and obligations on social media platforms, such as prohibiting the deplatforming of political candidates and requiring detailed disclosures about content moderation policies. It aims to treat social media platforms like common carriers and focuses on those platforms that either have annual gross revenues exceeding $100 million or at least 100 million monthly individual participants globally. Enforcement mechanisms include substantial fines and the option for civil suits.</p>\n<p>NetChoice and the Computer &amp; Communications Industry Association (together, \u201cNetChoice\u201d)\u2014are trade associations that represent internet and social-media companies like Facebook, Twitter, Google (which owns YouTube), and TikTok. They sued the Florida officials charged with enforcing S.B. 7072 under 42 U.S.C. \u00a7 1983, alleging that the law's provisions (1) violate the social-media companies\u2019 right to free speech under the First Amendment and (2) are preempted by federal law.</p>\n<p>The district court granted NetChoice\u2019s motion for a preliminary injunction, concluding that the provisions of the Act that make platforms liable for removing or deprioritizing content are likely preempted by federal law, specifically 47 U.S.C. \u00a7 230(c)(2), and that the Act\u2019s provisions infringe on platforms\u2019 First Amendment rights by restricting their \u201ceditorial judgment.\u201d The court applied strict scrutiny due to the Act's viewpoint-based purpose of defending conservative speech from perceived liberal bias in big tech. The court found that the Act does not survive strict scrutiny as it isn't narrowly tailored and doesn't serve a legitimate state interest. The State appealed, and the U.S. Court of Appeals for the Eleventh Circuit affirmed these conclusions.</p>\n",
+    "conclusion": "<p>The judgments are vacated, and the cases are remanded, because neither the Eleventh Circuit nor the Fifth Circuit conducted a proper analysis of the facial First Amendment challenges to the Florida and Texas laws regulating large internet platforms. Justice Elena Kagan authored the majority opinion of the Court.</p>\n<p>Under precedents like Miami Herald v. Tornillo, Pacific Gas &amp; Electric Co. v. Public Utilities Commission, Turner Broadcasting v. FCC, and Hurley v. Irish-American Gay, Lesbian and Bisexual Group of Boston, when a private entity engages in expressive activity, including curating others' speech, government interference with that activity implicates the First Amendment.</p>\n<p>Specifically, the First Amendment protects entities engaged in expressive activities, including compiling and curating others' speech, from being forced to accommodate messages they prefer to exclude. This protection applies even when the compiler includes most items and excludes only a few. The government cannot justify interfering with a private speaker's editorial choices merely by claiming an interest in improving or balancing the marketplace of ideas. These principles likely apply to the content moderation practices of social media platforms like Facebook's News Feed, indicating that state laws regulating these practices may face significant First Amendment hurdles. However, this analysis may not apply to all of the laws' applications, so it is important for courts to conduct a thorough examination of the laws' full scope and their constitutional and unconstitutional applications in a proper facial challenge analysis.</p>\n<p>Texas's regulation of social media platforms' content moderation policies aims to alter the speech displayed on these platforms, reflecting the state's disapproval of the platforms' current content selection and moderation practices. However, under the First Amendment, Texas cannot impose its preferences on how private entities curate and present speech, as this would amount to government control over the expression of ideas.</p>\n<p>Justice Amy Coney Barrett joined the majority opinion in full and authored a separate concurrence.</p>\n<p>Justice Ketanji Brown Jackson joined the majority opinion in part and authored a separate concurrence.</p>\n<p>Justice Clarence Thomas authored an opinion concurring in the judgment.</p>\n<p>Justice Samuel Alito authored an opinion concurring in the judgment, in which Justices Clarence Thomas and Neil Gorsuch joined.</p>\n"
+}

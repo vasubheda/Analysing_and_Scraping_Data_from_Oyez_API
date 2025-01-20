@@ -1,0 +1,35 @@
+{
+    "ID": 54763,
+    "name": "Neder v. United States",
+    "href": "https://api.oyez.org/cases/1998/97-1985",
+    "view_count": 0,
+    "docket_number": "97-1985",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                919749600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38284"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                928990800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38285"
+        }
+    ],
+    "question": "<p>Does the District Court's omission of the element of materiality from a jury instruction on tax fraud constitute harmless error? Is materiality an element of federal mail, wire, and bank fraud?</p>\n",
+    "citation": {
+        "volume": "527",
+        "page": "1",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18692"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/527/1/",
+    "facts_of_the_case": "<p>In the mid-1980's, Ellis E. Neder, Jr., engaged in a number of real estate transactions financed by fraudulently obtained bank loans and schemes involving land development fraud. He was indicted on numerous counts of federal mail fraud, wire fraud, bank fraud and of filing false federal income tax returns. At trial, the District Court instructed the jury that, to convict on the bank and tax offenses, it did not need to consider the materiality of any false statements, or whether Neder's actions, in fact, caused others to be defrauded. In instructing the jury on mail and wire fraud, the court did not include materiality as an element of either offense. Neder objected. Thereafter, Neder was convicted of filing false federal income tax returns and of federal mail fraud, wire fraud, and bank fraud. In affirming, the Court of Appeals held that the court erred in failing to submit the materiality element of the tax offense to the jury. However, under harmless-error analysis, the appeals court concluded the error was harmless because the error \"'did not contribute to the verdict obtained.\" The appeals court also determined that materiality is not an element of mail fraud, wire fraud, and bank fraud. Thus, the District Court did not err in failing to submit materiality to the jury.</p>\n",
+    "conclusion": "<p>Yes and Yes. In an opinion delivered by Chef Justice William H. Rehnquist, the Court held 6-3 that under the harmless-error rule, which applies to a jury instruction that omits an element of an offense, the trial court's error did not render Neder's trial \"fundamentally unfair.\" Thus, the error was harmless. In dissent, Justices Antonin Scalia, David H. Souter, and Ruth Bader Ginsburg argued that depriving a criminal defendant of the right to have a jury determine his commission of every element of the crime charged could not constitute a harmless error. Additionally, the Court unanimously held that materiality is an element of federal mail fraud, wire fraud, and bank fraud.</p>\n"
+}

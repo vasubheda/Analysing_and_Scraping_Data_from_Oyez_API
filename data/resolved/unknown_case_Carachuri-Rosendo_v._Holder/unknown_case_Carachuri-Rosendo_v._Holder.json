@@ -1,0 +1,42 @@
+{
+    "ID": 55661,
+    "name": "Carachuri-Rosendo v. Holder",
+    "href": "https://api.oyez.org/cases/2009/09-60",
+    "view_count": 0,
+    "docket_number": "09-60",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1260770400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40441"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1270011600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40442"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1276491600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40443"
+        }
+    ],
+    "question": "<p>Has a person convicted under state law for simple drug possession been \"convicted\" of an \"aggravated felony\" on the theory that he could have been prosecuted as a recidivist, even though there was no charge or finding of a prior conviction in his prosecution for possession?</p>\n",
+    "citation": {
+        "volume": "560",
+        "page": "563",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19583"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that a minor drug offense is not automatic grounds for deportation of a legal immigrant.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/560/563/",
+    "facts_of_the_case": "<p>Jose Angel Carachuri-Rosendo was admitted to the United States in 1993 and became a lawful permanent resident. In 2004, he pled guilty to misdemeanor possession of marijuana. One year later, he pled guilty to misdemeanor possession of Xanax, but was not tried as a recidivist. In 2006, Mr. Carachuri was notified that he was removable from the United States. He applied for removal cancellation, which was denied. The Board of Immigration Appeals affirmed the decision.</p>\n<p>On appeal, the U.S. Court of Appeals for the Fifth Circuit affirmed, holding that Mr. Carachuri was ineligible for cancellation of removal. The court reasoned that because Mr. Carachuri's second drug conviction could have been punished as a felony under the Controlled Substances Abuse Act, had he been prosecuted in federal court, the conviction qualified as an \"aggravated felony\" making him ineligible for cancellation of removal.</p>\n",
+    "conclusion": "<p>No. The Supreme Court held that a minor drug offense is not automatic grounds for deportation of a legal immigrant. Writing for the majority, Justice John Paul Stevens reasoned that \"although a federal immigration court may have the power to make a recidivist finding in the first instance, it cannot, ex post, enhance the state offense of record just because facts known to it would have authorized a greater penalty under either state or federal law.\" Justice Antonin Scalia and Clarence Thomas each filed an opinion concurring in the judgment only.</p>\n"
+}

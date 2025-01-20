@@ -1,0 +1,42 @@
+{
+    "ID": 62820,
+    "name": "Wilson v. Sellers",
+    "href": "https://api.oyez.org/cases/2017/16-6855",
+    "view_count": 0,
+    "docket_number": "16-6855",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1488175200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53983"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1509339600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54109"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1523941200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54251"
+        }
+    ],
+    "question": "<p>Did the appeals court err in holding that Harrington v. Richter silently abrogates the presumption that a federal court sitting in habeas proceedings should \u201clook through\u201d a summary state court ruling to review the last reasoned decision?</p>\n",
+    "citation": {
+        "volume": "584",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27510"
+    },
+    "term": "2017",
+    "description": "A case in which the Court decided that a federal habeas court reviewing an unexplained state court decision on the merits should \u201clook through\u201d that decision to the most recent related state court decision that provides a relevant rationale and presume that the unexplained decision adopted the same reasoning, and that the state may rebut that presumption by showing that the unexplained decision most likely relied on different grounds than the reasoned decision below.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/584/16-6855/",
+    "facts_of_the_case": "<p>A Georgia jury convicted Marion Wilson of malice murder and several other felonies. At sentencing, Wilson\u2019s attorney argued that Wilson was not the triggerman and presented evidence of his difficult childhood. The trial court sentenced Wilson to death, and the Supreme Court of Georgia affirmed his convictions and sentence on direct appeal. Wilson filed a state petition for a writ of habeas corpus in the Superior Court of Butts County, Georgia, in which he argued ineffective assistance of his trial counsel in the sentencing phase of his trial. His argument rested on lay testimony that could have been used as evidence of his difficult childhood and expert testimony that could have explained his poor judgment skills. The superior court denied the petition in a written order. Wilson then filed an application for a certificate of probable cause to appeal, which the Georgia Supreme Court summarily denied in a one-sentence order.\u00a0</p>\n<p>Wilson then filed a federal petition for a writ of habeas corpus, and the district court denied him relief on the grounds that the state trial court reasonably applied clearly established federal law. However, the district court granted Wilson a certificate of appealability on the issue of effective assistance of counsel at sentencing. A panel of the Eleventh Circuit affirmed the district court\u2019s decision, reasoning that \u201cthe one-line decision of the Supreme Court of Georgia . . . is the relevant state-court decision for our review because it is the final decision on the merits.\u201d In his petition for rehearing en banc, Wilson argued that the panel should have examined the last reasoned decision by a state court. Georgia originally argued a federal court should \u201clook through\u201d a summary order to see whether it was based on procedural grounds or merits, but then it changed its position and argued that the court should look to the reasoned opinion. The Eleventh Circuit, sitting en banc, appointed an amicus curiae to argue Georgia\u2019s original position on the matter. The Eleventh Circuit en banc ultimately concluded that federal courts do not need to \u201clook through\u201d a summary decision on the merits to review the reasoning of a lower court.</p>\n",
+    "conclusion": "<p>The Court reversed the Eleventh Circuit\u2019s ruling, holding that a federal habeas court reviewing an unexplained state court decision on the merits should \u201clook through\u201d that decision to the most recent related state court decision that provides a relevant rationale and presume that the unexplained decision adopted the same reasoning, and that the state may rebut that presumption by showing that the unexplained decision most likely relied on different grounds than the reasoned decision below.</p>\n<p>The Court explained that since its holding in <a href=\"https://www.oyez.org/cases/1990/90-68\"><em>Ylst v. Nunnemaker</em></a>, every circuit to have considered the matter except for the Eleventh Circuit has applied a \u201clook through\u201d presumption where there has been a reasoned state judgment rejecting a federal claim and subsequent unexplained orders upholding the judgment or rejecting the same claim, presuming that those later unexplained orders rested on the same ground.</p>\n<p>The Court rejected the state\u2019s argument that its opinion in <a href=\"https://www.oyez.org/cases/2010/09-587\"><em>Harrington v. Richter</em></a> controls in this context, as that case did not directly consider the \u201clook through\u201d issue, and it also did not bar the application of <em>Ylst</em>\u2019s reasoning in a case involving an unexplained decision on the merits.</p>\n<p>The Court further explained that the \u201clook through\u201d presumption is not an absolute rule, and that while it is not a presumption that the Court applies in a general sense relative to silent opinions, when federal courts employ it pursuant to the Antiterrorism and Effective Death Penalty Act of 1996, it is for a specific and narrow purpose. Thus, there should be no reason why a federal court\u2019s opinion of a state court\u2019s silence should create binding precedent outside of this context. Finally, the Court explained that the \u201clook through\u201d approach does not show disrespect for the states, and is unlikely to lead a large number of courts to write full opinions where they otherwise would have ruled summarily.</p>\n<p>The Court remanded the case to the Eleventh Circuit for further review consistent with the majority opinion. Justice Gorsuch filed a dissenting opinion, in which Justices Alito and Thomas joined.</p>\n"
+}

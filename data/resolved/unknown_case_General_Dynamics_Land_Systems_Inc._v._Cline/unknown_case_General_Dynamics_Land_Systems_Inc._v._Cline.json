@@ -1,0 +1,42 @@
+{
+    "ID": 55190,
+    "name": "General Dynamics Land Systems Inc. v. Cline",
+    "href": "https://api.oyez.org/cases/2003/02-1080",
+    "view_count": 0,
+    "docket_number": "02-1080",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1050901200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39149"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1068616800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39150"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1077602400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39151"
+        }
+    ],
+    "question": "<p>Does the Age Discrimination in Employment Act (1967) prohibit \"reverse discrimination\" against workers over 40 (e.g., providing more favorable employer benefits to workers over 50 than to younger workers who are still over 40)?</p>\n",
+    "citation": {
+        "volume": "540",
+        "page": "581",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19118"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/540/581/",
+    "facts_of_the_case": "<p>General Dynamics Land Systems renegotiated its union contract to provide full health care benefits only to retirees who were more than 50 years old by a July 1, 1997, deadline. Union member Dennis Cline fell two years short of 50 at the time of the deadline and was excluded permanently from receiving health benefits.</p>\n<p>Cline - along with 196 other 40-to 49-year-old employees - filed suit against General Dynamics under the Age Discrimination in Employment Act of 1967 (ADEA). ADEA protects workers over 40 from age discrimination. Since the contract excluded workers between the ages of 40 and 49, Cline alleged that providing benefits only to retirees 50 and up was illegal age discrimination.</p>\n<p>A U.S. district court in Ohio rejected Cline's claims. The court ruled that the ADEA does not recognize claims for \"reverse discrimination\" or preferential treatment for older people within the same over-40 class. Cline appealed and the U.S. Court of Appeals for the Sixth Circuit reversed. The court ruled that General Dynamics was guilty of plain age discrimination, since the ADEA protects all persons over 40 from age discrimination by their employers.</p>\n",
+    "conclusion": "<p>No. Justice David H. Souter delivered the Court's 6-3 opinion that the Age Discrimination in Employment Act's \"text, structure, purpose, history, and relationship to other federal statutes show that the statute does not mean to stop an employer from favoring an older employee over a younger one.\" The Court cited a long-held understanding of the \"ADEA as a remedy for unfair preference based on relative youth, leaving complaints of the relatively young outside the statutory concern.\" The Court also noted the findings section of the act included no evidence of younger workers being discriminated against in favor of older workers. Further \"[i]f Congress had been worrying about protection the younger against the older, it would not likely have ignored everyone under 40.\"</p>\n"
+}

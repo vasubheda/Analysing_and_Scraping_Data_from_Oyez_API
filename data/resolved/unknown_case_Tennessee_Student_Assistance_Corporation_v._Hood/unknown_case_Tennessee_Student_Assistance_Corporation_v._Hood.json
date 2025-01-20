@@ -1,0 +1,42 @@
+{
+    "ID": 55149,
+    "name": "Tennessee Student Assistance Corporation v. Hood",
+    "href": "https://api.oyez.org/cases/2003/02-1606",
+    "view_count": 0,
+    "docket_number": "02-1606",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1064898000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39034"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1078120800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39035"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1084770000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39036"
+        }
+    ],
+    "question": "<p>Does the Bankruptcy Clause (Article I Section 8 of the U.S. Constitution) give Congress the power to waive a state's sovereign immunity in matters pertaining a federal bankruptcy court's forgiveness of debt owed to the state?</p>\n",
+    "citation": {
+        "volume": "541",
+        "page": "440",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19078"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/541/440/",
+    "facts_of_the_case": "<p>Pamela Hood had an outstanding debt to the Tennessee Student Assistance Corporation, a loan-granting institution established by the state, when she filed for bankruptcy. The state objected to her request that the debt be forgiven (\"discharged\" in the terms of bankruptcy law) by the federal bankruptcy court, arguing that to discharge the debt would violate the state's sovereign immunity (that is, its right not to be sued). Hood countered that the Federal Rules of Bankruptcy Procedure allow student loan debts to be discharged if the bankruptcy filer can demonstrate that they will suffer \"undue hardship\" if the debt is not forgiven, and that this congressional permission is a constitutional waiver of state sovereign immunity because it falls under the power granted to Congress by the Bankruptcy Clause (Article I, Section 8 of the U.S. Constitution).</p>\n<p>The bankruptcy court sided with Hood, finding that Congress had acted constitutionally in waiving the states' sovereign immunity. The Sixth Circuit Bankruptcy Appellate Panel affirmed, as did a normal panel of the Sixth Circuit.</p>\n",
+    "conclusion": "<p>In a per curiam (unsigned) opinion, the Court declined to reach the question of whether the Bankruptcy Clause gives Congress the power to waive a state's sovereign immunity. Instead, the Court ruled that discharging a debt owed to a state in a bankruptcy procedure is different from a suit and therefore not barred by sovereign immunity. \"A bankruptcy court is able to provide the debtor a fresh start in this manner ... because the court's jurisdiction is premised on the debtor and his estate, and not on the creditors,\" wrote the Court. That is, the discharge of debt by a bankruptcy court is not a personal suit against a state (which would violate sovereign immunity) but instead merely a modification of a debtor's estate that incidentally affects a state. As such, it is permissible even without Congressional waiver of sovereign immunity.</p>\n"
+}

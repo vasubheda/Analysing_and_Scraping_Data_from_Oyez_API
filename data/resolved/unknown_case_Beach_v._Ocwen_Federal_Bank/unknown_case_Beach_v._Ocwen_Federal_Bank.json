@@ -1,0 +1,35 @@
+{
+    "ID": 54633,
+    "name": "Beach v. Ocwen Federal Bank",
+    "href": "https://api.oyez.org/cases/1997/97-5310",
+    "view_count": 0,
+    "docket_number": "97-5310",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                888818400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38046"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                893134800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38047"
+        }
+    ],
+    "question": "<p>Can homeowners who face foreclosure rescind a mortgage loan on the ground that the lender violated the federal truth-in-lending law?</p>\n",
+    "citation": {
+        "volume": "523",
+        "page": "410",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18562"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/523/410/",
+    "facts_of_the_case": "<p>David and Linda Beach refinanced their Florida house in 1986 with a loan from Great Western Bank. In 1991, they stopped making mortgage payments. In 1992, Great Western began foreclosure proceedings. While the Beach's acknowledged their default, they alleged that the bank's failure to make disclosures required by the Truth in Lending Act gave them the right under federal law to rescind the mortgage agreement. The Florida trial court rejected that defense, holding that any right to rescind had expired in 1989 under federal law which provides that the right of rescission shall expire three years after the loan closes. The state's intermediate appellate court affirmed, as did the Florida Supreme Court.</p>\n",
+    "conclusion": "<p>No. In a unanimous decision, announced by Justice David H. Souter, the Court ruled no such defense could be raised after the three-year deadline of the federal Truth in Lending Act expires.</p>\n"
+}

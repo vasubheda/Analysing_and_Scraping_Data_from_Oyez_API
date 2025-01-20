@@ -1,0 +1,42 @@
+{
+    "ID": 55281,
+    "name": "Clark v. Martinez",
+    "href": "https://api.oyez.org/cases/2004/03-878",
+    "view_count": 0,
+    "docket_number": "03-878",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1078120800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39405"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1097643600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39406"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1105509600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39407"
+        }
+    ],
+    "question": "<p>In Zadvydas v. Davis (2001), the U.S. Supreme Court said admitted immigrants could be detained for deportation for more than 90 days, but no longer than reasonably necessary. Did this ruling apply to inadmissible aliens, such as Benitez and Martinez?</p>\n",
+    "citation": {
+        "volume": "543",
+        "page": "371",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19209"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/543/371/",
+    "facts_of_the_case": "<p>The federal government deemed Daniel Benitez and Sergio Martinez inadmissible immigrants and detained them until they could be returned to Cuba.</p>\n<p>Benitez and Martinez argued that because deportation to Cuba was unforeseeable, they could not be detained longer than the 90 days allowed by federal law. They pointed to the U.S. Supreme Court's 2001 decision in Zadvydas v. Davis that said the government can detain beyond 90 days immigrants who were admitted to the United States, but only so long as necessary to deport them. Immigrants must be released if deportation is unforeseeable, the Court said.</p>\n<p>While separate district courts agreed deportation to Cuba was unforeseeable, the Ninth Circuit and 11th Circuits disagreed over whether Zadvydas applied to inadmissible immigrants.</p>\n<p>The U.S. Supreme Court consolidated the two cases.</p>\n",
+    "conclusion": "<p>Yes. In a 7-2 decision delivered by Justice Antonin Scalia, the Court said the requirement that immigrants be detained no longer than reasonably necessary for deportation applied to both admissible and inadmissible immigrants. Because readmission to Cuba was unforeseeable, the detentions of Martinez and Benitez were unreasonable. The Court refused to give the same immigration statute different interpretations based on immigrants' characteristics.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 63136,
+    "name": "Holguin-Hernandez v. United States",
+    "href": "https://api.oyez.org/cases/2019/18-7739",
+    "view_count": 0,
+    "docket_number": "18-7739",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1559538000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54523"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1575957600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54626"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1582696800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54667"
+        }
+    ],
+    "question": "<p>Must a criminal defendant make a formal objection after the pronouncement of his sentence to invoke appellate reasonableness review of the length of the sentence?</p>\n",
+    "citation": {
+        "volume": "589",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27683"
+    },
+    "term": "2019",
+    "description": "A case in which the Court held that a criminal defendant's district-court argument for a specific sentence preserved his claim on appeal that the sentence imposed was unreasonably long.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/589/18-7739/",
+    "facts_of_the_case": "<p>Gonzalo Holguin was convicted for possession of marijuana with intent to distribute, in violation of federal law, and sentenced to 24 months in prison, followed by two years of supervised release. Holguin was again arrested for possession and intent to distribute, and after that arrest the government filed a petition to revoke the supervised release term. Before the revocation hearing occurred, Holguin pleaded guilty to the second set of charges.</p>\n<p>At the revocation hearing, the district court explained the allegations of the revocation petition to Holguin and asked how he pleaded. Holguin answered \u201cTrue.\u201d Holguin\u2019s attorney argued for a concurrent sentence on the revocation, but the court issued a 12-month consecutive sentence instead. Holguin appealed the reasonableness of his sentence, and the U.S. Court of Appeals for the Fifth Circuit affirmed, finding Holguin had failed to make a formal objection after the announcement of his sentence.</p>\n",
+    "conclusion": "<p>A criminal defendant need not make a formal objection to his issued sentence in order to preserve his right on appeal to have that sentence reviewed for \u201creasonableness\u201d rather than for \u201cplain error,\u201d the standard that would control absent sufficient objection at the time of sentencing. Writing for a unanimous Court, Justice Breyer noted a split of authority among the various federal courts of appeal and explained, \u201cWe do not agree with the Court of Appeals\u2019 suggestion that defendants are required to refer to the \u201creasonableness\u2019 of a sentence\u201d to preserve their right to have that sentence reviewed for reasonableness rather than plain error. In other words, \u201cA defendant who, by advocating for a particular sentence, communicates to the trial judge his view that a longer sentence is \u2018greater than necessary\u2019 has thereby informed the court of the legal error at issue in an appellate challenge to the substantive reasonableness of the sentence.\u201d The Court continued, \u201cHe need not also refer to the standard of review\u201d in his argument or objection to preserve the more favorable reasonableness standard of review on appeal.\u00a0</p>\n<p>The Court also noted a pair of issues raised by the government and various amicus curiae about preserving a claim of improper sentencing procedures and also when a party has preserved particular arguments regarding an appeal over the length of a sentence. The Court refused to reach those larger issues, holding only that the appellant had preserved his right to appeal the length of his sentence as unreasonable in the particular circumstances of this case.</p>\n<p>Justice Alito authored a concurrence, joined by Justice Gorsuch, to further elaborate on the limited nature of the ruling.</p>\n"
+}

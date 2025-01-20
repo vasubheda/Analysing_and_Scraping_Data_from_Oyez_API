@@ -1,0 +1,35 @@
+{
+    "ID": 54596,
+    "name": "County of Sacramento v. Lewis",
+    "href": "https://api.oyez.org/cases/1997/96-1337",
+    "view_count": 0,
+    "docket_number": "96-1337",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                881647200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37976"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                896158800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37977"
+        }
+    ],
+    "question": "<p>Are the Fourteenth Amendment's substantive due process protection, or the Fourth Amendment's guarantee against illegal seizure, violated by a police officer who, in the course of pursuing a subject, causes their death through deliberate or reckless indifference?</p>\n",
+    "citation": {
+        "volume": "523",
+        "page": "833",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18525"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/523/833/",
+    "facts_of_the_case": "<p>Philip Lewis was a passenger on a motorcycle that was involved in a high-speed police chase. The chase ended when the motorcycle's driver lost control and tipped the bike over, hurling both riders to the pavement. James Smith, one of two pursuing Sacramento county sheriff's deputies, was unable to stop his car in time and skidded into Philip, causing fatal injuries. Philip's parents, Teri and Thomas Lewis, accused Smith and the Sacramento county police department of deliberate and reckless conduct which ultimately deprived their son of his due process right to life and his protection against unconstitutional seizure. On appeal from an appellate court's reversal of a district court decision favoring Smith, the Supreme Court granted certiorari.</p>\n",
+    "conclusion": "<p>No. In a unanimous decision the Court first ruled that the Fourth Amendment's reasonableness standards prevented its illegal seizure protections from applying to high-speed police chases. Such incidents are merely pursuits and do not constitute actual seizures, especially if they fail due to the death of the subject. Moreover, addressing the Fourteenth Amendment challenge, the Court held that Smith's actions, while perhaps unwise, were not intended to injure or kill those pursued. As such, the negligent infliction of harm during a police chase does not violate due process since it is not an unexpectedly shocking or egregious result under the circumstances.</p>\n"
+}

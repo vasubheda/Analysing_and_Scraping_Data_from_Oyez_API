@@ -1,0 +1,33 @@
+{
+    "ID": 63690,
+    "name": "United States v. Miller",
+    "href": "https://api.oyez.org/cases/2024/23-824",
+    "view_count": 0,
+    "docket_number": "23-824",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1719205200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55478"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1733119200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55545"
+        }
+    ],
+    "question": "<p>May a bankruptcy trustee avoid a debtor\u2019s tax payment to the United States under 11 U.S.C. \u00a7 544(b) when no actual creditor could have obtained relief under the applicable state fraudulent-transfer law outside of bankruptcy?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28024"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether a bankruptcy trustee may avoid a debtor\u2019s tax payment to the United States under 11 U.S.C. \u00a7 544(b) when no actual creditor could have obtained relief under the applicable state fraudulent-transfer law outside of bankruptcy.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-824/"
+}

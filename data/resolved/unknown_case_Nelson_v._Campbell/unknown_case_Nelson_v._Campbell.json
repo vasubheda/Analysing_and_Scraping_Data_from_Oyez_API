@@ -1,0 +1,42 @@
+{
+    "ID": 55194,
+    "name": "Nelson v. Campbell",
+    "href": "https://api.oyez.org/cases/2003/03-6821",
+    "view_count": 0,
+    "docket_number": "03-6821",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1070258400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52672"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1080540000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52673"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1085374800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52674"
+        }
+    ],
+    "question": "<p>Is a prisoner's appeal of the proposed procedure for his execution functionally equivalent to a habeas corpus petition and therefore barred by Title 28, Section 2254 of U.S. Code?</p>\n",
+    "citation": {
+        "volume": "541",
+        "page": "637",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/20531"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/541/637/",
+    "facts_of_the_case": "<p>David Nelson was sentenced to death for murder and scheduled for execution in 1997. A series of appeals and habeas petitions in federal court delayed the execution until 2002, when an 11th Circuit Court of Appeals panel unanimously rejected a claim dealing with the alleged violation of his Sixth Amendment right to an attorney. After the final appeal was rejected, Nelson was rescheduled for execution on October 9, 2003.</p>\n<p>Nelson filed petition in federal district court alleging that the method of execution proposed by Alabama violated his Eighth Amendment protection against cruel and unusual punishment. Alabama had notified Nelson that, because of damage done to his veins by previous intravenous drug abuse, the execution procedure might require corrections officers to cut through muscles and fat in his arm to get access to a vein that could carry the toxins. He claimed that this was an inhumane method of execution and should therefore be barred. Further, he argued that the petition was not an appeal of his conviction or sentence (appeals of both were prohibited by U.S. Code Title 28, Section 2254, a federal law designed to limit the number of habeas corpus appeals by death row inmates) but rather a freestanding lawsuit challenging the constitutionality of the proposed execution procedure. Alabama countered that Nelson's appeal was intended only to prolong his life through procedural delays, exactly what the federal law was designed to prevent, and should therefore be thrown out.</p>\n<p>The federal district court agreed with Alabama, holding that Nelson's appeal dealt not just with the procedure but with the sentence itself. It was therefore functionally equivalent to a habeas corpus petition, which was barred by Section 2254. A divided 11th Circuit Court of Appeals panel affirmed the decision. After the 11th Circuit declined to rehear the case as a whole (en banc), the U.S. Supreme Court issued a stay of execution and then accepted the case for appeal.</p>\n",
+    "conclusion": "<p>No. In an opinion by Justice Sandra Day O'Connor, the Court ruled unanimously that Nelson's suit dealt only with the proposed method of execution, not with his conviction or sentence, and was therefore different from a habeas corpus appeal. Nelson had a right to challenge the necessity of the procedure for his execution using the same legal approach he would have used to challenge the conditions of his prison. However, the Court declined to rule on whether the execution would be constitutional if the district court found that cutting through was indeed necessary, leaving that question for a case in which necessity had already been determined.</p>\n"
+}

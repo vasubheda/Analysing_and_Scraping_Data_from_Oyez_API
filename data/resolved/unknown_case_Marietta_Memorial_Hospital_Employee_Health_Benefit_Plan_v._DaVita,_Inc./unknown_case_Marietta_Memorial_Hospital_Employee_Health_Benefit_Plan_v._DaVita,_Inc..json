@@ -1,0 +1,42 @@
+{
+    "ID": 63418,
+    "name": "Marietta Memorial Hospital Employee Health Benefit Plan v. DaVita, Inc.",
+    "href": "https://api.oyez.org/cases/2021/20-1641",
+    "view_count": 0,
+    "docket_number": "20-1641",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1636088400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54998"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1646114400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55050"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1655787600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55122"
+        }
+    ],
+    "question": "<p>Did the Marietta Memorial Hospital Employee Health Benefit Plan violate the Medicare Secondary Payer Act\u2019s non-discrimination provisions through its reimbursement structure for dialysis providers?</p>\n",
+    "citation": {
+        "volume": "596",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27854"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held that the Marietta Memorial Hospital Employee Health Benefit Plan does not violate the Medicare Secondary Payer Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/596/20-1641/",
+    "facts_of_the_case": "<p>DaVita is the leading provider of dialysis treatment in the United States. Marietta Memorial Hospital Employee Health Benefit Plan is a self-funded plan governed by the Employee Retirement Income Security Act of 1974 (\u201cERISA\u201d). Patient A is an anonymous individual with end-stage renal disease who is a member of the plan and has been receiving treatment by DaVita since April 15, 2017.</p>\n<p>The Plan defines three tiers of reimbursement, and dialysis providers are categorically in the lowest tier and are considered out of network, entitling them to the lowest level of reimbursement relative to all other providers.</p>\n<p>DaVita challenged the Plan as violating the Medicare Secondary Payer Act, which prohibits health plans from treating individuals with kidney failure differently in eligibility or access to benefits. The district court dismissed all of DaVita\u2019s claims, and the U.S. Court of Appeals for the Sixth Circuit reversed in part, finding that DaVita had plausibly alleged that the Plan engaged in unlawful discrimination.</p>\n",
+    "conclusion": "<p>The Marietta Plan\u2019s coverage terms for outpatient dialysis do not violate 42 U.S.C. \u00a7 1395y(b)(1)(C) because those terms apply uniformly to all covered individuals, and the Medicare Secondary Payer statute does not authorize disparate-impact liability. Justice Brett Kavanaugh authored the 7-2 majority opinion of the Court.</p>\n<p>Section 1395y(b)(1)(C)(ii) prohibits a plan from differentiating in benefits between individuals with and without end-stage renal disease. The language of the provision cannot fairly be read to authorize liability for disparate-impact claims. Because the Marietta Plan provides the same outpatient dialysis benefits to all Plan participants, whether or not they are eligible for Medicare, it does not violate 42 U.S.C. \u00a7 1395y(b)(1)(C).</p>\n<p>Justice Elena Kagan authored a dissenting opinion, in which Justice Sonia Sotomayor joined, arguing that because outpatient dialysis is an almost perfect proxy for end-stage renal disease, differentiation on the basis of one is equivalent to differentiation on the basis of the other.</p>\n"
+}

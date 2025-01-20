@@ -1,0 +1,42 @@
+{
+    "ID": 55753,
+    "name": "CIGNA v. Amara",
+    "href": "https://api.oyez.org/cases/2010/09-804",
+    "view_count": 0,
+    "docket_number": "09-804",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1277701200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40666"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1291096800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40667"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1305522000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40668"
+        }
+    ],
+    "question": "<p>Did the district court have authority under Section 502(a)(1)(B) of ERISA to reform CIGNA's pension plan?</p>\n",
+    "citation": {
+        "volume": "563",
+        "page": "421",
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19675"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that the U.S. District Court for the District of Connecticut did not have the authority to reform CIGNA's pension plan. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/563/421/",
+    "facts_of_the_case": "<p>Under the Employee Retirement Income Security Act (ERISA), plan administrators must provide all plan participants with a \"summary plan description\" (SPD), as well as a \"summary of material modifications\" when material changes are made to the plan. After CIGNA converted its traditional defined benefit pension plan to a cash balance plan, it issued a summary plan description to plan participants. In 2001, Janice Amara, one of the participants, filed a class-action lawsuit, claiming that CIGNA failed to comply with ERISA's notice requirements and SPD provisions. The U.S. District Court for the District Connecticut found for Amara, and the U.S. Court of Appeals for the Second Circuit affirmed, finding that the SPD misrepresented the terms of the plan itself.</p>\n",
+    "conclusion": "<p>No. The Supreme Court vacated and remanded the lower court order, finding that while the district court did not have authority under Section 502(a)(1)(B) of ERISA to reform CIGNA's pension plan, it did have authority to do so under another provision, Section 502(a)(3). In a unanimous decision authored by Justice Stephen Breyer, the Court noted that \"although \u00a7502(a)(1)(B) did not give the District Court authority to reform CIGNA's plan, relief is authorized by \u00a7502(a)(3), which allows a participant, beneficiary, or fiduciary 'to obtain other appropriate equitable relief' to redress violations of ERISA 'or the [plan's] terms.'\" Justices Antonin Scalia and Clarence Thomas concurred only in the judgment. Meanwhile, Justice Sonia Sotomayor did not take part in consideration of the case.</p>\n"
+}

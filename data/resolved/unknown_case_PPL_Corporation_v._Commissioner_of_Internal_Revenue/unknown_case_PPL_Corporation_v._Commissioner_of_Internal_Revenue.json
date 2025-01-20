@@ -1,0 +1,42 @@
+{
+    "ID": 55958,
+    "name": "PPL Corporation v. Commissioner of Internal Revenue",
+    "href": "https://api.oyez.org/cases/2012/12-43",
+    "view_count": 0,
+    "docket_number": "12-43",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1351486800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41234"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1361340000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41235"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1369026000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41236"
+        }
+    ],
+    "question": "<p>Should courts use a formalistic approach or a substance-based approach that takes into account how the tax actually operates when determining the creditability of a foreign tax?</p>\n",
+    "citation": {
+        "volume": "569",
+        "page": "329",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19880"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that courts should use a common-sense, substance-based approach instead of a formalistic approach when considering the effect of a foreign tax.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/569/329/",
+    "facts_of_the_case": "<p>PPL Corporation held a 25 percent stake in South Western Electricity Board, a utility in England subject to a onetime windfall tax. After PPL paid the tax, it claimed a foreign tax credit under I.R.C. \u00a7901 on its U.S. tax return. \u00a7901 allows a credit for foreign taxes on \"income, war, profits, [or] excess profits.\" The Internal Revenue Service (IRS) denied the tax credit and issued a notice of deficiency. PPL then filed a petition in Tax Court to challenge the IRS's determination. The Tax Court agreed with PPL and the Commissioner of Internal Revenue (CIR) appealed to the U.S. Court of Appeals for the Third Circuit, arguing that \u00a7901 does not cover the windfall tax because it is a tax on the company's value, not its profits. PPL argued that, looking beyond the face of the statute, the windfall tax was intended to act as a tax on excess profits. The Third Circuit ruled in favor of the CIR, holding that the windfall tax is not eligible for credit.</p>\n",
+    "conclusion": "<p>Justice Clarence Thomas, writing for a unanimous Court, held that courts should apply a common-sense, substance-based approach when considering the effect of a foreign tax. Using this approach, the Court held that the U.K. tax is creditable under \u00a7901. The predominant character of the windfall tax was, for all intents and purposes, an income tax under U.S. definitions. The Court also held that the windfall tax should not fall under the same approach as a general tax on value. Value taxes, such as gift and estate taxes in the U.S., use past profits to estimate the tax value of future income. Conversely, the windfall tax is solely based on past, realized net income.</p>\n<p>Justice Sonia Sotomayor concurred in the judgment, but noted that an argument could have been made that the windfall tax was a tax on values as opposed to an excess profits or income-based tax. However, because that argument was not raised in oral arguments, she declined to rule on that issue.</p>\n"
+}

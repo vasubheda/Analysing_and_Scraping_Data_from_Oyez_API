@@ -1,0 +1,42 @@
+{
+    "ID": 55462,
+    "name": "LaRue v. DeWolff, Boberg & Associates, Inc.",
+    "href": "https://api.oyez.org/cases/2007/06-856",
+    "view_count": 0,
+    "docket_number": "06-856",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1182142800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39890"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1196056800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39891"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1203487200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39892"
+        }
+    ],
+    "question": "<ol>\n<li>\n<p>Does Section 502(a)(2) of the Employee Retirement Income Security Act of 1974 allow an employee pension plan participant to sue the plan manager for losses caused by breach of fiduciary duties in administering the plan, even when the losses affected only the participant's personal account?</p>\n</li>\n<li>\n<p>Does a suit brought by a plan participant against the plan manager for breach of fiduciary duty qualify as a suit for \"equitable relief\" for the purposes of Section 502(a)(3) of ERISA?</p>\n</li>\n</ol>\n",
+    "citation": {
+        "volume": "552",
+        "page": "248",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/19385"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/552/248/",
+    "facts_of_the_case": "<p>James LaRue participated in a 401(k) retirement savings plan administered by his employer, the management consulting firm DeWolff, Boberg &amp; Associates. Employee benefit plans are regulated under a federal law, the Employee Retirement Income Security Act of 1974 (ERISA). LaRue sought to exercise his option to make certain changes in his investment plan, but DeWolff neglected to make the changes. LaRue claimed that DeWolff's omission had cost him $150,000, and he sued the firm for breach of fiduciary duty, seeking to recover the money. In response, DeWolff argued that ERISA does not provide for the type of individual monetary award sought by LaRue.</p>\n<p>Section 502(a)(2) allows plan participants to sue plan administrators for breach of fiduciary duty in order to \"make good to such plan any losses to the plan resulting from each such breach.\" DeWolff argued that LaRue's suit was not of the type contemplated by the text of ERISA because LaRue sued to recover losses caused to his own personal retirement plan rather than suing to vindicate the interests of the plan as a whole. LaRue also invoked Section 502(a)(3), which allows plan participants to sue to obtain \"other appropriate equitable relief.\"</p>\n<p>The U.S. District Court held that LaRue was not entitled to relief under ERISA, and the U.S. Court of Appeals for the Fourth Circuit affirmed. The Fourth Circuit ruled that Section 502(a)(2) was concerned with protecting entire plans from misuse of plan assets and not with providing recovery for losses suffered by individual accounts. The court also rejected LaRue's Section 502(a)(3) claim. It ruled that the phrase \"equitable relief\" rarely includes relief in the form of a monetary award and only when the money has been unjustly possessed by the defendant.</p>\n",
+    "conclusion": null
+}

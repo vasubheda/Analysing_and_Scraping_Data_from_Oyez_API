@@ -1,0 +1,35 @@
+{
+    "ID": 62675,
+    "name": "V.L. v. E.L.",
+    "href": "https://api.oyez.org/cases/2015/15-648",
+    "view_count": 0,
+    "docket_number": "15-648",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1457330400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53442"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1457330400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53443"
+        }
+    ],
+    "question": "<p>Does the Full Faith and Credit Clause of the Constitution require that the Alabama state courts recognize a Georgia state court\u2019s adoption order?</p>\n",
+    "citation": {
+        "volume": "577",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27413"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that the Full Faith and Credit Clause of the Constitution requires the Alabama state courts to recognize a Georgia state court\u2019s adoption order.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/577/464/",
+    "facts_of_the_case": "<p>V.L. and E.L., a lesbian couple, were in a long-term relationship and raised three children together, of which E.L. was the biological parent. They eventually decided that V.L. should adopt the children and filed a petition to do so in Georgia state court, which granted the petition. In 2011, while living in Alabama, V.L. and E.L. ended their relationship. V.L. filed a petition in Alabama state court that alleged the E.L. had denied her access to her children and interfered with her parental rights. V.L. asked the Alabama state court to register the Georgia adoption judgment and order custody or visitation, which the court did, and E.L. appealed. The Alabama Court of Civil Appeals held that the lower court had failed to conduct an evidentiary hearing. The Alabama Supreme Court reversed and held that the Georgia state court did not have subject-matter jurisdiction to enter an adoption order for V.L. while still recognizing E.L.\u2019s parental rights and therefore the Alabama courts did not have to recognize that judgment under the Full Faith and Credit Clause.</p>\n",
+    "conclusion": "<p>The Full Faith and Credit Clause of the Constitution requires the Alabama state courts to recognize a Georgia state court\u2019s adoption order. In a per curiam opinion, the Court held that a state may only refuse to afford full faith and credit to another state\u2019s judgment if that court did not have subject-matter jurisdiction or jurisdiction over the relevant parties. In this case, Georgia law gives the state courts jurisdiction over adoption cases, and there is no established Georgia rule to the contrary, so the judgment should be afforded full faith and credit by other state courts.</p>\n"
+}

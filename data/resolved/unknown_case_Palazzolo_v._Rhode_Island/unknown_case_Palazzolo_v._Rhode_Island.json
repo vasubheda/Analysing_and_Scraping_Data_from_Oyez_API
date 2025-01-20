@@ -1,0 +1,35 @@
+{
+    "ID": 54925,
+    "name": "Palazzolo v. Rhode Island",
+    "href": "https://api.oyez.org/cases/2000/99-2047",
+    "view_count": 0,
+    "docket_number": "99-2047",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                983167200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38590"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                993704400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38591"
+        }
+    ],
+    "question": "<p>May a property owner who acquired title to the property after it was subject to wetlands regulations still bring a takings claim under the Fifth Amendment?</p>\n",
+    "citation": {
+        "volume": "533",
+        "page": "606",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18854"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/533/606/",
+    "facts_of_the_case": "<p>Anthony Palazzolo owns a waterfront parcel of land in Rhode Island. Most of the property is salt marsh, subject to tidal flooding. The Rhode Island Resources Management Council's Coastal Resources Management Program regulations designate salt marshes as protected \"coastal wetlands,\" on which development is greatly limited. After multiple development proposals of his were denied, Palazzolo filed an inverse condemnation action in Rhode Island Superior Court. Palazzolo asserted that the State's wetlands regulations had taken his property without compensation in violation of the Fifth and Fourteenth Amendments because the Council's action had deprived him of \"all economically beneficial use\" of his property. Ruling against Palazzolo, the court held that his takings claim was not ripe, that he had no right to challenge the regulations predating his acquisition of the property's title, and that he could not assert a takings claim based on the denial of all economic use of his property in light of undisputed evidence that he had $200,000 in development value remaining on an upland parcel of the property.</p>\n",
+    "conclusion": "<p>Yes. In a 5-4 opinion delivered by Justice Anthony M. Kennedy, the Court held that \"the State Supreme Court erred in finding [Palazzolo's] claims were unripe and in ruling that acquisition of title after the effective date of the regulations barred the takings claims. The court did not err in finding that [Palazzolo] failed to establish a deprivation of all economic value, for it is undisputed that the parcel retains significant worth for construction of a residence.\" Discussing the post-regulation acquisition of title, Justice Kennedy wrote, \"[w]ere we to accept the State's rule, the postenactment transfer of title would absolve the State of its obligation to defend any action restricting land use, no matter how extreme or unreasonable. A State would be allowed, in effect, to put an expiration date on the Takings Clause. This ought not to be the rule. Future generations, too, have a right to challenge unreasonable limitations on the use and value of land.\"</p>\n"
+}

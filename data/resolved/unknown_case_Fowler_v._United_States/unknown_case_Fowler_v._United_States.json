@@ -1,0 +1,42 @@
+{
+    "ID": 55805,
+    "name": "Fowler v. United States",
+    "href": "https://api.oyez.org/cases/2010/10-5443",
+    "view_count": 0,
+    "docket_number": "10-5443",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1289800800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40798"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1301374800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40799"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1306386000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40800"
+        }
+    ],
+    "question": "<p>To prove a criminal violation of the federal witness tampering statute when a defendant allegedly kills a witness, must the government prove that the victim would have provided information regarding a crime to a court or a law enforcement officer?</p>\n",
+    "citation": {
+        "volume": "563",
+        "page": null,
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19727"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that in order to prove a criminal violation of the federal witness tampering statute when a defendant allegedly kills a witness, the government must prove that the victim would have provided information regarding the crime.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/563/668/",
+    "facts_of_the_case": "<p>Charles Andrew Fowler shot and killed Christopher Todd Horner for trying to interfere with his plan to rob a bank with four other men. Horner had approached Fowler's accomplices as they sat in a stolen Oldsmobile, decked out in black clothes and gloves. Fowler, who had stepped out of the car to use cocaine, snuck up behind Horner, grabbed his gun, forced him to get on his knees and shot him in the back of the head. One of Fowler's accomplices later implicated him in the murder, and a jury convicted Fowler of killing Horner with the intent to prevent him from communicating information about a federal offense. He was sentenced to life in prison, plus 10 years. Fowler claimed the government failed to prove that a federal investigation would have been likely, and that Horner would have transferred the information to a federal officer or judge. But the U.S. Court of Appeals for the Eleventh Circuit affirmed the lower court ruling.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court vacated and remanded the lower court order in a decision by Justice Stephen Breyer. \"The Government must show that there was a reasonable likelihood that a relevant communication would have been made to a federal officer,\" Breyer wrote. Justice Antonin Scalia filed an opinion concurring in the judgment in which he wrote that \"although I agree the case should be remanded for the Eleventh Circuit to consider whether the objection to sufficiency of the evidence was preserved or whether the District Court committed plain error, I would hold that there was insufficient evidence to support Fowler's conviction.\" Meanwhile, Justice Samuel Alito filed a dissenting opinion, in which Justice Ruth Bader Ginsburg joined. The majority opinion \" veers off course when it goes on to hold that the prosecution was required to show that, if Officer Horner had not been killed, there was a 'reasonable likelihood' that his information would have reached a federal officer,\" Alito wrote.</p>\n"
+}

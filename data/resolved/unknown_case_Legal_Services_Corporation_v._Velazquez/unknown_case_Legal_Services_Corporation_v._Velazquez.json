@@ -1,0 +1,35 @@
+{
+    "ID": 54916,
+    "name": "Legal Services Corporation v. Velazquez",
+    "href": "https://api.oyez.org/cases/2000/99-603",
+    "view_count": 0,
+    "docket_number": "99-603",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                970635600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38572"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                983340000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38573"
+        }
+    ],
+    "question": "<p>Does the funding restriction on the Legal Services Corporation, which prevents attorneys from representing clients in an attempt to amend or challenge existing welfare law, violate the First Amendment?</p>\n",
+    "citation": {
+        "volume": "531",
+        "page": "533",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18845"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/531/533/",
+    "facts_of_the_case": "<p>The Legal Services Corporation Act authorizes the Legal Services Corporation (LSC) to distribute funds, appropriated by Congress, to local grantee organizations, which provide free legal assistance to indigent clients in welfare benefits claims. The Omnibus Consolidated Rescissions and Appropriations Act of 1996 prohibited the LSC from funding any organization that represented clients in an effort to amend or challenge existing welfare law, among other things. The prohibition was such that grantees could not continue representation in a welfare matter even where a constitutional or statutory validity challenge became apparent after representation was well under way. LSC grantee lawyers and others filed suit to have the restriction declared unconstitutional. The District Court denied a preliminary injunction. However, the Court of Appeals invalidated the restriction, concluding that it was impermissible viewpoint discrimination that violated the First Amendment.</p>\n",
+    "conclusion": "<p>Yes. In a 5-4 opinion delivered by Justice Anthony M. Kennedy, the Court held that the funding provision that limited arguments legal services attorneys were allowed to make on behalf of indigent welfare claimants violated the First Amendment by regulating private speech and insulating federal law from legitimate judicial challenge. Justice Kennedy wrote for that Court that, \"the LSC program was designed to facilitate private speech, not to promote a governmental message.\" Justice Antonin Scalia wrote a dissent, which was joined by Chief Justice William H. Rehnquist and Justices Sandra Day O'Connor and Clarence Thomas, arguing that the Appropriations Act \"does not directly regulate speech, and it neither establishes a public forum nor discriminates on the basis of viewpoint.\"</p>\n"
+}

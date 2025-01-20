@@ -1,0 +1,35 @@
+{
+    "ID": 53918,
+    "name": "Cottage Savings Association v. Commissioner of Internal Revenue",
+    "href": "https://api.oyez.org/cases/1990/89-1965",
+    "view_count": 0,
+    "docket_number": "89-1965",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                663919200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36703"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                671864400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36704"
+        }
+    ],
+    "question": "<p>Can the exchange of properties considered \"substantially identical\" for accounting purposes under Federal Home Loan Bank Board regulations be considered a \"disposition of property\" for IRS tax purposes, given that properties exchanged must be materially different to constitute a \"disposition\" under section 1001(a) of Title 26 of the tax code?</p>\n",
+    "citation": {
+        "volume": "499",
+        "page": "554",
+        "year": "1991",
+        "href": "https://api.oyez.org/case_citation/case_citation/17847"
+    },
+    "term": "1990",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/499/554/",
+    "facts_of_the_case": "<p>For tax purposes, Cottage Savings Association exchanged its interests in the mortgages of 252 single family homes with several other savings and loan associations, receiving in return 305 mortgages that, taken together, had the same market value. The fair market value of the mortgages it gave away, however, were worth $2.5 million less than their original value. In accordance with the accounting procedures of the federal regulatory body of savings and loan corporations, the Federal Home Loan Bank Board (FHLBB), Cottage Savings recorded the exchanged properties as \"substantially identical\" (because they had the same fair market value).</p>\n<p>When Cottage Savings filed its federal income tax return, however, it claimed a $2.5 million loss - the difference between the original value of the mortgages it gave away and the current value of the mortgages it received in return. The IRS refused to recognize the difference as a deductible loss, however, because under section 1001(a) of Title 26 of the tax code, the change in a property's value is only taken into consideration when it is realized through the \"sale or disposition of [the] property.\" An exchange of property only constitutes a \"disposition\" if there is a \"material difference\" between the properties exchanged. Because Cottage Savings had reported the properties exchanged as \"substantially identical,\" the IRS ruled, a \"disposition\" could not have taken place and the loss in value could not be deducted. Cottage savings took the issue to a federal Tax Court, which disagreed with the IRS and ruled the deduction permissible. The Sixth Circuit Court of Appeals reversed, however, siding with the IRS.</p>\n",
+    "conclusion": "<p>Yes. In a 7-to-2 decision, the Supreme Court held that the definition of \"substantially identical\" under the FHLBB regulations was intentionally flexible and broad enough to include even properties that were \"materially different\" for IRS purposes. Justice Thurgood Marshall, in the majority opinion, wrote that exchanged properties are \"materially different\" if they \"embody legally distinct entitlements.\" The properties involved in this exchange clearly satisfied that test. \"Because the participation interests exchanged by Cottage Savings and the other S &amp; L's derived from loans that were made to different obligors and secured by different homes, the exchanged interests did embody legally distinct entitlements. Consequently, we conclude that Cottage Savings realized its losses at the point of exchange.\"</p>\n"
+}

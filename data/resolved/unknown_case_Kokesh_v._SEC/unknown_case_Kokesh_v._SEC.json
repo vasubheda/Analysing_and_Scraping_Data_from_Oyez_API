@@ -1,0 +1,42 @@
+{
+    "ID": 62801,
+    "name": "Kokesh v. SEC",
+    "href": "https://api.oyez.org/cases/2016/16-529",
+    "view_count": 0,
+    "docket_number": "16-529",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1484287200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53958"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1492491600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54016"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1496638800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54050"
+        }
+    ],
+    "question": "<p>Does the five-year statute of limitations of 28 U.S.C. \u00a72462 apply to claims brought by the Securities and Exchange Commission seeking repayment of illegally obtained funds?</p>\n",
+    "citation": {
+        "volume": "581",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27495"
+    },
+    "term": "2016",
+    "description": "A case in which the Court held that Securities and Exchange Commission (SEC) disgorgement functions as a penalty, and therefore is subject to the five-year statute of limitations.Commission seeking \u201cdisgorgement,\u201d or payment, of illegally obtained funds.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/581/16-529/",
+    "facts_of_the_case": "<p>The Securities and Exchange Commission (SEC) sued Charles Kokesh for violating federal securities law by misappropriating funds from four business development companies. The district court found in favor of the SEC and ordered that Kokesh pay $34.9 million for \u201cthe ill-gotten gains causally connected\u201d to Kokesh\u2019s violations. On appeal, Kokesh argued that this \u201cdisgorgement\u201d order is barred by the five-year statute of limitations on this type of claim because the SEC brought its action more than five years after the claims accrued. The U.S. Court of Appeals for the Tenth Circuit affirmed the lower court\u2019s ruling. The appellate court held that the five-year statute of limitations did not apply to this case because the ordered payment was remedial rather than punitive in nature. The goal of disgorgement is not to punish a wrongdoer for illegal activity, but rather to return to the rightful owner whatever profits the wrongdoer gained in the course of the illegal activity. Therefore, a disgorgement payment may be ordered so long as the amount \u201creasonably approximates the ill-gotten gains causally connected to the Defendant\u2019s violations.\u201d</p>\n",
+    "conclusion": "<p>Securities and Exchange Commission (SEC) disgorgement functions as a penalty, and therefore is subject to the five-year statute of limitations. Justice Sonia Sotomayor delivered the opinion for the unanimous Court. The Court held that, although disgorgement was originally supposed to be a form of restitution, since the 1970s courts have ordered disgorgement in the SEC context to deprive defendants of their profits and as a form of deterrence to protect the investing public. In 1990, Congress authorized the SEC to seek monetary civil penalties; though that statute did not address disgorgement, courts continued to order that remedy. Subsequently, the Court determined that the five-year statute of limitations applied when the SEC sought statutory monetary penalties. Because disgorgement is a remedy for wrongs to the public instead of only to an individual plaintiff, it is meant to be deterrent rather than compensatory and therefore functions as a penalty to which the five-year statute of limitations should apply.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 62583,
+    "name": "Duncan v. Owens ",
+    "href": "https://api.oyez.org/cases/2015/14-1516",
+    "view_count": 0,
+    "docket_number": "14-1516",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1443675600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53276"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1452578400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53326"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1453269600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53391"
+        }
+    ],
+    "question": "<p>Can habeas relief be awarded in the absence of clearly established precedent that the inference of motive at trial violates the defendant\u2019s right to due process?</p>\n",
+    "citation": {
+        "volume": "577",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27361"
+    },
+    "term": "2015",
+    "description": "A case in which the Court will determine whether habeas relief can be awarded in the absence of clearly established precedent that the inference of motive at trial violates the defendant\u2019s right to due process.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/577/189/",
+    "facts_of_the_case": "<p>Ramon Nelson was riding his bike when he suffered a lethal blow to the back of his head with a baseball bat. After two eyewitnesses identified Lawrence Owens from an array of photos and then a lineup, he was tried and convicted for Nelson\u2019s death. Because Nelson was carrying cocaine and crack cocaine potentially for distribution, the judge at Owens\u2019 bench trial ruled that Owens was probably also a drug dealer and was trying to \u201cknock [Nelson] off.\u201d Owens was found guilty of first-degree murder and sentenced to 25 years in prison.</p>\n<p>Owens filed a petition for a writ of habeas corpus on the grounds that his constitutional right to due process was violated during the trial. He argued that the eyewitness identification should have been inadmissible based on unreliability and that the judge impermissibly inferred a motive when a motive was not an element of the offense. The district court denied the writ of habeas corpus, and Owens appealed. The U.S. Court of Appeals for the Seventh Circuit reversed the denial and held that the trial judge\u2019s inference about Owens\u2019s motive violated his right to have his guilt adjudicated solely based on the evidence presented at trial.</p>\n",
+    "conclusion": "<p>After arguments, the Supreme Court dismissed the case as improvidently granted.</p>\n"
+}

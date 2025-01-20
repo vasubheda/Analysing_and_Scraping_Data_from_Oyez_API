@@ -1,0 +1,42 @@
+{
+    "ID": 55157,
+    "name": "Aetna Health, Inc. v. Davila",
+    "href": "https://api.oyez.org/cases/2003/02-1845",
+    "view_count": 0,
+    "docket_number": "02-1845",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1067839200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39054"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1080021600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39055"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1087794000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39056"
+        }
+    ],
+    "question": "<p>Does the Employee Retirement Income Security Act of 1974 prohibit individuals from suing their HMOs in state court when the HMOs refuse to provide a recommended treatment?</p>\n",
+    "citation": {
+        "volume": "542",
+        "page": "200",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19085"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/542/200/",
+    "facts_of_the_case": "<p>Juan Davila sued his HMO in state court because it had refused to provide certain procedures, and the refusal led to certain injuries. He brought the suit under a Texas law that requires HMOs \"to exercise ordinary care\" for their patients. The HMO asked that the case be moved to federal court, arguing that the case should be governed under the Employee Retirement Income Security Act of 1974 (ERISA) rather than the Texas law, because ERISA is a federal law the takes precedence over any state laws dealing with the same subject matter. Davila objected, arguing that the case did not fall under ERISA and should be heard in state court. The federal district court sided with the HMO, finding that ERISA prohibits individuals from filing state suits against HMOs when they refuse to pay for a particular treatment. A Fifth Circuit Court of Appeals panel reversed.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion written by Justice Clarence Thomas, the Court held that Congress intended ERISA to provide a uniform system for regulating retirement schemes and benefits. If a state law conflicts with ERISA, therefore, ERISA must be used in its place. Justice Thomas wrote, \"[A]ny state-law cause of action that duplicates, supplements or supplants the ERISA civil enforcement remedy conflicts with the clear congressional intent to make the ERISA remedy exclusive and is therefore preempted.\"</p>\n"
+}

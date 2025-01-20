@@ -1,0 +1,42 @@
+{
+    "ID": 56031,
+    "name": "Burrage v. United States",
+    "href": "https://api.oyez.org/cases/2013/12-7515",
+    "view_count": 0,
+    "docket_number": "12-7515",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1367211600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41379"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1384236000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41380"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1390802400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41583"
+        }
+    ],
+    "question": "<p>1. Does the crime of distribution of drugs causing death require a foreseeability or proximate cause requirement?</p>\n<p>2. Can a defendant be found guilty of distribution of drugs causing death when the jury instructions for that crime allow conviction if the heroin \"contributed to\" death by \"mixed drug intoxication\" instead of being the sole cause of death?</p>\n",
+    "citation": {
+        "volume": "571",
+        "page": "204",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20895"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that, under 21 U.S.C. \u00a7 841(b) of the statute regarding drug-related deaths, an individual convicted of the death of another through the sale of drugs cannot be convicted of drug-induced homicide if multiple drugs are present in the deceased's system.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/571/204/",
+    "facts_of_the_case": "<p>Marcus Burrage was arrested for distribution of heroin and distribution of heroin resulting in the death of Joshua Banka. A jury found him guilty, and Burrage was sentenced to nearly 40 years in prison. He appealed and argued that the judge allowed inadmissible hearsay into evidence, denied his motion for acquittal, and denied his motion for a new trial based on prosecutorial misconduct and erroneous jury instructions.</p>\n<p>The U.S. Court of Appeals for the Eighth Circuit affirmed the lower court's decision on all counts. The court held that the evidence was sufficient to convict Burrage of the crime. The court also noted that experts presented adequate testimony that Banka would not have died but for the heroin in his system. Additionally, the court held that in-court testimony of the police officer was not hearsay.</p>\n",
+    "conclusion": "<p>Not decided, no. Justice Antonin Scalia delivered the majority opinion for the unanimous Court. The Court held that the law considers causation as a hybrid between two constituent parts: actual cause, or cause-in-fact, and legal cause, which is also known as proximate cause. Because the cause-in-fact requirement was not met in this case, the Court did not rule on whether the crime of distribution of drugs causing death required a foreseeability or proximate cause requirement. Instead, the Court focused on the specific text found in 21 U.S.C. \u00a7 841(b), the federal law requiring heightened sentences for drug sales causing death or serious bodily injury. The language in that statute requires that the death \"results from\" the sale of illegal drugs. Because the deceased in this case was found with multiple drugs in his system, the heroin sold by the defendant could not be considered an independently sufficient cause of death.</p>\n<p>Justice Ruth Bader Ginsberg wrote an opinion concurring in the judgment in which she objected to an analogy made in the majority opinion that compared the \"results from\" language in drug statutes to similar language found in Title VII's anti-retaliation provision. Instead she cited to her dissent in <em> University of Texas Southwestern Medical Center v. Nassar </em>. There, Ginsburg also dissented, arguing that the Court's interpretation of similar language (in that case, \"because of\") lacked sensitivity to real-life concerns. Despite her reservations about the Court's statutory interpretation, she agreed with the ruling in this case. Justice Sonia Sotomayor joined Ginsburg's special concurrence.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55723,
+    "name": "Connick v. Thompson",
+    "href": "https://api.oyez.org/cases/2010/09-571",
+    "view_count": 0,
+    "docket_number": "09-571",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1269234000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40592"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1286341200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40593"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1301374800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40594"
+        }
+    ],
+    "question": "<p>Can a prosecutor's office be held liable for the illegal conduct of one of its prosecutors, on the theory that the office failed to adequately train its employees, when there has been only one violation resulting from that deficient training?</p>\n",
+    "citation": {
+        "volume": "563",
+        "page": "51",
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19645"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that a prosecutor's office cannot be held liable for the illegal conduct of one of its employees when there has only been one violation resulting from allegedly deficient training. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/563/51/",
+    "facts_of_the_case": "<p>John Thompson sued the Orleans Parish District Attorney's Office, the District Attorney, Harry Connick, in his official and individual capacities, and several assistant district attorneys in their official capacities under 42 U.S.C \u00a7 1983 in a Louisiana federal district court. Mr. Thompson served fourteen years on death row for a crime he did not commit because prosecutors failed to turn over blood work in a related case. The jury awarded Mr. Thompson $14 million against Mr. Connick in his official capacity. On appeal, an en banc U.S. Court of Appeals for the Fifth Circuit rendered a tie vote and; thus by rule, affirmed the district court.</p>\n",
+    "conclusion": "<p>No. A divided Supreme Court held that a prosecutor's office could not be held liable for the illegal conduct of one of its prosecutors when there has been only one violation resulting from that deficient training. Justice Clarence Thomas wrote the majority opinion for the court. In a dissent read from the bench, Justice Ruth Bader Ginsburg, joined by Justices Stephen Breyer, Sonia Sotomayor and Elena Kagan, argued that the \"what happened here, the Court's opinion obscures, was no momentary oversight, no single incident of a lone officer's misconduct.\" Instead, Ginsburg contended, evidence \"established persistent, deliberately indifferent conduct for which the District Attorney's Office bears responsibility under \u00a71983.\"</p>\n<p>Justice Antonin Scalia joined the majority opinion but filed a separate concurrence, joined by Justice Samuel Alito, which responded to the dissent.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 63553,
+    "name": "Yegiazaryan v. Smagin",
+    "href": "https://api.oyez.org/cases/2022/22-381",
+    "view_count": 0,
+    "docket_number": "22-381",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1673589600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55210"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1682398800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55254"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1687410000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55315"
+        }
+    ],
+    "question": "<p>Does a foreign plaintiff with no alleged connection to the United States state a cognizable claim under the Racketeer Influenced and Corrupt Organizations (RICO) Act when it suffers an injury to an intangible property?</p>\n",
+    "citation": {
+        "volume": "599",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27938"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held that a foreign plaintiff with no alleged connection to the United States can state a cognizable claim under the Racketeer Influenced and Corrupt Organizations (RICO) Act if the circumstances surrounding the injury indicate it arose in the United States.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/599/22-381/",
+    "facts_of_the_case": "<p>Vitaly Smagin, a Russian citizen who resides in Russia, sued Ashot Yegiazaryan, a Russian citizen who resides in California, and eleven other defendants, under the Racketeer Influenced and Corrupt Organizations (RICO) Act. Smagin alleged that Yegiazaryan and the other defendants illegally attempted to avoid paying a judgment Smagin won against them in the U.S. District Court for the Central District of California for engaging in a series of fraudulent transactions between 2003 and 2009 in to steal Smagin\u2019s shares in a joint real estate investment in Moscow, Russia.</p>\n<p>The district court dismissed Smagin\u2019s RICO claim, finding he did not suffer a domestic injury, which is a requirement for a RICO claim. The U.S. Court of Appeals for the Ninth Circuit reversed and remanded, concluding that Smagin did allege a domestic injury.</p>\n",
+    "conclusion": "<p>A plaintiff alleges a \u201cdomestic injury\u201d for purposes of filing a private civil suit under the Racketeer Influenced and Corrupt Organizations Act, 18 U.S.C. \u00a7 1964(c), when the circumstances surrounding the injury indicate it arose in the United States. Justice Sonia Sotomayor authored the 6-3 majority opinion of the Court.</p>\n<p>The \u201cdomestic injury\u201d requirement for private civil RICO suits comes from the Court\u2019s decision in RJR Nabisco, Inc. v. European Community. However, the RJR Nabisco Court did not explicitly define a \u201cdomestic injury,\u201d so the Court adopted a context-specific approach that considers the injury's circumstances\u2014an approach consistent with that case. Applying this approach to Smagin\u2019s case, the Court found his injury to be domestic. The majority of the alleged racketeering activities that prevented Smagin from collecting his judgment occurred in the U.S., targeting a California judgment.\u00a0</p>\n<p>Justice Samuel Alito authored a dissenting opinion, in which Justices Clarence Thomas, and Neil Gorsuch joined, arguing that the writ of certiorari should have been dismissed as improvidently granted.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 54455,
+    "name": "Bennis v. Michigan",
+    "href": "https://api.oyez.org/cases/1995/94-8729",
+    "view_count": 0,
+    "docket_number": "94-8729",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                817624800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37716"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                825919200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37717"
+        }
+    ],
+    "question": "<p>Does the abatement order entered against Bennis's car constitute a taking of private property for public use in violation of the property clauses of the Fifth and Fourteenth Amendments?</p>\n",
+    "citation": {
+        "volume": "516",
+        "page": "442",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18384"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/516/442/",
+    "facts_of_the_case": "<p>Bennis's husband was convicted of gross indecency following his sexual activity with a prostitute in the couple's jointly-owned car. The local county prosecutor filed a complaint alleging the car was a public nuisance subject to abatement (i.e., to eliminate or confiscate the car). The Circuit Court entered the abatement order, but the Appeals Court reversed. After granting leave to appeal, the Supreme Court of Michigan reversed the appellate court's decision and re-entered the abatement order. Bennis appealed to the Supreme Court.</p>\n",
+    "conclusion": "<p>Writing for a 5-to-4 majority, Chief Justice William H. Rehnquist held that the abatement order against Bennis's car did not violate the takings clause. Her innocence and lack of knowledge concerning her husband's illegal and indecent activity, in the couple's jointly owned car, could not serve as a defense against her vehicle's forfeiture. Furthermore, under the present circumstances, the vehicle's forfeiture did not violate Bennis's property rights without due process. Michigan's abatement policy, aimed at deterring criminal uses of property, lawfully transferred her's vehicle to the state. As such, Michigan is not required to compensate Bennis for the vehicle's forfeiture.</p>\n"
+}

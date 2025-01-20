@@ -1,0 +1,42 @@
+{
+    "ID": 55419,
+    "name": "Osborn v. Haley",
+    "href": "https://api.oyez.org/cases/2006/05-593",
+    "view_count": 0,
+    "docket_number": "05-593",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1147669200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39769"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1162188000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39770"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1169445600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39771"
+        }
+    ],
+    "question": "<p>1) Does the Westfall Act authorize the Attorney General to certify that an employee was acting within the scope of his employment at the time of an incident by denying that the incident occurred at all?</p>\n<p>2) Does the Westfall Act forbid a district court to send a case back to state court after finding that the Attorney General's certification was not authorized by the Act?</p>\n<p>3) Do courts of appeals have jurisdiction to review a court's order sending a case back to a state court?</p>\n",
+    "citation": {
+        "volume": "549",
+        "page": "225",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20673"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/549/225/",
+    "facts_of_the_case": "<p>Pat Osborn, an employee of a private contractor for the U.S. Forest Service, sued Barry Haley, an employee of the Forest Service, in state court. Osborn alleged that Haley had influenced her employer to fire her. Under the Westfall Act, federal employees are immune from such lawsuits if the employee acts \"within the scope of his employment.\" If the Attorney General certifies that the employee acted within his scope, the case can be transferred to federal court and the United States can be substituted for the employee as the defendant. The government conceded that if Osborn's version of events were correct, Haley would have been outside his scope. Nevertheless, the government certified that Haley was within his scope, because it denied that Haley had any role in Osborn's firing.</p>\n<p>The government brought the case to federal District Court, but the court decided that it lacked the authority to settle the factual dispute at the root of the Attorney General's certification. Instead, the court assumed that Osborn's account was true, ruled that Haley had been outside the scope of his employment by influencing Haley's firing, and sent the case back to state court.</p>\n<p>The government appealed to the Court of Appeals for the Sixth Circuit, which reversed the lower court. The Circuit Court ruled that the Westfall Act gives the courts power to settle factual disputes over the incident at issue in a lawsuit, even if the dispute is over whether or not the incident happened at all. The Sixth Circuit also ruled that the District Court should not have sent the case back to state court, because the Westfall Act gives the federal courts jurisdiction over the case even after the federal District Court finds that the Attorney General was wrong to certify the federal employee.</p>\n<p>Osborn appealed to the Supreme Court, which instructed the parties to submit briefs on the additional question of whether the Westfall Act gives a Court of Appeals the authority to review a District Court's order remanding a case back to state court.</p>\n",
+    "conclusion": "<p>Yes to all. In a 7-2 decision, the Court upheld the Sixth Circuit and ruled that \"Westfall Act certification is proper when a federal officer charged with misconduct asserts, and the Attorney General concludes, that the incident or episode in suit never occurred.\" The opinion by Justice Ruth Bader Ginsburg held that the Act would be ineffective at shielding federal employees from suit if the government were required to accept for immunity purposes the plaintiff's allegation that the event in question occurred. The Court also rejected Osborn's jurisdictional arguments. Relying on the Westfall Act's provision that certification from the Attorney General \"shall conclusively establish scope of office or employment for purposes of removal,\" the Court held that after the Attorney General's certification federal courts have exclusive jurisdiction, even if the federal court eventually finds the certification invalid. In dissent, Justice Scalia argued that 28 U.S.C. 1447(d) removed the Court of Appeals' jurisdiction to review the District Court's order sending the case back to state court. The majority held that 1447(d) did not apply to orders based on findings of invalid certification.</p>\n"
+}

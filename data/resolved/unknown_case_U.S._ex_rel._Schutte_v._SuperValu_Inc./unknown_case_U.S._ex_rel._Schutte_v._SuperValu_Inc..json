@@ -1,0 +1,42 @@
+{
+    "ID": 63546,
+    "name": "U.S. ex rel. Schutte v. SuperValu Inc.",
+    "href": "https://api.oyez.org/cases/2022/21-1326",
+    "view_count": 0,
+    "docket_number": "21-1326",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1673589600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55203"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1681794000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55250"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1685595600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55288"
+        }
+    ],
+    "question": "<p>Is a defendant\u2019s contemporaneous subjective understanding about the lawfulness of its conduct relevant to whether it \u201cknowingly\u201d violated the False Claims Act?</p>\n",
+    "citation": {
+        "volume": "598",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27931"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held the scienter element of a claim under the False Claims Act pertains to the defendant\u2019s contemporaneous subjective understanding or beliefs about the lawfulness of its conduct, not the objective reasonableness of such belief. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/598/21-1326/",
+    "facts_of_the_case": "<p>SuperValu owned or operated approximately 2,500 grocery stories with over 800 in-store pharmacies between 2006 and 2016. To compete with other pharmacies, SuperValu stores implemented a prescription price-matching program, under which it would match lower prescription prices of competitors. However, SuperValu did not report its price-match program prices as its usual and customary price, in violation of Medicaid regulations.</p>\n<p>Tracy Schutte and Michael Yarberry (the \u201cRelators\u201d) sued SuperValu under the False Claims Act on behalf of the federal government and several states. They alleged that SuperValu knowingly caused false payment claims to be submitted to government healthcare programs between 2006 and 2016 by incorrectly reporting their drug prices. The federal government did not intervene in the case.</p>\n<p>The district court concluded that the Relators had failed to prove the \u201cscienter\u201d element of their FCA claim\u2014that is, they failed to show SuperValu that SuperValu\u2019s interpretation of the reporting requirement was objectively unreasonable at the time. The U.S. Court of Appeals for the Seventh Circuit affirmed.</p>\n",
+    "conclusion": "<p>The False Claims Act\u2019s scienter element refers to a defendant\u2019s knowledge and subjective beliefs, not to what an objectively reasonable person may have known or believed. Justice Clarence Thomas authored the opinion for a unanimous Court.</p>\n<p>Both the text and common-law origins of the False Claims Act support an understanding of the scienter as focusing on the subjective knowledge of the defendant. It describes a three-part definition of the word \u201cknowingly\u201d that largely tracks the common-law concept of scienter for fraud: actual knowledge, deliberate indifference, or recklessness. Each of these concepts pertains to the defendant\u2019s lack of an honest belief in the statement\u2019s truth when making the claim, not what a defendant might have thought afterward.</p>\n"
+}

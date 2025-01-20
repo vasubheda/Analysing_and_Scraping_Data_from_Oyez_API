@@ -1,0 +1,42 @@
+{
+    "ID": 55351,
+    "name": "Washington v. Recuenco",
+    "href": "https://api.oyez.org/cases/2005/05-83",
+    "view_count": 0,
+    "docket_number": "05-83",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1129525200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39592"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1145250000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39593"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1151298000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39594"
+        }
+    ],
+    "question": "<p>Can a violation of <em>Blakely v. Washington</em> 's rule that all factors used in sentencing enhancements must be found by a jury, not a judge, be found legally harmless?</p>\n",
+    "citation": {
+        "volume": "548",
+        "page": "212",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20645"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/548/212/",
+    "facts_of_the_case": "<p>Arturo Recuenco was convicted of second degree assault in Washington state court after the jury found that he had attacked his wife \"with a deadly weapon.\" The trial court then applied a 3-year enhancement to his sentence based on its own finding that a firearm had been involved, even though the jury never specifically found that a gun was used. On appeal, the Supreme Court of Washington ruled that the enhancement was unconstitutional under <em>Blakely v. Washington,</em> 542 U.S. 296, a 2004 U.S. Supreme Court decision that held that only those factors found by a jury, not a judge, may be considered for sentencing enhancements. The court disagreed with Washington state's argument that, while a Sixth Amendment violation under <em>Blakely</em> had indeed occurred, that violation could be found legally harmless.</p>\n",
+    "conclusion": "<p>Yes. In a 7-to-2 decision authored by Justice Clarence Thomas, the Supreme Court held that <em>Blakely</em> violations do not \"necessarily render[] a criminal trial unfair or an unreliable vehicle for determining guilt or innocence.\" (quoting <em>Neder v. United States</em>, 527 U.S. 1) As such, the defendant is not entitled to an automatic reversal and the prosecution may attempt to argue that the jury would have returned the same result if the error had not occurred.</p>\n"
+}

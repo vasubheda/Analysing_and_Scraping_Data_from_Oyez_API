@@ -1,0 +1,42 @@
+{
+    "ID": 55238,
+    "name": "Deck v. Missouri",
+    "href": "https://api.oyez.org/cases/2004/04-5293",
+    "view_count": 0,
+    "docket_number": "04-5293",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1098075600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39278"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1109656800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39279"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1116824400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39280"
+        }
+    ],
+    "question": "<p>Does shackling a convicted offender during the penalty phase of a capital case violate the due process clauses of the Fifth and 14th Amendment?</p>\n",
+    "citation": {
+        "volume": "544",
+        "page": "622",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19166"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/544/622/",
+    "facts_of_the_case": "<p>After the Missouri Supreme Court set aside Carman Deck's death sentence, Deck was presented at his new sentence hearing shackled with leg irons, handcuffs and a belly chain. Deck was again sentenced to death. The state supreme court rejected Deck's claim that his shackling violated the U.S. Constitution.</p>\n",
+    "conclusion": "<p>Yes. Justice Stephen Breyer delivered the Court's 7-2 holding that the Constitution forbids the use of visible shackles during both a capital trial's guilt and penalty phases, unless such shackling is justified by an essential state interest specific to the defendant on trial (such as courtroom security). The majority argued that the law has long forbidden use of visible shackles during a capital trial's guilt phase, and that the reasons underlying this prohibition (like the possibility shackles will bias the jury) extend this rule to the penalty phase.</p>\n"
+}

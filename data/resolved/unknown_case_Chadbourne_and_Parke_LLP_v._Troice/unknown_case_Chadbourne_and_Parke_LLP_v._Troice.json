@@ -1,0 +1,42 @@
+{
+    "ID": 56004,
+    "name": "Chadbourne and Parke LLP v. Troice",
+    "href": "https://api.oyez.org/cases/2013/12-79",
+    "view_count": 0,
+    "docket_number": "12-79",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1358488800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41335"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1381122000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41336"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1393394400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41585"
+        }
+    ],
+    "question": "<p>Does the Securities Litigation Uniform Standards Act (SLUSA) preclude a class action under state securities law that alleges fraud and misrepresentations of securities as SLUSA-covered securities?</p>\n",
+    "citation": {
+        "volume": "571",
+        "page": "377",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20897"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that the Securities Litigation Uniform Standards Act does not extend its scope beyond misrepresentations that are material to the sale of a closed financial security.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/571/377/",
+    "facts_of_the_case": "<p>In 1995, Congress enacted the Private Securities Litigation Reform Act (PSLRA), which was meant to combat issues such as nuisance filings, targeting of specific clients, and client manipulation in class action suits. To prevent plaintiffs from filing class action suits in state courts in order to get around the restrictions of PSLRA, Congress enacted the Securities Litigation Uniform Standards Act (SLUSA), which provided for the dismissal or removal of a class action suit brought by more than 50 plaintiffs in connection with a \"covered security.\" The term \"covered security\" was limited to a subset of securities that were traded on a national exchange or issued by a federally registered investment company.</p>\n<p>In 2009, the Securities and Exchange Commission (SEC) sued the Stanford Group Company and other holdings of R. Allen Stanford for allegedly perpetrating a massive Ponzi scheme. Two groups of Louisiana investors also sued Stanford holdings for their roles in the Ponzi scheme and for violations of the Louisiana Securities Act. These cases were consolidated with two others against Stanford holdings and moved to the district court for the Northern District of Texas. The defendants moved to dismiss the complaints under SLUSA and argued that the court should adopt an expansive interpretation of \"covered securities.\" The district court held that the funds were not covered securities, but it granted the dismissal because the funds were represented as covered securities and because it was likely that at least one of the plaintiffs liquidated a retirement account, which a covered security, in order to purchase the funds in question. The U.S. Court of Appeals for the Fifth Circuit reversed and held that there was not a sufficient connection between the misrepresentation and the stock sale to consider them connected and for the securities to function as \"covered\" for the purposes of a SLUSA dismissal.</p>\n",
+    "conclusion": "<p>No. Justice Stephen G. Breyer delivered the opinion for the 7-2 majority. The Court held that the scope of SLUSA does not extend beyond misrepresentations that are material to the purchase or sale of a covered security. Because the focus of SLUSA deals with covered securities, the purchase or sale of uncovered securities is beyond SLUSA's purview. The Court also held that nothing in the language of SLUSA itself or the underlying regulatory statutes suggests that the relevant language should be interpreted more broadly. To do so would prohibit more lawsuits and interfere with state efforts to provide remedies to victims of frauds.</p>\n<p>In his concurring opinion, Justice Clarence Thomas wrote that, while SLUSA precludes class action cases dealing with fraud \"in connection with\" covered securities, the connection does not extend to all securities.</p>\n<p>Justice Anthony M. Kennedy wrote a dissent in which he argued that the majority's opinion unnecessarily narrows and constricts protection from fraud in national securities markets. Justice Kennedy argued that the relevant language must be interpreted broadly in order for SLUSA to accomplish its purpose of protecting the integrity of the markets. If misrepresentations were made relating to covered securities to perpetrate fraud, federal regulation is necessary, and it is this interest that Congress intended SLUSA to protect. Justice Samuel A. Alito, Jr. joined in the dissent.</p>\n"
+}

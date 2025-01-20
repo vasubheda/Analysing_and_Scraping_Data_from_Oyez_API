@@ -1,0 +1,42 @@
+{
+    "ID": 62866,
+    "name": "Masterpiece Cakeshop, Ltd. v. Colorado Civil Rights Commission",
+    "href": "https://api.oyez.org/cases/2017/16-111",
+    "view_count": 0,
+    "docket_number": "16-111",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1498453200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54086"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1512453600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54132"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1528088400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54281"
+        }
+    ],
+    "question": "<p>Does the application of Colorado's public accommodations law to compel a cake maker to design and make a cake that violates his sincerely held religious beliefs about same-sex marriage violate the Free Speech or Free Exercise Clauses of the First Amendment?</p>\n",
+    "citation": {
+        "volume": "584",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27528"
+    },
+    "term": "2017",
+    "description": "A case in which the Court held that the Colorado Civil Rights Commission's conduct in evaluating a cake shop owner's reasons for declining to make a wedding cake for a same-sex couple violated the Free Exercise Clause.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/584/16-111/",
+    "facts_of_the_case": "<p>In July 2012, Charlie Craig and David Mullins went to Masterpiece Cakeshop in Lakewood, CO, and requested that its owner, Jack C. Phillips, design and create a cake for their wedding. Phillips declined to do so on the grounds that he does not create wedding cakes for same-sex weddings because of his religious beliefs. Phillips believes that decorating cakes is a form of art through which he can honor God and that it would displease God to create cakes for same-sex marriages.</p>\n<p>Craig and Mullins filed charges of discrimination with the Colorado Civil Rights Division, alleging discrimination based on sexual orientation under the Colorado Anti-Discrimination Act (CADA), \u00a7\u00a7 24-34-301 to -804, C.R.S. 2014. After the Division issued a notice of determination finding probable cause, Craig and Mullins filed a formal complaint with the Office of Administrative Courts alleging that Masterpiece discriminated against them in a place of public accommodation in violation of CADA.</p>\n<p>The Administrative Law Judge issued a written order finding in favor of Craig and Mullins, which was affirmed by the Colorado Civil Rights Commission. On appeal, the Colorado Court of Appeals subsequently affirmed the Commission's ruling.</p>\n",
+    "conclusion": "<p>The Court reversed in a 7-2 decision, holding that the Colorado Civil Rights Commission's conduct in evaluating a cake shop owner's reasons for declining to make a wedding cake for a same-sex couple violated the Free Exercise Clause.</p>\n<p>The Court explained that while gay persons and same-sex couples are afforded civil rights protections under the laws and the Constitution, religious and philosophical objections to same-sex marriage are protected views and can also be protected forms of expression. The Colorado law at issue in this case, which prohibited discrimination against gay people in purchasing products and services, had to be applied in a neutral manner with regard to religion. The majority acknowledged that from Phillips' perspective, creating cakes was a form of artistic expression and a component of his sincere religious beliefs.</p>\n<p>The Court also explained that in 2012, the year that Phillips refused his services to Craig and Mullins, the law in Colorado and across the country with regard to same sex marriage was much more unsettled than it became after <em>United States v. Windsor</em>, 570 US 744 (2013) and <em>Obergefell v. Hodges</em>, 576 US ___ (2015). At the time, the State Civil Rights Division had also concluded in at least three other cases that bakers had acted lawfully in declining to make cakes that included messages they disagreed with, specifically messages demeaning gay persons. Thus it was not unreasonable for Phillips to believe that he was acting lawfully at the time, and his claims before the Commission were entitled to neutral treatment.</p>\n<p>However, the Court stated that Phillips did not receive this neutral treatment, with members of the Commission showing clear and impermissible hostility toward his religious beliefs. The Court explained that commissioners' comments disparaging Phillips' beliefs and characterizing them as rhetorical were inappropriate, though these comments were not mentioned or disavowed in subsequent legal proceedings. The Court concluded that these comments cast doubt on the fairness of the Commission's consideration of Phillips' claims. The Court also pointed out that disparities between Phillips' case and those of other bakers with objections to making cakes with anti-gay messages, and who were victorious before the Commission, further reflected hostility toward the religious basis for Phillips' position.</p>\n<p>The Court concluded that the Commission's actions violated the State's duty under the First Amendment not to use hostility toward religion or a religious viewpoint as a basis for laws or regulations. Under the facts of this case, the Court determined that Phillips' religious justification for his refusal to serve Craig and Mullins was not afforded the neutral treatment mandated by the Free Exercise Clause.</p>\n<p>Justice Ginsburg authored a dissenting opinion, in which she was joined by Justice Sotomayor, stating that neither the Commission's comments regarding Phillips' religious views nor its alleged disparate treatment of bakers objecting to making cakes with anti-gay messages justified ruling in favor of Phillips.</p>\n<p>Justice Kagan filed a concurring opinion, joined by Justice Breyer, in which she agreed with the majority that the Commission had not given neutral treatment to Phillips' religious views, but declined to assign any significance to the Commission's treatment of bakers who refused to create cakes with anti-gay messages because she believed that this did not violate the Colorado law at issue in Phillips' case.</p>\n<p>Justice Gorsuch also filed a concurring opinion, joined by Justice Alito, in which he argued that the cases of Phillips and the bakers who objected to using anti-gay messages in their baking were quite similar, and the Commission acted inappropriately in treating them differently.</p>\n<p>Justice Thomas filed an opinion concurring in part and concurring in the judgment, and was joined by Justice Gorsuch. Thomas argued that an order requiring Phillips to bake a wedding cake for a same-sex couple would violate his First Amendment rights.</p>\n"
+}

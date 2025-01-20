@@ -1,0 +1,42 @@
+{
+    "ID": 63308,
+    "name": "Goldman Sachs Group Inc. v. Arkansas Teacher Retirement System",
+    "href": "https://api.oyez.org/cases/2020/20-222",
+    "view_count": 0,
+    "docket_number": "20-222",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1607666400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54812"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1616994000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54867"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1624251600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54924"
+        }
+    ],
+    "question": "<p>1. May a defendant in a securities class action rebut the presumption of classwide reliance recognized in <em>Basic Inc. v. Levinson</em> by pointing to the generic nature of the alleged misstatements in showing that the statements had no impact on the price of the security?</p>\n<p>2. Does a defendant seeking to rebut the Basic presumption have only a burden of production or also the ultimate burden of persuasion?</p>\n",
+    "citation": {
+        "volume": "594",
+        "page": null,
+        "year": "2021",
+        "href": "https://api.oyez.org/case_citation/case_citation/27783"
+    },
+    "term": "2020",
+    "description": "A case in which the Court held that a defendant in a securities class action has the burden of production and also the burden of persuasion to rebut the so-called Basic presumption.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/594/20-222/",
+    "facts_of_the_case": "<p>Shareholders of Goldman Sachs Group filed a class-action lawsuit alleging that the company and several of its executives committed securities fraud by misrepresenting the company\u2019s freedom from, or ability to combat, conflicts of interest in its business practices. The district court certified a shareholder class, but in 2018, the U.S. Court of Appeals for the Second Circuit vacated the order because the district court did not apply the \u201cpreponderance of the evidence\u201d standard in determining whether Goldman had rebutted the legal presumption that the shareholders relied on Goldman\u2019s alleged misstatements in purchasing its stock at the market price (known as the <em>Basic</em> presumption). On remand, the district court certified the class once more, and this time, the Second Circuit affirmed the district court's order certifying the class. The court concluded that, on remand, the district court had applied the correct legal standard and did not abuse its discretion in rejecting Goldman\u2019s rebuttal evidence to conclude that it had failed to rebut the <em>Basic</em> presumption.</p>\n",
+    "conclusion": "<p>While a defendant in a securities class action may point to the generic nature of the alleged misrepresentations to show that those statements had no impact on the price of the security in overcoming the Basic presumption, that defendant bears not only the burden of production, but also the burden of persuasion. Justice Amy Coney Barrett authored the opinion of the Court, in which she was joined in full by Chief Justice John Roberts and Justices Stephen Breyer, Elena Kagan, and Brett Kavanaugh.\u00a0 Justice Neil Gorsuch\u2014joined by Justices Clarence Thomas and Samuel Alito\u2014concurred in part and in the judgment, while Justice Sonia Sotomayor concurred in part but dissented from the judgment.</p>\n<p>Justice Barrett wrote, \u201cThe parties now agree, as do we, that the generic nature of a misrepresentation often in important evidence of price impact courts should consider at class certification\u201d and not just at the merits phase of securities litigation. Because the Court concluded that the U.S. Court of Appeals for the Second Circuit may not have properly considered the generic nature of the alleged statements, it vacated that court\u2019s judgment and remanded the case for further proceedings. As for which party bears the burden of persuasion, the Court held that the Second Circuit properly allocated the burden to the defendant but noted that \u201cthe burden of persuasion should rarely be outcome determinative\u201d at the class certification stage.</p>\n<p>While concurring in the decision to remand the case because the Court of Appeal did not sufficiently consider the generic nature of the alleged misstatements, Justice Gorsuch disagreed that the defendant should bear the burden of persuasion in overcoming the Basic presumption.</p>\n<p>Justice Sotomayor, on the other hand, dissented from the Court\u2019s judgment because she believed the Court of Appeal had, in fact, adequately considered the generic nature of the alleged misstatements before granting class certification. In other words, while she agreed with the entirety of the Court\u2019s analysis of how to proceed, she believed that the Second Circuit had met that standard and would not have vacated its ruling.\u00a0 \u00a0</p>\n"
+}

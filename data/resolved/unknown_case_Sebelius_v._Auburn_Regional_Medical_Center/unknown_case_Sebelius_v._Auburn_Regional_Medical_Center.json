@@ -1,0 +1,42 @@
+{
+    "ID": 55914,
+    "name": "Sebelius v. Auburn Regional Medical Center",
+    "href": "https://api.oyez.org/cases/2012/11-1231",
+    "view_count": 0,
+    "docket_number": "11-1231",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1340600400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41105"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1354600800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41106"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1358834400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41107"
+        }
+    ],
+    "question": "<p>Is the statute of limitations for filing a claim with the PRRB for Medicare payments subject to tolling for good cause?</p>\n",
+    "citation": {
+        "volume": "568",
+        "page": "145",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19836"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that the statute of limitations for filing a claim with the Provider Reimbursement Review Board may be extended up to 3 years.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/568/145/",
+    "facts_of_the_case": "<p>Hospitals receive compensation from the federal government based on the number of low-income patients they serve. The Center for Medicare &amp; Medicaid Services (CMS) decides how much this payment will be. In an unrelated case, it came out that CMS miscalculated this payment between 1993 and 1996 so hospitals received less than they were due. In 2006, a group of hospitals filed claims with the Provider Reimbursement Review Board (PRRB) for full payment from the Department of Health and Human Services for years 1987-1994. Although the statute of limitations for such claims is 180 days, the hospitals argued that the limitations period should be tolled because CMS knowingly and unlawfully failed to disclose its error. The PRRB held that it did not have the authority to toll the statute of limitations, so the claims were untimely.</p>\n<p>The hospitals sued in district court, but the district court held that it did not have jurisdiction because the PRRB's decision was not final. The court also held that the relevant statute does not allow for tolling the statute of limitations. The U.S. Court of Appeals for the District of Columbia Circuit reversed, holding that it did have jurisdiction because the PRRB decision was final. It also held that tolling the statute of limitations for \"good cause\" is possible, but whether it is appropriate in this case is a question for remand. The court of appeals denied a petition for a rehearing en banc.</p>\n",
+    "conclusion": "<p>Yes, but only up to 3 years. Justice Ruth Bader Ginsburg, writing for a unanimous court, reversed the lower court and remanded. The Supreme Court held that the 180-day statute of limitations is not \"jurisdictional\" so it may be extended in some cases. Unless Congress has clearly stated that a statutory limitation is jurisdictional it is presumed to be non-jurisdictional. The Secretary of Health and Human Services regulation allowing a 3-year extension for good cause was permissible, as courts must defer to agency regulations unless they are \"arbitrary, capricious, or manifestly contrary to the statute.\" The general presumption in favor of equitable tolling does not apply to an agency's internal deadline, absent evidence of congressional intent, so the Court could not extend the deadline indefinitely. Justice Sonia Sotomayor concurred, noting that the majority's opinion does not establish that equitable tolling is never applicable to internal administrative deadlines.</p>\n"
+}

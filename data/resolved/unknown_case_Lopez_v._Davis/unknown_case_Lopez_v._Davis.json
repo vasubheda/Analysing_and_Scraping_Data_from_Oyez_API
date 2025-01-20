@@ -1,0 +1,35 @@
+{
+    "ID": 54858,
+    "name": "Lopez v. Davis",
+    "href": "https://api.oyez.org/cases/2000/99-7504",
+    "view_count": 0,
+    "docket_number": "99-7504",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                972885600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38460"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                979106400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38461"
+        }
+    ],
+    "question": "<p>Does the Bureau of Prisons have the authority to categorically deny consideration for eligibility for early release to inmates convicted of non-violent offenses after they have completed substance abuse programs?</p>\n",
+    "citation": {
+        "volume": "531",
+        "page": "230",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18787"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/531/230/",
+    "facts_of_the_case": "<p>Congress has provided the Bureau of Prisons (BOP) with the statutory authority to reduce the prison term of an inmate convicted of a nonviolent felony by up to one year, if the prisoner successfully completes a substance abuse program. The BOP's implementing regulation categorically denies early release to prisoners whose offense is a felony attended by \"the carrying, possession, or use of a firearm.\" In 1997, Christopher A. Lopez was convicted of possession with intent to distribute methamphetamine. Additionally, the court found that Lopez possessed a firearm in connection with his offense. While incarcerated, Lopez requested substance abuse treatment. The BOP found Lopez qualified for its residential drug abuse program, but was found him categorically ineligible for early release. The District Court, in ordering the BOP to reconsider Lopez for early release, held that the BOP may not, based on weapons possession, categorically count out inmates, whose underlying conviction was for a nonviolent crime. The Court of Appeals reversed.</p>\n",
+    "conclusion": "<p>Yes. In a 6-3 opinion delivered by Justice Ruth Bader Ginsburg, the Court held that the categorically denial of early release to a prisoner who committed felony using firearm is a permissible exercise of the BOP's discretion, even if the prisoner has successfully completed a substance abuse program. \"The Bureau reasonably concluded that an inmate's prior involvement with firearms, in connection with the commission of a felony, suggests his readiness to resort to life-endangering violence and therefore appropriately determines the early release decision,\" wrote Justice Ginsburg for the majority. Justice John Paul Stevens, joined by Chief Justice William H. Rehnquist and Justice Anthony M. Kennedy, dissented.</p>\n"
+}

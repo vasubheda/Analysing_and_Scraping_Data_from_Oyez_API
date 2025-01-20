@@ -1,0 +1,42 @@
+{
+    "ID": 63494,
+    "name": "Wilkins v. United States",
+    "href": "https://api.oyez.org/cases/2022/21-1164",
+    "view_count": 0,
+    "docket_number": "21-1164",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1654491600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55132"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1669788000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55181"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1679979600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55244"
+        }
+    ],
+    "question": "<p>Is the Quiet Title Act\u2019s statute of limitations a jurisdictional requirement or a claim-processing rule?</p>\n",
+    "citation": {
+        "volume": "598",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27898"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held that the Quiet Title Act\u2019s statute of limitations is a nonjurisdictional claim-processing rule.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/598/21-1164/",
+    "facts_of_the_case": "<p>Robbins Gulch Road runs between Highway 93 and the Bitterroot National Forest, crossing the private properties of Larry Wilkins and Jane Stanton near Connor, Montana. The previous owners of each of their properties had granted the United States an easement for Robbins Gulch Road in 1962.</p>\n<p>In 2018, Wilkins and Stanton sued the United States under the Quiet Title Act (QTA) to confirm that the easement does not permit public use of the road and to enforce the government\u2019s obligations to patrol and maintain the road against unrestricted public use. The district court granted the federal government\u2019s motion to dismiss for lack of subject-matter jurisdiction, and the U.S. Court of Appeals for the Ninth Circuit affirmed.</p>\n",
+    "conclusion": "<p>The Quiet Title Act\u2019s 12-year statute of limitations is a claim-processing rule, not a jurisdictional requirement. Justice Sonia Sotomayor authored the 6-3 majority opinion of the Court holding that Wilkins's and Stanton's lawsuit may proceed.</p>\n<p>Jurisdictional rules tend to disrupt litigation, whereas procedural rules (including claim-processing rules) seek to facilitate the litigation process. Given the risk of disruption and waste that accompanies the jurisdictional label, courts will view a procedural requirement as jurisdictional only if Congress \u201cclearly states\u201d that it is. As a general rule, most statutes of limitations are nonjurisdictional.</p>\n<p>The 12-year statute of limitations described in 28 U.S.C. \u00a7 2409a(g) lacks a jurisdictional clear statement, and nothing in its text or context supports departing from the general rule that statutes of limitations are nonjurisdictional. Nor do any of the three cases the government cites definitively interpreted Section 2409a(g) as jurisdictional. Thus, the provision at issue is a claim-processing rule, not a jurisdictional one.</p>\n<p>Justice Clarence Thomas dissented, arguing that the Court has long treated conditions on waivers of sovereign immunity, such as the one at issue in this case, as jurisdictional, and he would recognize the Court\u2019s precedents as resolving the question.</p>\n"
+}

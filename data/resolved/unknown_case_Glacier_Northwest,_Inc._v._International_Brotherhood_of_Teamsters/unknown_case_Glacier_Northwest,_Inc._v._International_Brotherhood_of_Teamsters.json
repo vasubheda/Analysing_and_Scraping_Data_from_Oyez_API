@@ -1,0 +1,42 @@
+{
+    "ID": 63508,
+    "name": "Glacier Northwest, Inc. v. International Brotherhood of Teamsters",
+    "href": "https://api.oyez.org/cases/2022/21-1449",
+    "view_count": 0,
+    "docket_number": "21-1449",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1664773200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55152"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1673330400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55201"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1685595600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55286"
+        }
+    ],
+    "question": "<p>Does the National Labor Relations Act preempt a state-court lawsuit against a union for intentionally destroying an employer\u2019s property during a labor dispute?</p>\n",
+    "citation": {
+        "volume": "598",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27911"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held that the National Labor Relations Act does not preempt a state-court lawsuit against a union for intentionally destroying an employer\u2019s property during a labor dispute.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/598/21-1449/",
+    "facts_of_the_case": "<p>Glacier Northwest is a Washington corporation that sells and delivers ready-mix concrete to businesses in the state. It employs approximately 80-90 truck drivers to deliver concrete, and Local 174 is the exclusive union representative for Glacier\u2019s truck drivers in King County. In 2017, during negotiations for a new collective bargaining agreement (CBA), Glacier truck drivers went on strike, resulting in the loss of some of Glacier\u2019s concrete.</p>\n<p>Glacier sued Local 174 in state court for six tort claims arising from Local 174\u2019s alleged role that resulted in Glacier\u2019s loss of concrete. The trial court dismissed the claims arising before the CBA was reached, finding they were preempted by the federal National Labor Relations Act, and it granted summary judgment dismissal of the remaining claims primarily on state law grounds. The appellate court reversed as to the pre-CBA claims, finding the NLRA did not preempt those claims. The state supreme court reversed as to the preemption issue.</p>\n",
+    "conclusion": "<p>The National Labor Relations Act (NLRA) did not preempt Glacier\u2019s state-court lawsuit alleging that the union intentionally destroyed the company\u2019s property during a labor dispute. Justice Amy Coney Barrett authored the majority opinion of the Court.</p>\n<p>The position of the National Labor Relations Board (NLRB) is that while the NLRA generally recognizes the right of workers to strike, it does not protect from liability strikers who fail to take \u201creasonable precautions\u201d to protect their employer\u2019s property from foreseeable harms caused by the sudden cessation of work.</p>\n<p>At the motion to dismiss stage, the court accepts the allegations in the complaint as true. Accepting the allegations here as true, the Union failed to take reasonable precautions to protect Glacier\u2019s property, as the Union knew that concrete is highly perishable and, if left to harden in a truck\u2019s drum, will cause significant damage to the truck. Because the Union knew of this risk\u2014and indeed intended that result\u2014the strike went beyond the conduct protected by the NLRA. Because the strike was not protected by federal law, the state tort claims were not preempted.</p>\n<p>Justice Clarence Thomas authored an opinion concurring in the judgment, in which Justice Neil Gorsuch joined. Justice Thomas would reach the same conclusion that the state-court claims are not preempted based on adherence to the Court\u2019s decision in ___. He wrote separately to emphasize the \u201coddity\u201d of the \u201cbroad pre-emption regime\u201d in the case the majority relied on\u2014<em>San Diego Building Trades Council v. Garmon</em>, 359 U.S. 236 (1959)\u2014and suggesting that the Court reassess its holding in that case.</p>\n<p>Justice Samuel Alito authored an opinion concurring in the judgment, in which both Justices Thomas and Gorsuch joined. Justice Alito would reach the same conclusion based solely on the Court\u2019s longstanding position that the NLRA does not immunize strikers who engage in trespass or violence against the employer\u2019s property.</p>\n<p>Justice Ketanji Brown Jackson authored a dissenting opinion, pointing out that the test in <em>Garmon</em> is only whether the conduct at issue is \u201carguably\u201d protected by the NLRA, as determined by the Board. She criticized the Court for stepping in to make that determination instead of allowing the Board to do so.</p>\n"
+}

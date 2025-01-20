@@ -1,0 +1,35 @@
+{
+    "ID": 54852,
+    "name": "Board of Regents , University of Wisconsin System v. Southworth",
+    "href": "https://api.oyez.org/cases/1999/98-1189",
+    "view_count": 0,
+    "docket_number": "98-1189",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                942127200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38448"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                953704800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38449"
+        }
+    ],
+    "question": "<p>May public universities and colleges subsidize campus groups by means of a mandatory student activity fee without violating the First Amendment rights of students who find some campus groups objectionable?</p>\n",
+    "citation": {
+        "volume": "529",
+        "page": "217",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18781"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/529/217/",
+    "facts_of_the_case": "<p>The University of Wisconsin, a public university, requires students to pay an activity fee. The fee supports various campus services and extracurricular student activities including the Future Financial Gurus of America; the International Socialist Organization; the College Democrats and Republicans; and the American Civil Liberties Union Campus Chapter. Scott Harold Southworth filed suit against the University, alleging that the fee violated his rights of free speech, free association, and free exercise under the First Amendment. Southworth argued that the University must grant him the choice not to fund registered student organizations (RSO) that engage in political and ideological expression offensive to his personal beliefs. In granting Southworth judgment, the Federal District Court concluded that the fee program compelled students to support political and ideological activities with which they disagree in violation of their First Amendment rights to freedom of speech and association. The court declared the fee program invalid and enjoined the University from using the fees to fund any RSO engaging in political or ideological speech. In affirming, the Court of Appeals concluded that the fee program was \"not germane to the University's mission, did not further a vital University policy, and imposed too much of a burden on [Southworth's] free speech rights.\"</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion delivered by Justice Anthony M. Kennedy, the Court held that the \"First Amendment permits a public university to charge its students an activity fee used to fund a program to facilitate extracurricular student speech if the program is viewpoint neutral.\" Justice Kennedy wrote for the Court that, \"[w]hen a university requires its students to pay fees to support the extracurricular speech of other students, all in the interest of open discussion, it may not prefer some viewpoints to others.\" Justice David H. Souter, in an opinion joined by Justices John Paul Stevens and Stephen G. Breyer, concurred in the judgment only.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 63103,
+    "name": "Peter v. NantKwest, Inc.",
+    "href": "https://api.oyez.org/cases/2019/18-801",
+    "view_count": 0,
+    "docket_number": "18-801",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1551679200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54465"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1570424400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54581"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1576130400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54629"
+        }
+    ],
+    "question": "<p>Does the phrase \u201c[a]ll the expenses of the proceedings\u201d in 35 U.S.C. \u00a7 145 include attorneys\u2019 fees?</p>\n",
+    "citation": {
+        "volume": "589",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27669"
+    },
+    "term": "2019",
+    "description": "A case in which the Court held that the phrase \u201c[a]ll the expenses of the proceedings\u201d in 35 U.S.C. \u00a7 145 does not include attorneys\u2019 fees incurred as a result of defending the agency in \u00a7 145 litigation.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/589/18-801/",
+    "facts_of_the_case": "<p>In 2001, Dr. Hans Klingemann filed a patent application with the US Patent and Trademark Office (\u201cPTO\u201d) describing a method for treating cancer using natural killer cells. Dr. Klingemann assigned his application to NantKwest Inc., and in 2010, the examiner rejected the application as obvious. The Patent Trial and Appeal Board (\u201cBoard\u201d) affirmed the rejection.</p>\n<p>When the Board affirms an examiner\u2019s rejection of a patent application, the applicant may either appeal directly to the US Court of Appeals for the Federal Circuit or challenge the Board\u2019s decision in district court (under 35 U.S.C. \u00a7 145). Pursuant to \u00a7 145, NantKwest challenged the Board\u2019s decision by filing a complaint in the US District Court for the Eastern District of Virginia. The court granted the PTO\u2019s motion for summary judgment, and the Federal Circuit affirmed. After its victory on the merits, PTO filed a motion for reimbursement of \u201cthe expenses of the proceedings\u201d under \u00a7 145, including almost $80,000 in attorney\u2019s fees and over $33,000 in expert witness fees.</p>\n<p>Applicants who invoke \u00a7 145 are required by statute to pay \u201c[a]ll the expenses of the proceedings\u201d incurred by the PTO in defending the Board\u2019s decision, regardless of the outcome. Historically, the PTO has used this requirement to recover payment for expenses such as travel, printing, and expert witnesses.</p>\n<p>The district court denied PTO\u2019s motion with respect to attorney\u2019s fees, citing the American Rule\u2014a \u201cbedrock principle\u201d in this country that \u201ceach litigant pays his own attorney\u2019s fees, win or lose\u201d unless there is an \u201cexpress grant from Congress.\u201d A panel of the Federal Circuit reversed, and then the circuit voted to hear the appeal <em>en banc</em>. After requesting briefing on the single question whether \u00a7 145 authorizes award of attorney\u2019s fees, the <em>en banc</em> Federal Circuit concluded that it does not, affirming the district court.</p>\n",
+    "conclusion": "<p>The Patent and Trademark Office cannot recover the salaries of its legal personnel as \u201cexpenses\u201d in civil actions brought by patent applicants pursuant to 35 U.S.C. \u00a7 145. Justice Sonia Sotomayor delivered the opinion for a unanimous Court.</p>\n<p>Under the \u201cAmerican Rule,\u201d there is a presumption that each litigant pays his own attorney\u2019s fees unless a statute or contract provides otherwise. That presumption is particularly important in the context of proceedings challenging the rejection of a patent application because allowing the agency to recover fees from a prevailing party would be a \u201cradical departure\u201d from the norm. The plain text\u2014use of the word \u201cexpenses\u201d\u2014does not provide adequate basis from departing from the strong presumption that the American Rule applies. Nor does the history of the Patent Act support such an expansive reading of the term.</p>\n"
+}

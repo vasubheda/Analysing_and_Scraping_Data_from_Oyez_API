@@ -1,0 +1,33 @@
+{
+    "ID": 63681,
+    "name": "Bufkin v. McDonough",
+    "href": "https://api.oyez.org/cases/2024/23-713",
+    "view_count": 0,
+    "docket_number": "23-713",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1714366800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55456"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1729054800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55523"
+        }
+    ],
+    "question": "<p>Must the U.S. Court of Appeals for Veterans Claims ensure that the benefit-of-the-doubt rule in 38 U.S.C. \u00a7 5107(b) was properly applied during the claims process in order to satisfy 38 U.S.C. \u00a7 7261(b)(1)?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28015"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether the U.S. Court of Appeals for Veterans Claims must ensure that the benefit-of-the-doubt rule in 38 U.S.C. \u00a7 5107(b) was properly applied during the claims process in order to satisfy 38 U.S.C. \u00a7 7261(b)(1).",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-713/"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 62702,
+    "name": "Star Athletica, LLC v. Varsity Brands, Inc.",
+    "href": "https://api.oyez.org/cases/2016/15-866",
+    "view_count": 0,
+    "docket_number": "15-866",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1462165200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53506"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1477890000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53904"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1490158800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53998"
+        }
+    ],
+    "question": "<p>What is the appropriate test to determine whether a feature of a \u201cuseful article\u201d is copyrightable under the Copyright Act?</p>\n",
+    "citation": {
+        "volume": "580",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27423"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that the test for deciding whether a feature of a \u201cuseful article\u201d is copyrightable under the Copyright Act is whether the feature can be perceived as a two- or three-dimensional artwork that is separable from the useful article and if it would be a protectable pictorial, graphical, or sculptural work on its own.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/580/15-866/",
+    "facts_of_the_case": "<p>Varsity Brands, Inc. (Varsity) designs and manufactures clothing and accessories for use in various athletic activities, including cheerleading. Design concepts for the clothing incorporate elements such as colors, shapes, lines, etc., and do not consider the functionality of the final clothing. Varsity received copyright registration for the two-dimensional artwork of the designs at issue in this case, which were very similar to ones that Star Athletica, LLC (Star) was advertising. Varsity sued Star and alleged, among other claims, that Star violated the Copyright Act. Star asserted counterclaims, including one that alleged that Varsity had made fraudulent representations to the Copyright Office because the designs at issue were not copyrightable. Both parties filed motions for summary judgment. Star argued that Varsity did not have valid copyrights because the designs were for \u201cuseful articles,\u201d which cannot be copyrighted, and the designs cannot be separated from the uniforms themselves, which also makes the designs impossible to copyright. Varsity argued that the designs were separable and non-functional, and therefore that the copyrights were valid and had been infringed. The district court granted summary judgment for Star and held that the designs were integral to the functionality of the uniform. The U.S. Court of Appeals for the Sixth Circuit reversed and held that the Copyright Act allows graphic features of a design to be copyrighted even when those designs are not separable from a \u201cuseful article.\u201d</p>\n",
+    "conclusion": "<p>A feature of a useful article is copyrightable if it can be perceived as a two- or three-dimensional artwork that is separable from the useful article and if it would be a protectable pictorial, graphical, or sculptural work on its own (or if applied to another medium, such as a canvas). Justice Clarence Thomas delivered the opinion of the 6-2 majority. The Court held that the Copyright Act clearly requires that, to be copyrightable, a design element of a useful article must be able to be identified separately from the article and be capable of existing separately from the article. The separate identification prong of this test requires only that the decisionmaker be able to distinguish a two- or three-dimensional element that has pictorial, graphical, or sculptural qualities. To satisfy the independent-existence requirement, the decisionmaker must determine that the element can exist as its own pictorial, graphical, or sculptural work and not merely as a part of a replica of the useful article in a different medium. This interpretation is consistent not only with the text of the Copyright Act but also with its history. In this case, the decoration designs of cheerleading uniforms satisfy both prongs of the test because the decorations can be identified as having their own pictorial, graphical, or sculptural qualities, and they would be copyrightable on their own if separated from the uniforms. The Court determined that the fact that the designs on their own still retained the outline of the cheerleading uniforms did not prevent them from being copyrightable because artwork designed to fit a particular space or object does not replicate that object or space when applied to a different medium. The Court rejected alternative tests for separability as ungrounded in the text of the statute.<br />\n\tIn her opinion concurring in the judgment, Justice Ruth Bader Ginsburg wrote that separability analysis was unnecessary in this case because the designs are themselves copyrightable and are merely reproduced on useful articles. The designs are clearly pictorial, graphical, or sculptural works, which are copyrightable. The copyright for such a work includes the right to reproduce the work on a useful article and exclude a would-be infringer from doing the same.<br />\n\tJustice Stephen G. Breyer wrote a dissent in which he argued that, although he agreed with the majority opinion\u2019s analysis of the test that the statute required, the designs at issue in this case failed the test. A feature is not separable from the useful article if it cannot be extracted without necessarily replicating the useful article in another medium. Because the designs in this case could only be represented as pictures, and therefore replicas, of the uniforms, they were not capable of existing independently of the useful article. Based on the statutory text and relevant case law, the designs fail the second prong of separability test. Justice Anthony M. Kennedy joined in the dissent.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 62877,
+    "name": "Digital Realty Trust, Inc. v. Somers",
+    "href": "https://api.oyez.org/cases/2017/16-1276",
+    "view_count": 0,
+    "docket_number": "16-1276",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1498453200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54091"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1511848800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54128"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1519192800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54212"
+        }
+    ],
+    "question": "<p>Does the anti-retaliation provision for \"whistleblowers\" in the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 extend protection to individuals who have not reported alleged misconduct to the Securities and Exchange Commission and thus fall outside the act\u2019s definition of \"whistleblower\"?</p>\n",
+    "citation": {
+        "volume": "583",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27533"
+    },
+    "term": "2017",
+    "description": "A case in which the Court held that the anti-retaliation provision for \"whistleblowers\" in the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 applies only to individuals who fall within the act\u2019s specific definition of \"whistleblower,\" that is, those who disclose allegedly unlawful activity to the Securities and Exchange Commission.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/583/16-1276/",
+    "facts_of_the_case": "<p>Paul Somers worked as Vice President of Digital Realty Trust from 2010 to 2014. According to his complaint, Somers filed several reports to senior management regarding possible securities law violations by the company, after which reports the company fired him. He did not report his concerns to the Securities and Exchange Commission (SEC) before he was terminated. Somers then sued Digital Realty, alleging violations of state and federal laws, including Section 21F of the Exchange Act, which includes the anti-retaliation protections created by the Dodd-Frank Act. Digital Realty sought to dismiss the Section 21F claim on the ground that, because Somers did not actually report the possible violations to the SEC, he was not a \"whistleblower\" as defined in the Act and thus not entitled to protection under its provisions.</p>\n<p>The Fifth Circuit in 2013 had strictly applied the Act's definition of \"whistleblower\" to the anti-retaliation provision, while the Second Circuit, finding the statute itself ambiguous and applying <em>Chevron</em> deference to the SEC's reasonable interpretation of it, had held in 2015 that the provision extends to all those who make disclosures of suspected violations, regardless of whether the disclosures are made internally or to the SEC. The district court in this case followed the Second Circuit's approach and denied Digital Realty's motion to dismiss. The Ninth Circuit affirmed the district court's decision.</p>\n",
+    "conclusion": "<p>No, the anti-retaliation provision for \"whistleblowers\" in the Dodd-Frank Act protects only individuals who report alleged misconduct to the SEC. Justice Ruth Bader Ginsburg delivered the unanimous opinion of the Court. The Act explicitly defines whistleblowers as any individual who provides pertinent information \"to the Commission,\" and this definition is corroborated by Dodd-Frank's purpose to aid the SEC's enforcement efforts by incentivizing people to tell the SEC about violations. Individuals who report violations to any other federal agency, Congress, or an internal supervisor, are not within the scope of this express definition of whistleblower in the Dodd-Frank Act. Because the language of the statute is not ambiguous, the SEC's contrary view is not entitled to <em>Chevron</em> deference.</p>\n<p>Justice Clarence Thomas wrote a concurring opinion, in which Justices Samuel Alito and Neil Gorsuch joined, in which he joined the majority in its reading of the statutory text of the Dodd-Frank Act, but not as to the majority's use of a Senate Report to determine the purpose of the statute.</p>\n<p>Justice Sonia Sotomayor wrote a concurring opinion, in which Justice Stephen Breyer joined. Justice Sotomayor joined the Court's opinion in full but noted her disagreement with Justice Thomas's suggestion in his concurrence that a Senate Report is not an appropriate source for the Court to consider when interpreting a statute.</p>\n"
+}

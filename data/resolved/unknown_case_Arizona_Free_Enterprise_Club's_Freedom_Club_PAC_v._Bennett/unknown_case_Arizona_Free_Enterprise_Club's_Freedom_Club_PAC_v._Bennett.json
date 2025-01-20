@@ -1,0 +1,42 @@
+{
+    "ID": 55795,
+    "name": "Arizona Free Enterprise Club's Freedom Club PAC v. Bennett",
+    "href": "https://api.oyez.org/cases/2010/10-238",
+    "view_count": 0,
+    "docket_number": "10-238",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1291010400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40775"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1301288400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40776"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1309150800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40777"
+        }
+    ],
+    "question": "<p>Does the First Amendment prohibit linking the funds participating candidates receive in an election to the amount of money raised by or spent on behalf of their opponents?</p>\n",
+    "citation": {
+        "volume": "564",
+        "page": null,
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19717"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that the Arizona campaign finance law linking public financing for candidates to the amount spent by their opponents violated the First Amendment's protection of political speech. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/564/721/",
+    "facts_of_the_case": "<p>Arizona enacted a campaign finance law that provides matching funds to candidates who accept public financing. The law, passed in 1998, gives an initial sum to candidates for state office who accept public financing and then provides additional matching funds based on the amounts spent by privately financed opponents and by independent groups. In 2008, some Republican candidates and a political action committee, the Arizona Free Enterprise Club, filed suit arguing that to avoid triggering matching funds for their opponents, they had to limit their spending and, in essence, their freedom of speech.</p>\n<p>The U.S. District Court for District of Arizona found the matching-funds provision unconstitutional. But the U.S. Court of Appeals for the Ninth Circuit overturned the case, saying it found \"minimal\" impact on freedom of speech.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court reversed the lower court order in a decision by Chief Justice John Roberts. \"Arizona's matching funds scheme substantially burdens political speech and is not sufficiently justified by a compelling interest to survive First Amendment scrutiny,\" the chief justice writing for the majority, noted that the holding does not contend that the First Amendment forbids all public financing. Meanwhile, Justice Elena Kagan dissented, joined by Justices Ruth Bader Ginsburg, Stephen Breyer and Sonia Sotomayor. \"The First Amendment's core purpose is to foster a healthy, vibrant political system full of robust discussion and debate,\" Kagan argued, adding: \"Nothing in Arizona's anti-corruption statute, the Arizona Citizens Clean Elections Act, violates this constitutional protection. To the contrary, the Act promotes the values underlying both the First Amendment and our entire Constitution by enhancing the 'opportunity for free political discussion to the end that government may be responsive to the will of the people.'\"</p>\n"
+}

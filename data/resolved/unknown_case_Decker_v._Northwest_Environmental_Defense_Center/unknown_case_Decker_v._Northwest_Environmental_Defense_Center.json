@@ -1,0 +1,42 @@
+{
+    "ID": 55933,
+    "name": "Decker v. Northwest Environmental Defense Center",
+    "href": "https://api.oyez.org/cases/2012/11-338",
+    "view_count": 0,
+    "docket_number": "11-338",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1340600400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41161"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1354514400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41162"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1363755600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41163"
+        }
+    ],
+    "question": "<p>1. Do the runoff ditches and channels constitute \"point sources\" that require permits?</p>\n<p>2. Are the petitioners exempt from the permit requirement?</p>\n",
+    "citation": {
+        "volume": "568",
+        "page": "597",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19855"
+    },
+    "term": "2012",
+    "description": "A case in which the Court found that based on the Clean Water Act, a permit is not necessary for storm water runoff because it is not associated with industrial activity.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/568/597/",
+    "facts_of_the_case": "<p>Two logging roads in Oregon, Trask River Road and Sam Downs Road, are owned by the Oregon Department of Forestry and the Oregon Board of Forestry. The roads are used primarily by various logging companies. These roads run parallel to rivers and use a series of ditches, culverts, and channels to direct storm water runoff into the nearby rivers. This runoff deposits large amounts of sediment in the rivers, which adversely affects the fish and other wildlife that relies on the water.</p>\n<p>The Northwest Environmental Defense Center (NEDC) sued the Oregon State Forester, the Oregon Board of Forestry and several timber companies. The NEDC alleged that, since the runoff ditches and channels can be defined as \"point sources,\" the petitioners violated the Clean Water Act by failing to obtain permits under the National Pollutant Discharge Elimination System. In district court, the petitioners moved for dismissal by arguing that the runoff was exempt from the permits. The district court granted the motion. The NEDC appealed the case to the United States Court of Appeals for the Ninth Circuit, which reversed the decision based on precedent that supported the NEDC interpretation of both the \"point source\" and the permit requirement.</p>\n",
+    "conclusion": "<p>No and yes. Justice Anthony M. Kennedy, writing for a 7-1 majority, reversed the Ninth Circuit's decision and remanded for further proceedings. The Court held that the Clean Water Act exempts the storm water runoff from the permitting scheme because the runoff is not associated with industrial activity. Even though the roads are used for the transport of raw materials, they are not used for the manufacturing, processing, or storage of those materials. The Court deferred to the Environmental Protection Agency's own reasonable interpretation that the permit requirement extends only to traditional industrial sites, such as factories. Therefore, the runoff ditches and channels did not constitute point sources that require permits under the Act.</p>\n"
+}

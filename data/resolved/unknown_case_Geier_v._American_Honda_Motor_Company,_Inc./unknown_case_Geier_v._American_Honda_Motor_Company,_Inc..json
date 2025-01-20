@@ -1,0 +1,35 @@
+{
+    "ID": 54818,
+    "name": "Geier v. American Honda Motor Company, Inc.",
+    "href": "https://api.oyez.org/cases/1999/98-1811",
+    "view_count": 0,
+    "docket_number": "98-1811",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                944546400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38384"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                958971600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38385"
+        }
+    ],
+    "question": "<p>Does the National Traffic and Motor Vehicle Safety Act of 1966 pre-empt a tort action in which the plaintiff claims that the defendant auto manufacturer, who was in compliance with the safety standard promulgated under the Act, should nonetheless have equipped an automobile with airbags?</p>\n",
+    "citation": {
+        "volume": "529",
+        "page": "861",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18747"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/529/861/",
+    "facts_of_the_case": "<p>The Department of Transportation, under the National Traffic and Motor Vehicle Safety Act of 1966 (Act), promulgated Federal Motor Vehicle Safety Standard (FMVSS) 208, which required auto manufacturers to equip some of their 1987 vehicles with passive restraints. To comply with FMVSS 208, Honda installed manual seat belts and a warning light, instead of a driver-side airbag, for the 1987 Honda Accord. Alexis Geier suffered severe head and facial injuries in an accident while driving a 1987 Honda Accord that did not have a driver-side airbag. Geier and her parents sought damages under District of Columbia tort law, claiming that American Honda Motor Company was negligent in not equiping the Accord with a driver's side airbag. The District Court ruled in favor of Honda, finding that Geier's claims were expressly pre-empted by the Act because a jury verdict in Geier's favor \"might establish a safety standard that was not identical to Standard 208.\" In affirming, the Court of Appeals concluded that, because Geier's state tort claims posed an obstacle to the accomplishment of the objectives of FMVSS 208, those claims conflicted with that standard and that the Act consequently pre-empted the lawsuit.</p>\n",
+    "conclusion": "<p>Yes. In a 5-4 opinion delivered by Justice Stephen G. Breyer, the Court held that \"[Geier's] 'no airbag' lawsuit conflicts with the objectives of FMVSS 208 and is therefore pre-empted by the Act.\" Justice Breyer wrote for the Court that a rule of state tort law imposing a duty to install airbags in cars such as Honda's would have presented an obstacle to the variety and mix of devices that the federal regulation sought and to the phase-in that the federal regulation deliberately imposed. It would also have made adoption of state mandatory seatbelt laws less likely.\" The dissent found fault in the majority's \"unprecedented use of inferences from regulatory history and commentary as a basis for implied pre-emption.\"</p>\n"
+}

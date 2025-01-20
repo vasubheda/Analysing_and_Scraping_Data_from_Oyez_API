@@ -1,0 +1,33 @@
+{
+    "ID": 63686,
+    "name": "Kousisis v. United States",
+    "href": "https://api.oyez.org/cases/2024/23-909",
+    "view_count": 0,
+    "docket_number": "23-909",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1718600400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55474"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1733724000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55549"
+        }
+    ],
+    "question": "<p>Can deception to induce a commercial exchange constitute mail or wire fraud, even if inflicting economic harm on the alleged victim was not the object of the scheme?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28020"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will consider the scope of property interests and fraud in government contracting, particularly when deception occurs without clear economic harm.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-909/"
+}

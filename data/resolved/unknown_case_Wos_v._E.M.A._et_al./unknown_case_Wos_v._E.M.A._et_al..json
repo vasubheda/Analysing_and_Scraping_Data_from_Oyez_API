@@ -1,0 +1,42 @@
+{
+    "ID": 55931,
+    "name": "Wos v. E.M.A. et al.",
+    "href": "https://api.oyez.org/cases/2012/12-98",
+    "view_count": 0,
+    "docket_number": "12-98",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1348549200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41155"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1357624800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41156"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1363755600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41157"
+        }
+    ],
+    "question": "<p>Does federal Medicaid law prohibit North Carolina's third-party liability statutes from mandating reimbursement of medical expenses from a patient's lump-sum settlement?</p>\n",
+    "citation": {
+        "volume": "568",
+        "page": "627",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19853"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that federal law preempts North Carolina's state law regarding reimbursement of medical expenses from a patient's settlement.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/568/627/",
+    "facts_of_the_case": "<p>Emily M. Armstrong, daughter of Sandra and William Earl Armstrong, was born on February 25, 2000. She was seriously injured during her delivery resulting in mental retardation, cerebral palsy and several other medical conditions. Emily's mother applied for Medicaid two months after her daughter's birth. Since then the North Carolina state Medicaid program had paid over $1.9 million in medical expenses on Emily's behalf. Emily's parents and guardian sued the physicians for negligently delivering their child and won a settlement of $2.8 million. As a result, the North Carolina Department of Health and Human Services (\"DHHS\") placed a lien on Emily's settlement, looking to recover some of the money it paid for Emily's health care services. Under the North Carolina third-party liability statutes, when a patient wins an award of medical expenses, the DHHS has the right to recover either the total amount spent on the patient's health care, or one third of the patient's recovery payment, which ever is less.</p>\n<p>Emily's parents and guardian brought suit against the DHHS, claiming that federal Medicaid law prevents the DHHS from taking her proceeds. Federal law prohibits recovery from any payments not made for past medical expenses. Since under North Carolina law a minor child is not allowed to recover for past medical expenses, Emily's settlement could not include such expenses. The United States District Court for the Western District of North Carolina disagreed with this argument and granted summary judgment to the state.</p>\n<p>The Armstrongs appealed, and the United States Court of Appeals for the Fourth Circuit vacated the lower court's decision. While the appellate court agreed with the lower court that the DHHS has the right to recover from Emily's settlement, it remanded the case because the state failed to provide a mechanism for determining what part of a settlement covers past medical expenses. Since the North Carolina statutes do not attempt to recover payment for past medical expenses, they violate federal Medicaid law.</p>\n",
+    "conclusion": "<p>Yes. Justice Anthony M. Kennedy, writing for a 6-3 majority, affirmed the lower court. The North Carolina law is preempted by federal law to the extent that it would allow the state to recover part of a Medicaid beneficiary's tort judgment or settlement not designated for medical expenses. Arbitrarily designating one-third of a judgment as recoverable medical expenses lacks any limiting principle. If upheld, nothing could stop a state from arbitrarily designating one-half or all of a judgment as medical expenses. Calculating the actual amount of medical expenses in each case may be more difficult than the one-third rule, but similar allocation procedures are already used other circumstances, such as worker's compensation and separating compensatory and non-compensatory damages for tax purposes. Justice Stephen G. Breyer concurred, stating that he agreed with the majority because the Centers for Medicare and Medicaid Services had already reached the same conclusion.</p>\n<p>Chief Justice John G. Roberts, Jr. dissented, arguing that no regulation or prior case law requires a specific allocation of damages recovered for medical expenses. States should be allowed more leeway to come up with a workable regulation to recoup Medicaid payments. Justice Antonin Scalia and Justice Clarence Thomas joined in the dissent.</p>\n"
+}

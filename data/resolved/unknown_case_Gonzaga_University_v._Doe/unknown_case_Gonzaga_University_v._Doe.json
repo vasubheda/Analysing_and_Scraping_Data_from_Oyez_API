@@ -1,0 +1,35 @@
+{
+    "ID": 55016,
+    "name": "Gonzaga University v. Doe",
+    "href": "https://api.oyez.org/cases/2001/01-679",
+    "view_count": 0,
+    "docket_number": "01-679",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1019624400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38760"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1024549200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38761"
+        }
+    ],
+    "question": "<p>May a student sue a private university for damages to enforce provisions of the Family Educational Rights and Privacy Act of 1974?</p>\n",
+    "citation": {
+        "volume": "536",
+        "page": "273",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/18945"
+    },
+    "term": "2001",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/536/273/",
+    "facts_of_the_case": "<p>A student at Gonzaga University planned to become a public elementary school teacher in Washington, which required all new teachers to obtain an affidavit of good moral character from their graduating colleges. Gonzaga's teacher certification specialist overheard one student tell another that the student had engaged in sexual misconduct, contacted the state agency responsible for teacher certification, and discussed the allegations, identifying the student by name. Ultimately, the student was told that he would not receive his certification affidavit. The student sued Gonzaga in state court, alleging a violation of the Family Educational Rights and Privacy Act of 1974 (FERPA), which prohibits the federal funding of schools that have a policy or practice of permitting the release of students' education records without their parents' written consent. A jury awarded the student compensatory and punitive damages. Ultimately, the State Supreme Court acknowledged that FERPA does not give rise to a private cause of action, but reasoned that the nondisclosure provision creates a federal right that is enforceable.</p>\n",
+    "conclusion": "<p>No. In a 7-2 opinion delivered by Chief Justice William H. Rehnquist, the Court held that such an action is foreclosed because the relevant provisions of FERPA create no personal rights to enforce. The Court reasoned that the creation of individual rights required clear and unambiguous terms, which FERPA's confidentiality provisions did not contain. \"FERPA's nondisclosure provisions contain no rights-creating language, they have an aggregate, not individual, focus, and they serve primarily to direct the Secretary of Education's distribution of public funds to educational institutions,\" wrote Chief Justice Rehnquist. Justice John Paul Stevens, joined by Justice Ruth Bader Ginsburg, dissented, arguing that the Court's opinion \"may be read as accepting the proposition that FERPA does indeed create both parental rights of access to student records and student rights of privacy in such records, but that those federal rights are of a lesser value because Congress did not intend them to be enforceable by their owners.\"</p>\n"
+}

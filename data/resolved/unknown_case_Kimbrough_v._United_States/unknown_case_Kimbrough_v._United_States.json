@@ -1,0 +1,42 @@
+{
+    "ID": 55474,
+    "name": "Kimbrough v. United States",
+    "href": "https://api.oyez.org/cases/2007/06-6330",
+    "view_count": 0,
+    "docket_number": "06-6330",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1181538000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39924"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1191301200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39925"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1197266400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39926"
+        }
+    ],
+    "question": "<ol>\n<li>\n<p>When imposing a sentence for distributing crack cocaine, may a District Court judge consider the impact of the 100-to-1 crack/powder ratio and the Sentencing Commission's view that the ratio leads to exaggerated sentences for crimes involving crack cocaine?</p>\n</li>\n<li>\n<p>May a District Court judge, in an effort to avoid a sentencing disparity, impose a sentence that is below the range recommended by the 100-to-1 crack/powder ratio in the Guidelines?</p>\n</li>\n</ol>\n",
+    "citation": {
+        "volume": "552",
+        "page": "85",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20740"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/552/85/",
+    "facts_of_the_case": "<p>In 1986, during the Reagan administration's anti-drug initiative, Congress enacted a federal sentencing policy of punishing crimes involving crack cocaine at a 100-to-1 ratio compared to crimes involving powder cocaine. For example, the sentencing guidelines prescribe the same sentence for a defendant convicted of dealing 500 grams of powder cocaine as they do for a defendant convicted of dealing only five grams of crack cocaine. Congress declined to repeal the 100-to-1 ratio despite the U.S. Sentencing Commission's contention that the ratio led to exaggerated sentences for crack dealers.</p>\n<p>Derrick Kimbrough pleaded guilty to distributing fifty or more grams of crack cocaine, along with other drug-and firearm-related offenses. The federal sentencing guidelines prescribed a sentence of between 19 and 22.5 years, but the district court judge considered this sentence \"ridiculous.\" Citing the Sentencing Commission's reports, the judge decided to depart from the 100-to-1 ratio and hand down a sentence of 15 years. Since the Supreme Court's decision in <em>United States v. Booker</em> the sentencing guidelines have been advisory only, but the guidelines range is still among the factors a court must consider before handing down a reasonable sentence.</p>\n<p>On appeal, the U.S. Court of Appeals for the Fourth Circuit rejected the below-guidelines sentence as unreasonable. The Fourth Circuit ruled that trial judges act unreasonably when they depart from the guidelines on the basis of a disagreement with a congressional sentencing policy. Therefore, judges cannot hand down below-guidelines sentences merely in order to avoid the sentencing disparity caused by the 100-to-1 ratio.</p>\n",
+    "conclusion": "<p>Justice Ruth Bader Ginsburg authored the Court's 7-2 majority opinion reversing the Fourth Circuit and affirming the sentence handed down by the trial judge. Ginsburg noted that the drug trafficking statute still had some minimum sentencing requirements, and expressed the Court's confidence that district courts could maintain reasonably uniform approaches to cocaine sentencing. She also referred to the Court's assertion in <em>Booker</em> that, by making the Federal Sentencing Guidelines advisory, the Court was willing to accept some non-uniformity in sentencing. Justices Clarence Thomas and Samuel A. Alito dissented in the opinion.</p>\n"
+}

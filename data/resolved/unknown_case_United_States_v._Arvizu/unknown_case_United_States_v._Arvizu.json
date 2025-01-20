@@ -1,0 +1,35 @@
+{
+    "ID": 54992,
+    "name": "United States v. Arvizu",
+    "href": "https://api.oyez.org/cases/2001/00-1519",
+    "view_count": 0,
+    "docket_number": "00-1519",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1006840800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38717"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1011074400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38718"
+        }
+    ],
+    "question": "<p>Did a border agent have reasonable suspicion to believe that Ralph Arvizu was engaged in illegal activity based on a number of factors?</p>\n",
+    "citation": {
+        "volume": "534",
+        "page": "266",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/18921"
+    },
+    "term": "2001",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/534/266/",
+    "facts_of_the_case": "<p>In 1998, Ralph Arvizu was stopped by Border Patrol Agent Clinton Stoddard while driving on an unpaved road in a remote area of southeastern Arizona. A number of factors prompted Stoddard to stop Arvizu, including his slowing down, his failure to acknowledge the agent, the raised position of the children's knees, and their odd waving. After receiving permission to search the vehicle, Stoddard found more than 100 pounds of marijuana. Arvizu was charged with possession with intent to distribute. Arvizu moved to suppress the marijuana, arguing among other things that Stoddard did not have reasonable suspicion to stop the vehicle as required by the Fourth Amendment. Denying the motion, the District Court cited a number of facts that gave Stoddard reasonable suspicion to stop the vehicle, including its location. In reversing, the Court of Appeals held that the District Court relied on factors that carried little or no weight in reasonable-suspicion calculus and that the remaining factors were not enough to render the stop permissible. In the appellate court's view, fact-specific weighing of circumstances or other multifactor tests introduced uncertainty and unpredictability into the Fourth Amendment analysis, making it necessary to clearly delimit the factors that an officer may consider in making stops such as this one.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion delivered by Chief Justice William H. Rehnquist, the Court held that the Court of Appeals' methodology was contrary to its prior decisions and that it reached the wrong result in this case. The Court concluded that Stoddard had reasonable suspicion to believe that Arvizu was engaged in illegal activity, having considered the totality of the circumstances and given due weight to the factual inferences drawn by the law enforcement officer and District Court Judge. The Court reasoned that, although each factor alone could have appeared innocent, when taken together they sufficed to form a particularized and objective basis for Stoddard's stopping the vehicle, making the stop reasonable within the meaning of the Fourth Amendment. Justice Antonin Scalia wrote a concurring opinion.</p>\n"
+}

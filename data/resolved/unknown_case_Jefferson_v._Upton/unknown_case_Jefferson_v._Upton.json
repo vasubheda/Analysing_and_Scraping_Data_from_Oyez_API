@@ -1,0 +1,35 @@
+{
+    "ID": 55651,
+    "name": "Jefferson v. Upton",
+    "href": "https://api.oyez.org/cases/2009/09-8852",
+    "view_count": 0,
+    "docket_number": "09-8852",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1274677200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40416"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1274677200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40417"
+        }
+    ],
+    "question": "<p>Did the Sixth Circuit err when it presumed that factual findings made by the state trial court were correct, even though there are circumstances when a federal court can set aside such findings?</p>\n",
+    "citation": {
+        "volume": "560",
+        "page": "284",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19574"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that the Sixth Circuit Court of Appeals erred in failing to apply seven of the eight exceptions to excluding evidence from lower courts.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/560/284/",
+    "facts_of_the_case": "<p>A Georgia state court convicted Lawrence Jefferson of murder and sentenced him to death. On appeal at the state and then federal court level, Mr. Jefferson argued that his lawyers were constitutionally inadequate because they failed to investigate a traumatic head injury that he suffered as a child. On appeal to the U.S Court of Appeals for the Sixth Circuit, it accepted the state court's factual findings and affirmed Mr. Jefferson's conviction and sentence.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion, the Supreme Court held that the Sixth Circuit erred when it failed to consider the full arsenal of exceptions that may trigger its ability to set aside factual findings made by a state trial court. The Court noted that there are eight exceptions whereby a federal court can set aside the factual findings of a state trial court. Here, the Sixth Circuit only explored one such exception. The Court vacated the decision of the Sixth Circuit and remanded the case with instructions for the Sixth Circuit to explore each possible exception whereby it may set aside the factual findings of the state trial court.</p>\n<p>Justice Antonin Scalia, joined by Justice Clarence Thomas, dissented. He disagreed with the majority's holding, arguing that it attempted to answer questions not present in Mr. Jefferson's petition for certiorari. Instead, he would either have denied the petition or affirmed the Sixth Circuit.</p>\n"
+}

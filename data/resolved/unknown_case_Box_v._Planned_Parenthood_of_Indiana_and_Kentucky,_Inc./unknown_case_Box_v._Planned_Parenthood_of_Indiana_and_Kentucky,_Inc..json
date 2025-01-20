@@ -1,0 +1,35 @@
+{
+    "ID": 63134,
+    "name": "Box v. Planned Parenthood of Indiana and Kentucky, Inc.",
+    "href": "https://api.oyez.org/cases/2018/18-483",
+    "view_count": 0,
+    "docket_number": "18-483",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1559019600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54513"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                1559019600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54514"
+        }
+    ],
+    "question": "<p>Does an Indiana law that prevents the incineration of fetal remains with surgical byproducts, authorizes simultaneous cremation of fetal remains, and leave unchanged a woman's right under existing law \"to determine the final disposition of the aborted fetus\" bear a rational relationship to a legitimate state interest?</p>\n",
+    "citation": {
+        "volume": "587",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27681"
+    },
+    "term": "2018",
+    "description": "A case in which the Court held that Indiana\u2019s law relating to the disposition of fetal remains by abortion providers passes rational basis review, but declined to review the question whether the state may bar the knowing provision of sex-, race-, or disability-selective abortions by abortion providers.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/587/18-483/",
+    "facts_of_the_case": "<p>The Indiana legislature passed two laws at issue in this case.</p>\n<p>The first related to the disposition of fetal remains by abortion providers. This law changed the definition of infectious and pathological waste, thereby preventing abortion providers from incinerating fetal remains with surgical byproducts. The law also authorized simultaneous cremation of fetal remains, which Indiana law does not allow for human remains.</p>\n<p>The second provision of Indiana law barred the knowing provision of sex-, race-, or disability-selective abortions by abortion providers.</p>\n<p>Planned Parenthood of Indiana and Kentucky challenged the laws on constitutional grounds but notably did not make the argument that either law burdened a fundamental right.</p>\n",
+    "conclusion": "<p>In a per curiam (unsigned) opinion issued without argument, the Court upheld an Indiana law relating to the disposition of fetal remains as rationally related to a legitimate state interest. Because no other appellate court besides the Seventh Circuit had ruled on the second question (whether another Indiana law that bars the knowing provision of sex-, race-, or disability-selective abortions by abortion providers), the Court denied the petition as to that question, effectively leaving in place the decision of the Seventh Circuit striking down that law.</p>\n<p>Citing its decision in <a href=\"https://www.oyez.org/cases/1982/81-746\"><em>Akron v. Akron Center for Reproductive Health, Inc.</em>, 462 U.S. 416 (1983)</a>, the Court found that a state has a \u201clegitimate interest in proper disposal of fetal remains.\u201d The Seventh Circuit therefore erred in reaching the opposite conclusion to strike down the Indiana law. The Court then considered whether the challenged law is rationally related to that interest, holding that it is.</p>\n<p>The Court pointed out that this case does not present the substantive question whether Indiana\u2019s law imposes an undue burden on a woman\u2019s right to obtain an abortion, and therefore it does not answer that question.</p>\n<p>Justice Sonia Sotomayor would have denied the petition for certiorari as to both questions.</p>\n<p>Justice Clarence Thomas wrote a concurring opinion in which he discusses the second question, which the Court did not consider.</p>\n<p>Justice Ruth Bader Ginsburg would have denied the petition for certiorari as to both questions because, according to her separate opinion, the parties argued below for the incorrect standard (rational basis review rather than heightened review).</p>\n"
+}

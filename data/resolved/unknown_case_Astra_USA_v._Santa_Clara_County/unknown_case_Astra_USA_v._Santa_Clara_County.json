@@ -1,0 +1,42 @@
+{
+    "ID": 55757,
+    "name": "Astra USA v. Santa Clara County",
+    "href": "https://api.oyez.org/cases/2010/09-1273",
+    "view_count": 0,
+    "docket_number": "09-1273",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1285650000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40677"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1295416800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40678"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1301374800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40679"
+        }
+    ],
+    "question": "<p>Can health care providers sue drug makers for overcharging public hospitals for prescription drugs?</p>\n",
+    "citation": {
+        "volume": "563",
+        "page": "110",
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19679"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that health care providers cannot sue drug makers for overcharging public hospitals for prescription drugs.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/563/110/",
+    "facts_of_the_case": "<p>In 2005, Santa Clara County, Calif., filed a class-action lawsuit based on U.S. Department of Health and Human Services reports, alleging that pharmaceutical companies have systemically overcharged hospitals and clinics, making them pay millions of dollars more than necessary for prescription drugs. The Inspector General's report also argued that the government is ill-equipped to ensure that clinics are being charged correctly. The U.S. District Court for the Northern District of California dismissed the case, but in March 2008, the U.S. Court of Appeals for the Ninth Circuit overturned the decision.</p>\n",
+    "conclusion": "<p>No. The Supreme Court ruled in a unanimous opinion by Justice Ruth Bader Ginsburg that health care providers cannot sue drug makers for overcharging public hospitals for prescription drugs. Justice Elena Kagan did not take part in consideration of the case.</p>\n"
+}

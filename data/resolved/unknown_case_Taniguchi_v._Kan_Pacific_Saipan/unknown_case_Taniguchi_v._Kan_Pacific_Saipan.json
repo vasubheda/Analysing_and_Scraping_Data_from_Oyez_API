@@ -1,0 +1,42 @@
+{
+    "ID": 55884,
+    "name": "Taniguchi v. Kan Pacific Saipan",
+    "href": "https://api.oyez.org/cases/2011/10-1472",
+    "view_count": 0,
+    "docket_number": "10-1472",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1317099600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41015"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1329804000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41016"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1337576400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41017"
+        }
+    ],
+    "question": "<p>Are costs incurred in translating documents \"compensation of interpreters\" under 28 U.S.C. Section \u00a7 1920(6)?</p>\n",
+    "citation": {
+        "volume": "566",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19806"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that the winner of a federal-court lawsuit cannot be reimbursed by the losing party for any document translation costs under 28 U.S.C. \u00a7 1920(6).",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/566/560/",
+    "facts_of_the_case": "<p>On November 6, 2006, Kouichi Taniguchi, a Japanese baseball player, visited the Marianas Resort and Spa in the Northern Mariana Islands. During a tour of the resort, Taniguchi fell through a wooden deck. Immediately after the accident, Taniguchi stated that he did not need medical attention. Two weeks later, he informed Kan Pacific Saipan, Ltd., the owner of the resort, that he had sustained injuries, which he claimed resulted in various medical expenses and loss of income.</p>\n<p>Taniguchi subsequently brought a diversity lawsuit against Kan Pacific alleging negligence and seeking damages for losses suffered because of the accident. After discovery, the district court awarded summary judgment to Kan Pacific and awarded Kan Pacific litigation costs under 28 U.S.C. \u00a7 1920. During litigation, Kan Pacific spent $5,517.20 for the translation of contracts and other documents from Japanese to English. The district court included these costs in the award because it interpreted \"compensation of interpreters\" in U.S.C. \u00a7 1920(6), as including compensation for the translation of documents.</p>\n<p>Taniguchi appealed to the U.S. Court of Appeals for the Ninth Circuit, which affirmed the award of $5,517.20 for the document translation. The court denied Taniguchi's petition for rehearing on May 11, 2011, and Taniguchi subsequently appealed.</p>\n",
+    "conclusion": "<p>No. In a 6-3 opinion written by Justice Samuel Alito, the Court held that Section \u00a7 1920(6) did not allow the district court to award Kan Pacific the costs of translating documents. Justice Alito described the history of the Court Interpreters Act, focusing on the original amendment adding the costs of compensating interpreters as a separate category of taxable costs that courts could award. Justice Alito noted that \"interpreter\" was not defined in the act itself or in any other relevant statutory provision.</p>\n<p>Justice Alito then looked to the ordinary meaning of the word \"interpreter\" as defined by dictionaries in 1978, the year \u00a7 1920(6) was amended to its current form. He determined that dictionaries generally defined the term as a person who translates oral communication from one language to another. Legal dictionaries used similar definitions. While Webster's Third New International defined \"interpreter\" more broadly, its definition specified that the most common meaning was a person who translated orally. Justice Alito also looked to contextual evidence and to references to technical language in the act, concluding that congress intended to limit the term to oral communications.</p>\n<p>While the Ninth Circuit reasoned that a broader interpretation was more consistent with Rule 54 of the Federal Rules of Civil Procedure -which gave broad discretion to courts in awarding costs- Justice Alito wrote that this discretion was limited by the costs allowed by congress. He argued that congress may have limited interpretation costs out of a concern about excessive costs to litigants, and that Kan Pacific failed to show that distinguishing translating from interpreting would be a frequent problem for trial courts.</p>\n<p>Justice Ruth Bader Ginsburg dissented, joined by Justices Stephen Breyer and Sonia Sotomayor. Justice Ginsburg argued that many dictionaries' definitions of \"interpreter\" included the translation of written documents. She pointed out that several federal courts also used similar definitions, and that courts have awarded the costs of translating documents for decades. Justice Ginsburg emphasized the importance of parties' access to translated documents, and that the line between translated and interpreted communications was not a clear one.</p>\n"
+}

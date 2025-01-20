@@ -1,0 +1,35 @@
+{
+    "ID": 54853,
+    "name": "Friends of the Earth, Inc. v. Laidlaw Environmental Services (TOC), Inc.",
+    "href": "https://api.oyez.org/cases/1999/98-822",
+    "view_count": 0,
+    "docket_number": "98-822",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                939704400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38450"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                947656800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38451"
+        }
+    ],
+    "question": "<p>Does an environmental group's citizen suit for civil penalties under the Clean Water Act become moot when the defendant, after commencement of the litigation, has come into compliance with its National Pollutant Discharge Elimination System permit?</p>\n",
+    "citation": {
+        "volume": "528",
+        "page": "167",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18782"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/528/167/",
+    "facts_of_the_case": "<p>After Laidlaw Environmental Services, Inc. bought a wastewater treatment plant, it was granted a National Pollutant Discharge Elimination System (NPDES) permit. The permit authorized Laidlaw to discharge treated water and limited pollutants. Laidlaw's discharge of mercury into the North Tyger River repeatedly exceeded the limits set by the permit. Ultimately, Friends of the Earth and others (FOE) filed a citizen suit under the Clean Water Act against Laidlaw, alleging noncompliance with the NPDES permit, seeking injunctive relief and an award of civil penalties. Laidlaw moved for summary judgement on the ground that FOE lacked standing to bring the lawsuit. The District Court denied the motion. Ultimately, the District Court found that Laidlaw violated the mercury discharge limitation. In issuing its judgment, the District Court concluded that a civil penalty of $405,800 would be adequate to forestall future violations, given that Laidlaw would have to reimburse the plaintiffs for a significant amount of legal fees and had itself incurred significant legal expenses. The court declined to order injunctive relief because Laidlaw, after the lawsuit began, had achieved substantial compliance with the terms of its permit. FOE appealed to the amount of the District Court's civil penalty judgment, but did not appeal the denial of declaratory or injunctive relief. The Court of Appeals ordered the case to be dismissed. The appellate court held that the case had become moot once Laidlaw complied with the terms of its permit. The court reasoned that the only remedy currently available to FOE, civil penalties payable to the Government, would not redress any injury FOE had suffered.</p>\n",
+    "conclusion": "<p>No. In a 7-2 opinion delivered by Justice Ruth Bader Ginsburg, the Court held that a citizen suitor's claim for civil penalties need not be dismissed as moot when the defendant, after commencement of the litigation, has come into compliance with its NPDES permit. \"A defendant's voluntary cessation of allegedly unlawful conduct ordinarily does not suffice to moot a case,\" Justice Ginsburg wrote for the Court. \"Congress has found that civil penalties in the Clean Water Act cases do more than promote immediate compliance... they also deter future violations,\" concluded Justice Ginsburg. The Court also ruled that FOE had standing to bring the suit on behalf on its members.</p>\n"
+}

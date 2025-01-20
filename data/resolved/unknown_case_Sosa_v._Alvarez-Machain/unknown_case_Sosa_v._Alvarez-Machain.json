@@ -1,0 +1,42 @@
+{
+    "ID": 55199,
+    "name": "Sosa v. Alvarez-Machain",
+    "href": "https://api.oyez.org/cases/2003/03-339",
+    "view_count": 0,
+    "docket_number": "03-339",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1070258400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39173"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1080626400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39174"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1088485200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39175"
+        }
+    ],
+    "question": "<p>Does the Alien Tort Statute permit private individuals to bring suit against foreign citizens for crimes committed in other countries in violation of the law of nations or treaties of the United States? May an individual bring suit under the Federal Tort Claims Act for a false arrest that was planned in the United States but carried out in a foreign country?</p>\n",
+    "citation": {
+        "volume": "542",
+        "page": "692",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19127"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/542/692/",
+    "facts_of_the_case": "<p>A U.S. Drug Enforcement Agency (DEA) special agent was kidnapped and murdered by a Mexican drug cartel in 1985. After an investigation, the DEA concluded that Humberto Alvarez-Machain had participated in the murder. A warrant for his arrest was issued by a federal district court. The DEA, however, was unable to convince Mexico to extradite Alvarez-Machain, so they hired several Mexican nationals to capture him and bring him back to the United States. His subsequent trial went all the way to the Supreme Court, which found that the government could try a person who had been forcibly abducted, but that the abduction itself might violate international and provide grounds for a civil suit. When the case went back to the district court for trial, Alvarez-Machain was found not guilty for lack of evidence.</p>\n<p>Alvarez-Machain then filed a group of civil suits in federal court against the United States and the Mexican nationals who had captured him under the Federal Tort Claims Act (FTCA), which allows the federal government to be sued on tort claims, and the Alien Tort Statute (ATS), which permits suits against foreign citizens in American courts. The government argued that the FTCA applied only to claims arising from actions that took place in the United States and therefore did not cover Alvarez-Machain's case because the arrest took place in Mexico. Further, the government and the Mexican nationals argued that the ATS gave federal courts jurisdiction to hear tort claims against foreign citizens, but did not allow private individuals to bring those suits.</p>\n<p>The federal district court disagreed with the government's contention that the FCTA claim did not apply, finding that plan to capture Alvarez-Machain was developed on U.S. soil and therefore covered. However, the court then ruled that the DEA had acted lawfully when they arrested Alvarez-Machain and was therefore not liable. On the ATS claims, the court rejected the argument that private individuals could not bring suit under the Act. The court found that Jose Francisco Sosa, one of the Mexican nationals who kidnapped Alvarez- Machain, had violated international law and was therefore liable under the ATS.</p>\n<p>On appeal, the Ninth Circuit Court of Appeals overturned the district court's FTCA decision, ruling that the DEA could not authorize a citizen's arrest of Alvarez-Machain in another country and was therefore liable. The appeals court did, however, affirm the lower court's finding on the ATS claim, upholding the judgment against Sosa.</p>\n",
+    "conclusion": "<p>No and No. On the Alien Tort Statute claim, the Court unanimously ruled that the ATS did not create a separate ground of suit for violations of the law of nations. Instead, it was intended only to give courts jurisdiction over traditional law of nations cases - those involving ambassadors, for example, or piracy. Because Alvarez-Machain's claim did not fall into one of these traditional categories, it was not permitted by the ATS. On the FTCA claim, the Court ruled that the arrest had taken place outside the United States and therefore was exempted from the Act. It rejected Alvarez-Machain's argument that the exemption should not apply because the arrest had been planned in the United States.</p>\n"
+}

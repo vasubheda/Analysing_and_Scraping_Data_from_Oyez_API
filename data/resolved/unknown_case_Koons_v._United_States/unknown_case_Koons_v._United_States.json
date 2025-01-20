@@ -1,0 +1,42 @@
+{
+    "ID": 62935,
+    "name": "Koons v. United States",
+    "href": "https://api.oyez.org/cases/2017/17-5716",
+    "view_count": 0,
+    "docket_number": "17-5716",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1512712800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54167"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1522126800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54225"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1528088400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54283"
+        }
+    ],
+    "question": "<p>Is a defendant whose sentence is based on a mandatory minimum sentence statute and reduced due to providing substantial assistance to the government eligible for a further sentence reduction under 18 U.S.C. \u00a7 3582(c)(2), when the Sentencing Commission retroactively lowers the advisory sentencing guidelines range that would have applied in the absence of the statutory mandatory minimum?</p>\n",
+    "citation": {
+        "volume": "584",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27563"
+    },
+    "term": "2017",
+    "description": "A case in which the Court decided that the petitioners, who were criminal defendants, were not eligible for sentence reductions under 18 U.S.C. \u00a7 3582(c)(2) because their sentences were not \u201cbased on\u201d their lowered Federal Sentencing Guidelines ranges, but rather were \u201cbased on\u201d the mandatory minimum sentences for their offenses and their substantial assistance to the government. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/584/17-5716/",
+    "facts_of_the_case": "<p>Timothy D. Koons and four other defendants were convicted of methamphetamine conspiracy offenses. During the sentencing phase of each defendant\u2019s trial, the government moved to reduce the defendant\u2019s sentence under 18 U.S.C. \u00a7 3553(e) for providing substantial assistance to the prosecution in the prosecution or investigation of another person. The district court in each case granted the government\u2019s motion and reduced the defendant\u2019s sentence to a term below the statutory mandatory minimum. All five defendants subsequently moved for further sentence reductions under 18 U.S.C. \u00a7 3582(c)(2), which allows a district court to reduce the sentence of \u201ca defendant who has been sentenced to a term of imprisonment based on a sentencing range that has subsequently been lowered by the Sentencing Commission . . . if such a reduction is consistent with applicable policy statements issued by the Sentencing Commission.\u201d</p>\n<p>The Eighth Circuit declined to follow the Fourth Circuit panel majority in holding that defendants are eligible for discretionary \u00a7 3582(c)(2) reductions. Rather, the Eighth Circuit interpreted the plain language of the statute to require the sentence be <em>based on</em> a range subsequently lowered by the Commission, and that in these five cases the sentence was based instead on the mandatory minimum and their substantial assistance. Accordingly, the Eighth Circuit affirmed the district court\u2019s denial of sentencing reductions, but for reasons different from those used by the district court.</p>\n",
+    "conclusion": "<p>In a unanimous opinion authored by Justice Alito, the Court held that the petitioners were not eligible for sentence reductions under 18 U.S.C. \u00a7 3582(c)(2) because their sentences were not \u201cbased on\u201d their lowered Federal Sentencing Guidelines ranges, but rather were \u201cbased on\u201d the mandatory minimum sentences for their offenses and their substantial assistance to the government. The Court explained that for a sentence to be \u201cbased on\u201d a lowered Guidelines range, the range needed to have played at least a relevant part in a defendant\u2019s sentencing. In this case the district court did not consider the Guidelines ranges in its ultimate sentencing decisions, but instead relied on the applicable mandatory minimums.</p>\n"
+}

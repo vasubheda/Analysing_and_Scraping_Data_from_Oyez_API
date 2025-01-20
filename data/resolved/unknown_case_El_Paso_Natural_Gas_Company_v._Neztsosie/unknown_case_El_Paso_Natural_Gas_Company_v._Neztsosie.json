@@ -1,0 +1,35 @@
+{
+    "ID": 54687,
+    "name": "El Paso Natural Gas Company v. Neztsosie",
+    "href": "https://api.oyez.org/cases/1998/98-6",
+    "view_count": 0,
+    "docket_number": "98-6",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                920354400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38146"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                925707600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38147"
+        }
+    ],
+    "question": "<p>Do tribal courts have the authority to determine its own jurisdiction over damage actions stemming from nuclear incidents under the Price-Anderson Act, which grants federal district courts removal jurisdiction over such actions?</p>\n",
+    "citation": {
+        "volume": "526",
+        "page": "473",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18616"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/526/473/",
+    "facts_of_the_case": "<p>In 1995, Laura and Arlinda Neztsosie, and others, filed separate lawsuits in the Navajo Tribal Courts, claiming damages for injuries suffered as a result of El Paso Natural Gas Corporation's and Cyprus Foote Mineral Company's uranium mining operations. El Paso and Cyprus Foote, defendants in those suits, each filed suit in Federal District Court, seeking to enjoin the Neztsosies from pursuing their tribal court claims. The District Court denied preliminary injunctions except to the extent that the Neztsosies sought relief in the Tribal Courts under the Price-Anderson Act. The Price-Anderson Act provides certain federal licensees with limited liability for claims of \"public liability\" arising out of or resulting from a nuclear incident, converts such actions into federal claims, grants federal district courts removal jurisdiction over such actions, and provides the mechanics for consolidating the actions and for managing them once consolidated. The District Court left the determinations whether the Act applied to the Neztsosies' claims to the Tribal Courts. On El Paso's and Cyprus Foote's consolidated appeals, the Court of Appeals affirmed the District Court's decisions not to enjoin the Neztsosies from pursuing non-Price-Anderson Act claims and to allow the Tribal Courts to decide whether the Neztsosies' claims fell under that Act. Further, although the Neztsosies had not appealed the partial injunctions, the Court of Appeals moved on its own to reverse them.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion, delivered by Justice David H. Souter, the Court held that requiring a district court to stay its hand while a tribal court determines its own jurisdiction, or the doctrine of tribal court exhaustion, does not apply in this case, which if brought in a state court would be subject to removal. \"By the Price-Anderson Act's unusual preemption provision Congress expressed an unmistakable preference for a federal forum, at the behest of the defending party,\" wrote Justice Souter.</p>\n"
+}

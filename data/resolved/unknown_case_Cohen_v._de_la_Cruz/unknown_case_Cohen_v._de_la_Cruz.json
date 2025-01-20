@@ -1,0 +1,35 @@
+{
+    "ID": 54659,
+    "name": "Cohen v. de la Cruz",
+    "href": "https://api.oyez.org/cases/1997/96-1923",
+    "view_count": 0,
+    "docket_number": "96-1923",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                885276000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38094"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                890719200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38095"
+        }
+    ],
+    "question": "<p>May individuals who commit fraud discharge their debts, including damages awarded to those who were defrauded, under the Bankruptcy Code?</p>\n",
+    "citation": {
+        "volume": "523",
+        "page": "213",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18588"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/523/213/",
+    "facts_of_the_case": "<p>After the local rent control administrator ordered Edward S. Cohen to refund $31,382.50 in excessive rents he had charged Hilda de la Cruz and other tenants, Cohen sought to discharge his debts under Chapter 7 of the Bankruptcy Code. The tenants filed an adversary proceeding, arguing that the debt Cohen owed to them was nondischargeable under ?523(a)(2)(A) of the Code, which excepts from discharge \"any debt ... for money, property, services, or an extension, renewal, or refinancing of credit, to the extent obtained by ... actual fraud.\" The tenants also sought treble damages, attorney's fees, and costs under the New Jersey Consumer Fraud Act. The Bankruptcy Court ruled in their favor, finding that Cohen had committed \"actual fraud\" within the meaning of ?523(a)(2)(A) of the Code and that his conduct violated the New Jersey law. The court, therefore, awarded the tenants treble damages totaling $94,147.50, plus attorney's fees and costs. The District Court affirmed, as did the Court of Appeals, which held that debts resulting from fraud are nondischargeable under ?523(a)(2)(A) of the Code, and that the award of treble damages (plus attorney's fees and costs) in this case was therefore nondischargeable.</p>\n",
+    "conclusion": "<p>No. In a unanimous decision authored by Justice Sandra Day O'Connor, The Court ruled that because Section 523(a)(2)(A) of the Bankruptcy Code excepts from discharge all liability arising from fraud, treble damages (plus attorney's fees and costs) awarded on account of the debtor's fraud fall within the scope of the exception. Justice O'Connor wrote, \"The bankruptcy code has long prohibited debtors from discharging liabilities incurred on account of their fraud, embodying a basic policy...of affording relief only to an honest but unfortunate debtor.\"</p>\n"
+}

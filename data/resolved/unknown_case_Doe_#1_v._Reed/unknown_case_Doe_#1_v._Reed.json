@@ -1,0 +1,42 @@
+{
+    "ID": 55712,
+    "name": "Doe #1 v. Reed",
+    "href": "https://api.oyez.org/cases/2009/09-559",
+    "view_count": 0,
+    "docket_number": "09-559",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1263535200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40566"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1272430800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40567"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1277355600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52236"
+        }
+    ],
+    "question": "<p>1) Does the First Amendment protection of political speech, association, and belief require strict scrutiny when a state compels the public release of identifying information about petition signers?</p>\n<p>2) Is compelling public disclosure of identifying information about petition signers narrowly tailored to a compelling interest, and did the petitioners meet all the elements required for a preliminary injunction?</p>\n",
+    "citation": {
+        "volume": "561",
+        "page": "186",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19634"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that requiring the disclosure of the names of individuals who sign a referendum petition does not violate the signers' First Amendment rights to protection of political speech.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/561/186/",
+    "facts_of_the_case": "<p>Plaintiffs sought a preliminary injunction in a Washington federal district court to prevent the state of Washington from making referendum petitions available under the state's Public Records Act (\"PRA\"). In response to a petition titled \"Preserve Marriage, Protect Children,\" plaintiffs attempted to prevent the release of the names and contact information of individuals who signed the petition. The plaintiffs argued that, as applied to referendum petitions, the PRA violates the First Amendment because it is not narrowly tailored to serve a compelling government interest. The district court granted the injunction.</p>\n<p>On appeal, the U.S. Court of Appeals for the Ninth Circuit reversed holding that the PRA does not violate the First Amendment when applied to require public disclosure of petitions calling for a referendum. The court reasoned that even assuming that signing a petition qualifies as expressive conduct, and that application of the PRA's public access provision has an incidental effect on a referendum signer's speech by deterring some would-be signers, the appropriate level of constitutional inquiry is intermediate scrutiny, not strict scrutiny. Under intermediate scrutiny, the interests asserted by the state are sufficiently important to justify the law's incidental limitations of referendum petition signers' First Amendment freedoms.</p>\n",
+    "conclusion": "<p>No. Yes. The Supreme Court affirmed the Ninth Circuit, holding that the disclosure of referendum petitions does not as a general matter violate the First Amendment. With Chief Justice John G. Roberts writing for the majority, the Court reasoned that an \"exacting scrutiny standard\" is the appropriate standard for determining First Amendment challenges in the electoral context. The standard requires a \"substantial relation\" between the disclosure requirement and a \"sufficiently important\" governmental interest. Here, the state met its burden in establishing that its disclosure requirement was constitutional.</p>\n<p>Justice Samuel A. Alito concurred. He noted that the Court's opinion did not bar \"as applied\" exemptions from the PRA's disclosure requirements. To obtain an exemption, a speaker must show \"a reasonable probability that the compelled disclosure will subject them to threats, harassment, or reprisals from either Government officials or private parties.\" Justice Sotomayor, joined by Justices John Paul Stevens and Ruth Bader Ginsburg, also concurred. She agreed that in this case, given the relative weight of the interests at stake and the traditionally public nature of the referendum process, the Court correctly rejected the constitutional challenge to the PRA. Justice John Paul Stevens, joined by Justice Stephen G. Breyer, concurred in part and concurred in the judgment. He opined that this was \"not a hard case\" as it merely dealt with a neutral, nondiscriminatory policy of disclosing information already in the state's possession that might one day indirectly burden signatories. He did not view the burden imposed by the PRA as substantial. Justice Antonin Scalia also concurred in the judgment. He noted that a history indicates that the First Amendment does not prohibit public disclosure. He also doubted whether signing a petition fits within the definition of \"freedom of speech\" at all. Justice Clarence Thomas dissented. He argued that the PRA severely burdens the First Amendment right to free speech and \"chills participation in the referendum process.\"</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55187,
+    "name": "Fellers v. United States",
+    "href": "https://api.oyez.org/cases/2003/02-6320",
+    "view_count": 0,
+    "docket_number": "02-6320",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1047276000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39140"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1071036000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39141"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1075096800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39142"
+        }
+    ],
+    "question": "<p>(1) Was the appellate court correct to rule that officers did not violate Fellers' Sixth Amendment right to counsel because officers did not interrogate him? (2) Should Fellers' statements in the jailhouse - given after police Mirandized him - be suppressed because they were fruits of an unconstitutional interview in his home?</p>\n",
+    "citation": {
+        "volume": "540",
+        "page": "519",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19115"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/540/519/",
+    "facts_of_the_case": "<p>After a grand jury indicted Fellers, police arrested him at home. Fellers made incriminating statements during the arrest. Police officially interrogated Fellers at county jail and told him of his Miranda rights. Fellers signed a waiver of these rights and restated incriminating statements he had made at home. Fellers later argued that, when he was arrested in his home without a lawyer, police \"deliberately elicited\" incriminating statements. Pointing to his Sixth Amendment right to counsel, Fellers argued it would be unconstitutional to admit at trial his incriminating statements made in jail, because these were the \"fruits\" of comments made at home without a lawyer.</p>\n<p>Fellers was convicted in federal district court. A federal appellate court affirmed the conviction and ruled that officers did not violate Fellers' Sixth Amendment right to counsel either at home or in the jailhouse.</p>\n",
+    "conclusion": "<p>Question 1: No. Question 2: Remanded. In a unanimous decision delivered by Justice Sandra Day O'Connor, the Court held that officers violated Fellers' Sixth Amendment right to counsel by deliberately eliciting incriminating information from him after an indictment and in the absence of a lawyer. The Court rejected the appellate court's argument that the Sixth Amendment right to counsel was irrelevant because police did not \"interrogate\" Fellers at his home. The Court sent the case back to the appellate court to determine - under the Sixth Amendment - whether Fellers' statements in jail should be suppressed because they were \"fruits\" of his unconstitutional questioning at home.</p>\n"
+}

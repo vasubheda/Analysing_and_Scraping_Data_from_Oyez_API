@@ -1,0 +1,28 @@
+{
+    "ID": 54412,
+    "name": "Lawrence v. Chater",
+    "href": "https://api.oyez.org/cases/1995/94-9323",
+    "view_count": 0,
+    "docket_number": "94-9323",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                821080800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37637"
+        }
+    ],
+    "question": "<p>Does the U.S. Supreme Court have the authority to set aside a lower court's ruling and remand the case without finding that the lower court committed some error?</p>\n",
+    "citation": {
+        "volume": "516",
+        "page": "163",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18341"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/516/163/",
+    "facts_of_the_case": "<p>Kemmerlyn Lawrence asserted entitlement to Social Security benefits as the dependant, unmarried minor child of a deceased insured individual. Under the Social Security Act, which requires paternity to be decided by state law, Lawrence acknowledged that her claim appeared defeated, but agued that the relevant North Carolina law's proof of paternity requirements are unconstitutional. After the Federal Government argued that a state paternity law's constitutionality need not be considered before applying it to determine entitlement to Social Security benefits, the Court of Appeals affirmed the denial of Lawrence's benefits. Subsequently, the Social Security Administration reexamined its position and concluded that the Act does require a determination whether a state intestacy statute is constitutional. The Solicitor General thus invited the Court to grant certiorari, vacate the judgment below, and remand the case (GVR) to the Court of Appeals to decide the case or remand it to the Social Security Commissioner for reconsideration.</p>\n",
+    "conclusion": "<p>Yes. In a 7-2 per curiam opinion, the Court held that it had the power to issue a GVR order and that such an order is an appropriate exercise of its discretionary certiorari jurisdiction. \"In an appropriate case, a GVR order conserves the scarce resources of this Court that might otherwise be expended on plenary consideration, assists the court below by flagging a particular issue that it does not appear to have fully considered, assists this Court by procuring the benefit of the lower court's insight before we rule on the merits, and alleviates the 'potential for unequal treatment' that is inherent in our inability to grant plenary review of all pending cases raising similar issues,\" stated the unsigned opinion.</p>\n"
+}

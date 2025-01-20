@@ -1,0 +1,42 @@
+{
+    "ID": 55302,
+    "name": "Scheidler v. National Organization for Women, Inc.",
+    "href": "https://api.oyez.org/cases/2005/04-1244",
+    "view_count": 0,
+    "docket_number": "04-1244",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1119934800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39459"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1133330400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39460"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1141106400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39461"
+        }
+    ],
+    "question": "<p>Does the Hobbs Act prohibit violence unrelated to extortion or robbery?</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "9",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20583"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/547/9/",
+    "facts_of_the_case": "<p>In 2003, the Supreme Court ruled that abortion protesters do not commit extortion in violation the Hobbs Act and the Racketeer Influenced and Corrupt Organizations Act (RICO) when they blockade abortion clinics, because they do not \"obtain\" property, as required by the Act. The Court concluded that \"Without an underlying RICO violation, the injunction [on the protesters] issued by the District Court must necessarily be vacated.\" The Seventh Circuit Court of Appeals declined to vacate the injunction, however, finding that the Court had only ruled on the 117 counts of extortion, and not on four additional counts of violence unrelated to extortion. The National Organization for Women (NOW) argued that acts of physical violence are sufficient to establish a violation of the Hobbs Act. Scheidler countered that the four counts of \"violence-only\" were irrelevant to the Hobbs Act, which he said requires that violence be used for robbery or extortion. Scheidler petitioned the Supreme Court to decide whether the Circuit Court had acted properly, and the Court granted certiorari. (Consolidated with No. 04-1352, Operation Rescue v. NOW.)</p>\n",
+    "conclusion": "<p>No. In an 8-0 decision (Justice Alito not participating), the Court ruled that \"physical violence unrelated to robbery or extortion falls outside the scope of the Hobbs Act.\" Writing for the unanimous Court, Justice Stephen Breyer cited statutory language, legislative history, and case law in support of the decision. He wrote, \"The language of the statute makes the more restrictive reading the more natural one.\" Although Congress had revised the Act in 1948, making it less clear, the Court ruled that Congress did not intend for the revisions to \"create a freestanding physical violence offense in the Hobbs Act.\"</p>\n"
+}

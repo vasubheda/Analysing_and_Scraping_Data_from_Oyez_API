@@ -1,0 +1,42 @@
+{
+    "ID": 55990,
+    "name": "Loughrin v. United States",
+    "href": "https://api.oyez.org/cases/2013/13-316",
+    "view_count": 0,
+    "docket_number": "13-316",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1386914400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41308"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1396328400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41309"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1403499600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41598"
+        }
+    ],
+    "question": "<p>In order to find the defendant guilty of bank fraud, is the prosecution required to show that the defendant acted with intent to defraud the bank?</p>\n",
+    "citation": {
+        "volume": "573",
+        "page": "351",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20908"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that, to find someone guilty of bank fraud, only one of the two bank fraud statutes must be met, not both.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/573/351/",
+    "facts_of_the_case": "<p>Kevin Loughrin created a scheme to obtain cash by stealing checks from people's outgoing mail, altering them to make purchases at Target, and returning the purchases for cash. When the scheme came to an end, he and Theresa Thongsarn were indicted on six counts of bank fraud, two counts of aggravated identity theft, and one count of possession of stolen mail. Loughrin moved to dismiss the case and alleged violations of the Speedy Trial Act; the district court denied the motion to dismiss. At trial, Loughrin requested that the jury instructions specify that the jury had to find that he had the intent to defraud a financial institution in order to find him guilty of bank fraud. The district court held that such an instruction was not necessary and declined to use it. Loughrin was convicted on all counts and sentenced to 36 months in prison. The U.S. Court of Appeals for the Tenth Circuit affirmed.</p>\n",
+    "conclusion": "<p>No. Justice Elena Kagan wrote the opinion for the unanimous Court. The Court held that, while one clause of the statute requires the intent to defraud a bank, the second clause does not require it. Instead, this second clause only requires that the defendant intend to obtain any property under the control of a bank. The Court held that requiring these two clauses to be read as having the same intent would render the second one meaningless; the structure of the statute indicated that the two clauses had different requirements. However, because the second clause should not apply to any and all fraud where the defrauder receives a check, the Court stated that the specific language limited its coverage to circumstances where the defendant's false statement \"naturally induces\" the bank to part with money in its control, instead of where a bank is only tangentially involved.</p>\n<p>Justice Antonin G. Scalia wrote an opinion concurring in part and concurring in the judgment in which he argued against the \"natural inducement\" test promoted by the Court. He argued that the dictionary definition of \"by means of\" language of the second clause included tangential involvement of a bank, although he agreed that the clause should not apply to all fraud where the defrauder receives a check. Justice Clarence Thomas joined the concurrence in part and concurrence in the judgment. In his separate opinion concurring in part and concurring in the judgment, Justice Samuel A. Alito, Jr. wrote that the second clause only requires that the defendant knowingly execute a scheme to obtain bank property, instead of intentionally doing so.</p>\n"
+}

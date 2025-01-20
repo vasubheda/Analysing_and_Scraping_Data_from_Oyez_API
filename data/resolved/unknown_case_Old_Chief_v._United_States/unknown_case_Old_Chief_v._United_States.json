@@ -1,0 +1,35 @@
+{
+    "ID": 54565,
+    "name": "Old Chief v. United States",
+    "href": "https://api.oyez.org/cases/1996/95-6556",
+    "view_count": 0,
+    "docket_number": "95-6556",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                845442000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37915"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                852616800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37916"
+        }
+    ],
+    "question": "<p>Does a District Court have the authority to reject a defendant's offer to conceded a prior conviction and admit the prosecution's presentation of it when the name or nature of the conviction raises the risk of a verdict tainted by improper considerations, and when the purpose of the evidence is solely to prove the element of prior conviction?</p>\n",
+    "citation": {
+        "volume": "519",
+        "page": "172",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18494"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/519/172/",
+    "facts_of_the_case": "<p>Johnny Lynn Old Chief was involved in a disturbance involving gunfire. Subsequently, Old Chief was charged with violating federal law, 18 U. S. C. Section(s) 922(g)(1), which prohibits possession of a firearm by anyone with a prior felony conviction. The earlier crime that was charged in the indictment against Old Chief was assault causing serious bodily injury. Old Chief moved for an order requiring the Government to refrain from revealing the name and nature of his prior assault conviction, which, he argued, would unfairly tax the jury's capacity to hold the Government to its burden of proof beyond a reasonable doubt, in violation of Federal Rules of Evidence, on current charges of assault, possession, and violence with a firearm. Old Chief offered to stipulate, or concede, to the fact of the prior conviction without releasing its name or nature. The Government refused to join the stipulation. The Government argued it had the right to present its own evidence of the prior conviction. The District Court ruled in favor of the Government. In affirming the conviction, the Court of Appeals found that the Government was entitled to introduce probative evidence to prove the prior offense regardless of the stipulation offer.</p>\n",
+    "conclusion": "<p>No. In an opinion authored by Justice David Souter, the Court ruled that a district court abuses its discretion under the Federal Rules of Evidence if it spurns a defendant's offer to concede a prior judgment and admits the full judgment record over the defendant's objection, when the name or nature of the prior offense raises the risk of a verdict tainted by improper considerations, and when the purpose of the evidence is solely to prove the element of prior conviction.</p>\n"
+}

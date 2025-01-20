@@ -1,0 +1,35 @@
+{
+    "ID": 54668,
+    "name": "Geissal v. Moore Medical Corporation",
+    "href": "https://api.oyez.org/cases/1997/97-689",
+    "view_count": 0,
+    "docket_number": "97-689",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                893826000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38112"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                897282000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38113"
+        }
+    ],
+    "question": "<p>Does 29 USC section 1162(2)(D)(i) allow an employer to deny Consolidated Omnibus Budget Reconciliation Act of 1985 continuation health coverage to a qualified beneficiary who is covered under another group health plan at the time he makes his COBRA election?</p>\n",
+    "citation": {
+        "volume": "524",
+        "page": "74",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18597"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/524/74/",
+    "facts_of_the_case": "<p>The Consolidated Omnibus Budget Reconciliation Act of 1985 (COBRA) amended the Employee Retirement Income Security Act of 1974 to permit a beneficiary of an employer's group health plan to elect continuing coverage when he might otherwise lose that benefit because of a \"qualifying event,\" such as the termination of employment. In 1993, when Moore Medical Corporation fired James Geissal, it told him that COBRA gave him the right to elect continuing coverage under Moore's health plan. Later, Moore informed Geissal that he was not entitled to COBRA benefits because he was already covered by a group plan through his wife's employer. Geissal then filed suit against Moore, alleging that Moore was violating CORBA by renouncing an obligation to provide continuing coverage. Ultimately, a Magistrate Judge concluded that an employee with coverage under another group health plan on the date he elects COBRA coverage is ineligible for COBRA coverage under 29 USC section 1162(2)(D)(i), which allows an employer to cancel such coverage as of \"the date on which the qualified beneficiary first becomes, after the date of the election... covered under any other group health plan.\" The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice David H. Souter, the Court held that an employer may not deny COBRA continuation coverage under its health plan to an otherwise eligible beneficiary because he is covered under another group health plan at the time he elects COBRA coverage. \"It is undisputed that both before and after James Geissal elected COBRA continuation coverage he was continuously a beneficiary of [his wife's employer's] group health plan,\" wrote Justice Souter, \"[b]ecause he was thus covered before he made his COBRA election, and so did not 'first become' covered under the [his wife's employer's] plan after the date of election, Moore could not cut off his COBRA coverage under the plain meaning of [section 1162(2)(D)(i)].\"</p>\n"
+}

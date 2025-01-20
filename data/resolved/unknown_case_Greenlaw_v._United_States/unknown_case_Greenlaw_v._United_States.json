@@ -1,0 +1,42 @@
+{
+    "ID": 55497,
+    "name": "Greenlaw v. United States",
+    "href": "https://api.oyez.org/cases/2007/07-330",
+    "view_count": 0,
+    "docket_number": "07-330",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1199426400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39986"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1208235600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39987"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1214197200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39988"
+        }
+    ],
+    "question": "<p>Do federal appellate courts have the authority to hike a criminal defendant's sentence in the absence of a government request to do so?</p>\n",
+    "citation": {
+        "volume": "554",
+        "page": "237",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20764"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/554/237/",
+    "facts_of_the_case": "<p>When Michael Greenlaw was convicted of several drug and firearm offenses in federal court, the prosecution argued that he should receive a mandatory minimum sentencing hike because he had been convicted of two counts under the federal gun law. The district judge, in a decision incorrect under the Supreme Court's holding in Deal v. United States, reasoned that the mandatory minimum should not apply because the second offense was not the result of a separate, pre-existing indictment.</p>\n<p>On appeal, the U.S. Court of Appeals for the Eight Circuit vacated the sentence and sent the case back to the district court with instructions to apply the mandatory minimum. In seeking certiorari, Greenlaw argued that the Eight Circuit had ignored substantial high court precedent holding that an appellate court may not order a higher criminal sentence without a government request to do so. Greenlaw further sought clarification of two related issues: whether the lack of a government appeal deprives the appellate court of authority as a matter of jurisdiction or merely as a custom of practice, and whether such appellate court discretion is allowable under Federal Rule of Criminal Procedure 52(b), which allows courts to consider plain errors even when the parties do not raise them. The Solicitor General, while agreeing with Greenlaw that the Eighth Circuit erred, urged the Court to grant certiorari and remand the case for further briefing in order to give the appellate court an opportunity to revisit its holding.</p>\n",
+    "conclusion": "<p>No. In a 7-2 decision, the Court stated that the Eighth Circuit could not order the district court to increase Greenlaw's sentence without a request from the government to do so. The Court pointed to several of its precedents for the rule that a remedy in favor the appellee, in this case the government, can only be justified if the appellee brings a cross-appeal. Because the government did not cross-appeal in this case, the Eight Circuit overstepped its bounds by ordering the sentencing hike. Justice Ruth Bader Ginsburg delivered the opinion of the Court. Justice Samuel Alito, joined by Justice John Paul Stevens and in part by Justice Stephen Breyer, dissented, arguing that the cross-appeal rule was merely a rule of practice for the appellate courts, not a limitation on their power. Although Breyer joined parts of the dissent, he ultimately sided with the majority in a concurring opinion, recognizing that the cross-appeal rule is merely one of practice but finding no grounds on which to make an exception to that rule in this case.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 56085,
+    "name": "Integrity Staffing Solutions, Inc. v. Busk",
+    "href": "https://api.oyez.org/cases/2014/13-433",
+    "view_count": 0,
+    "docket_number": "13-433",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1393826400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41662"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1412744400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41663"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1418104800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41664"
+        }
+    ],
+    "question": "<p>Is time spent undergoing security clearances compensable under the Fair Labor Standards Act as amended by the Portal-to-Portal Act of 1947?</p>\n",
+    "citation": {
+        "volume": "574",
+        "page": "27",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20916"
+    },
+    "term": "2014",
+    "description": "A case in which the Court ruled that employees of Integrity Staffing Solutions, Inc. could not be compensated for time spent passing through security checkpoints, because the checkpoints were not integral to their principal duties as employees.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/574/27/",
+    "facts_of_the_case": "<p>Jesse Busk and Laurie Castro were former employees of Integrity Staffing Solutions, Inc. (Integrity), a company that provides warehouse space and staffing to clients such as Amazon.com. Busk and Laurie both worked in warehouses in Nevada filling orders placed by Amazon.com customers. At the end of each day, all the workers were required to pass through a security clearance checkpoint where they had to remove their keys, wallets, and belts, pass through a metal detector, and submit to being searched. The whole process could take up to 25 minutes. Similarly, up to ten minutes of the workers' 30-minute lunch period was consumed by security clearance and transition time. In 2010, Busk and Castro sued Integrity and argued that these practices violated the Fair Labor Standards Act (FLSA) as well as Nevada state labor laws.</p>\n<p>The district court granted Integrity's motion to dismiss and held that time spent clearing security was non-compensable under the FLSA and that the shortened meal periods were not relevant to the FLSA because the plaintiffs did not argue that they performed work-related duties during their lunch periods. The U.S. Court of Appeals for the Ninth Circuit affirmed in part and reversed in part. While the Court of Appeals agreed that the shortened lunch periods were not relevant to the FLSA, the Court of Appeals held that the district court should have assessed the plaintiffs claims that the security clearances were \"integral and indispensable\" to their work in order to determine if that time was compensable.</p>\n",
+    "conclusion": "<p>No. Justice Clarence Thomas delivered the unanimous opinion of the Court, which held that the time spent by warehouse workers undergoing security screenings is not compensable under the Fair Labor Standards Act, as amended by the Portal-to-Portal Act. The Portal-to Portal Act exempted employers from liability for claims dealing with activities that are preliminary or postliminary to the principle activities that an employee is employed to perform. The screenings in this case are not a principle activity and were not integral to the employees' duties; therefore the screenings are not compensable.</p>\n<p>Justice Sonia Sotomayor wrote a concurring opinion in which she stated that the screenings are not integral or indispensable activities because the employee could dispense with them without impairing his ability to perform the principle activity safely and effectively. Justice Elena Kagan joined the concurring opinion.</p>\n"
+}

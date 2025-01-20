@@ -1,0 +1,42 @@
+{
+    "ID": 55596,
+    "name": "Bobby v. Bies",
+    "href": "https://api.oyez.org/cases/2008/08-598",
+    "view_count": 0,
+    "docket_number": "08-598",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1232085600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40262"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1240808400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40263"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1243832400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40264"
+        }
+    ],
+    "question": "<p>Did the U.S. Court of Appeals for the Sixth Circuit err when it applied the Double Jeopardy Clause to prevent the relitigation of the Mr. Bies's mental retardation even though the Supreme Court of Ohio did not actually determine the issue on appeal?</p>\n",
+    "citation": {
+        "volume": "556",
+        "page": "825",
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20847"
+    },
+    "term": "2008",
+    "description": "A case in which the Court found that the Double Jeopardy Clause did not prevent relitigation of a mental retardation claim because the defendant was never acquitted at trial.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/556/825/",
+    "facts_of_the_case": "<p>In 1992, Michael Bies was convicted of kidnapping, rape, and murder and sentenced to death by an Ohio court. In his appeals to the Ohio Court of Appeals and Supreme Court of Ohio, Mr. Bies argued that he was mentally retarded and this fact should mitigate his sentence. Both courts affirmed his conviction and sentence, but agreed that he was mentally retarded. While Mr. Bies proceeded with his post-conviction appeals, the Supreme Court rendered its decision in <em>Atkins</em> stating that \"death is not a suitable punishment for mentally retarded people.\" He subsequently filed a petition for habeas corpus relief in an Ohio federal district court relying on <em>Atkins</em>. In response, the state claimed that Mr. Bies was not mentally retarded. Mr. Bies argued that the Double Jeopardy Clause barred the state from relitigating the fact of his mental retardation. The district court agreed and granted Mr. Bies' petition for habeas corpus relief and ordered that he be resentenced.</p>\n<p>On appeal, the U.S. Court of Appeals for the Sixth Circuit affirmed. It held that the state was prevented by the Double Jeopardy Clause from relitigating the Supreme Court of Ohio's determination that Mr. Bies was mentally retarded.</p>\n",
+    "conclusion": "<p>Yes. With Justice Ruth Bader Ginsburg writing for a unanimous Supreme Court, it held that the Ohio courts were not precluded by the Double Jeopardy Clause from conducting a rehearing with respect to Mr. Bies' mental retardation. The Court reasoned that Ohio did not twice put Mr. Bies in jeopardy of conviction because he was never acquitted at trial. Rather, the Court stated that the Ohio courts merely attempted to discern the nature of Mr. Bies mental capacities in order determine whether his death sentence should be mitigated when weighed against other factors.</p>\n"
+}

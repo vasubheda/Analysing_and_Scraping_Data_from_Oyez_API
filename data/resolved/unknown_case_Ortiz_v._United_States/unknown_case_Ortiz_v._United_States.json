@@ -1,0 +1,42 @@
+{
+    "ID": 63005,
+    "name": "Ortiz v. United States",
+    "href": "https://api.oyez.org/cases/2017/16-1423",
+    "view_count": 0,
+    "docket_number": "16-1423",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1506574800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54309"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1516082400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54310"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1529643600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54311"
+        }
+    ],
+    "question": "<ol><li>Does the Court have jurisdiction to review two of the consolidated cases under 28 U.S.C. \u00a7 1259(3)?</li>\n<li>Does Judge Martin T. Mitchell\u2019s simultaneous service on the US Court of Military Commission Review (CMCR) and the US Air Force Court of Criminal Appeals (AFCCA) violate the Appointments Clause?</li>\n<li>Does Judge Mitchell\u2019s service on the CMCR disqualify him from continuing to serve on the AFCCA?</li>\n<li>Did the US Court of Appeals for the Armed Forces err in holding Petitioner\u2019s claims moot?</li>\n</ol>",
+    "citation": {
+        "volume": "585",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27606"
+    },
+    "term": "2017",
+    "description": "A case in which the Court held that it has jurisdiction to review the CAAF's decisions and that Judge Martin T. Mitchell\u2019s simultaneous service on the US Court of Military Commission Review (CMCR) and the US Air Force Court of Criminal Appeals (AFCCA) does not violate the Appointments Clause or 10 U.S.C. \u00a7 973(b)(2)(A).",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/585/16-1423/",
+    "facts_of_the_case": "<p>Since shortly after the Civil War, federal law has required express authorization from Congress before active-duty military officers may hold a \"civil office,\u201d including positions that require \"an appointment by the President by and with the advice and consent of the Senate.\" 10 U.S.C. \u00a7 973(b)(2)(A)(ii). After President Obama nominated and the Senate confirmed Colonel Martin T. Mitchell as a judge of the Article I US Court of Military Commission Review (CMCR), Judge Mitchell continued to serve on the US Air Force Court of Criminal Appeals (CCA).</p>\n<p>A judge convicted Keanu Ortiz of possessing and distributing child pornography, and sentenced him to two years' imprisonment and a dishonorable discharge. A panel of the AFCCA, which included Judge Mitchell, affirmed the findings and sentence. Ortiz filed a petition for review with the Court of Appeals for the Armed Forces (CAAF), asking the court to consider whether Judge Mitchell was disqualified from serving on the CCA because he had been appointed to the CMCR. Ortiz claimed that Judge Mitchell's CMCR appointment precluded him from serving on the CCA under both the the federal statute and the Constitution. The CAAF rejected both of Ortiz's arguments.</p>\n<p><strong>Note</strong>: This case was original consolidated under <a href=\"/cases/2017/16-961\">Dalmazzi v. United States (16-961)</a>, and the oral argument audio and transcripts can be found there.</p>\n",
+    "conclusion": "<p>The Court has jurisdiction to review decisions by the US Court of Appeals for the Armed Forces, and Judge Mitchell's simultaneous service on the CMCR and AFCCA does not violate the Appointments Clause or 10 U.S.C. \u00a7 973(b)(2)(A). Justice Elena Kagan delivered the opinion of the 7-2 majority.</p>\n<p>First, the Court found that the CAAF's not being an Article III court does not remove the jurisdiction of the Supreme Court to review its decisions. The Supreme Court uncontroversially reviews the decisions of many non-Article III courts, including state courts and those of the District of Columbia. Nor does the fact that CAAF is part of the Executive Branch remove the Supreme Court's jurisdiction over it. Because it is a permanent court of record established by Congress, the Supreme Court may properly exercise jurisdiction over it.</p>\n<p>Second, as to Judge Mitchell's simultaneous service on CMCR and AFCCA, the Court found that the express authorization to assign military officers to the CMCR under \u00a7950f(b)(2) was both necessary and sufficient to exempt him from \u00a7973(b)(2)(A). Once the Secretary of Defense placed Judge Mitchell on the CMCR, the president's subsequent appointment of him to AFCCA did not negate the secretary's earlier action but ratified it. With respect to the constitutional claim, the Court held that it has never interpreted the Appointments Clause to impose rules about dual service.</p>\n<p>Justice Clarence Thomas filed a concurring opinion. He joined the majority's opinion in full but wrote separately to say that the conclusion reached by the Court is consistent with the founders' understanding of judicial power.</p>\n<p>Justice Samuel Alito filed a dissenting opinion, in which Justice Neil Gorsuch joined. The dissent would find the Court lacks jurisdiction over decisions by the CAAF because the Supreme Court's appellate jurisdiction permits it to review only the lawful exercise of judicial power. Because the CAAF is a military tribunal and part of the Executive Branch, the dissent argues the Court lacks jurisdiction to review its decisions.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55508,
+    "name": "Regalado Cuellar v. United States",
+    "href": "https://api.oyez.org/cases/2007/06-1456",
+    "view_count": 0,
+    "docket_number": "06-1456",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1192424400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53298"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1203919200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40014"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1212382800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40015"
+        }
+    ],
+    "question": "<p>Does the federal money laundering statute require the government to prove that the defendant was trying to portray ill-gotten gains as legitimate wealth, or must prosecutors show only that the defendant was attempting to conceal criminal proceeds?</p>\n",
+    "citation": {
+        "volume": "553",
+        "page": "550",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20731"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/553/550/",
+    "facts_of_the_case": "<p>Humberto Fidel Regaldo Cuellar was apprehended in 2004 driving a Volkwagen Beetle crawling 30 miles below the speed limit on a main artery through Texas to Mexico. When police pulled Cuellar over, they discovered that he had logged about 1,000 miles in the past two days stopping in major cities along the way for just hours each time. When questioned, Cuellar acted nervously; he later turned over a large roll of cash that smelled like marijuana. When police examined the car, they found drill marks suggesting tampering with the gas tank, as well as mud splashings and animal hair typical of efforts to conceal the existence of contraband. Police found $83,000 in cash in a secret compartment beneath the floorboard. Cuellar was convicted of money laundering, but the appeals court overturned the conviction. The court ruled that the federal money laundering statute required the government to prove that Cuellar was attempting to portray the money he carried as legitimate wealth, rather than merely showing that he tried to hide it.</p>\n",
+    "conclusion": "<p>Neither. In a unanimous opinion authored by Justice Clarence Thomas, the Court answered this question by taking the middle ground, holding that the statute contains no \"legitimate wealth\" requirement but also holding that mere proof that the defendant was attempting to conceal the money is not enough to uphold a conviction. In reversing Cuellar's conviction, the Court relied on the language of the statute providing that the transportation's purpose must have been to conceal not just the money itself but its nature, location, source, ownership, or control. The Court found that prosecutors had failed to prove any of these elements beyond a reasonable doubt.</p>\n"
+}

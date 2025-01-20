@@ -1,0 +1,42 @@
+{
+    "ID": 55293,
+    "name": "IBP, Inc. v. Alvarez",
+    "href": "https://api.oyez.org/cases/2005/03-1238",
+    "view_count": 0,
+    "docket_number": "03-1238",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1109052000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39434"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1128315600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39435"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1131429600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39436"
+        }
+    ],
+    "question": "<p>Did the Fair Labor Standards Act require employers to pay employees for time spent walking to and from stations that distributed required safety equipment?</p>\n",
+    "citation": {
+        "volume": "546",
+        "page": "21",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/20570"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/546/21/",
+    "facts_of_the_case": "<p>In two separate cases, employees sued Barber Foods and IBP in federal district court. The employees alleged the companies violated the Fair Labor Standards Act by not paying them for time spent walking to the worksite after putting on required equipment. The district court and later the First Circuit ruled against the Barber employees. A separate district court ruled IBP must compensate its employees for the disputed time. The Ninth Circuit agreed. The U.S. Supreme Court consolidated the cases.</p>\n",
+    "conclusion": "<p>Yes. Justice John Paul Stevens, for a unanimous Court, wrote that putting on required safety equipment qualified as a \"principal activity\" under the FLSA. The workday began when employees started that activity and therefore included the subsequent time spent walking to the worksite. The time spent waiting to put on safety equipment before that, however, was not included in the workday because it was a \"preliminary\" activity under the Portal-to-Portal Act.</p>\n"
+}

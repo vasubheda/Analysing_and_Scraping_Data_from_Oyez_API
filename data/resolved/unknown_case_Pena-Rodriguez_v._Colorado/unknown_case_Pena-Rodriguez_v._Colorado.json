@@ -1,0 +1,42 @@
+{
+    "ID": 62694,
+    "name": "Pena-Rodriguez v. Colorado",
+    "href": "https://api.oyez.org/cases/2016/15-606",
+    "view_count": 0,
+    "docket_number": "15-606",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1459746000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53489"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1476162000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53873"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1488780000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53994"
+        }
+    ],
+    "question": "<p>May Rule 606(b) of Colorado's Rules of Evidence bar evidence of racial bias offered to prove a violation of the Sixth Amendment right to an impartial jury?</p>\n",
+    "citation": {
+        "volume": "580",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27419"
+    },
+    "term": "2016",
+    "description": "A case in which the Court held that the  no-impeachment rule may not bar evidence of racial bias offered to prove a violation of the Sixth Amendment right to an impartial jury.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/580/15-606/",
+    "facts_of_the_case": "<p>Miguel Angel Pena-Rodriguez was convicted of unlawful sexual conduct and harassment in state trial court. After the entry of a guilty verdict, two jurors informed Pena-Rodriguez\u2019s counsel that one of the other jurors made racially biased statements about Pena-Rodriguez and the alibi witness during jury deliberations. The trial court authorized Pena-Rodriguez\u2019s counsel to contact the two jurors for their affidavits explaining what the \u201cbiased\u201d juror said about Pena-Rodriguez or his alibi witness. Based on these affidavits, which related racially biased statements about Pena-Rodriguez\u2019s likely guilt and the alibi witness\u2019 lack of credibility because both were Hispanic, Pena-Rodriguez moved for a new trial. The trial court denied the motion, and the Colorado Court of Appeals affirmed. The Supreme Court of Colorado held the jurors\u2019 affidavits were inadmissible under Rule 606(b) of Colorado\u2019s Rules of Evidence, which prohibits juror testimony on any matter occurring during the jury deliberations. The Supreme Court of Colorado also held Rule 606(b) did not violate Pena-Rodriguez\u2019s Sixth Amendment right to an impartial jury because Pena-Rodriguez had waived that right by failing to adequately question jurors about their racial bias during voir dire.</p>\n",
+    "conclusion": "<p dir=\"ltr\">Rule 606(b) of Colorado\u2019s Rules of Evidence may not bar evidence of racial bias which is offered to prove a violation of the Sixth Amendment right to an impartial jury. Justice Anthony M. Kennedy delivered the opinion for the 5-3 majority. The Court held that, if a juror makes a clear statement that he or she convicted a criminal defendant relying on racial stereotypes or animus, the trial court is permitted to consider evidence of the juror\u2019s statements. The Court reiterated the sanctity of the jury to our criminal justice system and its reluctance to interfere with it. Rule 606(b), the no-impeachment rule, stems from the desire to prevent jurors from testifying about their deliberation after the verdict was entered, and it is a common law principle that is more lenient in some states than others. However, the Court noted that there was a possibility of an exception in the \u201cgravest and most important cases.\u201d In certain rare cases, when racial animus is apparent in a juror, the no-impeachment rule shall be set aside in an effort to protect the Sixth Amendment. Not every \u201coffhand\u201d racial comment from a juror will warrant setting aside the no-impeachment rule. The exception demands that a juror exhibit overt racial animus that calls into question his or her ability to make a fair and impartial judgment about the defendant. Although the Court noted that there were processes currently in place to prevent racial bias in juries, such as the process of voir dire--the preliminary examination and elimination of jury members--these protections were often not sufficient, and therefore this exception was necessary. In this case, the Court held that the juror\u2019s statements were \u201cegregious and unmistakable in their reliance on racial bias.\u201d The juror in question also encouraged other jurors to join in his racially-motivated conviction. \u00a0\u00a0</p>\n<p>Justice Clarence Thomas wrote a dissent in which he argued that the majority opinion incorrectly interpreted the Sixth Amendment and its precedents. He explained that common law tradition does not permit impeachment of a verdict based on juror misconduct. If there is a reason to set aside the no-impeachment rule, it should be the legislature\u2019s role to do so, not the role of the judiciary. In his separate dissent, Justice Samuel A. Alito, Jr. wrote that barring the admission of juror testimony is deeply rooted in the criminal justice system\u2019s history. He argued \u00a0that, although racial bias is important to prevent, it should be treated no differently than other forms of impartiality by a juror for the purposes of the Sixth Amendment. Chief Justice John G. Roberts, Jr. and Justice Thomas joined in the dissent. </p>\n"
+}

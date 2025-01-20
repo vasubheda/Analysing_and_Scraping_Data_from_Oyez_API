@@ -1,0 +1,42 @@
+{
+    "ID": 55386,
+    "name": "Cunningham v. California",
+    "href": "https://api.oyez.org/cases/2006/05-6551",
+    "view_count": 0,
+    "docket_number": "05-6551",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1140501600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39674"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1160542800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39675"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1169445600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39676"
+        }
+    ],
+    "question": "<p>Does California's Determinate Sentencing Law violate the 6th Amendment right to a jury trial by permitting judges to impose enhanced sentences based on their determination of facts not found by the jury or admitted by the defendant?</p>\n",
+    "citation": {
+        "volume": "549",
+        "page": "270",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20676"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/549/270/",
+    "facts_of_the_case": "<p>John Cunningham, a former police officer, was convicted of continuous sexual abuse of his young son. Under California's Determinate Sentencing Law, the trial judge can choose between three possible sentences for a given crime: a minimum, medium, and maximum sentence. Judges normally hand down the medium sentence unless there are special circumstances. In Cunningham's case, the judge found six aggravating factors, and sentenced him to the maximum 16-year sentence. However, in determining some of the aggravating factors the judge relied on evidence not considered by the jury.</p>\n<p>Cunningham appealed his sentence, arguing that the judge's discretion was a violation of Cunningham's right to a trial by jury. In <em>Blakely v. Washington</em>, the Supreme Court had ruled that for the right to a jury trial to be effective, any fact which increases a sentence \"beyond the prescribed statutory maximum\" must be proved before the jury. Cunningham argued that the judge can consider only factors determined by the jury when deciding which sentence to impose.</p>\n<p>A California Court of Appeal disagreed and upheld the sentence, ruling that the judge had merely handed down the maximum sentence prescribed by the statute. The California Supreme Court denied Cunningham's appeal, but the U.S. Supreme Court agreed to hear the case.</p>\n",
+    "conclusion": "<p>Yes. The Court ruled 6-3 that California's Determinate Sentencing Law was inconsistent with the Sixth Amendment right to trial by jury. The opinion by Justice Ruth Bader Ginsburg held that \"[...] under the Sixth Amendment, any fact that exposes a defendant to a greater potential sentence must be found by a jury, not a judge, and established beyond a reasonable doubt, not merely by a preponderance of the evidence.\" Because the maximum sentence could not be given unless aggravating circumstances were found, and because the aggravating circumstances \"depend[ed] on facts found discretely and solely by the judge,\" the Court found that California's sentencing system circumvented the process of trial by jury. In his dissent, Justice Alito argued that the California system was similar to the advisory federal sentencing guidelines which were upheld in <em>United States v. Booker</em>.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 63532,
+    "name": "Biden v. Nebraska",
+    "href": "https://api.oyez.org/cases/2022/22-506",
+    "view_count": 0,
+    "docket_number": "22-506",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1669874400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55189"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1677564000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55190"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1688101200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55301"
+        }
+    ],
+    "question": "<p>1. Do Nebraska and other states have judicial standing to challenge the student-debt relief program?</p>\n<p>2. Does the student-debt relief program exceed the statutory authority of the U.S. Secretary of Education, or does it violate the Administrative Procedure Act?</p>\n",
+    "citation": {
+        "volume": "600",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27922"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held that the Secretary of Education does not have the authority under the HEROES Act to cancel roughly $430 billion in student debt.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/600/22-506/",
+    "facts_of_the_case": "<p>In 2020, then-presidential candidate Joseph Biden promised to cancel up to $10,000 of federal student loan debt per borrower. After winning the election, the Biden administration announced its intent to forgive, via executive action, $10,000 in student loans for borrowers with an annual income of less than $125,000.</p>\n<p>Nebraska and five other states challenged the forgiveness program, arguing that it violated the separation of powers and the Administrative Procedure Act. The district court dismissed the challenge, finding that the states lacked judicial standing to sue. The U.S. Court of Appeals for the Eighth Circuit enjoined the forgiveness program pending the appeal.\u00a0</p>\n",
+    "conclusion": "<p>The Secretary of Education does not have authority under the Higher Education Relief Opportunities for Students Act of 2003 (HEROES Act) to establish a student loan forgiveness program that will cancel roughly $430 billion in debt principal and affect nearly all borrowers. Chief Justice John Roberts authored the majority opinion of the Court.</p>\n<p>First, the Court concluded that Missouri has standing to challenge the student-debt relief program. Article III requires a plaintiff to have suffered an injury in fact\u2014a concrete and imminent harm to a legally protected interest, like property or money\u2014that is fairly traceable to the challenged conduct and likely to be redressed by the lawsuit. Here, the Secretary\u2019s plan would cost MOHELA, a nonprofit government corporation created by Missouri to participate in the student loan market, an estimated $44 million a year in fees, and the harm to MOHELA in the performance of its public function is an injury to Missouri itself.</p>\n<p>Second, the Court determined that the HEROES Act\u2019s authorization of the Secretary to \u201cwaive or modify\u201d existing statutory or regulatory provisions applicable to financial assistance programs under the Education Act does not extend to canceling $430 billion of student loan principal. The Act permits the Secretary to \u201cmodify\u201d statutory provisions but only \u201cmoderately or in minor fashion\u201d as the term is ordinarily used. The \u201cmodifications\u201d challenged here create a novel and fundamentally different loan forgiveness program that Congress could not have intended to permit. And the power to \u201cwaive\u201d does not remotely resemble how such power has been used on prior occasions, where it was simply used to nullify particular legal requirements.</p>\n<p>Third, the Court rejected the Secretary\u2019s argument that the unprecedented nature of the COVID-19 pandemic justified the unprecedented nature of the the debt cancellation plan. Citing its recent decision in West Virginia v. EPA, the Court expressed hesitance that Congress could have intended to confer such authority on the Secretary and not retain it for itself.</p>\n<p>Justice Amy Coney Barrett authored a concurring opinion.</p>\n<p>Justice Elena Kagan authored a dissenting opinion, in which Justices Sonia Sotomayor and Ketanji Brown Jackson joined.</p>\n"
+}

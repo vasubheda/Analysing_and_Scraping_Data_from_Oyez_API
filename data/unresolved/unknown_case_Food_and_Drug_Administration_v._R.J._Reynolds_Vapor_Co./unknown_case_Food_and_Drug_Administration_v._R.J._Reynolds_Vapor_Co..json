@@ -1,0 +1,33 @@
+{
+    "ID": 63707,
+    "name": "Food and Drug Administration v. R.J. Reynolds Vapor Co.",
+    "href": "https://api.oyez.org/cases/2024/23-1187",
+    "view_count": 0,
+    "docket_number": "23-1187",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1728018000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55535"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1737439200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55558"
+        }
+    ],
+    "question": "<p>May a manufacturer file a petition for review in a circuit where it neither resides nor has its principal place of business, if the petition is joined by a seller of the manufacturer\u2019s products that is located within that circuit?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28041"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether a manufacturer may file a petition for review in a circuit where it neither resides nor has its principal place of business, if the petition is joined by a seller of the manufacturer\u2019s products that is located within that circuit.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-1187/"
+}

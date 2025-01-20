@@ -1,0 +1,35 @@
+{
+    "ID": 54806,
+    "name": "Florida v. J. L.",
+    "href": "https://api.oyez.org/cases/1999/98-1993",
+    "view_count": 0,
+    "docket_number": "98-1993",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                951804000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38361"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                954223200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38362"
+        }
+    ],
+    "question": "<p>Did searching J.L. solely on the basis of the anonymous tip received by the Miami-Dade police violate his Fourth Amendment rights against unreasonable search and seizure?</p>\n",
+    "citation": {
+        "volume": "529",
+        "page": "266",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18735"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/529/266/",
+    "facts_of_the_case": "<p>On October 13, 1995 Miami-Dade police received an anonymous tip that a black male wearing a plaid shirt was standing near a bus stop carrying a gun. The two officers who responded found three black males, one of which, J.L., a 15 -year-old, was wearing a plaid shirt. After frisking him, the officers did find a firearm. J.L. was charged with carrying a concealed weapon without a license. At trial, he moved to suppress the gun as evidence, arguing that the frisking performed by the officers was illegal under the Fourth Amendment. The trial court granted the motion, but was reversed by the immediate appellate court. The Florida Supreme Court overruled the appellate court and suppressed the evidence.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion authored by Justice Ruth Bader Ginsburg, the Court concluded that J.L. the anonymous tip did not meet the minimum requirements to perform a warrantless search. Justice Ginsburg, drawing from the Court's logic in <em>Terry v. Ohio</em> and <em>Adams v. Williams</em>, indicated that an anonymous tip must posses a moderate level of reliability, including \"predictive information\" that offers police a \"means to test the informant's knowledge or credibility.\" An accurate description of a person without a reliable assertion of illegality or description of the crime in question, as was the anonymous tip in this case, does not meet this standard. \"All the police had to go on in this case was the bare report of an unknown, unaccountable informant who neither explained how he knew about the gun nor supplied any basis for believe he had inside information.\"</p>\n"
+}

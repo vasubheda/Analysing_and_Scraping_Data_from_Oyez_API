@@ -1,0 +1,35 @@
+{
+    "ID": 55377,
+    "name": "Erickson v. Pardus",
+    "href": "https://api.oyez.org/cases/2006/06-7317",
+    "view_count": 0,
+    "docket_number": "06-7317",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1180933200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39656"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                1180933200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53425"
+        }
+    ],
+    "question": "<p>Can a plaintiff properly allege he suffered substantial harm as a result of being denied medical treatment while incarcerated for the purposes of a claim under 42 U.S.C. 1983?</p>\n",
+    "citation": {
+        "volume": "551",
+        "page": "89",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/19302"
+    },
+    "term": "2006",
+    "description": "A case in which the Court decided that a plaintiff can sufficiently allege that he suffered substantial harm by being denied medical treatment while incarcerated for the purpose of a claim under 42 U.S.C 1983.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/551/89/",
+    "facts_of_the_case": "<p>William Erickson was diagnosed with Hepatitis C while imprisoned at Limon Correctional Facility in Limon, Colorado. He was prescribed medication to be administered via injection. One of the syringes he used for injection went missing from the medical center of the correctional facility and was later found in a communal trash can. Erickson was accused of stealing the syringe and utilizing it for illegal drug use, after which he was denied further treatment. Erickson sued prison medical officials under 42 U.S.C. 1983 and argued that the refusal of medical treatment violated his Eighth Amendment rights because he was suffering liver damage and threat of death by not being treated for Hepatitis C. The trial court dismissed Erickson\u2019s suit on the grounds that he could not prove he was suffering substantial harm because he was being denied medical treatment. The U.S. Court of Appeals for the Tenth Circuit affirmed.</p>\n",
+    "conclusion": "<p>In a per curiam opinion, the Court held that a plaintiff can demonstrate that he has suffered harm as a result of being denied medical treatment. The plaintiff must be able to allege that harm was caused sufficient enough to meet the pleading standard by ending his medical treatment. In this case, Erickson was able to make specific claims, that were more than conclusory statements, that supported his claim that refusing his medical treatment had caused him substantial harm that was independent from the harm the disease itself caused. The Court remanded the decision for further review.</p>\n<p>Justice Clarence Thomas wrote a dissenting opinion in which he argued that a plaintiff cannot claim that exposure to the risk of harm violates the Eighth Amendment. Rather, Thomas suggests that the plaintiff would have to actually experience harm before he can allege a violation of his Eighth Amendment rights.</p>\n<p>Justice Antonin Scalia would have denied the petition for the writ of certiorari.</p>\n"
+}

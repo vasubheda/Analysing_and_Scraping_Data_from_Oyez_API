@@ -1,0 +1,42 @@
+{
+    "ID": 55459,
+    "name": "Federal Express Corporation v. Holowecki",
+    "href": "https://api.oyez.org/cases/2007/06-1322",
+    "view_count": 0,
+    "docket_number": "06-1322",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1180933200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39882"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1194328800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39883"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1204092000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39884"
+        }
+    ],
+    "question": "<p>Does an intake questionnaire submitted to the Equal Employment Opportunity Commission qualify as the charge of discrimination required by the Age Discrimination in Employment Act, even if the EEOC did not treat the questionnaire as a charge?</p>\n",
+    "citation": {
+        "volume": "552",
+        "page": "389",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20728"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/552/389/",
+    "facts_of_the_case": "<p>Paul Holowecki and other employees of Federal Express sued the corporation for age discrimination under the Age Discrimination in Employment Act (ADEA). A district court judge dismissed the complaint on the ground that none of the plaintiffs had met the time limits and filing requirements of the ADEA. The ADEA requires that a plaintiff file a \"charge\" with the Equal Employment Opportunity Commission (EEOC) 60 days prior to filing suit. Upon receiving the charge of discrimination, the EEOC notifies the employer of the accusation, investigates the matter, and offers to mediate. THE EEOC has an \"Intake Questionnaire\" form and a \"Charge\" form, but the EEOC regulations state only that \"A charge shall be in writing and shall name the prospective respondent and shall generally allege the discriminatory act(s).\" One of the plaintiffs completed an intake questionnaire, but the EEOC did not take the steps it should have taken after the filing of a charge. Holowecki sued over 60 days later, but the judge ruled that the intake questionnaire did not qualify as a charge for purposes of the AEDA.</p>\n<p>The U.S. Court of Appeals for the Second Circuit reversed, allowing Holowecki's suit to go forward. The Second Circuit ruled that the minimal written information required for a charge was contained in the intake questionnaire. The questionnaire also met the ADEA's implicit requirement that the charge be intended to start the process of an ADEA suit. The Second Circuit did not consider it significant that the EEOC did not act on the questionnaire, apparently not believing it to count as a charge. To dismiss a complaint based on the EEOC's inaction would be to hold the plaintiff accountable for the failings of the agency.</p>\n",
+    "conclusion": "<p>The Court, in a 7-2 opinion, upheld the Second Circuit, stating that the procedure used to file the document was consistent with the design and purpose of the ADEA. In his majority opinion, Justice Anthony Kennedy accepted the EEOC's position that a filing would be considered a \"charge\" if it could be reasonably construed as a request for the agency to take remedial action to protect the employee's rights or otherwise settle a dispute between the employer and the employee. Kennedy felt that Holowecki's charge met these requirements. Justices Clarence Thomas and Antonin Scalia dissented from the Court's judgment.</p>\n"
+}

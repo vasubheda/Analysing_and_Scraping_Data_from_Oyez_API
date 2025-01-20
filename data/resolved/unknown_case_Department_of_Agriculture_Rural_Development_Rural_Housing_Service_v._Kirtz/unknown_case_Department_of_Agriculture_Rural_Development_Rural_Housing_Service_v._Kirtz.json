@@ -1,0 +1,42 @@
+{
+    "ID": 63586,
+    "name": "Department of Agriculture Rural Development Rural Housing Service v. Kirtz",
+    "href": "https://api.oyez.org/cases/2023/22-846",
+    "view_count": 0,
+    "docket_number": "22-846",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1687237200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55289"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1699250400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55357"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1707372000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55406"
+        }
+    ],
+    "question": "<p>Do the civil-liability provisions of the Fair Credit Reporting Act unequivocally and unambiguously waive the sovereign immunity of the United States?</p>\n",
+    "citation": {
+        "volume": "601",
+        "page": null,
+        "year": "2024",
+        "href": "https://api.oyez.org/case_citation/case_citation/27956"
+    },
+    "term": "2023",
+    "description": "A case in which the Court held that the civil-liability provisions of the Fair Credit Reporting Act unequivocally and unambiguously waive the sovereign immunity of the United States.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/601/22-846/",
+    "facts_of_the_case": "<p>In 1970, Congress enacted the Fair Credit Reporting Act (FCRA) to regulate credit reporting and protect consumer privacy. The Act was amended in 1996 to impose additional obligations on entities like creditors and lenders that furnish information to credit reporting agencies. These amendments allowed consumers to dispute inaccuracies in their credit files and mandated furnishers to investigate and correct such inaccuracies. Reginald Kirtz filed a lawsuit in 2020 against Trans Union, AES, and the USDA, alleging both negligent and willful violations of the FCRA. Kirtz claimed that despite his loans being closed with a zero balance, both AES and the USDA continued to report him as \u201c120 Days Past Due,\u201d damaging his credit score. While Trans Union and AES responded to the lawsuit, the USDA sought dismissal, citing sovereign immunity. The district court granted the USDA\u2019s motion, reasoning that the FCRA did not clearly express Congress\u2019s intent to waive sovereign immunity, despite the Act\u2019s language stating that it applies to \u201cany person,\u201d including government agencies. The U.S. Court of Appeals for the Third Circuit reversed, concluding that when Congress has clearly expressed its intent, as through the FCRA, even when the meaning is implausible, courts may neither second-guess its choices nor decline to apply the law as written.</p>\n",
+    "conclusion": "<p>The civil-liability provisions of the Fair Credit Reporting Act (FCRA) waive the sovereign immunity of the United States. Justice Neil Gorsuch authored the unanimous opinion of the Court.</p>\n<p>As a sovereign entity, the United States is generally immune from suits seeking money damages\u2014under the doctrine known as \u201csovereign immunity\u201d\u2014unless Congress chooses to waive that immunity. Courts understand Congress to have so chosen only if they find \u201cthe language of the statute\u201d is \u201cunmistakably clear\u201d in allowing such suits. One way a statute may have such \u201cunmistakably clear\u201d language is when it creates a cause of action and explicitly \u201cauthorizes suit against a government on that claim.\u201d The FCRA satisfies this stringent test.</p>\n<p>The FCRA\u2019s requirements apply to \u201cperson[s]\u201d who, like the federal government here, furnish information to consumer reporting agencies. Sections 1681n and 1681o create a cause of action for money damages to consumers injured by \u201cany person\u201d who willfully or negligently fails to comply with the statute\u2019s directive. Section 1681a provides a definition of \u201cperson\u201d that includes government agencies, which applies to the entire Act. In the presence of such \u201cunmistakably clear\u201d language, no separate waiver provision is needed.</p>\n"
+}

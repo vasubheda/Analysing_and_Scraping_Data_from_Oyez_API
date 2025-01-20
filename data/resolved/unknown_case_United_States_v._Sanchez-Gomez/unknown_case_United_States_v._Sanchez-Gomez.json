@@ -1,0 +1,42 @@
+{
+    "ID": 62932,
+    "name": "United States v. Sanchez-Gomez",
+    "href": "https://api.oyez.org/cases/2017/17-312",
+    "view_count": 0,
+    "docket_number": "17-312",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1512712800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54164"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1522040400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54222"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1526274000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54265"
+        }
+    ],
+    "question": "<p>Did the court of appeal err in considering respondents\u2019 interlocutory challenge to the use of pretrial physical restraints, and in ruling on that challenge despite its recognition that respondents\u2019 individual claims were moot?</p>\n",
+    "citation": {
+        "volume": "584",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27560"
+    },
+    "term": "2017",
+    "description": "A case in which the Court held that challenges to the federal district-wide policy of using of pretrial physical restraints are moot.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/584/17-312/",
+    "facts_of_the_case": "<p>Rene Sanchez-Gomez and defendants in three other criminal cases (collectively \u201cDefendants\u201d) objected to a policy (the \u201cPolicy\u201d) of the U.S. District Court for the Southern District of California (the \u201cDistrict\u201d) which required them to appear for pretrial non-jury proceedings in full physical restraints. The Policy, which applied to most in-custody defendants appearing in such proceedings, was proposed by the U.S. Marshals Service and accepted by the District\u2019s judges.</p>\n<p>The magistrate judges in all four cases overruled the Defendants\u2019 objections to the Policy. The Defendants appealed these denials to the district court, and also filed emergency motions challenging the Policy\u2019s constitutionality. The district court denied all relief, and the four cases were consolidated before the 9th Circuit.</p>\n<p>The 9th Circuit, sitting <em>en banc</em>, construed the Defendants\u2019 appeals as petitions for writs of mandamus under its supervisory authority, and found that it had jurisdiction to review the Policy\u2019s constitutionality. It explained that while the individual Defendants\u2019 claims may be moot by the time of review due to their criminal cases ending and the Policy having been changed, under the Supreme Court\u2019s precedent in <em>Gerstein v. Pugh</em>, the Defendants represented a broader group of similarly situated people who could be injured should the Policy be reinstated. Thus, applying the capable-of-repetition-yet-evading-review mootness exception, the supervisory mandamus case was not moot. However, because the Policy was no longer in effect, the court withheld a formal writ of mandamus.</p>\n",
+    "conclusion": "<p>A unanimous Court held that the case is moot. In an opinion authored by Chief Justice John Roberts, the Court found that the appellate court's reliance on\u00a0<em>Gerstein</em> was misplaced, as that case does not support a freestanding exception to mootness outside the class action context.\u00a0Further, the mere presence of allegations that might,\u00a0if resolved in respondents' favor, benefit other similarly situated individuals\u00a0does not save their case from mootness. Additionally, the Court found unpersuasive the respondents' arguments that their claims fall within the exception to mootness by virtue of being \"capable of repetition yet evading review\" because the possibility that a person will be criminally prosecuted is insufficient to establish judicial standing.</p>\n"
+}

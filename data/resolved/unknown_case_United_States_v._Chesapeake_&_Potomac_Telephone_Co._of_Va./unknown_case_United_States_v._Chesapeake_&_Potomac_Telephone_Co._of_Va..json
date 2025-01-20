@@ -1,0 +1,35 @@
+{
+    "ID": 54393,
+    "name": "United States v. Chesapeake & Potomac Telephone Co. of Va.",
+    "href": "https://api.oyez.org/cases/1995/94-1893",
+    "view_count": 0,
+    "docket_number": "94-1893",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                818229600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37602"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                827906400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37603"
+        }
+    ],
+    "question": "<p>Does 47 U.S.C. 533(b), which bars local telephone companies from directly providing video programming to their local phone service subscribers, violate the First Amendment's protection of free speech?</p>\n",
+    "citation": {
+        "volume": "516",
+        "page": "415",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18322"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/516/415/",
+    "facts_of_the_case": "<p>To prevent \"local media monopolies,\" Section 533(b) of the Cable Communications Policy Act of 1984 barred local phone service providers (local exchange carriers or LECs) from directly providing video programming to their local phone service subscribers. The government claimed that because LEC- controlled phone lines could also transmit video signals, allowing LECs to provide video programming would hurt competing cable companies. First, LECs could deny competitors access to their data lines. Second, LECs could offer lower cable prices than competitors by raising the costs of telephone service and using the extra profits to subsidize the costs of cable service.</p>\n<p>Chesapeake and Potomac Telephone Company of Virginia (Chesapeake) challenged the constitutionality of the statute, pointing out that \"video programming\" is a form of speech protected by the First Amendment. The government argued that the statute's regulation of the cable market had a \"content-neutral\" objective. The District Court ruled that the statute's restrictions were not \"narrowly tailored\" to serve the statute's objective. The U.S. Court of Appeals for the Fourth Circuit affirmed, adding that the statute did not leave open \"ample alternative channels for communication\" between LECs and local residents. The Supreme Court consolidated the case with <em>National Cable Television Assn., Inc. v. Bell Atlantic Corp</em>.</p>\n",
+    "conclusion": "<p>Unanswered. After the Court heard oral arguments, the President signed the Telecommunications Act of 1996 into law. The Act repealed Section 533(b), allowing LECs to provide local cable service if they complied with a series of regulatory measures. The Court instructed the Fourth Circuit to reconsider the case and determine whether it had become moot.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 63498,
+    "name": "Moore v. Harper",
+    "href": "https://api.oyez.org/cases/2022/21-1271",
+    "view_count": 0,
+    "docket_number": "21-1271",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1656565200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55136"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1670392800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55188"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1687842000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55308"
+        }
+    ],
+    "question": "<p>Under the U.S. Constitution, does the state legislative body, independent of any constraints by state courts or other laws, have sole authority to regulate federal elections?</p>\n",
+    "citation": {
+        "volume": "600",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27902"
+    },
+    "term": "2022",
+    "description": "A case in which the Court rejected the \u201cIndependent State Legislature\u201d (ISL) theory\u2014that only a state legislature has the power to regulate federal elections, notwithstanding state courts or constitutional constraints.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/600/21-1271/",
+    "facts_of_the_case": "<p>After the 2020 Census, in which North Carolina gained an additional seat in the U.S. House of Representatives and thus required redistricting of the state, North Carolina\u2019s Republican-majority state legislature passed a partisan gerrymander.</p>\n<p>The map was challenged in state court, and in February 2022, the North Carolina Supreme Court struck down the map for violating the state constitution\u2019s \u201cfree elections clause\u201d and other provisions. The legislature proposed a second gerrymandered map, so the court ordered a special master to create a map for the 2022 congressional elections. The legislators asked the U.S. Supreme Court to review based on an argument that the Elections Clause of the U.S. Constitution gives state legislatures alone the authority to regulate federal elections\u2014the so-called Independent State Legislature theory.</p>\n",
+    "conclusion": "<p>The Federal Elections Clause does not vest exclusive and independent authority in state legislatures to set the rules regarding federal elections. Chief Justice John Roberts authored the 6-3 majority opinion of the Court.</p>\n<p>First, the Court confirmed that it had jurisdiction to review the case. The North Carolina Supreme Court\u2019s decision to overrule its previous judgment did not moot the case because there remains a live dispute between the parties.</p>\n<p>Second, the Court concluded that the Elections Clause does not grant state legislatures exclusive authority to regulate federal elections. Judicial review has been an accepted practice since Marbury v. Madison, and under the Court\u2019s precedents, the Elections Clause authority of state legislatures is subject to checks and balances provided by the state constitution. State legislatures are not wholly independent bodies, and they are bound by the constraints imposed by the state constitutions.</p>\n<p>Third, state courts have the authority to interpret state laws affecting federal elections, but they cannot sidestep federal law. The Court declined to decide whether the North Carolina Supreme Court in this case overstepped its authority because that issue was not properly before it.</p>\n<p>Justice Brett Kavanaugh authored a concurring opinion noting that while the Court need not answer the question of which standard a federal court should employ to review a state court\u2019s interpretation of state law in a case implicating the Elections Clause, there are three standards from which to choose that all convey the same point\u2014deference but not abdication.</p>\n<p>Justice Clarence Thomas authored a dissenting opinion, in which Justices Neil Gorsuch and Samuel Alito joined, arguing that the question presented in the case was moot, and that the writ of certiorari should be dismissed.</p>\n"
+}

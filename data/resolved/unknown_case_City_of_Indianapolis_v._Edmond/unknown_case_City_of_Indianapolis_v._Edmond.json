@@ -1,0 +1,35 @@
+{
+    "ID": 54918,
+    "name": "City of Indianapolis v. Edmond",
+    "href": "https://api.oyez.org/cases/2000/99-1030",
+    "view_count": 0,
+    "docket_number": "99-1030",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                970549200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38576"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                975391200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38577"
+        }
+    ],
+    "question": "<p>Are highway checkpoint programs, whose primary purpose is the discovery and interdiction of illegal narcotics, consistent with the Fourth Amendment?</p>\n",
+    "citation": {
+        "volume": "531",
+        "page": "32",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18847"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/531/32/",
+    "facts_of_the_case": "<p>In 1998, the City of Indianapolis began to operate vehicle checkpoints in an effort to interdict unlawful drugs. At each roadblock, one office would conduct an open-view examination of the vehicle. At the same time, another office would walk a narcotics-detection dog around the vehicle. Each stop was to last five minutes or less, without reasonable suspicion or probable cause. Both James Edmond and Joell Palmer were stopped at one of the narcotics checkpoints. They then filed a lawsuit, on their behalf and the class of motorists who had been stopped or were subject to being stopped, alleging that the roadblocks violated the Fourth Amendment and the search and seizure provision of the Indiana Constitution. The District Court denied a request for a preliminary injunction, holding that the checkpoint program did not violate the Fourth Amendment. The Court of Appeals reversed.</p>\n",
+    "conclusion": "<p>No. In a 6-3 opinion delivered by Justice Sandra Day O'Connor, the Court held that because the checkpoint program's primary purpose was indistinguishable from the general interest in crime control, the checkpoints violated the Fourth Amendment. \"We cannot sanction stops justified only by the generalized and ever-present possibility that interrogation and inspection may reveal that any given motorist has committed some crime,\" wrote Justice O'Connor. Chief Justice William H. Rehnquist and Justices Antonin Scalia and Clarence Thomas dissented, arguing that the reasonableness of the city's roadblocks depended on whether they served a \"significant state interest with minimal intrusion on motorists.\"</p>\n"
+}

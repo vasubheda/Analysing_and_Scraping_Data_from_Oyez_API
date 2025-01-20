@@ -1,0 +1,26 @@
+{
+    "ID": 63739,
+    "name": "Medina v. Planned Parenthood South Atlantic",
+    "href": "https://api.oyez.org/cases/2024/23-1275",
+    "view_count": 0,
+    "docket_number": "23-1275",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1734501600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55579"
+        }
+    ],
+    "question": "<p>Does the Medicaid Act\u2019s \u201cany qualified provider\u201d provision unambiguously confer a private right upon a Medicaid beneficiary to choose a specific provider?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28060"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether the Medicaid Act\u2019s \u201cany qualified provider\u201d provision unambiguously confers a private right upon a Medicaid beneficiary to choose a specific provider.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-1275/"
+}

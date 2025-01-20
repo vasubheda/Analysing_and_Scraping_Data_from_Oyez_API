@@ -1,0 +1,42 @@
+{
+    "ID": 55943,
+    "name": "Lozman v. Riviera Beach",
+    "href": "https://api.oyez.org/cases/2012/11-626",
+    "view_count": 0,
+    "docket_number": "11-626",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1329804000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41190"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1349067600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41191"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1358229600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41192"
+        }
+    ],
+    "question": "<p>Is a floating structure a \"vessel\" under 1 U.S.C. \u00a7 3, thus triggering federal maritime jurisdiction, if that structure is indefinitely moored, receives power and other utilities from shore, and is not intended to be used in maritime transportation or commerce?</p>\n",
+    "citation": {
+        "volume": "568",
+        "page": "115",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19865"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that the definition of vessel under 1 U.S.C. \u00a73 is too broad and not any floating structure is considered a vessel.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/568/115/",
+    "facts_of_the_case": "<p>In 2002, Fane Lozman purchased a floating residential structure. The structure was rectangular and made of plywood. It contained no bilge pumps, no raked bow, no navigation aids, no lifeboats, no propulsion mechanism, no steering, and cleats, which were inappropriate for towing.</p>\n<p>Lozman kept his floating home in a marina in the City of Riviera Beach. Lozman signed a lease with the city, moored the floating home to the dock, and affixed the home to land based utilities. Later, the city council passed a revised dockage agreement and accompanying Marina Rules. Pursuant to these rules, the city informed Lozman it would revoke his permission to remain on the Marina unless he executed a new agreement and complied with the new regulations. Lozman did not execute a new agreement and continued to remain at the marina.</p>\n<p>In response, the city filed an in rem suit in federal court for trespass under federal maritime law. The city filed for partial summary judgment on its trespass claim. Lozman argued that his floating home was not a \"vessel\" under 1 U.S.C. \u00a7 3, and therefore not subject to maritime law. The district court granted the city's motion and held that Lozman's floating home was a \"vessel\" for purposes admiralty jurisdiction. The United States Court of Appeals for the Eleventh Circuit agreed with the lower court, and Lozman appealed the appellate court's determination that his floating home was a \"vessel\" under 1 U.S.C. \u00a7 3.</p>\n",
+    "conclusion": "<p>No. Justice Stephen G. Breyer, writing for a 7-2 majority, reversed the 11th Circuit. The Supreme Court held that the 11th Circuit's definition of \"vessel\" is too broad. The Court focused on the language of the statute, which states that a vessel is \"capable of being used...as a means of transportation.\" While the floating home can move, it is not used for transportation in a practical way. The Court employed a \"reasonable observer\" test, holding that something's ability to float, does not automatically make it a vessel.</p>\n<p>Justice Sonia Sotomayor dissented, arguing that the reasonable observer test introduces a subjective element that upsets long established maritime precedent. The dissent would also remand the case to develop the record further. Justice Anthony M. Kennedy joined in the dissent.</p>\n"
+}

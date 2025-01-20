@@ -1,0 +1,42 @@
+{
+    "ID": 55373,
+    "name": "United States v. Olson",
+    "href": "https://api.oyez.org/cases/2005/04-759",
+    "view_count": 0,
+    "docket_number": "04-759",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1110175200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39646"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1129093200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39647"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1131429600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39648"
+        }
+    ],
+    "question": "<p>Did the Federal Tort Claims Act waive the United States' sovereign immunity in cases where local law would make a state or municipal entity liable?</p>\n",
+    "citation": {
+        "volume": "546",
+        "page": "43",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/20615"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/546/43/",
+    "facts_of_the_case": "<p>Injured workers sued the United States under the Federal Tort Claims Act (FTCA), alleging that federal mine inspectors' negligence helped cause a mine accident. The FTCA authorized private tort actions against the U.S. when the federal government, if a private person in similar circumstances, would be liable according to the law of the place where the incident occurred. The district court dismissed the suit, holding that the allegations failed to show Arizona law would have imposed liability on a private person in like circumstances. The Ninth Circuit reversed, holding federal mine inspections were a governmental function with no private analogue. In such cases, the Ninth Circuit held, the FTCA waived sovereign immunity if a state or municipal entity would be held liable under the law where the activity occurred.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Stephen Breyer, the Court held that the United States waived sovereign immunity only where local law would make a \"private person\" liable in tort, not where local law would make a \"state or municipal entity\" liable. Nothing in the FTCA's \"context, history, or objectives\" supported the Ninth Circuit's holding that the act waived sovereign immunity where the United States, if a state or municipal entity, would be liable. Moreover, the Ninth Circuit treated the act's requirement that there be \"like circumstances\" to require the \"same circumstances.\" Private analogies did, in fact, exist for the federal mine inspectors' conduct.</p>\n"
+}

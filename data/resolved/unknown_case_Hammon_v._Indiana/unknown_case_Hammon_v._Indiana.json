@@ -1,0 +1,42 @@
+{
+    "ID": 55291,
+    "name": "Hammon v. Indiana",
+    "href": "https://api.oyez.org/cases/2005/05-5705",
+    "view_count": 0,
+    "docket_number": "05-5705",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1130738400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39428"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1142834400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39429"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1150693200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39430"
+        }
+    ],
+    "question": "<p>Under the U.S. Supreme Court's interpretation of the Sixth Amendment in <em>Crawford v. Washington</em>, may statements made to police during investigation of a crime, though not made with the intent to preserve evidence, be admitted in court without allowing defendants to cross-examine the person who made the original statements?</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "813",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20641"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>Hershel Hammon was charged with domestic abuse after police responded to a call from his house. When they arrived, Hammon's wife told police that her husband had beaten her. While Mrs. Hammon did not testify at Mr. Hammon's trial, the police officer did testify about what she had told him. Mr. Hammon's attorney objected to the admission of the testimony without cross-examination, but the judge allowed it under the \"excited utterance\" exception to the general rule against hearsay testimony (second-hand reports of what someone said or did). The police officer was not trying to preserve evidence but merely to assess the incident, so Mrs. Hammon's statements to him were not the sort of testimony prohibited under the U.S. Supreme Court's decision in <em>Crawford v. Washington</em>.</p>\n",
+    "conclusion": "<p>Yes. In an 8-1 decision authored by Justice Antonin Scalia, the Court ruled that the Confrontation Clause of the Sixth Amendment, as interpreted in <em>Crawford v. Washington</em>, does not apply to \"non-testimonial\" statements not intended to be preserved as evidence at trial. In Hammon's case, however, the Court ruled that Mrs. Hammon's statements to the police were testimonial. At the time of her questioning, Hammon faced \"no emergency in progress\" and \"no immediate threat to her person.\" Instead, the relative safety of the conversation between Mrs. Hammon and the officer made it \"formal enough\" to qualify as a \"testimonial\" statement intended as evidence of the past crime. The Court left open the possibility that Hershel Hammon could have forfeited his constitutional right to confront the witnesses against him by coercively preventing his wife from testifying. Otherwise, however, the Court ruled that the Sixth Amendment did not allow Mrs. Hammon's testimony to be used against Mr. Hammon without her presence at the trial. Justice Clarence Thomas wrote a dissent criticizing the Court's test as unworkable. In Justice Thomas's view, Hammon's statement was not testimonial, because the conversation was not a \"formalized dialogue.\" This case was decided along with <em>Davis v. Washington</em>.</p>\n"
+}

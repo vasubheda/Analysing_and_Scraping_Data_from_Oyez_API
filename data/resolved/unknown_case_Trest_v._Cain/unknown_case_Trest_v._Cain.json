@@ -1,0 +1,35 @@
+{
+    "ID": 54645,
+    "name": "Trest v. Cain",
+    "href": "https://api.oyez.org/cases/1997/96-7901",
+    "view_count": 0,
+    "docket_number": "96-7901",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                879141600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38068"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                881647200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38069"
+        }
+    ],
+    "question": "<p>Is a Court of Appeals required to decide issues of procedural default on its own initiative, without prompting from one of the parties (\"sua sponte\")?</p>\n",
+    "citation": {
+        "volume": "522",
+        "page": "87",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18574"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/522/87/",
+    "facts_of_the_case": "<p>Richard Trest sought a writ of habeas corpus that would cancel the sentence he was serving in Louisiana for armed robbery. The District Court rejected his claim. Trest appealed to the U.S. Court of Appeals for the Fifth Circuit, but before hearing the facts of the case, the Court of Appeals denied his appeal as a \"procedural default.\" The Court of Appeals ruled that Trent had failed to meet the deadline for filing his federal claims in state court. Though Louisiana had not raised the issue, the Fifth Circuit felt compelled to dismiss the case on its own initiative. Trest appealed to the Supreme Court, arguing that the Fifth Circuit had incorrectly believed that it was required to decide the \"procedural default\" issue sua sponte - that is, without prompting from one of the parties.</p>\n",
+    "conclusion": "<p>No. A Court of Appeals is not required to raise an issue of procedural default on its own initiative. In a unanimous opinion, Justice Stephen Breyer observed: \"We are not aware of any precedent stating that a habeas court must raise such a matter where the State itself does not do so.\" The Court held that it was the State's duty to raise issues of procedural default, but did not rule on the question of whether the Court of Appeals retained the option of ruling on the issue sua sponte.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55509,
+    "name": "Giles v. California",
+    "href": "https://api.oyez.org/cases/2007/07-6053",
+    "view_count": 0,
+    "docket_number": "07-6053",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1200031200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40016"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1208840400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40017"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1214370000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40018"
+        }
+    ],
+    "question": "<p>Are a criminal defendant's rights under the Confrontation Clause of the Sixth Amendment violated when the common law \"forfeiture by wrongdoing\" doctrine is applied to allow out-of-court statements made by a witness, absent due to the defendant's own conduct, into evidence without giving defendant an opportunity to cross-examine the absent witness?</p>\n",
+    "citation": {
+        "volume": "554",
+        "page": "353",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20773"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/554/353/",
+    "facts_of_the_case": "<p>When Dwayne Giles was tried in state court for the murder of his ex-girlfriend, he claimed self-defense. Giles stated that he had heard her vow to hurt him and a friend, and that she had previously shot a man and threatened people with knives. The prosecution then introduced evidence of a conversation between Giles' ex-girlfriend and police in which she claimed that he had assaulted her and threatened to kill her. The district court eventually convicted Giles of murder.</p>\n<p>On appeal, Giles argued that use of the police conversation violated his Sixth Amendment right to confront witnesses against him, namely, his deceased ex-girlfriend. The California Supreme Court held that Giles had waived this right because he was the cause of his ex-girlfriend's absence. Although this exclusion was justified under common law rules of \"forfeiture by wrongdoing\", the Supreme Court had greatly constrained the admissibility of such evidence in its 2004 holding in <em>Crawford v. Washington.</em> <em>Crawford</em> essentially wiped out the admissibility of such out-of-court statements unless the testimony could be subject to cross-examination at trial, an option that would be impossible under these circumstances. This case gives the Court an opportunity to expand on its decision in <em>Crawford</em> and to apply it to a situation where the wrongdoing that kept the witness from appearing in court was not motivated by a desire to prevent the witness' testimony.</p>\n",
+    "conclusion": "<p>Yes. In a 6-3 decision, the Court held that the forfeiture by wrongdoing exception only applies to situations where the defendant causes the witness' absence with the intention of preventing that witness from testifying at trial. Without this intention, any act by the defendant making the witness unavailable does not waive that defendant's Sixth Amendment right to confront and cross-examine the witness, and therefore any out-of-court statements made by the witness are inadmissible as evidence. Justice Antonin Scalia delivered the opinion of the Court.</p>\n<p>Justice Clarence Thomas wrote a concurring opinion stressing his belief that statements such as those made by the witness in this case should not implicate the Confrontation Clause at all because the police questioning was not a \"formalized dialogue.\" Justice Samuel Alito also wrote a concurring opinion suggesting that the witness' statements, in his view, did not fall within the Confrontation Clause but noting that neither party had made this argument before the Court. Justice David Souter, joined by Justice Ruth Bader Ginsburg, concurred in all parts of the majority opinion except one section denouncing the dissenting argument. Justice Souter stated that he did not find the dissent as wrongheaded as the majority suggested.</p>\n<p>The dissent, written by Justice Stephen Breyer and joined by Justices John Paul Stevens and Anthony Kennedy, argued that a defendant loses his right to confrontation when he makes a witness unavailable due to his own wrongdoing, even if he did not act with the specific intention of preventing her from testifying at trial.</p>\n"
+}

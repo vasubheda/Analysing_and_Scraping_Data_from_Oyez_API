@@ -1,0 +1,42 @@
+{
+    "ID": 55397,
+    "name": "Sole v. Wyner",
+    "href": "https://api.oyez.org/cases/2006/06-531",
+    "view_count": 0,
+    "docket_number": "06-531",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1168581600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39706"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1176786000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39707"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1180933200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39708"
+        }
+    ],
+    "question": "<p>Can a preliminary injunction that is later reversed be the basis for awarding a party the status of the \"prevailing party\" and therefore entitling that party to attorney's fees?</p>\n",
+    "citation": {
+        "volume": "551",
+        "page": "74",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20706"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/551/74/",
+    "facts_of_the_case": "<p>Florida state park officials prohibited T.A. Wyner and George Simon from forming a peace symbol from nude individuals at a public beach. Wyner and Simon petitioned a district court, which issued a preliminary injunction barring the officials' interference and awarded Wyner and Simon their attorney fees in accordance with 42 U.S.C. Section 1988. Later, the district court reversed the injunction because state laws prohibited nudity at the beach. The officials argued that Wyner and Simon did not qualify as a \"prevailing party,\" and therefore should not have their attorney fees refunded.</p>\n<p>The U.S. Court of Appeals for the Eleventh Circuit ruled that Wyner and Simon were the \"prevailing party\" because the district court had decided to issue the preliminary injunction based on merits of the case. The park officials responded that the preliminary injunction was based on a \"mistake of the law,\" because the case was dismissed upon further review. The U.S. Court of Appeals for the Fourth Circuit had previously ruled that a preliminary injunction is not a ruling based on the merits, and therefore does not determine the \"prevailing party.\"</p>\n",
+    "conclusion": "<p>No. Justice Ruth Bader Ginsburg's opinion for the unanimous Court held that a preliminary injunction that is later reversed or otherwise undone cannot be the basis for \"prevailing party\" status for purposes of awarding attorney's fees. Though Wyner had been able to perform the nude peace symbol display without interference after her victory at the preliminary hearing, her victory had been \"transient,\" \"fleeting,\" and \"ephemeral.\" Because she eventually lost on the merits of her claim that the government's interference was unconstitutional, she failed to gain the enduring \"chang[e] [in] the legal relationship\" of the parties that is required for prevailing party status. The Court left open the possibility that a preliminary injunction could be the basis for awarding attorney's fees if it were not later superseded as was Wyner's.</p>\n"
+}

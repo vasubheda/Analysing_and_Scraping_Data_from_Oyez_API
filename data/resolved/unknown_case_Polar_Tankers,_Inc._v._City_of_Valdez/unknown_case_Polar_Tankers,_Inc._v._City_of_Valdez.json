@@ -1,0 +1,42 @@
+{
+    "ID": 55541,
+    "name": "Polar Tankers, Inc. v. City of Valdez",
+    "href": "https://api.oyez.org/cases/2008/08-310",
+    "view_count": 0,
+    "docket_number": "08-310",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1229061600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40108"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1238562000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40109"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1245042000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40110"
+        }
+    ],
+    "question": "<p>1) Does a municipal property tax that falls exclusively on large vessels and uses an apportionment method for out of state vessels violate the Due Process Clause of the Constitution?</p>\n<p>2) Does it violate the Commerce Clause of the Constitution?</p>\n<p>3) Does it violate the Tonnage Clause of the Constitution?</p>\n",
+    "citation": {
+        "volume": "557",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20839"
+    },
+    "term": "2008",
+    "description": "A case in which the Court held that a property tax which fell exclusively on large vessels and used an apportionment method for out-of-state vessels violated the Tonnage Clause of the Constitution.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>In 1999, the city of Valdez, Alaska imposed a property tax on large vessels that used its port. Vessels subject to taxation elsewhere were held to an apportionment formula based on the number of days spent there. In response, Polar Tankers Inc. filed suit in an Alaska trial court arguing that the apportionment provision was unconstitutional. The trial court in part agreed, ruling that the apportionment method violated the Due Process and Commerce Clauses, but did not violate the Tonnage Clause of the Constitution.</p>\n<p>On appeal, the Supreme Court of Alaska reversed in part. The court held that the tax apportionment formula used by the city of Alaska was fair and non-duplicative. Therefore, it did not violate the Due Process, Commerce, or Tonnage Clauses in the Constitution.</p>\n",
+    "conclusion": "<p>Not answered, not answered, yes. The Supreme Court held that the Valdez, Alaska property tax that fell exclusively on large vessels and that used an apportionment method for out of state vessels violated the Tonnage Clause of the Constitution. With Justice Stephen G. Breyer writing for the majority and joined in part by Justices Antonin G. Scalia, Anthony M. Kennedy, Ruth Bader Ginsburg, and Samuel A. Alito, the Court reiterated that the Tonnage Clause need be interpreted in light of its purpose of restraining states from enacting taxes that injure the interests of other states. Here, the Court reasoned that the Valdez tax that targeted ships not residing in Alaska did just this, and therefore was unconstitutional. Moreover, the Court acknowledged that the Tonnage Clause would not have applied to the City of Valdez had it imposed similar taxes upon other businesses. However, the Court found little evidence that Valdez did so, and therefore the tax was not excluded from the scope of the Tonnage Clause.</p>\n<p>Chief Justice John G. Roberts, joined by Justice Clarence Thomas, concurred in part and concurred in the judgment. He agreed that the City of Valdez's tax was unconstitutional, but disagreed with the majority that an unconstitutional tax could become permissible when bundled with other similar taxes on other businesses and properties. Justice Alito also wrote separately, concurring in part and concurring in the judgment. Justice John Paul Stevens, joined by Justice David H. Souter, dissented. He argued that the Tonnage Clause merely limits states from charging ships for \"the privilege of arriving and departing from a port.\" He reasoned that the City of Valdez tax did not do so and therefore the tax was not unconstitutional.</p>\n"
+}

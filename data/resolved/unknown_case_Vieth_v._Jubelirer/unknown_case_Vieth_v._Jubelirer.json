@@ -1,0 +1,42 @@
+{
+    "ID": 55183,
+    "name": "Vieth v. Jubelirer",
+    "href": "https://api.oyez.org/cases/2003/02-1580",
+    "view_count": 0,
+    "docket_number": "02-1580",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1056690000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39128"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1071036000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39129"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1083128400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39130"
+        }
+    ],
+    "question": "<p>Can voters affiliated with a political party sue to block implementation of a Congressional redistricting plan by claiming that it was manipulated for purely political reasons? Does a state violate the Equal Protection clause of the 14th Amendment when it disregards neutral redistricting principles (such as trying to avoid splitting municipalities into different Congressional districts) in order to achieve an advantage for one political party? Does a state exceed its power under Article I of the Constitution when it draws Congressional districts to ensure that a minority party will consistently win a super-majority of the state's Congressional seats?</p>\n",
+    "citation": {
+        "volume": "541",
+        "page": "267",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19111"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/541/267/",
+    "facts_of_the_case": "<p>After the 2000 census reduced the size of the Pennsylvania Congressional delegation by two members, the Republican-controlled state legislature passed a redistricting plan that clearly benefitted Republican candidates. Several members of the Democratic party sued in federal court, claiming that the plan was unconstitutional because it violated the one-person, one-vote principle of Article I, Section 2 of Constitution, the Equal Protection clause, the Privileges and Immunities clause, and the freedom of association.</p>\n<p>The district court dismissed all but the Article I, Section 2 claim. It held that the voters bringing the suit had not proved that they would be denied representation, only that they would be represented by Republican officials. Because the plaintiffs (those bringing the suit) were not denied the right to vote, to be placed on the ballot box, to associate as a party, or to express their political opinions, their political discrimination claims failed.</p>\n<p>However, the court found the act unconstitutional because it created districts with different numbers of voters, thereby violating the one-person, one-vote principle. Because the plaintiffs had shown that it was possible to create districts with smaller differences, and because the defendants had failed to justify the disparities resulting under their plan, it was therefore unconstitutional.</p>\n",
+    "conclusion": "<p>In a split decision that had no majority opinion, the Court decided not to intervene in this case because no appropriate judicial solution could be found. Justice Antonin Scalia, for a four-member plurality, wrote that the Court should declare all claims related to political (but not racial) gerrymandering nonjusticiable, meaning that courts could not hear them. Because no court had been able to find an appropriate remedy to political gerrymandering claims in the 18 years since the Court decided Davis v. Bandemer, 478 U.S. 109, which had held that such a remedy had not been found yet but might exist, Scalia wrote that it was time to recognize that the solution simply did not exist.</p>\n<p>Justice Anthony Kennedy, however, wrote in his concurring opinion (which provided the deciding fifth vote for the judgment) that the Court should rule narrowly in this case that no appropriate judicial solution could be found, but not give up on finding one eventually.</p>\n"
+}

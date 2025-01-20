@@ -1,0 +1,42 @@
+{
+    "ID": 63533,
+    "name": "United States v. Hansen",
+    "href": "https://api.oyez.org/cases/2022/22-179",
+    "view_count": 0,
+    "docket_number": "22-179",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1670565600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55191"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1679893200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55238"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1687496400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55309"
+        }
+    ],
+    "question": "<p>Does the federal prohibition on encouraging or inducing unlawful immigration for commercial advantage or private financial gain violate the First Amendment of the U.S. Constitution?</p>\n",
+    "citation": {
+        "volume": "599",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27923"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held that 8 U.S.C. \u00a7 1324(a)(1)(A)(iv) and (B)(i)\u2019s prohibition against encouraging or inducing unlawful immigration for commercial advantage or private financial gain forbids only the purposeful solicitation and facilitation of specific acts known to violate federal law and is not unconstitutionally overbroad.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/599/22-179/",
+    "facts_of_the_case": "<p>Helaman Hansen ran an immigration-advising service charging undocumented immigrants for (incorrect) advice on how to achieve U.S. citizenship. Hansen was convicted and sentenced for, among other federal crimes, two counts of encouraging or inducing illegal immigration for private financial gain, in violation of 8 U.S.C. \u00a7 1324(a)(1)(A)(iv) and (B)(i).</p>\n<p>Two years earlier, in United States v. Sineneng-Smith, the U.S. Supreme Court unanimously reversed a Ninth Circuit decision striking down those two statutory provisions. Its reversal was based not on the merits of the constitutional challenge, but on the procedure the Ninth Circuit had used to entertain the challenge. Hansen\u2019s case again raises the constitutional challenge.</p>\n",
+    "conclusion": "<p>The federal law criminalizing \u201cencouraging or inducing\u201d illegal immigration\u2014forbids only the purposeful solicitation and facilitation of specific acts known to violate federal law and is not unconstitutionally overbroad. Justice Amy Coney Barrett authored the 7-2 majority opinion of the Court.</p>\n<p>A law is unconstitutionally overbroad if it prohibits a significant amount of protected speech compared to its legitimate applications. The federal laws at issue, 8 U.S.C. \u00a7 1324(a)(1)(A)(iv) and (B)(i) prohibit \u201cencouraging or inducing\u201d illegal immigration, but in this context, they refer to the specialized legal terms of solicitation and facilitation, not their colloquial meanings. Because (A)(iv) targets only the intentional solicitation and facilitation of specific illegal acts, and these acts are generally non-expressive conduct, it is unlikely to stifle protected speech.</p>\n<p>Justice Clarence Thomas joined the majority\u2019s opinion in full but wrote separate concurrence to criticize the facial overbreadth doctrine, which he argued \u201clacks any basis in the text or history of the First Amendment\u201d and \u201cdistorts the judicial role.\u201d\u00a0</p>\n<p>Justice Ketanji Brown Jackson wrote a dissenting opinion, in which Justice Sonia Sotomayor joined, arguing that the majority \u201cdeparts from ordinary principles of statutory interpretation\u201d to interpret the \u201cencouraging or inducing\u201d as meaning something much narrower than the words plainly mean.</p>\n"
+}

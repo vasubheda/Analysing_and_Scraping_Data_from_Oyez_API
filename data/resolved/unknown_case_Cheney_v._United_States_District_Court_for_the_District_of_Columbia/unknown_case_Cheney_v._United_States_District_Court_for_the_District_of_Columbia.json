@@ -1,0 +1,42 @@
+{
+    "ID": 55129,
+    "name": "Cheney v. United States District Court for the District of Columbia",
+    "href": "https://api.oyez.org/cases/2003/03-475",
+    "view_count": 0,
+    "docket_number": "03-475",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1071468000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52588"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1083042000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52589"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1088053200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38980"
+        }
+    ],
+    "question": "<p>Does the Federal Advisory Committee Act authorize judicial review of executive branch deliberations through a broad discovery process that allows a private organization to review internal documents of high-level advisors to the President? If such review is authorized by FACA, does it violate the Constitutional doctrine of separation of powers?</p>\n",
+    "citation": {
+        "volume": "542",
+        "page": "367",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/20535"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/542/367/",
+    "facts_of_the_case": "<p>In January 2001, President Bush created an advisory committee on energy policy headed by Vice President Dick Cheney. After the group issued its recommendations five months later, Judicial Watch, a non-profit government watchdog group, filed suit in federal district court. The Sierra Club, an environmentalist organization, later filed a nearly identical suit that was joined with the Judicial Watch suit. The two organizations alleged that the advisory committee had violated the Federal Advisory Committee Act (FACA) by not making public all the documents that it had generated. While FACA exempts committees composed entirely of federal officials, Judicial Watch and the Sierra Club argued that the exemption did not apply because private lobbyists had participated in the energy committee's meetings.</p>\n<p>Cheney and the advisory group asked the court to dismiss the case, claiming that it violated the Constitutional separation of powers by requiring judicial oversight of internal executive branch deliberations. The district court refused.</p>\n<p>The government then sought summary judgment of the case (without the discovery process) based on a few administrative documents that it claimed showed that only federal officials had worked on the group. The district court denied this request as well, and the government appealed to the Court of Appeals for the District of Columbia. The appeals court refused to grant summary judgment, arguing that it could not yet rule on the separation of powers argument. The government then appealed the case to the U.S. Supreme Court.</p>\n",
+    "conclusion": "<p>In a 7-2 opinion delivered by Justice Anthony Kennedy, the Court sent the case back to the D.C. Court of Appeals, arguing that the appellate court should have considered separation-of-powers claims and was wrong to conclude it lacked authority to order District Court discovery to stop. Such an order (mandamus) to stop discovery proceedings should be considered because those proceedings, \"by virtue of their overbreadth,\" could interfere with presidential activity. Further, the appellate court misinterpreted U.S. v. Nixon to mean that the government needed to assert executive privilege for separation-of-powers objections to be considered.</p>\n"
+}

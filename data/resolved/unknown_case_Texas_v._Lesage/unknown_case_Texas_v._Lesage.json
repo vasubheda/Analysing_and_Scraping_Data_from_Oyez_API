@@ -1,0 +1,28 @@
+{
+    "ID": 54830,
+    "name": "Texas v. Lesage",
+    "href": "https://api.oyez.org/cases/1999/98-1111",
+    "view_count": 0,
+    "docket_number": "98-1111",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                943855200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38407"
+        }
+    ],
+    "question": "<p>Did the Court of Appeals err in holding that the University of Texas was not entitled to summary judgment for its rejection of an African immigrant Ph.D. applicant of Caucasian descent even if he would have been rejected under a race-neutral policy?</p>\n",
+    "citation": {
+        "volume": "528",
+        "page": "18",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18759"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/528/18/",
+    "facts_of_the_case": "<p>Francois Daniel Lesage, an African immigrant of Caucasian descent, was denied admission to the University of Texas Ph.D. program in counseling psychology for the 1996-1997 academic year. Subsequently, Lesage filed suit, alleging that by establishing and maintaining a race-conscious admissions process the university had violated the Equal Protection Clause of the Fourteenth Amendment and various federal civil rights statutes. The university did not dispute that it considered the race of its applicants at some stage during the review process. The university argued that Lesage was unqualified for admission. Granting the university summary judgment, the District Court concluded that considerations of race had no effect on the Lesage's rejection. In reversing, the Court of Appeals held that summary judgment was inappropriate because there remained a factual dispute as to whether the stage of review during which Lesage's application was eliminated was in some way race conscious.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous per curiam opinion, the Court held that \"[i]nsofar as the Court of Appeals held that [the University of Texas was] not entitled to summary judgment on Lesage's section 1983 claim for damages relating to the rejection of his application for the 1996-1997 academic year even if he would have been denied admission under a race-neutral policy, its decision contradicts our holding in Mt. Healthy.\" \"Under Mt. Healthy City Bd. of Ed. v. Doyle, 429 U.S. 274, even if the government has considered an impermissible criterion in making a decision adverse to the plaintiff, it can nonetheless defeat liability by demonstrating that it would have made the same decision absent the forbidden consideration,\" stated the opinion.</p>\n"
+}

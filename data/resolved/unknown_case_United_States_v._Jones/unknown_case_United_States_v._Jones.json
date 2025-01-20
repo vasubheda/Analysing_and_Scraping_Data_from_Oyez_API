@@ -1,0 +1,42 @@
+{
+    "ID": 55882,
+    "name": "United States v. Jones",
+    "href": "https://api.oyez.org/cases/2011/10-1259",
+    "view_count": 0,
+    "docket_number": "10-1259",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1309150800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41009"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1320732000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41010"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1327298400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41011"
+        }
+    ],
+    "question": "<p>Did the warrantless use of a tracking device on Jones's vehicle to monitor its movements on public streets violate Jones' Fourth Amendment rights?</p>\n",
+    "citation": {
+        "volume": "565",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19804"
+    },
+    "term": "2011",
+    "description": "A case in which the Court found that a police department's placement of a GPS tracking device on a man's Jeep without his knowledge was an illegal search under the Fourth Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/565/400/",
+    "facts_of_the_case": "<p>Antoine Jones was arrested on Oct. 24, 2005, for drug possession after police attached a tracker to Jones's Jeep -- without judicial approval -- and used it to follow him for a month. A jury found Jones not guilty on all charges save for conspiracy, on which point jurors hung. District prosecutors, upset at the loss, re-filed a single count of conspiracy against Jones and his business partner, Lawrence Maynard. Jones owned the \"Levels\" nightclub in the District of Columbia. Jones and Maynard were then convicted, but a three-judge panel of the U.S. Court of Appeals for the D.C. Circuit ruled that the Supreme Court specifically stated in a 1983 case regarding the use of a beeper to track a suspect that the decision could not be used to justify 24-hour surveillance without a warrant.</p>\n",
+    "conclusion": "<p>Yes. Justice Antonin Scalia delivered the opinion of the Court. The Court affirmed the judgment of the lower court, and held that the installation of a GPS tracking device on Jones' vehicle, without a warrant, constituted an unlawful search under the Fourth Amendment. The Court rejected the government's argument that there is no reasonable expectation of privacy in a person's movement on public thoroughfares and emphasized that the Fourth Amendment provided some protection for trespass onto personal property.</p>\n<p>Justice Sonia Sotomayor wrote a concurring opinion, agreeing that the government had obtained information by usurping Jones' property and by invading his privacy. However, she further reasoned that the Fourth Amendment was not only concerned with trespasses onto property. She stated that a Fourth Amendment search occurs whenever the government violates a subjective expectation of privacy that society recognizes as reasonable, which is particularly important in an era where physical intrusion is unnecessary to many forms of surveillance.</p>\n<p>Justice Samuel Alito concurred in the judgment but criticized the framing of the question in terms of trespass to property. He believed that such a construction of the problem strained the language of the Fourth Amendment and that it would be better to analyze the case by determining whether the Government violated Jones' reasonable expectations of privacy.</p>\n<p><em>Learn more about the Roberts Court and the Fourth Amendment in <a href=\"http://projects.oyez.org/shifting-scales/\">Shifting Scales</a>, a nonpartisan Oyez resource.</em></p>\n"
+}

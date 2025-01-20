@@ -1,0 +1,42 @@
+{
+    "ID": 55240,
+    "name": "Lingle v. Chevron U. S. A. Inc.",
+    "href": "https://api.oyez.org/cases/2004/04-163",
+    "view_count": 0,
+    "docket_number": "04-163",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1097557200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39284"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1109052000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39285"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1116824400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39286"
+        }
+    ],
+    "question": "<p>Does a regulation amount to an unconstitutional taking \"if it does not substantially advance legitimate state interests?\"</p>\n",
+    "citation": {
+        "volume": "544",
+        "page": "528",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19168"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/544/528/",
+    "facts_of_the_case": "<p>Hawaii enacted a limit on the rent oil companies could charge dealers leasing company-owned service stations. The rent cap was a response to concerns about the effects of market concentration on gasoline prices. Chevron, one of the state's largest oil companies, argued in federal district court that the the cap was an unconstitutional taking of its property. The district court held that the cap amounted to an uncompensated taking in violation of the Fifth Amendment, because it did not substantially advance Hawaii's asserted interest in controlling gas prices. The court cited the U.S. Supreme Court's decision in Agins v. City of Tiburon (1980), where the Court declared that government regulation of private property is \"a taking if it does not substantially advance legitimate state interests.\" The Ninth Circuit affirmed.</p>\n",
+    "conclusion": "<p>No. Justice Sandra Day O'Connor delivered the Court's unanimous opinion that the Court needed to \"correct course\" and make clear that the \"substantially advances\" formula put forth in Agins was inappropriate for determining whether a regulation amounted to a Fifth Amendment taking. Takings clause challenges to regulations had to be based on the severity of the burden that the regulation imposed upon property rights, not the effectivness of the regulation in furthering the governmental interest. The Court insisted that its ruling did not \"disturb any of its prior holdings.\"</p>\n"
+}

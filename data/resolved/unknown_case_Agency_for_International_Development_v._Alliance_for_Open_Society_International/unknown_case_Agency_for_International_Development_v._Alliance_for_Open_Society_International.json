@@ -1,0 +1,42 @@
+{
+    "ID": 55926,
+    "name": "Agency for International Development v. Alliance for Open Society International",
+    "href": "https://api.oyez.org/cases/2012/12-10",
+    "view_count": 0,
+    "docket_number": "12-10",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1357884000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41140"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1366606800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41141"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1371704400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41142"
+        }
+    ],
+    "question": "<p>Does a requirement that non-governmental organizations institute an explicit anti-prostitution policy in order to receive federal funding violate the First Amendment?</p>\n",
+    "citation": {
+        "volume": "570",
+        "page": "205",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19848"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that it was a violation of the First Amendment to withhold funding from non-government organizations if they did not institute an anti-prostitution policy. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/570/205/",
+    "facts_of_the_case": "<p>In 2003, Congress enacted the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act (\"the Act\"). Through the Act, Congress apportioned billions of dollars towards the funding of non-governmental organizations (\"NGOs\") involved in the fight against HIV/AIDS. NGOs qualify to receive this funding only if they satisfy certain conditions. One of these conditions requires that all federally funded NGOs implement a policy explicitly opposing prostitution.</p>\n<p>The Alliance for Open Society International, Inc., Pathfinder International, Global Health Council, and InterAction are NGOs that receive funding under the Act. The NGOs brought suit against the Agency for International Development and the other agencies responsible for enforcing the Act, challenging the constitutionality of the Act's funding provisions. The NGOs argued that the funding provisions violate the First Amendment by restricting the organizations' speech and forcing them to promote the government's viewpoint on prostitution. The district court agreed with the NGOs and held that the provisions were too broad of a restriction on free speech. The agencies appealed and the United States Court of Appeals for the Second Circuit affirmed.</p>\n",
+    "conclusion": "<p>Yes. Chief Justice John G. Roberts, Jr. delivered the majority opinion. The Court held 6-2 that the government may not use funding and the threat of the loss of funding as a method for the regulation of speech and policies of non-governmental organizations. Because the Act's funding provisions represent an ongoing condition on the actions of the group receiving funding, the provisions essentially act as government coercion. The Court held that the funding provisions require the groups to accept the beliefs of the government, which infringes on their First Amendment rights.</p>\n<p>Justice Antonin Scalia wrote a dissent in which he argued that the government has the right to choose to give financial support only to groups which share its views on how to address a particular issue. The fact that the government must often choose among many policy options does not mean that the government is coercing groups to adopt its views. Justice Clarence Thomas joined in the dissent.</p>\n<p>Justice Elena Kagan did not participate in the discussion or decision in this case.</p>\n"
+}

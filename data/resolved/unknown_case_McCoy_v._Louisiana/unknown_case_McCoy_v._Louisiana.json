@@ -1,0 +1,42 @@
+{
+    "ID": 62897,
+    "name": "McCoy v. Louisiana",
+    "href": "https://api.oyez.org/cases/2017/16-8255",
+    "view_count": 0,
+    "docket_number": "16-8255",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1506574800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54123"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1516168800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54177"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1526274000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54268"
+        }
+    ],
+    "question": "<p>Does it violate a criminal defendant\u2019s Sixth Amendment right to assistance of counsel if defense counsel concedes the defendant\u2019s guilt over the defendant\u2019s express objection?</p>\n",
+    "citation": {
+        "volume": "584",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27543"
+    },
+    "term": "2017",
+    "description": "A case in which the Court held that a criminal defendant has the right under the Sixth Amendment to insist that his attorney not concede guilt in a capital case.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/584/16-8255/",
+    "facts_of_the_case": "<p>Robert McCoy was arrested on May 9, 2008, for the first-degree murders of the son, mother, and step-father of his estranged wife in a May 5, 2008, shooting. On May 15, 2008, McCoy was found to be\u00a0indigent and appointed a public defender. Throughout his representation by the public defender and his subsequent representation by retained counsel McCoy maintained his innocence and repeatedly stated his desire to plead not guilty. In December 2009, McCoy moved for his public defender to be removed due to his belief that the public defenders were doing nothing to assist him in proving his innocence. The court granted McCoy\u2019s motion to represent himself until he could find substitute counsel. McCoy subsequently found new counsel to represent him, and his counsel advised him to take a plea. When McCoy refused to take a plea, his counsel notified him that he intended to concede guilt, after which time McCoy moved to discharge him. The court denied McCoy\u2019s motion to discharge his attorney as untimely. His counsel proceeded to concede McCoy\u2019s guilt and argued for verdicts of second-degree murder on a theory of diminished capacity. The jury returned a verdict of first-degree murder on all three counts and recommended the death penalty.</p>\n<p>The Louisiana Supreme Court denied the appeal and affirmed the convictions and the sentence, reasoning that defense counsel\u2019s failure to follow McCoy\u2019s direction not to concede guilt did not deny Mr. McCoy the assistance of counsel or create a\u00a0conflict of interest because it did not completely abdicate the defense. Rather, the decision to concede guilt was a strategic choice by counsel.</p>\n<p>\u00a0</p>\n",
+    "conclusion": "<p>Inherent in the Sixth Amendment right to assistance of counsel is the autonomy right of a criminal defendant to choose the objective of his defense and insist that counsel not admit guilt, even if the counsel's experience-based view is that admitting guilt offers the best chance of avoiding the death penalty. In a 6-3 opinion authored by Justice Ruth Bader Ginsburg, the Court distinguished decisions that may be made by counsel and those reserved to the client. Counsel may make decisions described as \"trial management\" such as whether to call a particular witness or raise certain objections to evidence. Reserved exclusively to the client are decisions including whether to plead guilty, waive the right to a jury trial, testify in one's own behalf, and forgo an appeal. Whether to assert innocence as a defense is also within those decisions reserved to the client. Because the issue presented in this case involves client autonomy, not effectiveness of counsel, the error is considered \"structural error\" and is not subject to harmless-error review.\u00a0</p>\n<p>\u00a0Justice Samuel Alito filed a dissenting opinion, in which Justices Clarence Thomas and Neil Gorsuch joined. In the dissent's view, the Court's holding arbitrarily distinguishes between counsel's conspicuously omitting discussion of one element of a crime and expressly conceding that element. The dissent further criticizes the majority for reaching an overly broad holding despite the unusual circumstances of the particular case before it.</p>\n"
+}

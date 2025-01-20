@@ -1,0 +1,42 @@
+{
+    "ID": 55421,
+    "name": "Environmental Defense v. Duke Energy Corp.",
+    "href": "https://api.oyez.org/cases/2006/05-848",
+    "view_count": 0,
+    "docket_number": "05-848",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1147669200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39774"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1162360800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39775"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1175490000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39776"
+        }
+    ],
+    "question": "<p>1) Did the Fourth Circuit's decision violate the section of the Clean Air Act that provides that national Clean Air Act regulations are subject to challenge only in the D.C. Circuit?</p>\n<p>2) Does the Clean Air Act require the EPA to interpret the term \"modification\" consistently in its Prevention of Significant Deterioration (PSD) provisions and New Source Performance Standards (NSPS) regulations?</p>\n",
+    "citation": {
+        "volume": "549",
+        "page": "561",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20682"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/549/561/",
+    "facts_of_the_case": "<p>A 1977 amendment to the Clean Air Act created the Prevention of Significant Deterioration program (PSD), which requires power companies that want to make emissions-increasing modifications to their facilities to first apply for permits. Between 1988 and 2000, Duke Energy Corporation (Duke) made twenty-nine extensive improvements to its power plants without obtaining PSD permits. When the government, along with Environmental Defense and several other environmental groups, sued Duke, the company pointed to a PSD regulation explicitly defining \"modification\" for purposes of PSD as any change that increases the hourly rate of emissions from a facility. Duke's improvements increased the number of hours the plants remained open, and therefore also increased the total annual emissions from the plants. But since the improvements left the hourly rate of emissions unchanged, Duke argued that it did not have to obtain PSD permits. The government countered by citing the Environmental Protection Agency's current interpretation of the PSD regulations, which holds that a power company making improvements that increase the hours of operation of its plants does need to obtain a permit in all cases where construction is involved.</p>\n<p>The District Court ruled in favor of Duke. The judge refused to rely on the EPA's current interpretation, ruling that it was inconsistent with the wording of the PSD regulations. Environmental Defense appealed to the Fourth Circuit Court of Appeals, and the Circuit Court affirmed the District Court's decision. The Fourth Circuit pointed out that the 1977 PSD amendment had taken its definition of \"modification\" directly from a 1975 Clean Air Act amendment concerning the New Source Performance Standards program (NSPS). In the 1975 amendment, the term \"modification\" explicitly excluded improvements that merely increase the hours of operation of a facility. Therefore, the Fourth Circuit held, the EPA did not have statutory authority to interpret \"modification\" differently for the PSD program. Environmental Defense appealed to the Supreme Court, with the added argument that the Fourth Circuit never should have heard the case, because challenges to Clean Air Act regulations can only be brought in the D.C. Cricuit.</p>\n",
+    "conclusion": "<p>Unanswered and No. In a unanimous opinion by Justice David Souter, the Court ruled that the EPA need not interpret \"modification\" in PSD regulations the same way the term is interpreted in NSPS regulations. The Court's opinion acknowledged that two occurrences of the same term - sharing the same definition - are normally given the same meaning. However, the word \"modification\" and its definition appear in the context of two broad, open-ended grants of regulatory authority to the EPA. The Court held that \"EPA's construction need do no more than fall within the limits of what is reasonable, as set by the Act's common definition.\" The Court concluded that differing circumstances involved in regulating under the PSD provisions as opposed to the NSPS provisions may well necessitate giving a different meaning to the term \"modification\" as it appears in each.</p>\n"
+}

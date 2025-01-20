@@ -1,0 +1,26 @@
+{
+    "ID": 63724,
+    "name": "Louisiana v. Callais",
+    "href": "https://api.oyez.org/cases/2024/24-109",
+    "view_count": 0,
+    "docket_number": "24-109",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1730700000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55561"
+        }
+    ],
+    "question": "<p>Does Louisiana\u2019s creation of a second majority-Black congressional district constitute unconstitutional racial gerrymandering, even when drawn in response to a federal court finding that the state\u2019s prior single majority-Black district likely violated Section 2 of the Voting Rights Act?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28050"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether Louisiana\u2019s creation of a second majority-Black congressional district constitutes unconstitutional racial gerrymandering, even when drawn in response to a federal court finding that the state\u2019s prior single majority-Black district likely violated Section 2 of the Voting Rights Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/24-109/"
+}

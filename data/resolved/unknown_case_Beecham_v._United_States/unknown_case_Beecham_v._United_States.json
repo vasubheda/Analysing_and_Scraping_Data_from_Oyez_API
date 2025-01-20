@@ -1,0 +1,35 @@
+{
+    "ID": 54221,
+    "name": "Beecham v. United States",
+    "href": "https://api.oyez.org/cases/1993/93-445",
+    "view_count": 0,
+    "docket_number": "93-445",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                764229600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37278"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                769064400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37279"
+        }
+    ],
+    "question": "<p>Under 18 U.S.C. 922(g), can state procedures for the restoration of the civil rights of felons restore the right of a federal felon to possess a firearm?</p>\n",
+    "citation": {
+        "volume": "511",
+        "page": "368",
+        "year": "1994",
+        "href": "https://api.oyez.org/case_citation/case_citation/18150"
+    },
+    "term": "1993",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/511/368/",
+    "facts_of_the_case": "<p>Lenard Ray Beecham was convicted in Federal District Court of violating 18 U.S.C. 922(g), which makes it illegal for a convicted felon to possess a firearm. Beecham argued that according to the statute's exemption clause (\"Any conviction...for which a person...has had civil rights restored shall not be considered a conviction...\") he was no longer a convicted felon because Tennessee had restored his civil rights. Prosecutors pointed to the statute's \"choice of law clause,\" which states that \"What constitutes a conviction...shall be determined in accordance with the law of the jurisdiction in which the proceedings were held.\" They argued that because Beecham's prior conviction was under federal law, no state could restore his right to possess a firearm.</p>\n<p>The District Court ruled that a state could restore civil rights barred by a federal conviction, but the U.S. Court of Appeals for the Fourth Circuit reversed the decision. The Fourth Circuit's rule conflicted with those of the Courts of Appeals for the Eighth and Ninth Circuits, which held that the since the exemption clause applied to \"any conviction,\" it also permitted states to undo restrictions caused by federal convictions.</p>\n",
+    "conclusion": "<p>No. Justice Sandra Day O'Connor wrote the opinion for a unanimous Court. The Court applied the choice of law clause to the exemption clause and reasoned that no rights could be restored unless by the jurisdiction that first barred the rights. The Court ruled that though the federal government did not currently have any procedures in place to restore the civil rights of felons, only the federal government had jurisdiction over federal convictions. Therefore, Beecham's state-law restoration of civil rights was insufficient to restore his right to possess a firearm in light of 18 U.S.C. 922(g).</p>\n"
+}

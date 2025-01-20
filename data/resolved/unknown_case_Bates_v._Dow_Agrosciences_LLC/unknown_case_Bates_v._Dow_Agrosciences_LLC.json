@@ -1,0 +1,42 @@
+{
+    "ID": 55244,
+    "name": "Bates v. Dow Agrosciences LLC",
+    "href": "https://api.oyez.org/cases/2004/03-388",
+    "view_count": 0,
+    "docket_number": "03-388",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1088398800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39294"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1105336800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39295"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1114578000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39296"
+        }
+    ],
+    "question": "<p>Does the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA) preempt farmers' state tort claims alleging that Dow's herbicide damaged crops?</p>\n",
+    "citation": {
+        "volume": "544",
+        "page": "431",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19172"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/544/431/",
+    "facts_of_the_case": "<p>A group of peanut farmers in Texas threatened to sue Dow Agrosciences in state court for damages caused by one of Dow's herbicides. The farmers alleged Dow violated Texas labeling requirements. Dow asked a federal district court to rule the Federal Insecticide, Fungicide and Rodenticide Act (FIFRA) preempted and therefore prohibited the farmers' state law claims. The district court and the Fifth Circuit Court of Appeals ruled FIFRA expressly prohibited additional state labeling requirements such as Texas'.</p>\n",
+    "conclusion": "<p>No. In a 7-2 opinion delivered by Justice John Paul Stevens, the Court held that the peanut farmers could sue Dow in state court. The Court reasoned that FIFRA preempts only state-law \"requirements for labeling or packaging.\" The peanut farmers' defective manufacture, negligent testing, and breach of warranty claims were based on common-law and did not necessarily require that Dow label or package products in a particular way. The farmers' fraud and negligent-failure to warn claims, by contrast, were based on common-law rules that qualified as \"requirements for labeling or packaging.\" However, FIFRA preempted only state-law labeling requirements\" that were \"in addition to or different from\" FIFRA's labeling standards. The Court sent back to the Fifth Circuit Court of Appeals the question whether Texas law governing fraud and failure-to-warn claims was parallel to FIFRA.</p>\n"
+}

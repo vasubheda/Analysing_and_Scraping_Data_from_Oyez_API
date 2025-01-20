@@ -1,0 +1,42 @@
+{
+    "ID": 56006,
+    "name": "Executive Benefits Insurance Agency v. Arkison",
+    "href": "https://api.oyez.org/cases/2013/12-1200",
+    "view_count": 0,
+    "docket_number": "12-1200",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1372050000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41339"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1389679200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41340"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1402290000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41560"
+        }
+    ],
+    "question": "<p>(1)May a bankruptcy judge hear a fraudulent conveyance claim and submit a report and recommendation to a district court for review?</p>\n<p>(2) May a litigant consent to the entry of a final judgment by a non-Article III bankruptcy judge? And, if so, does the litigant's failure to object to the bankruptcy judge's entry of a final judgment amount to implied consent?</p>\n",
+    "citation": {
+        "volume": "573",
+        "page": "25",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20872"
+    },
+    "term": "2013",
+    "description": "A case in which the Court found that a bankruptcy judge may hear arguments and file a report with a district court for \"non-core\" bankruptcy issues.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/573/25/",
+    "facts_of_the_case": "<p>Bellingham Insurance Agency, Inc. (BIA) was a company owned by Nicholas Paleveda and his wife, Marjorie Ewing. Shortly before BIA filed for voluntary Chapter 7 bankruptcy in 2006, the company assigned the insurance commission from one of its largest clients to Peter Pearce, a long-time employee. Additionally, Paleveda used BIA funds to incorporate the Executive Benefits Insurance Agency, Inc. (EBIA). Pearce then deposited over $100,000 into an account held jointly by EBIA and another company owned by Paleveda and Ewing. The Trustee, Peter Arkison, filed a claim against EBIA in the BIA bankruptcy proceeding. Arkison alleged fraudulent conveyances and that EBIA, as a successor corporation, was liable for BIA's debts. The bankruptcy court granted summary judgment in favor of the Trustee and the district court affirmed.</p>\n<p>On appeal to the U.S. Court of Appeals for the Ninth Circuit, EBIA argued, for the first time, that the bankruptcy judge's entry of a final judgment on the Trustee's claims was unconstitutional. The Court of Appeals affirmed the district court's decision. It held that, while a bankruptcy court may not decide a fraudulent conveyance claim, it may hear the claim and make a recommendation for review by a district court. Additionally, the Court of Appeals determined that EBIA, by failing to object to the bankruptcy court's jurisdiction, waived its Seventh Amendment right to a hearing before an Article III court.</p>\n",
+    "conclusion": "<p>Yes and Undecided. Justice Clarence Thomas delivered the opinion for the unanimous Court. The Court began by noting that, under federal law, issues related to a bankruptcy proceeding fall into one of two categories: \"core\" and \"non-core.\" Bankruptcy courts may render final decisions, subject to appeal, on \"core\" issues, but when an issue is \"non-core,\" the bankruptcy court may only issue proposed findings of fact and conclusions of law, which are to be reviewed de novo by district courts. However, bankruptcy courts may render final decisions on \"non-core\" issues if both parties consent. In <em>Stern v. Marshall</em>, the Supreme Court held that some claims labeled as \"core,\" specifically those considered \"public rights,\" could not be adjudicated by bankruptcy courts because they do not comply with the constitutional requirements in Article III and thus Congress can only grant them limited subject matter jurisdiction. While a fraudulent conveyance claim may be the type of \"core\" claim on which <em>Stern</em> prohibits bankruptcy courts from ruling, here the claim was related to the bankruptcy proceedings and should thusly be treated as a \"non-core\" issue, which would allow the bankruptcy judge to submit proposed findings to a district court. The Court found it unnecessary to address the petitioner's issue regarding consent, because although the bankruptcy court had rendered a final decision on the claim instead of a proposed finding, the district court had reviewed the bankruptcy court's holding <em>de novo</em>, which meant that it had effectively treating the claim as if it had been a \"non-core\" claim.</p>\n"
+}

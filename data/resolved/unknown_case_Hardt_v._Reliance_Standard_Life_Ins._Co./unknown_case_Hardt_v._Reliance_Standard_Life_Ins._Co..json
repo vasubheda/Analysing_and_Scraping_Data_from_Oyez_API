@@ -1,0 +1,42 @@
+{
+    "ID": 55671,
+    "name": "Hardt v. Reliance Standard Life Ins. Co.",
+    "href": "https://api.oyez.org/cases/2009/09-448",
+    "view_count": 0,
+    "docket_number": "09-448",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1263535200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40463"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1272258000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40464"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1274677200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40465"
+        }
+    ],
+    "question": "<p>1) Did the Fourth Circuit err in holding that ERISA Section 502(g)(1) provides a district court discretion to award reasonable attorneys' fees only to a prevailing party?</p>\n<p>2) Is a party entitled to attorneys' fees pursuant to Section 502(g)(1) when the party persuades a district court that an ERISA violation has occurred, successfully secures a judicially ordered remand requiring redetermination of entitlement benefits, and receives the benefits sought on remand?</p>\n",
+    "citation": {
+        "volume": "560",
+        "page": "242",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19593"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that a party is entitled to attorneys' fees pursuant to Section 502(g)(1) of the Employee Retirement Income Security Act when an ERISA violation has occurred.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/560/242/",
+    "facts_of_the_case": "<p>A Virginia federal district court remanded Bridget Hardt's claim for long-term disability benefits from Reliance Standard Life Insurance (\"Reliance\"). The court asked Reliance to reconsider its denial of Ms. Hardt's claim. Upon remand and after Ms. Hardt presented new evidence, Reliance changed its earlier stance and awarded Ms. Hardt full long-term disability benefits. Ms. Hardt then filed a motion for attorneys' fees based on her status as a prevailing party. The district court granted her motion and awarded her $39,149 in fees.</p>\n<p>On appeal, Reliance argued that Ms. Hardt was not a \"prevailing party\" as understood by the Employee Retirement Income Security Act and thus was not eligible for an award of attorneys' fees. The U.S. Court of Appeals for the Fourth Circuit agreed and reversed the district court. The court held that the district court's decision to remand Ms. Hardt's claim to Reliance did not constitute an enforceable judgment that Ms. Hardt prevailed on her claim because Reliance could have decided to deny her coverage.</p>\n",
+    "conclusion": "<p>Yes. Yes. The Supreme Court reversed, holding that a fee claimant need not be a \"prevailing party\" to be eligible for an attorney's fees award. With Justice Clarence Thomas writing for the majority, the Court reasoned that because Congress failed to include an express \"prevailing party\" requirement, to say otherwise would more closely resemble \"inventing a statute rather than interpreting one.\" The Supreme Court also held that a court may award fees and costs under the statute so long as the fee claimant has achieved \"some degree of success on the merits.\" Here, Ms. Hardt met this standard even though she failed to win summary judgment on her benefits claim. The Court reasoned that the district court found compelling evidence that she was totally disabled and obtained the remand of her case after which Reliance awarded her benefits.</p>\n<p>Justice John Paul Stevens wrote separately, concurring in part and concurring in the judgment. He cautioned that in the future the Court should examine the text, structure, and history of any other federal statute authorizing an award of fees before concluding that Congress intended the same approach as in this case.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55818,
+    "name": "Hosanna-Tabor Evangelical Lutheran Church and School v. EEOC",
+    "href": "https://api.oyez.org/cases/2011/10-553",
+    "view_count": 0,
+    "docket_number": "10-553",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1301288400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40837"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1317790800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40838"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1326261600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40839"
+        }
+    ],
+    "question": "<p>Does the ministerial exception, which prohibits most employment-related lawsuits against religious organizations by employees performing religious functions, apply to a teacher at a religious elementary school who teaches the full secular curriculum, but also teaches daily religion classes, is a commissioned minister, and regularly leads students in prayer and worship?</p>\n",
+    "citation": {
+        "volume": "565",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19740"
+    },
+    "term": "2011",
+    "description": "A case in which the Court found that a woman employed by a religious school who taught daily religion classes, was a commissioned minister, and regularly lead students in prayer and worship, did not have grounds to sue the school under the Ministerial Exception.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/565/171/",
+    "facts_of_the_case": "<p>Cheryl Perich filed a lawsuit against the Hosanna-Tabor Evangelical Lutheran Church and School in Redford, Mich., for allegedly violating the Americans with Disabilities Act when they fired her after she became sick in 2004. After several months on disability, Perich was diagnosed and treated for narcolepsy and was able to return to work without restrictions. But she said the school at that point urged her to resign and, when she refused, fired her.</p>\n<p>Perich filed a complaint with the Equal Employment Opportunity Commission, which ruled in her favor and authorized a lawsuit against the school. Attorneys representing Hosanna-Tabor Evangelical Lutheran Church and School argued that the \"ministerial exception\" under the First Amendment should apply in their client's case. The exception gives religious institutions certain rights to control employment matters without interference from the courts. The district court granted summary judgment in favor of the school, but the United States Court of Appeals for the Sixth Circuit overturned that ruling and remanded the case back to the lower court for a full trial on the merits. The court held that Perich's role at the school was not religious in nature, and therefore the ministerial exception did not apply.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous decision written by Chief Justice John Roberts, the Court held that Perich was a minister for the purposes of the Civil Rights Act's ministerial exception, dismissing Perich's suit and her claims for damages. Chief Justice Roberts described the history of the \"ministerial exception\", established by courts to prevent state interference with the governance of churches, a violation of the First Amendment's establishment and free exercise clauses. He rejected the EEOC and Perich's argument that these clauses of the First Amendment are irrelevant to Hosanna-Tabor's right to choose its ministers.</p>\n<p>Chief Justice Roberts concluded that Perich indeed functioned as a minister in her role at Hosanna-Tabor, in part because Hosanna-Tabor held her out as a minister with a role distinct from that of its lay teachers. He also noted that Perich held herself to be a minister by accepting the formal call to religious service required for her position. Chief Justice Roberts acknowledged that Perich performed secular duties in her position and that lay teachers performed the same religious duties as Perich, but reasoned that Perich's status as a commissioned minister outweighed these secular aspects of her job. He also rejected the EEOC and Perich's suggestion that Hosanna-Tabor's religious reason for firing Perich was pretextual, explaining that the purpose of the ministerial exception is not limited to hiring and firing decisions made for religious reasons.</p>\n"
+}

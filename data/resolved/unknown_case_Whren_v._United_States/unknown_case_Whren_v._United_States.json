@@ -1,0 +1,35 @@
+{
+    "ID": 54448,
+    "name": "Whren v. United States",
+    "href": "https://api.oyez.org/cases/1995/95-5841",
+    "view_count": 0,
+    "docket_number": "95-5841",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                829717200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37702"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                834382800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37703"
+        }
+    ],
+    "question": "<p>Did the officers conduct an unreasonable search and seizure in violation of the Fourth Amendment?</p>\n",
+    "citation": {
+        "volume": "517",
+        "page": "806",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18377"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/517/806/",
+    "facts_of_the_case": "<p>Whren and Brown were driving in a 'high drug area.' Some plainclothes officers, while patrolling the neighborhood in an unmarked vehicle, noticed Whren and Brown sitting in a truck at an intersection stop-sign for an usually long time. Suddenly, without signaling, Whren turned his truck and sped away. Observing this traffic violation, the officers stopped the truck. When they approached the vehicle, the officers saw Whren holding plastic bags of crack cocaine. Whren and Brown were arrested on federal drug charges. Before trial, they moved to suppress the evidence contending that the officers used the traffic violation as a pretext for stopping the truck because they lacked either reasonable suspicion or probable cause to stop them on suspicion of drug dealing. The District Court denied the motion to suppress and convicted the petitioners. The Court of Appeals affirmed. The Supreme Court granted certiorari.</p>\n",
+    "conclusion": "<p>No. The unanimous Court held that as long as officers have a reasonable cause to believe that a traffic violation occurred, they may stop any vehicle. In the present case, the officers had reasonable cause to stop the petitioners for a traffic violation since they sped away from a stop sign at an 'unreasonable speed' and without using their turn signal. Thus, since an actual traffic violation occurred, the ensuing search and seizure of the offending vehicle was reasonable, regardless of what other personal motivations the officers might have had for stopping the vehicle. Furthermore, the Court rejected the claim that the anxiety, confusion, and haste which the petitioners experienced from the stop-and-search outweighed the government's interest in traffic safety. While the Fourth Amendment does require a balancing test between a search-and-seizure's benefits and the harm it might cause to the individual, such a test only applies to unusually harmful searches and seizures. There was nothing unusually harmful about this traffic stop.</p>\n"
+}

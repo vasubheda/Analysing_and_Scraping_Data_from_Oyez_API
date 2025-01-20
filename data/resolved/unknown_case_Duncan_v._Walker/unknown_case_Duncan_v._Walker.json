@@ -1,0 +1,35 @@
+{
+    "ID": 54884,
+    "name": "Duncan v. Walker",
+    "href": "https://api.oyez.org/cases/2000/00-121",
+    "view_count": 0,
+    "docket_number": "00-121",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                985586400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38509"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                992840400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38510"
+        }
+    ],
+    "question": "<p>Is a federal habeas corpus petition is an \"application for State post-conviction or other collateral review\" within the meaning of 28 USC section 2244(d)(2), such that the one-year statute-of-limitations period under the Antiterrorism and Effective Death Penalty Act is tolled?</p>\n",
+    "citation": {
+        "volume": "533",
+        "page": "167",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18813"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/533/167/",
+    "facts_of_the_case": "<p>28 USC section 2244(d)(2) provides that the \"time during which a properly filed application for State post-conviction or other collateral review with respect to the pertinent judgment or claim is pending shall not be counted toward any period of limitation under this subsection.\" In 1996, Sherman Walker filed a federal habeas petition under section 2254. The District Court dismissed the petition because it concluded that Walker had not exhausted available state remedies. In 1997, without returning to state court, Walker filed another federal habeas petition. Th District Court dismissed the petition because it had not been filed within a reasonable time from the Antiterrorism and Effective Death Penalty Act of 1996's effective date. In reversing, the Court of Appeals found that Walker's first federal habeas petition was an application for \"other collateral review\" that tolled the limitation period under section 2244(d)(2) and made his current petition timely.</p>\n",
+    "conclusion": "<p>No. In a 7-2 opinion delivered by Justice Sandra Day O'Connor, the Court held that an federal habeas corpus petition is not an \"application for State post-conviction or other collateral review\" within the meaning of 28 USC section 2244(d)(2). \"Section 2244(d)(2) therefore did not toll the limitation period during the pendency of [Walker's] first federal habeas petition,\" wrote Justice O'Connor. \"[I]f the statute were construed so as to give applications for federal review the same tolling effect as applications for state collateral review, then [section] 2244(d)(2) would furnish little incentive for individuals to seek relief from the state courts before filing federal habeas petitions,\" concluded Justice O'Connor.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55768,
+    "name": "Tolentino v. New York",
+    "href": "https://api.oyez.org/cases/2010/09-11556",
+    "view_count": 0,
+    "docket_number": "09-11556",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1289800800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40707"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1300683600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40708"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1301374800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40709"
+        }
+    ],
+    "question": "<p>Can an individual's motor vehicle records be used as evidence if the police consulted those records only after making an illegal stop of the individual's vehicle?</p>\n",
+    "citation": {
+        "volume": "563",
+        "page": "123",
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19690"
+    },
+    "term": "2010",
+    "description": "A case the Court dismissed, which would have considered whether an individual's motor vehicle records may be used as evidence if the police consulted those records only after making an illegal stop of the individual's vehicle. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/563/123/",
+    "facts_of_the_case": "<p>Jose Tolentino was pulled over for playing his music too loudly. The officer ran a check on Tolentino's DMV files and discovered that not only was his license suspended, but it had also been suspended at least 10 times prior. Tolentino was arrested and charged with first-degree aggravated unlicensed operation of a motor vehicle. He pleaded guilty in exchange for five years' probation. He later appealed, claiming his driving record should have been suppressed, because the police stop and subsequent DMV record search were illegal. The Court of Appeals of New York, the state's highest court, disagreed and upheld his sentence.</p>\n",
+    "conclusion": "<p>In a per curiam opinion, the case was dismissed as improvidently granted.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 63617,
+    "name": "Gonzalez v. Trevino",
+    "href": "https://api.oyez.org/cases/2023/22-1025",
+    "view_count": 0,
+    "docket_number": "22-1025",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1697173200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55349"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1710910800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55420"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1718859600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55491"
+        }
+    ],
+    "question": "<p>Did the Fifth Circuit err in requiring petitioner Sylvia Gonzalez to provide specific comparator evidence to support her retaliatory arrest claim?</p>\n",
+    "citation": {
+        "volume": "602",
+        "page": null,
+        "year": "2024",
+        "href": "https://api.oyez.org/case_citation/case_citation/27982"
+    },
+    "term": "2023",
+    "description": "A case in which the Court will decide whether the probable-cause exception in Nieves v. Barlett can be satisfied by objective evidence other than specific examples of arrests that never happened; and whether Nieves is limited to individual claims against arresting officers for split-second arrests.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/602/22-1025/",
+    "facts_of_the_case": "<p>Sylvia Gonzalez, a resident of Castle Hills, Texas, was elected to the city council in 2019. During her campaign, she learned of widespread dissatisfaction with the current city manager. After taking office, she organized a nonbinding petition calling for the manager's removal. The petition was presented at a contentious council meeting, after which Mayor Edward Trevino questioned Gonzalez about the petition's location, found in her binder. Two days later, Trevino initiated a criminal complaint against Gonzalez for allegedly stealing the petition. Despite an atypical legal process involving Chief-of-Police John Siemens and special detective Alex Wright, Gonzalez was arrested and spent a night in jail. She is no longer on the council and has refrained from public political activity.</p>\n<p>Gonzalez sued Trevino, Siemens, Wright, and the city (collectively, the Defendants) for violating her First and Fourteenth Amendment rights. She argued that the arrest was in retaliation for engaging in conduct protected by the First Amendment, but she conceded that there was probable cause for the arrest. In support of her retaliation claim, she cited a decade-long review of misdemeanor and felony data in Bexar County that showed no similar cases.</p>\n<p>\u00a0</p>\n<p>The Defendants moved to dismiss her lawsuit on grounds of the independent-intermediary doctrine and qualified immunity, but the district court allowed Gonzalez\u2019s claims to proceed. On appeal, the U.S. Court of Appeals for the Fifth Circuit reversed, finding that the outcome was controlled by the U.S. Supreme Court\u2019s decision in Nieves v. Bartlett, holding that, in general, the existence of probable cause will defeat a retaliatory arrest claim. The Fifth Circuit noted that Gonzalez\u2019s facts did not trigger the narrow exception recognized in Nieves, under which a plaintiff need not plead lack of probable cause \u201cwhere officers have probable cause to make arrests, but typically exercise their discretion not to do so.\u201d</p>\n",
+    "conclusion": "<p>In requiring petitioner Sylvia Gonzalez to provide specific comparator evidence to support her retaliatory arrest claim, the Fifth Circuit did not properly apply the principles of Nieves v. Bartlett, 587 U. S. 391 (2019). In a per curiam (unsigned) opinion, the Court held that the Fifth Circuit did not properly apply the principles described in Nieves. The only express limit the Court described in Nieves was that the evidence a plaintiff presents must be objective.</p>\n<p>Justice Samuel Alito concurred with the Court\u2019s decision but wrote separately to provide additional guidance on the scope of the Nieves exception, emphasizing that it is a narrow exception to the no-probable-cause requirement for retaliatory arrest claims and that the rule applies to all such claims, not just those involving split-second decisions.</p>\n<p>Justice Brett Kavanaugh concurred with the per curiam opinion but argued that Gonzalez\u2019s case does not actually involve the Nieves exception, as her claim is about probable cause regarding her mental state rather than a conduct-based comparison, making the Court\u2019s grant of certiorari misplaced.</p>\n<p>Justice Ketanji Brown Jackson, joined by Justice Sonia Sotomayor, concurred with the per curiam opinion but emphasized that plaintiffs can use various types of objective evidence beyond surveys to satisfy the Nieves exception, including unusual arrest procedures or indications of retaliatory motives in arrest documents.</p>\n<p>Justice Clarence Thomas authored a dissenting opinion, arguing that plaintiffs bringing First Amendment retaliatory-arrest claims under \u00a7 1983 should be required to prove a lack of probable cause. He asserted that the common-law torts most analogous to retaliatory-arrest claims (false imprisonment, malicious arrest, and malicious prosecution) all required proving absence of probable cause. Thus he rejects the abuse-of-process analogy and criticized the Court for expanding the Nieves exception, asserting that there is no historical basis for this exception and that the Court should not craft \u00a7 1983 rules as a matter of policy.</p>\n"
+}

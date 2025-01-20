@@ -1,0 +1,42 @@
+{
+    "ID": 55247,
+    "name": "Arthur Andersen LLP v. United States",
+    "href": "https://api.oyez.org/cases/2004/04-368",
+    "view_count": 0,
+    "docket_number": "04-368",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1105077600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39303"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1114578000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39304"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1117515600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39305"
+        }
+    ],
+    "question": "<p>Did the jury instructions in the Arthur Andersen trial properly convey the elements of a \"corrupt persuasion\" conviction under federal document-handling law?</p>\n",
+    "citation": {
+        "volume": "544",
+        "page": "696",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19175"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/544/696/",
+    "facts_of_the_case": "<p>As Enron's financial difficulties became public in 2001, Arthur Andersen instructed its employees to destroy Enron-related documents. This was consistent with Andersen's document retention policy. The government later charged Andersen for violating federal law, which made it a crime to \"knowingly...corruptly persuade another person\" to \"withold\" or \"alter\" documents in an \"offical proceeding.\" The federal jury found Andersen guilty. The company appealed, arguing the jury instructions failed to convey the elements of a \"corrupt persuasion\" conviction - specifically, that a \"consciousness of wrongdoing\" was required. The Fifth Circuit affirmed the conviction.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Chief Justice William H. Rehnquist, the Court held that the jury instructions failed to convey that the federal document law required a \"consciousness of wrongdoing\" for conviction. There was nothing inherently corrupt in ordering employees to destroy documents, even if the aim was to keep the documents from the government. Thus, contrary to what the jurors had been told, Andersen could be convicted only if the persuaders were shown to be conscious that they were behaving corruptly.</p>\n"
+}

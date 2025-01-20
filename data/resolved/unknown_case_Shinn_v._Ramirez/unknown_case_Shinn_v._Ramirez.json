@@ -1,0 +1,42 @@
+{
+    "ID": 63369,
+    "name": "Shinn v. Ramirez",
+    "href": "https://api.oyez.org/cases/2021/20-1009",
+    "view_count": 0,
+    "docket_number": "20-1009",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1621227600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54909"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1638943200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55002"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1653282000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55102"
+        }
+    ],
+    "question": "<p>Does the Court\u2019s decision in Martinez v. Ryan render the Antiterrorism and Effective Death Penalty Act inapplicable to a federal court\u2019s merits review of a claim for habeas relief?</p>\n",
+    "citation": {
+        "volume": "596",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27821"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held that under 28 U.S.C. \u00a72254(e)(2), a federal habeas court may not conduct an evidentiary hearing or otherwise consider evidence beyond the state-court record based on the ineffective assistance of state postconviction counsel.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/596/20-1009/",
+    "facts_of_the_case": "<p>David Ramirez was convicted by a jury and sentenced to death by a judge for the 1989 murders of his girlfriend and her daughter. On direct appeal, the Arizona Supreme Court affirmed his convictions and sentence, including the trial court\u2019s assessment of aggravating and mitigating circumstances and imposition of the death sentence. The United States Supreme Court denied certiorari.</p>\n<p>Ramirez filed a petition for post-conviction relief in state court, alleging various claims, but did not claim ineffective assistance of trial counsel. The state court denied his petition, and the Arizona Supreme Court denied the petition for review. Ramirez then filed a petition for habeas relief in federal district court. The court substituted his counsel \u201cdue to concerns regarding the quality of representation\u201d and allowed Ramirez to amend his petition to add the ineffective assistance of counsel claim. However, the court ultimately found the claim procedurally defaulted because Ramirez had not raised it earlier.</p>\n<p>In 2012, while Ramirez\u2019s appeal was pending before the U.S. Court of Appeals for the Ninth Circuit, the Supreme Court held in Martinez v. Ryan that a federal court cannot consider evidence outside the state-court record when reviewing the merits of a claim for habeas relief if a prisoner or his attorney failed to diligently develop the claim\u2019s factual basis in state court, but \u201ca procedural default will not bar a federal habeas court from hearing a substantial claim of ineffective assistance at trial if, in the initial-review collateral proceeding, there was no counsel or counsel in that proceeding was ineffective.\u201d</p>\n<p>In light of Martinez, the Ninth Circuit remanded for reconsideration of whether post-conviction counsel\u2019s ineffectiveness was cause to overcome the procedural default of the ineffective assistance of counsel claim. The district court again determined that Ramirez\u2019s claim of ineffective assistance of trial counsel was procedurally barred and denied Ramirez\u2019s request for more evidence. The Ninth Circuit reversed, finding Ramirez demonstrated cause and prejudice to overcome the procedural default of his ineffective assistance of trial counsel claim.</p>\n",
+    "conclusion": "<p>Under 28 U.S.C. \u00a72254(e)(2), a federal habeas court may not conduct an evidentiary hearing or otherwise consider evidence beyond the state-court record based on the ineffective assistance of state postconviction counsel. Justice Clarence Thomas authored the 6-3 majority opinion of the Court.</p>\n<p>Federal habeas relief is narrowly available because it overrides a state\u2019s power to enforce criminal law and incurs certain costs. For example, a federal order to retry or release a state prisoner overrides the state\u2019s power to enforce \u201csocietal norms through criminal law,\u201d and federal intervention imposes significant costs on state criminal justice systems. Thus, federal habeas relief is an \u201cextraordinary remedy\u201d that guards only against \u201cextreme malfunctions in the state criminal justice systems.\u201d</p>\n<p>The Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA) requires state prisoners to exhaust state remedies before seeking federal habeas relief. The doctrine of procedural default generally prevents federal courts from hearing any federal claim not presented in state court according to the state\u2019s own procedural rules. A federal court may excuse procedural default only in narrow circumstances: the prisoner must demonstrate cause for the default and prejudice as a result of the alleged violation of federal law. Attorney error cannot generally serve as such \u201ccause.\u201d Specifically, state postconviction counsel\u2019s ineffective assistance in developing the record is attributed to the prisoner, as there is no constitutional right to counsel in state postconviction proceedings.</p>\n<p>Justice Sonia Sotomayor authored a dissenting opinion, in which Justices Stephen Breyer and Elena Kagan joined. Justice Sotomayor argued that the Court \u201cguts\u201d the reasoning of two key precedents establishing that a habeas petitioner is not at fault for any failure to bring a trial-ineffectiveness claim in state court and \u201carrogates power from Congress\u201d by \u201creconfigur[ing] the balance Congress struck [in AEDPA] between state interests and individual constitutional rights.\u201d</p>\n"
+}

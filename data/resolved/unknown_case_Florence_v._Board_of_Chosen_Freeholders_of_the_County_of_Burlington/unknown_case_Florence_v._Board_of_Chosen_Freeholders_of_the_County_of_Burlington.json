@@ -1,0 +1,42 @@
+{
+    "ID": 55852,
+    "name": "Florence v. Board of Chosen Freeholders of the County of Burlington",
+    "href": "https://api.oyez.org/cases/2011/10-945",
+    "view_count": 0,
+    "docket_number": "10-945",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1301893200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40929"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1318395600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40930"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1333342800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40931"
+        }
+    ],
+    "question": "<p>Does the Fourth Amendment permit a jail to conduct a suspicion-less strip search whenever an individual is arrested, including for minor offenses?</p>\n",
+    "citation": {
+        "volume": "566",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19774"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that prisons that conduct suspicion-less strip searches on incoming inmates do not violate the prisoner's Fourth Amendment rights.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/566/318/",
+    "facts_of_the_case": "<p>Albert Florence was searched twice in seven days after he was arrested on a warrant for a traffic violation he had already paid. Florence filed a lawsuit against officials at the two jails, contending the jailhouse searches were unreasonable because he was being held for failure to pay a fine, which is not a crime in New Jersey.</p>\n<p>U.S. District Court Judge Joseph H. Rodriguez ruled that the strip search of Florence violated the Constitution. However, officials representing both Burlington and Essex Counties appealed the decision. The U.S. Court of Appeals for the Third Circuit reversed, holding that it is reasonable to search everyone being jailed, even without suspicion that a person may be concealing a weapon or drugs.</p>\n",
+    "conclusion": "<p>Yes. Justice Anthony M. Kennedy, writing for a 5-4 majority, affirmed the lower court, holding that the strip searches for inmates entering the general population of a prison do not violate the Fourth Amendment. The Court concluded that a prisoner's likelihood of possessing contraband based on the severity of the current offense or an arrestee's criminal history is too difficult to determine effectively. The Court pointed out instances, such as the arrest of Timothy McVeigh, in which an individual who commits a minor traffic offense is capable of extreme violence. Correctional facilities have a strong interest in keeping their employees and inmates safe. A general strip search policy adequately and effectively protects that interest. The Court did note that there may be an exception to this rule when the arrestees are not entering the general population and will not have substantial contact with other inmates. Chief Justice John G. Roberts Jr., Justice Antonin Scalia, and Justice Samuel A. Alito Jr. joined the majority in its entirety. Justice Clarence Thomas joined the majority except with respect to the potential exceptions to the rule.</p>\n<p>Chief Justice Roberts filed a concurring opinion, emphasizing that the majority opinion leaves open the possibility of certain exceptions to the rule. Justice Alito also concurred, writing that the majority did not decide whether strip searches are always reasonable, only that the searches in this case were. Justice Alito wrote that strip-searching may not be reasonable for inmates held for minor offenses for a brief period of time.</p>\n<p>Justice Stephen G. Breyer dissented, expressing that strip searches of individuals arrested for minor offenses that do not involve drugs or violence are unreasonable unless the prison official has a reasonable suspicion that that individual possesses drugs or contraband. Justice Ruth Bader Ginsburg, Justice Sonia Sotomayor, and Justice Elena Kagan joined in the dissent.</p>\n<p><em>Learn more about the Roberts Court and the Fourth Amendment in <a href=\"http://projects.oyez.org/shifting-scales/\">Shifting Scales</a>, a nonpartisan Oyez resource.</em></p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55885,
+    "name": "CompuCredit Corp. v. Greenwood",
+    "href": "https://api.oyez.org/cases/2011/10-948",
+    "view_count": 0,
+    "docket_number": "10-948",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1304312400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41018"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1318309200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41019"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1326175200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41020"
+        }
+    ],
+    "question": "<p>Are claims arising under the Credit Repair Organizations Act, 15 U.S.C. \u00a7 1679 et seq., subject to arbitration pursuant to a valid arbitration agreement?</p>\n",
+    "citation": {
+        "volume": "565",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19807"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that the Credit Repair Organizations Act does not give credit card users the right to bring a suit against their card companies in court.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/565/95/",
+    "facts_of_the_case": "<p>CompuCredit marketed a subprime credit card under the brand name Aspire Visa to consumers with low or weak credit scores through massive direct-mail solicitations and the Internet. CompuCredit marketed the card and the cards were issued by Columbus Bank and Trust. Wanda Greenwood and other consumers filed suit against Compucredit and Columbus alleging violations of California's Unfair Competition Law (UCL). The lawsuit claimed that the CompuCredit and Columbus' promotional materials were deceptive because they mentioned the credit card fees in small print, buried in other information and not in proximity to the representation that no deposit was required.</p>\n<p>The United States District Court for the Northern District of California denied the credit providers' motion to compel arbitration. The United States Court of Appeals for the Ninth Circuit affirmed. The majority explained that a party must adhere to an agreement to arbitrate claims \"unless Congress itself has evinced an intention to preclude a waiver of judicial remedies for the statutory rights at issue.\" Accordingly, the \"burden is on the party opposing arbitration to show that Congress intended to preclude a waiver of judicial remedies.\"</p>\n",
+    "conclusion": "<p>Yes. In an 8-1 decision, Justice Antonin Scalia held that the disclosure provision of the Credit Repair Organizations Act (\"CROA\") does not supply consumers with a right to bring an action in a court of law. Rather, it merely imposes an obligation on credit repair organizations to give consumers a specific statement of legal rights described in the statute; the only consumer right it creates is the right to receive this statement. Justice Scalia rejected Greenwood's contention that the CROA overrides the Federal Arbitration Act's (\"FAA\") requirement that courts enforce arbitration agreements. He cited cases where the Court held that a formulation of a cause of action did not establish a congressional command to override the FAA.</p>\n<p>Justice Scalia also argued that even if the CROA creates a nonwaivable right to judicial enforcement, this could include a judicial action involving initial adjudication through arbitration. He noted that arbitration agreements were commonplace when the CROA was enacted in 1996, and reasoned that congress would surely have been less obtuse if it intended to override all arbitration agreements with credit repair organizations.</p>\n<p>Justice Sonia Sotomayer concurred, joined by Justice Elena Kagan. Justice Sotomayer argued that Greenwood and CompuCredit's interpretations of the CROA were equally compelling given the lack of clear congressional intent. Hence, precedent requires that CompuCredit prevails, because the burden of showing congress disallowed arbitration lies with Greenwood. She also, however, rejected the majority's notion that congress must speak so explicitly to preclude arbitration of statutory claims.</p>\n<p>Justice Ruth Ginsburg dissented, rejecting the majority's formalistic interpretation of the CRO; here, congress' intended target was vulnerable consumers likely to read the words \"right to sue\" to mean the right to litigate in court. She distinguished the case from other decisions holding that a statutory right of action does not preclude arbitration agreements, noting that the CROA specifically refers to a \"right to sue\", mandates that consumers be informed of this right, and precludes the waiver of any \"right\" conferred by the act.</p>\n"
+}

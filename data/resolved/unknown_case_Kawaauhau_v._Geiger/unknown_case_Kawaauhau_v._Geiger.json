@@ -1,0 +1,35 @@
+{
+    "ID": 54657,
+    "name": "Kawaauhau v. Geiger",
+    "href": "https://api.oyez.org/cases/1997/97-115",
+    "view_count": 0,
+    "docket_number": "97-115",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                885362400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38090"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                888904800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38091"
+        }
+    ],
+    "question": "<p>Does a debt arising from a medical malpractice judgment, attributable to negligent or reckless conduct, fall within section 523(a)(6) of the Bankruptcy Code, which provides that a debt \"for willful and malicious injury by the debtor to another\" is not dischargeable?</p>\n",
+    "citation": {
+        "volume": "523",
+        "page": "57",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18586"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/523/57/",
+    "facts_of_the_case": "<p>In 1983, Margaret Kawaauhau sought treatment from Dr. Paul Geiger for a foot injury. Later, Geiger cancelled Kawaauhau's transfer, by other physicians, to an infectious disease specialist. Ultimately, Kawaauhau required that her right leg be amputated below the knee. In the subsequently malpractice suit, a jury awarded Kawaauhau approximately $355,000 in damages. Geiger, who carried no malpractice insurance, ultimately filed for bankruptcy. Kawaauhau requested the Bankruptcy Court to hold the malpractice judgment nondischargeable under 11 USC section 523(a)(6), which provides that a \"discharge [in bankruptcy]... does not discharge an individual debtor from any debt... for willful and malicious injury... to another.\" The court held the debt nondischargeable. The District Court affirmed. In reversing, the Court of Appeals held that section 523(a)(6)'s exemption from discharge is confined to debts for an intentional tort, so that a debt for malpractice remains dischargeable because it is based on negligent or reckless conduct.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Ruth Bader Ginsburg, the Court held that \"debts arising from recklessly or negligently inflicted injuries do not fall within the compass of [section 523(a)(6)].\" Therefore, the debt is dischargeable. Justice Ginsburg wore for the Court that \"[t]he word 'willful' in [section 523(a)(6)] modifies the word 'injury,' indicating that nondischargeability takes a deliberate or intentional injury, not merely a deliberate or intentional act that leads to injury. Had Congress meant to exempt debts resulting from unintentionally inflicted injuries, it might have described instead 'willful acts that cause injury.' Or, Congress might have selected an additional word or words, i.e., 'reckless' or 'negligent,' to modify 'injury.'\"</p>\n"
+}

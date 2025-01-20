@@ -1,0 +1,42 @@
+{
+    "ID": 62631,
+    "name": "Betterman v. Montana",
+    "href": "https://api.oyez.org/cases/2015/14-1457",
+    "view_count": 0,
+    "docket_number": "14-1457",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1449208800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53345"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1459141200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53418"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1463634000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53616"
+        }
+    ],
+    "question": "<p>Is it a violation of the Sixth Amendment right to a speedy trial to postpone sentencing for fourteen months after a guilty plea has been issued?</p>\n",
+    "citation": {
+        "volume": "578",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27387"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that the Sixth Amendment\u2019s guarantee of a speedy trial does not extend past a guilty verdict or guilty plea.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/578/14-1457/",
+    "facts_of_the_case": "<p>Brandon Thomas Betterman failed to appear in court on December 8, 2011, on charges of partner or family member assault, and a warrant was issued for his arrest. On February 9, 2012, Betterman turned himself in and stated that he knew he was supposed to appear in court but claimed he had neither money nor transportation to get to the courthouse that day. He was convicted on March 15, 2012, and sentenced to five years. On April 19, 2012, he pled guilty to the charges of jumping bail. His sentence hearing did not occur until January 17, 2013, when he filed a motion to dismiss on the grounds that he was denied a speedy and fair trial due to the amount of time that had lapsed between his guilty plea and sentencing hearing. On April 29, 2013, his motion was denied, and on June 27, 2013, Betterman was sentenced to seven years for his bail-jumping charge. The Supreme Court of Montana held that the delay between Betterman\u2019s plea and sentencing was unacceptably long but had not violated his rights to fair and speedy trial.</p>\n",
+    "conclusion": "<p>The Sixth Amendment\u2019s guarantee of a speedy trial does not extend past a guilty verdict or guilty plea. Justice Ruth Bader Ginsburg delivered the opinion of the unanimous Court, which held that, although a defendant may have other recourse for an inordinate delay in sentencing, the Sixth Amendment does not apply to post-conviction, pre-sentencing delays. This reading of the Sixth Amendment is in line with the historical understanding of what the right protects: The right of the accused to have a speedy trial. Because \u201cthe accused\u201d is different from \u201cthe convicted,\u201d extending the Sixth Amendment right to post-conviction procedures would change the nature of the right. The manner in which legislatures and courts have interpreted the right, as well as the remedies available for a violation of the right, are also in line with the time-limited reading. The Due Process Clause of the Fourteenth Amendment and the Federal Rules of Criminal Procedure, as well as many states\u2019 rules of criminal procedure, provide some protections against undue delays in sentencing, but the Sixth Amendment does not.</p>\n<p>In his concurring opinion, Justice Clarence Thomas wrote that the Court\u2019s opinion leaves open the question of whether an undue sentencing delay would violate a defendant\u2019s rights under the Due Process Clause of the Fourteenth Amendment and that it\u2019s not clear what test the Court would use in adjudicating such a case. Justice Samuel A. Alito, Jr. joined in the concurrence. Justice Sonia Sotomayor wrote a separate concurring opinion in which she emphasized that the question of when an undue delay in sentencing violated the Due Process Clause was an open one. Justice Sotomayor argued that a possible test would be based on an analysis of four factors: The length of the delay, the reason for the delay, the defendant\u2019s assertion of his right, and the prejudice to the defendant.</p>\n"
+}

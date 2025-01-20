@@ -1,0 +1,42 @@
+{
+    "ID": 55177,
+    "name": "Household Credit Services, Inc. v. Pfennig",
+    "href": "https://api.oyez.org/cases/2003/02-857",
+    "view_count": 0,
+    "docket_number": "02-857",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1056690000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39112"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1077516000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39113"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1082523600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39114"
+        }
+    ],
+    "question": "<p>Was the Federal Reserve Board's exclusion of over-limit fees from the definition of \"finance charges\" a reasonable interpretation of the Truth in Lending Act?</p>\n",
+    "citation": {
+        "volume": "541",
+        "page": "232",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19105"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/541/232/",
+    "facts_of_the_case": "<p>Sharon Pfennig went over her $2000 credit limit. The company that issued Pfennig her credit card, Household Credit Services, Inc., charged her a fee of $29 for each month that her balance remained over $2000. This fee was listed in the \"Purchases\" category on her monthly statement rather than as a \"finance charge.\" Under the Truth in Lending Act (TILA), any charges \"incident to the extension of credit\" must be listed separately as \"finance charges.\"</p>\n<p>Household Credit Services chose not to list the over-limit fee as a \"finance charge,\" however, based on the Federal Reserve Board's definition of the term, which explicitly excludes \"charges ... for exceeding a credit limit.\" Pfenning countered that the Board's definition was an unreasonable interpretation of TILA's plain language and should therefore be disregarded.</p>\n<p>The district court sided with Household Credit Services, finding that the the Federal Reserve Board had properly exercised its authority under TILA to define the term, that the definition was a reasonable interpretation of TILA, and that the credit company was therefore justified in relying on its definition. The Sixth Circuit Court of Appeals reversed.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous decision written by Justice Clarence Thomas, the Court found that the Board's definition of \"finance charge\" was reasonable under the language of TILA. Because neither side challenged the authority of the Board to interpret the act (Pfennig just challenged its end result as unreasonable), under Chevron USA Inc. v. Natural Resources Defense Council, 467 U.S. 837, the Court would have to find that the Board's regulation was clearly contrary to the unambiguous intent of Congress in order to overturn it. Finding that Congress's intent with respect to over-limit fees was ambiguous, Justice Thomas wrote that the regulation was entitled to deference and the credit company's reliance on it could therefore not be punished.</p>\n"
+}

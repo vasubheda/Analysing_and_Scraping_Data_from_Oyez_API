@@ -1,0 +1,35 @@
+{
+    "ID": 54661,
+    "name": "New Jersey v. New York",
+    "href": "https://api.oyez.org/cases/1997/120_orig",
+    "view_count": 0,
+    "docket_number": "120-orig",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                884584800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38098"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                896158800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38099"
+        }
+    ],
+    "question": "<p>Are the filled portions on Jersey's Side of Ellis Island under the sovereign authority of the State of New York or the State of New Jersey?</p>\n",
+    "citation": {
+        "volume": "523",
+        "page": "767",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18590"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/523/767/",
+    "facts_of_the_case": "<p>Under an 1834 compact between New York and New Jersey, Ellis Island was deemed part of New York. It was later determined, by the Supreme Court, that New Jersey would have sovereign rights over all submerged lands on its side of the Hudson River. During the time Ellis Island was used to receive immigrants, the Federal Government filled around the island adding some 24.5 acres to its original size over 42 years. When immigration was diverted from Ellis Island in 1954, New York and New Jersey asserted rival sovereignty claims over the Island's filled portions. New Jersey finally invoked the Supreme Court's original jurisdiction to solve the matter once and for all time.</p>\n",
+    "conclusion": "<p>The Court held that the 1834 compact between the two states, although granting New York sovereignty over Ellis Island, did not support an inference that any portions added to the island's New Jersey side would also belong to New York. The lack of meets and bounds descriptions in the compact indicated that it merely applied to Ellis Island as it existed in 1834, and did not contemplate ownership of expanded portions. Moreover, the Court noted that under the common law doctrine of avulsion, sudden shoreline changes have no effect on boundaries. Thus, since New Jersey had sovereignty over previously submerged portions of Ellis Island, it would retain such sovereignty when these portions were filled until raised above the water line on its side of the Island.</p>\n"
+}

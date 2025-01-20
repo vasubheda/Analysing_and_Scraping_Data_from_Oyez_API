@@ -1,0 +1,35 @@
+{
+    "ID": 55290,
+    "name": "Schriro v. Smith",
+    "href": "https://api.oyez.org/cases/2005/04-1475",
+    "view_count": 0,
+    "docket_number": "04-1475",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1129525200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39427"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                1129525200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53376"
+        }
+    ],
+    "question": "<p>Does the mental retardation claim of a capital defendant have to be resolved by a jury trial?</p>\n",
+    "citation": {
+        "volume": "546",
+        "page": "6",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19218"
+    },
+    "term": "2005",
+    "description": "A case in which the Court held that individual states may determine appropriate measures for adjudicating claims of mental retardation.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/546/6/",
+    "facts_of_the_case": "<p>In 1982, Robert Douglas Smith was sentenced to death for murder, kidnapping, and sexual assault in an Arizona state court. Smith filed a petition for a writ of federal habeas corpus in district court that was denied. After the Supreme Court decided <em>Atkins v. Virginia</em>, which stated that a mentally retarded person cannot be executed, Smith appealed to the U.S. Court of Appeals for the Ninth Circuit and argued that he was mentally retarded and therefore could not be executed. The appellate court held that the issue of whether or not Smith was mentally retarded had to be decided by a jury.</p>\n",
+    "conclusion": "<p>In a per curiam decision, the Court held that the U.S. Court of Appeals for the Ninth District erred in commanding the Arizona courts to conduct a jury trial to resolve Smith\u2019s mental retardation claim. The Court\u2019s decision in <em>Atkins v. Virginia</em> clearly states that \u201cwe leave to the State[s] the task of developing appropriate ways to enforce the constitutional restriction upon [their] execution of sentences.\u201d Because Arizona, like other states, has developed its own ways for adjudicating claims of mental retardation, those processes should be observed.</p>\n"
+}

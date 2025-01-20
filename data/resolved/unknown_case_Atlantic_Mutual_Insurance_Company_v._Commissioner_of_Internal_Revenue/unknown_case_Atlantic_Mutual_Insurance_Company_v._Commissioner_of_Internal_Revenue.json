@@ -1,0 +1,35 @@
+{
+    "ID": 54669,
+    "name": "Atlantic Mutual Insurance Company v. Commissioner of Internal Revenue",
+    "href": "https://api.oyez.org/cases/1997/97-147",
+    "view_count": 0,
+    "docket_number": "97-147",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                888818400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38114"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                893134800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38115"
+        }
+    ],
+    "question": "<p>Is the government's interpretation of reserve strengthening correct in determining property and casualty insurers' liability?</p>\n",
+    "citation": {
+        "volume": "523",
+        "page": "382",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18598"
+    },
+    "term": "1997",
+    "description": "To determine the meaning of \"reserve strengthening\" in the Tax Reform Act of 1986",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/523/382/",
+    "facts_of_the_case": "<p>The Internal Revenue Code allowed property and casualty insurers to fully deduct \"loss reserves,\" or unpaid losses. The Tax Reform Act of 1986 altered the deduction formula. Under the Act, increases in loss reserves that constitute \"reserve strengthening,\" or additions to the loss reserve, were excepted from a one time tax benefit because it would result in a tax deficiency. Treasury regulation and the Commissioner of Internal Revenue interpreted the law to say that any increase in loss reserves constituted reserve strengthening. The Commissioner then determined Atlantic Mutual Insurance Company had engaged in reserve strengthening. The Tax Court disagreed with the government's interpretation. It held reserve strengthening referred only to increases resulting from computational methods. The Court of Appeals reversed the decision. It held reserve strengthening to encompass any increase in loss reserves.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous decision, announced by Justice Antonin Scalia, the Court ruled that the IRS interpretation of reserve strengthening seemed a \"reasonable accommodation.\" It was fair and unabusive. Furthermore, the language of the provision was broad enough to embrace all increases in the reserves.</p>\n"
+}

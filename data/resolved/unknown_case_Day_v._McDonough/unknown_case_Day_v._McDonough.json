@@ -1,0 +1,42 @@
+{
+    "ID": 55330,
+    "name": "Day v. McDonough",
+    "href": "https://api.oyez.org/cases/2005/04-1324",
+    "view_count": 0,
+    "docket_number": "04-1324",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1127797200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39536"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1141020000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39537"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1145941200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52222"
+        }
+    ],
+    "question": "<p>May a court dismiss a federal habeas petition as untimely, even after the state concedes the timeliness of the petition and submits other arguments?</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "198",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20585"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/547/198/",
+    "facts_of_the_case": "<p>Patrick Day was convicted of murder in state court. After a long delay, he filed a petition for federal review, arguing that his counsel was inadequate. Under the Antiterrorism and Effective Death Penalty Act, federal habeas corpus petitions must be filed within a one-year time limit. Day's petition was late, but the state of Florida failed to notice the untimeliness of the petition and instead addressed only the merits of Day's argument. Later a Federal Magistrate Judge did notice Day's failure to meet the deadline, and recommended to the District Court that the petition be dismissed. Day argued that by responding to the petition without disputing the timeliness, the state had forfeited the statute-of-limitations defense. The District Court disagreed and dismissed the petition. Day appealed to the Eleventh Circuit Court of Appeals, claiming that the District Court had acted unfairly when it ruled against him based on an argument that the state had not made. The Circuit Court rejected Day's argument and affirmed the District Court, ruling that the state's erroneous concession of the timeliness of the petition did not prevent the court from dismissing it.</p>\n",
+    "conclusion": "<p>Yes. In a 6-3 decision, the Court affirmed the judgment of the Circuit Court and ruled that the District Court was within its discretion when it dismissed Day's petition. The opinion by Justice Ruth Bader Ginsburg held that \"if a judge does detect a clear computation error, no Rule, statute, or constitutional provision commands the judge to suppress that knowledge.\" The majority held that federal courts are not obligated to dismiss petitions for untimeliness if the state does not raise the issue, but they may as long as they give the petitioner notice and an opportunity to dispute the timeliness. Justice Stevens joined the Court's opinion but dissented from the judgment. Justice Scalia wrote a separate dissent joined by Justices Thomas and Breyer.</p>\n"
+}

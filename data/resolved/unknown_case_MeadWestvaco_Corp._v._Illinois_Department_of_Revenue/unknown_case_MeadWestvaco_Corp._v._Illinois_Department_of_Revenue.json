@@ -1,0 +1,42 @@
+{
+    "ID": 55481,
+    "name": "MeadWestvaco Corp. v. Illinois Department of Revenue",
+    "href": "https://api.oyez.org/cases/2007/06-1413",
+    "view_count": 0,
+    "docket_number": "06-1413",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1190696400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39944"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1200463200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39945"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1208235600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39946"
+        }
+    ],
+    "question": "<p>Under the governing Supreme Court precedent, <em>Allied-Signal, Inc. v. Director, Div. of Taxation</em>, 504 U.S. 768 (1992), may a parent company use a division as a non-taxable investment when the division is involved in a substantially different business segment but the parent provides cash infusions, investment advice and oversight?</p>\n",
+    "citation": {
+        "volume": "553",
+        "page": "16",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20729"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/553/16/",
+    "facts_of_the_case": "<p>MeadWestvaco, an Ohio company, sold its lucrative Lexis/Nexis division for a $1 billion profit in 1994. Illinois attempted to claim a portion of that profit when collecting taxes from MeadWestvaco for doing business in the state. Illinois argued that Lexis/Nexis was an \"operational\" part of Mead's business and therefore subject to taxation outside Mead's home state. Mead countered that Lexis/Nexis was merely an \"investment,\" whose sale was immune from taxation from outside jurisdictions. The trial court found that the division was key to Mead's operations, and therefore taxable, and the Illinois Appellate Court agreed.</p>\n",
+    "conclusion": "<p>The Court sent the case back to the state appellate court holding that the court had previously applied the wrong test in defining the relationship between Lexis/Nexis and Meadwestvaco. Writing for seven of his colleagues, Justice Samuel A. Alito said that the appellate court, rather than applying an \"operational function\" test, should have looked for the existence of \"functional integration, centralized management and economies of scale\" between the two companies to determine whether or not they were a unitary business for tax purposes. Justice Clarence Thomas wrote a concurring opinion arguing that the Court should refuse jurisdiction over such state tax cases.</p>\n"
+}

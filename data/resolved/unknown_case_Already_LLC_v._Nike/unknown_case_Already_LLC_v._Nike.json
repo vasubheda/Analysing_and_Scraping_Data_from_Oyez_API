@@ -1,0 +1,42 @@
+{
+    "ID": 55927,
+    "name": "Already LLC v. Nike",
+    "href": "https://api.oyez.org/cases/2012/11-982",
+    "view_count": 0,
+    "docket_number": "11-982",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1340600400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41143"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1352268000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41144"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1357711200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41145"
+        }
+    ],
+    "question": "<p>Did Already's counterclaim create a justiciable controversy sufficient to allow the District Court to exercise subject matter jurisdiction?</p>\n",
+    "citation": {
+        "volume": "568",
+        "page": "85",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19849"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that a covenant not to sue invalidates a company\u2019s counterclaim for trademark enforcement.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/568/85/",
+    "facts_of_the_case": "<p>Since 1982, Nike Inc. sold a shoe called the Air Force 1. The shoe has a distinctive appearance and Nike owns multiple federal trademark registrations for the shoe's design. In July 2009, Nike filed suit against Already, LLC for selling shoes that were confusingly similar to the Air Force 1 shoe. In November 2009, Already counterclaimed and requested cancellation of Nike's trademark on the basis that it interfered with Already's ability to continue selling its shoes.</p>\n<p>To avoid further litigation, Nike provided Already with a covenant not to sue. The agreement promised that Nike would not pursue any legal action against Already with regard to trademark infringement. The District Court held a hearing to determine whether the covenant caused the court to lose subject matter jurisdiction over Already's counterclaims. Following the hearing, the District Court determined that it no longer had subject matter jurisdiction and dismissed the case. The U.S. Court of Appeals for the Second Circuit affirmed the decision, holding that the counterclaim alone did not create a case or controversy before the court; therefore the court did not have subject matter jurisdiction over the claim.</p>\n",
+    "conclusion": "<p>No. Chief Justice John G. Roberts, Jr., writing for a unanimous court, affirmed the Ninth Circuit. The Supreme Court held that Nike's covenant not to sue made the case moot. Nike met its burden to show that it \"could not reasonably be expected\" to resume trademark enforcement action against Already. The language of the covenant was broad enough that the Court could not conceive of a shoe that would fall outside of its scope. The Court also rejected Already's assertion that dismissing the case would allow Nike to enforce invalid trademarks against any competitor by continually issuing covenants not to sue. Nike has an incentive not to do this because allowing many competitors to use Nike's marks, or confusingly similar ones, could lessen the strength of Nike's mark.</p>\n<p>Justice Anthony M. Kennedy concurred, emphasizing that covenants not to sue should not be a first reaction to trademark litigation. Courts should be wary of large companies intentionally burdening smaller competitors with infringement actions only to turn around and promise not to sue after learning valuable future business information. A covenant not to sue should only terminate litigation when it meets the high burden required by in this case. Justice Clarence Thomas, Justice Samuel A. Alito, Jr., and Justice Sonia Sotomayor joined in the concurrence.</p>\n"
+}

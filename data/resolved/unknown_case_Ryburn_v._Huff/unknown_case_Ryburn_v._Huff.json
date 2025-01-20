@@ -1,0 +1,35 @@
+{
+    "ID": 55823,
+    "name": "Ryburn v. Huff",
+    "href": "https://api.oyez.org/cases/2011/11-208",
+    "view_count": 0,
+    "docket_number": "11-208",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1327298400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40851"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1327298400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40852"
+        }
+    ],
+    "question": "<p>Did the police officers violate the Fourth Amendment by entering a home without a warrant when the homeowner exhibited unusual behavior leading the officers to believe they were in danger?</p>\n",
+    "citation": {
+        "volume": "565",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19745"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that police officers did not violate a homeowner's Fourth Amendment rights when they entered the home without a warrant after observing the homeowner exhibiting unusual behavior that led to their belief the homeowner was in danger.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/565/469/",
+    "facts_of_the_case": "<p>Darin Ryburn and Edmundo Zepeda were Burbank Police Officers. Vincent Huff was a student at Bellarmine-Jefferson High School, who was rumored to be intending to \"shoot-up\" the school. Ryburn, Zepeda, and other officers arrived at the school to investigate the rumors. After conducting some interviews, the officers went to Vincent Huff's home. The officers attempted to speak with Vincent Huff and his parents. Eventually, Mrs. Huff came out of the house, but she refused to let the officers to enter her home. After the police asked if there were any weapons in the house, Mrs. Huff ran back into the house. Officer Ryburn followed Mrs. Huff into the house, because he believed that Mrs. Huff's behavior was unusual and further believed that the officers were in danger. Officer Zepeda and the other officers followed Officer Ryburn into the house. The officers briefly questioned the Huffs and left after concluding that Vincent Huff did not actually pose any danger.</p>\n<p>The Huffs brought an action against the officers. The Huffs claimed that the officers entered their home without a warrant and thereby violated the Huffs' Fourth Amendment rights. The district court entered a judgment in favor of the officers, concluding that the officers had qualified immunity because Mrs. Huff's odd behavior made it reasonable for the police to believe that they were in imminent danger. The U.S. Court of Appeals for the Ninth Circuit partially reversed the district court's ruling. The court acknowledged that the police officers could enter a home without a warrant if they reasonably believed that immediate entry was necessary to protect themselves or others from imminent serious harm, but the court concluded that the officers' belief that they were in serious immediate danger was objectively unreasonable. The officers appealed the Supreme Court.</p>\n",
+    "conclusion": "<p>No. In an unsigned, <em>per curiam</em> opinion, the Court disagreed with the lower court's decision and held that there was no Fourth Amendment violation on the facts presented by this case. The Court stated that the Fourth Amendment permits the police to enter a residence if an officer has a reasonable basis for concluding that there is an imminent threat of danger. The Court determined that reasonable police officers could have come to the conclusion that the violence was imminent and that they were therefore permitted to enter a home without a warrant.</p>\n"
+}

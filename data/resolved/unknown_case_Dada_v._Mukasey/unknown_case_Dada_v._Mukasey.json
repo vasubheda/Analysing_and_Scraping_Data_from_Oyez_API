@@ -1,0 +1,42 @@
+{
+    "ID": 55491,
+    "name": "Dada v. Mukasey",
+    "href": "https://api.oyez.org/cases/2007/06-1181",
+    "view_count": 0,
+    "docket_number": "06-1181",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1190696400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39970"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1199685600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39971"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1213592400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39972"
+        }
+    ],
+    "question": "<p>When an illegal resident agrees to voluntarily depart the United States and then files a motion to reopen removal proceedings, does the filing suspend the time period by which the illegal resident must depart the United States under the voluntary departure order?</p>\n",
+    "citation": {
+        "volume": "554",
+        "page": "1",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/19414"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/554/1/",
+    "facts_of_the_case": "<p>Samson Dada, a Nigerian citizen, entered the United States in 1998 and overstayed his temporary visa. Dada married a U.S. citizen which made him eligible for permanent residence under the Immigration and Naturalization Act. Dada's wife failed to provide the required documentation. In 2004 the government found Dada removable. An immigration judge granted Dada's request for voluntary departure. Before the window to leave the country closed, Dada filed a motion to reopen his removal proceedings. In so doing, he asked that the voluntary departure order be withdrawn, to avoid the 10-year bar on future re-entry that accompanies a failure to leave the country within the allotted time. The Bureau of Immigration Affairs denied the request.</p>\n<p>Dada appealed to the United States Court of Appeals for the Fifth Circuit. It upheld the denial. Because Dada's voluntary departure period had expired, the appeals court found Dada subject to the 10-year bar on future re-entry.</p>\n",
+    "conclusion": "<p>No. Justice Anthony Kennedy, joined by four other Justices, stated that an alien has two options in such a case: he may abide by the terms of the voluntary departure and leave the country on time, maintaining the re-entry perks, or withdraw the voluntary departure request and remain in the country to pursue the motion to reopen. If the alien chooses the second option, he may become subject to deportation proceedings. While the Court acknowledged that the opinion still leaves a difficult decision for aliens, it prevents them from reaping the benefits of the voluntary departure option while evading its terms to pursue continuing legal action against the government. Justice Antonin Scalia filed a dissenting opinion, joined by Chief Justice John G. Roberts and Justice Clarence Thomas, arguing that once an alien agrees to depart voluntarily he should have no right to withdraw that agreement. Justice Samuel A. Alito also filed a separate dissent suggesting that it should be within the discretion of the Board of Immigration Appeals, not the Court, to permit or deny the withdrawal of an alien's voluntary departure agreement.</p>\n"
+}

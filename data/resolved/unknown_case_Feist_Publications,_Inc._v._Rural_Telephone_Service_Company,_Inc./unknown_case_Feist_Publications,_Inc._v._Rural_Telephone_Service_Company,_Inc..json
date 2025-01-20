@@ -1,0 +1,35 @@
+{
+    "ID": 53902,
+    "name": "Feist Publications, Inc. v. Rural Telephone Service Company, Inc.",
+    "href": "https://api.oyez.org/cases/1990/89-1909",
+    "view_count": 0,
+    "docket_number": "89-1909",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                663400800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36672"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                670053600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36673"
+        }
+    ],
+    "question": "<p>Does the copyright in a telephone company's directory protect the names, towns, and telephone numbers copied by another telephone directory company?</p>\n",
+    "citation": {
+        "volume": "499",
+        "page": "340",
+        "year": "1991",
+        "href": "https://api.oyez.org/case_citation/case_citation/17831"
+    },
+    "term": "1990",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/499/340/",
+    "facts_of_the_case": "<p>Rural Telephone Service Company, Inc. is a public utility that provides telephone service to several communities in northwest Kansas. Rural also publishes a telephone directory that consists of white and yellow pages. Feist Publications, Inc. is a publishing company that specializes in area-wide telephone directories that cover a much larger geographic range than Rural's directories. When Rural refused to license its white pages listings to Feist, Feist extracted the listings it needed from Rural's directory without consent. Although Feist altered many of Rural's listings, several were identical to listings in Rural's white pages. The District Court granted summary judgment to Rural in its copyright infringement suit, holding that telephone directories are copyrightable. The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>No. In a 9-0 opinion delivered by Justice Sandra Day O'Connor, the Court held that the names, towns, and telephone numbers copied by Feist were not original to Rural and therefore were not protected by the copyright in Rural's combined white and yellow pages directory. The Court reasoned that Rural's white pages did not satisfy the minimum constitutional standards for copyright protection because the information they contained lacked the requisite originality, as Rural had not selected, coordinated, or arranged the uncopyrightable facts in any original way. \"Because Rural's white pages lack the requisite originality, Feist's use of the listings cannot constitute infringement,\" wrote Justice O'Connor.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 62713,
+    "name": "Johnson v. Lee",
+    "href": "https://api.oyez.org/cases/2015/15-789",
+    "view_count": 0,
+    "docket_number": "15-789",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1464670800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53711"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1464670800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53712"
+        }
+    ],
+    "question": "<p>Is evidence that there are times when a procedural bar was not used in cases in which it could have been applied sufficient to show that the bar is not adequate?</p>\n",
+    "citation": {
+        "volume": "578",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27429"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that the California procedural bar in question was both firmly established and regularly followed and was therefore adequate. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/578/15-789/",
+    "facts_of_the_case": "<p>Donna Kay Lee and Peter Carasi were each convicted in California state court of two counts of first-degree murder for the murder of Carasi\u2019s mother and for his ex-girlfriend. Lee was sentenced to life imprisonment without parole, and the California appellate courts affirmed the conviction on direct appeal. Lee filed a petition for federal habeas relief without seeking state postconviction relief, and the petition mostly raised claims that Lee had not raised on direct appeal. Because Lee had not exhausted state relief measures, the district court stayed the case until the state law claims could be fully litigated. The California Supreme Court ruled that Lee\u2019s state law claims were barred based on the precedent of In re Dixon, which held that a claim that could have been raised on direct appeal but wasn\u2019t raised until postconviction relief proceedings is considered procedurally defaulted. The federal district court similarly dismissed Lee\u2019s claims based on the <em>Dixon</em> bar. On appeal, Lee argued that the California courts were not consistently applying <em>Dixon</em> because the courts had not cited the case in every instance in which it should have applied and therefore that the bar was inadequate. The U.S. Court of Appeals for the Ninth Circuit remanded for further evidence, and after the presentation of evidence about how often California courts applied the <em>Dixon</em> bar, the district court again dismissed Lee\u2019s claims. The appellate court reversed and held that the evidence was insufficient to show that the <em>Dixon</em> bar was being consistently applied, and therefore that the bar was inadequate.</p>\n",
+    "conclusion": "<p>A state procedural bar is adequate when it is \u201cfirmly established\u201d and \u201cregularly followed.\u201d In a per curiam opinion, the Court held that the California state rule from <em>In re Dixon\u00a0</em>-- claims that were not raised on direct appeal are procedurally barred from being considered in postconviction relief proceedings -- was both firmly established and regularly followed. The rule was firmly established because California court decisions purposefully removed any ambiguity regarding the rule, and the rule was regularly followed because it was applied in hundreds of cases each year. The Court also held that the U.S. Court of Appeals for the Ninth Circuit\u2019s determination that the bar had not been consistently applied in the state courts represented an overreach of federal courts into the discretion of state courts in writing their opinions.</p>\n"
+}

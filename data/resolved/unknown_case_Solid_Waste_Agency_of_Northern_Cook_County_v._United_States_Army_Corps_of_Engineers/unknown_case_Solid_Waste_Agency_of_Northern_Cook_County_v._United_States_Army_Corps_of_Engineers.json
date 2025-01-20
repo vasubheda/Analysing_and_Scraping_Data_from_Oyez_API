@@ -1,0 +1,35 @@
+{
+    "ID": 54889,
+    "name": "Solid Waste Agency of Northern Cook County v. United States Army Corps of Engineers",
+    "href": "https://api.oyez.org/cases/2000/99-1178",
+    "view_count": 0,
+    "docket_number": "99-1178",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                972972000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38519"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                979020000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38520"
+        }
+    ],
+    "question": "<p>May the provisions of the Clean Water Act be extended to intrastate waters? Does Congress have the authority under the Commerce Clause to exercise such power?</p>\n",
+    "citation": {
+        "volume": "531",
+        "page": "159",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18818"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/531/159/",
+    "facts_of_the_case": "<p>The Solid Waste Agency of Northern Cook County (SWANCC) selected an abandoned sand and gravel pit as a solid waste disposal site. Excavation trenches on the site had previously become ponds for migrating birds. Because some trenches would have to be filled in, the SWANCC contacted the Army Corps of Engineers (Corps) to determine if a landfill permit was required under the Clean Water Act (CWA), which authorizes the Corps to issue permits allowing the discharge of dredged or fill material into \"navigable waters.\" Under the CWA, \"navigable waters\" are defined as \"the waters of the United States\" and the Corps regulations define such waters to include intrastate waters, of which damage could affect interstate commerce. Subsequently, the Corps denied the SWANCC a permit. The District Court found the Corps had jurisdiction over the site. The Court of Appeals held that Congress has authority under the Commerce Clause to regulate intrastate waters.</p>\n",
+    "conclusion": "<p>No and unanswered. In a 5-4 opinion delivered by Chief Justice William H. Rehnquist, the Court held that the provision of the CWA, which requires those discharging fill material into navigable waters to obtain a permit from the Corps, does not extend to isolated, abandoned sand and gravel pits with seasonal ponds, which provide migratory bird habitats. Writing for the majority, Chief Justice Rehnquist said that \"[t]he term 'navigable' has...the import of showing us what Congress had in mind as its authority for enacting the CWA: its traditional jurisdiction over waters that were or had been navigable in fact or which could reasonably be so made.\" In answering the first question no, the Court did not reach the second question. Justice John Paul Stevens' dissent was joined by Justices David H. Souter, Ruth Bader Ginsburg and Stephen G. Breyer.</p>\n"
+}

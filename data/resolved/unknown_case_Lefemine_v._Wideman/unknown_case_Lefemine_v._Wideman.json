@@ -1,0 +1,35 @@
+{
+    "ID": 55939,
+    "name": "Lefemine v. Wideman",
+    "href": "https://api.oyez.org/cases/2012/12-168",
+    "view_count": 0,
+    "docket_number": "12-168",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1352095200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41179"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1352095200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41180"
+        }
+    ],
+    "question": "<p>Is a party a \"prevailing party\" under the Civil Rights Attorney Fees Act when they secure a permanent injunction against the opposing party, but no money damages?</p>\n",
+    "citation": {
+        "volume": "568",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/20864"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that the \"prevailing party\" was entitled to award of attorney fees under the Civil Rights Attorney Fees Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/568/1/",
+    "facts_of_the_case": "<p>Steven Lefemine and Members of the Columbia Christians for Life engaged in pro life demonstrations where they carry posters featuring graphic pictures of aborted fetuses. During a protest in Greenwood, South Carolina, police officers told Lefemine that he would be ticketed for a breach of the peace if he did not discard the posters. Lefemine objected, arguing that the police officers were infringing on his First Amendment right to free speech, but he eventually disbanded the group. A year later, Lefemines attorney sent a letter to Dan Wideman, sheriff of Greenwood County, informing him that the group would be protesting again on the same site with the posters. The police reiterated that they would ticket the group if they showed up with the offending posters. The group decided not to protest, but two years later Lefamine filed a complaint alleging First Amendment violations and seeking nominal damages, a declaratory judgment, a permanent injunction, and attorneys fees.</p>\n<p>Under the Civil Rights Attorney Fees Act the prevailing party in a suit may recover attorney fees from the opposing party. The district court issued a permanent injunction against the police officers, but declined to award money damages. The court also denied attorney fees, holding that attorney fees were not warranted. The U.S. Court of Appeals for the Fourth Circuit affirmed, holding that Lefemine was not a prevailing party under the Act. The court reasoned that the injunction did not alter the relative positions of the parties, so no party actually prevailed.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion, the Supreme Court reversed the Fourth Circuit and remanded. The Court held that Lefemine was the prevailing party so attorney fees could be awarded. The injunction changed the legal relationship between the parties by removing the threat of police action during protests. The Court noted that special circumstances may still prevent the award of attorney fees, but that is an issue for consideration on remand.</p>\n"
+}

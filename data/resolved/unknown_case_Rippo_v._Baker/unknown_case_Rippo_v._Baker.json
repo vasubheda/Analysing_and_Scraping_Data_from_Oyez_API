@@ -1,0 +1,35 @@
+{
+    "ID": 62821,
+    "name": "Rippo v. Baker",
+    "href": "https://api.oyez.org/cases/2016/16-6316",
+    "view_count": 0,
+    "docket_number": "16-6316",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1488780000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53985"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1488780000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53986"
+        }
+    ],
+    "question": "<p>Did a trial judge violate the Due Process Clause of the Fourteenth Amendment when he failed to recuse himself from a criminal case where the district attorney\u2019s office prosecuting the case was simultaneously investigating him on allegations of bribery?</p>\n",
+    "citation": {
+        "volume": "580",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27511"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that the proper standard of review for judicial recusal is an objective inquiry that asks whether the probability of actual bias on the part of the judge or decisionmaker is too high to be constitutionally tolerable. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/580/16-6316/",
+    "facts_of_the_case": "<p dir=\"ltr\">Michael Damon Rippo was charged with first-degree murder in Nevada state court. During his trial, Rippo obtained information that the judge was the subject of a federal bribery investigation and that the Clark County District Attorney\u2019s Office prosecuting his case was a participant in the judge\u2019s investigation. Rippo moved to disqualify the judge under the Due Process Clause of the Fourteenth Amendment and argued that a judge could not impartially preside over a case in which one of the parties was investigating him. The judge declined to recuse himself, Rippo was convicted. After the initial judge was indicted on federal charges, another judge denied Rippo\u2019s motion for a new trial. The Nevada Supreme Court affirmed Rippo\u2019s conviction and sentence on direct appeal and held that Rippo had not introduced evidence that state authorities were involved in the federal investigation. </p>\n<p>Rippo later applied for state post-conviction relief. He reasserted his bias claim, this time with evidence of state authorities\u2019 involvement in the federal investigation of the trial judge. The state court denied post-conviction relief. The Nevada Supreme Court affirmed and determined that Rippo was not entitled to discovery or an evidentiary hearing because his allegations did not support an assertion that the trial judge was actually biased in his case. </p>\n",
+    "conclusion": "<p>The Nevada Supreme Court applied the wrong standard of review when it denied Rippo postconviction relief for failing to support an assertion of actual bias. In a per curiam opinion, the unanimous Court held that the proper standard of review for judicial recusal is an objective inquiry that asks whether the probability of actual bias on the part of the judge or decisionmaker is too high to be constitutionally tolerable. Accordingly, the Court vacated the judgment and remanded the case for further proceeding consistent with its opinion.</p>\n"
+}

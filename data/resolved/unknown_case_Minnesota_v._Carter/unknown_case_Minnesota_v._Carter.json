@@ -1,0 +1,35 @@
+{
+    "ID": 54692,
+    "name": "Minnesota v. Carter",
+    "href": "https://api.oyez.org/cases/1998/97-1147",
+    "view_count": 0,
+    "docket_number": "97-1147",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                907650000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38155"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                912492000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38156"
+        }
+    ],
+    "question": "<p>In accordance with the Fourth Amendment, do household visitors have the same protection against unreasonable searches and seizures as do residents or overnight social guests?</p>\n",
+    "citation": {
+        "volume": "525",
+        "page": "83",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18621"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/525/83/",
+    "facts_of_the_case": "<p>Wayne Thomas Carter, Melvin Johns, and Kimberly Thompson were arrested after a police officer observed them through a window bagging cocaine in Thompson's apartment. During the trial in Minnesota state court, the defendants moved to suppress the cocaine as evidence. They argued the officer's initial observation was an unreasonable search and seizure in violation of their Fourth Amendment rights. Subsequently, they were all convicted on state drug charges. The Minnesota trial court held that because they were not overnight social guests they were not protected by the Fourth Amendment. Moreover, the court held that the officer's window-based observation was not a search under the Fourth Amendment. On appeal, the state intermediate appellate court held Carter did not have standing for an objection to the officer's action because his use of the apartment for drug purposes removed any legitimate expectation of privacy. The court also affirmed Johns' conviction . The Minnesota Supreme Court reversed. It held that the defendants had a legitimate expectation of privacy in the invaded place and that the officer's observation constituted an unreasonable search. Minnesota sought a writ of certiorari in the U.S. Supreme Court.</p>\n",
+    "conclusion": "<p>No. The Court held, in an opinion authored by Chief Justice William H. Rehnquist, that people who visit someone's home for a short time do not have the same protection against unreasonable police searches and seizures as do the residents or their overnight guests. Short-term visits for commercial transactions are not protected by the Fourth Amendment. Furthermore, Chief Justice Rehnquist noted that nothing in the case served to show that Carter was accepted into the household.</p>\n"
+}

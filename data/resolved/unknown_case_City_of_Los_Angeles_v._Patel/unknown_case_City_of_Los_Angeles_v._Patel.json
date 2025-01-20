@@ -1,0 +1,42 @@
+{
+    "ID": 56058,
+    "name": "City of Los Angeles v. Patel",
+    "href": "https://api.oyez.org/cases/2014/13-1175",
+    "view_count": 0,
+    "docket_number": "13-1175",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1413781200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41631"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1425362400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41632"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1434949200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52766"
+        }
+    ],
+    "question": "<p>Is a municipal ordinance that allows police to inspect hotel records without a warrant inconsistent with the Fourth Amendment's privacy expectations?</p>\n",
+    "citation": {
+        "volume": "576",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/27104"
+    },
+    "term": "2014",
+    "description": "A case in which the Court determined that a municipal ordinance that allows the police to inspect hotel records without a warrant violates the Fourth Amendment\u2019s prohibition against unreasonable searches unless the business owner is given the opportunity for pre-compliance review.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/576/409/",
+    "facts_of_the_case": "<p>Naranjibhai and Ramilaben Patel are owners and operators of motels in Los Angeles. The Los Angeles Municipal Code (LAMC) requires motel operators to keep records with specified information about their guests. The LAMC also authorizes police officers to inspect hotel records at any time without a search warrant. The Patels filed suit and argued that the provision violated their Fourth Amendment protections against unreasonable searches. The city of Los Angeles argued that motels are \"closely regulated\" businesses and are therefore subject to warrantless inspections.</p>\n<p>The district court determined that motels were not subjected to the same kind of pervasive and regular regulations as other recognized \"closely regulated\" businesses. Nonetheless, the court held that motels do not have an ownership interest that gives rise to a privacy right in their records because the records were created to comply with the ordinance. The U.S. Court of Appeals for the Ninth Circuit initially affirmed, but later reversed in rehearing en banc. The appellate court held that the hotel records were private \"papers\" protected by the Fourth Amendment and that the LAMC's warrantless search provision was unreasonable because it does not provide for pre-compliance judicial review of an officer's demand to inspect a motel's records.</p>\n",
+    "conclusion": "<p>Yes. Justice Sonia Sotomayor delivered the opinion of the 5-4 majority. The Court held that an individual may challenge a statute for violating the Constitution on its face without needing to allege unconstitutional enforcement, and that the municipal ordinance in question is unconstitutional on its face because it does not allow for hotel operators to engage in pre-compliance review by questioning the reasonableness of the subpoena in district court. The type of search the municipal ordinance authorizes is an administrative one, which means that its purpose is to ensure that the hotel operators are complying with the record requirement, and judicial precedent has held that there must be an opportunity for the subpoenaed party to contest the subpoena for an administrative search before penalties are imposed. Such pre-compliance review is necessary to ensure that the search is not a pretext to harass the business owner. The Court also held that hotels are not a \u201cclosely regulated\u201d business and therefore do not fall under that exception to the warrant requirement.</p>\n<p>Justice Antonin Scalia wrote a dissent in which he argued that the municipal ordinance in question is constitutional under the Fourth Amendment in most, if not all, of its applications because warrantless searches are not unreasonable under certain conditions. One of those conditions is when the premises to be searched is that of a closely regulated business, as long as the regulatory scheme of which the search is a part furthers a substantial government interest, the search is necessary to further the regulatory scheme, and the regulatory scheme provides a constitutionally adequate substitute for a warrant. Because hotels have a long tradition of being closely regulated and the municipal ordinance in question satisfies the conditions of a regulatory scheme for closely regulated businesses, the unwarranted search of hotel records is not unreasonable. Chief Justice John G. Roberts, Jr. and Justice Clarence Thomas joined in the dissent. In his separate dissent, Justice Samuel A. Alito, Jr. wrote that, in order to hold a statute unconstitutional on its face, the Court must find that the statute is unconstitutional in every application. Because there are many circumstances in which the municipal ordinance in question could be applied constitutionally, relief should only be granted in cases when applying the ordinance would conflict with the Constitution. Justice Thomas joined in the dissent.</p>\n"
+}

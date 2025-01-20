@@ -1,0 +1,42 @@
+{
+    "ID": 55986,
+    "name": "United States v. Quality Stores",
+    "href": "https://api.oyez.org/cases/2013/12-1408",
+    "view_count": 0,
+    "docket_number": "12-1408",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1380603600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41300"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1389679200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41301"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1395723600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41565"
+        }
+    ],
+    "question": "<p>Are severance payments for employees who were involuntarily terminated taxable under the Federal Insurance Contributions Act?</p>\n",
+    "citation": {
+        "volume": "572",
+        "page": "141",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20877"
+    },
+    "term": "2013",
+    "description": "A case in which the Court found that severance payments made to employees who were unwillingly laid off are taxable under the Federal Insurance Contributions Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/572/141/",
+    "facts_of_the_case": "<p>In October 2001, Quality Stores -- a national company -- and its affiliates commenced bankruptcy proceedings. When laying off employees, Quality Stores issued severance pay as part of its employees' gross income and reported the payments for federal income tax purposes as \"wages\" on W-2 forms. As required for \"wages\", the Federal Insurance Contributions Act (FICA) tax was paid on severance payments. FICA is a tax imposed on wages earned to fund Social Security and Medicare; both employer and employee pay part of the tax. The employee's part is withheld from his paycheck. Quality Stores contends that severance pay does not qualify as \"wages\", but rather payments under a Supplemental Unemployment Benefit (SUB) plan that are not taxable under FICA. SUB is a corporate program that creates severance payments in the event of involuntary termination; SUB payments do not qualify as \"wages\" under FICA because they are given after termination of a job rather than for work completed.</p>\n<p>Based on this line of reasoning, Quality Stores filed for a refund from the Internal Revenue Service (IRS). The IRS did not respond to Quality Stores' request for a refund, neither by allowing the claim nor denying it, and Quality Stores sued the IRS. The federal district court agreed with Quality Stores' view on severance payments. The U.S. Court of Appeals for the Sixth Circuit affirmed the district court and held that severance pay satisfies the elements Congress set out to determine SUB payments, which therefore makes such payments exempt from FICA taxes.</p>\n",
+    "conclusion": "<p>Yes. Justice Anthony M. Kennedy delivered the opinion for the 8-0 majority. The Court held that the Federal Insurance Contributions Act's broad definition of wages did include severance pay. Because the statutory definition of wages in FICA is \"remuneration for employment,\" the fact that the employment has ended is irrelevant, as the severance pay is still remuneration for services rendered when the workers were still employed. The Court also held that the specific exemptions that FICA lays out indicate that anything not specifically included in the exemptions should be considered taxable wages. Given the legislative history surrounding the issue, the appropriate reading is that severance payments should be treated as wages and subject to the withholding of taxes.</p>\n<p>Justice Elena Kagan took no part in the discussion or decision of this case.</p>\n"
+}

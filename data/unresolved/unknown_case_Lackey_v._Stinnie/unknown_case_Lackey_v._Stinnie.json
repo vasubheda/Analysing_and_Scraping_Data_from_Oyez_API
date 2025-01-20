@@ -1,0 +1,33 @@
+{
+    "ID": 63676,
+    "name": "Lackey v. Stinnie",
+    "href": "https://api.oyez.org/cases/2024/23-621",
+    "view_count": 0,
+    "docket_number": "23-621",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1713762000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55451"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1728363600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55516"
+        }
+    ],
+    "question": "<p>Is a party who obtains a preliminary injunction a \u201cprevailing party\u201d for purposes of being entitled to attorney\u2019s fees under 42 U.S.C \u00a7 1988?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28010"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether a party who obtains a preliminary injunction is a \u201cprevailing party\u201d for purposes of being entitled to attorney\u2019s fees under 42 U.S.C. \u00a7 1988.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-621/"
+}

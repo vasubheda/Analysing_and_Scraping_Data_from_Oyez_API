@@ -1,0 +1,42 @@
+{
+    "ID": 55632,
+    "name": "South Carolina v. North Carolina",
+    "href": "https://api.oyez.org/cases/2009/138-orig",
+    "view_count": 0,
+    "docket_number": "138-orig",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1191214800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40365"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1255410000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40366"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1263967200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40367"
+        }
+    ],
+    "question": "<p>Can the City of Charlotte, NC, the Catawba River Water Supply Project, and Duke Energy Carolinas LLC, which are non-state entities, be allowed to intervene as defendants in a case originating in the Supreme Court about a water dispute between two states?</p>\n",
+    "citation": {
+        "volume": "558",
+        "page": "256",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19555"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that a North Carolina city could not intervene in a South Carolina city's use of a river that originated in North Carolina but flowed into South Carolina.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>This case originates in the Supreme Court. South Carolina seeks an equitable apportionment of the Catawba River, which starts in North Carolina and flows into South Carolina. The Special Master recommends that the Supreme Court (1) permit the City of Charlotte, N.C., the Catawba River Water Supply Project, and Duke Energy Carolinas LLC to intervene as defendants, and (2) deny South Carolina's motion for clarification of the Special Master's order.</p>\n",
+    "conclusion": "<p>Yes and no. The Supreme Court held that the Catawba River Water Supply Project and Duke Energy met the standards for intervention, but Charlotte did not. \"Charlotte has not carried its burden of showing a sufficient interest for intervention in this action,\" Justice Samuel J. Alito wrote for the 5-4 majority. \"Its interest is solely as a user of North Carolina's share of the Catawba River's water.\"</p>\n<p>Chief Justice John G. Roberts, Jr. filed a separate opinion concurring in the judgment in part and dissenting in part, joined by Justices Clarence Thomas, Ruth Bader Ginsburg and Sonia Sotomayor. The dissent agreed with the majority's denial of Charlotte's motion and its rejection of the more permissive intervention standard adopted by the special master, but would not have permitted the Catawba Project and Duke Energy to intervene either.</p>\n"
+}

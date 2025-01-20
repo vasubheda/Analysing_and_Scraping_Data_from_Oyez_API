@@ -1,0 +1,42 @@
+{
+    "ID": 62308,
+    "name": "Federal Energy Regulatory Commission v. Electric Power Supply Association, et al.",
+    "href": "https://api.oyez.org/cases/2015/14-840",
+    "view_count": 0,
+    "docket_number": "14-840",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1430715600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52778"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1444798800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52803"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1453701600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53397"
+        }
+    ],
+    "question": "<p>(1) Does the Federal Power Act grant the Federal Energy Regulatory Commission the authority to regulate the rules operators of wholesale energy markets use to pay for reduction in electricity consumption?</p>\n<p>(2) Did the U.S. Court of Appeals for the District of Columbia Circuit err in holding that the rule was arbitrary and capricious?</p>\n",
+    "citation": {
+        "volume": "577",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27110"
+    },
+    "term": "2015",
+    "description": "A case in which the Court held that the Federal Power Act (FPA) grants the Federal Energy Regulatory Commission (FERC) the authority to regulate wholesale market operators\u2019 compensation for reduction in electricity consumption, and the rule in question was not arbitrary and capricious.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/577/260/",
+    "facts_of_the_case": "<p>The Federal Power Act (FPA) grants the Federal Energy Regulatory Commission (FERC) the authority to regulate the wholesale interstate transmission and sale of electric power. In 2011, FERC promulgated a rule that established uniform compensation levels for suppliers of demand-side resources that meet certain conditions, including cost-effectiveness as measured by a net benefits test. The rule\u2019s stated purpose was to incentivize retail customers to reduce electricity consumption when it was economically efficient to do so. Various state regulatory agencies, trade associations, publicly owned utilities, transmission owners, and other industry groups requested a rehearing on the rule and argued that it conflicted with FERC\u2019s efforts to promote a competitive market as well as FERC\u2019s statutory mandate to avoid unjust and discriminatory rates. FERC confirmed the rule, and the industry groups petitioned for review in federal court. The U.S. Court of Appeals for the District of Columbia Circuit held that FERC did not have the statutory authority to directly regulate the retail market and that the rule was arbitrary and capricious because FERC did not adequately consider and respond to the arguments made in opposition to the rule.</p>\n",
+    "conclusion": "<p>The Federal Power Act (FPA) grants the Federal Energy Regulatory Commission (FERC) the authority to regulate wholesale market operators\u2019 compensation for reduction in electricity consumption, and the rule in question was not arbitrary and capricious. Justice Elena Kagan delivered the opinion of the 6-2 majority. The Court held that the rule in question regulates wholesale market operators\u2019 payments for demand response commitments, which affects the wholesale market at large and is therefore within FERC\u2019s authority pursuant to the FPA. The rule does not regulate retail markets, which the FPA reserves for the states to regulate. The contrary view would prevent FERC from effectively regulating the wholesale market, which would contradict the express purpose of the FPA. The Court also held that, because FERC examined all the the relevant considerations, articulated a satisfactory reason for its decision, and there was a rational connection between the facts and the choice made, the rule it implemented was not arbitrary and capricious. FERC also responded to the reasonable alternatives that were advanced and offered explanations for why those alternatives were not chosen. Therefore, FERC met its duty of \u201creasoned judgment.\u201d</p>\n<p>Justice Antonin Scalia wrote a dissent in which he argued that the rule at issue falls outside of the authority the FPA grants to FERC. The plain language of the FPA only allows FERC to regulate wholesale activity. Because the demand-response bidders that the rule in question regulates do not resell energy to other customers, they are not wholesalers and therefore the FPA does not allow FERC to regulate them. Additionally, the rule in fact interferes with retail prices in a manner that the FPA expressly forbids. Justice Clarence Thomas joined in the dissent.</p>\n<p>Justice Samuel A. Alito, Jr. did not participate in the discussion or decision of this case.</p>\n"
+}

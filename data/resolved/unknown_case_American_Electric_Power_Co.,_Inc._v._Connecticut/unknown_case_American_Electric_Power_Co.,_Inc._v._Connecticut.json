@@ -1,0 +1,42 @@
+{
+    "ID": 55787,
+    "name": "American Electric Power Co., Inc. v. Connecticut",
+    "href": "https://api.oyez.org/cases/2010/10-174",
+    "view_count": 0,
+    "docket_number": "10-174",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1291615200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40757"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1303189200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40758"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1308546000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40759"
+        }
+    ],
+    "question": "<p>(1) Can states and private parties seek to curb emissions on utilities for their alleged contribution to global climate change?</p>\n<p>(2) Can a cause of action to reduce carbon dioxide emissions be implied under federal common law?</p>\n",
+    "citation": {
+        "volume": "564",
+        "page": null,
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19709"
+    },
+    "term": "2010",
+    "description": "A case in which the Court that held the Clean Air Act bars suits by governmental bodies and private parties seeking to curb emissions from utilities via the federal common law.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/564/410/",
+    "facts_of_the_case": "<p>Eight states, New York City and three land conservation groups filed suit against four electric power companies and the Tennessee Valley Authority, five entities that they claimed were the largest sources of greenhouse gases. The lawsuit alleged that the utility companies, which operate facilities in 21 states, are a public nuisance because their carbon-dioxide emissions contribute to global warming. American Electric Power Co. and the other utilities argued that the courts should not get involved in the issue. The companies contended that only the Environmental Protection Agency can set emissions standards. A federal judge on the U.S. District Court for the Southern District of New York initially threw out the case, but the U.S. Court of Appeals for the Second Circuit said it could continue.</p>\n<p>The states in the lawsuit are: California, Connecticut, Iowa, New Jersey, New York, Rhode Island, Vermont and Wisconsin. The Open Space Institute, the Open Space Conservancy and the Audubon Society of New Hampshire also are plaintiffs. The other utilities are Cinergy Co., Southern Co. Inc. of Georgia, and Xcel Energy Inc. of Minnesota.</p>\n",
+    "conclusion": "<p>No. The Supreme Court reversed and remanded the lower court order in a unanimous opinion by Justice Ruth Bader Ginsburg. \"The Clean Air Act and the EPA action the Act authorizes displace any federal common-law right to seek abatement of carbon-dioxide emissions from fossil-fuel fired power plants.\"</p>\n<p>Justice Samuel Alito concurred in part and in the judgment, writing: \"I agree with the Court's displacement analysis on the assumption (which I make for the sake of argument because no party contends otherwise) that the interpretation of the Clean Air Act adopted by the majority in <em>Massachusetts v. EPA</em> is correct.\" Meanwhile, Justice Sonia Sotomayor did not take part in consideration of the case.</p>\n"
+}

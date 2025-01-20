@@ -1,0 +1,35 @@
+{
+    "ID": 54874,
+    "name": "Department of Interior v. Klamath Water Users Protective Association",
+    "href": "https://api.oyez.org/cases/2000/99-1871",
+    "view_count": 0,
+    "docket_number": "99-1871",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                979106400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38491"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                983772000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38492"
+        }
+    ],
+    "question": "<p>Are documents shared between the Klamath and other Indian Tribes and the Department of the Interior, which address tribal interests subject to state and federal proceedings to determine water allocations, exempt from the disclosure requirements of the Freedom of Information Act, as \" inter-agency or intra-agency memorandums or letters?\"</p>\n",
+    "citation": {
+        "volume": "532",
+        "page": "1",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18803"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/532/1/",
+    "facts_of_the_case": "<p>The Department of the Interior's Bureau of Reclamation (Reclamation) administers the Klamath Irrigation Project (Project), which uses water from the Klamath River Basin to irrigate parts of Oregon and California. In order for the Department to provide water allocations among competing uses and users, it asked the Klamath and other Indian Tribes (Basin Tribes or Tribes) to consult with Reclamation. A memorandum of understanding solidified this relationship. When the Department's Bureau of Indian Affairs (Bureau) filed claims on behalf of the Klamath Tribe in Oregon to allocate water rights, the two exchanged written memorandums on the appropriate scope of the claims submitted by the Government for the benefit of the Tribe. Afterwards, the Klamath Water Users Protective Association (Association), a nonprofit group, whose members receive water from the Project and, generally, have interests adverse to the tribal interest because of the scarcity of water, filed requests with the Bureau under the Freedom of Information Act (FOIA) to gain access to communications between the Bureau and the Basin Tribes. Some documents were turned over, but the Bureau held other documents under the deliberative process privileges incorporated in FOIA Exemption 5, which exempts from disclosure \"inter-agency or intra-agency memorandums or letters which would not be available by law to a party other than an agency in litigation with the agency.\" The Association sued to compel release of the documents. The District Court granted the government summary judgment. In reversing, the Court of Appeals ruled out any application of Exemption 5 on the ground that the Tribes with whom the Department has a consulting relationship have a direct interest in the subject matter of the consultations.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice David H. Souter, the Court that there is no exemption under FOIA for the correspondence between the Tribes and the Bureau. Because the Klamath Tribe advocated its own positions in the water allocation proceedings, the communications between it and the Bureau did not equate to the role that personnel fulfils, in that personnel do not represent their own interests. Therefore, the documents were not exempt from public disclosure as inter-agency or intra-agency communications. \"All of this boils down to requesting that we read an 'Indian trust' exemption into the statute, a reading that is out of the question,\" wrote Justice Souter for the Court.</p>\n"
+}

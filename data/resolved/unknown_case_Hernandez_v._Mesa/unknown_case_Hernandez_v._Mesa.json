@@ -1,0 +1,42 @@
+{
+    "ID": 62767,
+    "name": "Hernandez v. Mesa",
+    "href": "https://api.oyez.org/cases/2016/15-118",
+    "view_count": 0,
+    "docket_number": "15-118",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1476162000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53901"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1487656800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53971"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1498453200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54077"
+        }
+    ],
+    "question": "<ol><li>Does a formalist or functionalist analysis govern the extraterritorial application of the Fourth Amendment's prohibition on unjustified deadly force, as applied to a cross-border shooting of an unarmed Mexican citizen in an enclosed area controlled by the United States?</li>\n<li>May qualified immunity be granted or denied based on facts - such as the victim's legal status - unknown to the officer at the time of the incident?</li>\n<li>Can the claim in this case be properly asserted under <em>Bivens v. Six Unknown Fed. Narcotics Agents</em>, which governs when federal agents may be liable for damages for violating an individual\u2019s constitutional right?</li>\n</ol>",
+    "citation": {
+        "volume": "582",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27469"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that qualified immunity may not be granted based on facts that were unknown to the officer at the time of the incident, and that a court should consider whether an implied right of action is appropriate under Bivens v. Six Unknown Federal Narcotics Agents before addressing sensitive Fourth Amendment questions.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/582/15-118/",
+    "facts_of_the_case": "<p>On June 7, 2010, Sergio Adrian Hernandez Guereca, a fifteen-year-old Mexican national, was playing with friends on the cement culvert of the Rio Grande that separates El Paso, Texas from Juarez, Mexico. Hernandez and his friends took turns running up the incline of the culvert to touch the barbed-wire fence on the U.S. side of it and then running back down the incline to the Mexican side. Jesus Mesa, Jr., a U.S. Border Patrol Agent, arrived on the scene and detained one of Hernandez\u2019s friends at the U.S. border, while Hernandez retreated to the Mexican side of the River and hid behind the pillars of the Paso del Norte bridge. Mesa, still standing on the U.S. side of the border, fired at least two shots at Hernandez, one of which struck him in the head and killed him.</p>\n<p>Six months after Hernandez\u2019s death, his parents sued Mesa in federal district court in Texas and alleged that Mesa violated the Fourth and Fifth Amendments of the U.S. Constitution through the use of deadly force and the failure to use of reasonable force when making arrests. Mesa moved to dismiss and argued that Hernandez lacked constitutional protection because he was an alien without voluntary attachments to the United States who was standing in Mexico when he was killed. Applying a formalist test, the district court concluded that the Constitution\u2019s deadly-force protections stop at the border for non-citizens like Hernandez. The U.S. Court of Appeals for the Fifth Circuit affirmed in part and reversed in part and held that the Fifth Amendment protections against deadly force applied but not the Fourth Amendment protections. The appellate court also held that Mesa was not entitled to qualified immunity. Rehearing the case en banc, the appellate declined to answer the Fifth Amendment question, but held that Mesa was entitled to qualified immunity and that Hernandez could not assert a claim under the Fourth Amendment because he was a Mexican citizen without a significant voluntary connection to the United States who was on Mexican soil when he was shot and killed.</p>\n",
+    "conclusion": "<p>Qualified immunity may not be granted based on facts that were unknown to the officer at the time of the incident, and a court should consider whether an implied right of action is appropriate under <em>Bivens v. Six Unknown Federal Narcotics Agents</em> before addressing sensitive Fourth Amendment questions. In a per curiam opinion, the Court held that the lower appellate court erred in addressing the Fourth Amendment question in this case before considering whether there was an implied right of action under the Bivens precedent. Although this approach is appropriate in many cases, in this case the resolution of the Fourth Amendment question has such potentially far-reaching consequences that it may not be appropriate for the judicial branch to answer. Recent precedent established that a <em>Bivens</em> remedy is not available when there are \u201cspecial factors counseling hesitation\u201d from the courts, which might apply in this case. The Court also held that, because qualified immunity analysis was based on whether a reasonable officer would know that his actions were unlawful, the only relevant facts were what the officer knew at the time of the incident.</p>\n<p>In his dissent, Justice Clarence Thomas wrote that a remedy under the Bivens precedent should only be available in cases that are meaningfully similar to <em>Bivens</em>. Because this case was not, a <em>Bivens</em> remedy should not be available. Justice Stephen G. Breyer wrote a separate dissent in which he argued that precedent had established that the extraterritorial reach of the Constitution was determined by functional concerns, not formal ones. In this case, because the officer was a U.S. official who did not know whether he was shooting at an American citizen or whether the bullet would land in U.S. or Mexican territory, the constitutional protections of the Fourth Amendment should apply. Not applying the Fourth Amendment to the facts of this case based solely on the location of the injury relative to the border line would create an anomalous precedent that would be difficult to apply to other border cases. Justice Ruth Bader Ginsburg joined in the dissent.</p>\n<p>Justice Neil Gorsuch did not participate in the discussion or decision of this case.</p>\n"
+}

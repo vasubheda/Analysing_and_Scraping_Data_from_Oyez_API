@@ -1,0 +1,35 @@
+{
+    "ID": 54025,
+    "name": "Republic of Argentina v. Weltover, Inc.",
+    "href": "https://api.oyez.org/cases/1991/91-763",
+    "view_count": 0,
+    "docket_number": "91-763",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                702108000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36908"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                708325200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36909"
+        }
+    ],
+    "question": "<p>Was the Republic of Argentina's default on certain bonds an act taken \"in connection with a commercial activity\" that had a \"direct effect in the United States\" so as to subject Argentina to suit in an American court under the Foreign Sovereign Immunities Act of 1976?</p>\n",
+    "citation": {
+        "volume": "504",
+        "page": "607",
+        "year": "1992",
+        "href": "https://api.oyez.org/case_citation/case_citation/17954"
+    },
+    "term": "1991",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/504/607/",
+    "facts_of_the_case": "<p>In 1981, Argentina instituted a foreign exchange insurance contract program (FEIC), under which it effectively assumed the risk of currency depreciation in cross-border transactions. When Argentina could not cover the FEIC contracts, it issued \"Bonods,\" which provided for repayment in U.S. dollars through transfer on the market in one of several locations. Subsequently, when Argentina concluded that it lacked sufficient foreign exchange to retire the Bonods, it unilaterally extended the time for payment and offered bondholders substitute instruments as a means of rescheduling the debts. Ultimately, two Panamanian corporations and a Swiss bank brought a breach-of-contract action in Federal District Court. The court denied Argentina's motion to dismiss. In affirming, the Court of Appeals ruled that the District Court had jurisdiction under the Foreign Sovereign Immunities Act of 1976 (FSIA), which subjects foreign states to suit in American courts for acts taken \"in connection with a commercial activity\" that have \"a direct effect in the United States.\"</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion delivered by Justice Antonin Scalia, the Court held that the District Court properly asserted jurisdiction under the FSIA. The Court reasoned that the issuance of the Bonods was a \"commercial activity\" and that the rescheduling of the maturity dates on those instruments was taken \"in connection with\" that activity because Argentina had acted as a private player within a market and not as a regulator of that market. Moreover, the Court concluded that the unilateral rescheduling of the Bonods had a \"direct effect in the United States\" because Argentina had designated their accounts in New York as the place of payment and had made some interest payments into those accounts before announcing that it was rescheduling the payments.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 63558,
+    "name": "New York v. New Jersey",
+    "href": "https://api.oyez.org/cases/2022/156-orig",
+    "view_count": 0,
+    "docket_number": "156-orig",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1677650400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55226"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1681794000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55256"
+        }
+    ],
+    "question": "<p>May New Jersey unilaterally withdraw from the Waterfront Commission Compact with New York?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/27941"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held that New Jersey can unilaterally withdraw from an interstate compact with New York that created a waterfront commission with police power.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2022/156-orig/",
+    "facts_of_the_case": "<p>New York and New Jersey entered into an interstate compact called the Waterfront Commission Compact to fight corruption in the Port of New York and New Jersey. New Jersey then sought to withdraw unilaterally from the compact. New York objected to New Jersey\u2019s withdrawal.</p>\n",
+    "conclusion": "<p>New Jersey may unilaterally withdraw from the 1953 Waterfront Commission Compact. Justice Brett Kavanaugh authored the unanimous opinion of the Court.</p>\n<p>The Waterfront Commission Compact does not address unilateral withdrawal. Other principles of law in effect at the time the compact was entered would have informed their understanding of the Compact. One such principle is that a contract that contemplates \u201ccontinuing performance for an indefinite time is to be interpreted as stipulating only for performance terminable at the will of either party.\u201d Thus, with this understanding, either state may unilaterally withdraw. The principle of state sovereignty further supports this conclusion.</p>\n"
+}

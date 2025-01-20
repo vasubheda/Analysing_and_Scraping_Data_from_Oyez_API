@@ -1,0 +1,42 @@
+{
+    "ID": 55348,
+    "name": "Arlington Central School District Board of Education v. Murphy",
+    "href": "https://api.oyez.org/cases/2005/05-18",
+    "view_count": 0,
+    "docket_number": "05-18",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1136527200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39586"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1145422800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39587"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1151298000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39588"
+        }
+    ],
+    "question": "<p>Does the Individuals with Disabilities Education Act permit parents to recover fees they pay to experts during legal actions against school districts?</p>\n",
+    "citation": {
+        "volume": "548",
+        "page": "291",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20628"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/548/291/",
+    "facts_of_the_case": "<p>Using the federal Individuals with Disabilities Education Act (IDEA), Joseph Murphy's parents brought legal action to require the Arlington Central School District to pay for their son's private school tuition. After they prevailed, they sought reimbursement from the school district for fees they had paid to an educational consultant during the proceedings. They relied on an IDEA provision that allows courts to \"award reasonable attorneys' fees as part of the costs\" to prevailing parents. The school district argued that under <em>Crawford Fitting Co. v. J.T. Gibbons, Inc.</em>, 482 U.S. 437, and <em>West Virginia Univ. Hospitals, Inc. v. Casey</em>, 499 U.S. 83, expert fees can only be reimbursed when there is explicit authorization in the statute. Because the statute made no specific mention of expert fees, the school district argued, the fees could not be reimbursed. The federal district court and Second Circuit Court of Appeals disagreed, however, finding that a Congressional Conference Committee Report and a footnote in <em>Casey</em> referencing it showed that IDEA was intended to authorize reimbursement of expert fees.</p>\n",
+    "conclusion": "<p>No. In a 6-to-3 decision authored by Justice Samuel Alito, the Supreme Court held that IDEA did not authorize reimbursement of expert fees. \"While authorizing the award of reasonable attorney's fees, the Act contains detailed provisions that are designed to ensure that such awards are indeed reasonable,\" Justice Alito wrote. \"The absence of any comparable provisions relating to expert fees strongly suggests that recovery of expert fees is not authorized.\" Justice Alito went on to write that the case was made even simpler by the fact that, as an exercise of Congress's Spending Clause power, any provision requiring reimbursement of expert fees would have had to be \"unambiguous,\" which it clearly was not. Justice Ginsburg, who joined the majority in finding that expert fees were not covered, wrote separately to disagree with that portion of the opinion.</p>\n"
+}

@@ -1,0 +1,33 @@
+{
+    "ID": 63711,
+    "name": "BLOM Bank SAL v. Honickman",
+    "href": "https://api.oyez.org/cases/2024/23-1259",
+    "view_count": 0,
+    "docket_number": "23-1259",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1728018000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55539"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1740981600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55589"
+        }
+    ],
+    "question": "<p>Does Federal Rule of Civil Procedure 60(b)(6)\u2019s stringent standard apply to a post-judgment request to vacate for the purpose of filing an amended complaint?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28045"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether Federal Rule of Civil Procedure 60(b)(6)\u2019s stringent standard applies to a post-judgment request to vacate for the purpose of filing an amended complaint.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-1259/"
+}

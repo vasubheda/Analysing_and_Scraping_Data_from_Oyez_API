@@ -1,0 +1,35 @@
+{
+    "ID": 54854,
+    "name": "Castillo v. United States",
+    "href": "https://api.oyez.org/cases/1999/99-658",
+    "view_count": 0,
+    "docket_number": "99-658",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                956552400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38452"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                960181200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38453"
+        }
+    ],
+    "question": "<p>Does the provision of USC Section 924(c)(1), which imposes a stiffer penalty for using a \"machinegun\" in a crime of violence, state factors enhancing a sentence rather than elements of a separate offense?</p>\n",
+    "citation": {
+        "volume": "530",
+        "page": "120",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18783"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/530/120/",
+    "facts_of_the_case": "<p>In 1993, Jaime Castillo and other Branch-Davidians were involved in a violent confrontation with federal agents near Waco, Texas. Castillo was indicted for conspiring to murder federal officers. A jury determined that Castillo, by using firearms in connection with the alleged conspiracy, had violated 18 USC Section 924(c)(1), which read in relevant part: \"Whoever, during and in relation to any crime of violence... uses or carries a firearm, shall, in addition to the punishment provided for such crime... be sentenced to imprisonment for five years... and if the firearm is a machinegun... to imprisonment for thirty years.\" During sentencing, the District Court found that Castillo had possessed machineguns and imposed the mandatory 30-year prison sentence. On appeal, the Courts of Appeals remanded the case to the District Court for a determination of whether Castillo had used, rather than merely possessed, machineguns. The court also concluded that statutory terms such as \"machinegun\" did not state elements of a crime separate from that of using a firearm, but instead established factors enhancing a sentence and that the District Court could reimpose the 30-year sentence if it found that machineguns had been actively used. The District Court then reimposed the 30-year sentence, and the Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Stephen G. Breyer, the Court held that \"Section 924(c)(1) uses the word \"machinegun\" (and similar words) to state an element of a separate, aggravated crime.\" Therefore, the federal law that subjects anyone who carries a machine gun during a violent crime to an additional 30 years in prison states an element of an offense that must be proved beyond a reasonable doubt to a jury rather than determined by a judge by a preponderance of the evidence as are sentencing factors. Justice Breyer wrote for the Court that \"our consideration of Section 924(c)(1)'s language, structure, context, history and such factors that typically help courts determine a statute's objectives leads us to conclude that the relevant words create a separate substantive crime.\"</p>\n"
+}

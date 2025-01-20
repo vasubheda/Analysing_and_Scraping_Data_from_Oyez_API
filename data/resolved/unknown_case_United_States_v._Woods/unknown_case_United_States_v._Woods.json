@@ -1,0 +1,42 @@
+{
+    "ID": 56009,
+    "name": "United States v. Woods",
+    "href": "https://api.oyez.org/cases/2013/12-562",
+    "view_count": 0,
+    "docket_number": "12-562",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1364187600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41342"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1381294800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41343"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1386050400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41576"
+        }
+    ],
+    "question": "<p>Did the district court have jurisdiction to consider the applicability of the valuation misstatement penalty under the Internal Revenue Service Code?</p>\n<p>(1) Does the penalty for overstatement apply to situations in which the tax underpayment resulted from a transaction that was determined to lack economic substance?</p>\n",
+    "citation": {
+        "volume": "571",
+        "page": "31",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/20888"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that, under the Tax Equity and Fiscal Responsibility Act of 1982, a court in partnership-level proceedings has the right to consider the applicability of any penalty that relates to the partnership.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/571/31/",
+    "facts_of_the_case": "<p>In 1999, Gary Woods and Billy McCombs became investors in two partnerships. Those partnerships then transferred their assets to a corporation that was jointly owned by Woods and McCombs, which caused the partnerships to be considered liquidated for tax purposes. Because the value of a liquidated asset is equal to the partner's basis in the investment, the partnerships reported their losses on their tax reports as equal to the purchased options Woods' and McCombs' separate companies originally contributed to the partnerships. After conducting an audit, the Internal Revenue Service (IRS) determined that the partnership transactions served no business purpose and were solely for the purpose of tax avoidance. Therefore they had no legal basis and the IRS did not consider the partnerships valid. The IRS imposed accuracy-related penalties for understatements of income and gross valuation misstatements.</p>\n<p>In 2005, Woods (as the tax matters representative for the partnership) brought the matter before a district court and argued that penalties were inappropriate because the tax consequences of the transactions were accurately reported. The district court held that the transactions \"lacked economic substance\" and that their reported losses should be disregarded. The court also held that, because the transactions had no economic substance, the valuation misstatement penalties did not apply. The United States appealed the decision with regard to the valuation misstatement penalties, and the U.S. Court of Appeals for the Fifth Circuit affirmed the lower court's ruling.</p>\n",
+    "conclusion": "<p>Yes; yes. Justice Antonin Scalia delivered the opinion for a unanimous Court. The Court held that, under the Tax Equity and Fiscal Responsibility Act of 1982 (TEFRA), a court in a partnership-level proceeding has the jurisdiction to consider the applicability of any penalty that relates to the partnership. Therefore, a district court must determine whether the partnership situation in question had the potential to trigger a penalty, as happened in this case. The Court also held that a transaction that was determined to lack economic substance can still trigger the penalty for overstatement because the overstatement and the action that led to it are inherently tied together.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55499,
+    "name": "CSX Transportation, Inc. v. Georgia State Board of Equalization",
+    "href": "https://api.oyez.org/cases/2007/06-1287",
+    "view_count": 0,
+    "docket_number": "06-1287",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1180414800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39992"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1194242400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39993"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1196748000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39994"
+        }
+    ],
+    "question": "<p>Does the Railroad Revitalization and Regulatory Reform Act of 1976 require a federal district court determining the \"true market value\" of railroad property to accept the valuation method chosen by the State?</p>\n",
+    "citation": {
+        "volume": "552",
+        "page": "9",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20726"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/552/9/",
+    "facts_of_the_case": "<p>The Tax Injunction Act establishes a general rule that federal courts will not interfere with matters of state taxation, but the Railroad Revitalization and Regulatory Reform Act of 1976 (4-R Act) provides an exception for railroads. In an effort to prevent state tax discrimination against railroads, Section 306 of the 4-R Act requires that the ratio of the assessed value to the true market value of railroad property not exceed by more than five percent the ratio of assessed value to true market value for all other commercial and industrial property in the assessment jurisdiction. This calculation requires that states determine the \"true market value\" of the railroads' property - a valuation that can be subjective. Using a new valuation methodology, the Georgia State Board of Equalization appraised the property of the railroad company CSX Transportation, Inc. at $8.2 billion. CSX filed a complaint under the 4-R Act, noting that the old appraisal methodology would have valued the property at only $6 billion. Despite CSX's argument that the 4-R Act allows railroads to challenge state valuation methods, the district court ruled that the only the state's methodology could be considered.</p>\n<p>The U.S. Court of Appeals for the Eleventh Circuit affirmed the lower court. The Eleventh Circuit ruled that in the absence of a clear statement in the 4-R Act, principles of federalism weighed against interpreting the Act to give railroads additional power to challenge the taxing authority of the states in federal court. The Circuit Court stood by the general principle that federal courts should not interfere with state taxation policies. Since the 4-R Act did not allow challenges to the state's choice of valuation method, CSX could not bring its arguments that Georgia's methodology was faulty.</p>\n",
+    "conclusion": "<p>The Court reversed the 11th Circuit in a unanimous decision. Writing for the Court, Chief Justice John G. Roberts, Jr. stated that courts cannot blindly accept the states' market valuations without potentially endorsing the type of discriminatory tax practices that the 4-R Act was designed to thwart. The Court also rejected Georgia's state sovereignty argument, holding that tax valuation methods are technical tools utilized by state employees, not expressions of state policy.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 54207,
+    "name": "Harris v. Forklift Systems, Inc.",
+    "href": "https://api.oyez.org/cases/1993/92-1168",
+    "view_count": 0,
+    "docket_number": "92-1168",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                750488400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37254"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                752824800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37255"
+        }
+    ],
+    "question": "<p>Must sexual harassment \"seriously affect [an employee's] psychological well being\" in order to create an \"abusive work environment\" that violates Title VII of the Civil Rights Act of 1964?</p>\n",
+    "citation": {
+        "volume": "510",
+        "page": "17",
+        "year": "1993",
+        "href": "https://api.oyez.org/case_citation/case_citation/18136"
+    },
+    "term": "1993",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/510/17/",
+    "facts_of_the_case": "<p>Teresa Harris was sexually harassed by her employer. She filed suit in federal district court, claiming that the harassment created an \"abusive work environment\" in violation of Title VII of the Civil Rights Act of 1964. The employer countered that the harassment had not been severe enough to seriously affect her psychologically or impair her ability to work, and that it therefore did not create an abusive work environment under the meaning of Title VII. The district court agreed, stating that the decision was a \"close case\" but that the harassment had not been severe enough to create an abusive work environment in violation of the Act. A Sixth Circuit Court of Appeals panel affirmed the district court's decision.</p>\n",
+    "conclusion": "<p>No. In an opinion written by Justice Sandra Day O'Connor, the Court found that the district court had been wrong to focus on whether or not the harassment had caused \"concrete psychological harm.\" Instead, Justice O'Connor wrote that the court should have focused on whether the conduct was hostile or abusive. \"Certainly Title VII bars conduct that would seriously affect a reasonable person's psychological well being, but the statute is not limited to such conduct. So long as the environment would reasonably be perceived, and is perceived, as hostile or abusive... there is no need for it also to be psychologically injurious (in order to find that it violates Title VII).\"</p>\n"
+}

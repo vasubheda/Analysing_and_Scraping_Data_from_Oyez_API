@@ -1,0 +1,42 @@
+{
+    "ID": 55179,
+    "name": "United States v. Banks",
+    "href": "https://api.oyez.org/cases/2003/02-473",
+    "view_count": 0,
+    "docket_number": "02-473",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1046066400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39118"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1066194000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39119"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1070344800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39120"
+        }
+    ],
+    "question": "<p>How long must officers wait after knocking on a door before they can use force to break it down in order to execute a warrant?</p>\n",
+    "citation": {
+        "volume": "540",
+        "page": "31",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/19107"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/540/31/",
+    "facts_of_the_case": "<p>On July 15, 1998 police officers, with a warrant, knocked on the door of suspected drug dealer Lashawn Banks. They waited between 15 and 20 seconds, and when Banks did not come to the door they smashed it open with a battering ram. Banks was arrested but, before his trial, he filed a motion to suppress the evidence found in his apartment because, he claimed, the forced entry had been unlawful. When the request was denied, he pled guilty, but eventually attempted to retract his guilty plea on the advice of a new attorney. The new attorney, Randall Roske, argued that the search was unconstitutional because officers did not wait long enough before breaking down the door, and had no evidence that waiting longer would have had negative consequences. A Ninth Circuit Court of Appeals agreed, ruling the search unconstitutional and suppressing the evidence found during it.</p>\n",
+    "conclusion": "<p>The Court unanimously held that 15 to 20 seconds was a reasonable period for police to wait before entering by force when they were investigating drug charges because waiting any longer was likely to result in the destruction of evidence. Justice David Souter, writing for the court, stated that \"while we agree... that this call is a close one, we think that after 15 to 20 seconds without a response, police could fairly suspect that cocaine would be gone if they were reticent any longer.\"</p>\n"
+}

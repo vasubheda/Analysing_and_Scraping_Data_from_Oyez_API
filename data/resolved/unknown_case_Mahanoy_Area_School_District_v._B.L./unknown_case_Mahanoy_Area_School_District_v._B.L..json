@@ -1,0 +1,42 @@
+{
+    "ID": 63314,
+    "name": "Mahanoy Area School District v. B.L.",
+    "href": "https://api.oyez.org/cases/2020/20-255",
+    "view_count": 0,
+    "docket_number": "20-255",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1610085600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54823"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1619586000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54889"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1624424400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54923"
+        }
+    ],
+    "question": "<p>Does the First Amendment prohibit public school officials from regulating off-campus student speech?</p>\n",
+    "citation": {
+        "volume": "594",
+        "page": null,
+        "year": "2021",
+        "href": "https://api.oyez.org/case_citation/case_citation/27789"
+    },
+    "term": "2020",
+    "description": "A case in which the Court held that the First Amendment limits but does not entirely prohibit regulation of off-campus student speech by public school officials.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/594/20-255/",
+    "facts_of_the_case": "<p>B.L., a student at Mahanoy Area High School (MAHS), tried out for and failed to make her high school's varsity cheerleading team, making instead only the junior varsity team. Over a weekend and away from school, she posted a picture of herself on Snapchat with the caption \u201cFuck school fuck softball fuck cheer fuck everything.\u201d The photo was visible to about 250 people, many of whom were MAHS students and some of whom were cheerleaders. Several students who saw the captioned photo approached the coach and expressed concern that the snap was inappropriate. The coaches decided B.L.\u2019s snap violated team and school rules, which B.L. had acknowledged before joining the team, and she was suspended from the junior varsity team for a year.</p>\n<p>B.L. sued the school under 42 U.S.C. \u00a7 1983 alleging (1) that her suspension from the team violated the First Amendment; (2) that the school and team rules were overbroad and viewpoint discriminatory; and (3) that those rules were unconstitutionally vague. The district court granted summary judgment in B.L.\u2019s favor, ruling that the school had violated her First Amendment rights. The U.S. Court of Appeals for the Third Circuit affirmed.</p>\n",
+    "conclusion": "<p>The First Amendment limits but does not entirely prohibit regulation of off-campus student speech by public school officials, and, in this case, the school district\u2019s decision to suspend B.L. from the cheerleading team for posting to social media vulgar language and gestures critical of the school violates the First Amendment. Justice Stephen Breyer authored the 8-1 majority opinion of the Court.</p>\n<p>Although public schools may regulate student speech and conduct on campus, the Court\u2019s precedents make clear that students do not \u201cshed their constitutional rights to freedom of speech or expression\u201d when they enter campus. The Court has also recognized that schools may regulate student speech in three circumstances: (1) indecent, lewd, or vulgar speech on school grounds, (2) speech promoting illicit drug use during a class trip, and (3) speech that others may reasonably perceive as \u201cbear[ing] the imprimatur of the school,\u201d such as that appearing in a school-sponsored newspaper. Moreover, in <a href=\"https://www.oyez.org/cases/1968/21\"><em>Tinker v. Des Moines Independent Community School District</em>, 393 U.S. 503 (1969)</a>, the Court held that schools may also regulate speech that \u201cmaterially disrupts classwork or involves substantial disorder or invasion of the rights of others.\u201d</p>\n<p>The school\u2019s interests in regulating these types of student speech do not disappear when the speaker is off campus. Three features of off-campus speech diminish the need for First Amendment leeway: (1) off-campus speech normally falls within the zone of parental responsibility, rather than school responsibility, (2) off-campus speech regulations coupled with on-campus speech regulations would mean a student cannot engage in the regulated type of speech at all, and (3) the school itself has an interest in protecting a student\u2019s unpopular off-campus expression because the free marketplace of ideas is a cornerstone of our representative democracy.</p>\n<p>In this case, B.L. spoke in circumstances where her parents, not the school, had responsibility, and her speech did not cause \u201csubstantial disruption\u201d or threaten harm to the rights of others. Thus, her off-campus speech was protected by the First Amendment, and the school\u2019s decision to suspend her violated her First Amendment rights.</p>\n<p>Justice Samuel Alito authored a concurring opinion, joined by Justice Neil Gorsuch, explaining his understanding of the Court\u2019s decision. Justice Alito argued that a key takeaway of the Court\u2019s decision is that \u201cthe regulation of many types of off-premises student speech raises serious First Amendment concerns, and school officials should proceed cautiously before venturing into this territory.\u201d</p>\n<p>Justice Clarence Thomas authored a dissenting opinion, arguing that schools have historically had the authority to regulate speech when it occurs off campus, so long as it has a proximate tendency to harm the school, its faculty or students, or its programs. Justice Thomas viewed the facts of this case as falling squarely within that rule and thus would have held that the school could properly suspend B.L. for her speech.</p>\n"
+}

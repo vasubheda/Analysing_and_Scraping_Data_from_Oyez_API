@@ -1,0 +1,35 @@
+{
+    "ID": 53861,
+    "name": "International Union, United Automobile, Aerospace & Agricultural Implement Workers of America, UAW",
+    "href": "https://api.oyez.org/cases/1990/89-1215",
+    "view_count": 0,
+    "docket_number": "89-1215",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                655534800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36600"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                669448800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36601"
+        }
+    ],
+    "question": "<p>Does a policy barring the participation of potentially fertile and pregnant women in occupations that could be detrimental to their reproductive capacities constitute sexual discrimination in violation of Title VII of the 1964 Civil Rights Act?</p>\n",
+    "citation": {
+        "volume": "499",
+        "page": "187",
+        "year": "1991",
+        "href": "https://api.oyez.org/case_citation/case_citation/17790"
+    },
+    "term": "1990",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/499/187/",
+    "facts_of_the_case": "<p>Johnson Controls, Inc. (\"Johnson\") manufactures batteries whose assembly process entails exposure to high levels of lead. After discovering that eight of its female employees became pregnant while maintaining blood lead levels in excess of those thought safe by the Occupational Safety and Health Administration (OSHA), Johnson barred all its female employees - except those with medically documented infertility - from engaging in tasks that require exposure to lead in access of recommended OSHA levels. Following its passage, the United Automobile Workers (UAW) challenged Johnson's fetal-protection policy as sexually discriminatory in violation of Title VII of the 1964 Civil Rights Act (Act). When the Appellate Court affirmed a district court decision in favor of Johnson, the UAW appealed and the Supreme Court granted certiorari.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous decision, the Court noted that even well intentioned proposals are forbidden if they result in discrimination. Johnson's fetal-protection plan discriminated against women by not requiring their male counterparts to demonstrate proof of medical sterility, despite the fact that lead exposure has also proved hazardous to male reproductive systems. The Court added that Johnson's fetal-protection plan fell outside the bona fide occupational qualification exception of Title VII, since the exception only permits employers to discriminate based on qualities that detrimentally impact on an employee's job performance. In the present case, although lead exposure may be harmful to the unborn, Johnson furnished no proof that it detracted from its female employees' abilities to perform any of their essential tasks.</p>\n"
+}

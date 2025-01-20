@@ -1,0 +1,42 @@
+{
+    "ID": 62998,
+    "name": "Virginia Uranium, Inc. v. Warren",
+    "href": "https://api.oyez.org/cases/2018/16-1275",
+    "view_count": 0,
+    "docket_number": "16-1275",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1526878800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54277"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1541397600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54362"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1560747600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54536"
+        }
+    ],
+    "question": "<p>Does the federal Atomic Energy Act preempt a Virginia ban on non-federal uranium mining?</p>\n",
+    "citation": {
+        "volume": "587",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27599"
+    },
+    "term": "2018",
+    "description": "A case in which the Court affirmed the Fourth Circuit's decision that the federal Atomic Energy Act does not preempt a Virginia ban on non-federal uranium mining.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/587/16-1275/",
+    "facts_of_the_case": "<p>The federal Atomic Energy Act regulates nuclear power generation in the United States, and the Nuclear Regulatory Commission (NRC) enforces the provisions of the Act. In the early 1980s, a uranium deposit was discovered in Pittsylvania County, Virginia, on land owned by Coles Hill and Bowen Minerals (both plaintiffs in this case). The Virginia General Assembly called upon the state Coal and Energy Commission to evaluate the effects of mining uranium but in the meantime banned the mining of uranium \u201cuntil a program for permitting uranium mining is established by statute.\u201d Despite a recommendation by the state commission, the ban on uranium mining remains in effect.</p>\n<p>Virginia Uranium, Coles Hills, and Bowen Minerals filed a federal lawsuit in the Western District of Virginia asking the court to declare the ban preempted by federal law and enjoining the state to grant uranium mining permits. The district court granted the state\u2019s motion to dismiss the lawsuit, finding that the AEA does not regulate non-federal uranium deposits and thus does not preempt the state law ban. Reviewing the district court\u2019s conclusion de novo, the Fourth Circuit affirmed.</p>\n",
+    "conclusion": "<p>The federal Atomic Energy Act (AEA) does not preempt a Virginia state-law ban on non-federal uranium mining. Justice Neil Gorsuch authored the three-justice plurality opinion.</p>\n<p>Looking first at the text of the AEA, the plurality found it notably lacking in any provision expressly preempting state law and in fact that it grants the Nuclear Regulatory Commission (NRC) extensive authority to regulate nearly every aspect of nuclear fuel except mining. Thus, states are free to regulate the mining of uranium. The plurality declined to speculate as to the legislative purpose behind the AEA and found Virginia Uranium\u2019s arguments for preemption to go far beyond the statute\u2019s text and structure.</p>\n<p>Justice Ruth Bader Ginsburg filed an opinion concurring in the judgment in which Justices Sonia Sotomayor and Elena Kagan joined. Justice Ginsburg agrees that Virginia\u2019s mining ban is not preempted but declines to join the plurality\u2019s discussion of \u201cthe perils of inquiring into legislative motive.\u201d</p>\n<p>Chief Justice John Roberts filed a dissenting opinion in which Justices Stephen Breyer and Samuel Alito joined. The dissent criticizes the plurality opinion for \u201cset[ting] out to defeat an argument that no one made, reaching a conclusion with which no one disagrees.\u201d The dissent would characterize the question as whether a state can purport to regulate a field that is not preempted as an indirect means of regulating other fields that are preempted, and to that question the dissent would answer in the negative.</p>\n"
+}

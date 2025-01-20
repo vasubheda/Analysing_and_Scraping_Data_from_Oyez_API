@@ -1,0 +1,28 @@
+{
+    "ID": 54929,
+    "name": "Ohio v. Reiner",
+    "href": "https://api.oyez.org/cases/2000/00-1028",
+    "view_count": 0,
+    "docket_number": "00-1028",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                984981600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38598"
+        }
+    ],
+    "question": "<p>May a witness who claims no involvement in a crime assert a Fifth Amendment right against self-incrimination?</p>\n",
+    "citation": {
+        "volume": "532",
+        "page": "17",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18858"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/532/17/",
+    "facts_of_the_case": "<p>Matthew Reiner was charged with involuntary manslaughter in connection with the death of his 2-month-old son Alex. The defense planned to argue that Susan Batt, the family's babysitter, was the culpable party. The trial court granted Batt transactional immunity from prosecution, at the state's request, after she informed the court she intended to assert her Fifth Amendment privilege against self-incrimination. Ultimately, Batt denied any involvement in the death. Reiner was convicted. The Court of Appeals of Ohio reversed. In affirming, the Supreme Court of Ohio held that \"Susan Batt's [trial] testimony did not incriminate her because she denied any involvement in the abuse. Thus, she did not have a valid Fifth Amendment privilege.\" The court noted that the defense's theory of Batt's guilt was not grounds for a grant of immunity, \"when the witness continues to deny any self-incriminating conduct.\" The court also found that the wrongful grant of immunity prejudiced Reiner, because it effectively told the jury that Batt did not cause Alex's injuries.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion, the Court held that, while the self-incrimination privilege's protection only extended to witnesses who had reasonable cause to apprehend danger from a direct answer, the babysitter's expression of innocence did not by itself eliminate the babysitter's privilege and that the grant of immunity was thus not an error. The opinion stated that the \"defense's theory of the case was that Batt, not [Reiner], was responsible for Alex's death... . In this setting, it was reasonable for Batt to fear that answers to possible questions might tend to incriminate her. Batt therefore had a valid Fifth Amendment privilege against self-incrimination.\"</p>\n"
+}

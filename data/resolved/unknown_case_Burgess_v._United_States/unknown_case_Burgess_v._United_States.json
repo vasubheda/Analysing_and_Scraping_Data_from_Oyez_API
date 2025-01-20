@@ -1,0 +1,42 @@
+{
+    "ID": 55507,
+    "name": "Burgess v. United States",
+    "href": "https://api.oyez.org/cases/2007/06-11429",
+    "view_count": 0,
+    "docket_number": "06-11429",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1197007200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40011"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1206334800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40012"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1208322000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40013"
+        }
+    ],
+    "question": "<p>Did the Fourth Circuit err in determining that Burgess' sentencing hike for a drug distribution charge was sufficiently mandated by 21 U.S.C. Section 841(b)(1)(A), which requires such a hike for individuals with prior felony drug convictions regardless of length of imprisonment, when another federal statute, 21 U.S.C. Section 802, requires that a felony drug offense be \"punishable by imprisonment for more than a year\"?</p>\n",
+    "citation": {
+        "volume": "553",
+        "page": "124",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20718"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/553/124/",
+    "facts_of_the_case": "<p>When Keith Burgess pleaded guilty to a drug distribution charge in 2003, the government requested that his statutory minimum sentence be increased from ten to twenty years. The government based this request on 21 U.S.C. Section 841(b)(1)(A), which requires such a sentencing hike for defendants with prior felony drug convictions. The statute defined \"felony drug offense\" as any felony under any provision of the statute or any other federal law. Burgess argued that this definition conflicts with 21 U.S.C. Section 802(13) which requires that a felony drug offense be punishable by imprisonment for more than a year. Therefore, any enhancement of his sentence must be barred unless both statutory definitions are fulfilled. Although the U.S. Court of Appeals for the Fourth Circuit rejected Burgess' argument, the D.C. Circuit reached the opposite conclusion based on similar facts in 2004.</p>\n",
+    "conclusion": "<p>The Court upheld the sentencing hike, stating that the definition of a felony drug offense in 12 U.S.C. 841 as punishable by imprisonment for more than one year was controlling regardless of whether South Carolina classified the offense as a felony or a misdemeanor. Justice Ruth Bader Ginsburg, writing for a unanimous Court, explained that the definition of \"felony drug offense\" in the statute does not incorporate any other definition of \"felony\" under federal or state law.</p>\n"
+}

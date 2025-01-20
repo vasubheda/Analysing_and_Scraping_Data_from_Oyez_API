@@ -1,0 +1,42 @@
+{
+    "ID": 55701,
+    "name": "Abbott v. Abbott",
+    "href": "https://api.oyez.org/cases/2009/08-645",
+    "view_count": 0,
+    "docket_number": "08-645",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1246251600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40533"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1263276000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40534"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1274072400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40535"
+        }
+    ],
+    "question": "<p>Does a clause that prohibits one parent from removing a child from a country without the other parent's consent confer a \"right of custody\" within the meaning of the Hague Convention on International Child Abduction?</p>\n",
+    "citation": {
+        "volume": "560",
+        "page": "1",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19623"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that the Hague Convention gave a father a right to have his child brought back to Chile from Texas after the child's mother violated her divorce agreement that required both parents' consent for the child to be taken out of Chile.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/560/1/",
+    "facts_of_the_case": "<p>Timothy Abbott, a British citizen, and Jacquelyn Abbott, an American citizen, litigated their divorce in the Chilean courts. Mrs. Abbott was awarded custody of their son, while Mr. Abbott was awarded visitation rights. At Mrs. Abbott's request, the Chilean court entered an order prohibiting the child's removal from Chile by either the father or mother without express mutual consent. One year later, Mrs. Abbott moved the child from Chile without Mr. Abbott's consent. Upon location of the child in Texas, Mr. Abbott requested an order in a Texas federal district court that the child be returned to Chile pursuant to the Hague Convention on the Civil Aspects of International Child Abduction. The district court denied the order holding that the child's removal did not constitute a breach of the father's \"rights of custody\" as defined by the Hague convention.</p>\n<p>On appeal, the U.S. Court of Appeals for the Fifth Circuit affirmed, holding that the Chilean court's order and Chilean statute that required father's consent before the child could leave Chile did not give a non-custodial father \"rights of custody\" within the meaning of the Hague Convention. The court stated that Mr. Abbott merely possessed the rights of \"access to the child.\"</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court held that a parent has a right of custody under the Hague Convention on International Child Abduction when the parent retains a <em>ne exeat</em> right (the right to restrain someone from leaving a country). Here, Mr. Abbott retained such a right. With Justice Anthony M. Kennedy writing for the majority, the Court first recognized that the Convention applies because the child in question is under 16 and was a habitual resident of Chile. (Chile and the U.S. are signatories to the Convention.) The Court then reasoned that the Convention's text, the U.S. State Department's views, signatory states' court orders, and the Convention's purposes all suggest that Mr. Abbott retained a <em>ne exeat</em> right under Article 49 of the Convention. Because Mr. Abbott possessed direct and regular visitation rights with his child, his <em>ne exeat</em> followed. The Court noted that Mr. Abbott's <em>ne exeat</em> right gave him a right of custody to his child, so long as Ms. Abbott could not find an exception in the Convention precluding the exercise of Mr. Abbott's right to custody.</p>\n<p>Justice John Paul Stevens, joined by Justices Clarence Thomas and Stephen G. Breyer, dissented. He argued that Mr. Abbott merely possessed a limited veto power over Ms. Abbott's ability take their son from Chile, not a custody right. He went on to explain that using the Convention's powerful return remedy under these circumstances is contrary to the Convention's \"text and purpose.\"</p>\n"
+}

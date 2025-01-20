@@ -1,0 +1,42 @@
+{
+    "ID": 63456,
+    "name": "303 Creative LLC v. Elenis",
+    "href": "https://api.oyez.org/cases/2022/21-476",
+    "view_count": 0,
+    "docket_number": "21-476",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1645509600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55045"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1670220000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55182"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1688101200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55299"
+        }
+    ],
+    "question": "<p>Does application of the Colorado AntiDiscrimination Act to compel an artist to speak or stay silent violate the Free Speech Clause of the First Amendment?</p>\n",
+    "citation": {
+        "volume": "600",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27881"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held that applying a public-accommodation law to compel an artist to speak or stay silent violates the Free Speech Clause of the First Amendment. \u200b\u200b",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/600/21-476/",
+    "facts_of_the_case": "<p>Lorie Smith is the owner and founder of a graphic design firm, 303 Creative LLC. She wants to expand her business to include wedding websites. However, she opposes same-sex marriage on religious grounds so does not want to design websites for same-sex weddings. She wants to post a message on her own website explaining her religious objections to same-sex weddings.</p>\n<p>The Colorado AntiDiscrimination Act (\u201cCADA\u201d) prohibits businesses that are open to the public from from discriminating on the basis of numerous characteristics, including sexual orientation. The law defines discrimination not only as refusing to provide goods or services, but also publishing any communication that says or implies that an individual\u2019s patronage is unwelcome because of a protected characteristic.</p>\n<p>Even before the state sought to enforce CADA against her, Smith and her company challenged the law in federal court, alleging numerous constitutional violations. The district court granted summary judgment for the state, and the U.S. Court of Appeals for the Tenth Circuit affirmed.</p>\n",
+    "conclusion": "<p>The First Amendment prohibits Colorado from forcing a website designer to create expressive designs that convey messages with which the designer disagrees. Justice Neil Gorsuch authored the 6-3 majority opinion of the Court.</p>\n<p>The First Amendment exists to protect an \u201cuninhibited marketplace of ideas\u201d and individual liberty, which means the government generally cannot compel a person to espouse its preferred messages. The wedding websites Lorie Smith seeks to create in this case are \u201cprotected First Amendment speech.\u201d Colorado's law, intending to enforce non-discrimination, would compel her to express messages contrary to her beliefs.</p>\n<p>Although public accommodations play a key role in promoting civil rights, these laws must bow to constitutional imperatives and cannot be used to compel individuals to express messages they disagree with.</p>\n<p>Justice Sonia Sotomayor authored a dissenting opinion, in which Justices Elena Kagan and Ketanji Brown Jackson joined, lamenting that, \u201cthe Court, for the first time in its history, grants a business open to the public a constitutional right to refuse to serve members of a protected class.\u201d</p>\n"
+}

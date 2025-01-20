@@ -1,0 +1,35 @@
+{
+    "ID": 54769,
+    "name": "Norfolk Southern Railway Company v. Shanklin",
+    "href": "https://api.oyez.org/cases/1999/99-312",
+    "view_count": 0,
+    "docket_number": "99-312",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                951890400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38295"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                955947600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38296"
+        }
+    ],
+    "question": "<p>Does the Federal Railroad Safety Act of 1970 pre-empt tort claims, based on State statutory and common law, concerning a railroad's failure to maintain adequate warning devices at crossings where federal funds have participated in the installation of the devices?</p>\n",
+    "citation": {
+        "volume": "529",
+        "page": "344",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18698"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/529/344/",
+    "facts_of_the_case": "<p>In 1993, Eddie Shanklin was struck and killed by a Norfolk Southern train at a railroad intersection. At the time of the accident, the intersection was equipped with advanced warning signs and reflectorized crossbucks, which were installed with federal funds under the Federal Railway-Highway Crossings Program and were fully compliant with the federal standards for such devices. Afterwards, Dedra Shanklin, Mr. Shanklin's widow, brought a diversity wrongful death action against Norfolk Southern. Shanklin alleged, based on Tennessee statutory and common law, that Norfolk Southern had been negligent by failing to maintain adequate warning devices at the crossing. Norfolk Southern moved for summary judgment on the ground that the Federal Railroad Safety Act of 1970 (FRSA) pre-empted Shanklin's suit. The FRSA contains an express pre-emption provision, which allows States to enforce their railroad safety measures until the Secretary of Transportation prescribes a regulation or issues an order covering the subject matter of the State requirement. The District Court held that Shanklin's allegation that the signs installed at the crossing were inadequate was not pre-empted and, ultimately, entered judgement for her. In affirming, the Court of Appeals reasoned that federal funding alone was insufficient to trigger pre-emption of state tort actions under the FRSA. The court concluded that because the Tennessee Department of Transportation had installed the signs for the purpose of providing \"minimum protection,\" no individualized determination of adequacy had be made by the Federal Highway Administration (FHWA) under the Crossings Program.</p>\n",
+    "conclusion": "<p>Yes. In a 7-2 opinion delivered by Justice Sandra Day O'Connor, the Court held that railroads cannot b sued under state tort law over allegedly inadequate warning devices at rail crossings if the equipment installed was federally funded. Justice O'Connor wrote for the Court that \"[o]nce the FHWA approved the project and the signs were installed using federal funds, the federal standard for adequacy displaced Tennessee statutory and common law addressing the same subject, thereby pre-empting [Shanklin's] claim.\" Justice Ruth Bader Ginsburg, in a dissenting opinion joined by Justice John Paul Stevens, wrote that the consequence of the Court's decision \"is that state negligence law is displaced with no substantive federal standard of conduct to fill the void.\"</p>\n"
+}

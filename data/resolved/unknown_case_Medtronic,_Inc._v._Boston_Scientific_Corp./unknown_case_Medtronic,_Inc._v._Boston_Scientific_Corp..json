@@ -1,0 +1,42 @@
+{
+    "ID": 56000,
+    "name": "Medtronic, Inc. v. Boston Scientific Corp.",
+    "href": "https://api.oyez.org/cases/2013/12-1128",
+    "view_count": 0,
+    "docket_number": "12-1128",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1369026000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41327"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1383631200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41328"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1390370400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41556"
+        }
+    ],
+    "question": "<p>In patent license cases, does the burden of proof rest on the patent holder to prove that an infringement occurred?</p>\n",
+    "citation": {
+        "volume": "571",
+        "page": "191",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20868"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that, in a patent infringement case, the burden of proof of infringement is on the patent holder.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/571/191/",
+    "facts_of_the_case": "<p>Between 1969 and 1980, Dr. Morton Mower worked with Dr. Mieczyslaw Mirowski to develop the implantable cardioverter defibrillator (ICD) and the cardiac resynchronization therapy device (CRT), both devices that are meant to treat different kinds of heart failure. Mirowski Family Ventures (MFV) held both patents and licensed them to Guidant Corp. In 1991, Medtronic, a manufacturer of medical devices and equipment, entered into a sublicense agreement with Eli Lilly &amp; Co., Guidant Corp's predecessor-in-interest regarding these patents. The agreement obligated MFV to inform Medtronic which items were covered by which patents, and if Medtronic disagreed, Medtronic could retain patent rights and file for a declaratory judgment of non-infringement on the patents. In October and November of 2007, MFV identified several Medtronic products that it believed infringed on its patents, and Medtronic subsequently sued for a declaratory judgment of non-infringement.</p>\n<p>In the bench trial in district court, the court, relying on precedent, stated that the patent holder bears the burden of proving that infringement occurred and found in favor of Medtronic. MFV appealed and argued that the burden falls on the alleged patent infringer to prove that infringement did not occur. The United States Court of Appeals for the Federal Circuit held that, because Medtronic is the party seeking relief from the court, it bears the burden to prove that it did not infringe on MFV's patents.</p>\n",
+    "conclusion": "<p>Yes. Justice Stephen G. Breyer delivered the opinion for the unanimous Court. The Supreme Court held that judicial precedent supports the view that the burden of proof in patent cases always rests with the owner of the patent, regardless of the type of legal action in question. To shift the burden based on the type of legal action could create ambiguity regarding the rights of each party. Because the public interest favors a well-functioning patent system, it is in the best interest of the public not to shift the ordinary rule regarding burden of proof in patent cases.</p>\n"
+}

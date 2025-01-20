@@ -1,0 +1,42 @@
+{
+    "ID": 56172,
+    "name": "McConnell v. Federal Election Commission",
+    "href": "https://api.oyez.org/cases/2003/02-1674",
+    "view_count": 0,
+    "docket_number": "02-1674",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1054789200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51658"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1062997200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51657"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1071036000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51659"
+        }
+    ],
+    "question": "<ol>\n<li>\n<p>Does the \"soft money\" ban of the Bipartisan Campaign Reform Act of 2002 exceed Congress's authority to regulate elections under Article 1, Section 4 of the United States Constitution and/or violate the First Amendment's protection of the freedom to speak?</p>\n</li>\n<li>\n<p>Do regulations of the source, content, or timing of political advertising in the Campaign Finance Reform Act of 2002 violate the First Amendment's free speech clause?</p>\n</li>\n</ol>\n",
+    "citation": {
+        "volume": "540",
+        "page": "93",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/20954"
+    },
+    "term": "2003",
+    "description": "A case in which the Court found that regulations in the Campaign Finance Reform Act of 2002 did not violate the First Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/540/93/",
+    "facts_of_the_case": "<p>In early 2002, a many years-long effort by Senators John McCain and Russell Feingold to reform the way that money is raised for--and spent during-- political campaigns culminated in the passage of the Bipartisan Campaign Reform Act of 2002 (the so-called McCain-Feingold bill sometimes referred to as BCRA). Its key provisions were a) a ban on unrestricted (\"soft money\") donations made directly to political parties (often by corporations, unions, or wealthy individuals) and on the solicitation of those donations by elected officials; b) limits on the advertising that unions, corporations, and non-profit organizations can engage in up to 60 days prior to an election; and c) restrictions on political parties' use of their funds for advertising on behalf of candidates (in the form of \"issue ads\" or \"coordinated expenditures\").</p>\n<p>The campaign finance reform bill contained an unusual provision providing for an early federal trial and a direct appeal to the Supreme Court of the United States, by-passing the typical federal judicial process. In May a special three-judge panel struck down portions of the Campaign Finance Reform Act's ban on soft-money donations but upheld some of the Act's restrictions on the kind of advertising that parties can engage in. The ruling was stayed until the Supreme Court could hear and decide the resulting appeals.</p>\n",
+    "conclusion": "<p>With a few exceptions, the Court answered \"no\" to both questions in a 5-to-4 decision written by Justices Sandra Day O'Connor and John Paul Stevens. Because the regulations dealt mostly with soft-money contributions that were used to register voters and increase attendance at the polls, not with campaign expenditures (which are more explicitly a statement of political values and therefore deserve more protection), the Court held that the restriction on free speech was minimal. It then found that the restriction was justified by the government's legitimate interest in preventing \"both the actual corruption threatened by large financial contributions and... the appearance of corruption\" that might result from those contributions.</p>\n<p>In response to challenges that the law was too broad and unnecessarily regulated conduct that had not been shown to cause corruption (such as advertisements paid for by corporations or unions), the Court found that such regulation was necessary to prevent the groups from circumventing the law. Justices O'Connor and Stevens wrote that \"money, like water, will always find an outlet\" and that the government was therefore justified in taking steps to prevent schemes developed to get around the contribution limits.</p>\n<p>The Court also rejected the argument that Congress had exceeded its authority to regulate elections under Article I, Section 4 of the Constitution. The Court found that the law only affected state elections in which federal candidates were involved and also that it did not prevent states from creating separate election laws for state and local elections.</p>\n<p>[In total, the Court addressed 21 sections of federal law. We have distilled these disparate components into 12 separate votes which we detail at the end of this document.]</p>\n"
+}

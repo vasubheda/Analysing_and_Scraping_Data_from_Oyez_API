@@ -1,0 +1,42 @@
+{
+    "ID": 56180,
+    "name": "Montanile v. Board of Trustees of the National Elevator Industrial Health Benefit Plan",
+    "href": "https://api.oyez.org/cases/2015/14-723",
+    "view_count": 0,
+    "docket_number": "14-723",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1427691600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41783"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1447048800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52811"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1453269600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53389"
+        }
+    ],
+    "question": "<p>For purposes of the Employee Retirement Income Security Act of 1974, is a reimbursement to an employee welfare benefit plan \u201cappropriate equitable relief\u201d if the identified source of the reimbursement has already been spent or disbursed?</p>\n",
+    "citation": {
+        "volume": "577",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/20964"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that the Employee Retirement Income Security Act of 1974 does not allow for a suit to recover reimbursement of an asset that has been fully disbursed on non-traceable items such as services. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/577/136/",
+    "facts_of_the_case": "<p>In late 2008, Robert Montanile was involved in a car accident that resulted in significant injuries. Montanile was covered by an employee welfare benefit plan administered by the Board of Trustees of the National Elevator Industrial Health Benefit Plan (Plan). After Montanile\u2019s accident, the Plan dispersed over $120,000 to cover Montanile\u2019s medical expenses. Montanile later sued the driver of the other car involved in the accident, eventually obtaining a $500,000 settlement. Per its terms, the Plan then requested that Montanile reimburse the initial $120,000 disbursement. When Montanile and the Plan were unable to reach an agreement, the Plan sued Montanile.</p>\n<p>The Plan is governed by the Employee Retirement Income Security Act of 1974 (ERISA), which allows plan administrators to recover overpayment from a beneficiary when the recovery would constitute \u201cappropriate equitable relief\u201d. The trial court held that the terms of the Plan required Montanile to repay the initial $120,000, and that this repayment was appropriate equitable relief in part because the Plan was able to identify a source of funds within Montanile\u2019s possession\u2014the $500,000 settlement. Montanile appealed and claimed that the repayment would not be equitable relief because the settlement had been spent or disbursed to other parties. The U.S. Court of Appeals for the Eleventh Circuit held that, because the Plan had a right to reimbursement, the Plan\u2019s lien against Montanile\u2019s $500,000 settlement attached before Montanile spent or disbursed the funds. Therefore, Montanile could not evade the repayment by claiming the settlement funds had been spent or disbursed.</p>\n",
+    "conclusion": "<p>If a third party asset has been wholly disbursed on non-traceable items (such as services), ERISA does not allow for a suit to recover reimbursement of that asset. Justice Clarence Thomas delivered the opinion of the 8-1 majority. The Court held that, while the Plan had a claim under ERISA to the settlement fund when it was in Montanile\u2019s possession, the claim does not extend beyond the dissipation of the fund in question. When the fund is completely dissipated on non-traceable items, such as services, there is no fund to which the Plan would have a claim, and the Board may not then seek to attach the claim to the plan-beneficiary\u2019s general assets. The Court also held that its precedent on \u201cappropriate equitable relief\u201d does not dictate a different result.</p>\n<p>Justice Ruth Bader Ginsburg wrote a dissent in which she argued that allowing a plan-beneficiary to escape his reimbursement obligation by disbursing his settlement fund on non-traceable items would undo nearly forty years of Supreme Court precedent regarding \u201cappropriate equitable relief.\u201d</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55606,
+    "name": "Bell v. Kelly",
+    "href": "https://api.oyez.org/cases/2008/07-1223",
+    "view_count": 0,
+    "docket_number": "07-1223",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1210568400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40291"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1226469600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40292"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1226901600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40293"
+        }
+    ],
+    "question": "<p>Under the Supreme Court's ruling in <em>Strickland</em>, is it reasonable for a court to determine that a defendant did not suffer actual prejudice in an ineffective assistance of counsel claim when his lawyer failed to introduce witness testimony that may have reduced the defendant's sentence from death to life in prison?</p>\n",
+    "citation": {
+        "volume": "555",
+        "page": "55",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20790"
+    },
+    "term": "2008",
+    "description": "A case which the Court dismissed regarding whether a court may determine if a defendant suffered from ineffective assistance of counsel when his lawyer failed to introduce witness testimony that may have reduced the defendant's sentence from death to life in prison.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/555/55/",
+    "facts_of_the_case": "<p>Edward Bell was convicted and sentenced to death in a Virginia state court for murdering a police sergeant. After unsuccessfully appealing his case through direct review and state habeas proceedings, Bell filed a writ of habeas corpus in the U.S. District Court for the Western District of Virginia. Bell argued that he had received ineffective assistance of counsel at trial, suggesting that his lawyer failed to investigate and present evidence from five witnesses that may have reduced his death sentence to life in prison.</p>\n<p>The Supreme Court, in <em>Strickland</em>, has previously stated that a petitioner must show (1) deficient performance and (2) prejudice in order to succeed on a claim for ineffective assistance. Based on these principles, the district court dismissed Bell's claim and, on appeal, the U.S. Court of Appeals for the Fourth Circuit affirmed the dismissal. The Fourth Circuit found that the conclusions of the Virginia state courts were reasonable and that Bell had failed to show that he had suffered actual prejudice. According to the court, the aggravating testimony from the witnesses outweighed any mitigating effects the missing testimony may have had.</p>\n",
+    "conclusion": "<p>The writ of certiorari was dismissed as improvidently granted.</p>\n"
+}

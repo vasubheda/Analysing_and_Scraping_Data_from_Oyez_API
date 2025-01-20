@@ -1,0 +1,42 @@
+{
+    "ID": 56121,
+    "name": "Commil USA, LLC v. Cisco Systems, Inc.",
+    "href": "https://api.oyez.org/cases/2014/13-896",
+    "view_count": 0,
+    "docket_number": "13-896",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1417759200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41717"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1427778000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41718"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1432616400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51660"
+        }
+    ],
+    "question": "<p>Is a good-faith belief that a patent is invalid a defense to a claim of induced infringement?</p>\n",
+    "citation": {
+        "volume": "575",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20940"
+    },
+    "term": "2014",
+    "description": "A case in which the Court decided that a good-faith belief that a patent is invalid is not a defense to a claim of induced infringement.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/575/632/",
+    "facts_of_the_case": "<p>Commil USA, LLC (Commil) holds a patent on a method to implement short-range wireless networks. Commil sued Cisco Systems, Inc. (Cisco) and alleged that Cisco performed the patented method and induced its customers to infringe by performing the patented method. Cisco argued that Commil's patent was invalid for indefiniteness, non-enablement, and lack of written description. The district court found for Commil and awarded more than $70 million in damages. Cisco appealed and argued that the trial court erroneously instructed the jury that the standard for inducement was negligence and precluded the submission of evidence of Cisco's good-faith belief that Commil's patent was invalid. The U.S. Court of Appeals for the Federal Circuit reversed and held that the standard for induced infringement is actual knowledge or willful blindness, and therefore that a good-faith belief of patent invalidity was a defense to claims of induced infringement.</p>\n",
+    "conclusion": "<p>No. Justice Anthony M. Kennedy delivered the opinion for the 6-2 majority. The Court held that, although precedent established that liability for induced infringement required knowledge, infringement and validity are separate matters, and the knowledge requirement does not extend to patent validity. To permit a defense of belief in invalidity \u201cwould conflate the issues of infringement and validity.\u201d Because a patent is presumed to be valid, if belief in invalidity were a defense to induced infringement, then the force of that presumption would be lessened significantly. Additionally, the Court held that allowing a good-faith belief in the patent\u2019s invalidity to be a defense would burden the courts by creating increased litigation regarding the recognition of such invalidity. Therefore, a defendant\u2019s good-faith belief that a patent is invalid is not a defense to a claim of induced infringement.</p>\n<p>Justice Antonin Scalia authored a dissenting opinion in which he argued that good-faith belief in a patent\u2019s invalidity is a defense to induced infringement because knowledge of infringement is a requirement for induced-infringement liability, and there can be no infringement (and hence no knowledge of infringement) of an invalid patent. Chief Justice John G. Roberts, Jr. joined in the dissent.</p>\n<p>Justice Stephen G. Breyer did not participate in the discussion or decision of this case.</p>\n"
+}

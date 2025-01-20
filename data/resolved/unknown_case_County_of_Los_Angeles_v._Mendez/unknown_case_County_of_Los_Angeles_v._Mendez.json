@@ -1,0 +1,42 @@
+{
+    "ID": 62776,
+    "name": "County of Los Angeles v. Mendez",
+    "href": "https://api.oyez.org/cases/2016/16-369",
+    "view_count": 0,
+    "docket_number": "16-369",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1480658400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53926"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1490158800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53993"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1496120400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54041"
+        }
+    ],
+    "question": "<ol>\n<li>May an officer be found liable under the Ninth Circuit\u2019s provocation rule where it is determined that the officer\u2019s use of force was reasonable and not excessive</li>\n<li>Does an incident which leads to a reasonable use of force negate a prior Fourth Amendment unlawful entry violation?</li>\n</ol>\n",
+    "citation": {
+        "volume": "581",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27476"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that the U.S. Court of Appeals for the Ninth Circuit\u2019s provocation rule has no basis in the Fourth Amendment, and that the lower court erroneously conflated multiple Fourth Amendment violation claims.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/581/16-369/",
+    "facts_of_the_case": "<p dir=\"ltr\">In October 2010, Deputies Christopher Conley and Jennifer Pederson of the Los Angeles County Sheriff\u2019s Department responded to a tip from an informant that wanted parolee Ronnie O\u2019Dell had been seen in front of the nearby residence of Paula Hughes. The officers were informed that Angel Mendez and Jennifer Lynn Garcia lived together in the backyard of the Hughes residence. Although they did not have a search warrant, other officers directed Deputies Conley and Pederson to search the backyard. After determining that O\u2019Dell was not in any of the three storage sheds in Hughes\u2019 backyard, the deputies proceeded to a wooden shed surrounded by an A/C unit, clothes locker, clothes, and other belongings. The deputies did not knock and announce their presence. Deputy Conley, upon opening the door, saw the silhouette of a person holding a rifle through a curtain in the shed. Conley yelled \u201cGun!\u201d and both deputies proceeded to shoot Mendez and Garcia. Whether Mendez was merely moving the gun or was pointing it at the deputies was subject to conflicting testimony at trial. As a result, Mendez required amputation of his right leg below the knee, and Garcia was shot in the back. </p>\n<p dir=\"ltr\">\u00a0</p>\n<p dir=\"ltr\">Mendez and Garcia sued Conley and Pederson and alleged that the deputies, in their official capacity, deprived them of their Fourth Amendment rights by performing an unjustified warrantless search and that the deputies failed to adhere to the knock-and-announce rule, which requires that officers announce their presence before they enter a home. The district court found for the plaintiffs on both these allegations and also held that, although the officers\u2019 use of force was reasonable under the circumstances, they were liable for the shooting under the Ninth Circuit\u2019s provocation rule. That rule holds an officer liable for use of deadly force where the officer intentionally or recklessly provokes a violent confrontation via a Fourth Amendment violation. The U.S. Court of Appeals for the Ninth Circuit affirmed the lower court\u2019s determination that the search violated the Fourth Amendment but reversed the knock-and-announce rule holding that because there was no controlling Ninth Circuit precedent on whether officers must announce themselves again at a separate residence on the same property. \u00a0The appellate court also held that the officers were liable under the provocation rule because their unjustified search of the occupied shed led to the shooting.</p>\n",
+    "conclusion": "<p dir=\"ltr\">The U.S. Court of Appeals for the Ninth Circuit\u2019s provocation rule has no basis in the Fourth Amendment, and the lower court erroneously conflated multiple Fourth Amendment violation claims. Justice Samuel A. Alito, Jr., delivered the opinion for the 8-0 majority. The Court held that provocation rule essentially asks whether, once an officer\u2019s use of force has been determined to be reasonable under the Fourth Amendment, there was a different Fourth Amendment violation that made the otherwise reasonable use of force unreasonable. Because this rule uses one constitutional violation to manufacture an excessive use of force claim that has already been rejected under established Fourth Amendment precedent, it is an improper rule that lacks a constitutional basis. If the defendant has multiple Fourth Amendment violation claims, they should each be analyzed separately. The Court also held that, in its proximate cause analysis regarding the warrantless entry, the lower court erroneously conflated distinct Fourth Amendment claims.</p>\n<p>\u00a0</p>\n<p dir=\"ltr\">Justice Neil Gorsuch did not participate in the discussion or decision of this case.</p>\n"
+}

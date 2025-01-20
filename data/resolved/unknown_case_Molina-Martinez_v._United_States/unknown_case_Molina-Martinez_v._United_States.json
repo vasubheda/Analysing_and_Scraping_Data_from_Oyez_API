@@ -1,0 +1,42 @@
+{
+    "ID": 62581,
+    "name": "Molina-Martinez v. United States",
+    "href": "https://api.oyez.org/cases/2015/14-8913",
+    "view_count": 0,
+    "docket_number": "14-8913",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1443675600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53274"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1452578400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53325"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1461128400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53497"
+        }
+    ],
+    "question": "<p>When an error in the application of the U.S. Sentencing Guidelines results in the application of the wrong Guideline range to the defendant, should the appellate court presume that the error affected the defendant\u2019s substantial rights?</p>\n",
+    "citation": {
+        "volume": "578",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27359"
+    },
+    "term": "2015",
+    "description": "A case in which the Court held that an error in the application of the U.S. Sentencing Guidelines that results in the wrong Guideline range affected the defendant\u2019s substantial rights. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/578/14-8913/",
+    "facts_of_the_case": "<p>Saul Molina-Martinez pleaded guilty to being in the United States illegally following deportation proceedings that stemmed from his felony convictions. The district court accordingly sentenced Molina-Martinez to 77 months in prison, pursuant to the sentencing range established in the U.S. Sentencing Guidelines for his criminal history category. Under the Sentencing Guidelines, prior sentences are counted as a single sentence if they were imposed on the same day unless the offenses in question were separated by an intervening arrest. Molina-Martinez\u2019s prior offenses were not separated by an intervening arrest, so when his probation officer calculated his criminal history points and concluded that they placed him in category VI, he erred; Molina-Martinez should properly have been placed in category V, which carries a lower sentencing range of 70-87 months. Molina-Martinez appealed his sentence on the grounds that the district court erred in sentencing him based on the incorrect criminal history category. The U.S. Court of Appeals for the Fifth Circuit held that, despite the error in calculation, Molina-Martinez failed to show that the error affected his substantial rights and therefore affirmed his conviction and sentence.</p>\n",
+    "conclusion": "<p>If a defendant shows that the court mistakenly applied a higher sentencing range to his sentence, his substantial rights are affected. Justice Anthony M. Kennedy delivered the opinion for the unanimous court. The Court held that, when appellate courts review errors in the application of the Sentencing Guidelines, the defendant is not required to identify \u201cadditional evidence\u201d to show that he received an incorrect sentence. Nothing in the Guidelines themselves, the relevant precedent, or the Federal Rules of Criminal Procedure governing appellate review of such an error requires that a defendant make a showing of prejudice beyond showing that the error occurred. By requiring more from the defendant, the U.S. Court of Appeals for the Fifth Circuit failed to properly account for the crucial rule the Guidelines play in the sentencing process and the dynamics of sentencing, which often leaves the defendant without any of the evidence the Fifth Circuit would require.</p>\n<p>In his opinion concurring in part and concurring in the judgment, Justice Samuel A. Alito, Jr. wrote that, while a court\u2019s use of an incorrect Sentencing Guideline range is sufficient evidence that the defendant\u2019s substantial rights were affected, Guideline error issues should be dealt with on a case-by-case basis. Justice Alito argued that the majority opinion should not have speculated about the future effects of Guideline errors. Justice Clarence Thomas joined in the opinion concurring in part and concurring in the judgment.</p>\n"
+}

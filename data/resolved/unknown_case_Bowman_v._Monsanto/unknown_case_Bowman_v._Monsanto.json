@@ -1,0 +1,42 @@
+{
+    "ID": 55944,
+    "name": "Bowman v. Monsanto",
+    "href": "https://api.oyez.org/cases/2012/11-796",
+    "view_count": 0,
+    "docket_number": "11-796",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1349413200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41193"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1361253600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41194"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1368421200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41195"
+        }
+    ],
+    "question": "<p>Does a patent right for self-replicating technology expire after an authorized sale?</p>\n",
+    "citation": {
+        "volume": "569",
+        "page": "278",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19866"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that even after its authorized purchase, the reproduction and reuse of a seed violated the patent of the seed.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/569/278/",
+    "facts_of_the_case": "<p>In 1994, the United States Patent and Trademark Office granted a patent to the Monsanto Company for genetic material from a virus that can be used to incorporate new genetic material into a plant. In 2006, Monsanto patented a gene that makes plants resistant to the glyphosate-based herbicides that farmers can use on weeds. Both patents are included in the Monsanto Technology agreement which states that growers who purchase Monsanto's products may only use the seed for a single season and may not sell the seeds to any other grower. Growers may sell the second-generation seed to a grain elevator.</p>\n<p>Vernon Hugh Bowman, a farmer in Knox County, Indiana, began purchasing Monsanto's Pioneer Hi-Bred seed in 1999 and followed the terms of the agreement by not saving any of his seed. Also beginning in 1999, Bowman purchased second-generation seed from a grain elevator for his second planting and saved seeds from that purchase for reuse later. In 2006, Monsanto contacted Bowman to examine his planting activities and found that his second-round crops contained the patented genetic material. Monsanto sued Bowman for patent infringement. The district court granted summary judgment for Monsanto. The United States Court of Appeals for the Federal Circuit affirmed.</p>\n",
+    "conclusion": "<p>No. Justice Elena Kagan delivered a unanimous opinion holding that the doctrine of patent exhaustion does not allow the purchaser to make copies of a patented item. Because the product in question is a seed, using the seed to grow a crop and then harvesting those seeds for future use constitutes creating copies of a patented item. In this case, Bowman's one-time purchase of Monsanto's product allowed him to take advantage of their patented product over the course of many seasons without respecting the rights of the patent holder. The Court also held that this reading of the doctrine allowed patents for plants to retain their value.</p>\n"
+}

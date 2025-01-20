@@ -1,0 +1,42 @@
+{
+    "ID": 62635,
+    "name": "Sheriff v. Gillie",
+    "href": "https://api.oyez.org/cases/2015/15-338",
+    "view_count": 0,
+    "docket_number": "15-338",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1449813600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53354"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1459227600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53419"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1463374800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53591"
+        }
+    ],
+    "question": "<ol><li>Are special counsel appointed by the state Attorney General to collect debts are \u201cstate officers\u201d under the meaning of the Federal Debt Collection Practices Act?</li>\n<li>Is it materially misleading for special counsel to use Attorney General letterhead to convey that they are collecting debts owed to the state on the Attorney General\u2019s behalf?</li>\n</ol>",
+    "citation": {
+        "volume": "578",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27391"
+    },
+    "term": "2015",
+    "description": "A case in which the Court held that, regardless of whether special counsel appointed by the Attorney General to collect debts are \u201cstate officers\u201d under the Federal Debt Collection Practices Act, the use of Attorney General letterhead by such special counsel is not materially misleading.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/578/15-338/",
+    "facts_of_the_case": "<p>In 1977, Congress enacted the Federal Debt Collection Practices Act (FDCPA) in an effort to combat abusive debt collection practices, which were particularly problematic with third party or independent debt collectors, who are unlikely to have contact with the consumer and therefore have little incentive to act fairly. One of the issues that the FDCPA addressed was independent debt collectors representing themselves as government officials. Therefore, the FDCPA targeted these \u201cdebt collectors\u201d while exempting government officials from that definition. The statutory language of the exemption was specific to \u201cany officer or employee of ... any State to the extent that collecting or attempting to collect any debt is in the performance of his official duties.\u201d</p>\n<p>The Ohio Revised Code contains a provision that unpaid debts owed to a state entity get \u201ccertified\u201d to the Ohio Attorney General, who is then responsible for collecting the debt or disposing of it by other means. The Attorney General may enlist \u201cspecial counsel\u201d to collect debts on the Attorney General\u2019s behalf. To do so, the special counsel and the Attorney General enter into a retention agreement that, among other terms, allows the special counsel to use the Attorney General\u2019s letterhead in connection with claims arising out of the tax debts the special counsel is authorized to collect.</p>\n<p>The plaintiffs in this case are individuals who received debt collection letters that used the seal of the Ohio Attorney General from the defendants, who became special counsel to the Attorney General in 2013. The plaintiffs sued and argued that the defendants violated the FDCPA by using the Ohio Attorney General letterhead. The district court granted the defendants\u2019 motion for summary judgment and held that special counsel are not \u201cdebt collectors\u201d under the meaning of the FDCPA because they are officers of the state for the purposes of debt collection, and therefore the use of the Ohio Attorney General letterhead was not false or misleading. The U.S. Court of Appeals for the Sixth Circuit vacated the lower court\u2019s decision and held that special counsel are \u201cdebt collectors\u201d under the meaning of the FDCPA and do not fall under the exemption, and that there was a genuine issue of material fact regarding whether the use of Ohio Attorney General\u2019s seal on debt collection letters was misleading.</p>\n",
+    "conclusion": "<p>Even if special counsel appointed by the state Attorney General to collect debts are not \u201cstate officers\u201d under the meaning of the Federal Debt Collection Practices Act (FDCPA), use of the Attorney General Letterhead is not materially misleading. Justice Ruth Bader Ginsburg delivered the opinion for the unanimous Court, which held that, regardless of whether the special counsel are \u201cstate officers\u201d under the FDCPA, their use of the Attorney General\u2019s letterhead was not materially misleading because it accurately conveyed that the special counsel was tasked with collecting debts on the Attorney General\u2019s behalf. The use of the Attorney General\u2019s letterhead was in fact required when the special was sending debt collection communications, because that explained on whose authority the special counsel was writing to the debtor. The Court also noted that to interpret these actions as violating the FDCPA would raise a federalism concern, because the manner in which states collect debts is a matter of state government in which the federal government should not interfere.</p>\n"
+}

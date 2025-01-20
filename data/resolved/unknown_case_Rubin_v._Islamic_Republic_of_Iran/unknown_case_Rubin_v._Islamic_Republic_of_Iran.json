@@ -1,0 +1,42 @@
+{
+    "ID": 62872,
+    "name": "Rubin v. Islamic Republic of Iran",
+    "href": "https://api.oyez.org/cases/2017/16-534",
+    "view_count": 0,
+    "docket_number": "16-534",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1498539600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54089"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1512367200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54131"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1519192800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54210"
+        }
+    ],
+    "question": "<p>Does 28 U.S.C. \u00a7 1610(g) provide a freestanding attachment immunity exception that allows terror victim judgment creditors to attach and execute upon assets of foreign state sponsors of terrorism regardless of whether assets are otherwise subject to execution under Section 1610?</p>\n",
+    "citation": {
+        "volume": "583",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27531"
+    },
+    "term": "2017",
+    "description": "A case in which the Court held that 28 U.S.C. \u00a7 1610(g) does not provide a freestanding attachment immunity exception that allows terror victim judgment creditors to attach and execute upon assets of foreign state; rather, the immunity of property must be rescinded under a separate provision under that section.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/583/16-534/",
+    "facts_of_the_case": "<p>In September 1997, three Hamas suicide bombers blew themselves up in an a crowded area in Jerusalem. Among the injured were eight U.S. citizens, who consequently filed a lawsuit against the Islamic Republic of Iran for its role in providing material support to the attackers. In general, sovereign governments are immune from lawsuit, but the Foreign Sovereign Immunities Act (\"FSIA\") provides an exception to that immunity in cases of state-sponsored of terrorism. A district judge in D.C. entered a $71.5 million default judgment against Iran, which Iran did not pay. The plaintiffs then litigated numerous cases across the country in an attempt to attach and execute on Iranian assets to satisfy the judgment.</p>\n<p>The case at hand involves four collections of ancient Persian artifacts within the possession of the University of Chicago and Chicago's Field Museum of Natural History. With few exceptions, a foreign state's property in the United States is immune from attachment and execution. The plaintiffs argued before the district court that they should be able to attach and execute Iran's property under subsections (a) and (g) of 28 U.S.C. \u00a7 1610, as well as section 201 of the Terrorism Risk Insurance Act of 2002 (\"TRIA\"). The district court held, and the Seventh Circuit agreed, that while \u00a7 1610(a) permits execution on a foreign state's property \"used for a commercial activity in the United States,\" that provision requires use by the foreign state itself, not a third party (such as a museum). The district court also held, and the Seventh Circuit agreed, that \u00a7 1610(g) permits attachment to property of a foreign state in aid of execution only in cases described elsewhere in \u00a7 1610, rendering that provision unavailable to the plaintiffs in this case. Finally, the district court held, and the Seventh Circuit agreed, that \u00a7 201 of TRIA applies only to assets blocked by executive order, and in the absence of an executive order blocking the particular assets sought, plaintiffs cannot avail themselves of that provision either.</p>\n<p>The Seventh Circuit's holding thus conflicts with the Ninth Circuit's prior holding that \u00a7 1610(g) provides a freestanding attachment immunity exception that allows terrorism victims to attach and execute upon any assets of foreign state sponsors of terrorism, regardless of whether the assets are otherwise subject to execution under section 1610.</p>\n",
+    "conclusion": "<p>No, Section 1610(g) does not provide a freestanding basis for parties to attach and execute against the property of a foreign state. Justice Sonia Sotomayor delivered the opinion for the 8-0 unanimous Court. Looking first at the statutory text, the Court found that the most natural reading of Section 1610(g)(1)\u2014that certain property will be \"subject to attachment in aid of execution, and execution, upon [a \u00a71605A] judgment as provided in this section\"\u2014is that there must be an indepedent basis for the withdrawal of property immunity. To conclude otherwise would have rendered the other provisions of \u00a71610(g) superfluous because any plaintiff with a \u00a71605A judgment could seek property attachment under \u00a71610(g) regardless of whether the conditions of any those provisions were met.\u00a0The Court's interpretation is also consistent with the historical practice of rescinding attachment and execution immunity primarily in the context of a foreign state's commercial acts. Justice Elena Kagan took no part in the consideration or decision of this case.</p>\n"
+}

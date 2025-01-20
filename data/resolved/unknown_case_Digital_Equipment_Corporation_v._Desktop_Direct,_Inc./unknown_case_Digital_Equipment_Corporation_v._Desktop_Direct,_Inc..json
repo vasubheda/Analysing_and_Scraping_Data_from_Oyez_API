@@ -1,0 +1,35 @@
+{
+    "ID": 54241,
+    "name": "Digital Equipment Corporation v. Desktop Direct, Inc.",
+    "href": "https://api.oyez.org/cases/1993/93-405",
+    "view_count": 0,
+    "docket_number": "93-405",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                761896800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37317"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                770878800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37318"
+        }
+    ],
+    "question": "<p>Is the denial of a \"right not to sue\" established by a settlement agreement immediately appealable under the Supreme Court's decision in <em>Coopers &amp; Lybrand v. Livesay</em>, 437 U.S. 463?</p>\n",
+    "citation": {
+        "volume": "511",
+        "page": "863",
+        "year": "1994",
+        "href": "https://api.oyez.org/case_citation/case_citation/18170"
+    },
+    "term": "1993",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/511/863/",
+    "facts_of_the_case": "<p>After Digital Equipment Corporation and Desktop Direct, Inc. arrived at a settlement agreement in a trademark infringement suit, the federal District Court dismissed the case. Several months later, after Desktop claimed that Digital had misrepresented important facts during the settlement negotiations, the Court reopened the case and cancelled the agreement. Digital appealed, but the Tenth Circuit Court of Appeals refused to hear the case, holding that it was not immediately appealable under the guidelines laid out by the Supreme Court in <em>Coopers &amp; Lybrand v. Livesay</em>, 437 U.S. 463. The court held that the \"right not to go to trial\" claimed by Digital under the settlement was not sufficiently important to merit an immediate appeal and was different from immunity rooted in an explicit statutory or constitutional provision or compelling public policy rationale, the denial of which had been held immediately appealable.</p>\n",
+    "conclusion": "<p>No. In a unanimous decision, the Supreme Court ruled that the denial of immunity - while cause for concern - does not automatically create a right to immediate appeal. It is important to have final judgments before appeals are made, Justice David H. Souter wrote for the Court, and exceptions should only be made in particularly important cases. A \"right not to go to trial,\" while significant, is rarely the key factor in a settlement agreement, and cannot compare in importance to the right to be free from \"double jeopardy\" in criminal court or the encroachment on public duties caused by a denial of immunity to public officials.</p>\n"
+}

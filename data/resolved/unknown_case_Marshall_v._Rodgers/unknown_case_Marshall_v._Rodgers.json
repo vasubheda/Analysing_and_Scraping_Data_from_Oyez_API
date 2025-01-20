@@ -1,0 +1,35 @@
+{
+    "ID": 62692,
+    "name": "Marshall v. Rodgers",
+    "href": "https://api.oyez.org/cases/2012/12-382",
+    "view_count": 0,
+    "docket_number": "12-382",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1364792400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53467"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1364792400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53468"
+        }
+    ],
+    "question": "<p>Does a trial judge\u2019s determination to deny a defendant\u2019s request for reappointment of counsel after the defendant previously refused representation violate federal law?</p>\n",
+    "citation": {
+        "volume": "569",
+        "page": "58",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/27417"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that denying a defendant's request for reappointment of counsel after the defendant had previously refused representation did not violate the Sixth Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/569/58/",
+    "facts_of_the_case": "<p>On July 15, 2001, Otis Lee Rodgers was arrested after he threatened to shoot his wife in the head outside of the Garden Estates Apartments in Riverside, California. Before his trial, Rodgers waived his Sixth Amendment right to counsel and chose to represent himself. Rodgers then changed his mind several times, retaining and dismissing court-appointed attorneys, until his eventual trial. A Riverside County Superior Court jury subsequently found him guilty of assault with a firearm, possession of a firearm as a felon, possession of ammunition as a felon, and making criminal threats. He also admitted that he was on bail for another pending felony trial and had two prior felony convictions. Rodgers was sentenced to sixteen years in prison.</p>\n<p>After sentencing, Rodgers asked the court to appoint an attorney to help him file a motion for a new trial. The trial judge denied his request and subsequently denied his pro se motion for a new trial. Rodgers appealed to the U. S. District Court for the Central District of California, seeking habeus corpus relief for the judge\u2019s refusal to appoint counsel for the motion for a new trial. That court denied his petition. Rodgers then appealed to the U.S. Court of Appeals for the Ninth Circuit. That court granted Rodgers\u2019 petition and remanded the case for trial.</p>\n",
+    "conclusion": "<p>In a per curiam decision, the Supreme Court held that the defendant\u2019s Sixth Amendment rights were not violated. First, the Court noted that, although the Sixth Amendment provides the accused with the right to counsel at all critical stages of the criminal process, a defendant also has the right to proceed without counsel when the defendant voluntarily and intelligently elects to do so. Here, the appellate court only had to note that this tension existed and that the trial court had the right to make a decision in light of that tension. However, the Court stated that it did not make an unequivocal ruling on the merits of this case. Instead, the Court confined its decision to the finding that the California court\u2019s determination that there was no Sixth Amendment violation.</p>\n"
+}

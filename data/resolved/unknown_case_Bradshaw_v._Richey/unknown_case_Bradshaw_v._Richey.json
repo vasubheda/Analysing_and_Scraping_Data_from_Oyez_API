@@ -1,0 +1,35 @@
+{
+    "ID": 55376,
+    "name": "Bradshaw v. Richey",
+    "href": "https://api.oyez.org/cases/2005/05-101",
+    "view_count": 0,
+    "docket_number": "05-101",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1133157600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39655"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                1133157600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53473"
+        }
+    ],
+    "question": "<p>1. Under Ohio law, can the doctrine of transferred intent be applied to aggravated felony murder?</p>\n<p>2. Should a federal appellate court rely on evidence that was not properly presented to the state courts in determining whether a defendant received ineffective assistance of counsel?</p>\n",
+    "citation": {
+        "volume": "546",
+        "page": "74",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19301"
+    },
+    "term": "2005",
+    "description": "A case in which the Court held the doctrine of transferred intent applied to aggravated felony murder in the state of Ohio and that a federal appellate court should not rely on evidence that was not properly presented to the state courts in deciding an ineffective assistance of counsel claim. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/546/74/",
+    "facts_of_the_case": "<p>Kenneth T. Richey attempted to kill his ex-girlfriend and her new boyfriend by setting fire to his ex-girlfriend\u2019s apartment. The ex-girlfriend and her boyfriend escaped, but the neighbor\u2019s two-year-old child was killed in the fire. Richey was convicted of aggravated felony murder and sentenced to death on the theory of transferred intent. On direct appeal with new counsel, his conviction and sentence were affirmed by the Ohio Supreme Court.</p>\n<p>Richey sought state post-conviction relief but was denied by both the state trial court and the state appellate court. He then petitioned for federal habeas relief, but the federal district court denied his petition. The U.S. Court of Appeals for the Sixth Circuit reversed and held that under Ohio law, the theory of transferred intent cannot be applied to aggravated felony murder, and Richey received ineffective assistance of counsel based on his trial counsel\u2019s mishandling of the arson expert and expert testimony.</p>\n",
+    "conclusion": "<p>Under Ohio law, the doctrine of transferred intent applied to aggravated felony murder, and a federal appellate court should not rely on evidence that was not properly presented to a state court in determining whether the defendant received ineffective assistance of counsel. In a per curiam opinion, the Court held that there was clear Ohio Supreme Court law that applied the doctrine of transferred intent to aggravated felony murder, and the U.S. Court of Appeals for the Sixth Circuit erred in ignoring that court\u2019s interpretation of Ohio law. Additionally, a federal appellate court should not rely on evidence that was not properly presented to the state courts without determining whether the state court\u2019s factual finding had been rebutted by clear and convincing evidence.</p>\n"
+}

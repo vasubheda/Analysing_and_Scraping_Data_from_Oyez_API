@@ -1,0 +1,42 @@
+{
+    "ID": 55827,
+    "name": "RadLAX Gateway Hotel v. Amalgamated Bank",
+    "href": "https://api.oyez.org/cases/2011/11-166",
+    "view_count": 0,
+    "docket_number": "11-166",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1323669600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40862"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1335157200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40863"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1338267600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40864"
+        }
+    ],
+    "question": "<p>Under the bankruptcy code, may RadLAX pursue a Chapter 11 bankruptcy plan which proposes to sell assets free of liens, without allowing Amalgamated Bank to bid on credit, but instead providing the creditor with the equivalent of its claim?</p>\n",
+    "citation": {
+        "volume": "566",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19749"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that a company could not obtain confirmation of a Chapter 11 bankruptcy plan that provided for the sale of its assets free from lien without permitting a bank to credit-bid at the sale.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/566/639/",
+    "facts_of_the_case": "<p>RadLAX Gateway Hotel, LLC., owned the Radisson Hotel at the Los Angeles International Airport as well as an adjacent parking structure. In November of 2007, RadLax sought to expand the Radisson Hotel. It therefore obtained a $142 million construction loan from the Longview Ultra Construction Loan Investment Fund, for which Amalgamated Bank served as trustee and administrative agent.</p>\n<p>After taking out the loan, RadLAX was eventually forced to file voluntary petitions for relief under chapter 11 of the Bankruptcy Code in the United States Bankruptcy Court for the Northern District of Illinois. Soon after, RadLax embarked on a campaign to sell the Radisson Hotel and adjacent parking structure.</p>\n<p>On June 4, 2010, RadLAX filed a joint chapter 11 plan, which proposed the auction of substantially all of its assets and the distribution of proceeds to various creditors. The debtors specified that no secured creditor would be permitted to credit bid at the sale. Amalgamated Bank objected to the proposed bid procedures on the grounds that a sale of its collateral, free of liens, required the debtor to allow a lender to credit bid.</p>\n<p>The Bankruptcy Court agreed with Amalgamated Bank and denied RadLax's proposal with regard to credit bids. The case was appealed to the U.S. Court of Appeals for the Seventh Circuit, which affirmed the bankruptcy court's decision. RadLAX subsequently appealed the appellate court's decision.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion written by Justice Antonin Scalia, the Court held that RadLAX could not obtain confirmation of a Chapter 11 bankruptcy plan that provided for the sale of its assets free from lien without permitting Amalgamated Bank to credit-bid at the sale. According to Justice Scalia, clause (ii) of \u00a7 1129(b)(2)(A) of the bankruptcy code specified that when property was sold free of lien, it was subject to Section 363(k) of the code. Section 363(k) in turn allowed the creditor to credit-bid at the sale, up to the amount of its claim.</p>\n<p>Although RadLAX proposed to repay Amalgamated Bank with the proceeds of the sale, its plan to preclude Amalgamated Bank from credit-bidding at the sale violated the clear language of the act. Justice Scalia rejected RadLAX argument that clause (iii) allowed RadLAX's plan because the plan guaranteed Amalgamated Bank the indubitable equivalent of its claim. He concluded that the general language of clause (iii) did not control the specific matter dealt with in clause (ii). Justice Scalia also rejected RadLAX's argument that clause (ii) was not more specific than clause (iii) because (ii) provided procedural protections but (iii) provided substantive protections.</p>\n<p>Justice Anthony Kennedy took no part in the consideration of the case.</p>\n"
+}

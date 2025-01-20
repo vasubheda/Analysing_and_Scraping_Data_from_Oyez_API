@@ -1,0 +1,35 @@
+{
+    "ID": 55060,
+    "name": "Nguyen v. United States",
+    "href": "https://api.oyez.org/cases/2002/01-10873",
+    "view_count": 0,
+    "docket_number": "01-10873",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1048485600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52652"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1055134800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38845"
+        }
+    ],
+    "question": "<p>Did a panel of the Court of Appeals consisting of two Article III judges and one Article IV judge have the authority to decide the appeals of two defendants convicted on federal narcotics charges in the District Court of Guam?</p>\n",
+    "citation": {
+        "volume": "539",
+        "page": "69",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/20518"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/539/69/",
+    "facts_of_the_case": "<p>Khanh Phuong Nguyen and Tuyet Mai Thi Phan were tried, convicted, and sentenced on federal narcotics charges in the District Court of Guam, a territorial court with subject-matter jurisdiction over both federal-law and local-law causes. The Court of Appeals for the Ninth Circuit panel that convened to hear their appeals included two judges from that court, both of whom are life-tenured Article III judges, and the Chief Judge of the District Court for the Northern Mariana Islands, an Article IV territorial-court judge appointed by the President and confirmed by the Senate for a 10-year term. Neither Nguyen nor Phan objected to the panel's composition before the cases were submitted for decision and neither sought rehearing to challenge the panel's authority to decide their appeals immediately after it affirmed their convictions.</p>\n",
+    "conclusion": "<p>No. In a 5-4 opinion delivered by Justice John Paul Stevens, the Court held that the Court of Appeals panel did not have the authority to decide Nguyen and Phan's appeals. The Court reasoned that the territorial judge was precluded from designation to the panel and thus the defendants' appeals required reconsideration by a properly constituted panel. The Court found that the statutory and constitutional provisions governing the creation and tenure of territorial judges were distinct from those for district court judges and that the territorial district court was not constituted pursuant to the chapter required to meet the definition of a district court. Chief Justice William H. Rehnquist, joined by Justices Antonin Scalia, Ruth Bader Ginsburg, and Stephen G. Breyer, dissented, arguing that neither Nguyen nor Phan showed that the error seriously affected the judicial proceedings.</p>\n"
+}

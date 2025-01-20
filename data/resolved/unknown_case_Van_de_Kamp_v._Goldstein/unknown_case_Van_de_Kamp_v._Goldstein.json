@@ -1,0 +1,42 @@
+{
+    "ID": 55597,
+    "name": "Van de Kamp v. Goldstein",
+    "href": "https://api.oyez.org/cases/2008/07-854",
+    "view_count": 0,
+    "docket_number": "07-854",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1208149200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40265"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1225864800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40266"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1232949600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40267"
+        }
+    ],
+    "question": "<p>In a suit brought by a plaintiff alleging that he was wrongfully convicted of murder, are federal prosecutors entitled to absolute immunity against charges that they failed to satisfactorily share information regarding the testimony of a jailhouse informant during the course of the trial?</p>\n",
+    "citation": {
+        "volume": "555",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20823"
+    },
+    "term": "2008",
+    "description": "A case in which the Court reaffirmed its holding in Imbler, stating that officers of the court (including federal prosecutors) are immune from liability \"for actions intimately associated with the judicial phase of the criminal process.\"",
+    "justia_url": null,
+    "facts_of_the_case": "<p>Thomas Lee Goldstein was released on habeas corpus from a California prison in 2004 after serving twenty-four years of a murder sentence. Goldstein then brought suit against the prosecutor and chief deputy from his trial alleging that he had been wrongly convicted. Goldstein argued that he had been prejudiced by the testimony of a jailhouse informant claiming to have heard Goldstein confess to the murder. The informant had stated that he had never, either before or during the trial, received benefits for cooperating with the government; in fact, the informant had worked with the government in the past and was getting reduced sentences in exchange for his testimony. Goldstein's claim alleged that the prosecutor and deputy had failed to fulfill their obligation to ensure that information regarding jailhouse informants was adequately shared among prosecutors. In response, the prosecutors argued that their actions during the trial were immune from suit.</p>\n<p>The district court held that the actions were administrative rather than prosecutorial and were therefore not subject to immunity. The U.S. Court of Appeals for the Ninth Circuit agreed, finding that the prosecutor had failed to show the necessary close association with the judicial phase of the trial in order to invoke immunity.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion authored by Justice Stephen G. Breyer, the Supreme Court reversed the U.S. Court of Appeals for the Ninth Circuit. It reaffirmed its holding in <em>Imbler</em> that officers of the court are immune from liability \"for actions intimately associated with the judicial phase of the criminal process.\" Acknowledging that immunity does not apply when officers of the court engage in administrative tasks, the Court reasoned that in Mr. Goldstein's case, the defendant prosecutors' failure to share information regarding the testimony of a jailhouse informant was predicated on a decision, requiring legal knowledge, made by those prosecutors about what information to share, and was thus not administrative. Rather, the decision not to share the information was intimately connected to their roles as officers of the court and therefore they were not subject to prosecution.</p>\n"
+}

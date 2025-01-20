@@ -1,0 +1,42 @@
+{
+    "ID": 55594,
+    "name": "Boyle v. United States",
+    "href": "https://api.oyez.org/cases/2008/07-1309",
+    "view_count": 0,
+    "docket_number": "07-1309",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1222837200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40256"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1231912800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40257"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1244437200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40258"
+        }
+    ],
+    "question": "<p>In order prove the association of enterprises in a criminal activity, does the government need to show connections between the enterprises beyond what is apparent in the criminal activity itself?</p>\n",
+    "citation": {
+        "volume": "556",
+        "page": "938",
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20792"
+    },
+    "term": "2008",
+    "description": "A case in which the Court held that the government need not spell out a connection between criminal enterprises beyond what is apparent in the criminal activity itself.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/556/938/",
+    "facts_of_the_case": "<p>Edmund Boyle was convicted by the United States District Court for the Eastern District of New York for racketeering, racketeering conspiracy, bank burglary, bank burglary conspiracy, and attempted bank burglary. He was sentenced to 151 months imprisonment. Mr. Boyle appealed arguing that the government's case against him was factually contradictory. In his trial, the government charged that the robbery was an act of the Boyle Crew enterprise. However, in a previous case it had charged that the robbery was an act of the New Springfield Boys enterprise. Boyle maintained that this contradiction violated his right to due process guaranteed by the Fifth Amendment.</p>\n<p>The United States Court of Appeals for the Second Circuit held that the government's case was not factually contradictory. It reasoned that \"[n]othing dictates that a single crime cannot be committed by two enterprises working together, each in furtherance of its own interests.\" Thus, the trial court did not violate Boyle's Fifth Amendment due process rights.</p>\n",
+    "conclusion": "<p>No. The Supreme Court held that, under RICO, the association between criminal enterprises must be shown to have a \"structure,\" but the relevant jury instructions need not spell out the precise elements which need be found. With Justice Samuel A. Alito writing for the majority and joined by Chief Justice John G. Roberts, and Justices Antonin G. Scalia, Anthony M. Kennedy, David H. Souter, Clarence Thomas, and Ruth Bader Ginsburg, the Court reasoned that a jury need not be instructed to find an \"ascertainable structure\" in order to find the association of enterprises because such instructions would be redundant as the jury is already tasked with finding the elements of a crime beyond a reasonable doubt from which it may infer a \"structure\" of criminal association.</p>\n<p>Justice John Paul Stevens dissented and was joined by Justice Stephen G. Breyer. He argued that Congress merely intended RICO to apply to \"business-like entities,\" and thus the majority's ruling extended RICO liability far beyond Congress' intent.</p>\n"
+}

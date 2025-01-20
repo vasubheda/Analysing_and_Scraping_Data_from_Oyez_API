@@ -1,0 +1,42 @@
+{
+    "ID": 55605,
+    "name": "Ysursa v. Pocatello Education Association",
+    "href": "https://api.oyez.org/cases/2008/07-869",
+    "view_count": 0,
+    "docket_number": "07-869",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1206939600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40288"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1225692000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40289"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1235455200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40290"
+        }
+    ],
+    "question": "<p>Do provisions of Idaho's Voluntary Contributions Act prohibiting payroll deductions for \"political activities\" violate the Free Speech Clause of the First Amendment when applied to local government employees?</p>\n",
+    "citation": {
+        "volume": "555",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20824"
+    },
+    "term": "2008",
+    "description": "A case in which the Court found that provisions of Idaho's Voluntary Contributions Act which prohibit payroll deductions for \"political activities\" did not violate the First Amendment when applied to local government employees.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>The plaintiffs in this case are comprised of labor organizations suing officials of the State of Idaho. The organizations claim that Idaho's Voluntary Contributions Act (VCA) violates their First Amendment free speech rights by restricting their ability to participate in any activities the VCA defines as \"political.\" The State officials conceded the unconstitutionality of many of the VCA's provisions, however they argued for the validity of prohibiting payroll deductions for \"political activities.\" The U.S. District Court for the District of Idaho held the payroll deduction provisions constitutional as applied to the state government but unconstitutional when applied to private and local government employees. The State officials appealed, contending that the provisions should be equally applicable to both groups.</p>\n<p>The U.S. Court of Appeals for the Ninth Circuit upheld the district court's ruling that the payroll deduction provisions could not be applied to private and local government employees because the State had provided no \"compelling justification\" to do so. Furthermore, the court stated that the officials had failed to show that the case should be reviewed under the more relaxed standard for a \"non-public\" forum.</p>\n",
+    "conclusion": "<p>No. The Supreme Court reversed the Ninth Circuit holding that Idaho's Voluntary Contributions Act did not violate the free speech rights of local government employees. With Chief Justice John G. Roberts writing for the majority and joined by Justice Antonin G. Scalia, Justice Anthony M. Kennedy, Justice Clarence Thomas, and Justice Samuel A. Alito, and Justice Ruth Bader Ginsburg in part, the Court reasoned that Idaho's law did not restrict political speech, but merely declined to promote speech by prohibiting public employees from directly contributing to partisan activities from their government issued paycheck. Using a rational-basis review, it recognized that the state had a reasonable interest in avoiding the appearance of impropriety by banning the funding of partisan political activity from the state's payroll. Moreover, the Court held that this governmental interest applied equally to governments at the state and local level.</p>\n<p>Justice Ginsburg wrote a separate concurring opinion. Justice Stephen G. Breyer also wrote separately, concurring in part and dissenting in part. He argued that rather than reverse the court of appeals, the case should have been remanded. Additionally, he argued that rather than apply a rational-basis review as the Court did here, he would utilize an \"intermediate scrutiny inquiry\" where the statute would be considered in light of whether it imposed a burden upon speech that was disproportionate to other interests the government sought to achieve. Justice John Paul Stevens dissented arguing that the Idaho statue was clearly intended to make it more difficult for government employees to finance speech and therefore was unconstitutional. Justice Stephen G. Breyer also dissented arguing that this case was a poor vehicle for refining the analysis of the First Amendment and therefore should have been denied review.</p>\n"
+}

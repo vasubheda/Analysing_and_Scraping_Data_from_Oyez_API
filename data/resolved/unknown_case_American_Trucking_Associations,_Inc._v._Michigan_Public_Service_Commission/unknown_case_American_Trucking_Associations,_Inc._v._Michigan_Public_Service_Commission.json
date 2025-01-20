@@ -1,0 +1,42 @@
+{
+    "ID": 55258,
+    "name": "American Trucking Associations, Inc. v. Michigan Public Service Commission",
+    "href": "https://api.oyez.org/cases/2004/03-1230",
+    "view_count": 0,
+    "docket_number": "03-1230",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1105682400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39336"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1114491600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39337"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1119243600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39338"
+        }
+    ],
+    "question": "<p>Did a Michigan law requiring every truck engaged in intrastate commercial hauling to pay a fee violate burden interstate trade in violation of the dormant commerce clause?</p>\n",
+    "citation": {
+        "volume": "545",
+        "page": "429",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/20540"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/545/429/",
+    "facts_of_the_case": "<p>Michigan law required every truck engaged in intrastate commercial hauling to pay a flat $100 annual fee. Interstate trucking companies asked Michigan courts to invalidate the fee, claiming the flat fee discriminated against interstate carriers and imposed an unconstitutional burden on interstate trade (in violation of the \"dormant\" commerce clause). They pointed to the fact that trucks carrying both interstate and intrastate loads engaged in intrastate business less than trucks that only haul within Michigan. State courts refused to invalidate the fee.</p>\n",
+    "conclusion": "<p>No. In a 9-0 opinion delivered by Justice Stephen Breyer, the Court held that Michigan's fee did not violate the dormant commerce clause because the fee was imposed only on intrastate transactions and did not facially discriminate against interstate or out-of-state activities or enterprises. The dormant commerce clause did not, Breyer wrote, ban such a \"neutral\" and \"locally focused fee.\"</p>\n"
+}

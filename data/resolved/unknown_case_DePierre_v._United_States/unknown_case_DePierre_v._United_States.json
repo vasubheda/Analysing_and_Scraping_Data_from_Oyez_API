@@ -1,0 +1,42 @@
+{
+    "ID": 55776,
+    "name": "DePierre v. United States",
+    "href": "https://api.oyez.org/cases/2010/09-1533",
+    "view_count": 0,
+    "docket_number": "09-1533",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1286859600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40728"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1298872800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40729"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1307595600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40730"
+        }
+    ],
+    "question": "<p>Does the term \"cocaine base\" encompass every form of cocaine that is classified chemically as a base, or is the term \"cocaine base\" limited to \"crack\" cocaine?</p>\n",
+    "citation": {
+        "volume": "564",
+        "page": null,
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19698"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that the term \"cocaine base\" encompasses every form of cocaine that is classified chemically as a base.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/564/70/",
+    "facts_of_the_case": "<p>In April 2008, a federal court jury found Frantz DePierre guilty of distributing cocaine. He was also found guilty of distributing more than 50 grams of cocaine base, which carries a 10-year minimum sentence. He was sentenced to 10 years in prison, followed by five years of supervised release. In March 2010, the U.S. Court of Appeals for the First Circuit upheld the sentence, citing its past precedent. The opinion also notes that the Second, Third, Fourth, Fifth and Tenth Circuits also interpret the statute the same way.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court affirmed the lower court order in a unanimous decision by Justice Sonia Sotomayor. Cocaine base \"means not just 'crack cocaine,' but cocaine in its chemically basic form,\" Sotomayor wrote for the court. Justice Antonin Scalia declines to join Section III-A, which is the portion of the opinion that discusses legislative history.</p>\n"
+}

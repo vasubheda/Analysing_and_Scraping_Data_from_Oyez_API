@@ -1,0 +1,42 @@
+{
+    "ID": 55332,
+    "name": "Evans v. Chavis",
+    "href": "https://api.oyez.org/cases/2005/04-721",
+    "view_count": 0,
+    "docket_number": "04-721",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1115010000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39539"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1131516000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39540"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1136872800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39541"
+        }
+    ],
+    "question": "<p>When a state court denies a habeas petition summarily, without explanation, does the time that a defendant spent filing that petition count toward the one-year statute of limitations in federal habeas appeals under the Antiterrorism and Effective Death Penalty Act?</p>\n",
+    "citation": {
+        "volume": "546",
+        "page": "189",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20614"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/546/189/",
+    "facts_of_the_case": "<p>After Reginald Chavis was convicted of murder, he filed a petition for a writ of habeas corpus in California court. After the California Court of Appeal denied Chavis' petition, he waited more than three years before appealing the decision to the California Supreme Court, which denied the petition without explanation.</p>\n<p>Having exhausted his state-court remedies, Chavis then sought to file a habeas petition in federal court. The district court, however, dismissed Chavis' petition. Under the Antiterrorism and Effective Death Penalty Act there is a one-year period in which a habeas petition must be filed. Chavis' three-year delay, the court ruled, had exceeded that period, and Chavis' petition was therefore untimely. The Ninth Circuit Court of Appeals reversed, however, holding that Chavis' state-court petition had been \"pending\" for the entire three years. Because the one-year statute of limitations did not apply to time during which state court petitions were pending, Chavis' petition in federal district court was timely under the AEDPA.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous decision written by Justice Stephen Breyer, the Court held that the California Supreme Court's summary denial was not necessarily an indication that the petition was timely under state law. The petition was in fact untimely because the three-year delay could not be considered a \"reasonable time,\" which is the timeliness standard for filing a petition under California law. If the state petition was untimely, it could not be considered \"pending\" between the time of the lower court's denial and the filing of the state habeas petition. Therefore, the Court held that the three-year filing delay did count towards the AEDPA's one-year limitation, meaning the federal habeas petition was also untimely.</p>\n"
+}

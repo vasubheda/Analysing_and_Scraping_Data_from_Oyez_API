@@ -1,0 +1,35 @@
+{
+    "ID": 54985,
+    "name": "Hoffman Plastic Compounds, Inc. v. National Labor Relations Board",
+    "href": "https://api.oyez.org/cases/2001/00-1595",
+    "view_count": 0,
+    "docket_number": "00-1595",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1011074400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38703"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1017208800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38704"
+        }
+    ],
+    "question": "<p>Does the National Labor Relations Board have the discretion to award backpay to an undocumented alien employee who was not legally authorized to work in the United States?</p>\n",
+    "citation": {
+        "volume": "535",
+        "page": "137",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/18914"
+    },
+    "term": "2001",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/535/137/",
+    "facts_of_the_case": "<p>Hoffman Plastic Compounds, Inc. hired Jose Castro on the basis of documents appearing to verify his authorization to work in the United States. After Castro engaged in union-organizing activities, Hoffman laid him off. The National Labor Relations Board (Board) found that the layoff violated the National Labor Relations Act (NLRA) and ordered backpay for Castro. At a compliance hearing, Castor testified before an Administrative Law Judge (ALJ) that he was born in Mexico, that he had never been legally admitted to, or authorized to work in, this country, and that he gained employment with Hoffman only after tendering a birth certificate that was not his. The ALJ found that Immigration Reform and Control Act of 1986 (IRCA), which makes it unlawful for employers knowingly to hire undocumented workers or for employees to use fraudulent documents to establish employment eligibility, precluded Castro's award. In reversing, the Board noted that the most effective way to further the immigration policies embodied in IRCA is to provide the NLRA's protections and remedies to undocumented workers in the same manner as to other employees. The Court of Appeals enforced the Board's order.</p>\n",
+    "conclusion": "<p>No. In a 5-4 opinion delivered by Chief Justice William H. Rehnquist, the Court held that such relief is foreclosed by federal immigration policy, as expressed by Congress in the IRCA. The Court reasoned that allowing the Board to award backpay to illegal aliens ran counter to explicit statutory prohibitions critical to federal immigration policy and that however broad the Board's discretion to fashion remedies when dealing only with the NLRA was, it was not so unbounded as to authorize the award. \"Congress has expressly made it criminally punishable for an alien to obtain employment with false documents. There is no reason to think that Congress nonetheless intended to permit backpay where but for an employer's unfair labor practices, an alien-employee would have remained in the United States illegally, and continued to work illegally, all the while successfully evading apprehension by immigration authorities,\" wrote Chief Justice Rehnquist. Justice Stephen G. Breyer dissented, joined by Justices John Paul Stevens, David H. Souter, and Ruth Bader Ginsburg.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 63385,
+    "name": "Mississippi v. Tennessee",
+    "href": "https://api.oyez.org/cases/2021/143-orig",
+    "view_count": 0,
+    "docket_number": "143-orig",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1623301200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54946"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1633323600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54953"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1637560800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54996"
+        }
+    ],
+    "question": "<p>Is Mississippi entitled to damages, injunctive, and other equitable relief for the groundwater taken by Tennessee?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/27837"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held that the judicial remedy of equitable apportionment is appropriate to resolve a dispute over groundwater rights between Mississippi and Tennessee.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>The State of Mississippi sued the State of Tennessee in 2014, alleging that Tennessee was taking Mississippi\u2019s groundwater by allowing a Tennessee utility company to pump large amounts of groundwater from the Middle Claiborne Aquifer, which is located at the Mississippi-Tennessee border. Mississippi argues that the groundwater stored in the aquifer lies entirely within Mississippi and would never flow into Tennessee if it were not for the pumping. Mississippi expressly disclaims any equitable apportionment remedy, arguing that the principle does not apply to this dispute. Instead it seeks only damages and related relief. The Special Master recommended that the Court dismiss the complaint but grant Mississippi leave to amend its complaint to seek equitable apportionment.</p>\n",
+    "conclusion": "<p>Mississippi is entitled only to the remedy of equitable apportionment, and since its complaint expressly disclaimed equitable apportionment, its complaint is dismissed without leave to amend. Chief Justice John Roberts authored the unanimous opinion of the Court.</p>\n<p>Equitable apportionment is a judicial remedy that seeks to fairly allocate a shared water resource between two or more states. Although the Court has not previously considered whether the doctrine of equitable apportionment applies to interstate aquifers, it has applied the remedy when transboundary water resources were at issue, and the same reasoning applies. First, like other transboundary water resources, the Middle Claiborne Aquifer has a \u201cmultistate character.\u201d Second, it contains water that naturally flows between the states. And third, actions taken in Tennessee affect the portion of the aquifer that underlies Mississippi. For these reasons, equitable apportionment applies to the waters of the Middle Claiborne Aquifer.</p>\n"
+}

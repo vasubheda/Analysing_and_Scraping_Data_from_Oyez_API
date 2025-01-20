@@ -1,0 +1,42 @@
+{
+    "ID": 63431,
+    "name": "Garland v. Gonzalez",
+    "href": "https://api.oyez.org/cases/2021/20-322",
+    "view_count": 0,
+    "docket_number": "20-322",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1629694800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55007"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1641880800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55008"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1655096400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55109"
+        }
+    ],
+    "question": "<p>Is a noncitizen who has spent more than six months in immigration detention awaiting resolution of their deportation withholding claim entitled to a hearing before an immigration judge to determine whether they can be released on bond?</p>\n",
+    "citation": {
+        "volume": "596",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27862"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held that district courts lack jurisdiction to grant class-wide injunctive relief for claims arising under certain provisions of the Immigration and Nationality Act (INA).",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/596/20-322/",
+    "facts_of_the_case": "<p>Esteban Aleman Gonzalez and Gutierrez Sanchez are natives and citizens of Mexico who reside in the United States. The federal government had initiated removal proceedings against them, but asylum officers determined that each had a reasonable fear of persecution or torture in Mexico. Gonzalez and Sanchez both requested a bond hearing before an immigration judge after they had been detained for 180 days, but both requests were denied.</p>\n",
+    "conclusion": "<p>District courts lack jurisdiction to entertain the respondents\u2019 requests for class-wide injunctive relief. Justice Samuel Alito authored the majority opinion reversing the judgment of the lower court.</p>\n<p>Section 1252(f)(1) generally strips lower courts of \u201cjurisdiction or authority\u201d to \u201cenjoin or restrain the operation of \u201d certain provisions of\u00a0the Immigration and Nationality Act (INA). Although that section includes one exception, to \u201cenjoin or restrain the operation of\u201d the relevant statutory provisions \u201cwith respect to the application of such provisions to an individual alien against whom proceedings under such part have been initiated,\u201d that exception does not apply to claims on behalf of an entire class.</p>\n<p>Justice Sonia Sotomayor authored an opinion, joined by Justices Stephen Breyer and Elena Kagan, dissenting from the Court\u2019s holding as to the interpretation of Section 1252(f)(1) but concurring in the judgment insofar as it concludes the government prevails on the merits.</p>\n"
+}

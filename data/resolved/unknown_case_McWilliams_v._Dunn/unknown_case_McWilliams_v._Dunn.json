@@ -1,0 +1,42 @@
+{
+    "ID": 62804,
+    "name": "McWilliams v. Dunn",
+    "href": "https://api.oyez.org/cases/2016/16-5294",
+    "view_count": 0,
+    "docket_number": "16-5294",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1484287200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53961"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1493010000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54030"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1497848400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54067"
+        }
+    ],
+    "question": "<p>Does the Supreme Court\u2019s decision in Ake v. Oklahoma, which established that an indigent defendant is entitled to meaningful expert assistance, require that the expert be independent of the prosecution?</p>\n",
+    "citation": {
+        "volume": "582",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27498"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that Ake v. Oklahoma clearly established that a state must provide an indigent defendant with access to an expert witness who is sufficiently available to the defense and independent of the prosecution to effectively conduct an examination and assist in the preparation of a defense.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/582/16-5294/",
+    "facts_of_the_case": "<p dir=\"ltr\">On December 30, 1984, James McWilliams raped and robbed Patricia Reynolds, who died in surgery later that night. McWilliams was arrested, tried, and convicted of murder during robbery in the first degree and murder during rape in the first degree. At the sentencing phase, defense counsel requested that the court order neuropsychological testing for McWilliams. The court did so and ordered that the Alabama Department of Corrections (DOC) conduct the testing. The DOC doctor who conducted the testing recommended further testing from a doctor who was not affiliated with the DOC. The second doctor\u2019s report was made available to both parties but did not arrive at the court until the day before the sentencing hearing, and the court did not allow a continuance for defense counsel to review the report with the assistance of an expert. At the sentencing hearing, the court concluded that there were aggravating factors but no mitigating factors and sentenced McWilliams to death by electrocution. The conviction and sentence were affirmed on direct appeal in Alabama state courts.</p>\n<p dir=\"ltr\">\u00a0</p>\n<p dir=\"ltr\">In 2004, McWilliams filed a petition for a writ of habeas corpus in federal district court. The district court denied the petition without addressing all of the specific claims, one of which included a claim that he was denied his due process rights under the Supreme Court\u2019s decision in Ake v. Oklahoma because the court did not provide him with an independent psychiatric expert. The U.S. Court of Appeals for the Eleventh Circuit vacated the lower court\u2019s decision and remanded the case for the district court to address the specific claims in the petition. The district court again denied the petition, and the appellate court affirmed the lower court\u2019s decision by holding that McWilliams\u2019 due process rights were not violated because he was provided with a competent psychiatric expert, which met the requirement of Ake, and any harm that he might have suffered was not prejudicial to the outcome of the sentencing hearing. </p>\n",
+    "conclusion": "<p dir=\"ltr\">The U.S. Supreme Court\u2019s decision in Ake v. Oklahoma clearly established that a state must provide an indigent defendant with access to an expert witness who is sufficiently available to the defense and independent of the prosecution to effectively conduct an examination and assist in the preparation of a defense. Justice Stephen G. Breyer delivered the opinion for the 5-4 majority. The Court held that, after certain threshold matters--such as the defendant\u2019s indigence and whether his mental condition was relevant and in question--are met, then Ake v. Oklahoma clearly requires that the defendant be provided with access to a competent mental health expert who can effectively assist in the \u201cevaluation, preparation, and presentation\u201d of a defense. In this case, a single evaluation available to both parties and the assistance of an outside volunteer expert who suggested that the defense consult other experts as well did not relieve the state of its responsibility under Ake. The Court declined to address the question of whether Ake required that the state provide an indigent defendant with an expert retained specifically for the defense, as this case could be resolved on narrower grounds. </p>\n<p>Justice Samuel A. Alito, Jr. wrote a dissent in which he argued that Ake did not clearly establish that an indigent defendant is entitled to a separate defense expert who is a member of the defense team. Although some language in Ake suggests that an indigent defendant is entitled to a separate defense expert, other language makes it clear that an indigent defendant is only entitled to an expert who can perform specific tasks for the defense team. There is no reason that a neutral expert cannot be sufficient. As further evidence that the rule from Ake is ambiguous, lower courts have diverged in their interpretation of the rule. Therefore, there can be reasonable dispute as to whether access to a neutral expert satisfies the state\u2019s requirement under Ake. Justice Alito also argued that the majority opinion essentially ignored the question for which it granted certiorari and did not provide a basis for its failure to accept the lower court\u2019s harmless error analysis. Chief Justice John G. Roberts, Jr., Justice Clarence Thomas, and Justice Neil Gorsuch joined in the dissent. </p>\n"
+}

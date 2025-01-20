@@ -1,0 +1,42 @@
+{
+    "ID": 55417,
+    "name": "BP America Production Co. v. Burton",
+    "href": "https://api.oyez.org/cases/2006/05-669",
+    "view_count": 0,
+    "docket_number": "05-669",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1145250000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39763"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1159938000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39764"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1165816800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39765"
+        }
+    ],
+    "question": "<p>Does the six-year statute of limitations for government actions for monetary damages in 28 U.S.C. 2415(a) govern the issuance of administrative orders, as opposed to the government's filing of a complaint in court?</p>\n",
+    "citation": {
+        "volume": "549",
+        "page": "84",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20677"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/549/84/",
+    "facts_of_the_case": "<p>The Department of the Interior (DOI) leases the rights to the mining of natural resources on federal lands to private companies like BP America Production (BP) in return for royalty payments. BP obtained a lease for the mining of coalbed methane gas, a natural gas that requires removal of excess carbon dioxide from the gas in order to make in marketable. In 1996, the Minerals Management Service (MMS) of the DOI issued an administrative order clarifying that the companies themselves must bear the full cost of removing the carbon dioxide. BP had been deducting the removal cost from its royalty payments, so the MMS ordered BP to pay more than $4 million in past royalites. BP cited 28 U.S.C. Section 2415(a), which establishes a six-year statute of limitations for government actions for monetary damages. BP argued that the government could not claim past royalties from more than six years before the 1996 administrative order, because the six-year time limit had expired.</p>\n<p>The DOI Assistant Secretary rejected BP's arguments and ruled for the government. A District Court affirmed the decision, ruling that an agency administrative order was not a government action for monetary damages, so the statute of limitations did not apply. On appeal, the Court of Appeals for the D.C. Circuit upheld the lower court's ruling. The Circuit Court ruled that the government would have had to file a complaint in court in order for the statute of limitations to take effect; an agency administrative order did not activate the time limit.</p>\n",
+    "conclusion": "<p>No. The Court ruled 7-0 that \"the 6-year statute of limitations in 2415(a) applies only to court actions and not to the administrative proceedings involved in this case.\" The opinion by Justice Samuel Alito relied on the plain meaning of the language in Section 2415(a). The statute used the terms \"action\" and \"complaint\" when referring to the statute of limitations. The Court held that these terms, when used by themselves, refer only to judicial proceedings, not administrative ones. Additionally, the Court noted that statutes of limitations on government actions are normally construed in favor of the government.</p>\n"
+}

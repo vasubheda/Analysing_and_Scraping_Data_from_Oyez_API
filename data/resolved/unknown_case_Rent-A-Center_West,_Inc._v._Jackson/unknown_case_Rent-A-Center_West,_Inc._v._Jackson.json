@@ -1,0 +1,42 @@
+{
+    "ID": 55639,
+    "name": "Rent-A-Center West, Inc. v. Jackson",
+    "href": "https://api.oyez.org/cases/2009/09-497",
+    "view_count": 0,
+    "docket_number": "09-497",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1263535200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40382"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1272258000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40383"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1277096400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40384"
+        }
+    ],
+    "question": "<p>Is the district court required in all cases to determine whether an arbitration agreement subject to the Federal Arbitration Act is unconscionable, even when the parties to the contract have clearly and unmistakably assigned the issue to an arbitrator for decision?</p>\n",
+    "citation": {
+        "volume": "561",
+        "page": "63",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19562"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that district courts are required in all cases to determine whether an arbitration agreement, subject to the Federal Arbitration Act, is unconscionable.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/561/63/",
+    "facts_of_the_case": "<p>Antonio Jackson filed a complaint in the Nevada federal district court alleging race discrimination and retaliation. The employer, Rent-A-Center West, Inc., moved to dismiss the proceedings and compel arbitration. The district court granted the motion to dismiss and compelled arbitration.</p>\n<p>On appeal, the U.S. Court of Appeals for the Ninth Circuit held in part that the district court was required to determine in the first instance whether the coverage and discovery provisions of the arbitration agreement were unconscionable.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court held that under the Federal Arbitration Act (\"FAA\"), where an agreement to arbitrate includes a provision that the arbitrator will determine the enforceability of the agreement, if a party challenges specifically the enforceability of that particular provision, the district court considers the challenge, but if a party challenges the enforceability of the agreement as a whole, the challenge is for the arbitrator. With Justice Antonin Scalia writing for the majority, the Court reasoned that Mr. Jackson challenged the enforceability of the agreement as a whole, and thus, the determination is left to the arbitrator not the district court.</p>\n<p>Justice John Paul Stevens, joined by Justices Ruth Bader Ginsburg, Stephen G. Breyer, and Sonia Sotomayor, dissented. He criticized the majority for adopting a position not proposed by either party during briefing or oral arguments.</p>\n"
+}

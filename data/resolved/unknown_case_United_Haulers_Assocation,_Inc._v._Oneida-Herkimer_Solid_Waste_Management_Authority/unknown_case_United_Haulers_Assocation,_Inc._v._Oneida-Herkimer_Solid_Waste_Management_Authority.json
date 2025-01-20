@@ -1,0 +1,42 @@
+{
+    "ID": 55447,
+    "name": "United Haulers Assocation, Inc. v. Oneida-Herkimer Solid Waste Management Authority",
+    "href": "https://api.oyez.org/cases/2006/05-1345",
+    "view_count": 0,
+    "docket_number": "05-1345",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1159246800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39846"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1168236000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39847"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1177909200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39848"
+        }
+    ],
+    "question": "<p>Does an ordinance requiring delivery of all solid waste to a publicly owned local facility impose a substantial burden on interstate commerce and therefore violate the Commerce Clause?</p>\n",
+    "citation": {
+        "volume": "550",
+        "page": "330",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20660"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/550/330/",
+    "facts_of_the_case": "<p>Oneida and Herkimer counties adopted a local \"flow control\" ordinance requiring locally-produced garbage to be delivered to local publicly-owned facilities. The United Haulers Association filed suit in federal district court, arguing that by prohibiting the export of waste and preventing waste haulers from using less expensive out-of-state facilities, the ordinance ran afoul of the dormant Commerce Clause. The Supreme Court has held that the Commerce Clause forbids any state law that regulates interstate commerce. The District Court ruled against United Haulers and held that the ordinance was constitutional because it did not discriminate against out-of-state businesses.</p>\n<p>On appeal, the U.S. Court of Appeals for the Second Circuit affirmed. The Court of Appeals ruled that even if the ordinance imposed a slight burden on interstate commerce, the effect was outweighed by the ordinance's local benefits.</p>\n",
+    "conclusion": "<p>No. The Court voted 6-3 to affirm the Second Circuit and uphold the ordinance. Chief Justice John Roberts's majority opinion distinguished the Oneida- Herkimer ordinance from previous ordinances that were struck down by the Court by emphasizing that the favored waste-disposal facilities were publicly operated. The majority found that \"[t]he flow control ordinances in this case benefit a clearly public facility, while treating all private companies exactly the same.\" After deeming the ordinance nondiscriminatory, the Court balanced its burden on commerce against its financial, health, and environmental benefits. The Court found that it imposed only an \"incidental burden.\" The majority declined to \"rigorously scrutinize\" the economic effects of the ordinance, preferring to leave the policy analysis to local government. The dissent by Justice Alito would have held that the ordinance discriminated against commerce and was thus unconstitutional.</p>\n"
+}

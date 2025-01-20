@@ -1,0 +1,42 @@
+{
+    "ID": 63182,
+    "name": "U.S. Patent and Trademark Office v. Booking.com B.V.",
+    "href": "https://api.oyez.org/cases/2019/19-46",
+    "view_count": 0,
+    "docket_number": "19-46",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1573192800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54600"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1588568400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54699"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1593493200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54739"
+        }
+    ],
+    "question": "<p>Does the addition by an online business of a generic top-level domain (\u201c.com\u201d) to an otherwise generic term create a protectable trademark, notwithstanding the Lanham Act\u2019s prohibition on generic terms as trademarks?</p>\n",
+    "citation": {
+        "volume": "591",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27718"
+    },
+    "term": "2019",
+    "description": "A case in which the Court held that the addition by an online business of a generic top-level domain (\u201c.com\u201d) to an otherwise generic term can create a protectable trademark if the composite term is distinct from the generic term to consumers.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/591/19-46/",
+    "facts_of_the_case": "<p>Booking.com operates a website on which customers can make travel and lodging reservations and has used the name BOOKING.COM since at least 2006. In 2011 and 2012, Booking.com filed with the U.S. Patent and Trademark Office (USPTO) four trademark applications for the use of BOOKING.COM as a word mark and for stylized versions of the mark.</p>\n<p>Under the Lanham Act, marks must be \u201cdistinctive\u201d to be eligible for protection, and generic terms are not distinctive. The USPTO examiner rejected Booking.com\u2019s applications, finding that the marks were not protectable because BOOKING.COM was generic as applied to the services for which it sought registration (online hotel reservation services, among others).</p>\n<p>The Lanham Act also allows protection for \u201cdescriptive\u201d terms that have acquired secondary meaning, or a mental association in the minds of consumers between the proposed mark and the source of the product or service. In the alternative, the USPTO concluded that the marks were merely descriptive and that Booking.com had failed to establish that they had acquired secondary meaning as required for trademark protection.</p>\n<p>Booking.com appealed to the Trademark Trial and Appeal Board, which affirmed the rejection of Booking.com\u2019s applications. The Board found that BOOKING.COM was a generic term for these types of services and therefore ineligible for trademark protection. Because \u201cbooking\u201d generically refers to \u201ca reservation or arrangement to buy a travel ticket or stay in a hotel room\u201d and \u201c.com\u201d indicates a\u00a0commercial website, the Board reasoned that consumers would understand the resulting term \u201cBOOKING.COM\u201d to refer to an online reservation service for travel\u2014the very services proposed in Booking.com\u2019s applications.\u00a0The district court reversed, ruling Booking.com had acquired secondary meaning.\u00a0A panel of the U.S. Court of Appeals for the Fourth Circuit the district court's reversal.</p>\n",
+    "conclusion": "<p>A term styled \u201cgeneric(dot)com\u201d is a generic name for a class of goods or services\u2014and thus ineligible for federal trademark protection\u2014only if the term has that meaning to consumers. Justice Ruth Bader Ginsburg authored the 8-1 majority opinion holding that because the lower court determined that consumers do not perceive the term \u201cBOOKING.COM\u201d to signify online hotel-reservation services\u00a0as a class, it is not a generic term and thus is eligible for federal trademark protection.</p>\n<p>The Court first noted that a generic name is ineligible for federal trademark registration. The parties did not dispute that the word \u201cbooking\u201d is generic for hotel-reservation services. The PTO, however, argued that the combination of a generic word and \u201c.com\u201d is also generic. The Court disagreed, finding that rule is not supported by the PTO\u2019s own past practice or by trademark law or policy.\u00a0</p>\n<p>Adding \u201c.com\u201d to a company name is different from adding \u201cCompany\u201d in that only one company can occupy a particular Internet domain name at a time, so even a \u201cgeneric(dot)com\u201d term could convey to consumers an association with a particular website. Moreover, a strict legal rule that entirely disregards consumer perception is incompatible with a bedrock principle of the Lanham Act.</p>\n<p>Justice Sonia Sotomayor authored a concurring opinion, observing that Justice Stephen Breyer\u2019s dissenting opinion \u201cwisely observes that consumer-survey evidence \u2018may be an unreliable indicator of genericness\u2019\u201d and that the PTO might well have been correct in its assessment, but that question was not before the Court in this case. Instead, the Court considered only the validity of the per se rule the PTO adopted.</p>\n<p>Justice Stephen Breyer authored a dissenting opinion, arguing that Booking.com\u2019s company name informs the consumer of the basic nature of its business and nothing more. As such, the addition of\u00a0\u201c.com\u201d to an otherwise generic term, such as \u201cbooking,\u201d should not yield a protectable trademark because doing so would be inconsistent with trademark principles and sound trademark policy.</p>\n"
+}

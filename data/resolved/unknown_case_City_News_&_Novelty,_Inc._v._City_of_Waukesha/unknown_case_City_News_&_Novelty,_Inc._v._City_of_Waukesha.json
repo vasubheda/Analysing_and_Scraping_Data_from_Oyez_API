@@ -1,0 +1,35 @@
+{
+    "ID": 54869,
+    "name": "City News & Novelty, Inc. v. City of Waukesha",
+    "href": "https://api.oyez.org/cases/2000/99-1680",
+    "view_count": 0,
+    "docket_number": "99-1680",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                975391200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51872"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                979711200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52216"
+        }
+    ],
+    "question": "<p>Does the guarantee of prompt judicial review that must accompany an adult business-licensing scheme mean a prompt judicial determination?</p>\n",
+    "citation": {
+        "volume": "531",
+        "page": "278",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18798"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/531/278/",
+    "facts_of_the_case": "<p>The City of Waukesha, Wisconsin requires sellers of sexually explicit materials to obtain and annually renew adult business licenses. City News and Novelty, Inc. (City News), owned and operated an adult-oriented shop in Waukesha. City News had first obtained a license in 1989. In 1995, City News applied for a renewal of its license. Waukesha's Common Council denied the application. The Council found that City News had violated Waukesha ordinances by permitting minors to loiter on the premises, failing to maintain an unobstructed view of booths in the store, and allowing patrons to engage in sexual activity inside the booths. Waukesha's refusal to renew City News's license was upheld in administrative proceedings and on judicial review in the state courts. Among other questions raised in its petition for certiorari, City News asked the Court to \"resolve...whether the guarantee of prompt judicial review that must accompany [an adult business] licensing scheme means a prompt judicial determination or simply the right to promptly file for judicial review.\"</p>\n",
+    "conclusion": "<p>The Court did not answer the question. In a unanimous opinion deliver by Justice Ruth Bader Ginsburg, the Court dismissed the writ of certiorari because City News was not properly situated to raise the question on which the Court granted review. The city of Waukesha had argued the case was moot after City News decided to withdraw its renewal application and close its business upon the city's grant of a license to another business, with which the Court agreed. \"We do not doubt that an ongoing adult enterprise facing loss of its license to do business may allege First Amendment injuries. Such an establishment's typical concern, however, is not the speed of court proceedings, but the availability of a stay of adverse action during the pendency of judicial review, however long that review takes,\" wrote Justice Ginsburg for the Court.</p>\n"
+}

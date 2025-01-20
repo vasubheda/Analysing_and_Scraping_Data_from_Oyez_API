@@ -1,0 +1,35 @@
+{
+    "ID": 54390,
+    "name": "Lewis v. Casey",
+    "href": "https://api.oyez.org/cases/1995/94-1511",
+    "view_count": 0,
+    "docket_number": "94-1511",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                817624800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37596"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                835592400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37597"
+        }
+    ],
+    "question": "<p>Did a federal trial judge err when ruling that Arizona prison officials unconstitutionally failed to provide inmates with adequate legal research facilities?</p>\n",
+    "citation": {
+        "volume": "518",
+        "page": "343",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18319"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/518/343/",
+    "facts_of_the_case": "<p>Fletcher Casey, Jr. and other inmates of various prisons operated by the Arizona Department of Corrections (ADOC), brought a class action against ADOC officials, alleging that the ADOC officials were furnishing them with inadequate legal research facilities and thereby depriving them of their right of access to the courts, in violation of Bounds v. Smith. Bounds held that \"the fundamental constitutional right of access to the courts requires prison authorities to assist inmates in the preparation and filing of meaningful legal papers by providing prisoners with adequate law libraries or adequate assistance from persons trained in the law.\" The District Court found the ADOC officials in violation of Bounds and issued an injunction mandating detailed, systemwide changes in ADOC's prison law libraries and in its legal assistance programs. The Court of Appeals affirmed both the finding of a Bounds violation and the injunction's major terms.</p>\n",
+    "conclusion": "<p>No. In an opinion authored by Justice Antonin Scalia, the Court held that the success of Casey's systemic challenge was dependent on the ability to show widespread actual injury, and the District Court's failure to identify anything more than isolated instances of actual injury rendered its finding of a systemic Bounds violation invalid. Justice Scalia said the court's 1977 ruling in Bounds v. Smith \"does not guarantee [inmates] the wherewithal to transform themselves into litigating engines capable of filing everything from shareholder derivative actions to slip-and-fall claims.\"</p>\n"
+}

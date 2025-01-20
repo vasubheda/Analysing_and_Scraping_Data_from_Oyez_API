@@ -1,0 +1,42 @@
+{
+    "ID": 63433,
+    "name": "LeDure v. Union Pacific Railroad Company",
+    "href": "https://api.oyez.org/cases/2021/20-807",
+    "view_count": 0,
+    "docket_number": "20-807",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1639548000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55010"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1648443600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55062"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1651122000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55087"
+        }
+    ],
+    "question": "<p>Is a train that makes a temporary stop in a railyard as part of its unitary journey in interstate commerce \u201cin use\u201d and therefore subject to the Locomotive Inspection Act?</p>\n",
+    "citation": {
+        "volume": "596",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27864"
+    },
+    "term": "2021",
+    "description": "A case in which the Court affirmed, via an equally divided Court, that a train that makes a temporary stop in a railyard as part of its unitary journey in interstate commerce is not \u201cin use\u201d and therefore not subject to the Locomotive Inspection Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/596/20-807/",
+    "facts_of_the_case": "<p>Bradley LeDure is a conductor for Union Pacific Railroad Company. In August 2016, LeDure reported for work at a rail yard in Salem, Illinois, to assemble a train for a trip to Dexter, Missouri. Three locomotives were coupled together on a sidetrack, and LeDure decided only one locomotive would be powered on. On an exterior walkway on his way to shut down one of the locomotives, LeDure slipped and fell down the steps. Upon investigation, LeDure noticed a \u201cslick\u201d substance, which Union Pacific later reported to be a \u201csmall amount of oil\u201d on the walkway.</p>\n<p>LeDure sued Union Pacific for negligence under the Locomotive Inspection Act and the Federal Employers\u2019 Liability Act, arguing that Union Pacific failed to maintain the walkway free of hazards. The district court dismissed LeDure\u2019s claims, finding the locomotive was not \u201cin use\u201d and therefore not subject to the Locomotive Inspection Act, and LeDure\u2019s injuries were not reasonably foreseeable because they resulted from a small \u201cslick spot\u201d unknown to Union Pacific. The U.S. Court of Appeals for the Seventh Circuit affirmed.</p>\n",
+    "conclusion": "<p>The judgment of the Seventh Circuit, affirming that the train was not \"in use\" and therefore not subject to the Locomotive Inspection Act, was affirmed by an equally divided Court. Justice Amy Coney Barrett took no part in the consideration or decision of the case.</p>\n"
+}

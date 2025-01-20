@@ -1,0 +1,35 @@
+{
+    "ID": 55066,
+    "name": "Cook County v. United States ex rel. Chandler",
+    "href": "https://api.oyez.org/cases/2002/01-1572",
+    "view_count": 0,
+    "docket_number": "01-1572",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1042524000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38856"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1047276000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38857"
+        }
+    ],
+    "question": "<p>Are local governments \"persons\" subject to qui tam actions under the False Claims Act?</p>\n",
+    "citation": {
+        "volume": "538",
+        "page": "119",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/18995"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/538/119/",
+    "facts_of_the_case": "<p>Under the False Claims Act (FCA), \"any person\" who \"knowingly presents, or causes to be presented, to an officer or employee of the United States Government...a false or fraudulent claim for payment or approval\" is liable to the federal government. A private person may bring a qui tam action \"in the name of the Government\" under the FCA. After the National Institute of Drug Abuse gave Cook County Hospital a $5 million research grant, Janet Chandler, who ran the study for a nonprofit research institute affiliated with the hospital, filed a qui tam action, claiming that Cook County and the institute had submitted false statements to obtain grant funds. Based on precedent, which held that States are not \"persons\" subject to FCA qui tam actions, the District Court granted the County's motion to dismiss. The Court of Appeals reversed.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion delivered by Justice David H. Souter, the Court held that the term \"person\" includes local governments. The Court noted that the County, as a recipient of federal funding, was clearly able to abuse federal spending and was thus subject to the FCA remedy that applied to prevent such abuse. Rejecting the Country's argument that is was not subject to punitive damages, the Court responded that the federal government amended the FCA to make it a more effective tool against fraud. \"It is simply not plausible that Congress intended to repeal municipal liability sub silentio by the very Act it passed to strengthen the Government's hand in fighting false claims,\" wrote Justice Souter.</p>\n"
+}

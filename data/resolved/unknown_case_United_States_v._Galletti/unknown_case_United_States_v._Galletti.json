@@ -1,0 +1,42 @@
+{
+    "ID": 55178,
+    "name": "United States v. Galletti",
+    "href": "https://api.oyez.org/cases/2003/02-1389",
+    "view_count": 0,
+    "docket_number": "02-1389",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1056344400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39115"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1073887200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39116"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1080021600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39117"
+        }
+    ],
+    "question": "<p>To qualify for the 10-year extension in the statute of limitations, does the government need to assess - beyond just the partnership that owes money - each individual partner for the debt?</p>\n",
+    "citation": {
+        "volume": "541",
+        "page": "114",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19106"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/541/114/",
+    "facts_of_the_case": "<p>Abel Galletti and his wife, along with another couple, the Briguglios, formed a business partnership. The partnership underpaid its federal employment taxes, and the IRS assessed the unpaid taxes against the partnership (meaning the partnership would be forced to pay the taxes). According to the Internal Revenue Code, if a tax debt is assessed within three years after the return was filed, the government has 10 additional years to collected the money.</p>\n<p>More than three years later, the Gallettis and the Briguglios separately filed for bankruptcy. The IRS made a claim in bankruptcy court against the two couples for the taxes assessed against the partnership. The couples objected, arguing that because the partners themselves had not been separately assessed, the statute of limitations had not been extended to the partners.</p>\n<p>The bankruptcy court ruled against the IRS, holding that the IRS must assess tax claims against individual partners, not just the partnership, in order to later collect on those claims from the individuals. The district court and a Ninth Circuit Court of Appeals panel both affirmed the decision.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Clarence Thomas, the Court held that the IRS' assessment against the partnership was sufficient to extend the statute of limitations by 10 years to collect the money from the partners themselves. The Internal Revenue Code does not require the government to make separate assessments of a single debt against people or entities secondarily liable in order to extend the statute of limitations. The statute of limitations extension is attached to the debt - without reference to the entities who owe the debt.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55526,
+    "name": "Preston v. Ferrer",
+    "href": "https://api.oyez.org/cases/2007/06-1463",
+    "view_count": 0,
+    "docket_number": "06-1463",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1190696400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40065"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1200290400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51885"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1203487200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52234"
+        }
+    ],
+    "question": "<p>Must a contract dispute to go arbitration pursuant to the document's arbitration clause when an administrative agency has exclusive jurisdiction over the disputed issue?</p>\n",
+    "citation": {
+        "volume": "552",
+        "page": "346",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20733"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/552/346/",
+    "facts_of_the_case": "<p>In 2005, the former manager for Alex Ferrer, television's Judge Alex, sued him to recover alleged unpaid commissions. The management contract at issue specifically called for all such disputes to be arbitrated out of court. Judge Alex responded by filing a complaint with California's labor commissioner charging that the management contract was illegal because the manager had actually been serving as an unlicensed talent agent in violation of California law. The commissioner, who has exclusive jurisdiction over talent agency disputes, said that he lacked authority to stop the arbitration. When Judge Alex filed suit in state court, the court stopped the arbitration.</p>\n",
+    "conclusion": "<p>The Court disagreed with the California Labor Commissioner's assessment and allowed the arbitration to continue. Justice Ruth Bader Ginsburg, writing for an 8-1 majority, stated that the California law granting exclusive jurisdiction to the Labor Commission was superseded by the Federal Arbitration Act because the parties to this case had agreed to arbitrate any contractual disputes. Therefore, it was the function of an arbitrator, not the Labor Commission, to determine the legality of the management contract. Justice Clarence Thomas issued the sole dissent.</p>\n"
+}

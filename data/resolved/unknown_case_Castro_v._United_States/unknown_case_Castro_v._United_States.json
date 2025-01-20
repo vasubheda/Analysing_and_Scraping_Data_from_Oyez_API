@@ -1,0 +1,42 @@
+{
+    "ID": 55202,
+    "name": "Castro v. United States",
+    "href": "https://api.oyez.org/cases/2003/02-6683",
+    "view_count": 0,
+    "docket_number": "02-6683",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1043647200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39182"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1066194000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39183"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1071468000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39184"
+        }
+    ],
+    "question": "<p>When a district judge re-classifies a post-conviction motion by a defendant, turning it into a petition for a writ of habeas corpus, does that preclude future petitions for a writ of habeas corpus under the Antiterrorism and Effective Death Penalty Act of 1996?</p>\n",
+    "citation": {
+        "volume": "540",
+        "page": "375",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/19130"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/540/375/",
+    "facts_of_the_case": "<p>Hernan O'Ryan Castro was sentenced to 20 years in prison for drug related offenses. After the 11th Circuit Court of Appeals affirmed his conviction, Castro alleged that he had discovered evidence that a government witness had testified falsely. Based on this evidence, he requested a new trial without legal representation. The district court, because Castro had no legal representation, attempted to help him by re-characterizing his request for a new trial as a petition for a writ of habeas corpus. The judge's re-characterization of Castro's appeal was intended to help him, but two years later, in the Antiterrorism and Effective Death Penalty Act of 1996, Congress limited the number of petitions for writ of habeas corpus that a prisoner could file to one. When Castro attempted to petition for what he thought was his first write of habeas corpus in 1998, he was denied because of the earlier reclassification of his request for a new trial. When he appealed, the 11th Circuit Court of appeals initially sided with Castro, ruling that the reclassification should not count against him. Four months later, however, the 11th Circuit reconsidered, siding with the government.</p>\n",
+    "conclusion": "<p>In a unanimous opinion delivered by Justice Stephen Breyer, the Court held that a federal court can recharacterize a motion as a first habeas corpus petition only if the court: (1) informs the litigant of the court's intent to recharacterize; (2) warns the litigant that this recharacterization means that any subsequent habeas corpus petition will be treated as a second petition; (3) gives the litigant an opportunity to withdraw or amend the motion. The Court held that because the district court failed to give these prescribed warnings, Castro's 1994 motion could not be considered a first habeas corpus petition and his 1997 motion therefore could not be considered a second petition.</p>\n"
+}

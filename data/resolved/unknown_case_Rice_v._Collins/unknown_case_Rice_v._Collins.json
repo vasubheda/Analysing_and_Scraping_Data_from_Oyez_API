@@ -1,0 +1,42 @@
+{
+    "ID": 55375,
+    "name": "Rice v. Collins",
+    "href": "https://api.oyez.org/cases/2005/04-52",
+    "view_count": 0,
+    "docket_number": "04-52",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1119934800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39652"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1133762400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39653"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1137564000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39654"
+        }
+    ],
+    "question": "<p>Does the AEDPA allow a federal court to reject the presumption of correctness for a state-court finding of fact as an \"unreasonable determination of the facts,\" even when a rational fact finder could have determined the facts as the state court did?</p>\n",
+    "citation": {
+        "volume": "546",
+        "page": "333",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20606"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/546/333/",
+    "facts_of_the_case": "<p>At Collins' state-court drug trial, he alleged that the prosecutor had used a peremptory challenge to strike a juror on account of her race. The prosecutor gave several race-neutral explanations for the strike, which the trial court accepted. Upon being convicted, Collins appealed to the California Court of Appeal, which upheld the conviction. According to the Court of Appeal, the juror's youth and demeanor were both valid reasons for striking her. The California Supreme Court denied review. The Federal District Court denied Collins' habeas petition, but the Ninth Circuit Court of Appeals reversed that decision. Under the Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA), federal courts must defer to a state-court finding of fact unless it is an \"unreasonable determination of the facts in light of the evidence presented in the State court proceeding.\" Applying this standard, the Ninth Circuit ruled that the trial court's acceptance of the prosecutor's race-neutral explanations was an unreasonable determination. The Supreme Court granted certiorari to determine whether the Ninth Circuit had acted correctly.</p>\n",
+    "conclusion": "<p>No. In a unanimous decision authored by Justice Anthony Kennedy, the Court rejected the Ninth Circuit's reasoning. The Court ruled that the state court did not act unreasonably when it determined that the prosecutor's race-neutral explanations were credible. Although there might have been some evidence that could be interpreted as undermining the prosecutor's credibility, the trial court was in a better position to determine those facts. The Court faulted the Ninth Circuit for substituting \"its own debatable interpretation of the record\" for the trial courts findings, and for \"misapplying settled rules that limit [the Circuit Court's] role and authority.\"</p>\n"
+}

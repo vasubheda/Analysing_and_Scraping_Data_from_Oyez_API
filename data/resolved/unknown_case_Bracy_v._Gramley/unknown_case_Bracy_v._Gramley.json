@@ -1,0 +1,35 @@
+{
+    "ID": 54545,
+    "name": "Bracy v. Gramley",
+    "href": "https://api.oyez.org/cases/1996/96-6133",
+    "view_count": 0,
+    "docket_number": "96-6133",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                860994000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37882"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                865832400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37883"
+        }
+    ],
+    "question": "<p>Does a prisoner make a sufficient factual showing to establish \"good cause,\" as required by Habeas Corpus Rule 6(a), for discovery on his claim by showing that the trial judge was steeped in corruption and by making specific allegations as to how his case was affected?</p>\n",
+    "citation": {
+        "volume": "520",
+        "page": "899",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18474"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/520/899/",
+    "facts_of_the_case": "<p>During Thomas J. Maloney's tenure as an Illinois judge, William Bracy was tried, convicted, and sentenced to death before him for a triple murder. Maloney was later convicted on federal charges of taking bribes from criminal defendants. In his federal habeas petition, Bracy argued that, because he had \"fixed\" other murder cases, Maloney had an interest in a conviction here to deflect suspicion. Bract contended that Maloney's interest violated the fair-trial guarantee of the Fourteenth Amendment's Due Process Clause. The District Court denied the claim, concluding that Bracy's allegations contained insufficient specificity or good cause. In affirming, the Court of Appeals also concluded that Bracy had not shown \"good cause\" for discovery to prove his claim.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion delivered by Chief Justice William H. Rehnquist, the Court held that Bracy had made a sufficient factual showing to establish \"good cause,\" as required by Habeas Corpus Rule 6(a), for discovery on his claim of actual judicial bias in his case. Chief Justice Rehnquist drew heavily on Bracy's contentions that his trial attorney, a former associate of Maloney's, had allegedly been involved in corruption and that he might have agreed to take Bracy's case to trial quickly so that the conviction would deflect any suspicion surrounding the rigged murder cases.</p>\n"
+}

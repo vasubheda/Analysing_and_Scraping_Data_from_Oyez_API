@@ -1,0 +1,42 @@
+{
+    "ID": 55968,
+    "name": "Tarrant Regional Water District v. Herrmann",
+    "href": "https://api.oyez.org/cases/2012/11-889",
+    "view_count": 0,
+    "docket_number": "11-889",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1357279200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41264"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1366693200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41265"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1371099600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41266"
+        }
+    ],
+    "question": "<p>Did Congress' approval of an interstate water compact illustrate congressional intent to allow state laws to interfere with interstate commerce in water?</p>\n<p>Does the Compact preempt protectionist state laws that restrict state access to water to which they are entitled under the Compact?</p>\n",
+    "citation": {
+        "volume": "569",
+        "page": "614",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19890"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that Congress\u2019 approval of an interstate water compact does not violate the Commerce Clause and that the compact does respect state lines.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/569/614/",
+    "facts_of_the_case": "<p>Tarrant Regional Water District (Tarrant) supplies water to north-central Texas. In 1955, Congress allowed Arkansas, Louisiana, Oklahoma, and Texas to negotiate an agreement allocating the water from the Red River, which forms the boundary between southeastern Oklahoma and northeastern Texas. In 1980, the states signed the Red River Compact and Congress ratified it.</p>\n<p>In 2007, Tarrant sought to appropriate water from three locations in Oklahoma for use in Texas and applied to the Oklahoma Water Resources Board (OWRB), which was established to regulate in-state and out-of-state water usage. On November 1, 2007, Tarrant sued the OWRB and sought declaratory and injunctive relief against the Oklahoma statutes on water usage. Tarrant argued that the statutes placed burdens on interstate water commerce that are unconstitutional under the Commerce Clause and overstep the bounds of the Compact that Congress allowed the states to establish. OWRB moved for summary judgment, and the district court granted it. The U.S. Court of Appeals for the Tenth Circuit affirmed.</p>\n",
+    "conclusion": "<p>No, no. Justice Sonia Sotomayor delivered the opinion for the unanimous Court. The Court held that the Compact's silence regarding state lines indicated an understanding that the Compact was meant to respect state lines, so state statutes do not conflict with the Compact's allocation of water. Long-running precedent supports the principle that states do not cede water rights within their own territories. Any other reading of the Compact would create jurisdictional and administrative confusion. The Court also held that the Compact does not violate the Commerce Clause by allowing states to interfere in interstate commerce because the Compact does not leave water unallocated for states statutes to affect.</p>\n"
+}

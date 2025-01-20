@@ -1,0 +1,35 @@
+{
+    "ID": 55132,
+    "name": "Tennard v. Dretke",
+    "href": "https://api.oyez.org/cases/2003/02-10038",
+    "view_count": 0,
+    "docket_number": "02-10038",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1079935200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52703"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1088053200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38987"
+        }
+    ],
+    "question": "<p>Does the Supreme Court's prohibition of executing mentally retarded people in\u00a0<em>Atkins v. Virginia</em>\u00a0apply if the crime cannot be attributed to mental retardation?</p>\n",
+    "citation": {
+        "volume": "542",
+        "page": "274",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/20538"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/542/274/",
+    "facts_of_the_case": "<p>Robert Tennard was convicted of murder. During the sentencing phase, he presented evidence that he had an IQ of 67. The instructions given to the jury by the judge when it was considering whether to apply the death penalty, however, did not account for this - they instructed they jury to determine whether the crime was committed deliberately and whether Tennard posed a future risk. Under\u00a0<em>Penry v. Lynaugh</em>, 492 U.S. 302, those instructions are not enough to allow the jury to weigh a defendant's mental retardation in his favor. After he was sentenced to death, Tennard filed a habeas corpus petition in federal district court, claiming that the sentence, given the shortcomings of the jury instructions, violated the Eighth Amendment's prohibition of Cruel and Unusual Punishment. The district court rejected the petition. The Fifth Circuit Court of Appeals affirmed, ruling that Tennard had no shown that his mental retardation was constitutionally relevant. To be constitutionally relevant, Tennard's retardation would have had to be responsible for his crime, and Tennard had not shown that this was the case.</p>\n<p>After the Supreme Court decided, in\u00a0<em>Atkins v. Virginia</em>, 536 U.S. 304, that executing the mentally retarded violated the Eighth Amendment, the Fifth Circuit reconsidered its holding. It affirmed the decision on the grounds that execution was only unconstitutional if the defendant could show that his mental retardation had actually caused the crime; being mentally retarded in and of itself did not exempt someone from the death penalty.</p>\n",
+    "conclusion": "<p>In a fairly narrow ruling 6-to-3 decision written by Justice Sandra Day O'Connor, the Court held that Tennard's mental retardation could reasonably be understood as relevant to his crime. Especially given the fact that the prosecutor emphasized Tennard's retardation when discussing the likelihood that he would be dangerous in the future, the Court found that the jury instructions did not sufficiently permit the jury to weigh Tennard's mental retardation in his favor.</p>\n"
+}

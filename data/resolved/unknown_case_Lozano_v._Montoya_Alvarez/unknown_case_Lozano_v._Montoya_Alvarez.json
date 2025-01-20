@@ -1,0 +1,42 @@
+{
+    "ID": 56029,
+    "name": "Lozano v. Montoya Alvarez",
+    "href": "https://api.oyez.org/cases/2013/12-820",
+    "view_count": 0,
+    "docket_number": "12-820",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1372050000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41375"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1386741600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41376"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1393999200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41589"
+        }
+    ],
+    "question": "<p>Does the one-year statute of limitations on a petition to return an abducted child under the Hague Convention remain in effect when one parent has deliberately concealed the child's whereabouts from the other parent?</p>\n",
+    "citation": {
+        "volume": "572",
+        "page": "1",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20900"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that the policy of equitable tolling does not apply to the statute of limitations outlined in the Hauge Convention's provision on international child abduction.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/572/1/",
+    "facts_of_the_case": "<p>Diana Alvarez and Manuel Lozano, two native Columbians, met while living in London and had a daughter together. At trial Alvarez testified that, from 2005 until 2008, Lozano was abusing and threatening to rape her. Lozano denied these allegations and claimed that, although they had normal couple problems, they were generally \"very happy together.\" In November 2008, Alvarez took the child and, after a stay at a women's shelter, moved to her sister's home in New York. A psychiatrist diagnosed the child with post-traumatic stress disorder (PTSD) caused by her experience living in the United Kingdom, moving to America, staying at a women's shelter, and knowing that her mother had been threatened. However, six months later, the child's condition drastically improved.</p>\n<p>After Lozano exhausted all remedies within the UK to attempt to locate the child, on November 10, 2010, he filed a Petition for Return of Child under Article 2 of the Hague Convention and the International Child Abduction Remedies Act in U.S. district court. The district court held that the child was now settled in New York and that removing the child would cause undue harm. The U.S. Court of Appeals for the Second Circuit affirmed.</p>\n",
+    "conclusion": "<p>Yes. Justice Clarence Thomas delivered the opinion for the unanimous Court. The Supreme Court held that the policy of equitable tolling, which pauses the running of a statute of limitations when a litigant has diligently pursued his rights, does not apply to the Hague Convention's provision on international child abduction. Because equitable tolling extends an otherwise discrete time period, it must be proven to align with statutory intent. However, the Hague Convention is a treaty, not a statute, and a treaty by its nature must be interpreted based on principles shared by the nations involved. Equitable tolling is not an established part of the background law of all signatories of the Hague Convention and therefore has no role in the interpretation of the treaty. The Court also held that the one-year period is not actually a statute of limitations because its expiration opens the door for other considerations that could result in the return of the child to the home country.</p>\n<p>In his concurring opinion, Justice Samuel A. Alito, Jr. wrote that the Hague Convention allowed courts to consider all factors relevant to the child's wellbeing and order the child's return to the home country even after the one year has elapsed. Nothing in the Hague Convention specifies that the one-year period places limits on a court's discretionary power to order the child's return. The one-year period is the time when the court must order the return, but not the only time the court may do so. Justice Stephen Breyer and Justice Sonia Sotomayor joined in the concurrence.</p>\n"
+}

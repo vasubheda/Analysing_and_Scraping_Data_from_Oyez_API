@@ -1,0 +1,42 @@
+{
+    "ID": 62942,
+    "name": "WesternGeco LLC v. ION Geophysical Corp.",
+    "href": "https://api.oyez.org/cases/2017/16-1011",
+    "view_count": 0,
+    "docket_number": "16-1011",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1515736800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54190"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1523854800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54228"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1529643600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54315"
+        }
+    ],
+    "question": "<p>Did the US Court of Appeals for the Federal Circuit err in holding that lost profits arising from prohibited combinations occurring outside of the US are categorically unavailable in cases in which patent infringement is proven under 35 U.S.C. \u00a7 271(f)?</p>\n",
+    "citation": {
+        "volume": "585",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27567"
+    },
+    "term": "2017",
+    "description": "A case in which the Court held that WesternGeco\u2019s award for lost profits was a permissible domestic application of \u00a7 284 of the Patent Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/585/16-1011/",
+    "facts_of_the_case": "<p>The US Supreme Court issued a 2016 order granting certiorari in this patent infringement case, vacating a 2015 ruling by the US Court of Appeals for the Federal Circuit and remanding the matter for further consideration in light of , 579 U.S. __ (2016). On remand, the appellate court vacated the district court\u2019s judgment for enhanced damages for willful infringement under 35 U.S.C. \u00a7 284, but reinstated its 2015 opinion in all other respects.\u00a0</p>\n<p>The underlying dispute in the case related to patent-practicing devices sold by ION Geophysical Corporation (\u201cION\u201d) which were combined and used in non-infringing streamer systems at sea, but that would infringe on patents belonging to WesternGeco LLC (\u201cWesternGeco\u201d) if used in that manner in the US. The jury found infringement by ION, found no invalidity as to any asserted claims, and awarded WesternGeco, among other amounts, $93.4 million in lost profits.\u00a0</p>\n<p>In a subsequent appeal to the Federal Circuit, ION asked, among other things, that the lost profits award be reversed. In its 2015 opinion, the Federal Circuit agreed and reversed that award on the grounds that under 35 U.S.C. \u00a7 271(f), WesternGeco was not entitled to lost profits arising from foreign uses of its patented invention. As stated above, the court then reinstated this portion of that opinion in 2016.</p>\n",
+    "conclusion": "<p>Ruling 7-2, the Court reversed and remanded, holding that WesternGeco\u2019s award for lost profits was a permissible domestic application of \u00a7 284 of the Patent Act.</p>\n<p>In an opinion authored by Justice Thomas, the Court explained that there was a presumption against the extraterritorial application of federal statutes, but that a two-step framework applied when deciding extraterritoriality questions. The first step asks whether that presumption may be rebutted. If not, the second step inquires as to whether the the case implicates the domestic application of the statute. Factors relevant to the second determination include identifying the statute\u2019s focus, and asking whether the conduct pertinent to that focus occurred domestically. If the answer is yes, then it is a permissible domestic application of the statute.</p>\n<p>The Court went on to state that though it is generally preferable to begin this inquiry with step one, courts have discretion to begin with step two, and the Court chose to do that in this case. In ascertaining the statute\u2019s focus, the Court explained that the \u00a7 284 general damages provision was geared toward \u201cinfringement.\u201d As such, in determining the focus of \u00a7 284 in a particular case, the type of infringement that occurred needed to be identified. In the instant case, WesternGeco\u2019s infringement and lost profits claim was based on \u00a7 271(f)(2), the provision that regulates the domestic act of \u201csuppl[ying] in or from the United States.\u201d The Court explained that it had previously acknowledged that this section applied to domestic interests. The conduct in this case that was relevant to the statutory focus, and which consisted of exporting components from the U.S., took place in the U.S. As such, WesternGeco\u2019s award was a permissible domestic application of \u00a7 284.</p>\n<p>Justice Gorsuch filed a dissenting opinion, which was joined by Justice Breyer.</p>\n"
+}

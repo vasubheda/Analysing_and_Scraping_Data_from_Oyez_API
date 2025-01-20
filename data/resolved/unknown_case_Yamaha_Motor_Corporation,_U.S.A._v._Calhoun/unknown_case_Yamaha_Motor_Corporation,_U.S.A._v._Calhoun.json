@@ -1,0 +1,35 @@
+{
+    "ID": 54453,
+    "name": "Yamaha Motor Corporation, U.S.A. v. Calhoun",
+    "href": "https://api.oyez.org/cases/1995/94-1387",
+    "view_count": 0,
+    "docket_number": "94-1387",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                815119200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37712"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                821167200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37713"
+        }
+    ],
+    "question": "<p>Do state remedies apply in maritime wrongful-death cases in which no federal statute specifies the appropriate relief and the decedent was not a seaman, longshore worker, or person otherwise engaged in a maritime trade?</p>\n",
+    "citation": {
+        "volume": "516",
+        "page": "199",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18382"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/516/199/",
+    "facts_of_the_case": "<p>In 1989, 12-year-old Natalie Calhoun died in a collision in territorial waters off Puerto Rico while riding a Yamaha jet ski. Natalie's parents, invoking Pennsylvania's wrongful-death and survival statutes, filed a federal diversity and admiralty action for damages against Yamaha. Yamaha argued that, because Natalie died on navigable waters, state remedies could not be applied, and that federal, judge-declared maritime law controlled to the exclusion of state law. Under U.S. Supreme Court precedent, the District Court held that the federal maritime wrongful-death action excluded state law remedies, but that loss of society and loss of support and services were compensable. Both sides ask for an appeal. After granting the interlocutory review petition, the appellate panel held that state remedies remain applicable in accident cases of this type and have not been displaced by the federal maritime wrongful-death action.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion delivered by Justice Ruth Bader Ginsburg, the Court held that state remedies remain applicable in such cases and have not been displaced by the federal maritime wrongful-death action recognized in Moragne v. States Marine Lines, Inc., 398 U.S. 375. The Court rejected Yamaha's argument that Moragne's wrongful-death action covers the waters, creating a uniform federal maritime remedy for all deaths occurring in state territorial waters, which replaces all state remedies previously available to supplement general maritime law.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 62800,
+    "name": "Town of Chester v. Laroe Estates, Inc.",
+    "href": "https://api.oyez.org/cases/2016/16-605",
+    "view_count": 0,
+    "docket_number": "16-605",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1484287200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53952"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1492405200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54019"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1496638800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54046"
+        }
+    ],
+    "question": "<p>According to Article III of the U.S. Constitution, must intervenors to a lawsuit establish standing on their own, or may they join so long as there is a valid case or controversy between the named parties?</p>\n",
+    "citation": {
+        "volume": "581",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27494"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that an intervenor to a lawsuit must meet the requirements of Article III standing if the intervenor wishes to pursue relief that was not already requested by the plaintiff.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/581/16-605/",
+    "facts_of_the_case": "<p>Land developer Steve Sherman sued the Town of Chester (Chester) and alleged a regulatory taking of his property because Chester prevented him from developing his land by requiring unfair and repetitive procedures. While that case was pending, a real estate company, Laroe Estates, Inc. (Laroe), sought to intervene in the case and claimed that it currently owned the property in question based on an initial 2003 agreement and a subsequent one in 2013. In 2013, TD Bank, which held a superior mortgage on the property, initiated foreclosure proceedings. Laroe and Sherman then entered into a new sales agreement that took the foreclosure proceedings into account, but TD Bank took possession of the property. The district court denied Laroe\u2019s motion to intervene because Laroe was not the owner of an interest in the property at the time of the alleged taking and therefore lacked independent standing in the takings claim. The U.S. Court of Appeals for the Second Circuit held that, under Article III of the U.S. Constitution, Laroe was not required to show it independently had standing to intervene. The appellate court reasoned that the Second Circuit case United States Postal Service v. Brennan, which held that there is no need to impose a standing requirement on an intervenor if there is an established valid case or controversy, applied in this case.</p>\n",
+    "conclusion": "<p>An intervenor to a lawsuit must meet the requirements of Article III standing if the intervenor wishes to pursue relief that was not already requested by the plaintiff. Justice Samuel A. Alito, Jr. delivered the opinion for the unanimous Court, which held that Article III required that plaintiffs establish standing on each of their claims. When there are multiple plaintiffs, at least one of plaintiffs must have standing for the relief requested in the complaint. The Court held that the same principle applied to intervenors. Therefore, if an intervenor sought a different type of relief than what the current plaintiff was seeking, it must establish Article III standing for that relief. In this case, it was unclear whether the intervenor sought the same relief as the original plaintiff. That issue must be resolved by the lower court in order to determine whether Laroe Estates, Inc. must establish Article III standing. </p>\n"
+}

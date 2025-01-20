@@ -1,0 +1,42 @@
+{
+    "ID": 62714,
+    "name": "State Farm Fire and Casualty Co. v. U.S. ex rel. Rigsby",
+    "href": "https://api.oyez.org/cases/2016/15-513",
+    "view_count": 0,
+    "docket_number": "15-513",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1464670800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53722"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1477976400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53905"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1481004000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54141"
+        }
+    ],
+    "question": "<p>What standard governs the decision of whether a claim under the False Claims Act should be dismissed because the complaining party violated the seal requirement?</p>\n",
+    "citation": {
+        "volume": "580",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27430"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that a violation of the False Claims Act\u2019s seal requirement does not mandate dismissal of the complaint. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/580/15-513/",
+    "facts_of_the_case": "<p>Many homeowners in the Gulf Coast area had two separate insurance policies: One that covered flood but not wind damage, and another that covered wind but not flood damage. These policies were frequently administered by the same private insurance company, but the company would be responsible for paying wind damage claims, while government funds would pay for flood damage claims; therefore, there was an incentive for the companies to classify damage as caused by flood rather than wind. State Farm Fire and Casualty Co. (State Farm) was one of these companies that administered such policies in the Gulf Coast area. Cori Rigsby was a State Farm claims adjuster who believed that State Farm was wrongfully seeking to maximize its policyholders\u2019 flood damage claims and minimize wind damage claims after Hurricane Katrina. Rigsby sued State Farm under the False Claims Act (FCA). The district court determined that State Farm had submitted false claims in violation of the FCA. On appeal, State Farm argued Rigsby had violated the FCA\u2019s seal requirement, which stated that the complaint cannot be disclosed until the court orders the complaint served on the defendant, and that violation of the FCA seal requirement warrants immediate dismissal. The U.S. Court of Appeals for the Fifth Circuit held that, although Rigsby violated the seal requirement by disclosing the existence of the suit, the violation of the seal requirement does not warrant immediate dismissal.</p>\n",
+    "conclusion": "<p>The Court held that a violation of the False Claims Act\u2019s seal requirement does not mandate dismissal of the complaint. The Court determines that the purpose of the requirement, in part, was the protect the government\u2019s interests and therefore that a \u201crigid interpretation\u201d of the requirement would undermine that interest. Furthermore, there is no legislative history to suggest Congress intended to condition a private right of action on compliance with a statutory mandate. </p>\n"
+}

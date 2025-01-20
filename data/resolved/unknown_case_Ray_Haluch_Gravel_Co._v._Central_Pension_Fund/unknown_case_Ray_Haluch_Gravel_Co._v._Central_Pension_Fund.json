@@ -1,0 +1,42 @@
+{
+    "ID": 56023,
+    "name": "Ray Haluch Gravel Co. v. Central Pension Fund",
+    "href": "https://api.oyez.org/cases/2013/12-992",
+    "view_count": 0,
+    "docket_number": "12-992",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1371445200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41364"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1386568800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41365"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1389765600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41366"
+        }
+    ],
+    "question": "<p>Is a district court's decision on the merits, which fails to resolve a request for contractual attorney's fees, a \"final decision\" for the purposes of appeal?</p>\n",
+    "citation": {
+        "volume": "571",
+        "page": "177",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/19945"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that a district court's decision on a case based on merit is a \"final answer\" in terms of an eventual appeal.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/571/177/",
+    "facts_of_the_case": "<p>A collective bargaining agreement directed Ray Holuch Gravel, a landscape supply company, to remit contributions to several benefit funds affiliated with the Central Pension Fund, a labor union which represents landscape supply company employees. After conducting an audit of the company's books in 2009, the union sued for additional remittances of past unreported work. They also sued for attorney's fees. The district court ruled in favor of the labor union on both issues with respect to one employee, but ruled against them with respect to employees who could not be identified because the landscape supply company failed to keep the required records. The two decisions were announced separately and one week apart. The labor union appealed both rulings within thirty days of the second ruling, but more than thirty days after the first ruling. The U.S. Court of Appeals for the First Circuit held that the appeal was timely because the attorney's fees are a merits issue, so the first decision was not final until the lower court had decided both cases.</p>\n",
+    "conclusion": "<p>Yes. Justice Anthony M. Kennedy delivered the opinion of the unanimous Court. The Supreme Court held that the decision on the merits, even if the issue of attorney's fees remains unresolved, is the final decision for the purpose of appeal. Because attorney's fees do not remedy the injury giving rise to the action and are often available to the defendant(s) as well as the plaintiff(s), the issue is generally not considered part of a merits decision. Although this distinction could lead to piecemeal litigation, the Court held that the concern was counterbalanced by the clarity that such a uniform rule provided to the appeals process.</p>\n"
+}

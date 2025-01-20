@@ -1,0 +1,42 @@
+{
+    "ID": 55941,
+    "name": "Millbrook v. United States",
+    "href": "https://api.oyez.org/cases/2012/11-10362",
+    "view_count": 0,
+    "docket_number": "11-10362",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1348549200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41184"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1361253600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41185"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1364360400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41186"
+        }
+    ],
+    "question": "<p>Does 2680(h) allow claims against the United States for the intentional torts of prison guards who are not exercising authority to execute searches, to seize evidence, or to make arrests for violations of Federal law?</p>\n",
+    "citation": {
+        "volume": "569",
+        "page": "50",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19863"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that claims against the United States for the intentional torts of prison officials is not limited to violations made during searches, seizures, or arrests.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/569/50/",
+    "facts_of_the_case": "<p>Kim Millbrook was an inmate at the United States Penitentiary, Lewisburg, Pennsylvania. Millbrook alleges that a correctional officer took him to the basement of the Special Management Unit and sexually assaulted him while other officers stood by. Millbrook filed a complaint under the Federal Tort Claims Act (FTCA) alleging sexual assault. Under 28 U.S.C. \u00a72680(h), the United States is not liable for the intentional torts of its employees, except for certain torts committed by law enforcement officials. <em>Pooler v. United States</em>, 787 F.2d. 868 (1986) limited claims that arise under \u00a72680(h) to intentional torts by a law enforcement officer while executing a search, seizing evidence, or making arrests for violations of federal law. The district court granted summary judgment in favor of the United States, holding that Millbrook's claim was precluded by <em>Pooler</em>. The U.S. Court of Appeals for the Third Circuit affirmed, noting that the definition of seizure is limited to seizure of evidence.</p>\n",
+    "conclusion": "<p>Yes. Justice Clarence Thomas delivered the opinion of the unanimous Supreme Court. The Court held that nothing in the text of the proviso itself implies a more specific reading than that a tort law claim may be filed when a law enforcement officer\u2019s actions fall within the scope of his employment. The text indicates that Congress intended the proviso to focus on the status of the individual rather than the type of action.</p>\n"
+}

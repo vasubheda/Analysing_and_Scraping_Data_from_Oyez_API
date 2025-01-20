@@ -1,0 +1,42 @@
+{
+    "ID": 55192,
+    "name": "Crawford v. Washington",
+    "href": "https://api.oyez.org/cases/2003/02-9410",
+    "view_count": 0,
+    "docket_number": "02-9410",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1055134800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39155"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1068444000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39156"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1078725600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39157"
+        }
+    ],
+    "question": "<p>Does playing out-of-court testimony to a jury, with no chance for cross-examination, violate a defendant's Sixth Amendment guarantee that \"[i]n all criminal prosecutions, the accused shall enjoy the right...to be confronted with the witnesses against him?\"</p>\n",
+    "citation": {
+        "volume": "541",
+        "page": "36",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19120"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/541/36/",
+    "facts_of_the_case": "<p>Michael Crawford stabbed a man he claimed tried to rape his wife. During Crawford's trial, prosecutors played for the jury his wife's tape-recorded statement to the police describing the stabbing. The statement contradicted Crawford's argument that he stabbed the man in defense of his wife. Because it was pre-recorded, Crawford could not cross-examine the statement. The jury convicted Crawford for assault.</p>\n<p>Crawford claimed the playing of his wife's statement, with no chance for cross-examination, violated the Sixth Amendment guarantee that \"[i]n all criminal prosecutions, the accused shall enjoy the right...to be confronted with the witnesses against him.\" The state supreme court upheld the conviction, relying on the U.S. Supreme Court's decision in Ohio v. Roberts (1980). That decision allowed the admission of out-of-court testimony against a defendant if that testimony was reliable.</p>\n",
+    "conclusion": "<p>Yes. In a 9-0 opinion delivered by Justice Antonin Scalia, the Court sided with Crawford and ruled that the Sixth Amendment's Confrontation Clause gives defendants the right to confront witnesses and cross-examine their testimony. This includes testimony police gather. The Court reasoned that the Framers intended the Confrontation Clause to prohibit out-of-court testimony as evidence against defendants. By allowing out-of-court testimony if it was \"reliable,\" the Roberts decision departed from the Framers' intent. The Court overruled Roberts. Chief Justice Rehnquist, joined by Justice Sandra Day O'Connor, concurred but opposed overruling Roberts.</p>\n"
+}

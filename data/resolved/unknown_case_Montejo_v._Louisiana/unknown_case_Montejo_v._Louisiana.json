@@ -1,0 +1,35 @@
+{
+    "ID": 55600,
+    "name": "Montejo v. Louisiana",
+    "href": "https://api.oyez.org/cases/2008/07-1529",
+    "view_count": 0,
+    "docket_number": "07-1529",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1231826400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40274"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1243314000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40275"
+        }
+    ],
+    "question": "<p>After the appointment of an attorney, does a defendant need to take additional steps to accept the appointment in order to secure the protections afforded by the Sixth Amendment?</p>\n",
+    "citation": {
+        "volume": "556",
+        "page": "778",
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/19523"
+    },
+    "term": "2008",
+    "description": "A case in which the Court held that after the appointment of an attorney, a defendant does not necessarily need to take additional steps to accept the appointment in order to secure the protections of the Sixth Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/556/778/",
+    "facts_of_the_case": "<p>In March 2005, Jesse Montejo was convicted and sentenced to death for the murder of Lewis Ferrari. At his trial, the prosecution submitted as evidence a letter of apology he wrote to the victim's wife. Montejo wrote the letter at the suggestion of a detective who accompanied him in a search for the murder weapon. Before the search, Mr. Montejo was read his Miranda rights and wrote an explanation for his participation in the search. However, no one in the search party knew, including Mr. Montejo, that he had been appointed an attorney the same morning. Mr. Montejo contended under these circumstances that the Sixth Amendment barred the introduction of this evidence since his attorney was not present when he wrote and submitted the letter of apology.</p>\n<p>The Supreme Court of Louisiana held that the letter of apology Mr. Montejo wrote was valid evidence. It found that Mr. Montejo waived his Sixth Amendment right to counsel. It explained that when counsel was appointed Mr. Montejo remained mute and did not acknowledge it. The court reasoned that something beyond \"mute acquiescence\" is required to trigger the protections of the Sixth Amendment.</p>\n",
+    "conclusion": "<p>Not necessarily. The Supreme Court overruled its prior decision in Michigan v. Jackson which held that evidence obtained through interrogation after the defendant has invoked his right to counsel was inadmissible. With Justice Antonin G. Scalia writing for the majority and joined by Chief Justice John G. Roberts, and Justices Anthony M. Kennedy, Clarence Thomas, and Samuel A. Alito, the Court reasoned that the Jackson framework was unworkable in jurisdictions that appoint counsel regardless of a defendant's request. Instead, the Court stated that the protections afforded under Miranda, Edwards, and Minnick were sufficient to protect a defendant's Sixth Amendment rights from police badgering that might elicit culpable evidence.</p>\n<p>Justice Alito, joined by Justice Kennedy, also filed a concurring opinion. Justice John Paul Stevens dissented and was joined by Justices David H. Souter and Ruth Bader Ginsburg, and in part by Justice Stephen G. Breyer. He argued that the majority correctly concluded that the Louisiana Supreme Court misapplied the Court's holding in Jackson, but disagreed that the Court should have overruled its precedent entirely. Rather, Justice Stevens criticized the Court for misinterpreting the rationale of Jackson and undervaluing the role of stare decisis in its decision making. Justice Breyer also wrote a dissenting opinion, highlighting the consistency of his reasoning with respect to stare decisis in several other cases.</p>\n"
+}

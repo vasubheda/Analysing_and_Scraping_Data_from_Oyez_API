@@ -1,0 +1,42 @@
+{
+    "ID": 55610,
+    "name": "Yeager v. United States",
+    "href": "https://api.oyez.org/cases/2008/08-67",
+    "view_count": 0,
+    "docket_number": "08-67",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1226642400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40303"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1237784400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40304"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1245301200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40305"
+        }
+    ],
+    "question": "<p>Does the Double Jeopardy Clause bar retrial when a jury acquits a defendant on some counts, but fails to reach a verdict on other counts whose essential elements must have been decided in the defendant's favor by a rational jury?</p>\n",
+    "citation": {
+        "volume": "557",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20850"
+    },
+    "term": "2008",
+    "description": "A case in which the Court held that the Double Jeopardy clause bars retrial if a jury acquits a defendant on some counts but fails to reach a verdict on other counts whose essential elements must have been decided in the defendant's favor. ",
+    "justia_url": null,
+    "facts_of_the_case": "<p>In July 2005, a jury in a federal district court acquitted F. Scott Yeager of conspiracy, wire fraud, and security fraud, but hung on 20 counts of insider trading and 99 counts of money laundering in relation to his involvement with Enron Broadband Services. The district court declared a mistrial on the counts the jury hung on. Thereafter, the United States again indicted Mr. Yeager on a portion of the mistried counts. On interlocutory appeal, Mr. Yeager argued that in acquitting him of securities fraud, the jury \"necessarily found that he did not have insider information\", and therefore collateral estopple prevents the government from retrying him for insider trading and money laundering.</p>\n<p>The United States Court of Appeals for the Fifth Circuit held that collateral estoppel does not bar retrial in Mr. Yeager's case. It recognized that Mr. Yeager had the burden of proving the jury necessarily found that he was not guilty of insider trading. He did not, as a jury that found him not guilty of insider trading and \"acting rationally\" would have acquitted him of insider trading and money laundering. The court reasoned that because it was unclear the jury's rationale for its decisions, Mr. Yeager's mistried counts did not prevent his retrial on those counts.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court held that apparent inconsistencies between a jury's verdict of acquittal on some counts and its failure to return a verdict on other counts does not affect an acquittal's preclusive force. With Justice John Paul Stevens writing for the majority and joined by Chief Justice John G. Roberts, and Justices David H. Souter, Ruth Bader Ginsburg, and Stephen G. Breyer, and in part by Justice Anthony M. Kennedy, the Court stated that in Mr. Yeager's case, \"if the possession of insider information was a critical issue of ultimate fact in all of the charges [against him], a jury that decided that issue in his favor protects him from prosecution for any charges for which that [fact] is an essential element.\"</p>\n<p>Justice Antonin G. Scalia dissented and was joined by Justices Clarence Thomas and Samuel A. Alito. He disagreed with the majority holding, arguing that it was a departure from not only the original meaning of the Double Jeopardy Clause, but the Court's own precedent. Justice Alito also wrote a separate dissenting opinion and was joined by Justices Scalia and Thomas. While acknowledging his disagreement with the majority holding, he argued that in light of the decision, the courts should rigorously apply the doctrine of issue preclusion. Based on this, an acquittal on one charge only precludes indictment for a second charge if a \"rational jury\" could not have acquitted on the precedent charge without finding in the defendant's favor on the factual element necessary to convict on the second charge. Justice Kennedy also wrote separately, concurring in part and concurring in the judgment. While agreeing with much of the majority holding, he noted the validity of Justice Alito's concerns with the decision.</p>\n"
+}

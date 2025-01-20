@@ -1,0 +1,42 @@
+{
+    "ID": 55649,
+    "name": "Morrison v. National Australia Bank",
+    "href": "https://api.oyez.org/cases/2009/08-1191",
+    "view_count": 0,
+    "docket_number": "08-1191",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1259560800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40410"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1269838800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40411"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1277355600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40412"
+        }
+    ],
+    "question": "<p>1) Do anti-fraud provisions of the U.S. securities laws extend to transnational fraud?</p>\n<p>2) Did the Second Circuit apply the appropriate standard for determining whether subject matter jurisdiction exists?</p>\n",
+    "citation": {
+        "volume": "561",
+        "page": "247",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19572"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that the Securities and Exchange Act does not provide a cause of action against foreign plaintiffs suing foreign and American defendants for misconduct in connection with securities traded on foreign stock exchanges.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/561/247/",
+    "facts_of_the_case": "<p>In 1998 National Australia Bank (NAB), an Australian company, acquired Homeside Lending Inc. (Homeside), an American company. In 2001, NAB announced that it would incur a $450 million write-down for inaccurately calculating the fees Homeside would generate for servicing mortgages, which had been calculated as present assets. Its stock price then dropped 5 percent. Later that year, NAB announced a second write-down of $1.75 billion to amend for other inaccurate calculations that had been booked as present assets. NAB's stock price tumbled an additional 13 percent. Subsequently, four owners of NAB stock filed suit against NAB and Homeside in a New York federal district court alleging violations of the Securities and Exchange Act of 1934. Three of the plaintiffs purported to represent a class of non-American purchasers of NAB stock because they bought their shares abroad. The district court held that it lacked subject matter jurisdiction over the class of non-American purchasers.</p>\n<p>On appeal, the U.S. Court of Appeals for the Second Circuit affirmed. The court reasoned that subject matter jurisdiction exists over claims only \"if the defendant's conduct in the United States was more than merely preparatory to fraud, and particular acts or culpable failures to act with the United States directly caused losses to foreign investors abroad.\" Here, the court noted that (1) the issuance of fraudulent statements from NAB's corporate headquarters in Australia were more central to the fraud than Homeside's manipulation of financial data on which NAB based its statements, (2) there was no effect on U.S. capital markets, and (3) the lengthy chain of causation from NAB receiving inaccurate information from Homeside before passing the information along to its investors suggested that the district court lacked subject matter jurisdiction.</p>\n",
+    "conclusion": "<p>No. Not answered. The Supreme Court affirmed the Second Circuit, but held that it erred when it raised the question of subject matter over the case. Instead, the Court held that the Securities and Exchange Act does not provide a cause of action to foreign plaintiffs suing foreign and American defendants for misconduct in connection with securities traded on foreign stock exchanges. With Justice Antonin Scalia writing for the majority, the Court reasoned that \"longstanding principle\" dictated that the legislation of Congress, unless expressly stated otherwise, only applies within the territorial jurisdiction of the United States. Here, the Court further reasoned that the section of the Securities and Exchange Act in question dealt with transactions in securities listed on domestic exchanges and domestic transactions which was not present in this case.</p>\n<p>Justice John Paul Stevens, joined by Justice Ruth Bader Ginsburg, concurred in the judgment. He agreed with Court's conclusion but disagreed that the Court employed a new test to determine the reach of the Securities and Exchange Act \u2013 only extending to \"transactions in securities listed on domestic exchanges and domestic transactions.\" He stated that the federal courts have been construing the Act's scope under a different test which did not warrant abandonment.</p>\n"
+}

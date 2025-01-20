@@ -1,0 +1,28 @@
+{
+    "ID": 54634,
+    "name": "Breard v. Greene",
+    "href": "https://api.oyez.org/cases/1997/97-8214",
+    "view_count": 0,
+    "docket_number": "97-8214",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                892530000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38048"
+        }
+    ],
+    "question": "<p>May Angel Francisco Breard, a Paraguayan citizen, and various Paraguayan diplomats receive a stay of execution and other relief, respectively, for the capital murder of Ruth Dickie under the Vienna Convention on Consular Relations?</p>\n",
+    "citation": {
+        "volume": "523",
+        "page": "371",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18563"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/523/371/",
+    "facts_of_the_case": "<p>In 1992, Angel Francisco Breard, a citizen of Paraguay, was convicted of the attempted rape and capital murder of Ruth Dickie. Breard was scheduled to be executed by the Commonwealth of Virginia in 1996. Ultimately, Breard filed a motion for habeas relief in Federal District Court, alleging that arresting authorities violated the Vienna Convention on Consular Relations when they failed to inform him that, as a foreign national, he had the right to contact the Paraguayan Consulate. The court concluded that Breard had procedurally default this claim by failing to raise it in state court. The Court of Appeals affirmed. In 1996, Paraguayan officials brought suit alleging that Virginia officials had violated their rights under the Vienna Convention by failing to inform Breard of his treaty rights and the Paraguayan consulate of Breard's situation. Ultimately, the District Court concluded that it lacked jurisdiction. The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>No. In a per curiam opinion, the Court denied the stay applications and all other relief. The majority of the Court concluded that, because he had procedurally defaulted it, Breard could not raise his Vienna Convention claim on federal habeas corpus review. Moreover, the Court reasoned that Breard could not have demonstrated that the alleged violation of the Vienna Convention had an effect on his state trial that ought to have resulted in the overturning of his conviction. Additionally, the Court found that the Vienna Convention did not clearly provide a foreign nation with a private right of action in U.S. courts. Justices John Paul Stevens, Ruth Bader Ginsburg, and Stephen G. Breyer, in separate dissents, argued that the Court ought to have granted the stay applications and considered the merits of the case to different degrees.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 55196,
+    "name": "Virginia v. Maryland",
+    "href": "https://api.oyez.org/cases/2003/129-orig",
+    "view_count": 0,
+    "docket_number": "129-orig",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1065502800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39165"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1070949600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39166"
+        }
+    ],
+    "question": "<p>Does Virginia have a right to build in the Potomac river (and, as a result of that building, draw water from the river)?</p>\n",
+    "citation": {
+        "volume": "540",
+        "page": "56",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/19124"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>In 1632, King Charles I gave the Potomac River to Lord Baltimore and, through that charter, to the colony of Maryland. More than 360 years later, Virginia developed a plan to build a water intake pipe in the middle of the river to provide water to Virginia residents. Maryland objected to Virginia's plan and initially refused to grant Virginia a permit to build the pipe. After losing in administrative and state court, Maryland agreed to let Virginia build the pipe, but Virginia refused to let the issue die. Instead, it filed suit with the Supreme Court, asking the court to declare that while Maryland owns the river, Virginia has the right to build in it. Virginia cites a 1785 agreement between the states that gave each \"the privilege of making and carrying out wharfs and other improvements\" in the river. Maryland, however, argues that while Virginia may be able to build in the river, it does not have the right to draw water from the river without Maryland's consent. A \"special master\" appointed to evaluate the case by the Supreme Court issued a non-binding holding agreeing with Virginia.</p>\n",
+    "conclusion": "<p>In a 7-2 opinion delivered by Chief Justice William Rehnquist, the Court held that Virginia has sovereign authority to build improvements to its shore and withdraw water from the Potomac without Maryland's interference. Agreeing with the Special Master's conclusion in favor of Virginia, the Court reasoned that Virginia did not lose its sovereignty to build on its shore and withdraw water under the 1785 Compact between the two states and the Black-Jenkins arbitration agreement.</p>\n"
+}

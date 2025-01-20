@@ -1,0 +1,35 @@
+{
+    "ID": 54289,
+    "name": "Metropolitan Stevedore Company v. Rambo",
+    "href": "https://api.oyez.org/cases/1994/94-820",
+    "view_count": 0,
+    "docket_number": "94-820",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                798786000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37407"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                802933200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37408"
+        }
+    ],
+    "question": "<p>Does the Longshore and Harbor Workers' Compensation Act allow a party to seek modification of a disability award on the ground of change in conditions, when there has been no change in the employee's physical condition but rather an increase in the employee's wage-earning capacity due to the acquisition of new skills?</p>\n",
+    "citation": {
+        "volume": "515",
+        "page": "291",
+        "year": "1995",
+        "href": "https://api.oyez.org/case_citation/case_citation/18218"
+    },
+    "term": "1994",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/515/291/",
+    "facts_of_the_case": "<p>John Rambo received a disability award under the Longshore and Harbor Workers' Compensation Act (LHWCA) for an injury he sustained while working for the Metropolitan Stevedore Company as a longshore frontman. Afterwards, Rambo acquired new skills and obtained longshore work as a crane operator, earning more than three times his preinjury earnings, though his disabled physical condition remained unchanged. Metropolitan filed to modify Rambo's disability award under the LHWCA on the ground that there had been a change in conditions such that Rambo was no longer disabled. An Administrative Law judge terminated Rambo's benefits. The Benefits Review Board affirmed. In reversing, the Court of Appeals held that the LHWCA authorizes modification only where there has been a change in an employee's physical condition.</p>\n",
+    "conclusion": "<p>Yes. In an 8-1 opinion delivered by Justice Anthony M. Kennedy, the Court held that a disability award may be modified under the LHWCA where there is a change in the employee's wage-earning capacity, even without any change in the employee's physical condition. The Court reasoned that, because an interpretation of the term \"change in conditions\" to include not only changes in physical condition but also changes in other conditions relevant to the initial entitlement to benefits, such as a change in wage-earning capacity is consistent with the purpose of the LHWCA. Justice John Paul Stevens dissented, arguing that the term refers to the physical condition of the person receiving compensation and should not be departed from absent any indication from Congress.</p>\n"
+}

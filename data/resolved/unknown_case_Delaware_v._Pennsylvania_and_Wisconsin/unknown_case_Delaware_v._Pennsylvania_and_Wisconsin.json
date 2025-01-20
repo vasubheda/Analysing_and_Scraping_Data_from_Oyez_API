@@ -1,0 +1,42 @@
+{
+    "ID": 63461,
+    "name": "Delaware v. Pennsylvania and Wisconsin",
+    "href": "https://api.oyez.org/cases/2022/22o145",
+    "view_count": 0,
+    "docket_number": "22O145",
+    "timeline": [
+        {
+            "event": "Exceptions to Special Master Report - set for oral argument",
+            "dates": [
+                1645509600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55047"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1664773200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55158"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1677564000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55229"
+        }
+    ],
+    "question": "<p>Are unclaimed MoneyGram checks \u201cmoney orders\u201d or \u201csimilar written instruments\u201d and thus subject to a federal law that remits them to the states where they were purchased?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/27883"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held that the Federal Disposition Act applies to unclaimed or uncashed checks issued by MoneyGram Payments Systems, and thus that they must be returned to the state where they were purchased.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>MoneyGram Payments Systems, which is headquartered in Delaware, returns unclaimed checks to that state. Pennsylvania and Wisconsin argue that the checks are \u201cmoney orders\u201d or \u201csimilar written instruments,\u201d which federal law requires to go to the states where they were purchased.</p>\n<p>Invoking the U.S. Supreme Court\u2019s jurisdiction over interstate disputes, Delaware filed the case directly in the Supreme Court. The Court appointed a special master, who concluded that MoneyGram\u2019s checks are \u201cmoney orders\u201d or \u201csimilar written instruments\u201d and thus should go to the states where they were purchased. Delaware asked the Court to review the Special Master\u2019s findings for error.</p>\n",
+    "conclusion": "<p>Unclaimed MoneyGram checks are \u201cmoney orders\u201d or \u201csimilar written instruments\u201d and thus subject to the Federal Disposition Act, which remits them to the states where they were purchased. Justice Ketanji Brown Jackson authored the opinion of the Court, which was unanimous as to its conclusion (but only 5-4 as to the discussion of legislative history supporting that conclusion).</p>\n<p>The unclaimed checks at issue in this case are sufficiently similar to \u201cmoney orders\u201d to fall within the Federal Disposition Act (FDA) for two main reasons. First, they are similar in function in operation because they are prepaid financial instruments used to transmit a specified amount of money to a named payee. Second, because of the recordkeeping practices of the entity issuing and holding on to the prepaid funds, it would be inequitable for unclaimed checks to go to the state where the creditor is incorporated, as common law would require. For these reasons, the FDA, not the common law, applies to unclaimed MoneyGram checks.</p>\n"
+}

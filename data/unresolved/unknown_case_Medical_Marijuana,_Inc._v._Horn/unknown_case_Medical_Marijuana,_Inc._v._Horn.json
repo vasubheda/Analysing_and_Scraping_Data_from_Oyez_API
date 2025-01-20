@@ -1,0 +1,33 @@
+{
+    "ID": 63678,
+    "name": "Medical Marijuana, Inc. v. Horn",
+    "href": "https://api.oyez.org/cases/2024/23-365",
+    "view_count": 0,
+    "docket_number": "23-365 ",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1714366800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55453"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1728968400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55522"
+        }
+    ],
+    "question": "<p>Are economic harms resulting from personal injuries properly considered injuries to \u201cbusiness or property by reason of\u201d the defendant\u2019s acts for purposes of a civil treble-damages action under the Racketeer Influenced and Corrupt Organizations Act?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28012"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether economic harms resulting from personal injuries are injuries to \u201cbusiness or property by reason of\u201d the defendant\u2019s acts for purposes of a civil treble-damages action under the Racketeer Influenced and Corrupt Organizations (RICO) Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-365 /"
+}

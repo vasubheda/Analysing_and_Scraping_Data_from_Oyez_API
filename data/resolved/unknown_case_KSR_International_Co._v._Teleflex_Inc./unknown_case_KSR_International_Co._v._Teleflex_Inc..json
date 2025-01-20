@@ -1,0 +1,42 @@
+{
+    "ID": 55450,
+    "name": "KSR International Co. v. Teleflex Inc.",
+    "href": "https://api.oyez.org/cases/2006/04-1350",
+    "view_count": 0,
+    "docket_number": "04-1350",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1151298000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39855"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1164693600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39856"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1177909200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39857"
+        }
+    ],
+    "question": "<p>Was the Federal Circuit correct in holding that an invention cannot be held \"obvious\", and thus unpatentable, without a finding of some \"teaching, suggestion, or motivation\" that would have led a \"person of ordinary skill in the art\" to the invention by combining previously-existing ideas?</p>\n",
+    "citation": {
+        "volume": "550",
+        "page": "398",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20647"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/550/398/",
+    "facts_of_the_case": "<p>Teleflex sued KSR International (KSR), alleging that KSR had infringed on its patent for an adjustable gas-pedal system composed of an adjustable accelerator pedal and an electronic throttle control. KSR countered that Teleflex's patent was obvious, and therefore unenforceable. Under 25 U.S.C. Section 103(a), obvious inventions cannot be patented. A federal District Court granted summary judgment for KSR, accepting KSR's argument that the invention was obvious because each of the invention's components existed in previous patents. Anyone with knowledge or experience in the industry, the District Court ruled, would have considered it obvious that the two components could be combined. Teleflex appealed to the Court of Appeals for the Federal Circuit, which reversed the District Court. The Circuit Court found the lower court's analysis incomplete, because the District Court had not applied a full \"teaching-suggestion-motivation test.\" Under this test, in order to label the patent obvious the District Court would have needed to identify the specific \"teaching, suggestion, or motivation\" that would have led a knowledgeable person to combine the two previously-existing components. KSR appealed to the Supreme Court, arguing that the Circuit Court's test conflicted with Supreme Court precedent and that it would allow too many patents of obvious inventions.</p>\n",
+    "conclusion": "<p>No. The Court ruled unanimously that the Federal Circuit \"analyzed the issue in a narrow, rigid manner inconsistent with [Section 103(a)] and our precedents.\" Justice Anthony Kennedy wrote the opinion for the Court, which ruled in favor of KSR and reversed the Court of Appeals. The opinion acknowledged that a patent is not necessarily obvious by virtue of being a combination of two previously existing components and that it can be helpful in such cases for a court to identify a reason that would have motivated a knowledgeable person to combine the components. However, the Court held that Federal Circuit's \"teaching-suggestion-motivation test\" was not to be applied as a mandatory rule. This test for determining obviousness was too narrow, because it only took into account teachings on the specific problem the patentee was attempting to solve. Teleflex's gas pedal patent was inspired by previous inventions aimed at different problems. Even though no one had combined the pre-existing adjustable gas pedal and electronic sensor technology in the precise way Teleflex's patent did, the Court held that the existence of the technology would have caused any person of ordinary skill to see the obvious benefit of combining the two. Consequently, Teleflex's patent was obvious and therefore invalid.</p>\n"
+}

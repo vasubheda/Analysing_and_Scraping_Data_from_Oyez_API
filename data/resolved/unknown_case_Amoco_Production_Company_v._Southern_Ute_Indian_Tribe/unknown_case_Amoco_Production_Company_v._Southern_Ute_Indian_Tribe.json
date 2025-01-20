@@ -1,0 +1,35 @@
+{
+    "ID": 54719,
+    "name": "Amoco Production Company v. Southern Ute Indian Tribe",
+    "href": "https://api.oyez.org/cases/1998/98-830",
+    "view_count": 0,
+    "docket_number": "98-830",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                924498000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38202"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                928731600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38203"
+        }
+    ],
+    "question": "<p>Does the reservation of coal under the land patents issued pursuant to the Coal Lands Acts of 1909 and 1910 include the coal-bed methane gas found within the coal formation?</p>\n",
+    "citation": {
+        "volume": "526",
+        "page": "865",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18648"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/526/865/",
+    "facts_of_the_case": "<p>Land patents issued pursuant to the Coal Lands Acts of 1909 and 1910 (the Acts) reserve all rights to the coal contained in the subject properties to the United States. The Southern Ute Indian Tribe has equitable title to coal within its reservation lands. These lands contain large quantities of coalbed methane gas (CBM gas), now considered a valuable energy source, within the coal formations. In 1981, the Department of the Interior issued an opinion that concluded that the reservation of coal under the Acts did not encompass CBM gas. Energy companies then entered into leases with landowners holding title under the Acts to produce CBM gas. The Tribe field suit against the Amoco Production Company and others, royalty owners and producers under the oil and gas leases covering that land, and various federal entities, seeking a declaration stating CBM gas to be coal reserved by the Acts and therefore belonging to the Tribe. The District Court disagreed and concluded that the plain meaning of the term \"coal\" was limited to the solid rock substance and did not include the CBM gas. In reversing, the Court of Appeals held that the Acts' use of the term \"coal\" was ambiguous, and ambiguities in land grants must be resolved in favor of the sovereign. Therefore, the Acts' reservation of coal included the CBM gas.</p>\n",
+    "conclusion": "<p>No. In a 7-1 opinion delivered by Justice Anthony M. Kennedy, the Court held that, \"[t]he term 'coal' as used in the 1909 and 1910 Acts does not encompass CBM gas;\" therefore, CBM gas is not included in the reserved coal rights. Justice Kennedy wrote for the Court that \"[t]he common understanding of coal in 1909 and 1910 would not have encompassed CBM gas, both because it is a gas rather than a solid mineral and because it was understood as a distinct substance that escaped from coal as the coal was mined, rather than as part of the coal itself.\" Dissenting, Justice Ruth Bader Ginsburg expressed the view that Congress, at the time the Acts were passed, would have assumed that the coal owner had dominion over and responsibility for the CBM gas. Justice Stephen G. Breyer did not participate in the case.</p>\n"
+}

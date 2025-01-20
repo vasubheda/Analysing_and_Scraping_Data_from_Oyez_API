@@ -1,0 +1,35 @@
+{
+    "ID": 54433,
+    "name": "United Food & Commercial Workers v. Brown Group, Inc.",
+    "href": "https://api.oyez.org/cases/1995/95-340",
+    "view_count": 0,
+    "docket_number": "95-340",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                824796000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37672"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                831963600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37673"
+        }
+    ],
+    "question": "<p>May a labor union sue on behalf of its members over alleged violations of the federal Worker Adjustment and Retraining Notification Act?</p>\n",
+    "citation": {
+        "volume": "517",
+        "page": "544",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18362"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/517/544/",
+    "facts_of_the_case": "<p>The United Food and Commercial Workers Union Local 751 filed suit alleging that Brown Group, Inc. began to lay off workers in connection with the closing of one of its plants, Brown Shoe Company, before giving the union the closing notice required by the federal Worker Adjustment and Retraining Notification Act (the WARN Act). The union sought backpay for each of its affected members. Under modern associational standing doctrine, an organization may sue to redress its members' injuries when: 1) its members would otherwise have standing to sue in their own right; 2) the interests it seeks to protect are germane to the organization's purpose; and 3) neither the claim asserted nor the relief requested requires the participation of individual members in the lawsuit. The District Court dismissed the compliant. The Court of Appeals affirmed, holding that \"[e]ach union member who wishes to recover WARN Act damages from Brown Shoe must participate in the suit so that his or her right to damages can be determined and the quantum of damages can be calculated by the court on the basis of particularized proof.\" Therefore, the court concluded that the suit was barred because the union failed to meet the third part of the test for asserting associational standing.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous decision, authored by Justice David H. Souter, the Court held that the federal Worker Adjustment and Retraining Notification Act grants unions authority to sue for damages on behalf of their members. Therefore, the union had standing to bring such an action. Justice Souter wrote that the court's ruling was based on previous decisions that state that \"an organization may sue to redress its members' injuries even without a showing of injury to the association itself.\"</p>\n"
+}

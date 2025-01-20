@@ -1,0 +1,42 @@
+{
+    "ID": 55212,
+    "name": "Smith v. City of Jackson, Mississippi",
+    "href": "https://api.oyez.org/cases/2004/03-1160",
+    "view_count": 0,
+    "docket_number": "03-1160",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1080540000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39212"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1099461600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39213"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1112162400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39214"
+        }
+    ],
+    "question": "<p>Can a disparate impact claim - a claim alleging unintentional discrimination - be made under the Age Discrimination in Employment Act of 1967 (ADEA)?</p>\n",
+    "citation": {
+        "volume": "544",
+        "page": "228",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19140"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/544/228/",
+    "facts_of_the_case": "<p>Azel Smith and group of other police department employees over the age of 40 sued Jackson, Mississippi, and the city police department in federal district court. The group alleged the department salary plan violated the Age Discrimination in Employment Act (ADEA), which banned employers from engaging in age discrimination. The department plan gave officers with five or fewer years of tenure with the department larger raises than those with more than five years of tenure. The group made a \"disparate impact\" claim under the ADEA, arguing the department and city unintentionally engaged in age discrimination. The federal district court and the Fifth Circuit Court of Appeals ruled disparate impact claims could not be made under the ADEA. Other federal appeals courts ruled to the contrary.</p>\n",
+    "conclusion": "<p>Yes. In an 8-0 opinion delivered by Justice John Paul Stevens, the Court held that ADEA authorized recovery in disparate-impact cases, but that in this case petitioners failed to set forth a valid claim. The Court relied on its 1971 decision in Griggs v. Duke Power, where the Court first authorized disparate-impact claims brought under Title VII of the Civil Rights Act of 1964. The Court reasoned that the ADEA authorized disparate-impact claims in cases similar to Griggs, because the language of Title VII and ADEA was virtually identical. However, ADEA was narrower than Title VII and allowed an otherwise prohibited action where the discrimination was based on reasonable factors other than age. The employees in this case failed to identify any specific practice within the pay plan that had an adverse impact on older workers. Further, the city's plan was based on reasonable factors other than age.</p>\n"
+}

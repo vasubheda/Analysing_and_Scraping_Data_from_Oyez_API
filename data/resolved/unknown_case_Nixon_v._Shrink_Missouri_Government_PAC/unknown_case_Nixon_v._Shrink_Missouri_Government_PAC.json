@@ -1,0 +1,35 @@
+{
+    "ID": 54809,
+    "name": "Nixon v. Shrink Missouri Government PAC",
+    "href": "https://api.oyez.org/cases/1999/98-963",
+    "view_count": 0,
+    "docket_number": "98-963",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                939099600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38367"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                948693600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38368"
+        }
+    ],
+    "question": "<p>Does Buckley v. Valeo govern state regulations on contributions to state political candidates? Do the federal limits approved in Buckley, with or without adjustment for inflation, define the scope of permissible state limitations? Is Missouri's statutory limit on campaign contributions unconstitutional?</p>\n",
+    "citation": {
+        "volume": "528",
+        "page": "377",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18738"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/528/377/",
+    "facts_of_the_case": "<p>In 1976, Buckley v. Valeo established a $1,000 cap on individuals' contributions to candidates for federal office. Missouri law imposes campaign contribution limits, ranging from $250 to $1,000, to candidates for state office. The statute allows for periodic adjustments, which increased the 1998 contribution limit to $1,075 for candidates for statewide office, including state auditor. In 1998, Zev David Fredman, a candidate for the Republican nomination for Missouri state auditor, and the Shrink Missouri Government PAC, a political action committee, filed suit, alleging that the Missouri statute imposing limits on contributions to candidates for state office violated their First and Fourteenth Amendment rights. The PAC had contributed $1,075 to Fredman and argued, without the limitation, it would contribute more to Fredman's campaign. Additionally, Fredman alleged he could campaign effectively only with more generous contributions. The Federal District Court, applying Buckley v. Valeo, upheld the statute. The court rejected Fredman's and the PAC's contention that inflation since Buckley's approval of a federal $1,000 restriction meant that the state limit of $1,075 for a statewide office could not be constitutional today. In reversing, the Court of Appeals, found that Missouri's interest in avoiding the corruption or the perception of corruption caused by candidates' acceptance of large campaign contributions was insufficient to satisfy Buckley's strict scrutiny standard of review.</p>\n",
+    "conclusion": "<p>Yes, no, and no. In a 6-3 opinion delivered by Justice David H. Souter, the Court held that Buckley is the authority for comparable state regulation and, but that the federal limits approved in Buckley, with or without adjustment for inflation, do not define the scope of permissible state limitations. The Court held the Missouri statute not to violate the First Amendment. \"Even without the authority of Buckley, there would be no serious question about the legitimacy of the interests claimed, wrote Justice Souter for the Court, \"the cynical assumption that large donors call the tune could jeopardize the willingness of voters to take part in democratic governance.\" Justices Anthony Kennedy, Antonin Scalia and Clarence Thomas dissented, voting to overturn Buckley as a violation of First Amendment speech rights.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 62657,
+    "name": "Cuozzo Speed Technologies v. Lee",
+    "href": "https://api.oyez.org/cases/2015/15-446",
+    "view_count": 0,
+    "docket_number": "15-446",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1452837600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53403"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1461560400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53436"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1466398800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53789"
+        }
+    ],
+    "question": "<ol><li>May the Patent Trial and Appeal Board apply the broadest reasonable interpretation of patent claims during an <em>inter partes</em> review proceeding?</li>\n<li>Is the Patent Trial and Appeal Board\u2019s use of <em>inter partes</em> review judicially reviewable?</li>\n</ol>",
+    "citation": {
+        "volume": "579",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27405"
+    },
+    "term": "2015",
+    "description": "A case in which the Court held that the Patent Trial and Appeal Board may apply the broadest reasonable interpretation of patent claims during an inter partes review proceeding, and such a proceeding is not judicially reviewable.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/579/15-446/",
+    "facts_of_the_case": "<p>Cuozzo Speed Technologies, LLC. (Cuozzo) owns the 074 patent, \u201cSpeed Limit Indicator and Method for Displaying Speed and the Relevant Speed Limit,\u201d and Garmin International, Inc. (Garmin) petitioned the Patent Trial and Appeal Board (Board) for <em>inter partes</em> review of claims regarding the patent. The Board was established to process patent litigation faster by using <em>inter partes</em> review, and during that process, the Board uses the broadest reasonable interpretation when reviewing patent claims instead of the plain and ordinary meaning of patent claims. The Board found that claims 10, 14, and 17 were unpatentable. Cuozzo filed a motion to amend by replacing claims 10, 14, and 17 with claims 21, 22, and 23. The Board denied this request by applying the broadest reasonable interpretation standard to the term \u201cintegrally attached\u201d regarding claim 14 on the components of the \u201cSpeed Limit Indicator.\u201d Cuozzo appealed to the U.S. Court of Appeals for the Federal Circuit, which held that it lacked authority to review the Board\u2019s finding under the broadest reasonable interpretation.</p>\n",
+    "conclusion": "<p>The Patent Trial and Appeal Board may apply the broadest reasonable interpretation of patent claims during an <em>inter partes</em> review proceeding, and such a proceeding is not judicially reviewable. Justice Stephen G. Breyer delivered the opinion for the 7-0 majority. The Court held that judicial review of the decision of whether to institute <em>inter partes</em> review would not only go against the express wording of the statute, but it would also undercut the congressional objective of giving the Patent Office the power to revisit and revise earlier patent grants. The strong presumption of judicial review can be overcome by clear and convincing language and legislative history, as there was in this case. Additionally, because Congress did not expressly establish a standard for the Patent Office to apply in reviewing a patent claim in <em>inter partes</em> review, the broadest reasonable interpretation standard is acceptable as long as it is a reasonable exercise of the Patent Office\u2019s rulemaking authority. The Court held that the broadest reasonable interpretation standard was appropriate because it encouraged a patent applicant to draft the claim narrowly, which meant that the claim would not unnecessarily prevent further patents on related work, and also resembled the standard used in district court litigation as well as other patent proceedings.</p>\n<p>In his concurrence, Justice Clarence Thomas wrote that ambiguities in statutory text should not always be interpreted as a delegation of authority to the appropriate administrative agency, and that the Court should reconsider the line of precedent that established that presumption. In this case, however, because there was an explicit delegation of authority to the Patent Office to promulgate the rules governing its own proceedings, the majority opinion appropriately deferred to the Patent Office\u2019s determination.</p>\n<p>Justice Samuel A. Alito, Jr. wrote an opinion concurring in part and dissenting in part in which he argued that the strong presumption in favor of judicial review should apply in this case and that the agency\u2019s final decision should be appealable. The relevant statutory language explicitly stated that the decision of whether to institute <em>inter partes</em> review was \u201cnonappealable\u201d rather than \u201cnot subject to review;\u201d therefore, while judicial review could not stop the proceedings from going forward, it could certainly apply to the question of whether the institution of such proceedings was lawful. Allowing for judicial review of that decision is also consistent with the rule that judicial review of final agency decisions encompassed earlier rulings that were not expressly judicially reviewable on their own. In determining otherwise, the majority opinion held that the Patent Office need not adhere to the review structure that Congress put in place, which could not have been what Congress intended. Justice Sonia Sotomayor joined in the partial concurrence and partial dissent.</p>\n"
+}

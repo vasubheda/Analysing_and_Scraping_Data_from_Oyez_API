@@ -1,0 +1,42 @@
+{
+    "ID": 55407,
+    "name": "Scott v. Harris",
+    "href": "https://api.oyez.org/cases/2006/05-1631",
+    "view_count": 0,
+    "docket_number": "05-1631",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1161925200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39734"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1172469600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39735"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1177909200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39736"
+        }
+    ],
+    "question": "<p>1) Does a police officer who stops a high-speed chase by ramming a fleeing suspect's car violate the Fourth Amendment's protection against unreasonable seizure?</p>\n<p>2) Was it \"clearly established\" in federal law that an officer violates the Fourth Amendment by using deadly force during a high-speed chase?</p>\n",
+    "citation": {
+        "volume": "550",
+        "page": "372",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20669"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/550/372/",
+    "facts_of_the_case": "<p>After a police officer attempted to pull him over for speeding, Victor Harris fled in his vehicle, initiating a high-speed car chase. Attempting to end the chase, Deputy Timothy Scott rammed Harris's vehicle with his police cruiser. Harris crashed and was rendered a quadriplegic. Harris sued Scott in federal District Court, alleging that Scott had violated his Fourth Amendment rights by using excessive force. Scott claimed qualified immunity as a government official acting in his official capacity, but the District Court rejected the claim. The U.S. Court of Appeals for the Eleventh Circuit affirmed.</p>\n<p>In order to show that a government official is not entitled to qualified immunity, a plaintiff is required to prove that the official violated a clearly established constitutional right. The Eleventh Circuit ruled that Scott's actions constituted an unreasonable seizure in violation of the Fourth Amendment. Because there was no imminent threat - Harris remained in control of his vehicle and the roads were relatively empty - Scott's use of deadly force was unconstitutional. Although no Appellate Court had ruled on the specific question of the use of deadly force in a high-speed chase, the Eleventh Circuit ruled that the limits on deadly force were \"clearly established.\"</p>\n",
+    "conclusion": "<p>No. The Court ruled 8-1 that Scott's actions were reasonable under the Fourth Amendment. The opinion by Justice Antonin Scalia relied heavily on a videotape of the car chase, which it said contradicted the plaintiff's claim that he was driving responsibly even while being pursued by the police. The majority held that \"[...] it is clear from the videotape that [Harris] posed an actual and imminent threat to the lives of any pedestrians who might have been present, to other civilian motorists, and to the officers involved in the chase.\" The opinion weighed the need to prevent the harm Harris could have caused against the high probability that Harris himself would be harmed by Scott's use of force. It also took into account Harris's culpability for starting the chase in the first place. The Court concluded that it is reasonable for a police officer to use deadly force to prevent harm to innocent bystanders, even to the point of putting the fleeing motorist at serious risk of injury or death. Justice Stevens's lone dissent argued that the videotape was not as definitive as the majority made it out to be and that a jury should make the determination on the justifiability of deadly force.</p>\n"
+}

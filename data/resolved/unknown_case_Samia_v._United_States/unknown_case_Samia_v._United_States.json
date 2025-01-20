@@ -1,0 +1,42 @@
+{
+    "ID": 63534,
+    "name": "Samia v. United States",
+    "href": "https://api.oyez.org/cases/2022/22-196",
+    "view_count": 0,
+    "docket_number": "22-196",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1670911200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55192"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1680066000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55242"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1687496400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55312"
+        }
+    ],
+    "question": "<p>Does admitting a codefendant\u2019s redacted out-of-court confession that immediately inculpates a defendant based on context violate the Confrontation Clause of the Sixth Amendment?</p>\n",
+    "citation": {
+        "volume": "599",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27924"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held that admitting a codefendant\u2019s redacted out-of-court confession that immediately inculpates a defendant based on context does not violate the Confrontation Clause of the Sixth Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/599/22-196/",
+    "facts_of_the_case": "<p>Defendants Joseph Manuel Hunter, Carl David Stillwell, and Adam Samia were tried jointly and convicted on five counts: conspiracy to commit murder-for-hire, murder-for-hire, conspiracy to murder and kidnap in a foreign country, causing death with a firearm during and relation to a crime of violence, and conspiracy to launder money. All three defendants were sentenced to life imprisonment.</p>\n<p>One piece of evidence used to convict the defendants was Stillwell\u2019s redacted confession. Samia challenged the admission of that evidence, arguing that the redactions were insufficient because jurors would immediately infer that the confession\u2019s references to \u201canother person\u201d referred to Samia himself. As such, Samia argued, his inability to cross-examine Stillwell violated his Sixth Amendment right to confront witnesses against him. The U.S. Court of Appeals for the Second Circuit disagreed and affirmed the district court\u2019s evidentiary ruling on that issue.</p>\n",
+    "conclusion": "<p>The admission of a non-testifying codefendant\u2019s confession did not violate the Sixth Amendment\u2019s Confrontation Clause where the confession as modified did not directly inculpate the defendant but used the descriptor \u201cother person\u201d and the jury was instructed to consider the confession only as to the codefendant. Justice Clarence Thomas authored the majority opinion of the Court.</p>\n<p>Historically, a non-testifying codefendant\u2019s confession was permissible if the jury was instructed not to consider it against the nonconfessing defendant. The Court in Bruton v. United States, 391 U. S. 123, recognized an exception to that general rule, holding \u201cthat a defendant is deprived of his Sixth Amendment right of confrontation when the facially incriminating confession of a non-testifying codefendant is introduced at their joint trial,\u201d even with a proper instruction. However, the Court established certain outer limits on the Bruton rule. For example, in Richardson v. Marsh, the Court did not extend the rule to confessions that do not name the defendant, although, in Gray v. Maryland, 523 U.S. 185, the Court clarified that some redacted confessions might still be directly accusatory if the redaction is evident.</p>\n<p>Here, the confession was redacted to avoid naming the defendant, aligning with the Bruton rule and differing from the confession in Gray. The Court declined to further extend the Bruton rule, reasoning that its extension would disrupt historical practices and necessitate extensive pretrial hearings, potentially leading to mandatory severance in joint trials when introducing a non-testifying codefendant's confession. This would undermine the role of joint trials and the significance of confessions in the legal system.</p>\n<p>Justice Amy Coney Barrett joined the majority opinion except the historical discussion, which, in her separate concurrence, she argues is beside the point. She would limit consideration to the meaning of the Confrontation Clause at the time of the founding and reach the same conclusion.</p>\n<p>\u00a0</p>\n<p>Justice Elena Kagan authored a dissenting opinion, in which Justices Sonia Sotomayor and Ketanji Brown Jackson joined, arguing that the non-testifying codefendant\u2019s confession in this case inculpated the defendant in the same way that the Court recognized it would in other cases. Justice Kagan criticized the majority for \u201cpermit[ting] an end-run around [the Court\u2019s] precedent and undermin[ing] a vital constitutional protection for the accused.\u201d</p>\n"
+}

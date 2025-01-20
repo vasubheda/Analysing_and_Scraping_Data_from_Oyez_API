@@ -1,0 +1,42 @@
+{
+    "ID": 55588,
+    "name": "Crawford v. Nashville and Davidson County, TN",
+    "href": "https://api.oyez.org/cases/2008/06-1595",
+    "view_count": 0,
+    "docket_number": "06-1595",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1200636000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40238"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1223442000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40239"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1232949600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40240"
+        }
+    ],
+    "question": "<p>Does the anti-retaliation provision of Title VII of the Civil Rights Act apply to employees fired for participating in an internal investigation of sexual harassment?</p>\n",
+    "citation": {
+        "volume": "555",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20778"
+    },
+    "term": "2008",
+    "description": "A case in which the Court held that the anti-retaliation provision of Title VII extends to people who participate in an internal investigation, even if they are not speaking on their own initiative. ",
+    "justia_url": null,
+    "facts_of_the_case": "<p>Vicky Crawford, a government employee, took part in an internal investigation regarding sexual harassment claims against another employee. When the investigation concluded, Crawford was fired based on charges of embezzlement and drug use. When these charges were later proven untrue, Crawford filed suit against her employer in federal district court in Tennessee claiming retaliatory discharge under Title VII of the Civil Rights Act based on her participation in the investigation. The district court directed a verdict for her employer.</p>\n<p>On appeal, the United States Court of Appeals for the Sixth Circuit affirmed the district court's ruling. Once again finding for the employer, the court stated that Crawford's participation in the investigation did not constitute \"opposition\" and her activity in that regard was not \"protected\" as those terms are defined in Title VII, making the Civil Rights Act inapplicable to her claim.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous decision with Justice David H. Souter writing for the majority and joined by Chief Justice John G. Roberts, Justice John Paul Stevens, Justice Antonin G. Scalia, Justice Anthony M. Kennedy, Justice Ruth Bader Ginsburg, and Justice Stephen G. Breyer, the Supreme Court reversed the U.S. Court of Appeals for the Sixth Circuit. It held that the anti-retaliation provision of Title VII extends to people who speak out, not just on their own initiative, but when prompted by an employer's internal investigation. The Court reasoned that the plain meaning of the statute includes people who \"oppose\" sexually obnoxious behavior by merely disclosing the violation and need not initiate the disclosure.</p>\n<p>Justice Samuel A. Alito filed a separate concurring opinion and was joined by Justice Clarence Thomas. Justice Alito noted that, while not addressed in the majority opinion, the plain meaning of \"oppose\" should not include \"silent opposition.\" He argued it would open the door to plaintiffs who never expressed opposition to their employers, thus raising difficult factual determinations at trial.</p>\n"
+}

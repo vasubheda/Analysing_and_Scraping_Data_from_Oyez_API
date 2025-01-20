@@ -1,0 +1,42 @@
+{
+    "ID": 55184,
+    "name": "BedRoc Limited, LLC v. United States",
+    "href": "https://api.oyez.org/cases/2003/02-1593",
+    "view_count": 0,
+    "docket_number": "02-1593",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1064898000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39131"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1074578400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39132"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1080712800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39133"
+        }
+    ],
+    "question": "<p>Does the reservation to the United States of all \"coal and other valuable minerals\" in patents issued under the Pittman Act (1919) include commercially valuable sand and gravel?</p>\n",
+    "citation": {
+        "volume": "541",
+        "page": "176",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19112"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/541/176/",
+    "facts_of_the_case": "<p>BedRoc Ltd. and Western Elite, Inc., own property in Nevada patented under the federal Pittman Act (1919). (The act was repealed in 1964.) The act authorized the issuance of patents to desert lands in Nevada to individuals who successfully developed underground water resources. However, the act specified that patents reserve to the United States \"all the coal and other valuable minerals\" in the patented lands. When the previous owner of BedRoc and Western Elite's land extracted and sold commercially valuable sand and gravel from the lands without a federal mineral contract, the Bureau of Land Management (BLM) gave notification that the mining was illegal under federal law. The owner lost an appeal to the Interior Board of Land Appeals (IBLA). Once BedRoc and Western Elite owned the land, they filed suit in U.S. district court, arguing that the Pittman Act's \"valuable minerals\" provision did not include valuable sand and gravel. The district court rejected the companies' argument and sided with the United States. The Ninth Circuit Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>No. In an plurality opinion written by Chief Justice William Rehnquist and joined by three other Justices, the Court ruled that because sand and gravel were not commercially valuable in 1919 when the Pittman Act was passed, they were not \"valuable minerals\" covered under the Act. Although the Court had interpreted \"minerals\" expansively in the past, the Court held that the adjective \"valuable\" limited the term sufficiently to exclude sand and gravel. The Court emphasized that since the plain text of the statute was clear, there was no need to delve into the legislative history of the Act. Justice Thomas, joined by Justice Breyer, wrote a separate concurring opinion in which he agreed that sand and gravel were not \"valuable minerals\" under the Act, but disputed the plurality's reliance on the word \"valuable.\" Justice Stevens, joined by Justices Souter and Ginsburg, dissented. The dissent argued that the legislative history of the Pittman Act indicated that \"valuable minerals\" should be interpreted broadly to include sand and gravel.</p>\n"
+}

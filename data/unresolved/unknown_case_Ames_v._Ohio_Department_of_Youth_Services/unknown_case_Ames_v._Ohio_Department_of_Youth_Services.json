@@ -1,0 +1,33 @@
+{
+    "ID": 63704,
+    "name": "Ames v. Ohio Department of Youth Services",
+    "href": "https://api.oyez.org/cases/2024/23-1039",
+    "view_count": 0,
+    "docket_number": "23-1039",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1728018000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55532"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1740549600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55586"
+        }
+    ],
+    "question": "<p>Does a plaintiff who belongs to a majority group need to demonstrate \u201cbackground circumstances suggesting that the defendant is the unusual employer who discriminates against the majority\u201d in order to establish a prima facie case of discrimination under Title VII of the Civil Rights Act of 1964?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28038"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether a majority-group plaintiff must show \u201cbackground circumstances to support the suspicion that the defendant is that unusual employer who discriminates against the majority\u201d to establish a prima facie case of discrimination under Title VII of the Civil Rights Act of 1964.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-1039/"
+}

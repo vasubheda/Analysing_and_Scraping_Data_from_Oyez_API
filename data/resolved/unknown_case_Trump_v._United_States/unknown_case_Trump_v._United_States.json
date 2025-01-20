@@ -1,0 +1,42 @@
+{
+    "ID": 63663,
+    "name": "Trump v. United States",
+    "href": "https://api.oyez.org/cases/2023/23-939",
+    "view_count": 0,
+    "docket_number": "23-939",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1709100000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55413"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1714021200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55450"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1719810000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55507"
+        }
+    ],
+    "question": "<p>Does a former president enjoy presidential immunity from criminal prosecution for conduct alleged to involve official acts during his tenure in office, and if so, to what extent?</p>\n",
+    "citation": {
+        "volume": "603",
+        "page": null,
+        "year": "2024",
+        "href": "https://api.oyez.org/case_citation/case_citation/28008"
+    },
+    "term": "2023",
+    "description": "A case in which the Court held that a former U.S. President has absolute immunity from criminal prosecution for actions within his conclusive and preclusive constitutional authority, at least presumptive immunity from prosecution for all his official acts, and no immunity for unofficial acts.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/603/23-939/",
+    "facts_of_the_case": "<p>Former President Donald Trump was indicted in August 2023 on four counts arising from Special Counsel Jack Smith\u2019s investigation into the January 6, 2021, attacks on the U.S. Capitol. Trump claimed that he cannot be prosecuted for his official acts as president and that a former president cannot be prosecuted unless he has first been impeached by the House and convicted by the Senate.</p>\n<p>U.S. District Judge Tanya Chutkan initially set Trump\u2019s trial for March 4, 2024, but later vacated this date pending resolution of Trump\u2019s immunity claims. Judge Chutkan denied Trump\u2019s motion to dismiss on immunity grounds, and Smith asked the Supreme Court directly to expedite review and bypass a decision by the D.C. Circuit. The Court declined, deferring instead to the D.C. Circuit\u2019s judgment. On February 6, the D.C. Circuit upheld Chutkan\u2019s decision, and Trump requested a stay of the D.C. Circuit\u2019s ruling. Ultimately, the Supreme Court decided to expedite the case.</p>\n",
+    "conclusion": "<p>A former U.S. President has absolute immunity from criminal prosecution for actions within his conclusive and preclusive constitutional authority, at least presumptive immunity from prosecution for all his official acts, and no immunity for unofficial acts.\u00a0Chief Justice Roberts, writing for the Court majority, concluded that a former President has some immunity from criminal prosecution for official acts during his tenure in office. This immunity stems primarily from constitutional separation of powers principles and precedents recognizing similar immunities in civil contexts.</p>\n<p>The President has absolute immunity from prosecution for actions taken pursuant to his exclusive constitutional powers, such as pardoning offenses or removing executive officers. This absolute immunity exists because Congress cannot criminalize, and courts cannot review, the President\u2019s exercise of these core constitutional authorities.</p>\n<p>For official actions outside the President\u2019s exclusive constitutional powers, there is at least a presumptive immunity from prosecution. This presumptive immunity is rooted in the need to ensure the President can perform his duties without undue caution or distraction, as established in cases like Nixon v. Fitzgerald. The government may attempt to rebut this presumption by demonstrating that prosecution would not unduly intrude on executive functions. However, evidence of immune official acts cannot be used to prove liability for unofficial acts, as this would undermine the purpose of the immunity.</p>\n<p>Finally, drawing on Clinton v. Jones, the Court affirmed that the President has no immunity for actions taken in an unofficial or personal capacity.</p>\n<p>To apply this framework, courts must carefully analyze alleged conduct to determine whether it qualifies as official or unofficial. The Court rejected both Trump\u2019s argument for broader immunity absent impeachment and conviction, and the government\u2019s contention that the President has no immunity from criminal prosecution whatsoever. Instead, it established a nuanced approach requiring case-by-case analysis of presidential conduct to determine the applicable level of immunity, if any.</p>\n<p>Justice Clarence Thomas wrote a separate concurrence to highlight that he believes the Special Counsel\u2019s prosecution of Trump may be unconstitutional because there are serious questions about whether the office of the Special Counsel was properly \u201cestablished by Law\u201d as required by the Constitution\u2019s Appointments Clause.</p>\n<p>Justice Amy Coney Barrett wrote a separate opinion concurring in part to argue that rather than framing the issue as \u201cimmunity,\u201d the Court should have adopted a two-step analysis for assessing the validity of criminal charges against a President for official acts: first determining if the relevant statute applies to the President's conduct, and then evaluating whether prosecuting the President under that statute would unconstitutionally intrude on executive power.</p>\n<p>Justice Sonia Sotomayor dissented because she believes the majority\u2019s decision to grant former Presidents broad immunity from criminal prosecution for official acts is unjustified by constitutional text, history, or precedent, and dangerously places the President above the law.</p>\n<p>Justice Ketanji Brown Jackson dissented because she believes the majority\u2019s creation of a new \u201cPresidential accountability model\u201d that sometimes exempts Presidents from criminal law for official acts fundamentally alters the balance of power, undermines the rule of law, and risks incentivizing presidential abuses of power.</p>\n"
+}

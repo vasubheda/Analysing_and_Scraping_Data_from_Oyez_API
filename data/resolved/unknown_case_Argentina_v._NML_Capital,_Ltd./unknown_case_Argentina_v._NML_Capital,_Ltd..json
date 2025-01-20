@@ -1,0 +1,42 @@
+{
+    "ID": 62256,
+    "name": "Argentina v. NML Capital, Ltd.",
+    "href": "https://api.oyez.org/cases/2013/12-842",
+    "view_count": 0,
+    "docket_number": "12-842",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1389333600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52606"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1398056400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52607"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1402894800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52608"
+        }
+    ],
+    "question": "<p>Does a subpoena that requires a bank to disclose information about all assets of a foreign state, without respect to their location or use, violate the Foreign Sovereign Immunities Act?</p>\n",
+    "citation": {
+        "volume": "573",
+        "page": "134",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/27052"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that, under the Foreign Sovereign Immunities Act, property held within the US by foreign nations cannot be attached to civil claims unless certain exceptions are met.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/573/134/",
+    "facts_of_the_case": "<p>During an economic crisis in 2001, the Republic of Argentina (Argentina) failed to make payments on bonds owned by foreign investors. One such bondholder, NML Capital, Ltd. (NML), later prevailed in several actions it filed against Argentina in federal district court, which entered judgments totaling more than US$2 billion in NML's favor. In order to execute the judgments against Argentina, NML served subpoenas on two banks requesting information about Argentina's assets held worldwide. Argentina moved to quash the subpoenas and argued that they violate the Foreign Sovereign Immunities Act (FSIA) by requiring the disclosure of assets that are immune from collection by NML. The district court ordered the banks to comply with the subpoena requests. The U.S. Court of Appeals for the Second Circuit affirmed, reasoning that the FSIA did not apply to the subpoena because it was a discovery order directed at commercial entities that did not have a claim to sovereign immunity.</p>\n",
+    "conclusion": "<p>No. Justice Antonin Scalia delivered the opinion for the 7-1 majority. The Court held that, under the FSIA, property held within the United States by foreign nations cannot be attached to a civil claim except under a narrow exemption, which requires the property to be used for a commercial activity as well as satisfying one additional condition such as the foreign nation waiving its immunity from attachment. However, the fact that some property may be immune from attachment does not mean the property is also immune from discovery. While NML and Argentina may disagree as to whether property within the United States is covered by the FSIA's immunity, the level of immunity given to a foreign nation's property held outside the United States may be different in non-U.S. jurisdictions. Because the FSIA only grants immunity to property held within the United States, NML may be able to find foreign property held outside the United States that is attachable under the law of the foreign jurisdiction but that would be immune from attachment if held in the United States.</p>\n<p>Justice Ruth Bader Ginsburg wrote a dissent in which she argued that the majority should not assume that foreign jurisdictions may allow the attachment of property which could not be attached under United States law. Therefore, based on the FSIA, Justice Ginsburg wrote that the discovery request should have been limited to property used in connection with commercial activity, which is a necessary requirement under U.S. law for attachment.</p>\n<p>Justice Sonia Sotomayor took no part in the decision of this case.</p>\n"
+}

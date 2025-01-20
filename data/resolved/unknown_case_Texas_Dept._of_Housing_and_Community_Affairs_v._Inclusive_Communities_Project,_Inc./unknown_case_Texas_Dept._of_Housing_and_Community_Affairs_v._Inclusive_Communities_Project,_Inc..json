@@ -1,0 +1,42 @@
+{
+    "ID": 56072,
+    "name": "Texas Dept. of Housing and Community Affairs v. Inclusive Communities Project, Inc.",
+    "href": "https://api.oyez.org/cases/2014/13-1371",
+    "view_count": 0,
+    "docket_number": "13-1371",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1412226000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41644"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1421820000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41645"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1435208400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52769"
+        }
+    ],
+    "question": "<p>Did the district court use the correct standard for evaluating a Fair Housing Act claim of discrimination based on disparate impact?</p>\n",
+    "citation": {
+        "volume": "576",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/27105"
+    },
+    "term": "2014",
+    "description": "A case in which the Court determined that evidence of disparate impact is sufficient to allege a claim that the defendant violated the Fair Housing Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/576/519/",
+    "facts_of_the_case": "<p>Low Income Housing Tax Credits are federal tax credits distributed to low-income housing developers through an application process, and the distribution is administered by state housing authorities. In 2009, the Inclusive Communities Project (ICP), a non-profit organization dedicated to racial and economic integration of communities in the Dallas area, sued the Texas Dept. of Housing and Community Affairs (TDHCA), which administers the Low Income Housing Tax Credits within Texas. ICP claimed that TDHCA disproportionately granted tax credits to developments within minority neighborhoods and denied the credits to developments within Caucasian neighborhoods. ICP claimed this practice led to a concentration of low-income housing in minority neighborhoods, which perpetuated segregation in violation of the Fair Housing Act.</p>\n<p>At trial, ICP attempted to show discrimination by disparate impact, and the district court found that the statistical allocation of tax credits constituted a prima facie case for disparate impact. Using a standard for disparate impact claims that the U.S. Court of Appeals for the Second Circuit articulated in <em>Town of Huntington v. Huntington Branch </em>, the court then shifted the burden to TDHCA to show the allocation of tax credits was based on a compelling governmental interest and no less discriminatory alternatives existed. TDHCA was unable to show no less discriminatory alternatives existed, so the district court found in favor of ICP. TDHCA appealed to the U.S. Court of Appeals for the Fifth Circuit and claimed that the district court used the wrong standard to evaluate disparate impact claims. The appellate court affirmed and held that the district court's standard mirrored the standard promulgated by the Department of Housing and Urban Development, the agency tasked with implementing the Fair Housing Act.</p>\n",
+    "conclusion": "<p>Yes. Justice Anthony M. Kennedy delivered the opinion for the 5-4 majority. The Court held that the statutory language of the Fair Housing Act (FHA) focuses on the consequences of the actions in question rather than the actor\u2019s intent. This language is similar to that used in Title VII of the Civil Rights Act of 1964 and the Age Discrimination in Employment Act, both of which were enacted around the same time as the FHA and encompass disparate-impact liability. Additionally, the 1988 amendments retained language that several appellate courts had already interpreted as imposing disparate-impact liability, which strongly indicates Congressional acquiescence to that reading of the statute. Disparate-impact liability is also consistent with the FHA\u2019s purpose of preventing discriminatory housing practices because it allows plaintiffs to counteract unconscious prejudices and disguised discrimination that may be harder to uncover than disparate treatment. However, a prima facie case for disparate-impact liability must meet a robust causality requirement, as evidence of racial disparity on its own is not sufficient.</p>\n<p>Justice Clarence Thomas wrote a dissent in which he argued that the Court\u2019s decision in <em>Griggs v. Duke Power Co.</em>, on which the majority opinion based its Title VII analysis, wrongly interpreted Title VII as enabling disparate-impact liability, and therefore that opinion should not serve as the basis for the majority opinion\u2019s interpretation of the FHA in this case. In holding that Title VII allows for disparate-impact liability and applying that analysis to the FHA, the majority relied on the Equal Employment Opportunity Commission\u2019s interpretation of the statute rather than the statutory language that Congress enacted. Justice Thomas also argued that racial imbalance alone is not sufficient to prove unlawful conduct and should not be punished as such. In his separate dissent, Justice Samuel A. Alito, Jr. wrote that the FHA did not encompass disparate-impact liability when it was enacted, and no further amendments or precedents have created such liability. The plain language of the statute clearly focuses on intentional discrimination rather than the racial disparity itself, and the 1988 amendments have not been interpreted as altering that understanding of the statute. Justice Alito also argued that precedent interpreting similar text has held that the use of \u201cbecause of\u201d language linking a cause to a particular reason criminalizes the intention behind discrimination rather than solely the result. Chief Justice John G. Roberts, Jr., Justice Antonin Scalia, and Justice Thomas joined in the dissent.</p>\n"
+}

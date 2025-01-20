@@ -1,0 +1,35 @@
+{
+    "ID": 54913,
+    "name": "Pollard v. E. I. du Pont de Nemours & Company",
+    "href": "https://api.oyez.org/cases/2000/00-763",
+    "view_count": 0,
+    "docket_number": "00-763",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                988002000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38566"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                991630800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38567"
+        }
+    ],
+    "question": "<p>Does \"front pay\" constitute an element of compensatory damages under the Civil Rights Act of 1991, such that it is subject to the Act's statutory cap on such damages?</p>\n",
+    "citation": {
+        "volume": "532",
+        "page": "843",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18842"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/532/843/",
+    "facts_of_the_case": "<p>Sharon Pollard sued her former employer, E. I. du Pont de Nemours and Company (DuPont), alleging that she had been subjected to a hostile work environment based on her sex, in violation of Title VII of the Civil Rights Act of 1964. Ultimately, the Federal District Court found that Pollard was subjected to co-worker sexual harassment of which her supervisors were aware. The court awarded her $300,000 in compensatory damages, the maximum permitted under the Civil Rights Act of 1991 for such damages. The court then noted that the award was insufficient to compensate Pollard. On appeal, Pollard argued that \"front pay,\" the money awarded for lost compensation during the period between judgment and reinstatement or in lieu of reinstatement, was not an element of compensatory damages, but a replacement for the remedy of reinstatement in situations in which reinstatement would be inappropriate. Rejecting Pollard, the Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Clarence Thomas, the Court held that front pay is not an element of compensatory damages under the Civil Rights Act of 1991 and thus is not subject to the damages cap imposed by the Act. \"Because front pay is a remedy authorized under [the Civil Rights Act of 1964], Congress did not limit the availability of such awards in [the Civil Rights Act of 1991]. Instead, Congress sought to expand the available remedies by permitting the recovery of compensatory and punitive damages in addition to previously available remedies, such as front pay,\" wrote Justice Thomas for the Court. All members of the Court joined Justice Thomas' opinion, except Justice Sandra Day O'Connor, who took no part in the consideration or decision of the case.</p>\n"
+}

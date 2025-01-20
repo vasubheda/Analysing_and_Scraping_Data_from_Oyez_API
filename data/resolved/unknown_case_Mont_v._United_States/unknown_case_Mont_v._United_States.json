@@ -1,0 +1,42 @@
+{
+    "ID": 63052,
+    "name": "Mont v. United States",
+    "href": "https://api.oyez.org/cases/2018/17-8995",
+    "view_count": 0,
+    "docket_number": "17-8995",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1541134800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54389"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1551160800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54442"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1559538000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54521"
+        }
+    ],
+    "question": "<p>Is the term of supervised release for one offense paused by imprisonment for another offense?</p>\n",
+    "citation": {
+        "volume": "587",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27640"
+    },
+    "term": "2018",
+    "description": "A case in which the Court held that pretrial detention later credited as time served for a new conviction tolls a supervised-release term under 18 U.S.C. \u00a73624(e), even if the court must make the tolling calculation after learning whether the time will be credited.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/587/17-8995/",
+    "facts_of_the_case": "<p>Petitioner Jason Mont was convicted for federal drug-related offenses in 2005 and sentenced to 120 months\u2019 imprisonment followed by five years of supervised release. He was released on March 6, 2012, so by his sentence he was subject to supervised release until March 6, 2017.</p>\n<p>While on supervised release, Mont allegedly engaged in and was indicted for state-law offenses. In October 2016, Mont pleaded guilty to some of the state-court charges in exchange for a predetermined six-year sentence. Due to administrative delays and a series of continuances, Mont was sentenced on March 21, 2017. The sentencing judge credited as time served the roughly ten months Mont had spent incarcerated pending a disposition. On March 30, 2017, Mont\u2019s probation officer informed the federal district court of Mont\u2019s state-court convictions and sentences, and the court exercised jurisdiction to adjudicate whether he violated the terms of his supervised release. The district court then sentenced Mont to 42 months\u2019 imprisonment, to be served consecutively with his imprisonment for state-court convictions.</p>\n<p>Mont challenged the district court\u2019s exercise of jurisdiction, but the US Court of Appeals held that under binding precedent, a term of supervised release is paused by imprisonment in connection with a new state conviction. As such, the federal district court properly exercised jurisdiction.</p>\n",
+    "conclusion": "<p>Pretrial detention later credited as time served for a new conviction tolls (pauses) a supervised-release term under 18 U.S.C. \u00a7 3624(e), even if the court must make the tolling calculation retrospectively, after learning whether the time will be credited. Justice Clarence Thomas authored the 5-4 majority opinion affirming the lower court.</p>\n<p>Section 3624(e) provides that a \u201cterm of supervised release does not run during any period in which the person is imprisoned in connection with a conviction for a Federal, State, or local crime unless the imprisonment is for a period of less than 30 consecutive days.\u201d In interpreting this provision, the Court looked first to the dictionary definition of \u201cimprisoned,\u201d finding that definition to include pretrial detention. Then the Court noted the expansive phrase \u201cin connection with,\u201d giving rise to a sufficient nexus between the pretrial detention and the conviction because the pretrial detention is credited toward the sentence for that same conviction. Although under this interpretation, Section 3624(e) would require courts to retrospectively assess whether a period of pretrial detention tolls a term of supervised release, the Court determined that this retroactive crediting would not cause undue uncertainty for defendants like Mont. Finally, the Court found that \u201cstatutory context\u201d supported this interpretation as well, given that supervised release is intended to facilitate a prisoner\u2019s transition back into the community and a period in prison does not serve this purpose.</p>\n<p>Justice Sonia Sotomayor filed a dissenting opinion, in which Justices Stephen Breyer, Elena Kagan, and Neil Gorsuch joined. The dissent argued that the plain text of the statute cannot authorize tolling when the defendant is in pretrial detention and a conviction is merely a possible future event. The present tense used in the statute precludes the majority\u2019s interpretation. Moreover, the purpose of pretrial confinement is to ensure the defendant shows up for trial, not to punish the defendant for a crime.</p>\n"
+}

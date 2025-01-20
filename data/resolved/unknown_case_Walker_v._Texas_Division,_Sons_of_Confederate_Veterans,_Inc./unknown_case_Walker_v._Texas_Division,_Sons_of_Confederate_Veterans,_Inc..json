@@ -1,0 +1,42 @@
+{
+    "ID": 56138,
+    "name": "Walker v. Texas Division, Sons of Confederate Veterans, Inc.",
+    "href": "https://api.oyez.org/cases/2014/14-144",
+    "view_count": 0,
+    "docket_number": "14-144",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1417759200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41739"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1427086800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41740"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1434603600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52759"
+        }
+    ],
+    "question": "<p>1. Do specialty license plates constitute government speech that is immune from any requirement of viewpoint neutrality?</p>\n<p>2. Does preventing the confederate flag from appearing on license plates constitute viewpoint discrimination?</p>\n",
+    "citation": {
+        "volume": "576",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20936"
+    },
+    "term": "2014",
+    "description": "Texas' specialty license plates constitute government speech that does not require viewpoint neutrality under the First Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/576/200/",
+    "facts_of_the_case": "<p>In August 2009, the Texas division of the Sons of Confederate Veterans (Texas SCV), a non-profit organization that works to preserve the memory and reputation of soldiers who fought for the confederacy in the Civil War, applied to have a new specialty license plate issued by the Texas Department of Motor Vehicles (TDMV). The proposed license plate had two confederate flags on it: one in the organization's logo, and one faintly making up the background of the plate. The TDMV had a policy stating that it \"may refuse to create a new specialty license plate if the design might be offensive to any member of the public.\" The board in charge of approving new specialty plates received multiple negative comments from the public regarding this plate and ultimately voted to deny Texas SCV's application.</p>\n<p>Texas SCV sued in federal district court claiming their First and Fourteenth Amendment rights were violated. The TDMV argued that the Free Speech Clause did not apply in this case because license plates are a form of government speech; therefore, they were within their rights to choose which messages and views they wanted to express on the plates. The district court disagreed and held that the plates were private, non-governmental speech, and that the TDMV's denial was a reasonable, content-based restriction of speech in a non-public forum. The United States Court of Appeals for the Fifth Circuit reversed and held that TDMV's denial was a form of viewpoint discrimination that \"discriminated against Texas SCV's view that the Confederate flag is a symbol of sacrifice, independence, and Southern heritage.\"</p>\n",
+    "conclusion": "<p>Yes, no. Justice Stephen G. Breyer delivered the opinion of the 5-4 majority. The Court held that the government choosing the content of its speech is not unconstitutional viewpoint discrimination because that expression is the product of the democratic electoral process. Based on the analysis from <em>Pleasant Grove City v. Summum</em>, Texas\u2019s specialty license plate is an example of such government speech (as opposed to a forum open for private expression) because Texas and other states have long used license plates to convey messages. Moreover, the public associates license plates with the State. Finally, Texas maintains direct control over the messages on its specialty plates from design to final approval.</p>\n<p>Justice Samuel A. Alito, Jr., wrote a dissent in which he argued that, with over 350 varieties of specialty plates, an observer would think that the plates were the expression of the individual drivers, not Texas. Because the specialty license plates are a limited public forum for private expression, Texas rejecting the confederate flag design because it might be offensive is unconstitutional viewpoint discrimination. Chief Justice John G. Roberts, Jr., Justice Antonin Scalia, and Justice Anthony M. Kennedy joined in the dissent.</p>\n"
+}

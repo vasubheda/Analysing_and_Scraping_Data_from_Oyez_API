@@ -1,0 +1,35 @@
+{
+    "ID": 54672,
+    "name": "Florida Prepaid Post-Secondary Education Expense Board v. College Savings Bank",
+    "href": "https://api.oyez.org/cases/1998/98-531",
+    "view_count": 0,
+    "docket_number": "98-531",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                924584400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38120"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                930114000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38121"
+        }
+    ],
+    "question": "<p>Did nullification of state sovereign immunity, under the Patent and Plant Variety Protection Remedy Clarification Act, constitute valid legislation?</p>\n",
+    "citation": {
+        "volume": "527",
+        "page": "627",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18601"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/527/627/",
+    "facts_of_the_case": "<p>Immediately after the Patent and Plant Variety Protection Remedy Clarification Act (Act) changed patent laws to abrogate state's sovereign immunity, College Savings Bank (College) filed a patent infringement suit against Florida Prepaid Postsecondary Education Expense Board (Florida Prepaid), a Florida state entity. Florida Prepaid asked that College's suit be dismissed and that the Act be declared unconstitutional, based on Seminole Tribe of Florida v. Florida (517 US 44) which upheld state sovereign immunity. The United States joined College looking to uphold the Act's constitutionality. After agreeing with College, the District Court denied Florida Prepaid's dismissal motion. When the Federal Circuit affirmed, Florida Prepaid appealed and the Supreme Court granted certiorari.</p>\n",
+    "conclusion": "<p>No. In a 5-to-4 opinion, the Court began by noting that there was no doubt that the Act intended to abrogate states' immunity from patent infringement. The Court then added that neither the Commerce Clause nor the Patent Clause give Congress the power to curtail state sovereign immunity from patent infringement claims. The Court reasoned that although the Fourteenth Amendment authorizes Congress to pass \"appropriate legislation\" to protect parties from being deprived of property without due process, this in itself does not permit the abrogation of state sovereign immunity. Only a showing of a consistent pattern of state patent violations, and a lack of adequate legal remedies to address such violations, would justify a limited effort to suspend a state's sovereign immunity. Since College made no such showing, and since the Act's language was overly broad in its scope, the Court dismissed College's suit and declared unconstitutional corresponding segments of the Act.</p>\n"
+}

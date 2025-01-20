@@ -1,0 +1,42 @@
+{
+    "ID": 55259,
+    "name": "Rousey v. Jacoway",
+    "href": "https://api.oyez.org/cases/2004/03-1407",
+    "view_count": 0,
+    "docket_number": "03-1407",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1086584400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39339"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1101880800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39340"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1112590800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39341"
+        }
+    ],
+    "question": "<p>Are individual retirement accounts (IRAs) exempt from bankruptcy estates?</p>\n",
+    "citation": {
+        "volume": "544",
+        "page": "320",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19187"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/544/320/",
+    "facts_of_the_case": "<p>Richard and Betty Rousey filed bankruptcy and claimed their two Individual Retirement Accounts were exempt from the bankruptcy. Federal law exempted the following from bankruptcy: \"a payment under a stock bonus, pension, profitsharing, annuity, or similar plan or contract.\" The exemption had to be \"on account of illness, disability, death, age, or length of service, to the extent reasonable necessary for the support of the debtor....\" The Rouseys said an IRA was a \"similar plan or contract.\" The bankruptcy court and a bankruptcy appellate panel ruled an IRA not a \"similar plan or contract.\" The Eighth Circuit Court of Appeals ruled that even if IRAs are \"similar plans or contracts,\" the Rouseys' account withdrawals would not be \"on account of illness, disability, death, age, or length of service.\" The Eighth Circuit's ruling conflicted with those of other circuits.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous decision delivered by Justice Clarence Thomas, the Court held that the Rouseys could exempt IRA assets from their bankruptcy estate. IRAs met both federal requirements dealing with exemptions from bankruptcy: They were \"similar plans or contracts\" to the exemptions enumerated and they \"conferred a right to receive payment on account of age.\"</p>\n"
+}

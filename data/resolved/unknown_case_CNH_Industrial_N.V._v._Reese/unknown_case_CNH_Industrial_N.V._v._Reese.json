@@ -1,0 +1,35 @@
+{
+    "ID": 62957,
+    "name": "CNH Industrial N.V. v. Reese",
+    "href": "https://api.oyez.org/cases/2017/17-515",
+    "view_count": 0,
+    "docket_number": "17-515",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1519106400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54207"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1519106400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54208"
+        }
+    ],
+    "question": "<p>Did the Sixth Circuit err in using a series of inferences to conclude that a collective-bargaining agreement was ambiguous as a matter of law, thus allowing courts to consult extrinsic evidence about whether retiree benefits were vested for life?</p>\n",
+    "citation": {
+        "volume": "583",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27580"
+    },
+    "term": "2017",
+    "description": "A case in which the Court held that the Sixth Circuit erroneously used a set of inferences in interpreting a collective-bargaining agreement to find that the retiree benefits were vested for life, when instead the Sixth Circuit should have applied ordinary principles of contract law.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/583/17-515/",
+    "facts_of_the_case": "<p>In 1998, CNH agreed to a collective-bargaining agreement, which provided health care benefits under a group benefit plan to certain employees retiring under the pension plan. Other benefits, including life insurance, ceased upon retirement. The agreement also contained a clause stating that it would terminate in May 2004. When it did expire in 2004, a class of CNH retirees and surviving spouses filed a lawsuit seeking a declaratory judgment that their health care benefits vested for life and asking the district court to enjoin CNH from changing them. While that lawsuit was pending, the US Supreme Court issued a decision in <a href=\"https://www.oyez.org/cases/2014/13-1010\"><em>M&amp;G Polymers USA, LLC v. Tackett</em></a>, holding that collective-bargaining agreements must be interpreted according to ordinary principles of contract law. The Court\u2019s holding in <em>Tackett</em> specifically targeted the Sixth Circuit, in which there was precedent for courts to presume that collective-bargaining agreements vested retiree benefits for life.</p>\n<p>Because of the intervening ruling by the US Supreme Court in <em>Tackett</em>, the district court initially awarded summary judgment in favor of CNH, but then it awarded summary judgment to the retirees. The Sixth Circuit affirmed the court\u2019s award of summary judgment to the retirees, using the same precedents the Court proscribed in <em>Tackett</em> to find the collective-bargaining agreement ambiguous as a matter of law and thus susceptible to interpretation based on extrinsic evidence about lifetime vesting.</p>\n",
+    "conclusion": "<p>In a per curiam opinion, the Court reversed the Court of Appeals and remanded the case for further proceedings. The Sixth Circuit\u2019s use of inferences to interpret the collective-bargaining agreement is inconsistent with the Court\u2019s holding in <em>Tackett</em>. Under <em>Tackett</em>, the collective-bargaining agreement must be interpreted using ordinary principles of contract law. Under its clear terms, the agreement unambiguously terminated the benefit of health care to retirees in 2004, rather than vesting them for life.</p>\n"
+}

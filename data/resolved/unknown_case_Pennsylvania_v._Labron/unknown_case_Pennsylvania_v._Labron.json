@@ -1,0 +1,28 @@
+{
+    "ID": 54421,
+    "name": "Pennsylvania v. Labron",
+    "href": "https://api.oyez.org/cases/1995/95-1691",
+    "view_count": 0,
+    "docket_number": "95-1691",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                836197200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37652"
+        }
+    ],
+    "question": "<p>Does the Fourth Amendment, as applied to the States through the Fourteenth, require police to obtain a warrant before searching an automobile unless exigent circumstances are present?</p>\n",
+    "citation": {
+        "volume": "518",
+        "page": "938",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18350"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/518/938/",
+    "facts_of_the_case": "<p>This is the consolidation of two cases involving the search and seizure of illicit drugs in automobiles. In Pennsylvania v. Labron 95-1691, the police observed Edwin Labron participating in a number of drug transactions out of his car on a street in Philadelphia. Without a warrant, but with probable cause, the police then found cocaine when they searched the trunk of Labron's car. Ultimately, the Pennsylvania Supreme Court held the search unconstitutional, finding that the automobile exception to the Fourth Amendment's warrant requirement required both the existence of probable cause and the presence of exigent circumstances to justify a warrantless search. In Pennsylvania v. Kilgore 95-1738, a search of Randy Kilgore's truck during a drug raid on his home turned up cocaine. Again, the police did not obtain a warrant, but probable cause existed. Again the Pennsylvania Supreme Court suppressed the evidence seized, holding that Fourth Amendment requires police to obtain a warrant before searching an automobile unless exigent circumstances are present.</p>\n",
+    "conclusion": "<p>No. In a 7-2 per curiam opinion, the Court held that if a vehicle is readily mobile and probable cause exists to believe it contains contraband, the Fourth Amendment permits police to search the vehicle and contraband seized from such a search should not be suppressed. The Court noted that early cases establishing the automobile exception were based on the automobile's ready mobility, an exigency sufficient to excuse failure to obtain a search warrant once probable cause to conduct the search is clear. Justice John Paul Stevens, who was joined by Justine Ruth Bader Ginsburg, dissented.</p>\n"
+}

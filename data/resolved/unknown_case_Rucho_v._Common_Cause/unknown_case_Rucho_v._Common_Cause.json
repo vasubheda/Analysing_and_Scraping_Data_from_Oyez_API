@@ -1,0 +1,42 @@
+{
+    "ID": 63092,
+    "name": "Rucho v. Common Cause",
+    "href": "https://api.oyez.org/cases/2018/18-422",
+    "view_count": 0,
+    "docket_number": "18-422",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1538542800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54435"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1553576400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54458"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1561611600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54560"
+        }
+    ],
+    "question": "<ol><li>Do the plaintiffs in this case have standing to pursue their partisan gerrymandering claims?</li>\n<li>Are the plaintiffs\u2019 partisan gerrymandering claims justiciable?</li>\n<li>Is North Carolina\u2019s 2016 congressional map an unconstitutional partisan gerrymander?</li>\n</ol>",
+    "citation": {
+        "volume": "588",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27663"
+    },
+    "term": "2018",
+    "description": "A case in which the Court held that partisan gerrymandering claims present political questions beyond the reach of the federal courts.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/588/18-422/",
+    "facts_of_the_case": "<p>A three-judge district court struck down North Carolina\u2019s 2016 congressional map, ruling that the plaintiffs had standing to challenge the map and that the map was the product of partisan gerrymandering. The district court then enjoined the state from using the map after November 2018. North Carolina Republicans, led by Robert Rucho, head of the senate redistricting committee, appealed the decision to the Supreme Court.</p>\n",
+    "conclusion": "<p>Partisan gerrymandering claims are not justiciable because they present a political question beyond the reach of the federal courts.</p>\n<p>Chief Justice John Roberts delivered the 5-4 majority opinion. Federal courts are charged with resolving cases and controversies of a judicial nature. In contrast, questions of a political nature are \u201cnonjusticiable,\u201d and the courts cannot resolve such questions. Partisan gerrymandering has existed since prior to the independence of the United States, and, aware of this occurrence, the Framers chose to empower state legislatures, \u201cexpressly checked and balanced by the Federal Congress\u201d to handle these matters. While federal courts can resolve \u201ca variety of questions surrounding districting,\u201d including racial gerrymandering, it is beyond their power to decide the central question: when has political gerrymandering gone too far. In the absence of any \u201climited and precise standard\u201d for evaluating partisan gerrymandering, federal courts cannot resolve such issues.</p>\n<p>Justice Elena Kagan filed a dissenting opinion, in which Justices Ruth Bader Ginsburg, Stephen Breyer, and Sonia Sotomayor joined. Justice Kagan criticized the Court for sidestepping a critical question involving the violation of \u201cthe most fundamental of . . . constitutional rights: the rights to participate equally in the political process, to join with others to advance political beliefs, and to choose their political representatives.\u201d Justice Kagan argued that by not intervening in the political gerrymanders, the Court effectively \u201cencourage[s] a politics of polarization and dysfunction\u201d that \u201cmay irreparably damage our system of government.\u201d She argued that the standards adopted in lower courts across the country do meet the contours of the \u201climited and precise standard\u201d the majority demanded yet purported not to find.</p>\n<p>This case was consolidated with <a href=\"https://www.oyez.org/cases/2018/18-422\"><em>Lamone v. Benisek</em>, No. 18-726</a>, and the Court released a single opinion resolving both cases.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55329,
+    "name": "House v. Bell",
+    "href": "https://api.oyez.org/cases/2005/04-8990",
+    "view_count": 0,
+    "docket_number": "04-8990",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1119934800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39533"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1136959200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39534"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1150088400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39535"
+        }
+    ],
+    "question": "<p>Did the federal appeals court err in applying <em>Schlup v. Delo</em> to hold that House's new evidence, though presenting at the very least an arguable claim of innocence, was legally insufficient to excuse his failure to present that evidence in state court? What constitutes a \"truly persuasive showing of actual innocence\" under <em>Herrera v. Collins</em>, sufficient to warrant freestanding habeas relief?</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "518",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20620"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>Paul House was sentenced to death for murder based on circumstantial evidence. House then submitted a habeas petition in federal court, claiming that he had new evidence demonstrating his innocence. The Sixth Circuit Court of Appeals denied his petition, finding he had failed to show that it was \"more likely than not that no reasonable juror would have convicted him in the light of the new evidence,\" the standard of review established for habeas petitions in <em>Schlup v. Delo</em>. Even though the evidence cast some doubt on the original evidence, it was not sufficient to warrant a habeas petition.</p>\n",
+    "conclusion": "<p>Yes, and unanswered. In a 5-3 decision, the Court ruled that the Court of Appeals was wrong to deny House's habeas petition. The opinion by Justice Anthony Kennedy held that though the standard in <em>Schlup v. Delo</em> was \"demanding,\" House's case was so extraordinary that it could be granted review despite his failure to present his new evidence in state court. This was because House's new evidence, while not necessarily proving his innocence, was sufficiently compelling that no reasonable juror would have found him guilty beyond a reasonable doubt. Accordingly, the Court sent the case back to the lower courts with instructions to hear House's new claims.</p>\n<p>The Justices declined to clarify the \"persuasive demonstration of actual innocence\" standard in <em>Herrera v. Collins</em>, except to note that since House's evidence just barely met the high standard in <em>Schlup</em>, it did not meet the \"extraordinarily high\" threshold in <em>Herrera</em>.</p>\n<p>Chief Justice John Roberts wrote a dissenting opinion, which was joined by Justices Scalia and Thomas. The dissent argued that under <em>Schlup</em> it was not enough for new evidence to cast doubt on House's conviction; the totality of the evidence had to prove \"that House was actually innocent.\" The dissenters also stressed that the Court should defer to the District Court and not simply take the new evidence \"at face value.\" Justice Alito took no part in the decision of this case.</p>\n"
+}

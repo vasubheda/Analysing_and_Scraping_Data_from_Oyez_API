@@ -1,0 +1,42 @@
+{
+    "ID": 55808,
+    "name": "Cullen v. Pinholster",
+    "href": "https://api.oyez.org/cases/2010/09-1088",
+    "view_count": 0,
+    "docket_number": "09-1088",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1276491600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40807"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1289282400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40808"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1301893200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40809"
+        }
+    ],
+    "question": "<p>Can a federal court overturn a state criminal conviction on the basis of facts the defendant could have alleged, but did not, in state court?</p>\n",
+    "citation": {
+        "volume": "563",
+        "page": "170",
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19730"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that a federal court could not overturn a state criminal conviction on the basis of the facts the defendant could have alleged, but did not, in state court. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/563/170/",
+    "facts_of_the_case": "<p>A California state court convicted Scott Lynn Pinholster of double murder and sentenced him to death. After exhausting his state court remedies, he petitioned for habeas corpus relief in a California federal district court, arguing that he was denied effective assistance of counsel at both the guilt and sentencing phases of his trial. The district court upheld Pinholster's conviction but granted habeas relief on his death sentence. A panel of the Ninth Circuit reversed.</p>\n<p>During rehearing en banc, the Ninth Circuit vacated the panel opinion and affirmed the District Court\u2019s grant of habeas relief, holding that the denial of habeas relief during the guilt phase was appropriate, but not during the penalty phase. The court noted that <em>Strickland v. Washington</em> requires trial counsel to investigate mitigating evidence at the penalty phase. Here, the court reasoned that Pinholster's counsel failed meet to meet his obligations.</p>\n",
+    "conclusion": "<p>No. The Supreme Court reversed the lower court order in an opinion by Justice Clarence Thomas. Limiting \"review to the state-court record is consistent with our precedents,\" Thomas wrote for the 5-4 majority. Justice Stephen Breyer filed a partial dissent in which he contended that \"I do not join Part III, for I would send this case back to the Court of Appeals so that it can apply the legal standards that Part II announces to the complex facts of this case.\" Justice Sonia Sotomayor, joined by Justices Ruth Bader Ginsburg and Elena Kagan, dissented in full. \"Some habeas petitioners are unable to develop the factual basis of their claims in state court through no fault of their own,\" Sotomayor argued.</p>\n"
+}

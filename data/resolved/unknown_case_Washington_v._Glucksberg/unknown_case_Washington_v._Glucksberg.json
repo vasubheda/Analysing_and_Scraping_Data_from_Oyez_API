@@ -1,0 +1,35 @@
+{
+    "ID": 54520,
+    "name": "Washington v. Glucksberg",
+    "href": "https://api.oyez.org/cases/1996/96-110",
+    "view_count": 0,
+    "docket_number": "96-110",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                852703200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37834"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                867301200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37835"
+        }
+    ],
+    "question": "<p>Did Washington's ban on physician assisted-suicide violate the Fourteenth Amendment's Due Process Clause by denying competent terminally ill adults the liberty to choose death over life?</p>\n",
+    "citation": {
+        "volume": "521",
+        "page": "702",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18449"
+    },
+    "term": "1996",
+    "description": "A case in which the Court decided that a law banning physician-assisted suicide does not violate the Due Process Clause of the Fourteenth Amendment. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/521/702/",
+    "facts_of_the_case": "<p>Dr. Harold Glucksberg -- along with four other physicians, three terminally ill patients who have since died, and a nonprofit organization that counsels individuals contemplating physician assisted-suicide -- brought this suit challenging the state of Washington's ban on physician assisted-suicide. The State of Washington has historically criminalized the promotion of suicide attempts by those who \"knowingly cause or aid another person to attempt suicide.\" Glucksberg alleged that Washington's ban was unconstitutional. Following a District Court ruling favoring Glucksberg and his fellow petitioners, the Ninth Circuit affirmed and the Supreme Court granted Washington certiorari.</p>\n",
+    "conclusion": "<p>No. Analyzing the guarantees of the Due Process Clause, the Court focused on two primary aspects: the protection of our nation's objective fundamental, historically rooted, rights and liberties; and the cautious definition of what constitutes a due process liberty interest. The Court held that the right to assisted suicide is not a fundamental liberty interest protected by the Due Process Clause since its practice has been, and continues to be, offensive to our national traditions and practices. Moreover, employing a rationality test, the Court held that Washington's ban was rationally related to the state's legitimate interest in protecting medical ethics, shielding disabled and terminally ill people from prejudice which might encourage them to end their lives, and, above all, the preservation of human life.</p>\n"
+}

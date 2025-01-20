@@ -1,0 +1,42 @@
+{
+    "ID": 63346,
+    "name": "United States v. Tsarnaev",
+    "href": "https://api.oyez.org/cases/2021/20-443",
+    "view_count": 0,
+    "docket_number": "20-443",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1616389200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54863"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1634101200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54959"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1646373600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55055"
+        }
+    ],
+    "question": "<p>Did the U.S. Court of Appeals for the First Circuit err in vacating the death sentence for the district court\u2019s failure to ask prospective jurors for a specific accounting of the pretrial media coverage they had seen, heard, or read, and for its exclusion of evidence at the sentencing phase of trial that Tsarnaev\u2019s brother had been involved in different crimes two years before the bombing?</p>\n",
+    "citation": {
+        "volume": "595",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27809"
+    },
+    "term": "2021",
+    "description": "A case in which the Court reinstated the death penalty for Boston Marathon bomber Dzhokhar Tsarnaev.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/595/20-443/",
+    "facts_of_the_case": "<p>In 2013, Dzhokhar Tsarnaev and his brother detonated two homemade pressure cooker bombs near the finish line of the race, killing three and injuring hundreds. He was sentenced to death for his role in the bombings, but the U.S. Court of Appeals for the First Circuit threw out his death sentences on the grounds that the district court should have asked potential jurors what media coverage they had seen about Tsarnaev\u2019s case, and the district court should not have excluded from the sentencing phase evidence that Tsarnaev\u2019s brother was involved in a separate triple murder.</p>\n",
+    "conclusion": "<p>The First Circuit improperly vacated Tsarnaev\u2019s capital sentences. Justice Clarence Thomas authored the 6-3 majority opinion of the Court.</p>\n<p>\u00a0The district court did not abuse its discretion during jury selection when it declined to ask every prospective juror what they learned from the media about the case. The district court has substantial discretion during jury selection, and it was reasonable for the court to conclude that the proposed question wrongly emphasized what a juror knew before coming to court rather than revealing potential bias. The \u201csupervisory authority\u201d of federal courts does not allow them to \u201ccreate prophylactic supervisory rules that circumvent or supplement legal standards\u201d established by the Supreme Court.</p>\n<p>Additionally, the district court did not abuse its discretion when it excluded from sentencing the evidence that Tsarnaev\u2019s brother was possibly involved in an unsolved triple homicide. A district court has the discretion to exclude evidence \u201cwhen its probative value is outweighed by the danger of creating unfair prejudice, confusing the issues, or misleading the jury.\u201d The bare inclusion of this evidence risked producing a \u201cconfusing mini-trial\u201d about an unsolved crime in which all witnesses were dead.</p>\n<p>Justice Amy Coney Barrett authored a concurring opinion, in which Justice Neil Gorsuch joined, noting her skepticism about the \u201csupervisory authority\u201d of federal courts of appeals.</p>\n<p>Justice Stephen Breyer authored a dissenting opinion, in which Justices Sonia Sotomayor and Elena Kagan joined. Justice Breyer argued that the district court abused its discretion by excluding the evidence of the brother\u2019s involvement in the unsolved triple homicide because, in his view, the record does not adequately support the court\u2019s conclusions that the evidence lacks probative value, is insufficient to corroborate the brother\u2019s role in the murders, is a waste of time, and would confuse the jury.</p>\n"
+}

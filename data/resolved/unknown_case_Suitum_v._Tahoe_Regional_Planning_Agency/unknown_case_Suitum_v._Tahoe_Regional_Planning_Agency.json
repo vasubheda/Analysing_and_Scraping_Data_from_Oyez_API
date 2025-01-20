@@ -1,0 +1,35 @@
+{
+    "ID": 54548,
+    "name": "Suitum v. Tahoe Regional Planning Agency",
+    "href": "https://api.oyez.org/cases/1996/96-243",
+    "view_count": 0,
+    "docket_number": "96-243",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                856936800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37888"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                864709200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37889"
+        }
+    ],
+    "question": "<p>Must property owners attempt to sell their developmental rights before claiming the regulatory taking of property without just compensation, in accordance with the Fifth and Fourteenth Amendments?</p>\n",
+    "citation": {
+        "volume": "520",
+        "page": "725",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18477"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/520/725/",
+    "facts_of_the_case": "<p>Bernadine Suitum owned an undeveloped lot near Lake Tahoe. The Tahoe Regional Planning Agency determined that the lot was ineligible for development under agency regulations. However, the agency determined that Suitum was entitled to \"Transferable Development Rights\" (TDRs) that she could sell to other landowners with the agency's approval. Rather than sell her TDRs, Suitum filed suit claiming that the agency's determination amounted to a regulatory taking of her property without just compensation in violation of the Fifth and Fourteenth Amendments. The District Court held that Suitum's claim was unjusticible because she had not attempted to sell her TDRs. The Court of Appeals affirmed, reasoning that an agency action on a TDR transfer application would be the requisite \"final decision\" regarding Suitum's lot in order for her claim to be ripe for adjudication.</p>\n",
+    "conclusion": "<p>No. In an opinion delivered by Justice David H. Souter, the Court held that Suitum's regulatory taking claim was ripe for adjudication. Justice Souter reasoned that, by determining that Suitum's property was ineligible for development, the agency had had made final determination, even though she had not attempted to sell the TDRs which she had received, or was eligible to receive, under the agency plan. \"While the pleadings raise issues about the significance of the TDRs both to the claim that a taking has occurred and to the constitutional requirement of just compensation, we have no occasion to decide, and we do not decide, whether or not these TDRs may be considered in deciding the issue of whether there has been a taking in this case, as opposed to the issue of whether just compensation has been afforded for such a taking,\" wrote Justice Souter.</p>\n"
+}

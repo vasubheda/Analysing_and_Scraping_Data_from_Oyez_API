@@ -1,0 +1,42 @@
+{
+    "ID": 55969,
+    "name": "Maracich v. Spears",
+    "href": "https://api.oyez.org/cases/2012/12-25",
+    "view_count": 0,
+    "docket_number": "12-25",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1348549200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41267"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1357711200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41268"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1371445200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41269"
+        }
+    ],
+    "question": "<p>1. Did the Fourth Circuit err in holding that lawyers who obtain, disclose, or use personal information to find potential plaintiff for a group action are protected by the litigation exception of the DPPA?</p>\n<p>2. Did the Fourth Circuit err in reaching the conclusion that a lawyer who files an group action before finding plaintiffs may use DPPA-protected personal information to find plaintiffs for that action through a direct mail advertising campaign?</p>\n",
+    "citation": {
+        "volume": "570",
+        "page": "48",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19891"
+    },
+    "term": "2012",
+    "description": "A case in which the Court found that lawyers may use personal information protected by the Driver's Privacy Protection Act to find potential plaintiffs for a group action. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/570/48/",
+    "facts_of_the_case": "<p>Michael Eugene Spears and three other lawyers instituted several \"group action\" lawsuits against several South Carolina car dealerships for allegedly collecting unlawful fees from car buyers. The lawyers obtained the personal information of thousands of car buyers from the South Carolina Department of Motor Vehicles through a Freedom of Information Act request. The lawyers used this data to identify potential plaintiffs for the group action, and sent mailings to each of those plaintiffs notifying them of the litigation.</p>\n<p>Edward F. Maracich and two other car buyers who received mailings, individually and on behalf of all similarly situated individuals, sued the lawyers. The buyers alleged that the lawyers violated the Driver's Privacy Protection Act (DPPA) by obtaining their personal information for purposes of mass solicitation. The lawyers argued that they acted properly under the litigation exception to the DPPA. The DPPA allows disclosure of private information in connection with any state or federal litigation. The district court granted summary judgment in favor of the lawyers, holding that they did not engage in prohibited solicitation. The U.S. Court of Appeals for the Fourth Circuit affirmed, holding that the lawyers did engage in solicitation, but their actions were within the litigation exception to the DPPA.</p>\n",
+    "conclusion": "<p>No, no. Justice Anthony M. Kennedy delivered the opinion for the 5-4 majority. The Supreme Court held that the exceptions to the DPPA's protections do not encompass the use of personal information for solicitation of legal clients. If the exceptions could be interpreted so broadly, the purpose of DPPA\u2014protecting personal information\u2014would be defeated. The Court also held that solicitation was a distinct act separate from litigation and therefore not subject to the litigation exception to the DPPA. Similarly, the DPPA does not allow access to personal information after a lawsuit has been filed. The Court held that a lawyer would only need to file a placeholder lawsuit to gain access to the personal information database, which would prevent the DPPA from providing sufficient protection.</p>\n<p>Justice Ruth Bader Ginsburg wrote a dissent in which she argued that the DPPA allows the use of DMV-supplied personal information when connected with a specific, concrete legal proceeding. In such cases, the information adds directly to the development of a case. She also argued that the majority's opinion creates a limitation that has no basis in the text of the DPPA. The majority's reading also confuses the interpretation and implementation of the DPPA as a whole. Justice Antonin Scalia, Justice Sonia Sotomayor, and Justice Elena Kagan joined in the dissent.</p>\n"
+}

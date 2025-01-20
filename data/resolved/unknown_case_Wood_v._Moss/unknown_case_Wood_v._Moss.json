@@ -1,0 +1,42 @@
+{
+    "ID": 55998,
+    "name": "Wood v. Moss",
+    "href": "https://api.oyez.org/cases/2013/13-115",
+    "view_count": 0,
+    "docket_number": "13-115",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1385445600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41323"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1395810000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41324"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1401166800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41597"
+        }
+    ],
+    "question": "<p>(1) Is the Secret Service eligible for qualified immunity, which would shield it from liability for civil damages assuming the Service performed its duties reasonably?</p>\n<p>(2) Did the protestors sufficiently plead a viewpoint discrimination claim under the First Amendment?</p>\n",
+    "citation": {
+        "volume": "572",
+        "page": "744",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20907"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that Secret Service agents did not break any \"clearly established\" laws in their efforts to protect the President, and were thus protected by qualified immunity.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/572/744/",
+    "facts_of_the_case": "<p>During the 2004 presidential campaign, President George W. Bush's team scheduled a campaign stop in Jacksonville, Oregon. With the approval of local law enforcement agencies, opponents of President Bush organized a peaceful demonstration to protest his policies. The demonstration took place at a public park before moving to the street near the local inn where the President was staying. Eventually, both opponents and supporters of President Bush gathered on the street of near the entrance to the inn, and each group had equal access to deliver its message to the President at the time of his arrival. Before the President arrived, Secret Service agents ordered local police to push protestors away from the immediate area for security reasons. The agents then ordered that the protesters be driven farther away from the inn onto the east side of 5th street. However, agents failed to give the same directive for supporters who remained stationed on the streets close to the inn. The plaintiffs alleged that the orders to move were unintelligibly given and that police proceeded to use force before confirming that the orders were understood or were being followed.</p>\n",
+    "conclusion": "<p>Yes, no. Justice Ruth Bader Ginsburg delivered the opinion for the unanimous Court. The Court held that the agents had not violated any clearly established law in their attempt to maintain an appropriate level of protection for the President despite his unscheduled detour. Because the plaintiffs were unable to establish that the Secret Service agents engaged in crowd control should have been aware of their duty to ensure that different groups obtained equal access to the President, the agents are eligible for qualified immunity. The Secret Service agents' actions were in direct response to the relative security risks the groups posed based on their locations, and so their actions did not violate the First Amendment.</p>\n"
+}

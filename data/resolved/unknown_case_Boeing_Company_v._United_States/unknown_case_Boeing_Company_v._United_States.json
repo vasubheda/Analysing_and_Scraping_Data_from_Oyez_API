@@ -1,0 +1,35 @@
+{
+    "ID": 55069,
+    "name": "Boeing Company v. United States",
+    "href": "https://api.oyez.org/cases/2002/01-1209",
+    "view_count": 0,
+    "docket_number": "01-1209",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1039413600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38862"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1046757600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38863"
+        }
+    ],
+    "question": "<p>Was Boeing Co. required to take into account expenses incurred for R&amp;D in accordance with applicable Treasury regulations in calculating its \"combined taxable income\" for purposes of determining taxation with respect to its domestic international sales corporation and foreign sales corporation?</p>\n",
+    "citation": {
+        "volume": "537",
+        "page": "437",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/18998"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/537/437/",
+    "facts_of_the_case": "<p>In 1971, Congress enacted tax provisions providing special tax treatment for export sales made by an American manufacturer through a subsidiary that qualified as a \"domestic international sales corporation\" (DISC). Regarding research and development (R&amp;D) expenses, Treasury Regulation 26 CFR section 1.861-8(e)(3) provides what must be treated as a cost when calculating combined taxable income (CTI), and how those costs should be allocated among different products and apportioned between the DISC and its parent. Under this regulation, the Internal Revenue Service reallocated Boeing's company sponsored R&amp;D costs for 1979 to 1987, thereby decreasing the untaxed profits of its export subsidiaries and increasing its taxable profits on export sales. Subsequently, Boeing filed suit, arguing that it had an unqualified right to allocate its company sponsored R&amp;D expenses to specific products and to exclude any allocated R&amp;D from being treated as a cost of another product. In granting Boeing summary judgment, the District Court found section 1.861-8(e)(3) invalid due to a specific DISC regulation giving the taxpayer the right to group and allocate income and costs by product or product line. The Court of Appeals reversed.</p>\n",
+    "conclusion": "<p>Yes. In a 7-2 opinion delivered by Justice John Paul Stevens, the Court held that section 1.861-8(e)(3) is a proper exercise of the Secretary of the Treasury's rulemaking authority. The Court reasoned that the general regulation classifying all R&amp;D as an indirect cost attributable to all export sales was not arbitrary as it provided consistent treatment for costs items used in computing domestic taxable income and combined taxable income. Justice Stevens wrote that the rule's \"allocation of R&amp;D expenditures to all products in a category even when specifically intended to improve only one or a few of those products is no more tenuous than the allocation of a chief executive officer's salary to every product that a company sells even when he devotes virtually all of his time to the development of an Edsel.\" Justice Clarence Thomas filed a dissenting opinion, in which Justice Antonin Scalia joined.</p>\n"
+}

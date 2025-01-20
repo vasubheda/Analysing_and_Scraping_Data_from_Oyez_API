@@ -1,0 +1,35 @@
+{
+    "ID": 55042,
+    "name": "Archer v. Warner",
+    "href": "https://api.oyez.org/cases/2002/01-1418",
+    "view_count": 0,
+    "docket_number": "01-1418",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1042437600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38810"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1049090400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38811"
+        }
+    ],
+    "question": "<p>Does the Bankruptcy Code cover a debt embodied in a settlement agreement that settled a creditor's earlier claim \"for money...obtained by...fraud?\"</p>\n",
+    "citation": {
+        "volume": "538",
+        "page": "314",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/18971"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/538/314/",
+    "facts_of_the_case": "<p>In 1991, Leonard and Arlene Warner sold the Warner Manufacturing Company to Elliott and Carol Archer. Subsequently, the Archers sued the Warners for fraud connected with the sale. In settling the lawsuit, the Archers executed releases except for obligations under a $100,000 promissory note and then voluntarily dismissed the lawsuit. After the Warners failed to make the first payment on the promissory note, the Archers sued in state court. The Warners filed for bankruptcy, and the Bankruptcy Court ordered liquidation under Chapter 7. The Archers then brought a claim asking the Bankruptcy Court to find the $100,000 debt nondischargeable and to order the Warners to pay the sum. The Bankruptcy Code provides that a debt shall not be dischargeable in bankruptcy \"to the extent\" it is \"for money...obtained by...false pretenses, a false representation, or actual fraud.\" The Bankruptcy Court denied the Archers' claim. The District Court and the Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>Yes. In a 7-2 opinion delivered by Justice Stephen G. Breyer, the Court held that a debt for money promised in a settlement agreement accompanied by the release of underlying tort claims can amount to a debt for money obtained by fraud, within the nondischargeability statute's terms. \"We conclude that the Archers' settlement agreement and releases may have worked a kind of novation, but that fact does not bar the Archers from showing that the settlement debt arose out of 'false pretences, a false representation, or actual fraud,' and consequently is nondischargeable,\" wrote Justice Breyer. Justice Clarence Thomas, with whom Justice John Paul Stevens joined, dissented.</p>\n"
+}

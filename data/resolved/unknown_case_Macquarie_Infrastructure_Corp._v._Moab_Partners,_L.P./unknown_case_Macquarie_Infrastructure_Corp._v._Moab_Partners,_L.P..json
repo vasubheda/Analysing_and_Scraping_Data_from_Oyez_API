@@ -1,0 +1,42 @@
+{
+    "ID": 63604,
+    "name": "Macquarie Infrastructure Corp. v. Moab Partners, L.P.",
+    "href": "https://api.oyez.org/cases/2023/22-1165",
+    "view_count": 0,
+    "docket_number": "22-1165",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1695963600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55332"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1705384800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55393"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1712898000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55439"
+        }
+    ],
+    "question": "<p>May a failure to make a disclosure required under Item 303 of SEC Regulation S-K support a private claim under Section 10(b) of the Securities Exchange Act of 1934, even in the absence of an otherwise misleading statement?</p>\n",
+    "citation": {
+        "volume": "601",
+        "page": null,
+        "year": "2024",
+        "href": "https://api.oyez.org/case_citation/case_citation/27974"
+    },
+    "term": "2023",
+    "description": "A case in which the Court held that a failure to make a disclosure required under Item 303 of SEC Regulation S-K cannot support a private claim under Section 10(b) of the Securities Exchange Act of 1934 in the absence of an otherwise misleading statement.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/601/22-1165/",
+    "facts_of_the_case": "<p>For years, Macquarie Infrastructure Corp. had been lauded as a \u201ctotal return opportunity\u201d thanks to its strong dividend history, diversified business operations, and favorable growth rates. One of its most significant assets, International-Matex Tank Terminals (\u201cIMTT\u201d), was a substantial driver of its profit, with a major focus on storing No. 6 fuel oil. However, Macquarie and its leadership allegedly hid crucial information from investors, specifically about IMTT\u2019s heavy reliance on No. 6 fuel oil, a commodity facing stringent upcoming regulations and declining demand. Even after international regulations on sulfur levels in fuel were confirmed to drastically affect the market for No. 6 fuel oil, the company continued to misrepresent its exposure, allegedly misleading investors about IMTT's flexibility and downplaying the impending effects on revenue.</p>\n<p>On February 21, 2018, Macquarie first announced a sharp decline in IMTT utilization, earnings falling short of analysts\u2019 expectations, and a 31% cut to the company\u2019s dividend. The company admitted for the first time that it would need to spend hundreds of millions to repurpose IMTT's storage tanks due to the declining demand for No. 6 fuel oil. As a result, the stock price plummeted, and Macquarie\u2019s management faced a credibility crisis. Questions arose about the company\u2019s transparency and honesty, harming investor trust and the company\u2019s overall reputation.</p>\n<p>On behalf of a class of plaintiffs, Moab Partners, L.P., sued Macquarie, alleging that it made material omissions and false and misleading statements about IMTT in violation of various provisions of the Securities Exchange Act of 1934. The U.S. District Court for the Southern District of New York dismissed the complaint for failure to state a claim, but the U.S. Court of Appeals for the Second Circuit reversed, concluding that while many of the alleged misstatements are not actionable, the plaintiffs had adequately pleaded material omissions and facts giving rise to a strong inference of scienter.</p>\n",
+    "conclusion": "<p>Pure omissions are not actionable under SEC Rule 10b\u20135(b), which makes it unlawful to omit material facts in connection with buying or selling securities when that omission renders \u201cstatements made\u201d misleading. Justice Sonia Sotomayor authored the unanimous opinion of the Court.</p>\n<p>The plain text of Rule 10b-5(b) bars only half-truths, not pure omissions. Specifically, it prohibits omitting facts necessary to make \u201cstatements made\u201d not misleading. There must first be an affirmative statement before determining whether additional facts are needed for clarity and completeness. The Securities Act of 1933 lends further support for this understanding because it expressly creates liability for pure omissions in registration statements, while the Exchange Act and Rule 10b-5(b) lack similar language. This difference suggests Congress and the SEC intentionally chose not to create liability for pure omissions under Rule 10b-5(b).</p>\n<p>The Court rejected the argument that pure omissions are inherently misleading because investors expect full disclosure under Item 303, explaining that this interpretation would improperly shift Rule 10b-5(b)\u2019s focus from fraud to disclosure requirements. It also dismissed concerns about creating \u201cbroad immunity\u201d for fraudulent omissions, noting that plaintiffs can still bring claims for half-truths and the SEC retains authority to enforce disclosure rules. Rule 10b-5(b) only targets fraudulent misrepresentations and misleading statements, not the mere failure to disclose required information absent any related statements.</p>\n"
+}

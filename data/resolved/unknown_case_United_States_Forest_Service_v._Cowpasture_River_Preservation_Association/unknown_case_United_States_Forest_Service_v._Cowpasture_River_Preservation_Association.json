@@ -1,0 +1,42 @@
+{
+    "ID": 63164,
+    "name": "United States Forest Service v. Cowpasture River Preservation Association",
+    "href": "https://api.oyez.org/cases/2019/18-1584",
+    "view_count": 0,
+    "docket_number": "18-1584",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1570165200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54578"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1582524000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54656"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1592197200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54724"
+        }
+    ],
+    "question": "<p>Does the U.S. Forest Service have the authority to grant rights-of-way under the Mineral Leasing Act through lands traversed by the Appalachian Trail within national forests?</p>\n",
+    "citation": {
+        "volume": "590",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27711"
+    },
+    "term": "2019",
+    "description": "A case in which the Court held that the U.S. Forest Service has the authority to grant rights-of-way under the Mineral Leasing Act through lands traversed by the Appalachian Trail within national forests.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2019/18-1587/",
+    "facts_of_the_case": "<p>The Appalachian Trail spans over 2,000 miles, from Maine to Georgia, with approximately 1,000 miles of the Trail crossing through lands within national forests. Under the National Trails System Act, the Secretary of the Interior has the responsibility to administer the trail and that responsibility may not be transferred to any other federal agencies. The Mineral Leasing Act grants the U.S. Forest Service the authority to grant certain rights-of-way through lands in the National Forest System, but no federal agency has the authority to grant equivalent rights-of-way through lands in the National Park System.</p>\n<p>In 2017, the Federal Energy Regulatory Commission granted Atlantic Coast Pipeline LLC (Atlantic) authorization to construct, operate, and maintain a natural gas pipeline that would cross the Appalachian Trail at points located within the George Washington and Monogahela National Forests. After a review process, the Forest Service authorized Atlantic to proceed with construction of the pipeline, finding it had authority under the Mineral Leasing Act to grant a right-of-way for the pipeline and that the pipeline \u201cwould have no long lasting impacts\u201d on the Trail.</p>\n<p>Cowpasture River Preservation Association and others filed a petition in the U.S. Court of Appeals for the Fourth Circuit for review of the Forest Service\u2019s record of decision and special use permit. The court granted the petition, vacated the record of decision and special use permit, and remanded to the Forest Service. Notably, the court determined that the Forest Service lacked authority to grant the right-of-way under the Mineral Leasing Act because the Appalachian Trail is a \u201cunit\u201d of the National Park System. The court determined that the Mineral Leasing Act \u201cspecifically excludes\u201d the Trail \u201cfrom the authority of the Secretary of the Interior \u2018or appropriate agency head\u2019 to grant pipeline rights of way.\u201d</p>\n<p>The Court consolidated this case for oral argument with\u00a0<em>U.S. Forest Service v. Cowpasture River Preservation Association</em>, No. 18-1584.</p>\n",
+    "conclusion": "<p>The Forest Service did have the authority to issue the special use permit because the Department of the Interior\u2019s decision to assign responsibility for the Appalachian Trail to the National Park Service did not transform the land over which the Trail passes into land within the National Park System. Justice Clarence Thomas authored the opinion for the 7-2 majority of the Court. Justice Ruth Bader Ginsburg joined in full except as to the part of the majority\u2019s discussion explaining why Cowpasture\u2019s proposed interpretation would vastly expand the Park Service\u2019s jurisdiction in a way inconsistent with the regulatory scheme.</p>\n<p>The Court first noted that it is undisputed that the Forest Service has jurisdiction over the federal lands within the George Washington National Forest. At issue was whether the presence of the Appalachian Trail removes that part of the lands from the Forest Service\u2019s jurisdiction and places them under the jurisdiction of the Park Service. The Court observed that the Forest Service entered into a \u201cright-of-way\u201d agreement with the National Park Service, which resulted in the Appalachian Trail. A right-of-way is a type of easement, granting only nonpossessory rights of use of the land, so the grant of the right-of-way did not divest the Forest Service of jurisdiction over the land. Thus, the Court concluded, the Secretary retained authority to issue the special use permit for the pipeline running underneath the Trail.</p>\n<p>Justice Sonia Sotomayor authored a dissenting opinion, in which Justice Elena Kagan joined. Justice Sotomayor argued that the majority complicated what should be a simple question: \u201cIs the Appalachian National Scenic Trail \u2018land in the National Park System\u2019?\u201d Because federal law does not distinguish \u201cland\u201d from the Trail \u201cany more than it distinguishes \u2018land\u2019 from the many monuments, historic buildings, parkways, and recreational areas that are also units of the Park System,\u201d the dichotomy the Court draws contravenes the text of the statutes governing the Appalachian Trial.</p>\n"
+}

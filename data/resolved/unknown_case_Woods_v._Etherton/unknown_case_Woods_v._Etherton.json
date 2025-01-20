@@ -1,0 +1,35 @@
+{
+    "ID": 62695,
+    "name": "Woods v. Etherton",
+    "href": "https://api.oyez.org/cases/2015/15-723",
+    "view_count": 0,
+    "docket_number": "15-723",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1459746000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53490"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1459746000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53491"
+        }
+    ],
+    "question": "<p>Did the U.S. Court of Appeals for the Sixth Circuit properly apply the standard from the Antiterrorism and Effective Death Penalty Act (AEDPA) that, as long as \u201cfairminded jurists\u201d could disagree about the state court\u2019s conclusion, a federal court should not overrule a state court\u2019s denial of habeas relief?</p>\n",
+    "citation": {
+        "volume": "578",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27420"
+    },
+    "term": "2015",
+    "description": "A case in which the Court held that the Antiterrorism and Effective Death Penalty Act (AEDPA) requires that a federal court not overrule a state court\u2019s denial of habeas relief as long as a \u201cfairminded jurist\u201d could have concluded that the state court\u2019s denial of relief was valid. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/578/15-723/",
+    "facts_of_the_case": "<p>In 2006, Michigan law enforcement received an anonymous tip that two white males were traveling between Detroit and Grand Rapids on I-96 in an Audi and were possibly carrying cocaine. Timothy Etherton was driving a car that matched that description, and he was pulled over. Both he and his passenger, Ryan Pollie, were arrested when the officers found 125.2 grams of cocaine in the car. During Etherton\u2019s trial in state court, Pollie testified that he accompanied Etherton to Detroit without knowing that they were traveling there to obtain cocaine and that Etherton did not inform Pollie about the drugs until the two started back to Grand Rapids. Several police officers also testified at trial and described the anonymous tip, which was \u201cnot evidence\u201d but admitted \u201conly to show why the police did what they did.\u201d Etherton was convicted of possession of cocaine with intent to deliver. The Michigan Court of Appeals affirmed his conviction, and the Michigan Supreme Court denied leave to appeal.</p>\n<p>Etherton sought state postconviction relief and argued that the admission of the anonymous tip violated his rights under the Confrontation Clause of the Sixth Amendment, his trial counsel was ineffective for failing to object to the tip on that ground, and his counsel on direct appeal was ineffective for failing to raise the previous two claims. The state court denied postconviction relief because Etherton failed to prove that his counsel acted unreasonably. Etherton then sought federal habeas relief under the Antiterrorism and Effective Death Penalty Act (AEDPA), which specifies that federal habeas relief is only available after a state court\u2019s denial if the state court\u2019s decision involved an unreasonable application of clearly established federal law. If \u201cfairminded jurists\u201d could disagree as to the validity of the state court\u2019s determination, federal habeas relief is unavailable. The district court denied relief by finding the state court\u2019s denial of relief was objectively reasonable because Etherton\u2019s counsel was adequately prepared for trial. The U.S. Court of Appeals for the Sixth Circuit reversed and held that Etherton\u2019s right to confrontation had been violated because the anonymous tip was referenced four times during the trial, which indicated that the tip was admitted for its truth. The court concluded Etherton\u2019s counsel had been constitutionally ineffective and \u201cno fairminded jurist could conclude otherwise.\u201d</p>\n",
+    "conclusion": "<p>The U.S. Court of Appeals did not properly apply the standard from the AEDPA because a \u201cfairminded jurist\u201d could have disagreed to conclude that the state court\u2019s denial of habeas relief was valid. In a per curiam opinion, the unanimous Court determined that a \u201cfairminded jurist\u201d could conclude that referencing the anonymous tip did not establish it as true, and thus Etherton\u2019s right to confrontation was not violated. Further, the state court was justified in concluding that a failure to raise such a claim was consistent with Etherton\u2019s defense and was not due to incompetence.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55698,
+    "name": "Maryland v. Shatzer",
+    "href": "https://api.oyez.org/cases/2009/08-680",
+    "view_count": 0,
+    "docket_number": "08-680",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1232949600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40524"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1254718800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40525"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1266991200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40526"
+        }
+    ],
+    "question": "<p>Does <em>Edwards v. Arizona</em> prohibit the re-interrogation of a suspect, who has invoked his Fifth Amendment rights to counsel and to remain silent, after a substantial amount of time has elapsed between the invocation of rights and the subsequent interrogation?</p>\n",
+    "citation": {
+        "volume": "559",
+        "page": "98",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19620"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that the ruling in Edwards v. Arizona does not allow for suppression of statements if a substantial period of time between the invoking one's Miranda rights and a second interrogation takes place.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/559/98/",
+    "facts_of_the_case": "<p>In August 2003, a detective from the Hagerstown, MD Police Department interviewed Michael Blain Shatzer Sr. regarding allegations that he had sexually abused his three-year old child. At the time, Mr. Shatzer was incarcerated on an unrelated offense involving sexual abuse of another child. After Mr. Shatzer invoked his Fifth Amendment rights to counsel and to remain silent, the interview was terminated. The investigation was subsequently closed, only to be reopened in January 2006 on the prompting of Mr. Shatzer's wife, when she recognized her child could make more specific allegations about Mr. Shatzer's alleged sexual abuse. Thereafter in March 2006, another detective from the Hagerstown Police Department, who was aware that Mr. Shatzer had been under investigation, but was not aware that Mr. Shatzer had previously invoked his Fifth Amendment rights to counsel and to remain silent, interviewed him. At this interview, Mr. Shatzer was advised of his Fifth Amendment rights, which he waived, and then confessed to specific instances of sexual abuse involving his child.</p>\n<p>Prior to trial, Mr. Shatzer moved to suppress the confessions he made in the March 2006 interview arguing that his 2003 invocation of his Fifth Amendment rights was still applicable. Under <em>Edwards v. Arizona</em> rendered the confession inadmissible. The motion was denied and a Maryland trial court convicted him of sexual child abuse. On appeal, the Court of Appeals of Maryland reversed, holding that the protections of <em>Edwards</em> applies for an inmate who has been continually incarcerated and had previously invoked his Fifth Amendment rights, until either counsel is made available or the inmate initiates further conversation with police. Therefore, under the circumstances, Mr. Shatzer's confession was inadmissible.</p>\n",
+    "conclusion": "<p>No. The Supreme Court reversed the Court of Appeals of Maryland, holding that because Mr. Shatzer experienced a break in <em>Miranda</em> custody lasting more than two weeks between the first and second attempts at interrogation, <em>Edwards</em> does not mandate suppression of his 2006 statements. Justice Antonin G. Scalia writing for the majority reasoned that when a suspect has been released from custody and returned to normal life before the police later attempt interrogation, there is little reason to believe that the suspect's change of heart was coerced. The Court then stated that the appropriate period of time for a person to be re-acclimated to normal life was 14 days. Here, even though Mr. Shatzer was released back into the general prison population, he entered back into his normal life and was free of the pressures of investigative custody; thus, the <em>Edwards</em> presumption was no longer warranted.</p>\n"
+}

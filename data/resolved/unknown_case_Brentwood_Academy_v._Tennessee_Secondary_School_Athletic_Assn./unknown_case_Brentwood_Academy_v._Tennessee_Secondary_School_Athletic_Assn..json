@@ -1,0 +1,35 @@
+{
+    "ID": 54896,
+    "name": "Brentwood Academy v. Tennessee Secondary School Athletic Assn.",
+    "href": "https://api.oyez.org/cases/2000/99-901",
+    "view_count": 0,
+    "docket_number": "99-901",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                971240400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38533"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                982648800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38534"
+        }
+    ],
+    "question": "<p>May a statewide association, incorporated to regulate interscholastic athletic competition among public and private secondary schools, be regarded as engaging in state action when it enforces a rule against a member school?</p>\n",
+    "citation": {
+        "volume": "531",
+        "page": "288",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18825"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/531/288/",
+    "facts_of_the_case": "<p>The Tennessee Secondary School Athletic Association (Association) is a not-for-profit membership corporation organized to regulate interscholastic sports among its members, a large portion of the public and private high schools in Tennessee. The Association's role in regulating interscholastic competition in public schools has been long acknowledged by the State Board of Education. Brentwood Academy sued the Association after it penalized the academy for placing \"undue influence\" on football recruits. At the time, all the voting members of the Association were public school administrators. Brentwood claimed that the rule's enforcement was state action that violated the First and Fourteenth Amendments. The District Court agreed and enjoined the rule's enforcement. In reversing, the Court of Appeals concluded that there was no state action.</p>\n",
+    "conclusion": "<p>Yes. In a 5-4 opinion delivered by Justice David H. Souter, the Court held that the pervasive entwinement of state school officials in the ostensibly private organization, which regulated school sports, and the state education board's acknowledgment of the organization, indicated that the organization is a state actor for civil rights purposes. \"The nominally private character of the Association is overborne by the pervasive entwinement of public institutions and public officials in its composition and workings, and there is no substantial reason to claim unfairness in applying constitutional standards to it,\" wrote Justice Souter for the majority. Chief Justice William H. Rehnquist and Justices Antonin Scalia and Anthony M. Kennedy joined Justice Clarence Thomas' dissent.</p>\n"
+}

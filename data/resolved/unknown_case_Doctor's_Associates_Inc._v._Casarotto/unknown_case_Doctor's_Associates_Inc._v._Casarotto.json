@@ -1,0 +1,35 @@
+{
+    "ID": 54394,
+    "name": "Doctor's Associates Inc. v. Casarotto",
+    "href": "https://api.oyez.org/cases/1995/95-559",
+    "view_count": 0,
+    "docket_number": "95-559",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                829630800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37604"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                832568400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37605"
+        }
+    ],
+    "question": "<p>Does the Federal Arbitration Act preempt Montana's first-page notice of arbitration requirement?</p>\n",
+    "citation": {
+        "volume": "517",
+        "page": "681",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18323"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/517/681/",
+    "facts_of_the_case": "<p>Paul Casarotto, a Subway sandwich shop franchisee, sued franchisor Doctor's Associates, Inc. (DAI) and its agent, Nick Lombardi, in a Montana state court when a dispute arose between the parties with regard to a standard form franchise agreement for the operation of the shop. The court stayed the lawsuit pending arbitration pursuant to the arbitration clause set out in ordinary type on page nine of the franchise agreement. In reversing, the Montana Supreme Court held that the arbitration clause was unenforceable because it did not meet the state-law requirement, 27-5-114(4), that \"[n]otice that a contract is subject to arbitration\" be \"typed in underlined capital letters on the first page of the contract.\" DAI and Lombardi unsuccessfully argued that the state-law requirement was preempted by the Federal Arbitration Act (FAA), which declares written provisions for arbitration \"valid, irrevocable, and enforceable, save upon such grounds as exist at law or in equity for the revocation of any contract.\" The Montana Supreme Court focused on the question of whether the application of 27-5-114(4)'s notice requirement would undermine the FAA's goals and policies. In the Montana court's judgment, the notice requirement did not undermine these goals and policies, for it did not preclude arbitration agreements altogether.</p>\n",
+    "conclusion": "<p>Yes. In a 8-1 decision, authored by Justice Ruth Bader Ginsburg, the Court ruled that Montana's first-page notice requirement, 27-5-114(4), which governs not \"any contract,\" but specifically and solely contracts \"subject to arbitration,\" conflicts with the Federal Arbitration Act (FAA) and is therefore displaced by the federal measure. Justice Ginsburg wrote that Congress \"precluded states from singling out arbitration provisions for suspect status\" when it passed the FAA.</p>\n"
+}

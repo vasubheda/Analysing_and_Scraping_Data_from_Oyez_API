@@ -1,0 +1,35 @@
+{
+    "ID": 54887,
+    "name": "Florida v. Thomas",
+    "href": "https://api.oyez.org/cases/2000/00-391",
+    "view_count": 0,
+    "docket_number": "00-391",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                988174800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38515"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                991630800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38516"
+        }
+    ],
+    "question": "<p>Is New York v. Belton's bright-line rule limited to situations where the officer initiates contact with a vehicle's occupant while that person remains in the vehicle?</p>\n",
+    "citation": {
+        "volume": "532",
+        "page": "774",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18816"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/532/774/",
+    "facts_of_the_case": "<p>While officers were investigating marijuana sales at Florida home, Robert Thomas drove up to the house. An officer asked Thomas for his name and driver license. Thomas was arrested when a search on his license revealed an outstanding warrant. After taking Thomas inside the house, the officer searched Thomas' car and found methamphetamine. Subsequently, the trial court granted Thomas' motion to suppress. In reversing, the appellate found the search valid under New York v. Belton. In New York v. Belton, the U.S. Supreme Court established a \"bright-line\" rule permitting an officer who has made a lawful custodial arrest of a car's occupant to search the car's passenger compartment as a contemporaneous incident of the arrest. In reversing, the Florida Supreme Court held Belton did not apply because it is limited to situations where the officer initiates contact with a vehicle's occupant while that person remains in the vehicle.</p>\n",
+    "conclusion": "<p>In a unanimous opinion delivered by Chief Justice William H. Rehnquist, the Court dismissed the writ of certiorari for want of jurisdiction. Chief Justice Rehnquist wrote that the Florida Supreme Court's decision did not fit any of the categories where the Court \"treated state-court judgments as final for jurisdictional purposes although there were further proceedings to take place in the state court.\" Thus, the Court concluded that the Florida Supreme Court's decision was not final.</p>\n"
+}

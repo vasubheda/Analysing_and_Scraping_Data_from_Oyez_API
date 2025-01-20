@@ -1,0 +1,42 @@
+{
+    "ID": 55391,
+    "name": "Davenport v. Washington Education Association",
+    "href": "https://api.oyez.org/cases/2006/05-1589",
+    "view_count": 0,
+    "docket_number": "05-1589",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1159246800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39689"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1168408800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39690"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1181797200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39691"
+        }
+    ],
+    "question": "<p>Does a state law requiring labor unions to obtain permission from non-union members before using the non-members' fees for political purposes violate unions' First Amendment rights?</p>\n",
+    "citation": {
+        "volume": "551",
+        "page": "177",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20667"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/551/177/",
+    "facts_of_the_case": "<p>In some states, public sector labor unions are allowed to collect fees from non-union members. The Supreme Court has ruled that unions may use these fees for political purposes, but only if the non-union member does not object. Washington state also has a \"paycheck protection\" law, RCW 42.17.760, which requires unions to obtain specific permission from non-members before using their fees for political activity. Davenport, a non-union teacher, sued the Washington Education Association (WEA) teacher's union for violating the law.</p>\n<p>WEA appealed to the Washington Court of Appeals, arguing that Washington's requirement that unions get prior permission was an unconstitutional burden on the unions' First Amendment right to associate for political purposes. Davenport countered that his own First Amendment rights were being violated when his fees went to political causes he did not agree with. The state Court of Appeals ruled in favor of WEA.</p>\n<p>On appeal, the Washington Supreme Court affirmed, ruling that the burden must lie on the nonmember to assert his rights and object to the political fees.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion written by Justice Antonin Scalia, the Court ruled that the First Amendment allows a state to require public-sector unions collecting \"agency-shop\" fees from non-union employees to obtain permission from the employees before using the money for political purposes. The Court's opinion held that \"[...] unions have no constitutional entitlement to the fees of nonmember-employees.\" It would be constitutional for a state to eliminate agency-shop fees altogether, and it is likewise constitutional for a state to take the lesser step of requiring permission from non-union employees before their fees are used for political purposes. The Court faulted the Washington Supreme Court for misinterpreting the Court's precedents as requiring that the burden always be on the objecting employee. The Court concluded that the law was viewpoint-neutral and that it did not suppress any political ideas, since it involved a limitation on how unions can obtain money from non-members and not a limitation how they can choose spend it once they have it. Thus, the Court held that the union's First Amendment right was not abridged by the permission requirement.</p>\n"
+}

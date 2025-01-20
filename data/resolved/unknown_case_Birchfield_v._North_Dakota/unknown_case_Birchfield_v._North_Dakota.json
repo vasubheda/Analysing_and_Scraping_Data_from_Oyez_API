@@ -1,0 +1,42 @@
+{
+    "ID": 62638,
+    "name": "Birchfield v. North Dakota",
+    "href": "https://api.oyez.org/cases/2015/14-1468",
+    "view_count": 0,
+    "docket_number": "14-1468",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1449813600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53358"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1461128400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53433"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1466658000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53812"
+        }
+    ],
+    "question": "<p>In the absence of a warrant, may a state statute criminalize an individual\u2019s refusal to submit to a blood alcohol test?</p>\n",
+    "citation": {
+        "volume": "579",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27394"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that warrantless blood tests incident to an arrest for drunk driving violate the Fourth Amendment, but warrantless breath tests incident to an arrest for drunk driving do not.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/579/14-1468/",
+    "facts_of_the_case": "<p>Danny Birchfield drove into a ditch in Morton County, North Dakota. When police arrived on the scene, they believed Birchfield was intoxicated. Birchfield failed both the field sobriety tests and the breath test. He was arrested, but he refused to consent to a chemical test. Birchfield was charged with a misdemeanor for refusing to consent to a chemical test in violation of state law. He moved to dismiss the charge and claimed that the state law violated his Fourth Amendment right against unreasonable search and seizure. In a similar case, police were called to the South St. Paul boat launch where three men were attempting to pull their boat out of the water and onto their truck. William Robert Bernard, Jr., admitted he had been drinking and had the truck keys in his hands, but he denied driving the truck and refused to perform a field sobriety test. He was arrested on suspicion of driving while impaired (DWI) and taken to the police station, where he refused to consent to a chemical test in violation of Minnesota state law. Bernard was charged with two counts of first-degree test refusal pursuant to state law. In a separate incident, Steve Beylund consented to a blood alcohol to test to confirm he was driving under the influence after being informed it was a criminal offense in North Dakota to refuse a blood alcohol test. The test confirmed he was over the legal limit, and Beylund was charged with driving under the influence.</p>\n<p>All three men challenged the state statutes criminalizing refusal to submit to a chemical test and argued that the statutes violated their Fourth Amendment rights to be free from unreasonable searches and seizures when there was no probable cause that would support a warrant for the test. Both the Supreme Court of Minnesota and the Supreme Court of North Dakota determined that criminalizing the refusal to submit to a chemical test was reasonable under the Fourth Amendment.</p>\n",
+    "conclusion": "<p>A state statute may not criminalize the refusal to submit to a blood test in the absence of a warrant because, while the Fourth Amendment allows for warrantless breath tests incident to an arrest for drunk driving, warrantless blood tests incident to an arrest violate the Fourth Amendment. Justice Samuel A. Alito, Jr. delivered the opinion for the 7-1 majority. The Court held that warrantless breath tests are permissible under the search incident to arrest exception to the Fourth Amendment\u2019s warrant requirement because they do not implicate significant privacy concerns. They involve minimal physical intrusion to capture something that is routinely exposed to the public, reveal a limited amount of information, and do not enhance any embarrassment beyond what the arrest itself causes. Blood tests, however, implicate privacy interests because they are much more physically invasive -- they require the piercing of the skin -- and they produce a sample that can be preserved and used to obtain further information beyond the subject\u2019s blood alcohol level at the time of the test. The Court also determined that criminalizing refusal to submit to a breath test is designed to serve the government\u2019s interest in preventing drunk driving, which is greater than merely keeping currently drunk drivers off the roads, and does so better than other alternatives. However, the same rationale did not apply to criminalizing refusal to submit to a blood test because of the greater degree of intrusion and the available alternative of the breath test.</p>\n<p>In her partial concurrence and partial dissent, Justice Sonia Sotomayor wrote that the Fourth Amendment\u2019s prohibition against warrantless searches should apply to breath tests unless exigent circumstances justify one in a particular case. In establishing exceptions to the warrant requirement, the Court has routinely examined whether a legitimate government interest justified the search in light of the individual\u2019s privacy interest and whether that determination should be made based on a case-by-case analysis or a categorical rule. Based on this analysis, Justice Sotomayor argued that a categorical rule allowing warrantless breath tests incident to arrest was unnecessary to protect the government interest of preventing drunk driving because at that point the driver is off the road and a warrant could be obtained if necessary. Justice Ruth Bader Ginsburg joined in the opinion concurring in part and dissenting in part.</p>\n<p>In his separate opinion concurring in the judgment in part and dissenting in part, Justice Clarence Thomas wrote that the search-incident-to-arrest exception to the Fourth Amendment\u2019s warrant requirement should apply categorically to all blood alcohol tests, including blood tests. By drawing an arbitrary line between blood tests and breath tests, the majority destabilized the law of exceptions to the warrant requirement and made the jobs of both police officers and lower courts more difficult.</p>\n"
+}

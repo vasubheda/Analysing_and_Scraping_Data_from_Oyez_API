@@ -1,0 +1,42 @@
+{
+    "ID": 63135,
+    "name": "Allen v. Cooper",
+    "href": "https://api.oyez.org/cases/2019/18-877",
+    "view_count": 0,
+    "docket_number": "18-877",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1559538000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54522"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1572933600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54597"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1584939600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54680"
+        }
+    ],
+    "question": "<p>Did Congress validly abrogate state sovereign immunity via the Copyright Remedy Clarification Act, which allows authors of original expression to sue states who infringe their federal copyrights?</p>\n",
+    "citation": {
+        "volume": "589",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27682"
+    },
+    "term": "2019",
+    "description": "A case in which the Court held that the Copyright Remedy Clarification Act was not a valid abrogation of state sovereign immunity to allow authors of original expression to sue states who infringe their federal copyrights.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/589/18-877/",
+    "facts_of_the_case": "<p>In 1996, a private researcher hired petitioner Frederick Allen and his company, Nautilus Productions, LLC, to document the recently discovered shipwreck of Blackbeard\u2019s Queen Anne\u2019s Revenge, which ran aground at Beaufort, North Carolina, in 1718. Allen documented the shipwreck for nearly twenty years in photographs and videos and registered his works with the U.S. Copyright Office.</p>\n<p>At some point before October 2013, the state of North Carolina posted various of the copyrighted works of Allen online without his permission. In October 2013, the state and other involved parties entered into a settlement agreement with Allen and his company, paying him for the infringement of his works and agreeing not to infringe the works going forward. At the time, the state removed its infringing works, but shortly afterward, it again posted and published Allen\u2019s works. The state then passed \u201cBlackbeard\u2019s Law,\u201d which purportedly converted Allen\u2019s works into \u201cpublic record\u201d materials that the state could use freely.</p>\n<p>Allen sued the state for copyright infringement, and the state moved to dismiss on the grounds of sovereign immunity under the Eleventh Amendment of the U.S. Constitution. Allen argued that the Copyright Remedy Clarification Act (CRCA)\u2014which defines potential infringers of copyright to include \u201cany State, any instrumentality of a State, and any officer of a State or instrumentality of a State acting in his or her official capacity\u201d\u2014abrogates state sovereign immunity for copyright infringement claims.</p>\n<p>The district court denied the motion to dismiss, finding persuasive Allen\u2019s arguments regarding the CRCA\u2019s abrogation of sovereign immunity. The Fourth Circuit reversed, finding that Congress lacked authority to abrogate state sovereign immunity via the CRCA.</p>\n",
+    "conclusion": "<p>Congress lacked the authority to abrogate state sovereign immunity from copyright infringement suits. Justice Elena Kagan authored the opinion for the Court unanimous in the judgment. First, the Court considered whether, in the Copyright Remedy Clarification Act, Congress had enacted \u201cunequivocal statutory language\u201d abrogating the states\u2019 immunity from lawsuits. The Court concluded that it had. Next, the Court considered whether Congress had authority to do so. Allen argued that the Intellectual Property Clause (art. I \u00a7 8, cl. 8) of the U.S. Constitution authorized the exercise of that power, but the Court rejected that theory in <a href=\"https://www.oyez.org/cases/1998/98-531\"><em>Florida Prepaid Postsecondary Education Expense Board v. College Savings Board</em>, 527 U.S. 627 (1999)</a>, and stare decisis requires following that precedent unless there is a \u201cspecial justification\u201d to overturn it. Neither does Section 5 of the Fourteenth Amendment give Congress the authority to abrogate state sovereign immunity from copyright infringement suits. For Congress\u2019s action to fall within its Section 5 authority, \u201cthere must be a congruence and proportionality between the injury to be prevented and the means adopted to that end.\u201d In the absence of any evidence of this nature, the CRCA fails this test. Thus, Congress lacked authority to abrogate state sovereign immunity in that Act.</p>\n<p>Justice Clarence Thomas joined in part and authored an opinion concurring in part and concurring in the judgment. Justice Thomas agreed with the majority\u2019s conclusion but noted two disagreements. First, he argue that the Court need not \u201cspecial justification\u201d to overrule precedent; rather, the Court must correct its error if the prior decision is \u201cdemonstrably erroneous.\u201d But the present case does not even meet that lower standard. Second, he declined to join the majority\u2019s discussion regarding future copyright legislation.</p>\n<p>Justice Stephen Breyer authored an opinion concurring in the judgment, in which Justice Ruth Bader Ginsburg joined. Justice Breyer pointed out the inherent unfairness to creators and artists that arises from the Court\u2019s decision but concurred in the judgment because the Court\u2019s precedent in <em>Florida Prepaid</em> \u201ccontrols this case.\u201d</p>\n"
+}

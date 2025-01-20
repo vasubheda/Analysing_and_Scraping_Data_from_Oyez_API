@@ -1,0 +1,42 @@
+{
+    "ID": 55792,
+    "name": "Talk America, Inc. v. Michigan Bell Telephone Co.",
+    "href": "https://api.oyez.org/cases/2010/10-313",
+    "view_count": 0,
+    "docket_number": "10-313",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1291960800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40769"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1301461200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40770"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1307595600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40771"
+        }
+    ],
+    "question": "<p>Does federal law require local telephone companies, already established, to allow new competitors in their markets to link to the existing networks through connecting wires at low, government-regulated rates?</p>\n",
+    "citation": {
+        "volume": "564",
+        "page": null,
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19714"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that federal law requires local telephone companies to allow new competitors in their markets to link to their existing networks through connecting wires at low, government-regulated rates.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/564/50/",
+    "facts_of_the_case": "<p>Under the Telecommunications Act of 1996, Congress sought to open up the local telephone markets to competition by requiring incumbent local exchange carriers (ILECs) to share their equipment and services with competitive local exchange carriers (CLECs). Under early interpretations of the law, incumbent-constructed entrance facilities had to provide at-cost access to the competitors. In AT&amp;T Inc. unit Michigan Bell Telephone Co.'s interpretation, the FCC's Triennial Review Remand Order in 2005 created a means to charge for the use of the facilities, and the company announced plans to do so.</p>\n<p>Competitor carriers complained to the Michigan Public Service Commission, and it ruled that the entrance facilities should still be provided at cost. Michigan Bell sued in federal court and won. The U.S. Court of Appeals for the Sixth Circuit affirmed.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court reversed the opinion of the lower court in a decision by Justice Clarence Thomas. \"The FCC has advanced a reasonable interpretation of its regulations \u2014 i.e., that to satisfy its duty under \u00a7251(c)(2), an incumbent LEC must make its existing entrance facilities available to competitors at cost-based rates if the facilities are to be used for interconnection \u2014 and this Court defers to the FCC's views,\" Thomas wrote. Justice Antonin Scalia filed a concurring opinion, noting: \"I would reach the same result even without benefit of the rule that we will defer to an agency's interpretation of its own regulations.\" Meanwhile, Justice Elena Kagan took no part in consideration of the case.</p>\n"
+}

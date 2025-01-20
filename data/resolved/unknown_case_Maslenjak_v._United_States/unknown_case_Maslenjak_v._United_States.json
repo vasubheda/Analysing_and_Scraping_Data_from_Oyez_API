@@ -1,0 +1,42 @@
+{
+    "ID": 62802,
+    "name": "Maslenjak v. United States",
+    "href": "https://api.oyez.org/cases/2016/16-309",
+    "view_count": 0,
+    "docket_number": "16-309",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1484287200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53959"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1493182800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54026"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1498107600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54073"
+        }
+    ],
+    "question": "<p>May a naturalized American citizen be stripped of her citizenship in a criminal proceeding based on an immaterial false statement?</p>\n",
+    "citation": {
+        "volume": "582",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27496"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that, for a naturalized American citizen to be stripped of her citizenship, the government has to prove that she obtained her citizenship illegally; if the underlying illegality is a false statement to government officials, the government must prove that the false statement influenced the citizenship process.\r\n",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/582/16-309/",
+    "facts_of_the_case": "<p dir=\"ltr\">In April 1998, Divna Maslenjak, an ethnic Serb from modern-day Bosnia, met with a U.S. immigration official to seek refugee status for her and her family at the close of the Bosnian civil war. Through a translator, Maslenjak told the immigration official that the family feared persecution in their home region of Bosnia based on their Serbian ethnicity. Maslenjak also told the immigration official that the family feared reprisal because her husband had evaded conscription into the Bosnian Serb militia during the war. Maslenjak and her family were granted refugee status in 1999 and immigrated to the United States in September 2000. Maslenjak was naturalized as a U.S. citizen on August 3, 2007. During the naturalization process, Maslenjak denied ever having given false or misleading information to a U.S. official in order to gain entry to the United states or to avoid removal. </p>\n<p>On October 7, 2007 Maslenjak\u2019s husband, Ratko, was convicted on two counts of making false statements on a government document for his failure to disclose that he had in fact served as an officer in a Serbian military unit. To avoid deportation, Ratko applied for asylum. Testifying on his behalf at the asylum hearing, Maslenjak admitted that Ratko had served in the Serbian militia and that she had lied to the immigration officer during the refugee application interview in 1998. Maslenjak was subsequently charged with two counts of naturalization fraud for denying having ever given false or misleading information to a U.S. official. At trial, the jury was instructed that, in order to find Maslenjak guilty of fraudulently obtaining her naturalization, it need not find that her false statements were material to the decision to approve her naturalization, merely that she made them knowing their falsehood. Maslenjak was convicted on both counts, sentenced to two years probation, and stripped of her citizenship. The U.S. Court of Appeals for the Sixth Circuit affirmed her conviction and held that proof of a material false statement was not a required element of naturalization fraud.</p>\n",
+    "conclusion": "<p dir=\"ltr\">In order for a naturalized American citizen to be stripped of her citizenship, the government has to prove that she obtained her citizenship illegally; if the underlying illegality is a false statement to government officials, the government must prove that the false statement influenced the citizenship process. Justice Elena Kagan delivered the opinion for the 9-0 majority. The Court held that that the plain text of the naturalization fraud statute required a causal connection between the illegal action and obtaining citizenship. The broader statutory context also supported this interpretation because it relied on the same causal connection between the requirements for naturalization and obtaining citizenship. In the case of a false statement to government officials, the required causal connection was present when the false statement sufficiently altered the citizenship process such that it influenced the award of citizenship. The standard to determine when a false statement \u201csufficiently altered\u201d the process was an objective one. The government had to prove that the misrepresentation would have prompted reasonable officials to investigate further, and at that point, the question was whether the investigation would likely have turned up any disqualifying information. The government need not definitively prove that it would have, and the defendant may show that she would have qualified despite the misrepresentation. This test balanced the government\u2019s and defendant\u2019s interests while also taking the realities of case-specific investigations into account. Because the jury instructions used in this case did not reflect this test, they were incorrect.</p>\n<p>\u00a0</p>\n<p dir=\"ltr\">In his opinion concurring in part and concurring in the judgment, Justice Gorsuch wrote that it was sufficient to determine there needed to be a causal link between the illegal act and the awarding of citizenship. Because the jury was not instructed on this causal link, the jury instructions were incorrect. The majority opinion should not have gone further to announce new tests about what the government must show to prove that a misrepresentation affected the award of citizenship. Justice Clarence Thomas joined in the opinion concurring in part and concurring in the judgment. Justice Samuel A. Alito, Jr. wrote a separate opinion concurring in the judgment in which he argued that that the relevant text required only that a false statement meet the same materiality standard that applied in other contexts--that the false statement had a \u201cnatural tendency to influence\u201d the outcome, not whether it actually influenced the outcome. There was no indication that Congress intended a different standard to apply. </p>\n"
+}

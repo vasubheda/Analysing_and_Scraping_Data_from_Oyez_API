@@ -1,0 +1,35 @@
+{
+    "ID": 54586,
+    "name": "United States v. United State Shoe Corporation",
+    "href": "https://api.oyez.org/cases/1997/97-372",
+    "view_count": 0,
+    "docket_number": "97-372",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                888991200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37956"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                891324000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37957"
+        }
+    ],
+    "question": "<p>Does the Harbor Maintenance Tax, as applied to goods loaded at U.S. ports for export, violate the Export Clause?</p>\n",
+    "citation": {
+        "volume": "523",
+        "page": "360",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18515"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/523/360/",
+    "facts_of_the_case": "<p>The Harbor Maintenance Tax (HMT) obligates exporters, importers, and domestic shippers to pay 0.125 percent of the value of the commercial cargo they ship through the Nation's ports. From April to June 1994, United States Shoe Corporation paid the HMT for articles it exported. U.S. Shoe then filed a protest with the Customs Service alleging that, to the extent the toll applies to exports, the HMT violates the Export Clause of the Constitution, which provides that \"No Tax or Duty shall be laid on Articles exported from any State.\" The Customs Service refuted the accusation, stating that the HMT is a statutorily mandated user fee. U.S. Shoe then sued for a refund in the Court of International Trade (CIT). Granting U.S. Shoe summary judgment, the CIT held that the HMT qualifies as a tax, reasoning that the tax is assessed ad valorem directly upon the value of the cargo itself, not upon any services rendered for the cargo. The Court of Appeals for the Federal Circuit affirmed.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion delivered by Justice Ruth Bader Ginsburg, the Court held that \"the [Harbor Maintenance Tax], which is imposed on an ad valorem basis, is not a fair approximation of services, facilities, or benefits furnished to the exporters, and therefore does not qualify as a permissible user fee.\" The Court noted that the Export Clause does not categorically bar Congress from imposing any tax on exports and that a charge designed as compensation for government-supplied services, facilities, or benefits would pass scrutiny.</p>\n"
+}

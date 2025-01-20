@@ -1,0 +1,42 @@
+{
+    "ID": 55755,
+    "name": "J.D.B. v. North Carolina",
+    "href": "https://api.oyez.org/cases/2010/09-11121",
+    "view_count": 0,
+    "docket_number": "09-11121",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1288587600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40671"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1300856400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40672"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1308200400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40673"
+        }
+    ],
+    "question": "<p>Should courts consider the age of a juvenile suspect in deciding whether he or she is in custody for <em>Miranda</em> purposes?</p>\n",
+    "citation": {
+        "volume": "564",
+        "page": null,
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19677"
+    },
+    "term": "2010",
+    "description": "A case in which the Court ruled that courts should consider the age of a juvenile suspect in deciding whether he or she is in custody for Miranda purposes.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/564/261/",
+    "facts_of_the_case": "<p>A North Carolina boy identified as J.D.B. was 13-year-old special education student in 2005 when the police showed up at his school to question him about a string of neighborhood burglaries. The police had learned that the boy was in possession of a digital camera that had been reported stolen.The boy was escorted to a school conference room, where he was interrogated in the presence of school officials. J.D.B.'s parents were not contacted, and he was not given any warnings about his rights under the 1966 decision in <em>Miranda v. Arizona</em>, such as the right to remain silent or to have access to a lawyer. J.D.B. confessed to the crimes, but later sought to have his confession suppressed on the basis that he was never read his Miranda rights. He argued that because he was effectively in police custody when he incriminated himself, he was entitled to Miranda protections. In December 2009, the North Carolina Supreme Court held that it could not consider the boy's age or special education status in determining whether he was in custody, and because he was not in custody, he was not entitled to Miranda warnings.</p>\n",
+    "conclusion": "<p>Yes. A divided Supreme Court reversed the lower court order in an opinion by Justice Sonia Sotomayor. The Supreme Court sent the case back to the state court to determine whether the youth was in custody when he was interrogated. (1966). \"It is beyond dispute that children will often feel bound to submit to police questioning when an adult in the same circumstances would feel free to leave. Seeing no reason for police officers or courts to blind themselves to that commonsense reality, we hold that a child's age properly informs the <em>Miranda</em> custody analysis,\" Sotomayor wrote for the majority. Justice Samuel Alito filed a dissenting opinion joined by Chief Justice John Roberts and Associate Justices Antonin Scalia and Clarence Thomas. \"The Court's decision in this case may seem on first consideration to be modest and sensible, but in truth it is neither, Alito writes. \"It is fundamentally inconsistent with one of the main justifications for the <em>Miranda</em> rule: the perceived need for a clear rule that can be easily applied in all cases. And today's holding is not needed to protect the constitutional rights of minors who are questioned by the police.\"</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 54282,
+    "name": "Babbitt v. Sweet Home Chapter, Communities for a Great Oregon",
+    "href": "https://api.oyez.org/cases/1994/94-859",
+    "view_count": 0,
+    "docket_number": "94-859",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                798094800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37394"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                804402000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37395"
+        }
+    ],
+    "question": "<p>Does the definition of \"harm\" as an expansion of the word \"take\" in the Endangered Species Act include habitat modification that kills or injures wildlife?</p>\n",
+    "citation": {
+        "volume": "515",
+        "page": "687",
+        "year": "1995",
+        "href": "https://api.oyez.org/case_citation/case_citation/18211"
+    },
+    "term": "1994",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/515/687/",
+    "facts_of_the_case": "<p>The Endangered Species Act requires that no person \"take\" an endangered or threatened species. The Act defines take as \"harass, harm, pursue,\" \"wound,\" or \"kill.\" The Secretary of the Interior further characterizes \"harm\" as including \"significant habitat modification or degradation where it actually kills or injures wildlife.\" Several persons within forestry industries sued the Secretary, asserting that Congress did not intend for the regulation to include changes in habitat. The District Court found for the Secretary of the Interior.</p>\n<p>The Court of Appeals reversed on the basis of noscitur a sociis, which means that the meaning of words is determined by the words around it. Thus, \"harm\" could only include actions applying direct force to the animal.</p>\n",
+    "conclusion": "<p>Yes. In a 6-3 decision written by Justice John Paul Stevens, the Supreme Court held that habitat modification is a legitimate application of the word \"harm.\" First, the Court found that the Court of Appeals was incorrect in assuming that the words in the definition of \"take\" only apply to actions involving direct contact with endangered animals. Then, based on the Act itself, the Court determined that the ordinary meaning of harm would in fact include changes in habitat that hurt the endangered animals. Also, the Court held that the intent of the Act to give broad protection to endangered species must include even actions that may have minimal or unforeseeable effects.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 63536,
+    "name": "Smith v. United States",
+    "href": "https://api.oyez.org/cases/2022/21-1576",
+    "view_count": 0,
+    "docket_number": "21-1576",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1670911200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55194"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1679979600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55240"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1686805200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55296"
+        }
+    ],
+    "question": "<p>Does a criminal trial\u2019s improper venue as to one count require vacatur of the convictions for other counts?</p>\n",
+    "citation": {
+        "volume": "599",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27926"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held that the Constitution permits the retrial of a defendant following a trial in an improper venue conducted before a jury drawn from the wrong district.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/599/21-1576/",
+    "facts_of_the_case": "<p>Timothy Smith is a software engineer who lives in Mobile, Alabama, and who is an avid fisherman. He used a web application called Fiddler to obtain the coordinates of private artificial reefs from a website, StrikeLines, that sells such coordinates for between $190 and $199. Smith informed the owners of StrikeLines that he accessed their reef coordinates but refused to tell them how he did it. After negotiations between the owners of StrikeLines and Smith broke down, the owners contacted law enforcement, who executed a search warrant on Smith\u2019s home.</p>\n<p>A federal grand jury indicted Smith on three counts in the Northern District of Florida. Before trial, Smith moved to dismiss all counts for lack of venue because (1) he was a resident of Mobile, Alabama, which is in the Southern District of Alabama, and (2) StrikeLines\u2019s servers, where the coordinate data is stored, are in Orlando, which is in the Middle District of Florida. Thus, venue in the Northern District of Florida was improper, even though StrikeLines was headquartered in Pensacola, which is within that district.</p>\n<p>The U.S. Court of Appeals for the Eleventh Circuit concluded that venue was improper as to one count but that improper venue for one count does not require vacatur of the conviction for another count.</p>\n",
+    "conclusion": "<p>The Constitution permits the retrial of a defendant following a trial in an improper venue conducted before a jury drawn from the wrong district. Justice Samuel Alito authored the unanimous opinion of the Court.</p>\n<p>When a defendant obtains a reversal of a prior, unsatisfied conviction, he may normally be retried, unless retrial would be barred by the Double Jeopardy Clause. Neither text nor precedent suggests that if a defendant is tried in the wrong venue (in violation of the Venue Clause), the appropriate remedy is an exception to the retrial rule. The purpose of the Venue Clause is not the convenience for the defendant, as Smith argued, but to be near the location of the alleged crimes.</p>\n<p>Similarly, a trial conducted before a jury drawn from the wrong district (in violation of the Vicinage Clause) does not preclude retrial. The Court has repeatedly acknowledged that retrials are the appropriate remedy for violations of other jury-trial rights, and nothing about the Vicinage Clause suggests it should be treated differently.</p>\n<p>Smith\u2019s situation does not implicate the Double Jeopardy Clause. That Clause prohibits retrial of a criminal defendant when a trial terminates with a finding that the defendant\u2019s \u201ccriminal culpability had not been established\u201d but does not affect trials that terminate \u201con a basis unrelated to factual guilt or innocence of the offence of which [the defendant] is accused.\u201d Reversal of a conviction based on a violation of the Venue or Vicinage Clauses is the latter type because it does not adjudicate the defendant\u2019s culpability.</p>\n"
+}

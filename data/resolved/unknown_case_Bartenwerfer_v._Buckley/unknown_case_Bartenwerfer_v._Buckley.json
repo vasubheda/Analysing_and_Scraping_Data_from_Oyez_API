@@ -1,0 +1,42 @@
+{
+    "ID": 63488,
+    "name": "Bartenwerfer v. Buckley",
+    "href": "https://api.oyez.org/cases/2022/21-908",
+    "view_count": 0,
+    "docket_number": "21-908",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1651467600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55096"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1670306400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55184"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1677045600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55220"
+        }
+    ],
+    "question": "<p>Can a bankruptcy debtor be held liable for another person\u2019s fraud, even when they were not aware of the fraud?</p>\n",
+    "citation": {
+        "volume": "598",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27893"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held that a bankruptcy debtor can be held liable for another person\u2019s fraud, even when they were not aware of the fraud. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/598/21-908/",
+    "facts_of_the_case": "<p>David and Kate Bartenwerfer renovated a house in San Francisco, California, and sold it to Kieran Buckley. After the sale, Buckley discovered defects in the house and sued the Bartenwerfers. A jury found for Buckley on several claims and awarded damages. The Bartenwerfers then filed for bankruptcy.</p>\n<p>In the bankruptcy court, Buckley initiated an adversary proceeding against the Bartenwerfers arguing that the state-court judgment could not be discharged in bankruptcy because the debt was obtained through fraud. The bankruptcy court agreed, finding that the Bartenwerfers had intended to deceive Buckley, that Mr. Bartenwerfer had actual knowledge of the factual misrepresentations, and that Mr. Bartenwerfer\u2019s fraudulent conduct could be imputed onto Mrs. Bartenwerfer because of their partnership relationship.</p>\n<p>The Ninth Circuit Bankruptcy Appellate Panel (BAP) remanded the imputed liability finding with the instructions that the bankruptcy court determine whether Mrs. Bartenwerfer \u201cknew or should have known\u201d of Mr. Bartenwerfer\u2019s fraud. On remand, the court held that Mrs. Bartenwerfer did not know of the fraud and thus was not liable for Mr. Bartenwerfer\u2019s fraudulent conduct, and the BAP affirmed. Buckley appealed. The U.S. Court of Appeals for the Ninth Circuit reversed and remanded, concluding that the bankruptcy court applied the incorrect legal standard for imputed liability in a partnership relationship. The correct standard, based on binding Supreme Court and Ninth Circuit precedent, is whether the fraud was performed \u201con behalf of the partnership and in the ordinary course of business of the partnership.\u201d</p>\n",
+    "conclusion": "<p>A debtor who is liable for her partner\u2019s fraud cannot discharge that debt in bankruptcy, regardless of her own culpability. Justice Amy Coney Barrett authored the opinion for the unanimous Court holding that Mrs. Bartenwerfer could not discharge her partner\u2019s debt even though she lacked knowledge of his fraud.</p>\n<p>Section 523(a)(2)(A) provides an exception to discharge of \u201cany debt\u2026for money\u2026to the extent obtained by\u2026false pretenses, a false representation, or actual fraud.\u201d The passive voice of that provision eliminates the significance of who engaged in the fraud, suggesting an \u201cagnosticism\u201d as to the identity of the wrongdoer. Neither the fact that neighboring provisions of the Code treat debtors differently nor the Court\u2019s precedents support an alternative reading of that provision. Moreover, the Bankruptcy Code seeks to balance multiple interests, and the preclusion of faultless debtors from discharging liabilities run up by their associates is but one of those.</p>\n<p>Justice Sonia Sotomayor authored a concurring opinion, in which Justice Ketanji Brown Jackson joined, to clarify that the Court\u2019s opinion depends upon the agency relationship between Mrs. Bartenwerfer and her partner and that its decision does not consider the applicability of the provision when no such agency or partnership relationship exists.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 54688,
+    "name": "South Central Bell Telephone Company v. Alabama",
+    "href": "https://api.oyez.org/cases/1998/97-2045",
+    "view_count": 0,
+    "docket_number": "97-2045",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                916725600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38148"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                922168800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38149"
+        }
+    ],
+    "question": "<p>Does Alabama's franchise tax discriminates against interstate commerce, in violation of the Commerce Clause? Did the Alabama Supreme Court's refusal to permit the South Central Bell Telephone Company and others to raise their constitutional claims because of res judicata deprive them of the due process of law guaranteed by the Fourteenth Amendment?</p>\n",
+    "citation": {
+        "volume": "526",
+        "page": "160",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18617"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/526/160/",
+    "facts_of_the_case": "<p>Alabama requires each corporation doing business in that state to pay a franchise tax based on the firm's capital. A domestic firm, organized under the laws of Alabama, has leeway in controlling its own tax base and tax liability. A foreign firm, organized under the laws of a State other than Alabama, does not have similar leeway to control its tax base. In 1986, the Reynolds Metals Company and other foreign corporations sued Alabama's tax authorities, seeking a refund of the foreign franchise tax they had paid on the ground that the tax discriminated against foreign corporations in violation of the Commerce and Equal Protection Clauses. The Alabama Supreme Court rejected Reynolds' claims, holding that the special burden imposed on foreign corporations simply offset a different burden imposed exclusively on domestic corporations by Alabama's domestic shares tax. During the Reynolds case, the South Central Bell Telephone Company and others brought a suit asserting similar Commerce and Equal Protection Clause claims. The Alabama trial court agreed with South Central Bell that the tax substantially discriminated against foreign corporations, but nonetheless dismissed their claims as barred by res judicata in light of the State Supreme Court's Reynolds decision. The Alabama Supreme Court affirmed.</p>\n",
+    "conclusion": "<p>Yes and yes. In an opinion delivered by Justice Stephen G. Breyer, the Court held that the Alabama franchise tax was unconstitutional. Justice Breyer wrote for the Court that, \"Alabama law gives domestic corporations the ability to reduce their franchise tax liability..., while it denies foreign corporations that same ability. And no one claims that the different tax rates for foreign and domestic corporations offset the difference in the tax base. The tax therefore facially discriminates against interstate commerce and is unconstitutional unless the State can offer a sufficient justification for it.\" The Court concluded the State could not justify the tax. The Court also held that the State Supreme Court's decision was inconsistent with the Fourteenth Amendment's due process guarantee because the South Central Bell case was unrelated to the court's prior judgement and thus could not be bound by it. Furthermore, the Court rejected the State's argument that the Court lacked appellate jurisdiction under the Eleventh Amendment.</p>\n"
+}

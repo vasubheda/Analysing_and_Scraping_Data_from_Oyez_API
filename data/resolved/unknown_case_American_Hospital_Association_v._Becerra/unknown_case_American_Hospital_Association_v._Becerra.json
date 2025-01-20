@@ -1,0 +1,42 @@
+{
+    "ID": 63378,
+    "name": "American Hospital Association v. Becerra",
+    "href": "https://api.oyez.org/cases/2021/20-1114",
+    "view_count": 0,
+    "docket_number": "20-1114",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1625202000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54939"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1638252000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54973"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1655269200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55116"
+        }
+    ],
+    "question": "<p>1. Is the Department of Health and Human Services\u2019 decision to lower drug reimbursement rates for certain hospitals based on a reasonable interpretation of the Medicare statute?</p>\n<p>2. Does 42 U.S.C. \u00a7 1395l(t)(12) preclude the petitioners\u2019 challenge to HHS\u2019s adjustments?</p>\n",
+    "citation": {
+        "volume": "596",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27830"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held that the U.S. Department of Health and Human Services\u2019s decision to lower drug reimbursement rates for certain hospitals based on acquisition costs without conducting a survey was unlawful.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/596/20-1114/",
+    "facts_of_the_case": "<p>The federal government reimburses hospitals for providing outpatient care to patients insured by Medicare Part B. Until recently, the government reimbursed all hospitals at a uniform rate for providing covered drugs. In 2018, the Department of Health and Human Services (HHS) reduced the reimbursement rates for certain types of hospitals (known as \u201c340B hospitals\u201d) because those hospitals can obtain the covered drugs far more cheaply than other hospitals can. HHS reasoned that it should not reimburse hospitals more than they paid to acquire the drugs.</p>\n<p>Several 340B hospitals and hospital associations affected by the decision filed a lawsuit challenging HHS\u2019s decision to lower reimbursement rates. The district court ruled that HHS had exceeded its statutory authority by reducing drug reimbursement rates for 340B hospitals, but the U.S. Court of Appeals for the D.C. Circuit reversed, finding that HHS\u2019s decision is based on a reasonable interpretation of the statute.</p>\n",
+    "conclusion": "<p>The Medicare Prescription Drug, Improvement, and Modernization Act of 2003 does not preclude judicial review of the reimbursement rates set by the Department of Health and Human Services (HHS) for certain outpatient prescription drugs that hospitals provide to Medicare patients. Here, because HHS did not conduct a survey of hospitals\u2019 acquisition costs in 2018 and 2019, its decision to vary reimbursement rates only for 340B hospitals in those years was unlawful. Justice Brett Kavanaugh authored the unanimous opinion of the Court.</p>\n<p>There is a general presumption that judicial review is available, and the relevant provision of the Medicare act contains nothing precluding judicial review.</p>\n<p>HHS may not vary the reimbursement rates only for certain hospitals and not others without a survey. Permitting it to do so is contrary to the text and structure of the statute. Thus, its decision to change reimbursement rates only for 340B hospitals without conducting a survey was unlawful.\u00a0</p>\n"
+}

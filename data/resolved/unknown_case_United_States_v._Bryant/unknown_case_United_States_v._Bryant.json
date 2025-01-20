@@ -1,0 +1,42 @@
+{
+    "ID": 62640,
+    "name": "United States v. Bryant",
+    "href": "https://api.oyez.org/cases/2015/15-420",
+    "view_count": 0,
+    "docket_number": "15-420",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1450072800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53373"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1461042000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53431"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1465794000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53766"
+        }
+    ],
+    "question": "<p>Does an uncounseled conviction in tribal court used to satisfy the predicate offense requirement of 18 U.S.C. 117(a), which criminalizes domestic assault by a person who has been convicted of at least two domestic violence offenses in federal, state, or tribal court, violate the Sixth Amendment?</p>\n",
+    "citation": {
+        "volume": "579",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27396"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that the use of an uncounseled conviction in tribal court proceedings that complied with the Indian Civil Rights Act of 1968 (ICRA) as a predicate offense under 18 U.S.C. 117(a) did not violate the Sixth Amendment. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/579/15-420/",
+    "facts_of_the_case": "<p>In June 2011, Michael Bryant, Jr. was convicted of two counts of domestic assault by a habitual offender in violation of 18 U.S.C. 117(a), a federal law that criminalizes domestic assault by any person who has been convicted of at least two domestic violence offenses in federal, state, or Indian tribal court. For the predicate offenses, the prosecution relied on Bryant\u2019s previous domestic abuse convictions in Northern Cheyenne Tribal Court. Bryant moved to dismiss the indictment and argued that the use of the tribal court convictions as predicate convictions for the charge violated his Fifth and Sixth Amendment rights because he was not afforded counsel in the tribal court proceedings, so his convictions would have violated the Sixth Amendment if they had occurred in state or federal court. The district court denied the motion, and Bryant pled guilty pursuant to a plea agreement that preserved his right to appeal the district court\u2019s denial of the motion to dismiss. On appeal, the U.S. Court of Appeals for the Ninth Circuit reversed and held that an uncounseled conviction that violated the Sixth Amendment could not be used as a predicate offense for the purpose of a charge under Section 117(a).</p>\n",
+    "conclusion": "<p>The use of an uncounseled conviction in tribal court proceedings that complied with the Indian Civil Rights Act of 1968 (ICRA) as a predicate offense under 18 U.S.C. 117(a) did not violate the Sixth Amendment. Justice Ruth Bader Ginsburg delivered the opinion for the unanimous Court, which held that, although the Sixth Amendment does not apply in tribal court proceedings, ICRA contains procedural safeguards that are similar to those in the Bill of Rights and the Fourteenth Amendment. As long as prior convictions were valid under ICRA when they were entered, they can be used as predicate offenses to enhance a sentence under 18 U.S.C. 117(a), even if they would not have been valid in state or federal court. The Court determined that this decision was consistent with precedent and avoided the creation of a hybrid tribal court conviction that was valid on its own but not for enhanced sentencing purposes. Additionally, ICRA allows for federal habeas review in cases that do raise constitutional violation concerns.</p>\n<p>In his concurring opinion, Justice Clarence Thomas wrote that the fact that this case was before the Court illustrated that the Court has used two conflicting views of Indian tribal sovereignty. On the one hand, the Court has established that the Sixth Amendment did not apply because the tribes are sovereign; however, the federal government has the power to subject members of the tribes to federal criminal prosecution because Congress has power over tribal sovereignty. Justice Thomas argued that the Court should reconsider its precedents that relate to Indian tribal sovereignty and create a more cohesive, coherent, theory.</p>\n"
+}

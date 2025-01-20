@@ -1,0 +1,42 @@
+{
+    "ID": 63551,
+    "name": "Dupree v. Younger",
+    "href": "https://api.oyez.org/cases/2022/22-210",
+    "view_count": 0,
+    "docket_number": "22-210",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1673589600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55208"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1682312400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55252"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1684990800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55284"
+        }
+    ],
+    "question": "<p>To preserve the issue for appellate review, must a party reassert in a post-trial motion a purely legal issue rejected at summary judgment?</p>\n",
+    "citation": {
+        "volume": "598",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27936"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held that a party need not reassert in a post-trial motion a purely legal issue rejected at summary judgment in order to preserve it for appeal.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/598/22-210/",
+    "facts_of_the_case": "<p>Kevin Younger was a pretrial detainee at a state prison in Baltimore, Maryland. One morning, three guards attacked Younger and other inmates at the direction of Neil Dupree, an intelligence lieutenant at the prison. Younger sued Dupree under 42 U.S.C. \u00a7 1983, claiming that Dupree violated his Fourteenth Amendment due process rights. The district court rejected Dupree\u2019s argument that Younger\u2019s suit was barred for failure to exhaust administrative remedies, as required by the Prison Litigation Reform Act (PLRA). Dupree appealed that conclusion.</p>\n<p>The U.S. Court of Appeals for the Fourth Circuit concluded that Dupree was precluded from challenging the district court\u2019s decision because Dupree raised the claim in a pretrial motion for summary judgment but did not raise it again in a post-trial motion.</p>\n",
+    "conclusion": "<p>A post-trial motion under Federal Rule of Civil Procedure 50 is not required to preserve for appellate review a purely legal issue resolved at summary judgment. Justice Amy Coney Barrett authored the unanimous opinion of the Court.</p>\n<p>In <em>Ortiz v. Jordan</em>, 562 U.S. 180 (2011), the Court held that a party whose sufficiency-of-the evidence challenge was rejected at the summary judgment stage must reassert the claim in a post-trial motion to preserve it for appeal. That decision was based on the reasoning that the factual record developed at trial supersedes the record existing at the time of summary judgment.</p>\n<p>When the motion for summary judgment is based on a purely legal question\u2014rather than on the factual record\u2014no subsequent proceedings in the trial court supersede conclusions of law. Thus, when a pure question of law is resolved in an order denying summary judgment, the party need not reassert the claim in a post-trial motion to preserve it on appeal.</p>\n<p>The Court did not decide whether the issue Dupree raised on appeal is purely legal, so it remanded the case for the Fourth Circuit to answer that question.</p>\n"
+}

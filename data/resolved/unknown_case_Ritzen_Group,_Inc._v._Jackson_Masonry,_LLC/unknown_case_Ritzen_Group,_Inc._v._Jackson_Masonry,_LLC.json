@@ -1,0 +1,42 @@
+{
+    "ID": 63143,
+    "name": "Ritzen Group, Inc. v. Jackson Masonry, LLC",
+    "href": "https://api.oyez.org/cases/2019/18-938",
+    "view_count": 0,
+    "docket_number": "18-938",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1558328400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54537"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1573624800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54603"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1578981600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54642"
+        }
+    ],
+    "question": "<p>Is an order denying a motion for relief from the automatic stay in bankruptcy proceeding a final order under 28 U.S.C. \u00a7 158(a)(1)?</p>\n",
+    "citation": {
+        "volume": "589",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27690"
+    },
+    "term": "2019",
+    "description": "A case in which the Court held that a bankruptcy court\u2019s order unreservedly denying relief from the automatic stay of creditor debt-collection efforts outside the bankruptcy forum is final and immediately appealable.\r\n",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/589/18-938/",
+    "facts_of_the_case": "<p>Ritzen Group contracted to buy a piece of property from Jackson Masonry, but the sale was never completed. Ritzen claims that Jackson breached the contract by providing erroneous documentation about the property just before the deadline, while Jackson claims Ritzen breached by failing to secure funding to purchase the property by the deadline.</p>\n<p>Ritzen sued Jackson for breach of contract in Tennessee state court, and just before trial, Jackson filed for bankruptcy, triggering an automatic stay of the litigation under 11 U.S.C. \u00a7 362. Ritzen filed a motion to lift the stay, which the bankruptcy court denied, and Ritzen did not appeal the denial. Instead, Ritzen brought a claim against the bankruptcy estate. The bankruptcy court ruled for Jackson, finding that Ritzen, not Jackson, breached the contract.</p>\n<p>After this adverse ruling, Ritzen filed two appeals in the district court. The first appeal arose from the bankruptcy court\u2019s order denying relief from the automatic stay (which Ritzen did not appeal at the time). The second appeal arose from the bankruptcy court\u2019s determination that Ritzen, not Jackson, breached the contract. The district court ruled against Ritzen on both appeals; the first appeal was untimely filed, and the second one failed on the merits.</p>\n<p>Ritzen appealed to the U.S. Court of Appeals for the Sixth Circuit, which reviewed the bankruptcy court\u2019s findings of fact under the abuse of discretion standard and its legal conclusions de novo. The Sixth Circuit affirmed, finding that Ritzen had missed two deadlines: the contract deadline, leading to its breach, and the appeal deadline, leading to its waiver of appeal.</p>\n",
+    "conclusion": "<p>A bankruptcy court\u2019s order unreservedly denying relief from the automatic stay constitutes a final, immediately appealable order under 28 U.S.C. \u00a7 158(a). Justice Ruth Bader Ginsburg authored the majority opinion on behalf of the unanimous Court.</p>\n<p>The Court first looked to its own precedent in <a href=\"https://www.oyez.org/cases/2014/14-116\"><em>Bullard v. Blue Hills Bank</em>, 575 U.S. 496 (2015)</a>, in which it held that a bankruptcy court\u2019s order rejecting a proposed plan was not final because it did not conclusively resolve the relevant \u201cproceeding.\u201d Bankruptcy court orders are final only when they definitively dispose of discrete disputes within the bankruptcy case. Applying that reasoning to the facts of this case, the Court found that a bankruptcy court\u2019s order unreservedly granting or denying relief from a bankruptcy\u2019s automatic stay conclusively resolves a discrete dispute and thus qualifies as an independent \u201cproceeding\u201d within the meaning of \u00a7158(a).</p>\n"
+}

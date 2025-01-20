@@ -1,0 +1,28 @@
+{
+    "ID": 55221,
+    "name": "Bell v. Cone",
+    "href": "https://api.oyez.org/cases/2004/04-394",
+    "view_count": 0,
+    "docket_number": "04-394",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1106546400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39238"
+        }
+    ],
+    "question": "<p>A Tennessee law made it an aggravating circumstance during sentencing if a murder had been \"especially heinous, atrocious, or cruel.\" Did the state supreme court interpret that sufficiently narrowly, so that it did not run afoul of the Eighth Amendment?</p>\n",
+    "citation": {
+        "volume": "543",
+        "page": "447",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19149"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/543/447/",
+    "facts_of_the_case": "<p>In 1984 a Tennessee court sentenced Cone to death for murder. The jury had found four aggravating circumstances, one of which was that the murder was \"especially heinous, atrocious, or cruel.\" Cone's state appeals were unsuccessful. A federal district court then rejected Cone's habeas petition. The Sixth Circuit reversed. The U.S. Supreme Court reversed the Sixth Circuit's ruling in Bell v. Cone (2002). On remand, the Sixth Circuit again reversed Cone's sentence on the ground that the \"especially heinous, atrocious, or cruel\" aggravator was unconstitutionally vague under the Eighth Amendment.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion, the Court held that the Tennessee Supreme Court had in several previous cases narrowly interpreted the \"especially heinous\" aggravator. The state supreme court had thus made what may have been facially unconstitutional constitutional. Moreover, the court did not need to explicitly narrow the statute once more in its Cone opinion. The Court chastised the Sixth Circuit for presuming \"so lightly that a state court failed to apply its own law\" and rearticulated the principle that federal law demanded a \"highly deferential standard for evaluating state-court rulings.\"</p>\n"
+}

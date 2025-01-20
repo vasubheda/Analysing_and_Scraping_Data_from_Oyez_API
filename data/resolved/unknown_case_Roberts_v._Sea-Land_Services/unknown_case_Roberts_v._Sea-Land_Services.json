@@ -1,0 +1,42 @@
+{
+    "ID": 55857,
+    "name": "Roberts v. Sea-Land Services",
+    "href": "https://api.oyez.org/cases/2011/10-1399",
+    "view_count": 0,
+    "docket_number": "10-1399",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1317099600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40942"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1326261600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40943"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1332219600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40944"
+        }
+    ],
+    "question": "<p>Under the Longshore Act, is the period when an individual is newly awarded compensation the fiscal year when an injured worker first becomes entitled to compensation or the fiscal year when the injured worker is actually awarded compensation?</p>\n",
+    "citation": {
+        "volume": "566",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19779"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that the Longshore Act sets the period when an injured worker is awarded disability compensation as the fiscal year when the worker first becomes entitled to compensation.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/566/93/",
+    "facts_of_the_case": "<p>On February 24, 2002, Dana Roberts slipped on a patch of ice while working as a gatehouse dispatcher for Sea-Land Services Inc. As a result of his fall, Roberts suffered injuries to his shoulder and cervical spine. These injuries ultimately left Roberts permanently partially disabled and ended his longshore career. In accordance with the Longshore and Harbor Workers' Compensation Act, Sea-Land's insurer paid Roberts compensation for temporary total disability for a period from 2002 to 2005. In May 2005, the insurer disputed Roberts' claim and stopped compensating him.</p>\n<p>On October 12, 2006, an administrative law judge determined that Sea-Land continued to be liable under the Longshore Act for Roberts' on-the-job injuries after May of 2005. The Longshore Act required an employer to compensate a disabled worker at a rate based on the worker's average weekly wage at the time of injury. However, the act set an upper limit to compensation based on the average national weekly wage in the fiscal year that an individual was newly awarded compensation. The administrative judge determined that the applicable maximum rate for Roberts was $966.08 per week, based on fiscal year 2002, the year Roberts first became disabled. Roberts claimed that his maximum rate should be $1,114 per week, based on fiscal year 2007, the year the administrative law judge awarded Roberts compensation.</p>\n<p>Roberts filed a motion for reconsideration, which the administrative judge denied. Both Sea-Land and Roberts appealed to the Benefits Review Board, which adopted the rationale that the maximum compensation rate was based on the year in which the disability began rather than the year compensation was awarded. Roberts appealed to the U.S. Court of Appeals for the Ninth Circuit, which affirmed the Benefit Review Board's interpretation. Roberts appealed that decision.</p>\n",
+    "conclusion": "<p>The period is when an individual first becomes disabled. In an 8-to-1 decision, Justice Sonia Sotomayor writing for the majority held that the maximum compensation rate is set at the time that the worker becomes disabled no matter when a compensation order is entered. Given that most employers pay compensation voluntarily with no official award entered, the relevant section of the Longshore and Harbor Workers' Compensation Act is meaningless as interpreted by the petitioner Roberts. The Court also held that this way of calculating maximum compensation gives employers more certainty in calculating liability, and eliminates disparate treatment of similarly situated employees. Setting the cap at the time of disability also prevents \"gamesmanship\" or unnecessary delays in the claims process.</p>\n<p>Justice Ruth Bader Ginsburg concurred in part and dissented in part. Ginsburg argued that the time of disability is not when the maximum compensation rate should be set. That rate should be set either when an employer voluntarily begins to pay compensation, or when a judge or other review board enters an order to pay.</p>\n"
+}

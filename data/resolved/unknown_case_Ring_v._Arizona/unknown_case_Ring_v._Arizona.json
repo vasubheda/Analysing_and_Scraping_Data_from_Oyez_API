@@ -1,0 +1,35 @@
+{
+    "ID": 54983,
+    "name": "Ring v. Arizona",
+    "href": "https://api.oyez.org/cases/2001/01-488",
+    "view_count": 0,
+    "docket_number": "01-488",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1019451600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38700"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1024894800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38701"
+        }
+    ],
+    "question": "<p>Does Arizona's capital sentencing scheme violate the Sixth Amendment's jury trial guarantee by entrusting to a judge the finding of facts sufficient to impose the death penalty?</p>\n",
+    "citation": {
+        "volume": "536",
+        "page": "584",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/18912"
+    },
+    "term": "2001",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/536/584/",
+    "facts_of_the_case": "<p>At Timothy Ring's trial for murder, the jury deadlocked on premeditated murder, but found Ring guilty of felony murder occurring in the course of armed robbery. Under Arizona law, Ring could not be sentenced to death, unless further findings were made by a judge conducting a separate sentencing hearing and only if the judge finds at least one aggravating circumstance and no mitigating circumstances sufficiently substantial to call for leniency. Because the jury had convicted Ring of felony murder, not premeditated murder, Ring would be eligible for the death penalty only if he was the victim's actual killer. Citing accomplice testimony at the sentencing hearing, the judge found that Ring was the killer. The judge then found two aggravating factors, one of them being that the offense was committed for pecuniary gain, as well as one mitigating factor, Ring's minimal criminal record, and ruled that the latter did not call for leniency.</p>\n",
+    "conclusion": "<p>Yes. In a 7-2 opinion delivered by Justice Ruth Bader Ginsburg, the Court held that, because Arizona's enumerated aggravating factors operates as \"the functional equivalent of an element of a greater offense,\" the Sixth Amendment requires that they be found by a jury. Under Apprendi v. New Jersey, 530 U.S. 466, in which the Court held that the Sixth Amendment does not permit a defendant to be \"exposed...to a penalty exceeding the maximum he would receive if punished according to the facts reflected in the jury verdict alone,\" the Court overruled Walton v. Arizona, 497 U.S. 639, insofar it allows a sentencing judge, sitting without a jury, to find an aggravating circumstance necessary for imposition of the death penalty. \"The right to trial by jury guaranteed by the Sixth Amendment would be senselessly diminished if it encompassed the factfinding necessary to increase a defendant's sentence by two years, but not the factfinding necessary to put him to death,\" wrote Justice Ginsburg.</p>\n"
+}

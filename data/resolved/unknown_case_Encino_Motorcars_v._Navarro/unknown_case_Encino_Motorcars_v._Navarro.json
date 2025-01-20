@@ -1,0 +1,42 @@
+{
+    "ID": 62656,
+    "name": "Encino Motorcars v. Navarro",
+    "href": "https://api.oyez.org/cases/2015/15-415",
+    "view_count": 0,
+    "docket_number": "15-415",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1452837600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53402"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1461128400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53434"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1466398800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53787"
+        }
+    ],
+    "question": "<p>Are \u201cservice advisors\u201d employed at a car dealership exempt from overtime compensation under the Fair Labor Standards Act?</p>\n",
+    "citation": {
+        "volume": "579",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27404"
+    },
+    "term": "2015",
+    "description": "A case in which the Court held that, because the Department of Labor did not give adequate reasons for altering its position on whether service advisors are exempt from overtime compensation under the Fair Labor Standards Act (FLSA), the case should be remanded for reinterpretation that does not give controlling weight to the Department\u2019s 2011 position. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/579/15-415/",
+    "facts_of_the_case": "<p>Encino Motorcars, LLC (Encino) sold and serviced Mercedes-Benz automobiles. Hector Navarro was employed there as a service advisor, which involved him greeting customers and assessing their needs as they entered the business. Navarro, along with other similarly-situated plaintiffs, sued Encino for failing to pay overtime compensation when they worked more than forty hours a week. Under the Fair Labor Standards Act, \u201cservice advisors\u201d engaged in servicing automobiles are not entitled to overtime compensation, so the district court dismissed their overtime claim. The U.S. Court of Appeals for the Ninth Circuit reversed the lower court\u2019s decision and held that Navarro and other employees were not exempted from overtime compensation. In reaching its decision, the appellate court relied on the Department of Labor\u2019s 2011 determination that service advisors were not exempt under the FLSA, which was a reversal of the position that the Department had taken in 1987.</p>\n",
+    "conclusion": "<p>Because the Department of Labor did not give adequate reasons for altering its position on whether service advisors are exempt from overtime compensation under the Fair Labor Standards Act (FLSA), the case should be remanded for reinterpretation that does not give controlling weight to the Department\u2019s 2011 position. Justice Anthony M. Kennedy delivered the opinion for the 6-2 majority. The Court held that, while courts generally give deference to the determinations of agencies that Congress has authorized to administer statutes, courts should only do so when the agency\u2019s rules are procedurally sound. A basic procedural requirement is that the agency must give adequate reasons for its determinations, and such reasons are particularly important when a change in the agency\u2019s position may impact long-standing interpretations of the relevant statute. In this case, the Department of Labor did not provide adequate reasons for its 2011 change in position that affected a decades-long understanding of the FLSA. Therefore, the U.S. Court of Appeals for the Ninth Circuit should not have afforded the 2011 determination the deference that it did, and the case should be remanded.</p>\n<p>In her concurring opinion, Justice Ruth Bader Ginsburg wrote that the majority\u2019s opinion should not change how courts approach agency determinations, which well-established principles of administrative law still governs. Justice Sonia Sotomayor joined in the concurrence.</p>\n<p>Justice Clarence Thomas wrote a dissent in which he argued that the case should not be remanded but rather that the Court should have decided the case based on the text of the FLSA. Because the text of the FLSA clearly exempts salesman, and service advisors are those who sell services related to automobiles, service advisors should be properly considered exempt from overtime compensation. Justice Samuel A. Alito, Jr. joined in the dissent.</p>\n"
+}

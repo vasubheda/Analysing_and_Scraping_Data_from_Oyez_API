@@ -1,0 +1,42 @@
+{
+    "ID": 63343,
+    "name": "Babcock v. Kijakazi",
+    "href": "https://api.oyez.org/cases/2021/20-480",
+    "view_count": 0,
+    "docket_number": "20-480",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1614578400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54861"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1634101200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54960"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1642053600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55025"
+        }
+    ],
+    "question": "<p>Is a civil service pension received for federal civilian employment as a \u201cmilitary technician (dual status)\u201d considered \u201ca payment based wholly on service as a member of a uniformed service\u201d for the purposes of the Social Security Act\u2019s windfall elimination provision?</p>\n",
+    "citation": {
+        "volume": "595",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27807"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held a civil service pension received for federal civilian employment as a \u201cmilitary technician (dual status)\u201d is not \u201ca payment based wholly on service as a member of a uniformed service\u201d for the purposes of the Social Security Act\u2019s windfall elimination provision.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/595/20-480/",
+    "facts_of_the_case": "<p>David Babcock enlisted in the Michigan National Guard in 1970 and served for 3.5 years. After his service, Babcock went to flight school and received his pilot\u2019s license, then returned to work as a National Guard dual-status technician, where he worked for over 33 years, including an active-duty tour in Iraq between 2004 and 2005. (Under 10 U.S.C. \u00a7 10216(a)(1), a National Guard dual-status technician \u201cis a Federal civilian employee\u201d who \u201cis assigned to a civilian position as a technician\u201d while a member of the National Guard.)</p>\n<p>Babcock retired from his position in 2009, at which time he began receiving Civil Service Retirement System (CSRS) payments and, separately, military retirement pay from the Defense Finance and Accounting Service. He fully retired in 2014 and at that point, applied for Social Security retirement benefits. On his application, he confirmed that he was receiving monthly CSRS payments. The Social Security Administration (SSA) granted his application but reduced his benefits because of his CSRS pension. Babcock asked the SSA to reconsider the reduction, noting that members of a uniformed service were not generally subject to the reduction in benefits (under the Windfall Elimination Provision, or WEP), and that as a dual-status technician, he qualified for that exception. SSA refused to change its initial determination, an administrative law judge (ALJ) upheld the determination, and then the Appeals Council affirmed the ALJ\u2019s decision. A federal district court entered judgment against Babcock, and the appellate court affirmed.</p>\n",
+    "conclusion": "<p>Civil-service pension payments based on employment as a dual-status military technician are not payments based on \u201cservice as a member of a uniformed service\u201d for the purposes of the windfall elimination provision.</p>\n<p>Justice Amy Coney Barrett authored the 8-1 majority opinion of the Court. While the National Guard of the United States is a uniformed service, prior to 1984, it hired technicians (including Babcock) as civil servants. These technicians possess characteristically civilian rights and were properly considered civilians rather than service members. Although Babcock did serve at other times as a member of the National Guard, his civil-service pension payments were not based on that service. Therefore, those payments are not payments based on \u201cservice as a member of\u201d the National Guard and are thus not subject to the exception Social Security Act\u2019s uniformed-services exception.</p>\n<p>Justice Neil Gorsuch dissented, arguing that National Guard technicians hold a unique position in federal employment because they must maintain membership in the National Guard and wear a Guard uniform, they should be considered \u201cmembers.\u201d</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 62843,
+    "name": "Merit Management Group v. FTI Consulting, Inc.",
+    "href": "https://api.oyez.org/cases/2017/16-784",
+    "view_count": 0,
+    "docket_number": "16-784",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1493614800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54032"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1509948000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54112"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1519711200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54215"
+        }
+    ],
+    "question": "<p>Does the safe harbor of Section 546(e) of the Bankruptcy Code prohibit avoidance of a transfer made by or to a financial institution, regardless of whether the institution benefits from the transfer?</p>\n",
+    "citation": {
+        "volume": "583",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27517"
+    },
+    "term": "2017",
+    "description": "A case in which the Court held that the safe harbor provision of 11 U.S.C. \u00a7 546(e), which prohibits a trustee from avoiding a transfer made by or to a financial institution, does not include transfers where the benefit and detriment of the transfer impact companies that are not financial institutions.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/583/16-784/",
+    "facts_of_the_case": "<p dir=\"ltr\">Valley View Downs, LP, the owner of a Pennsylvania racetrack, acquired all shares of a competing racetrack, Bedford Downs, in exchange for $55 million. The exchange took place through Citizens Bank of Pennsylvania, the escrow agent, and Valley View borrowed money from Credit Suisse and other lenders to pay for the shares. Shortly thereafter, Valley View filed for Chapter 11 bankruptcy.</p>\n<p dir=\"ltr\">\u00a0</p>\n<p dir=\"ltr\">FTI Consulting, Inc., as Trustee of the litigation trust that includes Valley View as one of the debtors, brought this lawsuit against Merit Management Group, a 30% shareholder in Bedford Downs. FTI seeks to avoid Bedford's $16.5 million transfer to Valley View under Bankruptcy Code sections 544, 548(a)(1)(b), and 550, which are safe harbor provisions for transfers \"made by or to\" certain enumerated entities. It is undisputed that Credit Suisse and Citizens Bank are financial institutions within the language of the statute, but at issue is whether the language \u201cmade by or to\u201d includes institutions that act merely as a conduit for the transfer and do not benefit from it.</p>\n<p>The Seventh Circuit held that section 546(e) does not provide a safe harbor against avoidance of transfers between non-named entities where a named entity merely acts as a conduit for the transfer. The Eleventh Circuit has interpreted the provision in the same way as the Seventh, while the Second, Third, Sixth, Eighth, and Tenth Circuits have held to the contrary.</p>\n",
+    "conclusion": "<p>No, the safe harbor provision of Section 546(e) of the Bankruptcy Code does\u00a0not provide a safe harbor against avoidance of transfers between non-named entities where a named entity merely acts as a conduit for the transfer. Justice Sonia Sotomayor delivered the opinion for a unanimous Court. The language of \u00a7546(e) and the specific context in which it\u00a0is used support the conclusion that the relevant transfer for\u00a0purposes of the safe-harbor inquiry is the transfer the trustee seeks\u00a0to avoid. The statutory structure also supports this interpretation. Applying that interpretation to the facts of the case, the Court found that because the parties do not contend that either Valley\u00a0View or Merit is a covered entity, the transfer falls outside of the\u00a0\u00a7546(e) safe harbor.</p>\n"
+}

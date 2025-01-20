@@ -1,0 +1,42 @@
+{
+    "ID": 62761,
+    "name": "Matal v. Tam",
+    "href": "https://api.oyez.org/cases/2016/15-1293",
+    "view_count": 0,
+    "docket_number": "15-1293",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1475125200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53897"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1484719200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53955"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1497848400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54066"
+        }
+    ],
+    "question": "<p>Is the Disparagement Clause invalid under the First Amendment?</p>\n",
+    "citation": {
+        "volume": "582",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27466"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that the Disparagement Clause prohibits trademarks that disparage the members of a racial or ethnic group and violates the Free Speech Clause of the First Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/582/15-1293/",
+    "facts_of_the_case": "<p>Simon Tam and his band, The Slants, sought to register the band\u2019s name with the U.S. Trademark Office. The Office denied the application because it found that the name \u00a0would likely be disparaging towards \u201cpersons of Asian descent.\u201d The office cited the Disparagement Clause of the Lanham Act of 1946, which prohibits trademarks that \u201c[consist] of or [comprise] immoral, deceptive, or scandalous matter; or matter which may disparage or falsely suggest a connection with persons, living or dead, institutions, beliefs, or national symbols, or bring them into contempt, or disrepute.\u201d Tam appealed the trademark officer\u2019s decision, and the name was refused a second time by a board comprised of members of the office. Tam appealed to a panel of judges on the U.S. Court of Appeals for the Federal Circuit, which found that the trademark officials were within their rights to refuse the trademark application under the Disparagement Clause. The appellate court then reviewed the case en banc and found that the trademark office was incorrect in refusing the trademark application and that the Disparagement Clause violated the First Amendment.</p>\n",
+    "conclusion": "<p dir=\"ltr\">The Disparagement Clause prohibits trademarks that disparage the members of a racial or ethnic group and violates the Free Speech Clause of the First Amendment. Justice Samuel A. Alito, Jr. delivered the opinion for the 8-0 majority. The Court held that, the plain meaning of the text clearly indicated that the Disparagement Clause applied to racial and ethnic groups, and therefore the Clause applied to the mark at issue in this case. The Clause also facially discriminated based on viewpoint, as giving offense constitutes a viewpoint. Because the PTO simply approved trademarks, they were not government speech--to which the First Amendment prohibitions on viewpoint regulation did not apply--and holding otherwise would constitute a massive and unwise expansion of the government speech doctrine. Similarly, PTO approval of a trademark did not constitute government-provided subsidy, an area of cases in which viewpoint discrimination was sometimes determined to be constitutional. The Disparagement Clause was also not a permissible regulation of commercial speech because it was not narrowly drawn to serve a substantial interest. Any asserted interest of avoiding offense clearly contravened the purpose of the First Amendment\u2019s protection of free speech, and the Clause was too broad to serve the government\u2019s other stated interest of protecting the orderly flow of commerce. </p>\n<p dir=\"ltr\">Justice Anthony M. Kennedy wrote an opinion concurring in part and concurring in the judgment in which he argued that the First Amendment\u2019s protections against viewpoint discrimination clearly applied in this case. There are very narrow and specific categories in which the government may regulate speech--such as fraud, defamation, and incitement--and the trademark at issue here did not fall within these categories. Instead, the Disparagement Clause specifically singled out a subset of messages that the government determined to be offensive and prohibits them, which was plainly unconstitutional viewpoint discrimination. Justice Kennedy also wrote that the majority opinion does not govern how any other provisions of the Lanham Act should be interpreted under the First Amendment, nor was the government speech doctrine at issue in this case. Justice Ruth Bader Ginsburg, Justice Sonia Sotomayor, and Justice Elena Kagan joined in the opinion concurring in part and concurring in the judgment. In his separate opinion concurring in part and concurring in the judgment, Justice Clarence Thomas wrote that all government regulation of commercial speech should be analyzed under the strict scrutiny standard. </p>\n<p>\u00a0</p>\n<p dir=\"ltr\">Justice Neil Gorsuch did not participate in the discussion or decision of this case.</p>\n"
+}

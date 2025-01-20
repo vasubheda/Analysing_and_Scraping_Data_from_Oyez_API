@@ -1,0 +1,42 @@
+{
+    "ID": 53817,
+    "name": "California v. Hodari D.",
+    "href": "https://api.oyez.org/cases/1990/89-1632",
+    "view_count": 0,
+    "docket_number": "89-1632",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                663832800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36515"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                672382800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36516"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                654757200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53702"
+        }
+    ],
+    "question": "<p>(1) Has a person who is not under the physical control of a police officer been \"seized\" under the Fourth Amendment when the officer is chasing that person?</p>\n<p>(2) Can a person who is pursued by a police officer avoid prosecution by discarding incriminating evidence and asserting that he did so out of fear of an unlawful search?</p>\n",
+    "citation": {
+        "volume": "499",
+        "page": "621",
+        "year": "1991",
+        "href": "https://api.oyez.org/case_citation/case_citation/17746"
+    },
+    "term": "1990",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/499/621/",
+    "facts_of_the_case": "<p>Two police officers dressed in street clothes and wearing jackets with the word \u201cPolice\u201d on the front and back were on patrol in Oakland, California in an unmarked car.  As they approached a group of youths near Foothill Blvd. and 63rd Ave., the youths panicked and ran.  One of the officers left the car and ran after Hodari D.  Hodari tossed away something that looked like a small rock just before the officer tackled him and handcuffed him.  The officer retrieved the rock, which turned out to be crack cocaine.</p>\n<p>At trial, Hodari moved to suppress evidence relating to the cocaine, arguing that the officer obtained it during an unlawful search and seizure.  The trial court denied the motion.  The California Court of Appeal reversed, holding that Hodari was \u201cseized\u201d when he saw the officer running towards him and that seizure was unreasonable under the Fourth Amendment.  The California Supreme Court denied the state\u2019s application for review.</p>\n",
+    "conclusion": "<p>No. No.  Justice Antonin Scalia, writing for a 7-2 majority, reversed and remanded.  The Supreme Court held that a Fourth Amendment seizure requires some sort of physical force with lawful authority, or submission to an assertion of authority.  Hodari had not been touched when he discarded the cocaine, and had not submitted to authority because he was still attempting to escape.</p>\n<p>Justice John Paul Stevens dissented, writing that a seizure takes place when a police officer conveys the message that a citizen is not free to leave.  In this situation, when the officer started chasing Hodari, he made it clear that Hodari was not free to leave.  Justice Thurgood Marshall joined in the dissent.</p>\n"
+}

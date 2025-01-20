@@ -1,0 +1,42 @@
+{
+    "ID": 63083,
+    "name": "Fort Bend County, Texas v. Davis",
+    "href": "https://api.oyez.org/cases/2018/18-525",
+    "view_count": 0,
+    "docket_number": "18-525",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1547186400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54425"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1555909200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54492"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1559538000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54520"
+        }
+    ],
+    "question": "<p>Is Title VII\u2019s administrative-exhaustion requirement a jurisdictional prerequisite to suit, as three circuits have held, or a waivable claim-processing rule, as eight circuits have held?</p>\n",
+    "citation": {
+        "volume": "587",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27656"
+    },
+    "term": "2018",
+    "description": "A case in which the Court held that Title VII\u2019s administrative-exhaustion requirement is a waivable claim-processing rule, not a jurisdictional requirement.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/587/18-525/",
+    "facts_of_the_case": "<p>Lois Davis was an information technology (IT) supervisor for Fort Bend County, Texas. She filed a complaint with the county human resources department alleging that the IT director had sexually harassed and assaulted her, and following an investigation by the county, the director resigned.\u00a0Davis alleges that after the director\u2019s resignation, her supervisor\u2014who was a personal friend of the director\u2014retaliated against her for making the complaint.</p>\n<p>Davis filed a charge with the Texas Workforce Commission alleging sexual harassment and retaliation. While the charge was pending, Davis allegedly informed her supervisor of a specific Sunday she could not work due to a \u201cprevious religious commitment,\u201d and the supervisor did not approve the absence. Davis attended the event and did not report to work, and Fort Bend terminated her employment.</p>\n<p>Davis submitted to the Commission an \u201cintake questionnaire\u201d in which she wrote in the word \u201creligion\u201d next to a checklist labeled \u201cEmployment Harms or Actions\u201d but did not amend her charge of discrimination or explain the note. The Commission informed Davis that it had made a preliminary decision to dismiss her charge and issued a right-to-sue letter. Davis filed her lawsuit in federal district court alleging both retaliation and religious discrimination under Title VII. The district court granted summary judgment in favor of the county on all claims.</p>\n<p>The Fifth Circuit affirmed the lower court as to the retaliation claim but reversed and remanded as to her religious discrimination claim, finding genuine disputes of material fact that warranted a trial. On remand, Fort Bend argued for the first time that Davis had failed to exhaust her administrative remedies on the religious discrimination claim, as required by Title VII. The district court agreed, finding that administrative exhaustion is a jurisdictional prerequisite in Title VII cases. Because subject matter jurisdiction cannot be waived by failure to challenge it, the district court dismissed Davis\u2019s religious discrimination claim with prejudice.</p>\n<p>Title VII requires plaintiffs to exhaust their administrative remedies by filing formal charges with the EEOC. There is no consensus within the Fifth Circuit whether this requirement is a jurisdictional requirement (which may be raised at any point and cannot be waived) or merely a prerequisite to suit (and thus subject to waiver). Relying on the Supreme Court\u2019s decision in <a href=\"https://www.oyez.org/cases/2005/04-944\"><em>Arbaugh v. Y &amp; H Corp.</em>, 546 U.S. 500 (2006)</a>, in which the Court held that the Title VII\u2019s statutory limitation of covered employers to those with 15 or more employees was not jurisdictional, the Fifth Circuit held that the administrative exhaustion requirement was also not jurisdictional. This holding is consistent with holdings in the First, Second, Third, Sixth, Seventh, Tenth, and DC Circuits, but inconsistent with holdings by the Fourth, Ninth, and Eleventh Circuits.</p>\n",
+    "conclusion": "<p>Title VII\u2019s administrative-exhaustion requirement is a waivable claim-processing rule, not a jurisdictional prerequisite to suit. Justice Ruth Bader Ginsburg authored the opinion for a unanimous Court.</p>\n<p>Jurisdictional requirements are generally quite narrow and refer either to the classes of cases a court may hear (as in subject matter jurisdiction) or the persons over whom a court may exercise its authority (personal jurisdiction). Claim-processing rules, in contrast, broadly require parties to take certain steps in or prior to litigation.</p>\n<p>The requirement in Title VII that the complainant exhaust all administrative remedies appears in provisions separate and distinct from the parts of that statute that confer jurisdiction on federal courts to hear such claims. The administrative-exhaustion requirement is more similar to other types of rules that the Court has held nonjurisdictional, such as the directions to raise objections in an agency rulemaking procedure before asserting them in court or to follow copyright registration procedures before suing for infringement.</p>\n"
+}

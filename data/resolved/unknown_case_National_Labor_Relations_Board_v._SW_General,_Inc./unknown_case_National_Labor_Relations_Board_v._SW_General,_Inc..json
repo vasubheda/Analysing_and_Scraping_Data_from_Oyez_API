@@ -1,0 +1,42 @@
+{
+    "ID": 62721,
+    "name": "National Labor Relations Board v. SW General, Inc.",
+    "href": "https://api.oyez.org/cases/2016/15-1251",
+    "view_count": 0,
+    "docket_number": "15-1251",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1466398800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53832"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1478498400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53913"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1490072400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54000"
+        }
+    ],
+    "question": "<p>Do the limitations on nominees to vacant positions serving in an acting capacity under the Federal Vacancies Reform Act apply equally to first assistants who take on the position and to those who are selected by the President from within the same agency or from another agency?</p>\n",
+    "citation": {
+        "volume": "580",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27436"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that the limitations on nominees to vacant positions serving in an acting capacity under the Federal Vacancies Reform Act apply equally to first assistants who take on the position and to those who are selected by the President from within the same agency or from another agency.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/580/15-1251/",
+    "facts_of_the_case": "<p>In 1998, Congress enacted the Federal Vacancies Reform Act (FVRA), which provided that, if a position for which the President nominates and the Senate confirms (PAS position) becomes vacant, the first assistant automatically takes over as an \u201cacting officer\u201d for a period of 210 days. The President may also select a senior employee from the same agency or someone in a PAS position from another agency to serve as the acting officer. Pursuant to the FVRA, when the Ronald Meisberg resigned as the General Counsel of the National Labor Relations Board (NLRB), a PAS position, the President directed Lafe Solomon, who held a senior position in the NLRB, to serve as the Acting General Counsel. Six months into his tenure, the President nominated him for the General Counsel position, but the Senate did not confirm him. On October 29, 2013, the Senate confirmed a different nominee, so by the time he stepped down, Solomon had served as Acting General Counsel from June 21, 2010, until November 4, 2013.</p>\n<p>SW General, Inc. provides ambulance services to hospitals in Arizona. Its emergency medical technicians (EMTs), nurses, and firefighters, are negotiated by a union that had negotiated with SW General for \u201clongevity pay,\u201d which meant that employees who had been with the company for at least ten years were guaranteed annual bonuses. In December 2012, between the expiration of one collective bargaining agreement and the negotiation of a new one, SW General stopped paying the longevity pay. The union filed an unfair labor practices claim with the NLRB, which issued a formal complaint. An administrative law judge determined that SW General had committed unfair labor practices, and SW General filed a list of exceptions, among which was a claim that Acting General Counsel was serving in violation of the FVRA. A provision of the FVRA states that the acting officer may not become the nominee for the position, and the nominee to fill the position may not serve in an acting capacity unless that nominee was the first assistant to the vacant position for at least 90 days in the previous year. Solomon was briefly a nominee for the position, and he had not served as the first assistant to the vacant position. SW General petitioned the U.S. Court of Appeals for the District of Columbia Circuit for review, and the appellate court did not address the merits of the case because it determined that Solomon\u2019s tenure as Acting General Counsel violated the FVRA.</p>\n",
+    "conclusion": "<p>The limitation on nominees to vacant positions serving in an acting capacity under the Federal Vacancies Reform Act (FVRA) apply equally to all nominees. Chief Justice John G. Roberts, Jr., delivered the opinion for the 6-2 majority. The Court held that the FVRA prohibits any person nominated for a  position for which the President nominates and the Senate confirms (PAS position) from performing the duties of that office. The Court determined that that the statutory language of the FVRA applied equally to first assistants who automatically assume such duties under Act and individuals selected by the President. The language left no room for any other interpretation. Thus, Solomon violated the FVRA when he continued to perform the duties of NLRB General Counsel after the President nominated him for the position. </p>\n<p>In his concurring opinion, Justice Clarence Thomas wrote that the appointment of NLRB General Counsel under the FVRA without Senate approval is likely prohibited by the Appointments Clause of the Constitution.</p>\n<p>Justice Sonia Sotomayor wrote a dissent in which she argued that the FVRA\u2019s prohibitions against nominees to a PAS position performing the duties of the office only applies to first assistants who serve as acting officials automatically under the Act. Justice Ruth Bader Ginsburg joined in the dissent.</p>\n"
+}

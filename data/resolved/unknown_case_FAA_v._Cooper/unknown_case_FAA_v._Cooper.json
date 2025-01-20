@@ -1,0 +1,42 @@
+{
+    "ID": 55813,
+    "name": "FAA v. Cooper",
+    "href": "https://api.oyez.org/cases/2011/10-1024",
+    "view_count": 0,
+    "docket_number": "10-1024",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1308546000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40822"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1322632800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40823"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1332910800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40824"
+        }
+    ],
+    "question": "<p>Does the Privacy Act's \"actual damages\" provision cover mental and emotional distress?</p>\n",
+    "citation": {
+        "volume": "566",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19735"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that the Privacy Act of 1974 does not cover mental and emotional distress under \"actual damages.\"",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/566/284/",
+    "facts_of_the_case": "<p>In 2006, pilot Stanmore Cooper disclosed that he was HIV-positive to Social Security officials in order to receive medical benefits but withheld his status from the Federal Aviation Administration. But the Social Security Administration then turned over his medical records to the FAA, which revoked his license. Cooper filed suit against the agency for emotional distress for mishandling his medical records. The U.S. Court of Appeals for the Ninth Circuit ruled that the exchange of records was improper and that Cooper has standing to sue.</p>\n",
+    "conclusion": "<p>No. In a 5-3 decision written by Justice Samuel Alito, the Court held that the Privacy Act's \"actual damages\" provision only allowed Cooper to recover for proven pecuniary or economic harm. Justice Alito cited the Court's rule that legislatures must unequivocally express waivers of sovereign immunity, and that any ambiguities in the statutory text must be construed in favor of immunity. He investigated the use of the term \"actual damages\" in various federal statutes, determining that it does not have a consistent legal meaning. Justice Alito inferred that congress may have intended \"actual damages\" to refer to pecuniary damages; under this interpretation, Privacy Act victims would have to show pecuniary loss or be barred from recovery. He also noted that congress did not make a separate Privacy Act provision for \"general damages,\" often defined as non-pecuniary damages.</p>\n<p>Justice Sonia Sotomayor dissented, joined by Justices Ruth Bader Ginsburg and Stephen Breyer. She rejected the majority's strict interpretation of the sovereign immunity canon and argued that the traditional tools of statutory interpretation provided a better explanation of congress' intent. Looking to the text, to prominent secondary source definitions, and to the historical context of the act, Justice Sotomayor determined that congress intended \"actual damages\" to be synonymous with compensatory damages, which are not limited to pecuniary damages; it used the term \"actual damages\" to limit recovery to damages proven by evidence on record.</p>\n<p>Justice Elena Kagan took no part in the consideration or decision of the case.</p>\n"
+}

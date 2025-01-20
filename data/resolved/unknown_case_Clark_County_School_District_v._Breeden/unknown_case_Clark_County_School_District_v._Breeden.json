@@ -1,0 +1,28 @@
+{
+    "ID": 54883,
+    "name": "Clark County School District v. Breeden",
+    "href": "https://api.oyez.org/cases/2000/00-866",
+    "view_count": 0,
+    "docket_number": "00-866",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                988002000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38508"
+        }
+    ],
+    "question": "<p>Does a single sexually explicit remark and a change in employment status less than a month after an employee files a complaint about the remark meet the threshold for an adverse employment action under Title VII of the Civil Rights of 1964?</p>\n",
+    "citation": {
+        "volume": "532",
+        "page": "268",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18812"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/532/268/",
+    "facts_of_the_case": "<p>Under Title VII of the Civil Rights Act of 1964, it is unlawful \"for an employer to discriminate against any of his employees...because [the employee] has opposed any practice made an unlawful employment practice by [Title VII], or because [the employee] has made a charge, testified, assisted, or participated in any manner in an investigation, proceeding, or hearing under [Title VII].\" Shirley Breeden alleged that, during a review of job applicant files in 1994, a male co-worker's vocal reaction to an applicant's psychological evaluation report constituted sexual harassment. Moreover, Breeden alleged that she suffered from adverse employment actions for complaining about the about the alleged harassment. Breeden claimed she was transferred about a month later to a job with less supervisory authority. In 1997, Breeden filed a retaliation claim against Clark County School District. The District Court granted summary judgment for the school district. A panel of the Court of Appeals reversed.</p>\n",
+    "conclusion": "<p>No. In a per curiam opinion, the Court held that a cause for retaliation was not shown. \"No reasonable person could have believed that the single incident recounted above violated Title VII's standard,\" declared the Court. Continuing, the opinion noted that the occurrence was \"at worst an 'isolated incident' that cannot remotely be considered 'extremely serious,' as our cases require.\"</p>\n"
+}

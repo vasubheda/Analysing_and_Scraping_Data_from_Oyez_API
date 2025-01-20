@@ -1,0 +1,42 @@
+{
+    "ID": 55516,
+    "name": "CBOCS West, Inc. v. Humphries",
+    "href": "https://api.oyez.org/cases/2007/06-1431",
+    "view_count": 0,
+    "docket_number": "06-1431",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1190696400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40036"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1203487200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51884"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1211864400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52233"
+        }
+    ],
+    "question": "<p>May a worker sue his employer for retaliation under the Civil Rights Act of 1866?</p>\n",
+    "citation": {
+        "volume": "553",
+        "page": "442",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20730"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/553/442/",
+    "facts_of_the_case": "<p>Hendrick Humphries, an African-American, was an associate manager at a Cracker Barrel restaurant owned by CBOCS. After he was fired, Humphries filed a lawsuit claiming discrimination and retaliation under 42 USC Section 1981. Humphries alleged that retaliation took many forms of abuse by his superiors. Section 1981, which derives from the Civil Rights Act of 1866, states in part that \"All persons within the jurisdiction of the United States shall have the same right in every State and Territory to make and enforce contracts, to sue, be parties, give evidence, and to the full and equal benefit of all laws and proceedings for the security of persons and property as is enjoyed by white citizens, and shall be subject to like punishment, pains, penalties, taxes, licenses, and exactions of every kind, and to no other.\"</p>\n<p>Humphries lost his case in federal district court but on appeal, the U.S. Court of Appeals for the Seventh Circuit held that Section 1981 protects against retaliation.</p>\n",
+    "conclusion": "<p>Yes, Section 1981 encompasses retaliation claims. The 7-2 decision, written by Justice Stephen Breyer, relied heavily on the concept of stare decisis, or adherence to prior Court decisions, in reaching its conclusion. Justice Breyer maintained that the historical interpretation of Section 1981 by the Court, as well as the legislative history leading up to the enactment of the law, placed a heavy burden on anyone arguing against including retaliation claims within the scope of Section 1981, and the burden was not met in this case. Justice Clarence Thomas wrote a dissenting opinion in which Justice Antonin Scalia joined.</p>\n"
+}

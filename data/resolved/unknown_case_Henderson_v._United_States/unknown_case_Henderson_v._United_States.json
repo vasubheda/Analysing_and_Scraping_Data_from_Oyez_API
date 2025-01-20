@@ -1,0 +1,35 @@
+{
+    "ID": 54416,
+    "name": "Henderson v. United States",
+    "href": "https://api.oyez.org/cases/1995/95-232",
+    "view_count": 0,
+    "docket_number": "95-232",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                827215200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37643"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                832568400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37644"
+        }
+    ],
+    "question": "<p>Is service of process under the Suits of Admiralty Act a matter of procedure governed by the uniform Federal Rules of Civil Procedure?</p>\n",
+    "citation": {
+        "volume": "517",
+        "page": "654",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18345"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/517/654/",
+    "facts_of_the_case": "<p>Lloyd Henderson, a merchant mariner, was injured while working aboard a United States vessel. After exhausting administrative remedies, Henderson filed a seaman's personal injury action against the United States under the Suits in Admiralty Act. Henderson's complaint was filed close to, but within, the two-year limit set on complaints by the Act. Henderson then followed the Federal Rules of Civil Procedure on the service of the summons and complaint, or service of process, to the proper authorities. The United States argued that Henderson failed to serve the complaint \"forthwith,\" or without delay. This deprived the court of jurisdiction because \"forthwith\" service is a prerequisite for the government's waiver of sovereign immunity under the Act. The government's argument prevailed and the federal District Court dismissed Henderson's suit. Henderson lost on appeal. The U.S. Supreme Court granted certiorari.</p>\n",
+    "conclusion": "<p>Yes. In a 6-to-3 opinion by Justice Ruth Bader Ginsburg contended that process of service was primarily a means to notify another of impending legal action in a way that provides the defendant adequate time to answer and present defenses. The Court held that \"[t]he federal rules thus convey a clear message: Complaints are not to be dismissed if served within 120 days, or within such additional time as the court may allow.\"</p>\n"
+}

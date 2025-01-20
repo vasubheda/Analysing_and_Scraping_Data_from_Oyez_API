@@ -1,0 +1,35 @@
+{
+    "ID": 54816,
+    "name": "Troxel v. Granville",
+    "href": "https://api.oyez.org/cases/1999/99-138",
+    "view_count": 0,
+    "docket_number": "99-138",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                947656800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38380"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                960181200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38381"
+        }
+    ],
+    "question": "<p>Does the Washington statute, which allows any person to petition for a court-ordered right to see a child over a custodial parent's objection if such visitation is found to be in the child's best interest, unconstitutionally interfere with the fundamental right of parents to rear their children?</p>\n",
+    "citation": {
+        "volume": "530",
+        "page": "57",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18745"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/530/57/",
+    "facts_of_the_case": "<p>During Tommie Granville and Brad Troxel's relationship, which ended in 1991, they had two daughters. Until Brad's suicide in 1993, Brad's parents Jenifer and Gary Troxel, the paternal grandparents, had regularly seen their granddaughters on weekends. However, after Brad's suicide, Granville informed the Troxels that she wished to reduced their visitation time to one short visit per month. The Troxels filed suit for the right to visit their grandchildren, under section 26.10.160(3) of the Revised Code of Washington, which permits \"any person\" to petition for visitation rights \"at any time\" and authorizes state superior courts to grant such rights whenever visitation may serve a child's best interest. Granville did not oppose the petition outright but did oppose the amount of visitation time sought by the Troxels. Subsequently, a Washington Superior Court ordered more visitation than Granville desired. On appeal, the Washington Court of Appeals reversed that decision, holding that non-parents lacked standing to sue under the statute. In affirming, the Washington Supreme Court ruled that the statute unconstitutionally interfered with parents' right to rear their children.</p>\n",
+    "conclusion": "<p>Yes. In a 6-3 decision delivered by Justice Sandra Day O'Connor, the Court held that the Washington Statute violated the right of parents, under the due process clause of the Constitution's Fourteenth Amendment, to make decisions concerning the care, custody, and control of their children. Justice O'Connor wrote for the Court that \"[t]he liberty interest at issue in this case -- the interest of parents in the care, custody, and control of their children -- is perhaps the oldest of the fundamental liberty interests recognized by this Court.\" Justices John Paul Stevens, Antonin Scalia, and Anthony Kennedy dissented.</p>\n"
+}

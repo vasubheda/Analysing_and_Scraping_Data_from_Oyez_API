@@ -1,0 +1,42 @@
+{
+    "ID": 63478,
+    "name": "Biden v. Texas",
+    "href": "https://api.oyez.org/cases/2021/21-954",
+    "view_count": 0,
+    "docket_number": "21-954",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1645164000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55073"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1650949200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55082"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1656565200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55139"
+        }
+    ],
+    "question": "<p>Must the Biden administration continue to enforce the Trump administration\u2019s Migrant Protection Protocols, or does the Biden Department of Homeland Security decision ending the policy have legal effect?</p>\n",
+    "citation": {
+        "volume": "597",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27888"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held that the Biden administration properly rescinded Trump\u2019s \u201cremain in Mexico\u201d policy, which requires asylum seekers to stay in Mexico while they await hearing in U.S. immigration court.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/597/21-954/",
+    "facts_of_the_case": "<p>In 2018, the Trump administration announced the Migrant Protection Protocols (MPPs), under which policy certain noncitizens arriving at the southwest border of the United States were returned to Mexico during their immigration proceedings. Known as the \u201cremain in Mexico\u201d policy, the MPPs faced legal challenges shortly after their enactment, but the Supreme Court allowed the Trump administration to enforce it.</p>\n<p>In June 2021, the Biden administration sought to end the policy, but Texas and Missouri challenged that effort, arguing that rescinding the policy violated federal immigration law and that the policy change violated the Administrative Procedure Act. A federal district court agreed with the challengers and ordered the Biden administration to implement the MPPs in good faith or initiate new agency action in compliance with the APA. The U.S. Court of Appeals for the Fifth Circuit declined to block the lower court\u2019s ruling, as did the Supreme Court.</p>\n<p>In October 2021, the Department of Homeland Security issued a new decision ending the policy supported by a memorandum explaining the decision. A district court again ordered DHS to continue the CPPs, and the Fifth Circuit upheld the order. The Biden administration sought expedited review as to whether federal immigration law requires it to maintain the policy and whether the October decision to end the policy has any legal effect.</p>\n",
+    "conclusion": "<p>The Government\u2019s rescission of Migrant Protection Protocols did not violate section 1225 of the Immigration and Nationality Act, and the then-Secretary of Homeland Security\u2019s October 29 Memoranda constituted valid final agency action. Chief Justice John Roberts authored the majority opinion.</p>\n<p>Although the district court lacked jurisdiction to issue its injunction, the Supreme Court has jurisdiction to review the case. By using the word \u201cmay,\u201d Section 1225(b)(2)(C) confers a discretionary authority to return nonresidents to Mexico. Historical context confirms this understanding. \u200b\u200bSection 1225(b)(2)(C) was added to the statute more than 90 years after the mandatory language that appears in a nearby provision. And since its enactment, every presidential administration has interpreted section 1225(b)(2)(C) as purely discretionary. Interpreting the provision as mandatory would impose a significant burden upon the Executive\u2019s ability to conduct diplomatic relations with Mexico, which Congress likely did not intend. Once the district court vacated the original attempt to rescind the policy, DHS properly\u00a0 \u201cissue[d] a new rescission bolstered by new reasons\u201d absent from the original rescission.</p>\n<p>Justice Brett Kavanaugh authored a concurring opinion.</p>\n<p>Justice Samuel Alito authored a dissenting opinion, in which Justices Clarence Thomas and Neil Gorsuch joined.</p>\n<p>Justice Amy Coney Barrett authored a dissenting opinion, in which Justices Thomas, Alito, and Gorsuch joined.</p>\n"
+}

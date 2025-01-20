@@ -1,0 +1,42 @@
+{
+    "ID": 55171,
+    "name": "Kontrick v. Ryan",
+    "href": "https://api.oyez.org/cases/2003/02-819",
+    "view_count": 0,
+    "docket_number": "02-819",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1051506000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39094"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1067839200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39095"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1074060000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39096"
+        }
+    ],
+    "question": "<p>Are the deadlines established by Bankruptcy Rule 4004 \"jurisdictional\" - that is, do they trump other considerations no matter when they are raised?</p>\n",
+    "citation": {
+        "volume": "540",
+        "page": "443",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19099"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/540/443/",
+    "facts_of_the_case": "<p>Andrew Kontrick filed for bankruptcy after he and his partner, Robert Ryan, dissolved their plastic surgery practice. Ryan notified the court that Kontrick owed him money before the 60-day filing deadline set by Bankruptcy Rule 4004. More than three months later (after the deadline for filing had passed) Ryan filed an amended complaint charging that Kontrick was diverting paychecks into his wife's account so that he wouldn't have to pay Ryan. Ryan's attorneys claimed that they were not making a new claim - the diversion had been alluded to in other court documents - but that they were merely refocusing the judge's attention. Furthermore, they argued that the deadline for filing could be - and had been - waived by the judge. Kontrick's attorneys, on the other hand, argued that the amended complaint was a new filing and that the deadlines for filing could not be waived. The bankruptcy court ruled for Ryan. The district court and a Seventh Circuit Court of Appeals panel both affirmed, holding that the deadline was subject to waiver.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Ruth Bader Ginsburg, the Court held that Kontrick lost the right to invoke Rule 4004's time limitation because he did so after the bankruptcy court reached the merits of Ryan's objection. The Court rejected Kontrick's claim that Rule 4004 is \"jurisdictional\" and that it trumps other considerations whenever raised in proceedings.</p>\n"
+}

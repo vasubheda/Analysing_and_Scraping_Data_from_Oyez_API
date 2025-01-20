@@ -1,0 +1,42 @@
+{
+    "ID": 56061,
+    "name": "Hana Financial, Inc. v. Hana Bank",
+    "href": "https://api.oyez.org/cases/2014/13-1211",
+    "view_count": 0,
+    "docket_number": "13-1211",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1403499600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41633"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1417586400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41634"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1421820000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41635"
+        }
+    ],
+    "question": "<p>Is the determination of whether a trademark may be tacked to an earlier mark a question of law which a court must decide, or a question of fact for the jury?</p>\n",
+    "citation": {
+        "volume": "574",
+        "page": "418",
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20914"
+    },
+    "term": "2014",
+    "description": "A case in which the Court held that \"trademark tacking\" is a mixed question of fact and law to be decided by the jury.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/574/418/",
+    "facts_of_the_case": "<p>In the spring of 1994, Hana Bank, a Korean entity, began to extend its services to the United States under the name Hana Overseas Korean Club. In advertisements distributed during the summer of 1994, Hana Bank included the name \"Hana Overseas Korean Club\" in English as well as \"Hana Bank\" in Korean. The advertisements also included Hana Bank's logo, known as the \"dancing man.\" A second, distinct entity, Hana Financial, Inc. (HFI) was founded in California in the fall of 1994. In 1996, HFI obtained a federal trademark for their logo, a pyramid, with the words \"Hana Financial\" for use in financial services. Hana Bank officials were aware of HFI's use of the name Hana Financial but did not see the need to take any action because the entities did not directly compete with each other.</p>\n<p>In 2007, HFI filed a complaint against Hana Bank alleging trademark infringement. The district court jury found that Hana Bank had used the \"Hana Bank\" trademark in the United States continuously since before HFI began using the \"Hana Financial\" trademark in 1995 and that Hana Bank's trademark could be \"tacked\" to their 1994 advertisements, which included a similar, but distinct use of the phrase \"Hana Bank.\" HFI appealed, claiming that the determination of whether a trademark may be \"tacked\" to a prior mark is a question of law that must be determined by the court, not a question of fact that may be decided by a jury. The U.S. Court of Appeals for the affirmed the jury's decision.</p>\n",
+    "conclusion": "<p>The issue of \"tacking\" is a mixed question of law and fact to be determined by the jury. Justice Sonia M. Sotomayor wrote the opinion for the unanimous Court. The Court noted that the test for \"tacking\" is whether the two marks create the same, continuing commercial impression so that consumers consider both as the same mark. The Court held that juries are better equipped to make a determination under a test that relies on consumer impressions. Juries can also apply legal standards to facts when given adequate jury instruction. However, a judge may decide a \"tacking\" question on a motion for summary judgment, a motion for judgment as a matter of law, and during a bench trial. The Court concluded that allowing juries to resolve \"tacking\" questions would not create any more unpredictability in the law of trademarks than other jury determinations across all legal fields.</p>\n"
+}

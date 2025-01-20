@@ -1,0 +1,33 @@
+{
+    "ID": 63619,
+    "name": "Relentless, Inc. v. Department of Commerce",
+    "href": "https://api.oyez.org/cases/2023/22-1219",
+    "view_count": 0,
+    "docket_number": "22-1219",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1697173200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55351"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1705471200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55395"
+        }
+    ],
+    "question": "<p>1. Should Chevron v. Natural Resources Defense Council be overruled?</p>\n<p>2. Does statutory silence concerning controversial powers expressly but narrowly granted elsewhere in the statute constitute an ambiguity requiring deference to the agency?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/27984"
+    },
+    "term": "2023",
+    "description": "A case in which the Court overruled Chevron v. Natural Resources Defense Council.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2023/22-1219/"
+}

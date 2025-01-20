@@ -1,0 +1,42 @@
+{
+    "ID": 55911,
+    "name": "Bailey v. United States",
+    "href": "https://api.oyez.org/cases/2012/11-770",
+    "view_count": 0,
+    "docket_number": "11-770",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1338786000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41096"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1351746000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41097"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1361253600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41098"
+        }
+    ],
+    "question": "<p>Did Suffolk County police officers lawfully detain Bailey incident to the execution of a search warrant when officers saw Bailey leaving the immediate vicinity of his apartment before they executed the warrant?</p>\n",
+    "citation": {
+        "volume": "568",
+        "page": "186",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19833"
+    },
+    "term": "2012",
+    "description": "A case in which the Court found that once an individual left the premises after being searched under a legal search warrant, the individual's detainment must be justified by means other than the warrant.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/568/186/",
+    "facts_of_the_case": "<p>On July 28, 2005, an informant told Officer Richard Sneider of the Suffolk County Police Department that he had purchased six grams of crack cocaine at 103 Lake Drive, Wyandanch, New York, from an individual named \"Polo.\" Officer Sneider obtained a warrant to search the basement apartment at that address; the warrant provided that the apartment was occupied by a heavy set black male with short hair, known as \"Polo.\" That evening during surveillance, officers observed two men -later identified as Chunon L. Bailey and Bryant Middleton-exiting the gate that led to the basement apartment at 103 Lake Drive. The officers followed Bailey and Middleton as they left the premises in a black Lexus, and pulled the Lexus over about one mile from the apartment.</p>\n<p>The officers patted down Bailey and Middleton, finding keys in Bailey's front left pocket. They placed both men in handcuffs and informed them that they were being detained, not arrested. Bailey insisted that he did not live in the basement apartment at 103 Lake Drive, but his driver's license address in Bay Shore was consistent with the informant's description of Polo. The police searched the apartment while Bailey and Middleton were in detention, finding a gun and drugs in plain view. The police arrested Bailey, and seized his house keys and car key incident to his arrest; later, an officer discovered that one of the house keys opened the door to the basement apartment.</p>\n",
+    "conclusion": "<p>No. Justice Anthony M. Kennedy, writing for a 6-3 majority, reversed and remanded. The Supreme Court held that the rule from <em>Michigan v. Summers</em> did not apply because Bailey was not in or immediately outside the residence being searched when he was detained. Also, none of the law enforcement interests mentioned in <em>Summers</em> were served by detaining Bailey. Arrests incident to the execution of a search warrant are lawful under the Fourth Amendment, but once an individual leaves the premises being searched, any detention must be justified by another means. On remand, the Second Circuit should consider whether stopping Bailey was proper under <em>Terry v. Ohio</em>.</p>\n<p>Justice Antonin Scalia concurred, emphasizing that <em>Summers</em> provides a bright line rule for law enforcement to follow. The Second Circuit's balancing test was an improper and would make it harder for officers to decide whether a seizure is constitutionally permissible before carrying it out. Justice Ruth Bader Ginsburg and Justice Elena Kagan joined in the concurrence.</p>\n<p>Justice Stephen G. Breyer dissented, arguing that the majority applied an arbitrary geographical line instead of weighing actual Fourth Amendment concerns. Justice Clarence Thomas and Justice Samuel A. Alito, Jr. joined in the dissent.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 54979,
+    "name": "Carey v. Saffold",
+    "href": "https://api.oyez.org/cases/2001/01-301",
+    "view_count": 0,
+    "docket_number": "01-301",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1014789600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38692"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1024290000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38693"
+        }
+    ],
+    "question": "<p>Does the word \"pending,\" in the Antiterrorism and Effective Death Penalty Act of 1996, cover the time between a lower state court's decision and the filing of a notice of appeal to a higher state court? If so, does it apply similarly to California's unique state collateral review system?</p>\n",
+    "citation": {
+        "volume": "536",
+        "page": "214",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/18908"
+    },
+    "term": "2001",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/536/214/",
+    "facts_of_the_case": "<p>The Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA) requires a state prisoner seeking federal habeas relief to file his petition within one year after his state conviction becomes final, but excludes from that period the time during which an application for state collateral review is pending. In 1990, Tony Saffold was convicted and sentenced in California state court for murder, assault with a firearm, and robbery. Saffold filed a state habeas petition in California seven days before the federal deadline. Five days after the state trial court denied his petition, Saffold filed a further petition in the State Court of Appeal. Four and one-half months after that petition was denied, Saffold filed a further petition in the State Supreme Court, which denied the petition on the merits and for lack of diligence. The Federal District Court dismissed Saffold's subsequent federal habeas petition as untimely, finding that the federal statute of limitations was not tolled during the intervals between the denial of one state petition and the filing of the next because no application was pending during that time. In reversing, the Court of Appeals found that Saffold's petition was timely because the State Supreme Court based its decision not only on lack of diligence, but also on the merits.</p>\n",
+    "conclusion": "<p>Yes and yes. In a 5-4 opinion delivered by Justice Stephen G. Breyer, the Court held that, as used in AEDPA, \"pending\" covers the time between a lower state court's decision and the filing of a notice of appeal to a higher state court. The Court also held that the same rule applies to California's unique collateral review system, a system that does not involve a notice of appeal, but rather the filing within a reasonable time of a further original state habeas petition in a higher court. The Court reasoned that to rule otherwise would encourage state prisoners to file federal habeas petitions before the state completed collateral review. In remanding the question of whether Saffold's petition was pending, the Court concluded that the California Supreme Court's inclusion of the words \"on the merits\" could not by themselves indicate that the petition was timely. Justice Anthony M. Kennedy authored a dissent, in which Chief Justice William H. Rehnquist and Justices Antonin Scalia and Clarence Thomas joined.</p>\n"
+}

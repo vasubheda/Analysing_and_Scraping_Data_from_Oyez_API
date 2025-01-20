@@ -1,0 +1,42 @@
+{
+    "ID": 62165,
+    "name": "Green v. Brennan",
+    "href": "https://api.oyez.org/cases/2015/14-613",
+    "view_count": 0,
+    "docket_number": "14-613",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1430110800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51647"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1448863200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53284"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1463979600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53635"
+        }
+    ],
+    "question": "<p>Under federal employment discrimination law, does the filing period for a constructive discharge claim begin to run at the time of the employer\u2019s last allegedly discriminatory act?</p>\n",
+    "citation": {
+        "volume": "578",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/26947"
+    },
+    "term": "2015",
+    "description": "A case in which the Court held that the 45-day period in which an employee must file a constructive discharge claim under federal employment discrimination law begins to run on the date the employee resigns.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/578/14-613/",
+    "facts_of_the_case": "<p>Marvin Green began working for the United States Postal Service in 1973. In 2002, he became the postmaster at the Englewood, Colorado, post office. In 2008, a postmaster position opened in Boulder, and Green applied but did not receive the position. He filed a formal Equal Employment Opportunity (EEO) charge regarding the denial of his application, and the charge was settled. In 2009, Green filed an informal EEO charge and alleged that his supervisor and supervisor\u2019s replacement had been retaliating against him for his prior EEO activity. Throughout that year, Green was subject to internal Postal Service investigations including a threat of criminal prosecution. He ultimately signed an agreement that he would immediately give up his position and either retire or accept a much lower paying position. Green chose to retire and filed subsequent charges with the EEO Office, which dismissed his claim. Green then sued in district court and alleged, among other claims, that he had been constructively discharged. The district court held that Green\u2019s constructive discharge claim was barred because he did not contact an EEO counselor within 45 days of signing the agreement, which was the last allegedly discriminatory act, and the U.S. Court of Appeals for the Tenth Circuit affirmed.</p>\n",
+    "conclusion": "<p>Under federal employment discrimination law, the filing period for a constructive discharge claim begins to run only after the employee resigns. Justice Sonia Sotomayor delivered the opinion for the 7-1 majority. The Court held that the statutory language of Title VII of the Civil Rights Act clearly states that the 45-day statutory limitation period begins to run on the \u201cdate of the matter alleged to be discriminatory.\u201d Although the text does not clearly define the \u201cmatter alleged to be discriminatory,\u201d the default rule that a limitations period begins when the plaintiff has a complete and present cause of action applies here. To state a complete and present claim for constructive discharge, a plaintiff must prove both that his employer discriminated against him to the point where a reasonable person would feel compelled to resign and that he actually resigned. Because resignation is part of a complete and present cause of action of a constructive discharge claim, the 45-day period should begin when the employee resigns.</p>\n<p>In his opinion concurring in the judgment, Justice Samuel A. Alito, Jr. wrote that judicial precedent establishes that Title VII claims require that the statutory discrimination period begin with the employer\u2019s discriminatory act. In the case of a constructive discharge claim, if the employer intended for the employee to resign, then the employee\u2019s resignation is tantamount to an intentional termination by the employer and gives rise a a new limitations period. Justice Alito also expressed the concern that the rule the majority opinion announced would disincentivize reporting of potential Title VII violations at the earliest possible opportunity based on the underlying acts of discrimination.</p>\n<p>Justice Clarence Thomas wrote a dissent in which he argued that only an employer\u2019s discriminatory action can constitute a \u201cmatter alleged to be discriminatory\u201d under the meaning of Title VII. If the employer\u2019s actions took place more than 45 days before the plaintiff contacted the Equal Employment Opportunity Commission, the claim must be considered untimely. The majority\u2019s opinion expanded the constructive discharge doctrine by allowing it to have a different limitation period than other Title VII claims.</p>\n"
+}

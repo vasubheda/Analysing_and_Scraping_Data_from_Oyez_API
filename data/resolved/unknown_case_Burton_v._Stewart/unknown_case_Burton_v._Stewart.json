@@ -1,0 +1,42 @@
+{
+    "ID": 55415,
+    "name": "Burton v. Stewart",
+    "href": "https://api.oyez.org/cases/2006/05-9222",
+    "view_count": 0,
+    "docket_number": "05-9222",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1149483600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39757"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1162879200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39758"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1168322400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39759"
+        }
+    ],
+    "question": "<p>1) Is the holding in <em>Blakely v. Washington</em> a new rule or was it dictated by <em>Apprendi v. New Jersey</em>?</p>\n<p>2) If <em>Blakely</em> is a new rule, does its requirement that facts resulting in an enhanced statutory maximum be proved before a jury apply retroactively?</p>\n",
+    "citation": {
+        "volume": "549",
+        "page": "147",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20686"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/549/147/",
+    "facts_of_the_case": "<p>Burton was convicted of burglary, robbery, and rape. Under the standard state sentencing guidelines, the burglary and robbery alone warranted the maximum sentence for a single criminal event. In order to make sure the rape was punished as well, the trial judge added a consecutive sentence for the rape to the standard sentence.</p>\n<p>Burton filed a habeas corpus petition challenging his sentence in federal court. He argued that under <em>Blakely v. Washington</em>, handed down after his conviction, the jury rather than the judge should have decided whether to add the extra sentence. The government argued that the holding in <em>Blakely</em> was a \"new rule.\" Under the Court's decision in <em>Teague v. Lane</em>, new rules of criminal procedure do not apply retroactively. Burton countered that the relevant rule was actually established in <em>Apprendi v. New Jersey</em>, a decision handed down before his conviction became final. Burton also argued that even if <em>Blakely</em> is a new rule, it is essential for a fair trial. New rules that are essential for the fundamental fairness of trials can apply retroactively.</p>\n<p>The Ninth Circuit Court of Appeals ruled against Burton. The Appeals Court held that <em>Blakely</em> was a new rule, so it could not be used by Burton in his appeal.</p>\n",
+    "conclusion": "<p>Unanswered. In a 9-0 per curiam opinion, the Court ruled that Burton's habeas petition should be dismissed for lack of jurisdiction. Burton had earlier filed a habeas petition challenging his conviction. Four years later, when he filed the habeas petition challenging only his sentence, Burton neglected to obtain the court authorization necessary for a \"second or successive\" petition. The Ninth Circuit had excused Burton's oversight because his first petition was filed before his sentence became final, but the Court held that Burton's second petition was nevertheless a \"second or successive\" petition requiring authorization. Since Burton's petition was invalid, the Justices did not address either of the questions presented.</p>\n"
+}

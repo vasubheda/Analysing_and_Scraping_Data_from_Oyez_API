@@ -1,0 +1,35 @@
+{
+    "ID": 54070,
+    "name": "United States v. California",
+    "href": "https://api.oyez.org/cases/1992/91-2003",
+    "view_count": 0,
+    "docket_number": "91-2003",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                730447200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36993"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                735800400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36994"
+        }
+    ],
+    "question": "<p>May the United States Government receive compensation for the state of California's allegedly unfounded taxation of a private federal contractor?</p>\n",
+    "citation": {
+        "volume": "507",
+        "page": "746",
+        "year": "1993",
+        "href": "https://api.oyez.org/case_citation/case_citation/17999"
+    },
+    "term": "1992",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/507/746/",
+    "facts_of_the_case": "<p>From 1975 to 1985, the United States Government contracted with Williams Brothers Engineering Company (WBEC) to conduct the federal oil drilling in Kern County, California. By 1981, WBEC had accrued a state tax deficit of $14 million. After the Board of Equalization rejected WBEC's claim that those taxes were invalid, the company paid its deficit, and, according to WBEC's contract, was subsequently reimbursed by the United States Government. In January of 1988, WBEC continued to challenge the taxes by filing an action in state court. This action concluded with an agreement between the state of California and WBEC that the company receive a $3 million refund. The Federal Government filed a suit in the Eastern District of California in May of 1988, arguing that the remaining state taxes totaling $11 million were also illegitimate. The District Court ruled in favor of the state of California, and the Court of Appeals for the Ninth Circuit affirmed.</p>\n",
+    "conclusion": "<p>No. In a unanimous decision authored by Justice Sandra Day O'Connor, the Court determined that regardless of the fact that the Federal Government reimburses WBEC for its taxes, the private company is still the taxpayer. And, the taxpayer had its opportunity to go to court and challenge the state taxes imposed upon it, and accepted the result. The Court found that the Federal Government does not have a separate right to do so.</p>\n"
+}

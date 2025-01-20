@@ -1,0 +1,42 @@
+{
+    "ID": 62947,
+    "name": "Washington v. United States",
+    "href": "https://api.oyez.org/cases/2017/17-269",
+    "view_count": 0,
+    "docket_number": "17-269",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1515736800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54195"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1524027600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54232"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1528693200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54290"
+        }
+    ],
+    "question": "<ol><li>Does the \u201cright of taking fish, at all usual and accustomed grounds and stations ... in common with all citizens\u201d under a treaty guarantee \u201cthat the number of fish would always be sufficient to provide a \u2018moderate living\u2019 to the tribes\u201d?</li>\n<li>Did the district court err in dismissing the state's defense that the federal government\u2019s instructions for designing the culverts violated the treaties to which the state was a signatory?</li>\n<li>Does the district court\u2019s injunction violate principles of federalism and comity by requiring the state to replace hundreds of culverts, at a cost of several billion dollars, when the plaintiff Tribes have not showed a clear connection between culvert replacement and the supply of tribal fisheries?</li>\n</ol>",
+    "citation": {
+        "volume": "584",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27572"
+    },
+    "term": "2017",
+    "description": "A case in which the Court was asked to decide, among other things, whether the state of Washington\u2019s use of culverts to divert water violates its treaties with Indian tribes, and if so, whether the state must replace those culverts, at great cost.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/584/17-269/",
+    "facts_of_the_case": "<p>In 1854 and 1855, the federal Indian tribes in what is currently the state of Washington entered into a series of treaties, collectively known as the \u201cStevens Treaties,\u201d which provided that the Tribes would relinquish significant portions of their land to make up the state of Washington, and in exchange, they would be guaranteed the right to off-reservation fishing. This so-called \u201cfishing clause\u201d guaranteed the Tribes \u201cthe right of taking fish, at all usual and accustomed grounds and stations . . . in common with all citizens of the Territory.\u201d</p>\n<p>Since those treaties, there have been recurring and ongoing disputes between the Tribes and (originally) the white settlers there and (today) the state government itself. The present case arises from the Tribes\u2019 contention that the government was building and maintaining culverts (channels carrying water under roads or sidewalks) that diminished the size of salmon runs in traditional fishing areas for the Tribes. The 20+ Tribes represented in the suit allege that this diminishment amounts to violation of the fishing clause of the treaties.</p>\n<p>Washington contends that it constructed the culverts in a particular way according to federal law and that the federal requirement caused it to violate the treaties.</p>\n<p>The district court found for the Tribes and issued an injunction ordering Washington to correct its offending culverts. The Ninth Circuit affirmed.</p>\n",
+    "conclusion": "<p>In a per curiam opinion, an equally divided Court affirmed the lower court's decision. Justice Anthony Kennedy took no part in the consideration or decision of the case.</p>\n"
+}

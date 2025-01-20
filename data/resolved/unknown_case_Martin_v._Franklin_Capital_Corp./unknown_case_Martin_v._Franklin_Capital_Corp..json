@@ -1,0 +1,42 @@
+{
+    "ID": 55328,
+    "name": "Martin v. Franklin Capital Corp.",
+    "href": "https://api.oyez.org/cases/2005/04-1140",
+    "view_count": 0,
+    "docket_number": "04-1140",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1114405200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39530"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1131429600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39531"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1133935200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39532"
+        }
+    ],
+    "question": "<p>What standard should federal courts use when determining whether to award attorney's fees after an improperly removed case is remanded to state court?</p>\n",
+    "citation": {
+        "volume": "546",
+        "page": "132",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/20577"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/546/132/",
+    "facts_of_the_case": "<p>The Martins filed a class action lawsuit against the defendant companies in New Mexico state court in 1996, alleging illegal conduct with regard to auto financing and insurance contracts the parties had entered into. The defendants removed the case to federal court on diversity jurisdiction grounds under 28 U.S.C. \u00a7\u00a7 1332 and 1441. The Martins did not object or seek remand until over a year later, when they argued that their claims did not meet the $50,000 amount in controversy requirement for diversity jurisdiction. The district court denied the motion, agreeing with defendants' arguments that the punitive damages, attorneys' fees, and monetary relief for the named plaintiffs at issue in the case each exceeded the $50,000 threshold. The Martins requested that the district court certify its order denying remand so that they could seek interlocutory review, and the court denied their motion. The plaintiffs next requested that the district court grant judgment against them so that they could appeal the decision regarding jurisdiction, and the court granted their request.</p>\n<p>The plaintiffs then appealed to the 10th Circuit, and in a 2001 ruling, the appellate court reversed the lower court's ruling, rejecting the arguments that the amounts sought by the plaintiffs satisfied the diversity jurisdiction requirement. The court remanded the case with instructions to send it back to state court.</p>\n<p>Back in district court, the Martins moved for attorney's fees and expenses under \u00a7 1447(c), which provides for judicial discretion to make such an award in cases of improper removal. The district court denied this request on the grounds that the defendants had an objectively reasonable basis for removal at the time. The Martins again appealed to the 10th Circuit.</p>\n<p>The appellate court affirmed the district court's ruling, explaining that the district court had applied the proper standard under 10th Circuit precedent, stating that even in cases where removal was later found to be improper, if it was deemed to be objectively reasonable at the time, the court had discretion to deny an award of attorney's fees and expenses under \u00a7 1447(c); other circuits had employed a different standard. The appellate court also agreed with the district court's conclusion that the removal had an objectively legitimate basis at the time it occurred.</p>\n",
+    "conclusion": "<p>In a unanimous decision authored by Chief Justice John Roberts, the Court ruled that \"absent unusual circumstances, attorney's fees should not be awarded when the removing party has an objectively reasonable basis for removal.\" The Court admitted that Section 1447 is unclear on when attorney's fees should be added. The Court's reading of the statute detected no strong textual bias for or against awarding fees. Considering the likely motives of Congress, the Court ruled that attorney's fees should only be awarded when a party sought removal without an objectively reasonable basis. Since Franklin had such a basis, Martin was not entitled to any fees.</p>\n"
+}

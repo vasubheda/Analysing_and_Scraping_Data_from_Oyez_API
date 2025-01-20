@@ -1,0 +1,42 @@
+{
+    "ID": 62314,
+    "name": "Friedrichs v. California Teachers Association",
+    "href": "https://api.oyez.org/cases/2015/14-915",
+    "view_count": 0,
+    "docket_number": "14-915",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1435640400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52783"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1452492000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53324"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1459227600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53471"
+        }
+    ],
+    "question": "<p>(1) Do public-sector agency shop arrangements violate the First Amendment\u2019s protections for freedom of speech and assembly?</p>\n<p>(2) Does the First Amendment prohibit the practice of requiring public employees to affirmatively opt-out of subsidizing nonchargeable speech rather than to affirmatively consent?</p>\n",
+    "citation": {
+        "volume": "578",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27114"
+    },
+    "term": "2015",
+    "description": "A case in which the Court will determine whether the California agency shop arrangements and opt-out requirements for union relationships violate the First Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/578/14-915/",
+    "facts_of_the_case": "<p>California law allows unions to become the exclusive bargaining representative for the public school employees of that district and therefore have a great deal of influence over a wide range of conditions of employment. Once a union is the exclusive bargaining representative for the school district, it may establish an \u201cagency shop\u201d arrangement, which means that a school district may require a public school employee to either join the union or pay the equivalent of dues to the union in the form of a \u201cfair share service fee.\u201d Because the First Amendment prohibits unions from compelling nonmembers to support activities that are not exclusively devoted to negotiations, contract administration, and other duties as an exclusive bargaining representative, unions must send notices to all nonmembers laying out the breakdown of the chargeable and nonchargeable portions of the fee. To avoid paying for the nonchargeable portion of the fee, a nonmember must affirmatively opt out each year.</p>\n<p>Petitioners are a group of public school employees who sued the California Teachers Association and other similar organizations as well as school districts and argued that the agency shop arrangement and the opt-out requirement violated the First Amendment. The district court held that precedent upholding those practices precluded its judgment on the issue. The U.S. Court of Appeals for the Ninth Circuit affirmed.</p>\n",
+    "conclusion": "<p>In an unsigned per curiam opinion, the equally divided Court affirmed the judgment of the lower court.</p>\n"
+}

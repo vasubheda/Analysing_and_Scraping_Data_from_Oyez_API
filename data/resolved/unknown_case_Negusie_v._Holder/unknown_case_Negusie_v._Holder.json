@@ -1,0 +1,35 @@
+{
+    "ID": 55570,
+    "name": "Negusie v. Holder",
+    "href": "https://api.oyez.org/cases/2008/07-499",
+    "view_count": 0,
+    "docket_number": "07-499",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1225864800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51887"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1236060000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52235"
+        }
+    ],
+    "question": "<p>Can a foreign citizen who is denied asylum due to his involvement in the persecution of others on the basis of a protected ground argue that he was compelled to do so by his military superiors and, on several occasions, actually attempted to help those who were being persecuted?</p>\n",
+    "citation": {
+        "volume": "555",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20801"
+    },
+    "term": "2008",
+    "description": "A case in which the Court held that the Board of Immigration Appeals (BIA) incorrectly interpreted provisions of the Immigration and Nationality Act (INA) from a mistaken legal premise.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>Daniel Negusie, an Eritrean citizen, worked as a prison guard in Eritrea before seeking asylum in the United States. When Negusie tried to come into the country, however, the U.S. Immigration and Naturalization Service (INS) denied his application for asylum and withholding of removal. The INS based its decision on evidence that Negusie assisted in the persecution of prison inmates on the basis of a protected ground, specifically, the prisoners' Protestant religious beliefs. Negusie appealed his case to the Board of Immigration Appeals (BIA), arguing that he did not voluntarily assist in the persecution but rather attempted to help the individuals who were being mistreated.</p>\n<p>The BIA gave little weight to Negusie's argument that he was trying to help the prisoners, instead focusing on his more prominent involvement in the persecution as an armed guard who oversaw and was complicit in the acts. After the BIA upheld the INS' denial of his application for asylum and withholding of removal, Negusie filed a petition to have his case reviewed before the U.S. Court of Appeals for the Fifth Circuit. Finding that the evidence from the BIA decision did not compel a conclusion that Negusie was uninvolved in the persecution of inmates, the Fifth Circuit denied his petition.</p>\n",
+    "conclusion": "<p>Not answered. The Supreme Court held that the BIA and Fifth Circuit erred when they evaluated Mr. Negusie's asylum petition because they presumed it mandatory that an alien's coercion to persecute was immaterial when determining whether the \"persecutor bar\" applies. With Justice Anthony M. Kennedy writing for the majority and joined by Chief Justice John G. Roberts, Justice Antonin G. Scalia, Justice David H. Souter, Justice Ruth Bader Ginsburg, and Justice Samuel A. Alito, the Court found that the BIA failed to exercise its discretion when interpreting ambiguous provisions of the Immigration and Nationality Act (INA) and therefore interpreted the INA from a mistaken legal premise. The Court ordered that the BIA interpret the ambiguous provisions of the INA and then review Mr. Negusie's case with respect to its interpretation.</p>\n<p>Justice Scalia, joined by Justice Alito, wrote a separate concurring opinion noting that he would not have agreed to remand Mr. Negusie's case had the majority prevented the BIA from reaching the same conclusion once again. Justice John Paul Stevens, joined by Justice Stephen G. Breyer, concurred in part and dissented in part. He criticized the majority for failing to establish a standard for when the \"persecutor bar\" applies to an alien's asylum petition. Justice Clarence Thomas also dissented, arguing that the INA unambiguously precludes any inquiry into whether the persecutor acted voluntarily or was coerced.</p>\n"
+}

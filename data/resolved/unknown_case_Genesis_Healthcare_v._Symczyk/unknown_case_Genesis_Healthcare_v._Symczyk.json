@@ -1,0 +1,42 @@
+{
+    "ID": 55950,
+    "name": "Genesis Healthcare v. Symczyk",
+    "href": "https://api.oyez.org/cases/2012/11-1059",
+    "view_count": 0,
+    "docket_number": "11-1059",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1340600400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41211"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1354514400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41212"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1366088400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41213"
+        }
+    ],
+    "question": "<p>Does an offer of judgment providing full relief to a single plaintiff extinguish a collective action FLSA suit when no other parties had yet joined the suit?</p>\n",
+    "citation": {
+        "volume": "569",
+        "page": "66",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19872"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that a collective action suit on behalf of other \"similarly situated\" employees becomes moot when the individual claim does. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/569/66/",
+    "facts_of_the_case": "<p>Genesis Healthcare Corporation (\"Genesis\") employed Laura Symczyk as a registered nurse between April 2007 and December 2007. During her employment, Genesis implemented a policy that automatically deducted pay for employees' meal breaks whether or not they worked during those breaks. This prompted Symczyk to file a collective action on behalf of herself and all similarly situated individuals, alleging violation of the Fair Labor Standards Act (\"FLSA\"). In February 2010, Genesis offered to pay all of Symczyk's unpaid wages and attorney's fees. Symczyk did not respond to the offer. Genesis filed a motion to dismiss for lack of subject matter jurisdiction, claiming that Symczyk no longer had a real interest in the outcome of the action since they offered her full relief.</p>\n<p>Since Genesis made an offer of judgment and no one had yet joined Symczyk's collective action, the District Court dismissed the case. Symczyk appealed, and the U.S. Court of Appeals for the Third Circuit reversed and remanded. The Third Circuit held that a full offer of relief does not cause an FLSA collective action suit to be dismissed.</p>\n",
+    "conclusion": "<p>Yes. Justice Clarence Thomas delivered the opinion of the 5-4 majority. The Supreme Court held that established mootness principles determined that, in cases that lack other claimants, the suit on behalf of other \"similarly situated\" employees becomes moot when the individual claim does. Since Symczyk no longer had a personal interest and was not representing the interests of a broader class, the case was properly dismissed.</p>\n<p>In her dissenting opinion, Justice Elena Kagan argued that the premise on which the majority's decision is based\u2014that Symczyk's individual claim is moot\u2014is incorrect. She wrote that, because Symczyk rejected the settlement offer, she retained her personal interest in the case, and there was no reason to consider her claim moot. Justice Ruth Bader Ginsburg, Justice Stephen G. Breyer, and Justice Sonia Sotomayor joined in the dissent.</p>\n"
+}

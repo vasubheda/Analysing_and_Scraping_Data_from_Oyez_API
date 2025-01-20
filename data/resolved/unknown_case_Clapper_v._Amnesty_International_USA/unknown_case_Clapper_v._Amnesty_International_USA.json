@@ -1,0 +1,42 @@
+{
+    "ID": 55964,
+    "name": "Clapper v. Amnesty International USA",
+    "href": "https://api.oyez.org/cases/2012/11-1025",
+    "view_count": 0,
+    "docket_number": "11-1025",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1337576400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41252"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1351486800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41253"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1361858400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41254"
+        }
+    ],
+    "question": "<p>Do respondents have Article III standing to seek prospective relief under the FISA?</p>\n",
+    "citation": {
+        "volume": "568",
+        "page": "398",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19886"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that the respondents lacked Article III standing against FISA because fear of intercepted communication and costs incurred to avoid intercepted communications are not injuries.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/568/398/",
+    "facts_of_the_case": "<p>Several groups, including attorneys, journalists, and human rights organizations, brought a facial challenge to a provision of the Foreign Intelligence Surveillance Act (FISA). The provision creates new procedures for authorizing government electronic surveillance of non-U.S. persons outside the U.S. for foreign intelligence purposes. The groups argue that the procedures violate the Fourth Amendment, the First Amendment, Article III of the Constitution, and the principle of separation of powers. The new provisions would force these groups to take costly measures to ensure the confidentiality of their international communications. The District Court for the Southern District of New York granted summary judgment for the government, holding that the groups did not have standing to bring their challenge. The groups only had an abstract subjective fear of being monitored and provided no proof that they were subject to the FISA. The U.S. Court of Appeals for the Second Circuit reversed, holding that the groups had standing based on a reasonable fear of injury and costs incurred to avoid that injury.</p>\n",
+    "conclusion": "<p>No. Justice Samuel A. Alito, writing for a 5-4 majority, reversed and remanded for further proceedings. The Court held that the respondents did not have standing under Article III of the U.S. Constitution because no injury occurred. Claiming a reasonable likelihood that their communications would be intercepted under FISA is not enough to show future injury for standing purposes. The Court also refused to acknowledge a present injury stemming from the respondents' choice to take costly measures to protect their confidential communications.</p>\n<p>Justice Stephen G. Breyer dissented, arguing that the future harm to respondents is not speculative and therefore should be sufficient to establish standing. Since there is a high probability that the government will intercept at least some of the respondents' communications, the respondents should have standing to bring the suit. Justice Ruth Bader Ginsburg, Justice Sonia Sotomayor, and Justice Elena Kagan joined in the dissent.</p>\n"
+}

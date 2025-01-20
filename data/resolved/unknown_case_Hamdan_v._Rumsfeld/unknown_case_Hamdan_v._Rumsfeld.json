@@ -1,0 +1,42 @@
+{
+    "ID": 55307,
+    "name": "Hamdan v. Rumsfeld",
+    "href": "https://api.oyez.org/cases/2005/05-184",
+    "view_count": 0,
+    "docket_number": "05-184",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1131343200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39474"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1143525600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39475"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1151557200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39476"
+        }
+    ],
+    "question": "<p>May the rights protected by the Geneva Convention be enforced in federal court through habeas corpus petitions? Was the military commission established to try Hamdan and others for alleged war crimes in the War on Terror authorized by the Congress or the inherent powers of the President?</p>\n",
+    "citation": {
+        "volume": "548",
+        "page": "557",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/19235"
+    },
+    "term": "2005",
+    "description": "A case in which the Court found that the rights given by the Geneva Convention to prisoners of war could be enforced by federal court.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/548/557/",
+    "facts_of_the_case": "<p>Salim Ahmed Hamdan, Osama bin Laden's former chauffeur, was captured by Afghan forces and imprisoned by the U.S. military in Guantanamo Bay. He filed a petition for a writ of habeas corpus in federal district court to challenge his detention. Before the district court ruled on the petition, he received a hearing from a military tribunal, which designated him an enemy combatant.</p>\n<p>A few months later, the district court granted Hamdan's habeas petition, ruling that he must first be given a hearing to determine whether he was a prisoner of war under the Geneva Convention before he could be tried by a military commission. The Circuit Court of Appeals for the District of Columbia reversed the decision, however, finding that the Geneva Convention could not be enforced in federal court and that the establishment of military tribunals had been authorized by Congress and was therefore not unconstitutional.</p>\n",
+    "conclusion": "<p>Yes and no. The Supreme Court, in a 5-to-3 decision authored by Justice John Paul Stevens, held that neither an act of Congress nor the inherent powers of the Executive laid out in the Constitution expressly authorized the sort of military commission at issue in this case. Absent that express authorization, the commission had to comply with the ordinary laws of the United States and the laws of war. The Geneva Convention, as a part of the ordinary laws of war, could therefore be enforced by the Supreme Court, along with the statutory Uniform Code of Military Justice. Hamdan's exclusion from certain parts of his trial deemed classified by the military commission violated both of these, and the trial was therefore illegal. Justices Scalia, Thomas, and Alito dissented. Chief Justice John Roberts, who participated in the case while serving on the DC Circuit Court of Appeals, did not take part in the decision.</p>\n"
+}

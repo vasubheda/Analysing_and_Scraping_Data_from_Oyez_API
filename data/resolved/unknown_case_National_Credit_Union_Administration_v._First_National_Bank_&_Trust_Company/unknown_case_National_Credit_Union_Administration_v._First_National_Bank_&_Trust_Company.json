@@ -1,0 +1,35 @@
+{
+    "ID": 54656,
+    "name": "National Credit Union Administration v. First National Bank & Trust Company",
+    "href": "https://api.oyez.org/cases/1997/96-843",
+    "view_count": 0,
+    "docket_number": "96-843",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                876114000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38088"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                888386400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38089"
+        }
+    ],
+    "question": "<p>Do banks and professional associations have standing under the Administrative Procedure Act to seek federal-court review of the National Credit Union Administration's decisions? Is the NCUA's interpretation of section 109 of the Federal Credit Union Act permissible?</p>\n",
+    "citation": {
+        "volume": "522",
+        "page": "479",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18585"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/522/479/",
+    "facts_of_the_case": "<p>Section 109 of the Federal Credit Union Act provides that that \"federal credit union membership shall be limited to groups having a common bond of occupation or association, or to groups within a well-defined neighborhood, community, or rural district.\" The National Credit Union Administration (NCUA) interprets section 9 to permit federal credit unions to be composed of multiple, unrelated employer groups, each having its own distinct common bond of occupation. Under this interpretation, the NCUA approved a series of charter amendments adding several unrelated employer groups to the membership of AT&amp;T Family Federal Credit Union, which now has approximately 110,000 members nationwide only 35% of whom are employees of AT&amp;T and its affiliates. Subsequently, a number of private actors brought suit under the Administrative Procedure Act, asserting that the NCUA's decision was contrary to law because section 109 unambiguously requires that the same common bond of occupation unite each member of an occupationally defined federal credit union and members of the new groups did not share a common bond of occupation with AT&amp;T Family Federal Credit Union's existing members. Ultimately, the District Court held that the private interests lack standing to challenge NCUA's decision and the Court of Appeals reversed.</p>\n",
+    "conclusion": "<p>Yes and no. In a 5-4 opinion delivered by Justice Clarence Thomas, the Court held that banks and professional associations have prudential standing under the APA to seek federal-court review of the NCUA's interpretation of section 109. By the same majority, the Court also held that the NCUA's interpretation of section 109, under which a common bond of occupation must unite only the members of each unrelated employer group, is impermissible. After concluding that the banks and professional associations' interests fall within the \"zone of interests\" protected by section 109, Justice Thomas wrote that the NCUA's interpretation \"has the potential to read [\"shall be limited\"] out of the statute entirely.\"</p>\n"
+}

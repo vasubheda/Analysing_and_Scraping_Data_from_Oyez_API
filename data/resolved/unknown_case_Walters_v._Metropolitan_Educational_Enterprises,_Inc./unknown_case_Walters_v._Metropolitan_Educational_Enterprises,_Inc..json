@@ -1,0 +1,35 @@
+{
+    "ID": 54542,
+    "name": "Walters v. Metropolitan Educational Enterprises, Inc.",
+    "href": "https://api.oyez.org/cases/1996/95-259",
+    "view_count": 0,
+    "docket_number": "95-259",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                847260000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37877"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                853221600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37878"
+        }
+    ],
+    "question": "<p>Does an employer \"have\" an employee on any working day on which the employer maintains an employment relationship with the employee as pursuant to Title VII of the Civil Rights Act of 1964?</p>\n",
+    "citation": {
+        "volume": "519",
+        "page": "202",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18471"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/519/202/",
+    "facts_of_the_case": "<p>In 1990, Darlene Walters was fired by Metropolitan Educational Enterprises, Inc. (Metropolitan). Soon thereafter, Walters filed an employment discrimination charge against Metropolitan under Title VII of the Civil Rights Act of 1964 with the Equal Employment Opportunity Commission (EEOC). The EEOC sued Metropolitan alleging that the firing violated Title VII's anti-retaliation provision. Metropolitan filed a motion to dismiss for lack of subject-matter jurisdiction, claiming that it was not an \"employer\" covered by Title VII because, at the time of the alleged retaliation, it was not \"a person . . . who has fifteen or more employees for each working day in each of twenty or more calendar weeks in the current or preceding calendar year.\" The parties stipulated that Metropolitan failed to satisfy the 15-employee threshold in 1989; that, during most of 1990, it had between 15 and 17 employees on its payroll on each working day; and that, during 1990, there were only nine weeks in which it was actually compensating 15 or more employees on each working day. The District Court dismissed the case. It reasoned that employees may be counted for Title VII purposes only on days on which they actually performed work or were being compensated despite their absence as opposed to any working day on which the employer maintains an employment relationship with the employee. The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous decision, authored by Justice Antonin Scalia, the Court ruled that the ultimate touchstone under Title VII of the Civil Rights Act of 1964 is whether an employer has employment relationships with 15 or more individuals for each working day in 20 or more weeks during the year in question.</p>\n"
+}

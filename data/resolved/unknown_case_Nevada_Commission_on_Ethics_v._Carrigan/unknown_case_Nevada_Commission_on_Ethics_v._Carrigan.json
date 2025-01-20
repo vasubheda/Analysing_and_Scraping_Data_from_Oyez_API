@@ -1,0 +1,42 @@
+{
+    "ID": 55804,
+    "name": "Nevada Commission on Ethics v. Carrigan",
+    "href": "https://api.oyez.org/cases/2010/10-568",
+    "view_count": 0,
+    "docket_number": "10-568",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1294380000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40795"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1303880400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40796"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1307941200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40797"
+        }
+    ],
+    "question": "<p>Does the First Amendment subject state restrictions on voting by elected officials to strict scrutiny?</p>\n",
+    "citation": {
+        "volume": "564",
+        "page": null,
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19726"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that the Nevada law requiring elected officials to disqualify themselves when they are asked to vote on matters that present a conflict of interest was constitutional.  ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/564/117/",
+    "facts_of_the_case": "<p>Nevada law requires elected officials to disqualify themselves when they are asked to vote on matters that touch on ''commitments in a private capacity.'' In 2006, a member of the Sparks City, Nevada Council, Michael A. Carrigan, disclosed that his campaign manager was a consultant to a business seeking to develop a casino, before voting its way in a land-use matter. The Nevada Commission on Ethics later ruled that the vote was improper and censured Carrigan.</p>\n<p>The Nevada Supreme Court reversed that decision, saying it violated the First Amendment and citing the Supreme Court's decision last year in <em>Citizens United v. Federal Election Commission</em>. ''Voting by an elected public officer on public issues is protected speech under the First Amendment, '' Justice Michael Douglas wrote for the majority.</p>\n",
+    "conclusion": "<p>No. The Supreme Court reversed the lower court order in an opinion by Justice Antonin Scalia. \"The Nevada Ethics in Government Law is not unconstitutionally overbroad,\" Scalia wrote for the unanimous court. Justice Anthony Kennedy filed a concurring opinion in which he noted: \"the opinion does not, and on this record should not, consider a free speech contention that would have presented issues of considerable import, were it to have been a proper part of the case.\" Meanwhile, Justice Samuel Alito concurred in part and concurred in the judgment, writing: \"I concur in the judgment, but I do not agree with the opinion of the Court insofar as it suggests that restrictions upon legislators' voting are not restrictions upon legislators' speech.\"</p>\n"
+}

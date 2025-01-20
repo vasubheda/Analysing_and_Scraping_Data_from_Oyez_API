@@ -1,0 +1,35 @@
+{
+    "ID": 54554,
+    "name": "Idaho v. Coeur d'Alene Tribe of Idaho",
+    "href": "https://api.oyez.org/cases/1996/94-1474",
+    "view_count": 0,
+    "docket_number": "94-1474",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                845442000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37897"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                867042000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37898"
+        }
+    ],
+    "question": "<p>May Indian Tribes proceed with suits against state officials in light of the sovereign immunity provided by the Eleventh Amendment?</p>\n",
+    "citation": {
+        "volume": "521",
+        "page": "261",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18483"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/521/261/",
+    "facts_of_the_case": "<p>The Coeur d'Alene Tribe (the Tribe) of Idaho filed an action against the State of Idaho, various state agencies, and numerous state officials alleging ownership of the submerged lands and bed of Lake Coeur d'Alene and various navigable tributaries and effluents lying within the original boundaries of the Coeur d'Alene Reservation. The Tribe sought a declaratory judgment establishing its entitlement to the exclusive use and occupancy and the right to quiet enjoyment of the submerged lands, a declaration of the invalidity of all Idaho laws, customs, or usages purporting to regulate those lands, and a preliminary and permanent injunction prohibiting defendants from taking any action in violation of the Tribe's rights in the lands. Ultimately, the District Court dismissed all the components of the complaint on Eleventh Amendment immunity grounds, for failure to state a claim upon which relief could be granted, and on the merits. The Court of Appeals affirmed that the Eleventh Amendment barred all claims against the State and its agencies, as well as the title action against the officials. However, it allowed the claims for declaratory and injunctive relief against the state officials to proceed insofar as they sought to preclude continuing violations of federal law. The court reasoned that those claims were based on Idaho's ongoing interference with the Tribe's alleged ownership rights, and found it conceivable that the Tribe could prove facts entitling it to relief on the claims.</p>\n",
+    "conclusion": "<p>No. In an 5-4 decision, authored by Justice Anthony Kennedy, the Court ruled that the Coeur d'Alene Tribe's suit against the state officials may not proceed in federal court because States enjoy Eleventh Amendment immunity in suits filed by Indian tribes. Justice Kennedy concluded, \"the present suit is barred unless it falls within the exception this Court has recognized for certain suits seeking declaratory and injunctive relief against state officers in their individual capacities.\"</p>\n"
+}

@@ -1,0 +1,33 @@
+{
+    "ID": 63684,
+    "name": "Delligatti v. United States",
+    "href": "https://api.oyez.org/cases/2024/23-825",
+    "view_count": 0,
+    "docket_number": "23-825",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1717390800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55469"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1731391200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55526"
+        }
+    ],
+    "question": "<p>Does a crime that requires proof of bodily injury or death, but which can be committed by failing to take action, have as an element the use, attempted use, or threatened use of physical force?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28018"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether a crime that requires proof of bodily injury or death, but can be committed by failing to take action, has as an element the use, attempted use, or threatened use of physical force.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-825/"
+}

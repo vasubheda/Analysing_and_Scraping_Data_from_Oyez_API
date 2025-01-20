@@ -1,0 +1,42 @@
+{
+    "ID": 55147,
+    "name": "Raytheon Company v. Hernandez",
+    "href": "https://api.oyez.org/cases/2003/02-749",
+    "view_count": 0,
+    "docket_number": "02-749",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1046066400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39028"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1065589200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39029"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1070344800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39030"
+        }
+    ],
+    "question": "<p>Does the Americans with Disabilities Act permit employers to refuse to rehire job applicants because of prior workplace rule infractions related to drug or alcohol addiction?</p>\n",
+    "citation": {
+        "volume": "540",
+        "page": "44",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/19076"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/540/44/",
+    "facts_of_the_case": "<p>In 1991, Joel Hernandez tested positive for cocaine use in a drug test administered by his employer. As a result of the incident, he was forced to resign. In 1994, he reapplied for a job from the company. His application was rejected. Hernandez claimed that the company was discriminating against him because of his drug and alcohol addiction (though at the time he reapplied he had been sober for two years) in violation of the Americans with Disabilities Act of 1990. The district court sided with the company, dismissing the case before it ever went to trial. A Ninth Circuit Court of Appeals panel unanimously reversed, however, holding that Raytheon's decision not to rehire Hernandez because of an incident related to his past addiction could constitute discrimination under the act.</p>\n",
+    "conclusion": "<p>Yes. The Court unanimously held that an employer may refuse to rehire an employee who was terminated in connection with drug or alcohol-related incidents as long as the refusal is based on a policy of not rehiring employees who previously violated workplace rules rather than on the worker's addiction. That is, an employer may refuse to hire someone who was terminated for coming to work under the influence, but may not refuse to hire someone whose previous addiction did not result in any workplace rule infractions. Justices David Souter and Stephen Breyer took no part in this case.</p>\n"
+}

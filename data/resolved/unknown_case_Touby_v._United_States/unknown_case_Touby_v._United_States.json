@@ -1,0 +1,35 @@
+{
+    "ID": 53854,
+    "name": "Touby v. United States",
+    "href": "https://api.oyez.org/cases/1990/90-6282",
+    "view_count": 0,
+    "docket_number": "90-6282",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                671864400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36587"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                674715600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36588"
+        }
+    ],
+    "question": "<p>Did the Controlled Substances Act unconstitutionally delegate legislative power to the Attorney General?</p>\n<p>(1)Does the Act allow the Attorney General to delegate authority to the Drug Enforcement Agency?</p>\n<p>\u00a0</p>\n",
+    "citation": {
+        "volume": "500",
+        "page": "160",
+        "year": "1991",
+        "href": "https://api.oyez.org/case_citation/case_citation/17783"
+    },
+    "term": "1990",
+    "description": "A case in which the Court held that the Controlled Substances Act allows the Attorney General to delegate authority to the Drug Enforcement Agency. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/500/160/",
+    "facts_of_the_case": "<p>In 1970, Congress enacted the Controlled Substances Act, which established five categories, or \u201cschedules,\u201d of substances for the purposes of regulation and prosecution. The Act grants the Attorney General the authority to add or remove substances and to move substances among the schedules. The Act also lays out specific procedures in order for the Attorney General to exercise this authority. Because the procedures lengthened the process of making any changes to the enforcement of the Act, drug manufacturers were able to develop products that took advantage of unforeseen loopholes in the Act. In 1984, Congress amended the Act to allow the Attorney General to temporarily schedule drugs, which expedited the enforcement process. The Attorney General then delegated these temporary scheduling powers to the Drug Enforcement Agency (DEA), which temporarily scheduled the designer drug \u201cEuphoria\u201d as a Schedule I substance.</p>\n<p>During this time, the DEA executed a valid search warrant on the home of Daniel and Lyrissa Touby, where they found a fully operational Euphoria laboratory. The Toubys were indicted for manufacturing and conspiring to manufacture Euphoria. They moved for dismissal by arguing that the Controlled Substances Act unconstitutionally delegates legislative power to the Attorney General and the Attorney General improperly delegated authority to the DEA. The district court denied the motion, and the Toubys were convicted. The U.S. Court of Appeals for the Third Circuit affirmed the convictions.</p>\n<p>\u00a0</p>\n",
+    "conclusion": "<p>No, yes. Justice Sandra Day O\u2019Connor delivered the opinion of the 9-0 majority. The Court held that the nondelegation doctrine allows Congress to seek the assistance of other branches of government by leaving a certain degree of discretion up to other actors. By providing sufficient guidance to, and placing specific restrictions on, the Attorney General in the Controlled Substances Act, Congress did not unconstitutionally delegate legislative power. The Court also held that the Act permits the Attorney General to delegate authority to other officers and employees of the Department of Justice, so the delegation to the Drug Enforcement Agency was appropriate.</p>\n<p>In his concurring opinion, Justice Thurgood Marshall wrote that the Controlled Substances Act allows judicial review as a method of ensuring the constitutionality of the temporary scheduling and delegation. He also argued that the issue of delegation of powers within a branch of government is addressed by the Due Process Clause, and the majority\u2019s decision does not examine the case within that framework.</p>\n<p>\u00a0</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55352,
+    "name": "Marshall v. Marshall",
+    "href": "https://api.oyez.org/cases/2005/04-1544",
+    "view_count": 0,
+    "docket_number": "04-1544",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1127797200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39595"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1141106400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39596"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1146459600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39597"
+        }
+    ],
+    "question": "<p>(1) What is the scope of the \"probate exception\" to federal jurisdiction? (2) Does the exception apply to cases that do not directly involve the administration of a will or estate?</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "293",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20598"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/547/293/",
+    "facts_of_the_case": "<p>Vickie Lynn Marshall (a.k.a. Anna Nicole Smith) was involved in a dispute in Texas Probate Court over the estate of her late husband, J. Howard Marshall. While the state-court proceedings were ongoing, Ms. Marshall filed for bankruptcy in federal court. E. Pierce Marshall, J. Howard's son, filed a claim alleging that Ms. Marshall had defamed him, and she filed a counterclaim alleging that E. Pierce had interfered with a gift she expected from her late husband's estate. The bankruptcy court ruled for Ms. Marshall and awarded her a large monetary award. Later, the probate court found J. Howard's will valid and ruled for his son. Under the judicially-created \"probate exception\" to federal jurisdiction, federal courts do not interfere with state-court judgments concerning wills and estates. E. Pierce Marshall appealed the bankruptcy court decision (awarding Ms. Marshall a large monetary award) to federal district court, invoking the probate exception to argue that the court had no jurisdiction. The district court disagreed and ruled for Ms. Marshall, holding that since her claim did not require invalidating the will, the probate exception did not apply. The Ninth Circuit reversed, broadly interpreting the probate exception as covering any question that would normally be handled in probate court.</p>\n",
+    "conclusion": "<p>In a unanimous decision authored by Justice Ruth Bader Ginsburg, the Court reversed the Ninth Circuit and held that the probate exception did not apply. The Court's opinion stressed the \"distinctly limited scope\" of the exception. The Justices explained that while the probate exception was intended to preserve state-court control over wills and estates, it does not remove from federal jurisdiction every suit arising out of probate matters. In Ms. Marshall's case, her claim did not directly involve the validation of J. Howard Marshall's will or the administration of his estate, so the exception did not apply and the federal courts had jurisdiction.</p>\n"
+}

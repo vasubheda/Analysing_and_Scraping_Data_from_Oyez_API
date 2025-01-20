@@ -1,0 +1,35 @@
+{
+    "ID": 54562,
+    "name": "Lambrix v. Singletary",
+    "href": "https://api.oyez.org/cases/1996/96-5658",
+    "view_count": 0,
+    "docket_number": "96-5658",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                853308000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37909"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                863413200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37910"
+        }
+    ],
+    "question": "<p>Can a Florida killer's death sentence be challenged even though it was based on aggravating factors later ruled to be unconstitutional?</p>\n",
+    "citation": {
+        "volume": "520",
+        "page": "518",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18491"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/520/518/",
+    "facts_of_the_case": "<p>In the sentencing phase of the trial at which Cary Michael Lambrix was convicted on two counts of first degree murder, the Florida state court jury rendered an advisory verdict recommending death sentences on both counts. Finding numerous aggravating circumstances in connection with both murders, and no mitigating circumstances as to either, the trial court sentenced Lambrix to death on both counts. After his conviction and sentence were upheld by the Florida courts, Lambrix filed a habeas corpus petition in the Federal District Court, which rejected all of his claims. While Lambrix's appeal was pending before the Court of Appeals, The U.S. Supreme Court handed down a ruling that if the sentencing judge in a \"weighing\" State (i.e., a State such as Florida that requires specified aggravating circumstances to be weighed against any mitigating circumstances at a capital trial's sentencing phase) is required to give deference to a jury's advisory sentencing recommendation, then neither the jury nor the judge is constitutionally permitted to weigh invalid aggravating circumstances. Lambrix claimed that his sentencing jury was improperly instructed on the \"especially heinous, atrocious, or cruel\" aggravator. The Court of Appeals held its proceedings in abeyance to permit Lambrix to present his claim to the Florida Supreme Court, which rejected the claim without considering its merits on the ground that the claim was procedurally barred. The Court of Appeals denied relief, ruling that the U.S. Supreme Court had announced a \"new rule\" which could not be applied retroactively on federal habeas corpus petitions.</p>\n",
+    "conclusion": "<p>No. In a 5-4 decision, authored by Justice Antonin Scalia, the Court ruled that a prisoner whose conviction became final before the ruling, which held that if the sentencing judge in a \"weighing\" State is required to give deference to a jury's advisory sentencing recommendation, then neither the jury nor the judge is constitutionally permitted to weigh invalid aggravating circumstances, is foreclosed from relying on that decision in a federal habeas corpus proceeding. Justice Scalia wrote for the court that the later ruling announced a \"new rule\" that could not be applied to already-finalized convictions challenged in federal habeas corpus petitions.</p>\n"
+}

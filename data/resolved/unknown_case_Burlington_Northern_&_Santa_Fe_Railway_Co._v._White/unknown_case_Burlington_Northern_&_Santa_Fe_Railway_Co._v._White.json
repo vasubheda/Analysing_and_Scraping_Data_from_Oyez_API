@@ -1,0 +1,42 @@
+{
+    "ID": 55286,
+    "name": "Burlington Northern & Santa Fe Railway Co. v. White",
+    "href": "https://api.oyez.org/cases/2005/05-259",
+    "view_count": 0,
+    "docket_number": "05-259",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1133762400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39417"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1145250000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39418"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1150952400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39419"
+        }
+    ],
+    "question": "<p>Did Sheila White suffer retaliatory discrimination for which her employer may be held liable under Title VII of the Civil Rights Act of 1964?</p>\n",
+    "citation": {
+        "volume": "548",
+        "page": "53",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20631"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/548/53/",
+    "facts_of_the_case": "<p>Sheila White was the only woman working in the Maintenance of Way Department of the Burlington Northern Santa Fe Railroad's Tennessee Yard. After she complained of harassment by her supervisor, White was moved from duties as a forklift operator to less desirable duties as a track laborer, though her job classification remained the same. She was also suspended for 37 days without pay, but was eventually reinstated and given full back pay.</p>\n<p>White filed suit in federal court, where a jury rejected her claims of sex discrimination but awarded her damages of $43,000 after finding that she had been retaliated against for her complaints, in violation of Title VII of the Civil Rights Act of 1964. On appeal, Burlington Northern argued that White had not suffered \"adverse employment action,\" and therefore could not bring the suit, because she had not been fired, demoted, denied a promotion, or denied wages. The Sixth Circuit Court of Appeals disagreed, finding that the suspension without pay - even if back pay was eventually awarded - was an \"adverse employment action,\" as was the change of responsibilities within the same job category.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court unanimously agreed that White suffered retaliatory discrimination when she was reassigned to less desirable duties and suspended without pay. Though the duties were within the same classification and the pay was eventually reinstated, the action was nevertheless sufficiently harsh to constitute retaliatory discrimination. In a decision authored by Justice Stephen Breyer and joined by Chief Justice Roberts and six other justices, the Court held that in order to prevail on a claim of retaliatory discrimination, \"a plaintiff must show that a reasonable employee would have found the challenged action materially adverse, which in this context means it well might have dissuaded a reasonable worker from making or supporting a charge of discrimination.\" (internal citations omitted) Justice Samuel Alito wrote separately, agreeing with the result but arguing that the test adopted by the other members of the Court would eventually prove problematic.</p>\n"
+}

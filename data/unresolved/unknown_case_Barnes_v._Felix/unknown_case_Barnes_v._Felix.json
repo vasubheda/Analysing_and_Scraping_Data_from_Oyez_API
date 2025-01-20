@@ -1,0 +1,33 @@
+{
+    "ID": 63710,
+    "name": "Barnes v. Felix",
+    "href": "https://api.oyez.org/cases/2024/23-1239",
+    "view_count": 0,
+    "docket_number": "23-1239",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1728018000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55538"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1737525600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55560"
+        }
+    ],
+    "question": "<p>Should courts apply the \u201cmoment of the threat\u201d doctrine when evaluating an excessive force claim under the Fourth Amendment?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28044"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether courts should apply the \u201cmoment of the threat\u201d doctrine when evaluating an excessive force claim under the Fourth Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-1239/"
+}

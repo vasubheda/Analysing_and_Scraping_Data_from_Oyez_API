@@ -1,0 +1,42 @@
+{
+    "ID": 55339,
+    "name": "Kircher v. Putnam Funds Trust",
+    "href": "https://api.oyez.org/cases/2005/05-409",
+    "view_count": 0,
+    "docket_number": "05-409",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1136527200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39559"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1145854800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39560"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1150347600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39561"
+        }
+    ],
+    "question": "<p>Can a federal district court's decision to send a case back to state court because its removal to federal court was not required by the Security Litigation Uniform Standards Act be reviewed by a circuit court of appeals under 28 U.S.C. 1447(d)?</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "633",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20635"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>The Security Litigation Uniform Standards Act (SLUSA) states that class action lawsuits involving more than 50 plaintiffs alleging untruth or manipulation \"in connection with the purchase or sale\" of certain securities may be moved from state court to federal district court. In this case, several class action suits, each involving more than 50 investors in covered securities, were brought in various state courts over the devaluation of the plaintiffs' investments by Putnam Funds Trust and other mutual funds. The mutual funds asked to have the cases heard in federal court, and the state courts agreed. The federal district court sent the cases back to the state courts, however, finding that SLUSA does not cover suits over devaluation, only those related to purchases or sales. When the mutual funds appealed the decision to the Seventh Circuit Court of Appeals, the plaintiffs objected to the appeal because 28 U.S.C. 1447(d) prohibits appeals court review of federal district court decisions to remand cases to state court for lack of jurisdiction. The appeals court, however, found that the district court's decision had been substantive, not jurisdictional, and was therefore not covered by 1447(d). The appeals court then ruled that the plaintiff's claims could not be brought under SLUSA.</p>\n",
+    "conclusion": "<p>No. In an opinion by Justice David Souter, the Supreme Court unanimously held that the district court's decision had been jurisdictional and that the appeals court's review was therefore barred by 1447(d). Quoting <em>Briscoe v. Bell</em>, 432 U.S. 404, Justice Souter wrote that \"where the order is based on one of the [grounds enumerated in 28 U.S.C. 1447(c)], review is unavailable no matter how plain the legal error in ordering the remand.\"</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55949,
+    "name": "Arkansas Game & Fish Commission v. United States of America",
+    "href": "https://api.oyez.org/cases/2012/11-597",
+    "view_count": 0,
+    "docket_number": "11-597",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1333342800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41208"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1349240400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41209"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1354600800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41210"
+        }
+    ],
+    "question": "<p>Is the United States liable under the Fifth Amendment's takings clause for physically taking property through temporary flood invasions?</p>\n",
+    "citation": {
+        "volume": "568",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19871"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held the Fifth Amendment's Taking Clause could be enacted when a temporary flood regime destroyed property.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/568/23/",
+    "facts_of_the_case": "<p>From 1993 through 2000, the United States Army Corps of Engineers imposed a temporary flood regime around the Dave Donaldson Black River Wildlife Management Area. The flood regime caused flooding across the region encompassed by the wildlife management area, which restricted access to and destroyed or degraded thousands of timber trees.</p>\n<p>The petitioners brought a case in federal court in an attempt to recover under the takings clause of the Fifth Amendment for the loss of their property resulting from the United State's flood regime. The federal court held that the flood regime constituted a Fifth Amendment taking and that the United States owed petitioners approximately $5.6 million as just compensation.</p>\n<p>The government appealed, and the appellate court reversed the lower court's judgment. The appellate court reasoned that the flood regime was a temporary government action, and that only a permanent flooding condition would constitute a taking under the Fifth Amendment. The petitioners appealed the appellate court's decision.</p>\n",
+    "conclusion": "<p>Yes, in some cases. Justice Ruth Bader Ginsburg, writing for an 8-0 majority, reversed the Federal Circuit and remanded for further proceedings. The Supreme Court held that there is no temporary flooding exception to the Takings Clause. Prior precedent clearly establishes that a temporary interference with property can constitute a compensable taking. The length and severity of the interference is just one factor among many a court must consider when determining whether a specific action was a taking. Other factors include the intent behind the action and the degree to which the interference was a foreseeable result of an authorized government action. On remand, the Federal Circuit must decide whether the circumstances in this case constituted a Fifth Amendment taking.</p>\n"
+}

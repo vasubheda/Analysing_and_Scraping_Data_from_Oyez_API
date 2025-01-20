@@ -1,0 +1,35 @@
+{
+    "ID": 54078,
+    "name": "Graham v. Collins",
+    "href": "https://api.oyez.org/cases/1992/91-7580",
+    "view_count": 0,
+    "docket_number": "91-7580",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                719038800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37009"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                727941600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37010"
+        }
+    ],
+    "question": "<p>Would granting Graham the writ of habeas corpus create a new constitutional rule that would require special jury instructions on the consideration of the mitigating circumstances the defense presented?</p>\n",
+    "citation": {
+        "volume": "506",
+        "page": "461",
+        "year": "1993",
+        "href": "https://api.oyez.org/case_citation/case_citation/18007"
+    },
+    "term": "1992",
+    "description": "A case in which the Court declined to create a new constitutional rule that would require special jury instructions to consider the mitigating circumstances of the defendant's youth and troubled family life. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/506/461/",
+    "facts_of_the_case": "<p>On May 13, 1981, 17-year-old Gary Graham accosted Bobby Grant Lambert in the parking lot of a Safeway grocery store in Houston, Texas, and attempted to steal his wallet. When Lambert refused to hand it over, Graham shot and killed him. Graham was convicted of capital murder and sentenced to death.</p>\n<p>Graham petitioned for a writ of habeas corpus by arguing that the sentencing jury should have considered the mitigating circumstances of his youth and troubled family life. The district court denied the petition, and the United States Court of Appeals for the Fifth Circuit affirmed. The Supreme Court remanded the case to the Court of Appeals, and a panel reversed the district court\u2019s ruling. Upon an en banc review, the Court of Appeals vacated the panel\u2019s decision</p>\n",
+    "conclusion": "<p>Yes. Justice Byron R. White delivered the opinion of the 5-4 majority. The Court held that a decision in favor of Graham would create a new constitutional rule by extending beyond the reasoning of the precedents that were in place at the time of the conviction. Unless a jurist at the time of Graham\u2019s conviction could have found reasonable precedent to decide the case in his favor, to do so now would extend beyond the Court\u2019s purview. Since the precedent at the time would not have provided a valid reason to overturn Graham\u2019s sentence, the Court found that it must uphold it.</p>\n<p>In his concurring opinion, Justice Clarence Thomas wrote that he fully supported the Court\u2019s decision. He also wrote that the case Graham chiefly relied on, Penry v. Lynaugh, was wrongly decided. He argued that the specific questions a sentencing jury is asked to consider before sentencing a defendant to death make the consideration of mitigating factors redundant.</p>\n<p>Justice John Paul Stevens wrote a dissent where he argued that the consideration of mitigating factors by a sentencing jury is a crucial safeguard against discriminatory sentencing. He strongly disagreed with Justice Clarence\u2019s view that Penry v. Lynaugh was wrongly decided.</p>\n<p>In his dissenting opinion, Justice David H. Souter argued that a decision in favor of Graham would not create a new constitutional rule in this case because such a decision would not impose a new burden on the prosecution in sentencing hearings. He also found that the jury instructions did not allow the jury to fully consider the implications of mitigating factors. Justice Harry A. Blackmun, Justice Sandra Day O\u2019Connor, and Justice John Paul Stevens joined in the dissent.</p>\n<p>\u00a0</p>\n"
+}

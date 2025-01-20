@@ -1,0 +1,42 @@
+{
+    "ID": 62700,
+    "name": "Manrique v. United States",
+    "href": "https://api.oyez.org/cases/2016/15-7250",
+    "view_count": 0,
+    "docket_number": "15-7250",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1461560400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53503"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1476162000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53874"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1492578000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54021"
+        }
+    ],
+    "question": "<p>Does an appellate court have jurisdiction over an appeal of a restitution award when the judgment that awarded the amount of restitution was entered after the notice of appeal was filed?</p>\n",
+    "citation": {
+        "volume": "581",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27421"
+    },
+    "term": "2016",
+    "description": "A case in which the Court held that appellate courts do not have jurisdiction over an appeal of a restitution award when the judgment that awarded restitution was entered after the notice of appeal was filed.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/581/15-7250/",
+    "facts_of_the_case": "<p>Marcelo Manrique was convicted in federal district court of possession of child pornography. He was sentenced to a life term of supervised release and mandatory restitution, though the final judgment did not include an amount for the restitution and stated that would be included in the amended judgment. Manrique filed his notice of appeal before the amended judgment was entered. When the amended judgment was entered while the appeal was pending, it included the details of the restitution award, and both parties subsequently included arguments regarding the challenge of the award in their briefs. The U.S. Court of Appeals for the Eleventh Circuit ruled that it did not have jurisdiction to consider the challenge to the restitution award because Manrique did not file a second notice of appeal regarding the amended judgment that included the amount of the restitution award.</p>\n",
+    "conclusion": "<p dir=\"ltr\">Appellate courts may not review a restitution award where the amended judgment of the lower court granting restitution is entered after notice of appeal was filed. Justice Clarence Thomas delivered the opinion for the 6-2 majority. The Court held that, in order to secure appellate review of a judgment, a party must file notice of appeal from that particular judgment after that judgment has been entered. In this case, Manrique filed his only notice of appeal several months before the amended judgment granting restitution was entered. The Court rejected Manrique\u2019s argument that the initial judgment deferring restitution and amended judgment granting restitution combined to form a single judgment. Instead, in cases of deferred restitution, the initial judgment and amended judgment qualify as two distinct appealable judgments. Therefore, the Court affirmed the lower court\u2019s judgment and held that the U.S. Court of Appeals for the Eleventh Circuit did not have jurisdiction to review the amended judgment.</p>\n<p>In her dissenting opinion, Justice Ruth Bader Ginsburg argued that the district court failed to notify Manrique of his right to appeal from the amended judgment. Additionally, because the district court clerk sent the record for the amended judgment to the appellate court without waiting for Manrique to file notice of appeal, the district court conferred jurisdiction on the appellate court. Such conferral, Justice Ginsburg contended, adequately substituted the requirement that Manrique file a second notice of appeal from the amended judgment. Justice Sonia Sotomayor joined in the dissent.</p>\n<p>Justice Neil Gorsuch did not participate in the discussion or decision of this case.</p>\n"
+}

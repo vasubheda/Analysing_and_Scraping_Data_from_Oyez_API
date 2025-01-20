@@ -1,0 +1,42 @@
+{
+    "ID": 55887,
+    "name": "Rehberg v. Paulk",
+    "href": "https://api.oyez.org/cases/2011/10-788",
+    "view_count": 0,
+    "docket_number": "10-788",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1300683600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41024"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1320123600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41025"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1333342800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41026"
+        }
+    ],
+    "question": "<p>Are government officials who initiate prosecutions by providing false testimony in judicial proceedings absolutely immune from civil suit?</p>\n",
+    "citation": {
+        "volume": "566",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19809"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that a witness in a grand jury proceeding is entitled to the same absolute immunity from a \u00a71983 action as a witness who testifies at trial.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/566/356/",
+    "facts_of_the_case": "<p>Charles Rehberg, a forensic accountant, discovered evidence of unethical billing practices at Phoebe Putney Memorial Hospital in Albany, Georgia. He publicized his findings by sending a series of anonymous faxes to the hospital. As a \"favor\" to the hospital, former Georgia District Attorney Kenneth Hodges and Chief Investigator James Paulk began investigating Rehberg for allegedly sending harassing e-mail messages and faxes to hospital administrators. In the course of their investigation, Hodges wrote and issued subpoenas to Rehberg's Internet service provider to obtain copies of Rehberg's e-mails, which were given to private investigators. Hodges and Paulk later secured three grand jury indictments against Rehberg, which were all subsequently dismissed.</p>\n<p>Rehberg filed a civil suit against Hodges, Paulk, and specially appointed prosecutor Kelly Burke alleging, among other things, that they conspired to violate his Fourth Amendment rights by obtaining his e-mails through a subpoena. The defendants filed a motion to dismiss, and the district court denied the motion. On appeal, the U.S. Court of Appeals for the Eleventh Circuit reversed the district court's decision.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous decision written by Justice Samuel Alito, the Court held that a witness in a grand jury proceeding is entitled to the same absolute immunity from a \u00a7 1983 action as a witness who testifies at trial. Justice Alito looked to the Court's treatment of immunity in \u00a7 1983 suits. He determined that the Court has consistently interpreted \u00a7 1983 in the light of common law principles, using those principles to identify the government functions considered so important and vulnerable to interference by litigation that they require some form of absolute immunity. Justice Alito noted that witnesses at trial historically enjoy immunity by this reasoning.</p>\n<p>Justice Alito then turned to the Court's ruling in <em>Briscoe v. LaHue</em>, where it held that a trial witness has absolute immunity with respect to any \u00a7 1983 claim based on the witness' testimony. He reasoned that the justifications for granting trial witnesses absolute immunity apply to grand jury witnesses because in both contexts a witness' fear of retaliatory litigation might deprive the tribunal of critical evidence.</p>\n<p>Justice Alito rejected Rehberg's argument that law enforcement witnesses require less protection from litigation because they are less likely to be intimidated by the threat of suit and because their testimony is potentially more damaging. He responded that police officers testify frequently and that potential civil suits could improperly influence decisions on appeal and for collateral relief. Justice Alito also rejected Rehberg's argument that a \"complaining witness\" is not shielded by absolute immunity. He emphasized that testifying at trial was not a necessary characteristic of the traditional complaining witness, and that no modern grand jury witness plays a similar role in procuring arrests and initiating prosecutions.</p>\n"
+}

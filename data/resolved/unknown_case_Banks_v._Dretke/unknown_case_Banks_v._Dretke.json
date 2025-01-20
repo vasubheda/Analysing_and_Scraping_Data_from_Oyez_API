@@ -1,0 +1,42 @@
+{
+    "ID": 55124,
+    "name": "Banks v. Dretke",
+    "href": "https://api.oyez.org/cases/2003/02-8286",
+    "view_count": 0,
+    "docket_number": "02-8286",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1050901200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38963"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1070863200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38964"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1077602400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38965"
+        }
+    ],
+    "question": "<p>Was the Fifth Circuit wrong to reject Banks' claim relating to Farr's testimony under Brady v. Maryland on the ground that such a claim must first be made in state court? Was the Fifth Circuit wrong to reject Banks' claim relating to Cook's testimony on the grounds that such a claim should have been raised earlier and that Federal Rule of Civil Procedure 15(b) does not apply?</p>\n",
+    "citation": {
+        "volume": "540",
+        "page": "668",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19053"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/540/668/",
+    "facts_of_the_case": "<p>Delma Banks, Jr. was convicted of murder and sentenced to death in Texas state court in 1980. Sixteen years later Banks learned that one of the witnesses against him, Robert Farr, was a paid informant (a fact not stated during the trial). Charles Cook, another witness against Banks, claimed that he had made up much of his testimony in order to get other criminal charges against him dropped as part of a plea agreement.</p>\n<p>In Brady v. Maryland the U.S. Supreme Court held that due process is violated if prosecutors suppress evidence favorable to a defendant that relates to guilt or punishment. Pointing to Brady and evidence the prosecution suppressed information on its ties to the two witnesses, Banks sought a writ of habeas corpus in federal court to overturn his conviction and get a new trial. The district court granted habeas relief with respect to Banks' death sentence based on the state's failure to disclose Farr's informant status. However the district court refused to reverse the guilt verdict, rejecting Banks' Brady claim relating to Cook's testimony and Banks' argument that Federal Rule of Civil Procedure 15(b) allowed the claim to be treated as if it were raised earlier.</p>\n<p>The Fifth Circuit Court of Appeals reversed the district court's decision to grant Banks relief as to his death sentence based on his Brady claim relating to Farr's testimony. The Court held that Banks first had to press his claims in state court. The Court upheld the district court's rejection of Banks' claim relating to Cook's testimony, holding that Federal Rule of Civil Procedure 15(b) does not apply to habeas proceedings.</p>\n",
+    "conclusion": "<p>Yes and yes. In an opinion delivered by Justice Ruth Bader Ginsburg, the Court held 7-2 that the Fifth Circuit was wrong to dismiss Banks' claim under Brady relating to Farr's testimony and 9-0 that the Fifth Circuit was wrong to deny Banks' appeal based on Cook's testimony. Banks could make his Brady claim relating to Farr's testimony in federal court without have made the claim in state court because he demonstrated both cause for failing to present evidence in state court and evidence that that failure prejudiced the proceedings against him. The Court held that both the district court and the Fifth Circuit wrongly denied Banks' appeal with regard to his Brady claim on Cook's testimony. Federal Rule of Civil Procedure 15(b) does apply in this case and requires courts to treat Banks' claim relating to Cook's testimony as if it were raised in earlier proceedings.</p>\n"
+}

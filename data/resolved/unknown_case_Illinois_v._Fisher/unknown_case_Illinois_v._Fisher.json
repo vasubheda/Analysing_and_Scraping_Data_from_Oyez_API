@@ -1,0 +1,28 @@
+{
+    "ID": 55130,
+    "name": "Illinois v. Fisher",
+    "href": "https://api.oyez.org/cases/2003/03-374",
+    "view_count": 0,
+    "docket_number": "03-374",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1077516000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38981"
+        }
+    ],
+    "question": "<p>Did Illinois police (acting in good faith) violate Fisher's Fourteenth Amendment Due Process rights by destroying evidence after he filed a motion for discovery?</p>\n",
+    "citation": {
+        "volume": "540",
+        "page": "544",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19059"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/540/544/",
+    "facts_of_the_case": "<p>Gregory Fisher was arrested and charged with possession of cocaine in 1988. He filed a motion for discovery, asking that the white powdery substance he had had in his possession be made available as evidence at trial so that he could have it independently tested in an attempt to disprove the four tests conducted by police showing that it was cocaine. The state agreed to make the substance available at a future date.</p>\n<p>The defendant was released on bond, but in July of 1989 he failed to appear in court. He remained a fugitive for 10 years, during which time the police destroyed the substance in keeping with the standard practice of destroying old evidence. When Fisher was captured and brought to trial again in 1999, he claimed that the state had violated his Fourteenth Amendment Due Process Rights by destroying evidence that could possibly have proved his innocence after he had filed a motion for discovery. The trial court denied his motion, holding that the police had acted in \"good faith\" in accordance with Arizona v. Youngblood. Fisher was subsequently convicted. The Illinois Appellate Court overturned the conviction, however, holding that the case was different from Youngblood because Fisher had filed a discovery motion. The state Supreme Court declined to hear the case.</p>\n",
+    "conclusion": "<p>No. In a per curiam opinion, the Court held that the simple fact that Fisher had filed a motion for discovery did not distinguish the case from Youngblood. The Court also rejected Fisher's contention that the substance was \"material exculpatory evidence,\" which would have made the good faith/bad faith distinction irrelevant (whenever the state destroys or refuses to disclose \"material exculpatory evidence\" it violates Due Process, regardless of its intent). Instead, the Court held that the evidence was at the most \"potentially useful evidence\" (as it was in Youngblood) because the police had already determined, in good faith, that the material was cocaine. Justice John Paul Stevens concurred in this case.</p>\n"
+}

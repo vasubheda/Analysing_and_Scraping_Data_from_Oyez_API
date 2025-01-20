@@ -1,0 +1,35 @@
+{
+    "ID": 54646,
+    "name": "Campbell v. Louisiana",
+    "href": "https://api.oyez.org/cases/1997/96-1584",
+    "view_count": 0,
+    "docket_number": "96-1584",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                885276000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38070"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                893134800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38071"
+        }
+    ],
+    "question": "<p>Does the exclusion of other races other than the defendant's violate the Due Process Clause of the Fourteenth Amendment?</p>\n",
+    "citation": {
+        "volume": "523",
+        "page": "392",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18575"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/523/392/",
+    "facts_of_the_case": "<p>erry Campbell, a white man, was indicted for second-degree murder by a grand jury in Evangeline Parish, Louisiana. Campbell moved to quash the indictment by citing a long history of racial discrimination in the selection of grand jury forepersons in Evangeline Parish. No African-American had served as a foreperson for the past 16 years despite the fact twenty percent of the registered voters were black. Campbell claimed such practices violated his Fourteenth Amendment equal protection and due process rights. A Louisiana trial judge denied Campbell's challenge, holding that he lacked standing as a white man complaining about the exclusion of African-Americans from serving as forepersons. The Louisiana Court of Appeal overruled the trial judge and decided Campbell had standing. The Louisiana Supreme Court reversed the Court of Appeal.</p>\n",
+    "conclusion": "<p>Yes. Without reaching the merits, the Court, in a unanimous opinion written by Justice Anthony Kennedy, held that \"a defendant has standing to litigate whether his conviction was procured by means or procedures which contravene due process.\" A white defendant could assert the right of the grand jury to be free of discrimination because racial discrimination in jury selection casts doubt on the integrity of the entire trial process.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 56083,
+    "name": "B&B Hardware Inc. v. Hargis Industries Inc.",
+    "href": "https://api.oyez.org/cases/2014/13-352",
+    "view_count": 0,
+    "docket_number": "13-352",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1404190800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41660"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1417500000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41661"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1427173200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41773"
+        }
+    ],
+    "question": "<p>Does a finding of a likelihood of confusion by the Trademark Trial and Appeal Board preclude re-litigation in federal court?</p>\n",
+    "citation": {
+        "volume": "575",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20946"
+    },
+    "term": "2014",
+    "description": "A case in which the Court held that a decision on an issue by an administrative agency can preclude re-litigation of that issue in federal court.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/575/138/",
+    "facts_of_the_case": "<p>B&amp;B Hardware (B&amp;B) sells a fastener product in the aerospace industry under the trademark \"Sealtight,\" which it registered in 1993. Hargis Industries (Hargis) sells self-drilling screws under the mark \"Sealtite\" in the construction industry. After Hargis applied to register its mark in 1996, B&amp;B opposed the application and sued Hargis for infringement. The Trademark Trial and Appeal Board (TTAB) eventually determined that there was a likelihood of confusion between the two marks and denied Hargis' application. On appeal, the district court held that, because the TTAB is not an Article III court, it need not give deference to the TTAB decision and refused to admit the decision into evidence. A jury then found in favor of Hargis. The U.S. Court of Appeals for the Eighth Circuit affirmed and held that, since the Eighth Circuit uses a slightly different likelihood of confusion test from the TTAB, the TTAB did not decide the same likelihood of confusion issues presented to the district court.</p>\n",
+    "conclusion": "<p>Yes. Justice Samuel A. Alito, Jr. wrote the opinion for the 7-2 majority. The Court held that, when a single issue is before a court and an administrative agency, preclusion often applies. When parties have had an adequate opportunity to litigate an issue of fact and an administrative agency acting in a judicial capacity properly resolves the issue, re-litigation is precluded unless Congress has indicated otherwise. The Court determined that nothing in federal trademark law prohibited issue preclusion, although a party could seek judicial review of an agency\u2019s decision. The Court also held that the Trademark Trial and Appeal Board\u2019s (TTAB) decision met the ordinary elements for claim preclusion: the likelihood-of-confusion standards for registration and infringement are the same; there was no reason to doubt the quality, extensiveness, or fairness of the agency\u2019s procedures, and parties are likely to treat both contested registration and infringement seriously.</p>\n<p>Justice Ruth Bader Ginsburg wrote a concurring opinion in which she argued that, when contested registrations are decided upon a comparison of trademarks in the abstract and separate from their marketplace usage, the issue of likelihood of confusion would not be precluded.</p>\n<p>Justice Clarence Thomas wrote a dissenting opinion in which he argued that decisions by administrative agencies should not qualify for issue preclusion. Historically, federal courts had been hesitant to preclude issues determined by administrative tribunals. Justice Thomas noted that Congress authorized the TTAB to determine the respective rights of trademark registration only, not to decide questions of infringement, and that Congress included a provision allowing judicial review. Therefore, Congress likely did not intend preclusion to apply. Finally, Justice Thomas argued that allowing an administrative agency, part of the Executive Branch, to decide central issues in private claims may effect an unconstitutional transfer of judicial power. Justice Antonin Scalia joined the dissent.</p>\n"
+}

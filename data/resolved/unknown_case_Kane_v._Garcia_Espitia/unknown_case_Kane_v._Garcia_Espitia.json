@@ -1,0 +1,35 @@
+{
+    "ID": 55309,
+    "name": "Kane v. Garcia Espitia",
+    "href": "https://api.oyez.org/cases/2005/04-1538",
+    "view_count": 0,
+    "docket_number": "04-1538",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1130738400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39480"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                1130738400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53377"
+        }
+    ],
+    "question": "<p>Is denial of access to a law library a violation of the Sixth Amendment right to self-representation?</p>\n",
+    "citation": {
+        "volume": "546",
+        "page": "9",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19237"
+    },
+    "term": "2005",
+    "description": "A case in which the Court held that denying law library access to defendants representing themselves is not a violation of the Sixth Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/546/9/",
+    "facts_of_the_case": "<p>Joe Garcia Espitia chose to represent himself in his trial on charges of carjacking and was convicted. Garcia Espitia was repeatedly denied law library access to prepare for trial, but he received four hours of access during trial just before closing arguments. He sought federal habeas relief, but the district court denied his petition. The U.S. Court of Appeals for the Ninth Circuit reversed and held that the lack of pretrial access to law books violated Garcia Espitia\u2019s Sixth Amendment right to represent himself as established in <em>Faretta v. California</em>.</p>\n",
+    "conclusion": "<p>In a per curiam decision, the Court held that, while <em>Faretta v. California</em> established a right to self-representation, it did not \u201cclearly establish\u201d the right to law library access for prisoners representing themselves sufficient to grant habeas relief.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55614,
+    "name": "Nken v. Holder",
+    "href": "https://api.oyez.org/cases/2008/08-681",
+    "view_count": 0,
+    "docket_number": "08-681",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1227592800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40315"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1232517600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40316"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1240376400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40317"
+        }
+    ],
+    "question": "<p>Is the decision of a court of appeals to stay an alien's removal pending consideration of the alien's petition for review governed by the standard set forth in section 242(g)(2) of the Immigration and Nationality Act, 8 U.S.C. Section 1252(f)(2), or instead is it governed by the traditional test?</p>\n",
+    "citation": {
+        "volume": "556",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20851"
+    },
+    "term": "2008",
+    "description": "A case in which the Court held that a court of appeals' decision to stay an alien's removal pending consideration of the alien's petition for review is governed by the 4-factor traditional test.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>The Board of Immigration Appeals (Board) denied Jean Marc Nken's petition to reopen his case regarding his deportation. He appealed arguing that the Board abused its discretion in denying his motion and should have used its sua sponte power to reopen his proceedings. On appeal, the United States Court of Appeals for the Fourth Circuit held that the Board did not abuse its discretion. It also found that it lacked jurisdiction to review Mr. Nken's claim that the Board failed to use its sua sponte power in order to reopen his case. Thereafter, the Supreme Court granted Mr. Nken's motion for a stay of his removal until further proceeding by the Court.</p>\n",
+    "conclusion": "<p>The Supreme Court held that the traditional factors govern a court of appeals' authority to stay an alien's removal pending judicial review. With Chief Justice John G. Roberts writing for the majority and joined by Justices John Paul Stevens, Antonin G. Scalia, Anthony M. Kennedy, David H. Souter, Ruth Bader Ginsburg, and Stephen G. Breyer, the Court elucidated the four factors that govern stays. First, there must be more than a mere possibility that relief will be granted. Second, irreparable injury must be more than a mere possibility. The third and fourth factors, which respectively determine whether the stay will injure the other party and where the public interest lies, merge when the Government is the opposing party, as in this case. Consequently, the Court vacated the order in Mr. Nken's case and remanded it to the Fourth Circuit for review in light of its decision.</p>\n<p>Justice Kennedy, joined by Justice Scalia, wrote a separate concurring opinion. He emphasized that stays are an extraordinary remedy and should not be granted lightly. Justice Samuel A. Alito dissented and was joined by Justice Clarence Thomas. He argued that the majority decision nullified statutory provisions adopted by Congress in 1996 that stated immigration removal orders were \"self-executing\" and \"not dependent upon judicial enforcement.\"</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 62661,
+    "name": "Salman v. United States",
+    "href": "https://api.oyez.org/cases/2016/15-628",
+    "view_count": 0,
+    "docket_number": "15-628",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1453183200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53407"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1475643600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53869"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1481004000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53928"
+        }
+    ],
+    "question": "<p>Is evidence of a close family relationship sufficient to sustain a conviction for insider trading, or must there be evidence that the individuals knew there would be financial gain through the exchange of information?</p>\n",
+    "citation": {
+        "volume": "580",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27409"
+    },
+    "term": "2016",
+    "description": "A case in which the Court held that evidence of a close family relationship sufficient is to sustain a conviction for insider trading.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/580/15-628/",
+    "facts_of_the_case": "<p>Maher Kara joined Citigroup\u2019s healthcare investment banking group in 2002, and began asking his older brother, Michael, who held a degree in chemistry, questions about certain aspects of his job. From 2004 to 2007 the Kara brothers regularly discussed mergers and acquisitions by Citigroup clients, though Maher suspected that Michael was using the information they discussed for insider trading. In the meantime, Maher became engaged to Bassam Yacoub Salman\u2019s sister and Michael began to share some of the insider information he received from his brother with Salman. Salman did not directly trade through his own accounts but went through his brother-in-law, Karim Bayyouk. There were numerous occasions where Bayyouk and Michael Kara executed identical trades issued by Citigroup clients. As a result, Salman\u2019s account reached $2.1 million. Salman was charged with conspiracy to commit securities fraud and insider trading in 2011 and found guilty. He applied for a new trial, but his request was denied. He then appealed to the U.S. Court of Appeals for the Ninth Circuit and argued there was insufficient evidence that he knew the information used for trades was from insider information. The appellate court found that, because of the close family relationship, there was sufficient evidence that Salman knew he was trading on insider information.</p>\n",
+    "conclusion": "<p>A close family relationship is sufficient to sustain a conviction for insider trading. Justice Samuel A. Alito, Jr. delivered the opinion for the unanimous Court. The Court affirmed the appellate court\u2019s judgment and held that the close family relationship was sufficient evidence that Salman knew that he was imparting insider information. A person commits insider trading where they know that the person who made the tip stands to benefit from disclosing insider information. A personal benefit may be inferred where there is a personal relationship involved, such as one between a family member or a friend, because of the likelihood that the person being tipped will return the favor. Here, Maher tipped off his brother Michael, which established that Maher stood to benefit from the disclosure and had therefore violated his duty to Citigroup. Salman in turn committed insider trading because he knew that the information had been improperly given in the first place, and that Maher stood to benefit from its disclosure. Thus, the Court found that Salman\u2019s knowledge of Maher\u2019s potential for personal benefit from the tip supported his conviction for insider trading.</p>\n"
+}

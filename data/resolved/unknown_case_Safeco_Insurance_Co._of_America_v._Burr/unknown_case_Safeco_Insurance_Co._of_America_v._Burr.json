@@ -1,0 +1,42 @@
+{
+    "ID": 55426,
+    "name": "Safeco Insurance Co. of America v. Burr",
+    "href": "https://api.oyez.org/cases/2006/06-84",
+    "view_count": 0,
+    "docket_number": "06-84",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1159246800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39789"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1168927200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39790"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1180933200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39791"
+        }
+    ],
+    "question": "<p>Is a company guilty of a \"willful\" violation of the Fair Credit Reporting Act if it shows \"reckless disregard\" for the law, even if the company has no actual knowledge that the conduct violates the Act?</p>\n",
+    "citation": {
+        "volume": "551",
+        "page": "47",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20714"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/551/47/",
+    "facts_of_the_case": "<p>In No. 06-100, Edo, a consumer, sued GEICO General Insurance Company, alleging that GEICO had violated the requirement in the Fair Credit Reporting Act (FCRA) that insurance companies give consumers notice before raising rates. Edo sought statutory and punitive damages, which the FCRA awards only when a company \"willfully\" violates the law. Similarly, in 06-84, several consumers sued Safeco for failing to notify them that better credit ratings would have entitled them to better premiums. It was GEICO's policy to notify new applicants only if their credit ratings were worse than a certain \"neutral\" (average) value, while Safeco as a matter of policy did not give \"adverse action\" notices to any new applicants. GEICO argued that it was unaware that the FCRA applied to the setting of premiums for new applicants such as Edo, and thus could not be considered to have acted willfully. The District Court ruled for GEICO and Safeco, holding that their actions did not qualify as willful.</p>\n<p>On appeal, the Court of Appeals for the Ninth Circuit reversed, holding that that the concept of willfulness includes \"reckless disregard\" for the law as well as actual knowledge that the conduct was illegal. The ruling put the Ninth Circuit in conflict with most other circuit courts, but the court argued that its interpretation was more consistent with Supreme Court precedent and the purpose of the FCRA.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous decision written by Justice David Souter, the Court ruled that insurance companies can be liable for willful violations of the Fair Credit Reporting Act if they show \"reckless disregard\" for the law. The justices held that the meaning of the term \"willful\" is contextually determined. Under the common law reckless violations are considered willful violations, and the term is given its common meaning unless Congress intended to change it. The Court called the evidence of such an intent \"shaky,\" and it pointed to another section of the statute which indicated that Congress was treating \"knowing\" and \"reckless\" violations as subcategories of \"willful\" violations. Though GEICO and Safeco lost on the issue of the meaning of \"willful,\" the Court held that neither company had acted with reckless disregard. GEICO's policy - giving adverse action notices to new applicants only where they were likely to make a difference - was a correct interpretation of the statute. Though Safeco was in violation, its error was neither reckless nor willful.</p>\n"
+}

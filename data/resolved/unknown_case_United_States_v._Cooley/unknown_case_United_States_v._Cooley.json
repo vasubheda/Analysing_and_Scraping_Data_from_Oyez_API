@@ -1,0 +1,42 @@
+{
+    "ID": 63331,
+    "name": "United States v. Cooley",
+    "href": "https://api.oyez.org/cases/2020/19-1414",
+    "view_count": 0,
+    "docket_number": "19-1414",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1605852000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54840"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1616475600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54841"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1622523600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54907"
+        }
+    ],
+    "question": "<p>May a police officer for a Native American tribe detain and search a non-tribe member within a reservation on suspicion of violating a state or federal law?</p>\n",
+    "citation": {
+        "volume": "593",
+        "page": null,
+        "year": "2021",
+        "href": "https://api.oyez.org/case_citation/case_citation/27800"
+    },
+    "term": "2020",
+    "description": "A case in which the Court held that a police officer for a Native American tribe has the authority to detain and search a non-tribe member within a reservation on suspicion of violating a state or federal law.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/593/19-1414/",
+    "facts_of_the_case": "<p>Joshua James Cooley was parked in his pickup truck on the side of a road within the Crow Reservation in Montana when Officer James Saylor of the Crow Tribe approached his truck in the early hours of the morning. During their exchange, the officer assumed, based on Cooley\u2019s appearance, that Cooley did not belong to a Native American tribe, but he did not ask Cooley or otherwise verify this conclusion. During their conversation, the officer grew suspicious that Cooley was engaged in unlawful activity and detained him to conduct a search of his truck, where he found evidence of methamphetamine. Meanwhile, the officer called for assistance from county officers because Cooley \u201cseemed to be non-Native.\u201d\u00a0</p>\n<p>Cooley was charged with weapons and drug offenses in violation of federal law. He moved to suppress the evidence on the grounds that Saylor was acting outside the scope of his jurisdiction as a Crow Tribe law enforcement officer when he seized Cooley, in violation of the Indian Civil Rights Act of 1968 (\u201cICRA\u201d). The district court granted Cooley\u2019s motion, and the U.S. Court of Appeals for the Ninth Circuit affirmed, finding that Saylor, a tribal officer, lacked jurisdiction to detain Cooley, a non-Native person, without first making any attempt to determine whether he was Native.</p>\n",
+    "conclusion": "<p>A tribal police officer has the authority to detain temporarily and to search a non-tribe member traveling on a public right-of-way running through a reservation for potential violations of state or federal law. Justice Stephen Breyer authored the unanimous opinion of the Court.</p>\n<p>Native American tribes are \u201cdistinct, independent political communities\u201d exercising a \u201cunique and limited\u201d sovereign authority within the United States. Among the limitations is the general lack of inherent sovereign power to exercise criminal jurisdiction over non-tribal members. However, the Court recognized two exceptions to this rule in <a href=\"https://www.oyez.org/cases/1980/79-1128\"><em>Montana v. United States</em>, 450 U.S. 544 (1981)</a>. First, a tribe may regulate the activities of non-tribal members \u201cwho enter consensual relationships with the tribe or its members, through commercial dealing, contracts, leases, or other arrangements.\u201d Second, a tribe may \u201cexercise civil authority over the conduct of non-Indians on fee lands within its reservation when that conduct threatens or has some direct effect on the political integrity, the economic security, or the health or welfare of the tribe.\u201d The authority at issue in this case aligns with the second exception \u201calmost like a glove.\u201d None of the policing provisions Congress has enacted fit the circumstances of this case as well as the Court\u2019s understanding in <em>Montana</em>, and particularly the second exception. Rather, legislation and executive action appear to assume that tribes retain the detention authority presented in this case.\u00a0</p>\n<p>Justice Samuel Alito authored a concurring opinion noting that his agreement is limited to a narrow reading of the Court\u2019s holding.</p>\n"
+}

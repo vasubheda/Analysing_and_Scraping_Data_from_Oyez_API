@@ -1,0 +1,42 @@
+{
+    "ID": 62579,
+    "name": "Wittman v. Personhuballah",
+    "href": "https://api.oyez.org/cases/2015/14-1504",
+    "view_count": 0,
+    "docket_number": "14-1504",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1434949200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53272"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1458536400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53412"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1463979600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53634"
+        }
+    ],
+    "question": "<p>Do the appellants have standing to appeal this case to the U.S. Supreme Court under Article III of the U.S. Constitution?</p>\n",
+    "citation": {
+        "volume": "578",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27357"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that members of Congress whose chances of reelection might be impaired by a new districting plan did not have standing under Article III of the U.S. Constitution to appeal their case to the Supreme Court. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/578/14-1504/",
+    "facts_of_the_case": "<p>In 2012, the Virginia State Legislature adopted a redistricting plan that altered the composition of the Third Congressional District, which was already majority African-American, and increased the percentage of African-American voters in the district. Pursuant to Section 5 of the Voting Rights Act, the plan was submitted to the Department of Justice for preclearance, which was granted. On October 2, 2013, plaintiffs sued the defendants in their official capacities and argued that Virginia\u2019s Third Congressional District was racially gerrymandered in violation of the Equal Protection Clause of the Fourteenth Amendment. The district court ruled that the districting plan was unconstitutional because its use of race as a factor was not sufficiently narrowly tailored to serve a compelling government interest.</p>\n<p>The defendant Commonwealth of Virginia did not appeal; instead, ten members of Congress, who had intervened in the case at the trial level, appealed to the U.S. Supreme Court, which remanded the case for reconsideration in light of its decision in <em>Alabama Legislative Black Caucus v. Alabama</em>. In that case, the Court held that the Voting Rights Act does not require a legislature to maintain a particular minority number percentage in creating a districting plan, but rather it requires that the legislature maintain a minority\u2019s ability to elect a candidate of choice. In considering whether a districting plan is unconstitutional, courts must examine whether racial considerations predominated over nonracial ones in determining which voters to place in which district. On remand, the district court again determined that the Third Congressional District was unconstitutional because racial considerations predominated in creating the plan.</p>\n",
+    "conclusion": "<p>The appellants did not have standing to appeal this case to the Supreme Court under Article III of the U.S. Constitution. Justice Stephen G. Breyer delivered the opinion for the unanimous Court. The Court held that the appellants in this case, ten members of Congress who had intervened in the case at the trial level, did not have standing to appeal because they do not meet the requirements for standing under Article III -- an injury in fact that is directly traceable to the conduct at issue and is likely to be redressed by a favorable judicial decision. Although ten members of Congress initially intervened, by the time the case reached oral argument at the Supreme Court, only three claimed to have standing. Of those, one determined that he would run for office regardless of the new plan, and therefore did not suffer an injury in fact. The other two appellants were unable to produce evidence that their chances of reelection would be significantly impaired by the new districting plan and therefore did not meet their burden to establish that they suffered an injury sufficient to have standing under Article III.</p>\n"
+}

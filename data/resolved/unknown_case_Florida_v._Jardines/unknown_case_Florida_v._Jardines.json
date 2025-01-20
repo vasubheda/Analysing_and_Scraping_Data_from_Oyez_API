@@ -1,0 +1,42 @@
+{
+    "ID": 55906,
+    "name": "Florida v. Jardines",
+    "href": "https://api.oyez.org/cases/2012/11-564",
+    "view_count": 0,
+    "docket_number": "11-564",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1325829600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41081"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1351659600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41082"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1364274000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41083"
+        }
+    ],
+    "question": "<p>Is a dog sniff at the front door of a suspected grow house by a trained narcotics detection dog a Fourth Amendment search requiring probable cause?</p>\n",
+    "citation": {
+        "volume": "569",
+        "page": "1",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19828"
+    },
+    "term": "2012",
+    "description": "A case in which the Court found that a police officer and narcotic-sniffing dog entering the porch of a home constitutes a search and, without a warrant, is a violation of the Fourth Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/569/1/",
+    "facts_of_the_case": "<p>On November 3, 2006, the Miami-Dade Police Department received an unverified \"crime stoppers\" tip that the home of Joelis Jardines was being used to grow marijuana. On December 6, 2006, two detectives, along with a trained drug detection dog, approached the residence. The dog handler accompanied the dog to the front door of the home. The dog signaled that it detected the scent of narcotics. The detective also personally smelled marijuana.</p>\n<p>The detective prepared an affidavit and applied for a search warrant, which was issued. A search confirmed that marijuana was being grown inside the home. Jardines was arrested and charged with trafficking cannabis. Jardines moved to suppress the evidence seized at his home on the theory that the drug dog's sniff was an impermissible search under the Fourth Amendment and that all subsequent evidence was fruit of the poisonous tree.</p>\n<p>The trial court conducted an evidentiary hearing and subsequently ruled to suppress the evidence. The state appealed the suppression ruling and the state appellate court reversed, concluding that no illegal search had occurred since the officer had the right to go up to the defendant's front door and that a warrant was not necessary for the drug dog's sniff. The Florida Supreme Court reversed the appellate court's decision and concluded that the dog's sniff was a substantial government intrusion into the sanctity of the home and constituted a search within the meaning of the Fourth Amendment. The state of Florida appealed the Florida Supreme Court's decision.</p>\n",
+    "conclusion": "<p>Yes. Justice Antonin Scalia delivered a 5-4 opinion affirming the Florida Supreme Court's decision. The Court held that the front porch of a home is part of the home itself for Fourth Amendment purposes. Typically, ordinary citizens are invited to enter onto the porch, either explicitly or implicitly, to communicate with the house's occupants. Police officers, however, cannot go beyond the scope of that invitation. Entering a person's porch for the purposes of conducting a search requires a broader license than the one commonly given to the general public. Without such a license, the police officers were conducting an unlawful search in violation of the Fourth Amendment.</p>\n<p>Justice Elena Kagan wrote a concurring opinion in which she argued that the case dealt with privacy issues as well as the property issues the majority opinion addressed. People have a heightened expectation of privacy in their homes and the areas immediately surrounding their homes, and in this case, the police violated that expectation. Because the police officers used a device (a drug-sniffing dog) not in public use to learn details about the home, Justice Kagan argued that an illegal search had been conducted. Justice Ruth Bader Ginsburg and Justice Sonia Sotomayor joined in the concurrence.</p>\n<p>Justice Samuel A. Alito dissented, arguing that the majority's interpretation of the public license to approach a person's front door is too narrow and should extend even to police officers collecting evidence against an occupant. The dissent argued that the common law of trespass does not limit the public license to a particular category of visitors approaching the door for a specific purpose. Chief Justice John G. Roberts, Justice Anthony M. Kennedy, and Justice Stephen G. Breyer joined in the dissent.</p>\n<p><em>Learn more about the Roberts Court and the Fourth Amendment in <a href=\"http://projects.oyez.org/shifting-scales/\">Shifting Scales</a>, a nonpartisan Oyez resource.</em></p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 55469,
+    "name": "Davis v. Federal Election Commission",
+    "href": "https://api.oyez.org/cases/2007/07-320",
+    "view_count": 0,
+    "docket_number": "07-320",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1208840400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39910"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1214456400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39911"
+        }
+    ],
+    "question": "<p>Does the Millionaire's Amendment to the 2002 campaign finance law, which raises the contribution limit for those running against a self-financed candidate, violate free speech clause of the First Amendment and the equal protection principle of the Fifth Amendment?</p>\n",
+    "citation": {
+        "volume": "554",
+        "page": "724",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20763"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/554/724/",
+    "facts_of_the_case": "<p>Jack Davis, a wealthy Democratic candidate for Congress from New York's 26th Congressional District, brought this claim challenging the constitutionality of the so-called 'Millionaire's Amendment' to the 2002 campaign finance law. Davis argued in the district court that the law, which basically raises the contribution cap for individuals running against self-financed candidates, violated the First Amendment and the Equal Protection principle implicit in the Fifth Amendment. The district court rejected both of these claims, stating first that the law did not implicate the First Amendment because it did not impede Davis' ability to spend money in support of his message, noting that it actually led to a higher level of speech in the race overall. The district court similarly rejected Davis' Fifth Amendment claim, reasoning that although Davis may have been held to higher reporting standards than his opponent, his disproportionate wealth meant that the two candidates were not similarly situated and, therefore, the Equal Protection Clause did not apply. The campaign finance law allows direct appeal to the Court, which will consider whether Davis has standing to bring the First Amendment claim before deciding the case on the merits.</p>\n",
+    "conclusion": "<p>Yes. Although all nine Justices agreed that Davis had standing to argue his case before the Court, only a 5-4 majority held that the contribution limits violated the First Amendment. In his majority opinion, Justice Samuel Alito noted that the Court had never upheld the constitutionality of a law imposing different contribution limits for candidates competing against one another. Because the Court found the laws in violation of the First Amendment, it did not reach the question of whether the Fifth Amendment was also violated. Justice John Paul Stevens, joined by Justices David Souter, Ruth Bader Ginsburg, and Stephen Breyer, filed an opinion concurring in part and dissenting in part, agreeing with the majority that Davis had standing but citing the reasoning of the district court to argue that the contribution cap did not violate the First or Fifth Amendment. Justice Ginsburg, joined by Justice Breyer, wrote a separate opinion concurring in part and dissenting in part, agreeing with Justice Stevens's argument but basing it on slightly different grounds.</p>\n"
+}

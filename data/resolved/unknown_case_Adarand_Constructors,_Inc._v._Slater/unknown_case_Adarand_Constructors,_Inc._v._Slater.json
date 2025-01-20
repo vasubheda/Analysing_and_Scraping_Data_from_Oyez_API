@@ -1,0 +1,28 @@
+{
+    "ID": 54782,
+    "name": "Adarand Constructors, Inc. v. Slater",
+    "href": "https://api.oyez.org/cases/1999/99-295",
+    "view_count": 0,
+    "docket_number": "99-295",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                947656800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38318"
+        }
+    ],
+    "question": "<p>Did the Court of Appeals err in dismissing Adarand Constructors, Inc.'s suit challenging the U.S. Department of Transportation's procedure for certifying contractors as disadvantaged business enterprises as moot when the Colorado Department of Transportation granted Adarand disadvantaged-business status?</p>\n",
+    "citation": {
+        "volume": "528",
+        "page": "216",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18711"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/528/216/",
+    "facts_of_the_case": "<p>In Adarand Constructors, Inc. v. Pena (Adarand I)(512 U.S. 200 (1995)), the U.S. Supreme Court held that the U.S. Department of Transportation's (DOT) use of race-based measures is subject to strict scrutiny. On remand, the District Court held that the Subcontractor Compensation Clause required by the Small Business Act, which rewards prime contractors for subcontracting with disadvantaged business enterprises, and its race-based presumption, failed strict scrutiny because they were not narrowly tailored (Adarand II). After Adarand II, Colorado altered its disadvantaged business enterprise status certification procedure. Under the new procedures, Adarand Constructors, Inc. requested and received disadvantaged-business status from the Colorado DOT (CDOT). Upon learning that CDOT had given Adarand disadvantaged-business status, the Court of Appeals held that Adarand's cause of action was moot and vacated the District Court's judgment in Adarand II.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion, the Court held that \"[b]ecause, under the circumstances of this case, it is impossible to conclude that respondents have borne their burden of establishing that it is 'absolutely clear that the allegedly wrongful behavior could not reasonably be expected to recur,' [Adarand's] cause of action remains alive.\" \"It is no small matter to deprive a litigant of the rewards of its efforts,\" concluded the opinion, \"[s]uch action on grounds of mootness would be justified only if it were absolutely clear that the litigant no longer had any need of the judicial protection that it sought.\"</p>\n"
+}

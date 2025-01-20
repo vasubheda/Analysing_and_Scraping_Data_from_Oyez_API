@@ -1,0 +1,42 @@
+{
+    "ID": 62784,
+    "name": "Honeycutt v. United States",
+    "href": "https://api.oyez.org/cases/2016/16-142",
+    "view_count": 0,
+    "docket_number": "16-142",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1481263200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53935"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1490763600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54001"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1496638800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54047"
+        }
+    ],
+    "question": "<p>Does the federal forfeiture statute, which requires any person convicted under federal drug law to forfeit any proceeds obtained from that crime, require joint and several liability among co-conspirators for the forfeiture of any reasonably foreseeable proceeds of the conspiracy?</p>\n",
+    "citation": {
+        "volume": "581",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27484"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that the federal forfeiture statute does not require joint and several liability among co-conspirators for any reasonably foreseeable proceeds of conspiracy.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/581/16-142/",
+    "facts_of_the_case": "<p dir=\"ltr\">Terry Honeycutt was a salaried employee who worked at Brainerd Army Store, which was owned by his brother, Tony Honeycutt. In 2008, when Terry noticed an increase in the number of \u201cedgy looking\u201d people purchasing Polar Pure, an iodine-based water purification product, he called the local police station to find out if there was anything he should know about it. The police confirmed Terry\u2019s suspicion that Polar Pure was being used to manufacture methamphetamine and that he shouldn\u2019t sell it if he felt uncomfortable. Brainerd Army Store was the only place that sold Polar Pure locally, and the product was kept behind the counter, so only the Honeycutt brothers sold it. Over the course of the next year, the Honeycutt brothers sold increasing amounts of Polar Pure. The Drug Enforcement Administration began investigating the brothers and the store, which culminated in a search warrant in 2010. The search warrant revealed that Polar Pure was the store\u2019s highest grossing item and that it generated $260,000 of profit. After the DEA agents seized the store\u2019s inventory of Polar Pure, the number of area meth labs using the iodine method dropped to \u201cinsignificant\u201d levels. A grand jury indicted both brothers. Tony pled guilty, and Terry went to trial, where he was convicted on 11 of the 14 counts with which he was charged. The jury found him guilty and sentenced him to concurrent terms of 60 months for each count, but the jury did not order any forfeiture of the proceeds of the sales, because it found that, as a salaried employee, Terry did not reap the proceeds of the conspiracy.</p>\n<p>On appeal the U.S. Court of Appeals for the Sixth Circuit affirmed in part and reversed in part by holding that the doctrine of joint and several liability applied to co-conspirators for the purpose of forfeiture of the proceeds of drug sales. For the purposes of the forfeiture statute, a defendant may be jointly and severally liable for the proceeds of drug sales obtained by others with whom the defendant participated in the crime. Therefore, in this case, the district court erred in not ordering forfeiture of the proceeds.</p>\n",
+    "conclusion": "<p dir=\"ltr\">The federal forfeiture statute does not require joint and several liability among co-conspirators for any reasonably foreseeable proceeds of conspiracy. Justice Sonia Sotomayor delivered the opinion of the 8-0 majority. The Court held that the plain text and structure of the relevant sections of the statute indicated that Congress did not intend for the statute to require joint and several liability. The statute limited forfeiture to property flowing from or used in the crime itself; in other words, forfeiture was limited to tainted property. Joint and several liability, however, would require the forfeiture of untainted property. Similarly, the language the statute used to describe forfeitable property was best interpreted as referring to only property that the defendant individually obtained. This interpretation also conformed with the structure of the broader statute, in which Congress provided for the forfeiture of substitute property, which would not have been necessary if Congress had intended to incorporate joint and several liability. Interpreting the statute as requiring joint and several liability would not only run counter to its language but would also circumvent the statutory scheme that Congress intended to establish. </p>\n<p>\u00a0</p>\n<p dir=\"ltr\">Justice Neil Gorsuch did not participate in the discussion or decision of this case.</p>\n"
+}

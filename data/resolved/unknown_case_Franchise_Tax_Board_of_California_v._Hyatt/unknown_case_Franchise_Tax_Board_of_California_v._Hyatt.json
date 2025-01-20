@@ -1,0 +1,42 @@
+{
+    "ID": 62604,
+    "name": "Franchise Tax Board of California v. Hyatt",
+    "href": "https://api.oyez.org/cases/2015/14-1175",
+    "view_count": 0,
+    "docket_number": "14-1175",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1435640400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53306"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1449468000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53350"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1461042000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53493"
+        }
+    ],
+    "question": "<p>(1) Can Nevada refuse to extend to other states haled into Nevada courts the same immunities Nevada receives in those courts?</p>\n<p>(2) Should <em>Nevada v. Hall</em>, a case in which the Supreme Court held that a state could be haled into the court of another state without its consent, be overruled?</p>\n",
+    "citation": {
+        "volume": "578",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27379"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that the Constitution does not allow Nevada to refuse to extend to other states haled into Nevada courts the same immunities Nevada would receive in those courts.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/578/14-1175/",
+    "facts_of_the_case": "<p>Throughout the 1990s, inventor Gilbert P. Hyatt was involved in litigation with the Franchise Tax Board of California (FTB) based on the FTB\u2019s audits of his 1991 and 1992 tax returns. The FTB claimed that Hyatt had falsified his tax forms by manufacturing a move to Nevada that did not occur until later and therefore failing to file state taxes for time that he was actually living in California. Hyatt protested that the FTB acted in bad faith and eventually sued the FTB in Nevada alleging negligence along with several intentional torts and seeking damages. Before the case went to trial, the FTB argued that it should be immune from the lawsuit based on California law that granted it sovereign immunity. The case eventually went before the U.S. Supreme Court, which held that Nevada courts were not bound to grant the FTB full immunity.</p>\n<p>At trial, the jury found in favor of Hyatt and awarded him over $300 million in damages. The parties cross-appealed to the Supreme Court of Nevada, which held that the FTB is not immune from the suit because in Nevada governmental entities are not immune from claims for intentional torts. However, because Nevada law does not allow punitive damages against governmental entities, the punitive damage award in this case should be reversed.</p>\n<p>\u00a0</p>\n",
+    "conclusion": "<p>The Constitution does not allow Nevada to refuse to extend to other states haled into Nevada courts the same immunities Nevada would receive in those courts. The Court was equally divided on the question of whether <em>Nevada v. Hall</em> should be overruled and therefore affirmed the lower court\u2019s exercise of jurisdiction over California. Justice Stephen G. Breyer delivered the opinion for the 6-2 majority. The Court held that the Full Faith and Credit Clause of the Constitution prohibits a state from adopting a \u201cpolicy of hostility\u201d towards another state. Because the Nevada rule that does not extend Nevada\u2019s governmental immunity to governmental entities from other states is essentially a \u201cpolicy of hostility\u201d towards other states, it violates the Full Faith and Credit Clause of the Constitution.</p>\n<p>Justice Samuel A. Alito, Jr. concurred in the judgment without writing a separate opinion.</p>\n<p>In his dissent, Chief Justice John G. Roberts, Jr. wrote that a \u201cpolicy of hostility\u201d under the Full Faith and Credit Clause is one that has \u201cno sufficient policy considerations\u201d to support it. In this case, Nevada\u2019s application of its own immunity law, which does not protect other states\u2019 governmental entities, is supported by the policy interest in ensuring appropriate redress for its citizens. Nevada is not required to presume that other states are equally committed to the protection of Nevada citizens. Therefore, Nevada\u2019s rule is not an unconstitutional \u201cpolicy of hostility\u201d towards other states. Justice Clarence Thomas joined in the dissent.</p>\n"
+}

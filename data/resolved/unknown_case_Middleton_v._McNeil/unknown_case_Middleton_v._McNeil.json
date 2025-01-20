@@ -1,0 +1,28 @@
+{
+    "ID": 55142,
+    "name": "Middleton v. McNeil",
+    "href": "https://api.oyez.org/cases/2003/03-1028",
+    "view_count": 0,
+    "docket_number": "03-1028",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1083560400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39015"
+        }
+    ],
+    "question": "<p>Were the instructions given to the jury in McNeil's trial sufficiently misleading to warrant the reversal of her sentence?</p>\n",
+    "citation": {
+        "volume": "541",
+        "page": "433",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19071"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/541/433/",
+    "facts_of_the_case": "<p>Sally Marie McNeil was convicted of the murder of her husband. She appealed her conviction, claiming that the trial judge had given the jury improper instructions when it was deciding whether to convict her of murder or voluntary manslaughter (the last four words of the instruction, not included in the model jury instruction provided with the criminal statute, might have led the jury to misunderstand the meaning of voluntary manslaughter). The California Court of Appeal acknowledged that the jury instruction had been wrong, but found that, taken as a whole, the instruction did not make it reasonably likely that the jury would misunderstood the meaning of voluntary manslaughter, especially given the closing statements of the prosecutor, which provided the correct definition of the law.</p>\n<p>McNeil then petitioned for a writ of habeas corpus in federal court. The district court rejected her claim, but a Ninth Circuit Court of Appeals panel reversed.</p>\n",
+    "conclusion": "<p>No. In a per curiam (unsigned) opinion, the Court ruled that the judge had provided correct instructions for three other parts of the instruction that were closely related to the error, and that, given the clarity of those instructions, the jury was unlikely to have been mislead by the four words erroneously inserted at the end. \"Given three correct instructions and one contrary one, the state court did not unreasonably apply federal law when it found that there was no reasonable likelihood the jury was misled.\"</p>\n"
+}

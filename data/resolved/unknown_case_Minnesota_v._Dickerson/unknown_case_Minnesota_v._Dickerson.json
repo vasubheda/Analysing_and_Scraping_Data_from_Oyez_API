@@ -1,0 +1,35 @@
+{
+    "ID": 54063,
+    "name": "Minnesota v. Dickerson",
+    "href": "https://api.oyez.org/cases/1992/91-2019",
+    "view_count": 0,
+    "docket_number": "91-2019",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                731138400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36980"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                739429200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36981"
+        }
+    ],
+    "question": "<p>When a police officer detects contraband through his or her sense of touch during a protective patdown search, does the Fourth Amendment permit its seizure and subsequent introduction into evidence? Was the police officer who frisked Dickerson adhering to the Fourth Amendment when he formed the belief, through his sense of touch, that the lump in Dickerson's jacket pocket was cocaine?</p>\n",
+    "citation": {
+        "volume": "508",
+        "page": "366",
+        "year": "1993",
+        "href": "https://api.oyez.org/case_citation/case_citation/17992"
+    },
+    "term": "1992",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/508/366/",
+    "facts_of_the_case": "<p>On November 9, 1989, while exiting an apartment building with a history of cocaine trafficking, Timothy Dickerson spotted police officers and turned to walk in the opposite direction. In response, the officers commanded Dickerson to stop and proceeded to frisk him. An officer discovered a lump in Dickerson's jacket pocket, and, upon further tactile investigation, formed the belief that it was cocaine. The officer reached into Dickerson's pocket and confirmed that the lump was in fact a small bag of cocaine. Consequently, Dickerson was charged with possession of a controlled substance. He requested that the cocaine be excluded from evidence, but the trial court denied his request and he was found guilty. Minnesota Court of Appeals reversed, and the State Supreme Court affirmed the appellate court's decision.</p>\n",
+    "conclusion": "<p>Yes and No. In a unanimous opinion authored by Justice Byron R. White, the Court recalled that a police officer may seize contraband when it is in plain sight, and \"its incriminating character is immediately apparent\". It held that instances in which an officer uses the sense of sight to discover illegal goods are analogous to those involving the sense of touch. The Court also reasoned that the tactile detection of contraband during a lawful pat-down search does not constitute any further invasion of privacy, therefore warrantless seizure was permissible. The Court also concluded that the police officer frisking Dickerson stepped outside the boundaries outlined in <em>Terry v. Ohio</em> which requires a protective pat-down search to involve only what is necessary for the detection of weapons. In fact the officer was already aware that Dickerson's jacket pocket did not contain a weapon, when he detected the cocaine through further tactile investigation.</p>\n"
+}

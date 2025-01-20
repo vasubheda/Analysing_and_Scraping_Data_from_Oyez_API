@@ -1,0 +1,35 @@
+{
+    "ID": 54726,
+    "name": "American Manufacturers' Mutual Insurance Company v. Sullivan",
+    "href": "https://api.oyez.org/cases/1998/97-2000",
+    "view_count": 0,
+    "docket_number": "97-2000",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                916725600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38215"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                920440800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38216"
+        }
+    ],
+    "question": "<p>1) Can the private insurers' decision to withhold payment for disputed medical treatment be considered state action, so as to bring them within the reach of the Fourteenth Amendment? (2) Do workers have a constitutionally protected property interest in continuing payment of disputed medical treatment before such treatment is determined to be reasonable and necessary?</p>\n",
+    "citation": {
+        "volume": "526",
+        "page": "40",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18655"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/526/40/",
+    "facts_of_the_case": "<p>Pennsylvania's Workers' Compensation Act (Act) provides that once an employer's liability for an employee's injury has been established, then either the self-insured employer or insurer (collectively insurers) is responsible for paying for the employee's \"reasonable\" and \"necessary\" medical treatment. In 1993, this system was amended to allow insurers to withhold payment for disputed treatments, pending the outcome of an independent utilization review. Ten employees and two organizations representing employees that had received benefits under the Act filed suit against state officials, the self-insured school district of Philadelphia, and a number of private insurance companies. Their complaint alleged that the state and private defendants, acting under color of state law, had deprived them of property in violation of due process.</p>\n",
+    "conclusion": "<p>No to both. A finding of state action requires both that the deprivation be caused by actions taken under state law and that the deprivation be fairly attributable to the state. While the alleged deprivation in this case was clearly taken pursuant to state law, the decision of private insurers to withhold medical payments for disputed treatment is not fairly attributable to the state. Mere creation of a new dispute resolution mechanism by the state does not constitute state encouragement or authorization. Nor has Pennsylvania delegated to private insurers powers that were exclusively those of the state, as Pennsylvania has simply authorized insurers to do what they would do in the absence of regulation: dispute payment of unreasonable and unnecessary treatment. Further, under Pennsylvania law no due process protection attaches to payment of disputed medical expenses before the reasonableness and necessity of those expenses is determined. The Act does not entitle an employee to payment of all medical treatment, but only that treatment which is reasonable and necessary. In order to assert a protected property interest a worker must demonstrate not only that his or her employer was liable for a work related injury, but also that the treatment for which payment is sought was reasonable and necessary. In this case the plaintiffs had only established their initial eligibility for treatment, not that treatment was reasonable and necessary.</p>\n"
+}

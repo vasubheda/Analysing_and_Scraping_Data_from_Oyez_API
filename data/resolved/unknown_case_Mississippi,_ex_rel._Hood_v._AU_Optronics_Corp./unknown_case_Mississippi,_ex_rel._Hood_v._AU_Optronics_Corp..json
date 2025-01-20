@@ -1,0 +1,42 @@
+{
+    "ID": 55976,
+    "name": "Mississippi, ex rel. Hood v. AU Optronics Corp.",
+    "href": "https://api.oyez.org/cases/2013/12-1036",
+    "view_count": 0,
+    "docket_number": "12-1036",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1369717200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41281"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1383717600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41282"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1389679200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41554"
+        }
+    ],
+    "question": "<p>Was the case properly removed to federal district court as a mass action under the Class Action Fairness Act (CAFA)?</p>\n",
+    "citation": {
+        "volume": "571",
+        "page": "161",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20867"
+    },
+    "term": "2013",
+    "description": "A case in which the Court ruled that, in order for a case to be removed to a federal district court instead of a state court under the Class Action Fairness Act, at least 100 people must be represented by the lawsuit.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/571/161/",
+    "facts_of_the_case": "<p>On March 25, 2011, the State of Mississippi sued a group of liquid crystal display (LCD) manufacturers and claimed that they harmed consumers by engaging in a conspiracy to fix prices for LCD panels, which artificially inflated prices. On June 9, 2011, the respondents jointly removed the case from the Chancery Court of Hinds County to the federal district court and asserted federal jurisdiction was satisfied under the Class Action Fairness Act (CAFA). Class action and mass action suits can be properly removed to federal court under the CAFA.</p>\n<p>The State of Mississippi moved to remand the case to state court because the claims in the suit were asserted on behalf of the general public, which prevented the case from falling under federal jurisdiction. The district court granted the motion. The respondents appealed to the United States Court of Appeals of Fifth Circuit, which reversed the lower court's decision. The appellate court held that the suit qualified as a mass action under the CAFA and that Mississippi brought the case in the interest of individual citizens, so the general public exception was not applicable.</p>\n",
+    "conclusion": "<p>No. Justice Sonia Sotomayor delivered the opinion for the unanimous Court. The Supreme Court held that, while CAFA allows defendants in mass action civil suits to remove the case to federal district court, this case does not qualify as a mass action under CAFA. The plain text of CAFA states that a mass action refers to any case with 100 or more persons seeking to try a case jointly for monetary compensation. The Court held that the language of the statute reinforces the interpretation that \"persons\" refers to plaintiffs in the sense of real named parties to the suit. Because Mississippi is the only named plaintiff in this case, it does not fulfill the meaning of a mass action under CAFA, and the case should be considered in state court.</p>\n"
+}

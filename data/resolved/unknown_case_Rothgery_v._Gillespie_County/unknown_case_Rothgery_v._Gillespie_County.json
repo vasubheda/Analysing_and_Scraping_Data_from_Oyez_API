@@ -1,0 +1,42 @@
+{
+    "ID": 55470,
+    "name": "Rothgery v. Gillespie County",
+    "href": "https://api.oyez.org/cases/2007/07-440",
+    "view_count": 0,
+    "docket_number": "07-440",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1196661600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39912"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1205730000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39913"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1214197200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39914"
+        }
+    ],
+    "question": "<p>Did the Fifth Circuit err in holding that Rothgery's right to counsel under the Sixth Amendment was not implicated when he was denied counsel at the time of his initial hearing for being a felon in possession of a firearm but the hearing was conducted without the involvement of a prosecutor?</p>\n",
+    "citation": {
+        "volume": "554",
+        "page": "191",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20768"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/554/191/",
+    "facts_of_the_case": "<p>Walter Rothgery was arrested in Texas as a felon in possession of a firearm. Rothgery was taken before a judge for processing and, upon learning that seeking legal assistance would delay the proceedings, waived his Sixth Amendment right to counsel. No prosecutor was present at this hearing. Rothgery posted bail and was released, but was rearrested after a grand jury indictment several months later hiked his bail to a sum he could not afford. Throughout this entire period Rothgery continued to pursue legal counsel and only obtained such counsel approximately one week after the grand jury indictment. Rothgery's attorney produced evidence that Rothgery was in fact not a felon and he was released from custody. Rothgery brought suit against Gillespie County, TX for violating his civil rights by not appointing counsel as required under the Sixth Amendment.</p>\n<p>Both the district court and the Fifth Circuit rejected his claim, the Fifth Circuit stating that Rothgery's Sixth Amendment rights were not implicated because no prosecutor was present at the initial hearing. In his petition for certiorari, Rothgery argued that both federal and state case law indicate that the Sixth Amendment right to counsel applies to any hearing where a defendant is advised of his rights and the charges against him, regardless of whether or not a prosecutor is present.</p>\n",
+    "conclusion": "<p>Yes. In an 8-1 ruling, the Court held that a criminal defendant's initial appearance before a judge marks the beginning of the proceedings against him and triggers the defendant's Sixth Amendment right to counsel whether or not a prosecutor is aware of or involved in that appearance. This right to counsel applies whenever a defendant learns of the charges against him and has his liberty subject to restriction. The opinion was penned by Justice David Souter. Justice Clarence Thomas wrote the only dissent, arguing that the phrase \"criminal prosecution\" as used in the Sixth Amendment should not include a defendant's initial appearance in the absence of a prosecutor. Chief Justice John G. Roberts, joined by Justice Antonin Scalia, chose to write a concurring opinion pointing out the validity of Thomas' argument but reasoning that Court precedent required him to agree with the majority. Justice Samuel Alito also filed a concurring opinion, stating that Rothgery's right to counsel certainly arose at the time of his appearance but reserving judgment on whether the County's actions infringed on that right in this case.</p>\n"
+}

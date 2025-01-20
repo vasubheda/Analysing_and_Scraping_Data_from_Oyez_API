@@ -1,0 +1,42 @@
+{
+    "ID": 62738,
+    "name": "Sessions v. Morales-Santana",
+    "href": "https://api.oyez.org/cases/2016/15-1191",
+    "view_count": 0,
+    "docket_number": "15-1191",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1467090000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53880"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1478671200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53914"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1497243600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54054"
+        }
+    ],
+    "question": "<ol><li>Did the statutory distinction between the physical presence requirements for transferral of derivative citizenship for unwed citizen mothers and unwed citizen fathers of foreign-born children violate the Equal Protection Clause of the Fifth Amendment?</li>\n<li>Did the U.S. Court of Appeals for the Second Circuit\u2019s decision that the gender-based difference was a violation of equal protection constitute a conferral of U.S. citizenship in the absence of statutory authority to do so?</li>\n</ol>",
+    "citation": {
+        "volume": "582",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27449"
+    },
+    "term": "2016",
+    "description": "A case in which the Court held that statutory distinction between the physical presence requirements for transferral of derivative citizenship for unwed citizen mothers and unwed citizen fathers of foreign-born children violates the Equal Protection Clause of the Fifth Amendment, and it is up to Congress, rather than the courts, to create a uniform solution that does not disadvantage any person on the basis of gender.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/582/15-1191/",
+    "facts_of_the_case": "<p>Luis Ramon Morales-Santana was born in 1962 in the Dominican Republic to a father who had become an American citizen in 1917 and a mother who was a citizen of the Dominican Republic. At the time, Morales-Santana\u2019s parents were unmarried, and when they married in 1970, Morales-Santana was \u201clegitimated\u201d by his father\u2019s citizenship, and he became a lawful permanent resident in 1975. Under the Immigration and Nationality Act in effect at the time of Morales-Santana\u2019s birth, a child born abroad to an unwed citizen father and a non-citizen mother only had citizenship at birth if the citizen father was physically present in the United States or one of its possessions for a period totalling ten years at some point prior to the child\u2019s birth, and at least five of those years had to be after the age of 14. Because Morales-Santana\u2019s father was only physically present in Puerto Rico until 20 days before his 19th birthday, when he left to work in the Dominican Republic, he did not meet the requirements to transfer derivative citizenship to Morales-Santana upon his birth.</p>\n<p>In 2000, Morales-Santana was placed in removal proceedings because he had been convicted of various felonies. He applied to have the removal withheld and argued that he had derivative citizenship from his father, but the immigration judge denied the application. Morales-Santana filed a motion to reopen and argued that the denial of derivative citizenship violated the Equal Protection Clause of the Fifth Amendment. Although his father did not satisfy the requirements for unwed citizen fathers to transfer derivative citizenship, he did meet the less stringent requirements for unwed citizen mothers (which required physical presence in the United States or one of its possessions for at least a year at some point prior to the child\u2019s birth), and the gender-based difference was a violation of Equal Protection. The Bureau of Immigration Appeals denied the motion to reopen, but the U.S. Court of Appeals for the Second Circuit reversed and held that the gender-based difference in the physical presence requirement violated the Equal Protection Clause of the Fifth Amendment.</p>\n",
+    "conclusion": "<p dir=\"ltr\">The statutory distinction between the physical presence requirements for transferral of derivative citizenship for unwed citizen mothers and unwed citizen fathers of foreign-born children violates the Equal Protection Clause of the Fifth Amendment, and it is up to Congress, rather than the courts, to create a uniform solution that does not disadvantage any person on the basis of gender. Justice Ruth Bader Ginsburg delivered the opinion for the 6-2 majority. The Court held that laws granting or denying benefits on the basis of the gender of the qualifying parent were subject to heightened review under the Court\u2019s equal protection jurisprudence. To be valid, such legislation must serve an important government objective and the means of accomplishing it must be substantially related to that objective. In this case, the Immigration and Nationality Act did not meet that burden. Instead, the gender differential was based solely on the now-untenable assumption that an unwed mother is the \u201cnatural and sole guardian of non-marital children.\u201d Although the petitioner argued that the physical presence requirements served the important interest of ensuring a connection between the foreign-born non-marital child and the United States, a gender-based description does not accomplish that goal. Because the gender-based difference was due to overbroad, disfavored generalizations about gender, it did not serve an important government objective and therefore failed to pass the heightened scrutiny test. Despite the fact that the distinction between the physical presence requirements violates the Equal Protection Clause of the Fifth Amendment, the judicial branch cannot resolve the problem by determining which requirement controls. Congress must instead address that issue in legislation.</p>\n<p dir=\"ltr\">Justice Clarence Thomas wrote an opinion concurring in the judgment in part in which he argued that only Congress could remedy the alleged equal protection violation in this case. Because the Court could not grant the relief that Morales-Santana requested, the Court should not reach a decision on whether the requirements were constitutional. Justice Samuel A. Alito, Jr. joined in the opinion concurring in the judgment in part.</p>\n<p>\u00a0</p>\n<p dir=\"ltr\">Justice Neil Gorsuch did not participate in the discussion or decision of this case. </p>\n"
+}

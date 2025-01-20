@@ -1,0 +1,35 @@
+{
+    "ID": 54917,
+    "name": "Lewis v. Lewis & Clark Marine, Inc.",
+    "href": "https://api.oyez.org/cases/2000/99-1331",
+    "view_count": 0,
+    "docket_number": "99-1331",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                975477600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38574"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                982735200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38575"
+        }
+    ],
+    "question": "<p>Did a District Court abuse its discretion when it dissolved an injunction under the Limitation of Liability Act, which prevented a seaman from suing a vessel owner in state court for personal injuries sustained aboard the vessel?</p>\n",
+    "citation": {
+        "volume": "531",
+        "page": "438",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18846"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/531/438/",
+    "facts_of_the_case": "<p>In 1998, James F. Lewis, a deckhand aboard the M/V Karen Michelle owned by Lewis &amp; Clark Marine, Inc., claimed that he was injured when he tripped over a wire on the boat. Lewis then sued Lewis &amp; Clark in Illinois County Court, for personal injuries claiming negligence under the Jones Act. Lewis &amp; Clark had already filed a complaint for exoneration from, or limitation of, liability in the District Court under the Limitation of Liability Act (Act). Subsequently, the court approved a surety bond of $450,000, representing Lewis &amp; Clark's interest in the vessel, ordered that any claim related to the incident be filed with the court within a specified period, and enjoined the filing or prosecution of any suits related to the incident. The injunction prevented Lewis from litigating his personal injury claims in state court and he moved to dissolve it. The District Court noted that federal courts have the exclusive jurisdiction to determine whether a vessel owner is entitled to limited liability, but also recognized that the statute conferring exclusive jurisdiction over admiralty and maritime suits to federal courts saves to suitors \"all other remedies to which they are other wise entitled.\" Ultimately, the court dissolved the injunction. The Court of Appeals reversed.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Sandra Day O'Connor, the Court held that because state courts may adjudicate claims like Lewis' against vessel owners so long as the owner's right to seek limitation of liability is protected, the Court of Appeals erred in reversing the District Court's decision to dissolve the injunction. Writing for the Court, Justice O'Conner rejected the respondent's proposal to make \"run of the mill personal injury actions involving vessels a matter of exclusive federal jurisdiction except where the claimant happens to seek a jury trial.\"</p>\n"
+}

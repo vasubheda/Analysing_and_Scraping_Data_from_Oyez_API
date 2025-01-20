@@ -1,0 +1,42 @@
+{
+    "ID": 55770,
+    "name": "Global-Tech Appliances, Inc. v. SEB S.A.",
+    "href": "https://api.oyez.org/cases/2010/10-6",
+    "view_count": 0,
+    "docket_number": "10-6",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1286859600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40710"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1298440800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40711"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1306818000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40712"
+        }
+    ],
+    "question": "<p>Does induced infringement under the patent clause require knowledge that the induced acts constitute patent infringement?</p>\n",
+    "citation": {
+        "volume": "563",
+        "page": null,
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19692"
+    },
+    "term": "2010",
+    "description": "A case in which the Court ruled that induced infringement under the patent clause requires knowledge that the induced acts constitute patent infringement.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/563/754/",
+    "facts_of_the_case": "<p>French-based SEB S.A. sells home cooking products in the United States through an indirect subsidiary, T-Fal Corp. SEB owns a patent for a type of deep fryer with an inexpensive plastic outer shell. The improvement of the patent was to separate the shell from the fryer pan to allow for the less expensive material. Hong Kong-based Pentalpha Enterprises, a subsidiary of Global-Tech Appliances, a British Virgin Islands corporation, began selling its deep fryers to Sunbeam Products Inc. in 1997. The company developed the product after purchasing an SEB deep fryer and copying its features. Though Pentalpha solicited and received a \"right-to-use study\" from a U.S. attorney citing no infringement of any patent, the company had failed to notify the attorney of the copying. SEB filed a lawsuit against Sunbeam and the companies settled. Though Pentalpha was aware of that litigation, it subsequently sold the same deep fryers to Fingerhut Corp. and Montgomery Ward &amp; Co. In 1999, SEB sued Montgomery Ward, Global-Tech, and Pentalpha for infringement in the U.S. District Court for the Southern District of New York, which ruled against Pentalpha. In February 2010, the U.S. Court of Appeals for the Federal Circuit affirmed the district court decision and further held that \"deliberate indifference\" to potential patent rights satisfies the knowledge requirement for induced infringement.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court affirmed the lower court holding in an opinion by Justice Samuel Alito. \"Induced infringement under \u00a7271(b) requires knowledge that the induced acts constitute patent infringement,\" Alito wrote for the majority. Justice Anthony Kennedy dissented, contending that the majority is \"incorrect in the definition it now adopts; but even on its own terms the Court should remand to the Court of Appeals to consider in the first instance whether there is sufficient evidence of knowledge to support the jury's finding of inducement.\"</p>\n"
+}

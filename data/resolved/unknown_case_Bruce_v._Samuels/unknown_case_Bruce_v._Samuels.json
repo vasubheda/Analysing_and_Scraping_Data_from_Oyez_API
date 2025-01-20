@@ -1,0 +1,42 @@
+{
+    "ID": 62307,
+    "name": "Bruce v. Samuels",
+    "href": "https://api.oyez.org/cases/2015/14-844",
+    "view_count": 0,
+    "docket_number": "14-844",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1434344400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52777"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1446616800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52810"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1452578400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53385"
+        }
+    ],
+    "question": "<p>When a prisoner has more than one case or appeal pending in federal courts, does the Prison Litigation Reform Act cap the monthly payment to cover filing fees at 20% of the prisoner\u2019s monthly income?</p>\n",
+    "citation": {
+        "volume": "577",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27109"
+    },
+    "term": "2015",
+    "description": "A case in which the Court will determine whether the Prison Litigation Reform Act caps the monthly payment to cover a prisoner\u2019s filing fees at 20% of the prisoner\u2019s monthly income regardless of the number of pending cases the prisoner has in federal courts.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/577/82/",
+    "facts_of_the_case": "<p>Several prisoners housed in the Special Management Unit (SMU) of the Federal Correctional Institution in Talladega, which is for gang-affiliated and other disruptive inmates, sued Bureau of Prisons (BOP) officials and claimed that SMUs violated the Eighth Amendment. Because SMUs housed gang-affiliated prisoners, the petitioners argued that the SMUs were unconstitutionally violent and dangerous because the BOP officials did not separate members of rival gangs. The prisoners moved to proceed <em>in forma pauperis</em>, which would allow them to waive filing fees. The parties then engaged in extensive back-and-forth filings regarding the collection of filing fees and the ability of other prisoners to join in the case. The U.S. Court of Appeals for the District of Columbia Circuit held that the Prison Litigation Reform Act prevented the prisoners from completely waiving filing fees, and that they instead must pay a percentage of their monthly income to cover filing fees.</p>\n",
+    "conclusion": "<p>The filing fee requirement of the Prison Litigation Reform Act (PLRA) is assessed on a per-case, rather than per-prisoner, basis. Justice Ruth Bader Ginsburg delivered the opinion for the unanimous Court, which held that, for each case a prisoner filed, the PLRA requires simultaneous payment of filing fees. Because the PLRA generally refers to cases individually and provides instructions for each case, the per-case approach is a better reading of the statute that also comports with the PLRA\u2019s goal of deterring frivolous claims.</p>\n"
+}

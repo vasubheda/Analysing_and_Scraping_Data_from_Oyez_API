@@ -1,0 +1,42 @@
+{
+    "ID": 55784,
+    "name": "Kasten v. Saint-Gobain Performance Plastics Corp.",
+    "href": "https://api.oyez.org/cases/2010/09-834",
+    "view_count": 0,
+    "docket_number": "09-834",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1269234000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40751"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1286946000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40752"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1300770000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40753"
+        }
+    ],
+    "question": "<p>The Fair Labor Standards Act protects employees from retaliation for complaining about violations of the statute. Does the protection apply only if the complaint is in writing?</p>\n",
+    "citation": {
+        "volume": "563",
+        "page": null,
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19706"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that the Fair Labor Standards Act applies to a complaint, whether oral or written.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/563/1/",
+    "facts_of_the_case": "<p>On December 11, 2006, Saint-Gobain Performance Plastic terminated Kevin Kasten's employment. Mr. Kasten filed suit under the Fair Labor Standards Act (\"FLSA\") in a Wisconsin federal district court alleging that he was retaliated against for filing complaints about the legality of the location of Saint- Gobain's time clocks. Mr. Kasten alleges that the location of the time clocks prevented employees from being paid for time spent donning and doffing their required protective gear. Saint-Gobain motioned for summary judgment arguing that purely verbal complaints, like those made by Mr. Kasten, were not protected activity under the FLSA. The district court granted the motion and dismissed the case. On appeal, the U.S. Court of Appeals for the Seventh Circuit affirmed, holding that unwritten, purely verbal complaints are not protected activity under the FLSA.</p>\n",
+    "conclusion": "<p>No. The Supreme Court reversed and remanded the lower court decision in an opinion by Justice Stephen G. Breyer. The majority held that the Fair Labor Standards Act applies to a complaint, whether oral or written. Justice Antonin Scalia filed a dissenting opinion joined by Justice Clarence Thomas. \"The retaliation provision contemplates an official grievance filed with a court or an agency, not oral complaints\u2014or even formal, written complaints \u2014 from an employee to an employer,\" Scalia argued. Justice Elena Kagan did not take part in the consideration of the case.</p>\n"
+}

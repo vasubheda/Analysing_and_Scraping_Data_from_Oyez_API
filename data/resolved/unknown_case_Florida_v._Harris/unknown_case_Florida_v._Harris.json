@@ -1,0 +1,42 @@
+{
+    "ID": 55915,
+    "name": "Florida v. Harris",
+    "href": "https://api.oyez.org/cases/2012/11-817",
+    "view_count": 0,
+    "docket_number": "11-817",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1332738000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41108"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1351659600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41109"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1361253600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41110"
+        }
+    ],
+    "question": "<p>Does a drug-detection dog's alert to the exterior of a vehicle provide an officer with probable cause to conduct a warrantless search of the interior of the vehicle?</p>\n",
+    "citation": {
+        "volume": "568",
+        "page": "237",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19837"
+    },
+    "term": "2012",
+    "description": "A case in which the Court found that police officers do not need to show evidence of a drug-detection dog's reliability to prove probable cause.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/568/237/",
+    "facts_of_the_case": "<p>The State of Florida charged Clayton Harris with possession of pseudoephedrine with intent to manufacture methamphetamine. At trial, Harris moved to suppress evidence obtained during a warrantless search of his car. Police searched the car during a traffic stop for expired registration when a drug detection dog alerted the officer. This dog was trained to detect several types of illegal substances, but not pseudoephedrine. During the search, the officer found over 200 loose pills and other supplies for making methamphetamine. Harris argued that the dog's alert was false and did not provide probable cause for the search. The trial court denied Harris motion, holding that the totality of the circumstances indicated that there was probable cause to conduct the search. The First District Court of Appeal affirmed, but the Florida Supreme Court reversed, holding that the State did not prove the dog's reliability in drug detection sufficiently to show probable cause.</p>\n",
+    "conclusion": "<p>Yes. Justice Elena Kagan, writing for a unanimous court, reversed the Florida Supreme Court. The U.S. Supreme Court rejected the lower court's rigid requirement that police officers show evidence of a dog's reliability in the field to prove probable cause. Probable cause is a flexible common sense test that takes the totality of the circumstances into account. A probable cause hearing for a dog alert should proceed like any other, allowing each side to make their best case with all evidence available. The record in this case supported the trial court's determination that police had probable cause to search Harris' car.</p>\n<p><em>Learn more about the Roberts Court and the Fourth Amendment in <a href=\"http://projects.oyez.org/shifting-scales/\">Shifting Scales</a>, a nonpartisan Oyez resource.</em></p>\n"
+}

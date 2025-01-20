@@ -1,0 +1,28 @@
+{
+    "ID": 55369,
+    "name": "Ministry of Defense and Support for the Armed Forces of the Islamic Republic of Iran v. Elahi",
+    "href": "https://api.oyez.org/cases/2005/04-1095",
+    "view_count": 0,
+    "docket_number": "04-1095",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1140501600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39640"
+        }
+    ],
+    "question": "<p>Is the property of a foreign state excepted from immunity under the Foreign Sovereign Immunities Act of 1976 if the state is \"engaged in commercial activity in the United States?</p>\n",
+    "citation": {
+        "volume": "546",
+        "page": "450",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20575"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/546/450/",
+    "facts_of_the_case": "<p>Dariush Elahi sued in federal court claiming that the Islamic Republic of Iran had murdered his brother, and he won $300 million in damages. When Iran's Ministry of Defense won an arbitration award against a third party, Elahi sued to claim the award as part of the damages due to him. The Ministry objected, arguing that the Foreign Sovereign Immunities Act of 1976 (FSIA) granted its property immunity from such claims. The District Court ruled for Elahi on the grounds that the Ministry had waived its immunity when it sued to enforce its award against the third party. The Court of Appeals for the Ninth Circuit rejected the District Court's reasoning, but it also ruled for Elahi, pointing to a provision of the FSIA that excepts from immunity the property of any \"agency or instrumentality\" of a foreign government if the agency is \"engaged in commercial activity in the United States.\" The Ninth Circuit ruled that the exception covers any foreign state as long as it is \"engaged in commercial activity in the United States.\"</p>\n",
+    "conclusion": "<p>No. In an anonymous, unanimous <em>per curiam</em> opinion, the Court rejected the Ninth Circuit's reasoning and ruled that the exception only applies to \"agenc[ies] and instrumentalit[ies]\" of foreign states, not to the states themselves. The Court faulted the Ninth Circuit for ignoring this \"critical\" distinction. Although the Court's ruling was confined to the narrow legal question presented, the Court also hinted strongly that the Ministry of Defense of Iran should be considered an integral part of the state of Iran, not an \"agency or instrumentality\" of the state. The Ninth Circuit's judgment was reversed and the case was sent back for further consideration consistent with the Court's opinion.</p>\n"
+}

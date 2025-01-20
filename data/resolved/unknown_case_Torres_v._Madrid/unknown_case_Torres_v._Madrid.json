@@ -1,0 +1,42 @@
+{
+    "ID": 63210,
+    "name": "Torres v. Madrid",
+    "href": "https://api.oyez.org/cases/2020/19-292",
+    "view_count": 0,
+    "docket_number": "19-292",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1576648800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54636"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1602651600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54766"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1616648400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54866"
+        }
+    ],
+    "question": "<p>Must physical force used to detain a suspect be successful to constitute a \u201cseizure\u201d under the Fourth Amendment?</p>\n",
+    "citation": {
+        "volume": "592",
+        "page": null,
+        "year": "2021",
+        "href": "https://api.oyez.org/case_citation/case_citation/27731"
+    },
+    "term": "2020",
+    "description": "A case in which the Court held that application of physical force to the body of a person with intent to restrain is a seizure, even if the person does not submit and is not subdued.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/592/19-292/",
+    "facts_of_the_case": "<p>In 2014, Roxanne Torres was involved in an incident with police officers in which she was operating a vehicle under the influence of methamphetamine and in the process of trying to get away, endangered the two officers pursuing her. In the process, one of the officers shot and injured her. Torres pleaded no contest to three crimes: (1) aggravated fleeing from a law enforcement officer, (2) assault on a police officer, and (3) unlawfully taking a motor vehicle.</p>\n<p>In October 2016, she filed a civil-rights complaint in federal court against the two officers, alleging claims including excessive force and conspiracy to engage in excessive force. Construing Torres\u2019s complaint as asserting the excessive-force claims under the Fourth Amendment, the court concluded that the officers were entitled to qualified immunity. In the court\u2019s view, the officers had not seized Torres at the time of the shooting, and without a seizure, there could be no Fourth Amendment violation. The U.S. Court of Appeals for the Tenth Circuit affirmed.</p>\n",
+    "conclusion": "<p>The application of physical force to the body of a person with intent to restrain is a seizure, even if the force does not succeed in subduing the person. Chief Justice John Roberts authored the majority opinion.</p>\n<p>Under the Court\u2019s precedents, common law arrests are considered seizures under the Fourth Amendment, and the application of force to the body of a person with intent to restrain constitutes an arrest even if the arrestee escapes. The use of a device, here, a gun, to effect the arrest, makes no difference in the outcome; it is still a seizure. There is no reason to draw an \u201cartificial line\u201d between grasping an arrestee with a hand and using some other means of applying physical force to effect an arrest. The key consideration is whether the conduct objectively manifests the intent to restrain; subjective perceptions are irrelevant. Additionally, the requirement of intent to restrain lasts only as long as the application of force. In this case, the officers\u2019 conduct clearly manifested intent to restrain Torres and was thus a seizure under the Fourth Amendment.</p>\n<p>Justice Amy Coney Barrett took no part in the consideration or decision of the case.</p>\n<p>Justice Neil Gorsuch authored a dissenting opinion, in which Justices Clarence Thomas and Samuel Alito joined, arguing that \u201cneither the Constitution nor common sense\u201d support the majority\u2019s definition of a seizure.</p>\n<p>\u00a0</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 62943,
+    "name": "Lamar, Archer & Cofrin, LLP v. Appling",
+    "href": "https://api.oyez.org/cases/2017/16-1215",
+    "view_count": 0,
+    "docket_number": "16-1215",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1515736800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54191"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1523941200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54230"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1528088400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54282"
+        }
+    ],
+    "question": "<p>Can a statement regarding a specific asset be a \u201cstatement respecting the debtor\u2019s . . . financial condition\u201d under section 523(a)(2)(B) of the Bankruptcy Code, and if so, when?</p>\n",
+    "citation": {
+        "volume": "584",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27568"
+    },
+    "term": "2017",
+    "description": "A case in which the Court decided that a statement regarding a specific asset can be a \u201cstatement respecting the debtor\u2019s . . . financial condition\u201d under section 523(a)(2)(B) of the Bankruptcy Code.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/584/16-1215/",
+    "facts_of_the_case": "<p>R. Scott Appling hired the law firm of Lamar, Archer &amp; Cofrin, LLP (\u201cLamar\u201d) to represent him in legal proceedings against the former owners of his business. Appling incurred significant legal fees, and verbally told Lamar that he would be able to pay them after he received a sizeable tax refund that he was expecting. In reliance upon this statement, the firm continued to represent him through the conclusion of the litigation. Appling received a tax refund, though it was smaller than what he had told Lamar he was anticipating, and he put it into his business rather than paying the debt he owed to Lamar. Lamar obtained a judgment against Appling, and Appling subsequently filed for bankruptcy. Lamar initiated an adversary proceeding to collect the debt, and the bankruptcy court ruled that the amount was not dischargeable pursuant to 11 U.S.C. \u00a7 523(a)(2)(A) because Lamar had justifiably relied upon Appling\u2019s fraudulent statements. The district court affirmed.</p>\n<p>The 11th Circuit reversed and remanded. Noting a circuit split on how to construe the statute at issue, the court explained that because Appling\u2019s fraudulent statements about his tax refund were not in writing and qualified as statements \u201crespecting [his] . . . financial condition\u201d under \u00a7 523(a)(2)(B), the debt could be discharged.</p>\n",
+    "conclusion": "<p>The Court held that a statement regarding a specific asset can be a \u201cstatement respecting the debtor\u2019s . . . financial condition\u201d under section 523(a)(2)(B) of the Bankruptcy Code. Interpreting the statutory provision at issue, the Court explained that the use of the word \u201crespecting\u201d in the legal context generally has a broadening effect. The Court also stated that the statute\u2019s legislative history supported its reading.</p>\n<p>Justices Thomas, Alito, and Gorsuch joined the opinion of the Court as to all but Part III-B.</p>\n"
+}

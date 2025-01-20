@@ -1,0 +1,35 @@
+{
+    "ID": 53847,
+    "name": "Exxon Corporation v. Central Gulf Lines, Inc.",
+    "href": "https://api.oyez.org/cases/1990/90-34",
+    "view_count": 0,
+    "docket_number": "90-34",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                671691600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36573"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                675925200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36574"
+        }
+    ],
+    "question": "<p>Whether a contract to procure for a vessel fuel from a third party is a maritime contract within admiralty jurisdiction and enforceable in an action <em>in rem</em>?</p>\n",
+    "citation": {
+        "volume": "500",
+        "page": "603",
+        "year": "1991",
+        "href": "https://api.oyez.org/case_citation/case_citation/17776"
+    },
+    "term": "1990",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/500/603/",
+    "facts_of_the_case": "<p>For certain contract disputes within admiralty jurisdiction, an action <em>in rem</em> is authorized against the vessel herself, even when jurisdiction cannot be asserted over her owner or operator. To satisfy a judgment for the plaintiff, the court may order the vessel sold at public auction. Such an action is permitted those who go unpaid after furnishing a vessel with supplies essential for her continued voyaging. But maritime law long distinguished the contracts of middlemen, that is, agents or brokers procuring supplies for a vessel from other sources. Such intermediary contracts were considered ordinary agency agreements, and therefore outside admiralty jurisdiction. The Supreme Court embraced this distinction in <em>Minturn v. Minyard, </em> 58 U.S. (17 How.) 477 (1854).</p>\n<p>In this case, EXXON sued a cargo ship, the <em>William Hopper, in rem</em> and her owner, Central Gulf Lines, <em>in personam</em> for the price of fuel delivered to the ship in the ports of New York and Jeddah. Exxon had a contract with Waterman Steamship Company to supply fuel for its fleet anywhere in the world. Sometimes EXXON furnished its own fuels; otherwise, EXXON procured fuels from other sellers. Among the vessels operated by Waterman was the <em>William Hopper</em>, leased from Central Gulf Lines. When she visited New York, Exxon supplied her with its own fuel. When she visited Jeddah, EXXON got her fuel from Arabian Marine Operating Company. EXXON paid Arabian Marine, but Waterman went bankrupt before paying EXXON. In the bankruptcy proceedings, Central Gulf agreed to pay EXXON if a court found the <em>William Hooper</em> liable <em>in rem</em>. Invoking <em>Minturn</em> and its progeny, the Southern District of New York agreed with Central Gulf Lines that Exxon's claim for the fuel procured in Jeddah was one of agency, and therefore outside admiralty jurisdiction. On appeal, the U.S. Court of Appeals for the Second Circuit affirmed without opinion.</p>\n",
+    "conclusion": "<p>No. A unanimous Court reversed and remanded, finding <em>Minturn v. Maynard</em> obsolete in light of subsequent developments in maritime law. Because the modern test for admiralty jurisdiction in contract cases turns not on the contract's type but on its purpose, a contract like this one between EXXON and Waterman, i.e., an agency contract for services maritime in nature, ought to qualify.</p>\n<p>Abstract prepared by Professor John Paul Jones, University of Richmond School of Law</p>\n"
+}

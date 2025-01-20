@@ -1,0 +1,42 @@
+{
+    "ID": 62770,
+    "name": "Midland Funding v. Johnson",
+    "href": "https://api.oyez.org/cases/2016/16-348",
+    "view_count": 0,
+    "docket_number": "16-348",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1476162000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53909"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1484632800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53957"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1494824400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54036"
+        }
+    ],
+    "question": "<p>\u00a0</p>\n<ol><li dir=\"ltr\">\n<p dir=\"ltr\">Does the Fair Debt Collection Practices Act (FDCPA) prevent creditors from filing proofs of claims on unpaid debts after the statute of limitations on those debts has run?</p>\n</li>\n<li dir=\"ltr\">Does the U.S. Bankruptcy Code preclude applications of the Fair Debt Collection Practices Act (FDCPA) when dealing with unpaid debts after the statute of limitations on those debts has run?</li>\n</ol>",
+    "citation": {
+        "volume": "581",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27472"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that the Fair Debt Collection Practices Act (FDCPA) does not prevent a creditor from filing a proof of claim on an unpaid debt in a Chapter 13 bankruptcy proceeding even after the statute of limitations on that debt has run.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/581/16-348/",
+    "facts_of_the_case": "<p dir=\"ltr\">In 2014, Aleida Johnson filed for bankruptcy in Alabama bankruptcy court under Chapter 13 of the Bankruptcy Code. In 2003 and years prior, Midland Funding had purchased a bundle of debt worth almost $2,000 from Johnson, so after she filed for bankruptcy, Midland Funding filed a proof of claim in the same court. Because the date of the last transaction in the account in question occurred in 2003 and the statute of limitations for collecting unpaid debt in Alabama is six years, Johnson sued Midland Funding in federal district court argued that the Fair Debt Collection Practices Act (FDCPA) prevented bankruptcy actions that had passed their statutes of limitations.</p>\n<p>\u00a0\n</p><p>Midland Funding moved to dismiss, and the district court granted the motion. The district court determined determined that, while the FDCPA prohibited the filing of a proof of claim known to be barred by the statute of limitations, the U.S. Bankruptcy Code allowed a creditor to file a proof of claim even after the statute of limitations has run. The district court resolved that conflict by holding that the creditors\u2019 right to file a claim precluded debtors from challenging that practice under the FDCPA. Johnson appealed, and the U.S. Court of Appeals for the Eleventh Circuit reversed and remanded the case. The appellate court found that, although the Bankruptcy Code allowed creditors to file claims barred by the statute of limitations, that did not preclude them from liability under the FDCPA for filing the claim.</p>\n",
+    "conclusion": "<p dir=\"ltr\">The Fair Debt Collection Practices Act (FDCPA) does not prevent a creditor from filing a proof of claim on an unpaid debt in a Chapter 13 bankruptcy proceeding even after the statute of limitations on that debt has run. Justice Stephen G. Breyer delivered the opinion for the 5-3 majority. The Court held that the FDCPA only prohibits a debt collector from asserting any \u201cfalse, deceptive, or misleading representation\u201d or using an \u201cunfair or unconscionable means\u201d to collect on an unfair debt. Filing a proof of claim on a debt that is unenforceable because the statute of limitations has run does not count as \u201cfalse\u201d or \u201cmisleading\u201d under the FDCPA. Although a claim is defined as a \u201cright of payment\u201d in the Bankruptcy Code, there is no requirement that the claim be enforceable. The Code treats the unenforceability of a claim as an affirmative defense, but the claim may still be filed and does not give rise to the type of practices the FDCPA was enacted to prevent. The Court also held that, while there is precedent that established that the filing of a claim that is known to be time barred was unfair in the civil suit context, that precedent does not extend to Chapter 13 proceedings. The Bankruptcy Code and the FDCPA have different purposes, and to allow an FDCPA suit to proceed in this case would upset the balance between the two pieces of legislation. </p>\n<p dir=\"ltr\">Justice Sonia Sotomayor wrote a dissent in which she argued that a creditor who knowingly tries to collect a time-barred debt in bankruptcy proceedings has violated the FDCPA. Because invoking the statute of limitations is an affirmative defense, creditors have historically sought to collect on time-barred debts by filing claims and hoping that either the debtors do not respond or do not invoke the defense, which allows creditors to collect default judgments. This is precisely the type of practice that the FDCPA was enacted to prevent, and it has been interpreted as doing so in the civil suit context. Justice Sotomayor argued that the FDCPA should also prevent this practice in bankruptcy court because there are no additional protections for the debtor in that context that make the time-barred nature of the claim more likely to be noticed than there are in a civil suit. Justice Ruth Bader Ginsburg and Justice Elena Kagan joined in the dissent.</p>\n<p>Justice Neil Gorsuch did not participate in the discussion or decision of this case. </p>\n"
+}

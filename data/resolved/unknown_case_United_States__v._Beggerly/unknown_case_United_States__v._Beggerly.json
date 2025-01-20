@@ -1,0 +1,35 @@
+{
+    "ID": 54605,
+    "name": "United States  v. Beggerly",
+    "href": "https://api.oyez.org/cases/1997/97-731",
+    "view_count": 0,
+    "docket_number": "97-731",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                893653200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37994"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                897282000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37995"
+        }
+    ],
+    "question": "<p>Do federal courts lack jurisdiction over action to reopen a settlement quieting land title in the Federal Government either under Rule 60(b) of Federal Rules of Civil Procedure as an independent action or under Quiet Title Act?</p>\n",
+    "citation": {
+        "volume": "524",
+        "page": "38",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18534"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/524/38/",
+    "facts_of_the_case": "<p>In 1979, the United States sued Chris W. Beggerly and the Beggerly family to quiet title to Horn Island, located within the state of Mississippi, for a federal park. The Government argued that Beggerly did not have clear title because the Government had never patented the disputed land after acquiring it as part of the Louisiana Purchase. In 1982, a settlement quieted title in the Government's favor. However, in 1994, with new evidence, Beggerly sued, seeking to set aside the settlement agreement and obtain damages. Ultimately, the District Court concluded that it had no jurisdiction to hear the case. In reversing, the Court of Appeals found jurisdiction under the Quiet Title Act and under Federal Rule of Civil Procedure 60(b) as an \"independent action.\" The appellate court then vacated the settlement agreement and instructed the District Court to quiet title in Beggerly's favor.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion delivered by Chief Justice William H. Rehnquist, the Court held that the Court of Appeals erred in concluding that this was a sufficient basis to justify reopening the judgment. \"[A]n independent action should be available only to prevent a grave miscarriage of justice,\" wrote Chief Justice Rehnquist, \"it should be obvious that [the Beggerlys'] allegations do not nearly approach this demanding standard.\" The Court also concluded that the Court of Appeals extension of the Quiet Title Act's statutory period by equitable tolling was unwarranted, given its generous nature. Justice John Paul Stevens wrote a concurring opinion.</p>\n"
+}

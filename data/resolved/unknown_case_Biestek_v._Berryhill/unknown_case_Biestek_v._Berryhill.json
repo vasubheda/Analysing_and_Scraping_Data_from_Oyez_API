@@ -1,0 +1,42 @@
+{
+    "ID": 63011,
+    "name": "Biestek v. Berryhill",
+    "href": "https://api.oyez.org/cases/2018/17-1184",
+    "view_count": 0,
+    "docket_number": "17-1184",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1529902800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54322"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1543903200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54382"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1554094800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54484"
+        }
+    ],
+    "question": "<p>During an application for Supplemental Security Income (SSI) and Disability Insurance (SSDI) benefits, does a vocational expert\u2019s testimony count as \u201csubstantial evidence\u201d of \u201cother work\u201d if the expert does not provide the underlying data on which that testimony is premised?</p>\n",
+    "citation": {
+        "volume": "587",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27612"
+    },
+    "term": "2018",
+    "description": "A case in which the Court held that a vocational expert\u2019s testimony may constitute \u201csubstantial evidence\u201d of \u201cother work\u201d even if the expert does not provide the underlying data on which that testimony is premised.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/587/17-1184/",
+    "facts_of_the_case": "<p>Michael Biestek worked for most of his life as a carpenter and a construction laborer. He stopped working in June 2005 due to a degenerative disc disease, Hepatitis C, and depression. He applied for SSI and SSDI benefits in March 2010, alleging a disability onset date of October 28, 2009. The Social Security Administration (SSA) denied his application in August 2010, an Administrative Law Judge (ALJ) denied his application, and the Social Security Administration Appeals Council denied review. Biestek timely appealed, and the district court adopted the magistrate judge\u2019s finding that the ALJ had not obtained necessary medical-expert testimony and did not pose a sufficiently specific hypothetical to the vocational expert. On remand, the ALJ found that Biestek was disabled from May 4, 2013, but not before. Biestek appealed the ALJ\u2019s determination, and the district court affirmed.</p>\n<p>The Sixth Circuit affirmed the district court, holding that substantial evidence supported the ALJ\u2019s finding that Biestek did not meet the back-pain-related impairment requirement and that the ALJ properly evaluated the testimony of medical experts and a vocational expert.</p>\n",
+    "conclusion": "<p>A vocational expert\u2019s refusal to provide the underlying private data during a Social Security disability benefits hearing does not categorically preclude the testimony from counting as \u201csubstantial evidence\u201d in federal court. In a 6\u20133 opinion by Justice Elena Kagan, the Court held that whether testimony amounts to \u201csubstantial evidence\u201d requires a case-by-case determination and cannot be subject to a categorical rule as Biestek proposed in this case.</p>\n<p>\u201cSubstantial evidence\u201d is anything more than \u201ca mere scintilla.\u201d Under the categorical approach proposed by Biestek, the testimony of a vocational expert who refuses a request for supporting data would never constitute substantial evidence, which is an illogical result. If there is no demand for underlying data, the vocational expert\u2019s testimony may count as substantial evidence even without supporting data. The mere addition of a request for that data should not render the expert\u2019s testimony categorically inadequate.</p>\n<p>Justice Sonia Sotomayor filed a dissenting opinion, arguing that the question presented in the case required considering not only the propriety of a categorical rule but also the narrower circumstances of Biestek\u2019s case. In this case, Justice Sotomayor argued that the expert provided only conclusory testimony that cannot alone constitute substantial evidence to support the ALJ\u2019s conclusions.</p>\n<p>Justice Neil Gorsuch filed a dissenting opinion, in which Justice Ruth Bader Ginsburg joined, arguing that the expert\u2019s bottom-line testimony fails to satisfy the government\u2019s statutory burden of substantial evidence. Justice Gorsuch argued that if \u201cclearly mistaken evidence, fake evidence, speculative evidence, and conclusory evidence aren\u2019t substantial evidence [and federal appellate jurisprudence says they are not], the evidence here shouldn\u2019t be either.\u201d</p>\n"
+}

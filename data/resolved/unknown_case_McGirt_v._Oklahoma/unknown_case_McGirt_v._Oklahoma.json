@@ -1,0 +1,42 @@
+{
+    "ID": 63205,
+    "name": "McGirt v. Oklahoma",
+    "href": "https://api.oyez.org/cases/2019/18-9526",
+    "view_count": 0,
+    "docket_number": "18-9526",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1576216800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54631"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1589173200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54705"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1594270800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54754"
+        }
+    ],
+    "question": "<p>Can a state prosecute an enrolled member of the Creek Tribe for crimes committed within the historical Creek boundaries?</p>\n",
+    "citation": {
+        "volume": "591",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27726"
+    },
+    "term": "2019",
+    "description": "A case in which the Court held that parts of eastern Oklahoma are an Indian reservation subject to exclusive federal jurisdiction for certain crimes under the Indian Major Crimes Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/591/18-9526/",
+    "facts_of_the_case": "<p>Jimcy McGirt, a member of the Muscogee (Creek) Nation was convicted of sex crimes against a child by the state of Oklahoma within the historical Creek Nation boundaries. He argued that Oklahoma could not exercise jurisdiction over him because under the Indian Major Crimes Act, any crime involving a Native American victim or perpetrator, or occurring within recognized reservation boundaries, is subject to federal jurisdiction, not state jurisdiction.</p>\n",
+    "conclusion": "<p>Land reserved for the Creek Nation since the 19th century remains \u201cIndian country\u201d under the Major Crimes Act (MCA), which grants the federal government exclusive jurisdiction to try certain major crimes committed by enrolled members of a tribe on that land. Justice Neil Gorsuch authored the 5-4 majority opinion holding that Oklahoma lacked jurisdiction to prosecute Jimcy McGirt.</p>\n<p>The Court first noted that all parties agreed that McGirt\u2019s crimes were committed on lands described as belonging to the Creek Nation in an 1866 treaty and federal statute. Though the early treaties did not refer to the Creek lands as a \u201creservation,\u201d the Court has held that similar language in treaties from the same era was sufficient to create a reservation. An 1856 treaty promised that \u201cno portion\u201d of Creek lands \u201cwould ever be embraced or included within, or annexed to, any Territory or State\u201d and that the Creek Nation would have the \u201cunrestricted right of self-government,\u201d with \u201cfull jurisdiction\u201d over enrolled Tribe members and their property.</p>\n<p>Once a federal reservation is established, only Congress can diminish or disestablish it through a \u201cclear expression of congressional intent.\u201d The Court acknowledged that Congress has broken many promises to the Tribe but none has manifested \u201cclear expression of congressional intent\u201d to disestablish the Creek Reservation. The Court rejected Oklahoma\u2019s argument that Congress never established a reservation in the first place, finding that such a conclusion \u201cwould require willful blindness to the statutory language.\u201d The Court also rejected Oklahoma\u2019s argument that the Oklahoma Enabling Act transferred jurisdiction from federal courts to state courts as contrary to the plain terms of the MCA. The mere fact that Oklahoma has been exercising jurisdiction in these cases does not make it in any more correct. Indeed, \u201cunlawful acts, performed long enough and with sufficient vigor, are never enough to amend the law.\u201d</p>\n<p>Chief Justice John Roberts authored a dissenting opinion, in which Justices Samuel Alito and Brett Kavanaugh joined, and in which Justice Clarence Thomas joined in part. The dissent accused the majority of examining the statutes in isolation rather than considering a broader inquiry, which would have led to the conclusion that a reservation did not exist when McGirt committed his crimes.</p>\n<p>Justice Thomas authored a dissenting opinion to argue that the Court had no jurisdiction to review the judgment of the Oklahoma Court of Criminal Appeals because it rests on adequate and independent state ground.</p>\n"
+}

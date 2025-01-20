@@ -1,0 +1,42 @@
+{
+    "ID": 55779,
+    "name": "McNeill v. United States",
+    "href": "https://api.oyez.org/cases/2010/10-5258",
+    "view_count": 0,
+    "docket_number": "10-5258",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1294380000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40737"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1303707600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40738"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1307336400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40739"
+        }
+    ],
+    "question": "<p>Can a conviction under state law be treated as a serious drug offense for purposes of a longer sentence under the federal Armed Career Criminal Act, if the state law violated did not at the time of federal sentencing set a maximum prison term of at least 10 years, but had done so at the time the crime was committed?</p>\n",
+    "citation": {
+        "volume": "563",
+        "page": "816",
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19701"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that a federal sentencing court must determine whether an offense under state law is a \"serious drug offense\" within the meaning of the Armed Career Criminal Act by consulting the maximum sentence applicable at the time of the defendant's conviction. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/563/816/",
+    "facts_of_the_case": "<p>Clifton Terelle McNeill was sentenced to 300 months imprisonment after he was convicted of unlawful possession of a firearm and 240 months imprisonment for unlawful possession with intent to distribute approximately 3.1 grams of crack cocaine.</p>\n<p>The U.S. District Court for the Eastern District of North Carolina determined McNeill to be an armed career criminal and then departed upward from the United States Sentencing Guidelines to sentence McNeill to the maximum sentence applicable. McNeill contends that he is not eligible for sentencing under the Armed Career Criminal Act because the drug-related convictions upon which the district court relied do not qualify as serious drug offenses under the ACCA. The U.S. Court of Appeals for the 4th Circuit affirmed the district court order.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court affirmed the lower court order in a unanimous opinion by Justice Clarence Thomas. \"A federal sentencing court must determine whether 'an offense under State law' is a 'serious drug offense' by consulting the 'maximum term of imprisonment' applicable to a defendant's prior state drug offense at the time of the defendant's conviction for that offense,\" Thomas wrote.</p>\n"
+}

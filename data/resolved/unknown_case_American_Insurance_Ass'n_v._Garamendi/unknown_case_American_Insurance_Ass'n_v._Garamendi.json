@@ -1,0 +1,35 @@
+{
+    "ID": 55085,
+    "name": "American Insurance Ass'n v. Garamendi",
+    "href": "https://api.oyez.org/cases/2002/02-722",
+    "view_count": 0,
+    "docket_number": "02-722",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1051074000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38889"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1056344400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38890"
+        }
+    ],
+    "question": "<p>Did California's passage of the HVIRA interfere with the federal government's sovereignty over foreign affairs established by Article I of the Constitution?</p>\n",
+    "citation": {
+        "volume": "539",
+        "page": "396",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/19014"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/539/396/",
+    "facts_of_the_case": "<p>In 1999 the California legislature enacted the Holocaust Victim Insurance Relief Act (HVIRA) in an attempt to facilitate Holocaust-era insurance claims by California residents. The Act required all insurance companies doing business in California that sold policies to people in Europe between 1920 and 1945 to make public all of those policies, including the names of policy owners and the status of the policies. A group of insurance companies and a trade organization sued, saying that only the federal government, with its jurisdiction over commerce and foreign affairs, had the right to enact such legislation. They also said the law violated the Due Process and Equal Protection clauses of the U.S. Constitution because the companies, if they failed to comply, could lose their insurance licenses. The District Court ruled for the insurance companies; the 9th Circuit Court of Appeals reversed.</p>\n",
+    "conclusion": "<p>Yes. In a 5-4 opinion delivered by Justice David H. Souter, the Court held that California's HVIRA interferes with the president's ability to conduct the nation's foreign policy and is therefore preempted. The Court reasoned that an exercise of state power that concerns foreign relations must yield to the Federal Government's policy or that generally there is executive authority to decide what policy should be implemented. Based on an account of related international negotiations, the Court found sufficiently clear conflict between HVIRA and the President's foreign policy. \"The basic fact is that California seeks to use an iron fist where the President has consistently chosen kid gloves,\" wrote Justice Souter. Justice Ruth Bader Ginsburg, joined by Justices John Paul Stevens, Antonin Scalia, and Clarence Thomas, dissented, arguing that no executive agreement or other formal expression of foreign policy expressly disapproved of state disclosure laws like California's HVIRA.</p>\n"
+}

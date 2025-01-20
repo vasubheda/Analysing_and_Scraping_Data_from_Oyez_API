@@ -1,0 +1,26 @@
+{
+    "ID": 63682,
+    "name": "United States v. June",
+    "href": "https://api.oyez.org/cases/2014/13-1075",
+    "view_count": 0,
+    "docket_number": "13-1075",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1418191200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55459"
+        }
+    ],
+    "question": null,
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28016"
+    },
+    "term": "2014",
+    "description": null,
+    "justia_url": null
+}

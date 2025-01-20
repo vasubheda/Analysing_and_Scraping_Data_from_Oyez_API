@@ -1,0 +1,42 @@
+{
+    "ID": 63602,
+    "name": "Sheetz v. County of El Dorado, California",
+    "href": "https://api.oyez.org/cases/2023/22-1074",
+    "view_count": 0,
+    "docket_number": "22-1074",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1695963600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55330"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1704780000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55383"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1712898000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55440"
+        }
+    ],
+    "question": "<p>Is a monetary exaction imposed by a local government as a condition for a building permit exempt from the \u201cessential nexus\u201d and \u201crough proportionality\u201d requirements established in <em>Nollan v. Cal. Coastal Comm\u2019n</em> and <em>Dolan v. City of Tigard</em>, simply because the exaction is authorized by local legislation?</p>\n",
+    "citation": {
+        "volume": "601",
+        "page": null,
+        "year": "2024",
+        "href": "https://api.oyez.org/case_citation/case_citation/27972"
+    },
+    "term": "2023",
+    "description": "A case in which the Court held that the Fifth Amendment\u2019s Takings Clause does not distinguish between legislative and administrative land-use permit conditions.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/601/22-1074/",
+    "facts_of_the_case": "<p>The County of El Dorado, California, has a Traffic Impact Mitigation (TIM) Fee Program that imposes a traffic-impact fee on any property owner applying for a building permit. The fee consists of two components: the \u201cHighway 50 Component\u201d and the \u201cLocal Road Component,\u201d and is determined by the geographic zone in which the project is located and the type of construction proposed. The fee is mandatory regardless of the actual impact the project may have on existing or future roads. The TIM Fee Program stipulates that new developments bear the full cost of road construction and widening, even though these roads are used and benefitted from by existing residents and non-residents alike. In 2012, the County Board passed a resolution establishing new TIM Fee rates, which were subsequently applied to George Sheetz\u2019s project.</p>\n<p>Sheetz applied for a building permit in July 2016 to construct a 1,854-square-foot manufactured house for his family. The County required him to pay $23,420 in traffic-mitigation fees based on the type and location of his project, even though no individualized assessment was made to correlate the fee with the project\u2019s actual impact on local or state roads. Sheetz paid the fee under protest and later filed a legal action against the County, alleging the fee was an unconstitutional condition under the <em>Nollan</em> and <em>Dolan</em> standards and seeking a refund of the fee paid.</p>\n<p>Under the unconstitutional-conditions doctrine, \u201cthe government may not deny a benefit to a person because he exercises a constitutional right.\u201d The U.S. Supreme Court in <em>Nollan</em> (1987) and <em>Dolan</em> (1994) recognized that land-use permit applicants \u201care especially vulnerable to the type of coercion that the unconstitutional conditions doctrine prohibits.\u201d Under those cases, the government may condition approval of a land-use permit on the owner\u2019s dedication of property to public use if the government can prove that an \u201cessential nexus\u201d and \u201crough proportionality\u201d exist between the demanded property and the impacts of the owner\u2019s project.</p>\n<p>The superior court ruled against Sheetz, concluding that legislative exactions are exempt from <em>Nollan</em>/<em>Dolan</em> review. The California Court of Appeal affirmed.</p>\n",
+    "conclusion": "<p>The Fifth Amendment\u2019s Takings Clause does not distinguish between legislative and administrative land-use permit conditions. Justice Amy Coney Barrett authored the opinion for a unanimous Court, holding that the California Court of Appeal erred in holding that the Nollan/Dolan test does not apply to permit conditions imposed by legislatures.</p>\n<p>The Takings Clause requires the government to provide just compensation when it takes private property for public use, and this applies equally to all branches of government. Neither the text of the Constitution, the historical understanding of eminent domain (the power of the government to take private property for public use), nor the Court's own precedents support exempting legislatures from the requirements of the <em>Nollan</em>/<em>Dolan</em> test. This test, which is based on the unconstitutional conditions doctrine, requires that permit conditions have an \u201cessential nexus\u201d to a legitimate government interest and be \u201croughly proportional\u201d to the impact of the proposed development. These principles apply consistently across physical takings, regulatory takings, and the unconstitutional conditions doctrine, regardless of whether the condition is imposed by a legislature or an administrative agency.</p>\n<p>Justice Sonia Sotomayor authored a concurring opinion, in which Justice Ketanji Brown Jackson joined, pointing out an antecedent question that was not raised in this case: whether the permit condition would be a compensable taking if imposed outside the permitting context.</p>\n<p>Justice Neil Gorsuch authored a concurring opinion to argue that the <em>Nollan</em>/<em>Dolan</em> test cannot operate differently when an alleged taking affects a \u201cclass of properties\u201d rather than \u201ca particular development.\u201d</p>\n<p>Justice Brett Kavanaugh authored a concurring opinion, in which Justices Kagan and Jackson joined, clarifying that the Court has not previously decided\u2014and in this case explicitly declined to decide\u2014whether \u201ca permit condition imposed on a class of properties must be tailored with the same degree of specificity as a permit condition that targets a particular development.\u201d</p>\n"
+}

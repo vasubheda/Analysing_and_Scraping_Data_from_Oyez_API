@@ -1,0 +1,35 @@
+{
+    "ID": 54891,
+    "name": "District of Columbia v. Tri County Industries, Inc.",
+    "href": "https://api.oyez.org/cases/2000/99-1953",
+    "view_count": 0,
+    "docket_number": "99-1953",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                979106400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38523"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                979711200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38524"
+        }
+    ],
+    "question": "<p>Must federal appellate courts conduct a \"more searching inquiry\" than \"abuse of discretion\" when reviewing a federal trial court's decision to grant a new trial?</p>\n",
+    "citation": {
+        "volume": "531",
+        "page": "287",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18820"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>Using a 1993 building permit issued by the District of Columbia, Tri County Industries, Inc. spent nearly $600,000 readying a site for a \"soil remediation\" facility, which would decontaminate soil tainted by hazardous wastes. After protests and a dispute over whether the company was violating its permit by storing contaminated soil on the site, the city issued a stop-work order. Tri County filed suit against the District of Columbia for suspending its building permit on the facility claiming its due process rights had been violated. Ultimately, the U.S. Court of Appeals for the District of Columbia reinstated a 1998 jury's $5 million award. The appellate court rule that the District Court should have conducted a \"more searching inquiry\" than it had to preserve the Seventh Amendment right to jury trials in civil cases. The appellate court normally applies a \"abuse of discretion\" standard. Under the \"more searching inquiry,\" the appellate court discounted the reasons the district judge had cited in ordering a new trial.</p>\n",
+    "conclusion": "<p>In a per curiam opinion, the Court dismissed the writ of certiorari as improvidently granted. The dismissal had the effect of leaving in place the ruling by the U.S. Court of Appeals for the District of Columbia that new-trial grants demand a \"more searching inquiry\" than the usual abuse-of-discretion review and reinstating the appellate court's decision that upheld the first jury's verdict that awarded Tri County $5 million in damages.</p>\n"
+}

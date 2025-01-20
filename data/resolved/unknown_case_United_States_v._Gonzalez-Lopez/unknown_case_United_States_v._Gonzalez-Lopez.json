@@ -1,0 +1,42 @@
+{
+    "ID": 55305,
+    "name": "United States v. Gonzalez-Lopez",
+    "href": "https://api.oyez.org/cases/2005/05-352",
+    "view_count": 0,
+    "docket_number": "05-352",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1136527200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39468"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1145336400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39469"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1151298000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39470"
+        }
+    ],
+    "question": "<p>If a trial court judge wrongly denies a defendant his Sixth Amendment right to an attorney of his own choosing, is the defendant automatically entitled to have his conviction overturned?</p>\n",
+    "citation": {
+        "volume": "548",
+        "page": "140",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20633"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/548/140/",
+    "facts_of_the_case": "<p>Cuauhtemoc Gonzalez-Lopez hired Joseph Low, an attorney, to represent him in a federal criminal trial. The district court judge refused to allow Low to represent Gonzalez-Lopez, however, because the judge ruled that Low had violated a court rule in a previous case. Gonzalez-Lopez was subsequently convicted. On appeal, he argued that his Sixth Amendment right to paid counsel of his own choosing had been violated and that the conviction should therefore be overturned. The Eighth Circuit agreed, holding that the trial judge had misinterpreted the court rule and that Low's conduct had been acceptable under a proper understanding of the rule. The decision to not allow him to represent Gonzalez-Lopez was therefore wrong, and resulted in a violation of Gonzalez- Lopez's Sixth Amendment rights significant enough to warrant overturning the conviction.</p>\n",
+    "conclusion": "<p>Yes. In a 5-to-4 decision authored by Justice Antonin Scalia, the Supreme Court held that a denial of the Sixth Amendment right to paid counsel of one's own choosing is \"structural\" error. Unlike some other kinds of errors in which a defendant must also prove that the result would likely have been different had his rights not been violated, structural errors must result in automatic reversal of the conviction. \"[T]he erroneous denial of counsel bears directly on the 'framework within which the trial proceeds,'\" Justice Scalia wrote. \"It is impossible to know what different choices the rejected counsel would have made, and then to quantify the impact of those different choices on the outcome of the proceedings. ... Harmless error analysis in such a context would be a speculative inquiry into what might have occurred in an alternate universe.\"</p>\n"
+}

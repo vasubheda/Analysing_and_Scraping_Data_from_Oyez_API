@@ -1,0 +1,35 @@
+{
+    "ID": 62268,
+    "name": "Hinton v. Alabama",
+    "href": "https://api.oyez.org/cases/2013/13-6440",
+    "view_count": 0,
+    "docket_number": "13-6440",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1393221600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52638"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1393221600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52639"
+        }
+    ],
+    "question": "<p>Did the Alabama courts properly apply the rule established by the Supreme Court's decision in <em>Strickland v. Washington</em>, which stated that the Sixth Amendment right to counsel is violated if the trial attorney's performance falls below an objective standard of reasonableness and there is a reasonable chance the outcome of the trial was affected?</p>\n",
+    "citation": {
+        "volume": "571",
+        "page": "263",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/27064"
+    },
+    "term": "2013",
+    "description": "A case in which the Court found that an attorney's ignorance on a matter of law that is both essential to a case and resolvable with minimal investigation constitutes as inadequate counsel. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/571/263/",
+    "facts_of_the_case": "<p>Between February and July of 1985, there were a series of restaurant robberies in Birmingham, Alabama. During the commission of the first two robberies, the manager of each restaurant was shot and killed by a .38 caliber bullet. The manager of the restaurant that was the target of the third robbery, however, survived and identified Anthony Ray Hinton in a photographic array. The police arrested Hinton and found in his house a .38 caliber revolver. After Alabama's Department of Forensic Sciences analyzed the bullets and found that they had been fired from that revolver, Hinton was charged with two counts of capital murder for the killings during the first two robberies.</p>\n<p>At trial, the prosecution's case rested on the connection between the bullets located at the scenes of the crimes and the gun located at Hinton's house; no other physical evidence was presented. Hinton's defense attorney filed a motion for funding to hire an expert witness to rebut the prosecution's experts, which the judge granted. Because the judge did not know how much funding he could grant, he invited the attorney to file additional requests for further funding if necessary. Hinton's attorney did not take the judge up on this invitation because he did not know that Alabama law allowed for funding in excess of what the judge had already granted. With this amount of money, the defense attorney was only able to find one expert who was willing to testify, and that expert was badly discredited during cross-examination. Hinton was convicted and sentenced to death.</p>\n<p>In his post-conviction petition, Hinton argued that his trial attorney was ineffective because he did not seek additional funds to obtain more effective expert testimony. The circuit court denied the petition and held that the jury had not been prejudiced against Hinton due to the testimony. The Alabama Court of Criminal Appeals affirmed. The Alabama Supreme Court reversed and held that the trial court did not rule on whether or not Hinton's trial expert was qualified to testify. On remand, the circuit court held that Hinton's trial expert was qualified to testify, the Alabama Court of Criminal Appeals affirmed, and the Alabama Supreme Court declined to review the case.</p>\n",
+    "conclusion": "<p>No. In a per curiam opinion, the Supreme Court held that an attorney's ignorance on a point of law that is both fundamental to the case and could be resolved with a cursory investigation into the relevant state statutes represents inadequate assistance of counsel. Because Hinton's trial attorney was not aware that Alabama law allowed him to request and receive more funding for expert witnesses, his performance failed to reach the reasonableness standard set by <em>Strickland</em>. The Court also held that it could not determine whether these errors prejudiced the jury to the extent that they affected the outcome of the trial, so it remanded the case for further consideration.</p>\n"
+}

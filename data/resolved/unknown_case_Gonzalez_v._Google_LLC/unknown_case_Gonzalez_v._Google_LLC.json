@@ -1,0 +1,42 @@
+{
+    "ID": 63505,
+    "name": "Gonzalez v. Google LLC",
+    "href": "https://api.oyez.org/cases/2022/21-1333",
+    "view_count": 0,
+    "docket_number": "21-1333",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1664773200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55149"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1676959200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55216"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1684386000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55277"
+        }
+    ],
+    "question": "<p>Does Section 230(c)(1) of the Communications Decency Act immunize interactive computer services when they make targeted recommendations of information provided by another information content provider?</p>\n",
+    "citation": {
+        "volume": "598",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27908"
+    },
+    "term": "2022",
+    "description": "A case in which the Court was asked to decide whether Section 230 of the Communications Decency Act shields internet platforms from liability when their algorithms target users and recommend a third party\u2019s content.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/598/21-1333/",
+    "facts_of_the_case": "<p>This case arises from the same set of facts as Twitter v. Taamneh.</p>\n<p>Nohemi Gonzalez, a U.S. citizen, was killed by a terrorist attack in Paris, France, in 2015\u2014one of several terrorist attacks that same day. The day afterwards, the foreign terrorist organization ISIS claimed responsibility by issuing a written statement and releasing a YouTube video. Gonzalez\u2019s father filed an action against Google, Twitter, and Facebook, claiming, among other things, that Google aided and abetted international terrorism by allowing ISIS to use its platform\u2014specifically YouTube\u2014\u201cto recruit members, plan terrorist attacks, issue terrorist threats, instill fear, and intimidate civilian populations.\u201d Specifically, the complaint alleged that because Google uses computer algorithms that suggest content to users based on their viewing history, it assists ISIS in spreading its message.</p>\n<p>Gonzalez claimed that all three platforms were also liable for aiding and abetting international terrorism by failing to take meaningful or aggressive action to prevent terrorists from using its services, even though they did not play an active role in the specific act of international terrorism that actually injured Gonzalez.</p>\n<p>The district court granted Google\u2019s motion to dismiss the claim based on Section 230, and the U.S. Court of Appeals for the Ninth Circuit affirmed.</p>\n",
+    "conclusion": "<p>Citing its decision in Twitter v. Taamneh, the Court declined to reach the question presented in this case and vacated the judgment of the Ninth Circuit and remanded for further proceedings consistent with that opinion. Although this disposition technically favors Gonzalez, the practical effect on remand is dismissal of Gonzalez's claim.</p>\n"
+}

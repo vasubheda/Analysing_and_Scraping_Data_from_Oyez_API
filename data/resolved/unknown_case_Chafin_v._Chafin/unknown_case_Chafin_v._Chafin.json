@@ -1,0 +1,42 @@
+{
+    "ID": 55895,
+    "name": "Chafin v. Chafin",
+    "href": "https://api.oyez.org/cases/2012/11-1347",
+    "view_count": 0,
+    "docket_number": "11-1347",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1344834000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41048"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1354687200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41049"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1361253600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41050"
+        }
+    ],
+    "question": "<p>Can a district court rule on a petition to return a child to his or her country of residence according The Hague Convention's articles once the child has returned to that country?</p>\n",
+    "citation": {
+        "volume": "568",
+        "page": "165",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19817"
+    },
+    "term": "2012",
+    "description": "A case in which the Court decided that the return of a child to his or her country of residence pursuant to The Hague Convention, does not make an appeal of that order moot.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/568/165/",
+    "facts_of_the_case": "<p>In March 2006, U.S. Army sergeant Jeffrey L. Chafin married United Kingdom citizen Lynne Hales Chafin in Scotland. They had one child, who holds dual citizenship in the United States and the United Kingdom. In February 2010, Lynne Chafin traveled to Alabama with the couple's child and intended to return to Scotland in May 2010 for the child's schooling. Before they could leave the country, Jeffrey Chafin filed a divorce petition in the Alabama courts and sought emergency relief to prevent his wife from leaving the country with the child. The trial court ordered both parties to stay in the country with the child throughout the divorce proceeding. Lynne Chafin filed a motion in federal district court requesting to return to Scotland with the child and citing The Hague Convention ruling on international child abduction. The district court held that the child was being unlawfully detained in the United States and allowed Lynne Chafin to return to Scotland with the child. Jeffrey Chafin appealed, and the U.S. Court of Appeals for the Eleventh Circuit dismissed the issue as moot because the child had already returned to Scotland.</p>\n",
+    "conclusion": "<p>Yes. Chief Justice John G. Roberts Jr., in a unanimous opinion, vacated the Eleventh Circuit decision and remanded for further proceedings. The Court held that the controversy is not moot just because the child had already returned to Scotland. Jeffrey Chafin still maintains a valid claim in U.S. courts to have his child returned to the United States. Even though Lynne Chafin has returned to Scotland, U.S. courts continue to have personal jurisdiction over her. Therefore, a court has authority to issue an order for the child's return, regardless of Lynne's location. Even though Lynne may chose to defy the court's order, this does not necessarily render the case moot. Courts adjudicate disputes even where relief may not be likely or practical. A likelihood that Lynne will not comply with the order should not preclude Jeffrey from asserting his claims.</p>\n"
+}

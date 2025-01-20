@@ -1,0 +1,35 @@
+{
+    "ID": 53934,
+    "name": "Masson v. New Yorker Magazine, Inc.",
+    "href": "https://api.oyez.org/cases/1990/89-1799",
+    "view_count": 0,
+    "docket_number": "89-1799",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                663832800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36733"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                677394000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36734"
+        }
+    ],
+    "question": "<p>Does the First Amendment give the New Yorker a right to publish fabricated quotations attributed to a public figure?</p>\n",
+    "citation": {
+        "volume": "501",
+        "page": "496",
+        "year": "1991",
+        "href": "https://api.oyez.org/case_citation/case_citation/17863"
+    },
+    "term": "1990",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/501/496/",
+    "facts_of_the_case": "<p>After Jeffrey Masson was fired from his position at the Sigmund Freud Archives, Janet Malcolm interviewed him for an article in the New Yorker magazine. Malcolm_s article included many long direct quotations from Masson. The article presented Masson as extremely arrogant and condescending; at one point, he was quoted as calling himself \"the greatest analyst who ever lived.\" However, Malcolm fabricated many of the more distasteful quotations. Masson sued for libel. The District Court dismissed the case on First Amendment free speech grounds because Masson was a public figure.</p>\n",
+    "conclusion": "<p>No. In a 9-0 vote, the Court ruled that the First Amendment <em>s free expression clause could not protect the distortions in Malcolm</em> s article. Justice Anthony Kennedy's majority opinion also explained when a direct quotation can be considered false, and therefore potentially libelous. The First Amendment limits libel suits by public figures. A report about a public figure cannot be considered \"false\" unless it is a gross distortion of the truth. Justice Kennedy's opinion explained that a direct quotation will qualify as such a distortion if the quoted words differ in their factual meaning from anything the public figure really said. Malcolm_s fabrication qualified as a \"gross distortion,\" and the Court granted Masson standing to sue.</p>\n"
+}

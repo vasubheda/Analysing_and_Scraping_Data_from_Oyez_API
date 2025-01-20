@@ -1,0 +1,35 @@
+{
+    "ID": 54678,
+    "name": "United States v. Haggar Apparel Company",
+    "href": "https://api.oyez.org/cases/1998/97-2044",
+    "view_count": 0,
+    "docket_number": "97-2044",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                916034400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38130"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                924670800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38131"
+        }
+    ],
+    "question": "<p>Is the United States Customs Service's regulation regarding permapressing entitled to judicial deference?</p>\n",
+    "citation": {
+        "volume": "526",
+        "page": "380",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18607"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/526/380/",
+    "facts_of_the_case": "<p>The Harmonized Tariff Schedule of the United States provides importers a partial exemption from duties otherwise imposed for articles which were assembled abroad, but that were not enhanced abroad, except by operations incidental to the assembly process. A regulation issued by the United States Customs Service deems permapressing operations to be an additional step in manufacture, not part of or incidental to the assembly process. The Haggar Apparel Company sought a refund for duties imposed on a collection of its men's trousers that it had shipped to the U.S. from an assembly plant in Mexico. The trousers' pre-treated fabric had been cut in the U.S. and then shipped to Mexico, along with the thread, buttons, and zippers necessary to complete the garments. Under the HTSUS, had the trousers only been sewn and reshipped they would have been eligible for the duty exemption that Haggar sought. However, Haggar also permapressed the trousers by baking them in an oven at the Mexican facility before shipping them to the U.S. The Customs Service claimed that the baking was a process in addition to assembly and denied the duty exemption. Haggar contended that the baking was simply part of the assembly process. Subsequently, Haggar filed suit, seeking the refund, in the Court of International Trade. The court declined to treat the Customs Service's regulation as controlling and ruled in Haggar's favor. The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>The Court did not expressly answer the question. In an opinion delivered by Justice Anthony M. Kennedy, the Court vacated and remanded the case. The Court concluded that the regulation in question was subject to further analysis. Additionally, the Court held that if the regulation was a reasonable interpretation of an ambiguous statutory provision, then it required judicial deference in the Court of International Trade.</p>\n"
+}

@@ -1,0 +1,28 @@
+{
+    "ID": 54977,
+    "name": "Horn v. Banks",
+    "href": "https://api.oyez.org/cases/2001/01-1385",
+    "view_count": 0,
+    "docket_number": "01-1385",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1024290000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38689"
+        }
+    ],
+    "question": "<p>Did the Court of Appeals err by failing to perform an analysis of whether Mills v. Maryland, 486 U.S. 367, applied retroactively to cases on federal habeas corpus review under Teague v. Lane, 489 U.S. 288?</p>\n",
+    "citation": {
+        "volume": "536",
+        "page": "266",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/18906"
+    },
+    "term": "2001",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/536/266/",
+    "facts_of_the_case": "<p>George Banks was convicted of 12 counts of first-degree murder. After Banks' direct appeal was denied, the U.S. Supreme Court decided in Mills v. Maryland, 486 U.S. 367, that the Constitution prohibits a state from requiring jurors unanimously to agree that a particular mitigating circumstance exists before they are permitted to consider that circumstance in their sentencing determination. Under this new case law, Mills argued that the jurors in his trial were instructed improperly. Custodial officials argued that the law was not applicable retroactively on habeas corpus review. Ultimately, because the Pennsylvania Supreme Court did not rule on retroactivity, the Federal Court of Appeals concluded that the State Supreme Court had unreasonably applied federal law in evaluating Banks' claim that his penalty phase jury instructions and verdict forms were improper under Mills without evaluating retroactivity.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion, the Court held that the Court of Appeals committed a clear error by failing to perform a Teague analysis. The Court reasoned that, since the officials raised the retroactivity issue in both the district court and the appellate court, it was clear error for the appellate court to refuse to determine the retroactive applicability of the new case law, even though the highest state court did not consider the issue in determining the inmate's direct appeal. The Court concluded that the retroactivity question was a threshold issue which required resolution prior to any consideration of the merits of Banks' claims.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55904,
+    "name": "Marx v. General Revenue Corporation",
+    "href": "https://api.oyez.org/cases/2012/11-1175",
+    "view_count": 0,
+    "docket_number": "11-1175",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1338267600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41075"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1352268000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41076"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1361858400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41077"
+        }
+    ],
+    "question": "<p>Did the Fair Debt Collection Practices Act prevent the district court from awarding costs to the General Revenue Corporation unless Marx filed her claim in bad faith and for the purpose of harassment?</p>\n",
+    "citation": {
+        "volume": "568",
+        "page": "371",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19826"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that the Federal Rules of Civil Procedure awards costs to the prevailing party unless a statute explicitly states otherwise. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/568/371/",
+    "facts_of_the_case": "<p>Elenea Marx defaulted on her student loans. In September 2008, her guarantor, EdFund, a division of the California Student Aid Commission, hired the General Revenue Corporation (\"GRC\") to collect on the account. That same month, a GRC agent faxed Marx's employer a form displaying basic contact information for GRC. It also left blanks for the employer to fill in information about the employee's employment status and other related information.</p>\n<p>The Fair Debt Collection Practices Act (\"FDCPA\") prohibited communications with third parties in connection with the collection of debt. It also allowed courts to award costs to prevailing defendants in actions brought in bad faith and for the purpose of harassment. Rule 54(d) of the Federal Rules of Civil Procedure, however, prevented courts from awarding courts if a statute provided otherwise. Marx sued GRC in October 2008, alleging abusive and threatening phone calls in violation of the FDCPA. She amended her complaint in March 2009 to add a claim that GRC violated the FDCPA by sending the fax to her workplace to request employment information.</p>\n<p>The district court dismissed her complaint, holding that the fax was not a \"communication\" within the meaning of the act, and ordering Marx to pay court costs. The United States Court of Appeals, Tenth Circuit, affirmed with one dissent, holding that the fax was not a communication. The Tenth Circuit also held that the act did not prevent courts from awarding costs to prevailing defendants. Marx's petition for an en banc rehearing was denied.</p>\n",
+    "conclusion": "<p>No. Justice Clarence Thomas delivered the opinion of the 7-2 majority. The Supreme Court held that the Federal Rules of Civil Procedure operate on the presumption that the prevailing party is entitled to be awarded costs unless a statute explicitly states otherwise. Because the Fair Debt Collection Practices Act lists another situation in which costs may be awarded to the prevailing party, the statute does not contradict the Federal Rules of Civil Procedure. The Court also held that, had Congress intended the statute to limit a court's discretion in awarding costs, the language would have been explicit in doing so.</p>\n<p>Justice Sonia Sotomayor wrote a dissenting opinion in which she argued that the default position of the Federal Rules of Civil Procedure gives way to a statute that \"provides otherwise.\" The language of the Rule in question indicates that a statute that provides an alternative provision for awarding costs overrides it, but the statute does not necessarily need to directly contradict the Rule. Justice Elena Kagan joined in the dissent.</p>\n"
+}

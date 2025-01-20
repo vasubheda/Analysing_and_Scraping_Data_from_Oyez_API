@@ -1,0 +1,35 @@
+{
+    "ID": 54591,
+    "name": "Calderone v. Thompson",
+    "href": "https://api.oyez.org/cases/1997/97-215",
+    "view_count": 0,
+    "docket_number": "97-215",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                881647200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37966"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                893826000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37967"
+        }
+    ],
+    "question": "<p>Did the Court of Appeal's order recalling its mandate denying Thomas M. Thompson all habeas relief violate 28 USC section 2244(b) as amended by the Antiterrorism and Effective Death Penalty Act of 1996? Was the order an abuse of the appellate court's discretion?</p>\n",
+    "citation": {
+        "volume": "523",
+        "page": "538",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18520"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/523/538/",
+    "facts_of_the_case": "<p>In 1983, Thomas M. Thompson was convicted of the rape and murder of Ginger Fleischli in California state court. The special circumstance found by the jury of murder during the commission of rape made Thompson eligible for the death penalty. In 1995, a federal District Court invalidated Thompson's death sentence by granted relief on his rape conviction and the rape special circumstance. In reversing, the Court of Appeals reinstated Thompson's death sentence, noting that the State presented strong evidence of rape at trial. The Court of Appeals then issued a mandate denying all habeas relief. Two days before Thompson's execution, the Court of Appeals recalled its mandate and granted Thompson relief. The appellate court found that Thompson was denied effective assistance of counsel at trial.</p>\n",
+    "conclusion": "<p>No and yes. In a 5-4 opinion delivered by Justice Anthony M. Kennedy, the Court held that although it was consistent with the Antiterrorism and Effective Death Penalty Act of 1996, the recall was a grave abuse of discretion. The Court established that \"where a federal court of appeals sua sponte recalls its mandate to revisit the merits of an earlier decision denying habeas corpus relief to a state prisoner, the court abuses its discretion unless it acts to avoid a miscarriage of justice as defined by our habeas corpus jurisprudence.\" Accordingly, Justice Kennedy, noting that Thompson's evidence was not clear and convincing, concluded that California's judgment would not result in a miscarriage of justice. Justice David H. Souter wrote a dissenting opinion, in which Justices John Paul Stevens, Ruth Bader Ginsburg and Stephen G. Breyer joined.</p>\n"
+}

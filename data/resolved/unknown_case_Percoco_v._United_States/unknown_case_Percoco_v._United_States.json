@@ -1,0 +1,42 @@
+{
+    "ID": 63499,
+    "name": "Percoco v. United States",
+    "href": "https://api.oyez.org/cases/2022/21-1158",
+    "view_count": 0,
+    "docket_number": "21-1158",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1656565200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55137"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1669615200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55178"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1683781200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55264"
+        }
+    ],
+    "question": "<p>Can a private citizen who has informal political or other influence over governmental decisionmaking owe a fiduciary duty to the general public such that he can be convicted of honest-services fraud?</p>\n",
+    "citation": {
+        "volume": "598",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27903"
+    },
+    "term": "2022",
+    "description": "A case in which the Court reversed the conviction of a private citizen who was convicted of honest-services fraud on the theory that, although he held no elected office or government employment, he had informal political or other influence over governmental decisionmaking, and thus owed a fiduciary duty to the general public.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/598/21-1158/",
+    "facts_of_the_case": "<p>In 2012, New York Governor Andrew Cuomo launched an initiative, known as the \u201cBuffalo Billion\u201d initiative, to develop the greater Buffalo area. Alain Kaloyeros strategically secured a highly influential role in the initiative and used that role to award contracts to certain developers of his choosing based on his knowledge and control over the process. Once the scheme came to light, the participants were charged and convicted of conspiracy to engage in wire fraud. In 2018, a jury returned a verdict of guilty on all counts, and the defendants were sentenced to prison terms of varying lengths.</p>\n<p>On appeal, the U.S. Court of Appeals for the Second Circuit affirmed the wire fraud convictions, relying on a \u201cright-to-control theory\u201d of wire fraud that allows for conviction on \u201ca showing that the defendant, through the withholding or inaccurate reporting of information that could impact on economic decisions, deprived some person or entity of potentially valuable economic information.\u201d</p>\n",
+    "conclusion": "<p>A private citizen who has informal political or other influence over governmental decisionmaking can be convicted of honest-services fraud, but in this case, the jury instructions leading to Percoco\u2019s conviction were insufficiently definite. Justice Samuel Alito authored the majority opinion of the Court.</p>\n<p>The jury instruction in this case required the jury to determine whether Percoco had a \u201cspecial relationship\u201d with the government and had \u201cdominated and controlled\u201d government business. However, these concepts are too vague to allow ordinary people to understand what conduct is prohibited.</p>\n<p>Justice Neil Gorsuch authored an opinion concurring in the judgment, in which Justice Clarence Thomas joined. Justice Gorsuch agreed with the majority but expressed concern over the vagueness of \u201chonest-services fraud\u201d more generally, regardless of what jury instruction might be provided.</p>\n"
+}

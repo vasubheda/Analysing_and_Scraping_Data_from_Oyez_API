@@ -1,0 +1,42 @@
+{
+    "ID": 63215,
+    "name": "Salinas v. United States Railroad Retirement Board",
+    "href": "https://api.oyez.org/cases/2020/19-199",
+    "view_count": 0,
+    "docket_number": "19-199",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1578636000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54640"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1604296800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54779"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1612332000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54839"
+        }
+    ],
+    "question": "<p>Does a decision by the Railroad Retirement Board denying a request to reopen a prior benefits claim constitute a \u201cfinal decision\u201d subject to judicial review?</p>\n",
+    "citation": {
+        "volume": "592",
+        "page": null,
+        "year": "2021",
+        "href": "https://api.oyez.org/case_citation/case_citation/27735"
+    },
+    "term": "2020",
+    "description": "A case in which the Court held that, under Section 5(f) of the Railroad Unemployment Insurance Act and Section 8 of the Railroad Retirement Act, the Railroad Retirement Board\u2019s denial of a request to reopen a prior benefits determination is a \u201cfinal decision\u201d subject to judicial review.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/592/19-199/",
+    "facts_of_the_case": "<p>In 2006, Petitioner Manfredo M. Salinas applied for a disability annuity under the Railroad Retirement Act, but the U.S. Railroad Retirement Board (\u201cthe Board\u201d) denied his application. After the filing period had expired, Salinas sought reconsideration, which the Board also denied, based on its conclusion that Salinas had not shown good cause for missing the deadline. Salinas did not pursue any further action on his application, so the Board\u2019s denial became a final decision on February 9, 2007.</p>\n<p>Nearly seven years later, in 2013, Salinas filed a new application for a disability annuity. The Board granted him an annuity, but Salinas appealed the annuity's beginning date and amount. During that appeal, Salinas asked the Board to reopen all its decisions on his prior applications, including the decision denying his 2006 application. After a hearing, a Board hearing officer concluded that Salinas's 2006 application was beyond the four-year timeframe for reopening based on new and material evidence or administrative error under the Board's regulations. Salinas then asked the U.S. Court of Appeals to review the Board's decision not to reopen his 2006 application. Following its own binding precedent holding that it lacked jurisdiction to review a Board decision declining to reopen a prior benefits claim, the Fifth Circuit dismissed Salinas\u2019s petition.</p>\n",
+    "conclusion": "<p>A decision by the Railroad Retirement Board denying a request to reopen a prior benefits claim is subject to judicial review. Justice Sonia Sotomayor authored the 5-4 majority opinion.</p>\n<p>The Railroad Retirement Act of 1974 (RRA) \u201cmakes judicial review under the RRA available to the same extent that review is available\u201d under the Railroad Unemployment Insurance Act (RUIA). The RUIA allows any person \u201caggrieved by a final decision under subsection (c) of this section\u201d to \u201cobtain a review of any final decision of the Board.\u201d Because Salinas\u2019s 2006 application was the \u201cterminal event\u201d in the Board\u2019s administrative review process and substantively affected Salinas\u2019s benefits and the Board\u2019s obligations under RRA, the denial was a \u201cfinal decision of the Board\u201d under RUIA and thus subject to judicial review. This conclusion is bolstered by the plain text of \u00a7 335(f), which authorizes judicial review of \u201cany\u201d final decision, and even if the text were ambiguous, there is a \u201cstrong presumption favoring judicial review of administrative action.\u201d</p>\n<p>Justice Clarence Thomas filed a dissenting opinion, in which Justices Samuel Alito, Neil Gorsuch, and Amy Coney Barrett joined. Justice Thomas argued that while the majority may correctly interpret RUIA, the RRA\u2019s provision is critically different. RUIA explains how to obtain judicial review, but RRA separately defines what may be reviewed. The dissent argued that the statutory language of RRA limits judicial review to Board decisions determining rights or liabilities, so its denial of Salinas\u2019s claim was outside the scope of review.</p>\n"
+}

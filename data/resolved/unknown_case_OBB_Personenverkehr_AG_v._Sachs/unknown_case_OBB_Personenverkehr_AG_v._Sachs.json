@@ -1,0 +1,42 @@
+{
+    "ID": 62323,
+    "name": "OBB Personenverkehr AG v. Sachs",
+    "href": "https://api.oyez.org/cases/2015/13-1067",
+    "view_count": 0,
+    "docket_number": "13-1067",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1421992800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52792"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1444021200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52793"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1448949600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53334"
+        }
+    ],
+    "question": "<p>(1) In determining whether an entity is an \u201cagent\u201d of a foreign state under the Foreign Sovereign Immunities Act of 1976, do common law principles of agency apply?</p>\n<p>(2) Is a tort claim for personal injuries suffered in connection with travel outside of the United States \u201cbased upon\u201d the sale of the ticket in the United States?</p>\n",
+    "citation": {
+        "volume": "577",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/27123"
+    },
+    "term": "2015",
+    "description": "A case in which the Court held that the commercial activity exception to the Foreign Sovereign Immunity Act only applies when the suit is based upon activity that took place in the United States, and it was not sufficient to establish a single element of the claim in question.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/577/27/",
+    "facts_of_the_case": "<p>OBB Personenverkehr AG (OBB) is owned by OBB Holding Group, a joint-stock company created by the Republic of Austria to operate rail service within Austria. OBB is a member of the Eurail Group, an association organized under Luxembourg law to provide rail pass to non-European residents.</p>\n<p>In March 2007, Carol Sachs purchased a four-day Eurail Pass from the Rail Pass Experts (RPE) website for travel in Austria and the Czech Republic. RPE is located in Massachusetts, and the pass Sachs purchased listed a series of disclaimers, including that the \u201cissuing office is merely an intermediary of the carriers in Europe and assumes no liability resulting from the transport.\u201d In April 2007, Sachs used her Eurail Pass in Innsbruck, Austria. While boarding the train, Sachs fell between the tracks, and her legs were crushed by the moving train; they had to be amputated above the knee. Sachs sued OBB in district court in California. OBB moved to dismiss and argued that it was entitled to immunity under the Foreign Sovereign Immunities Act of 1976 (FSIA), or alternatively, that there was a lack of personal jurisdiction. The district court dismissed the case for lack of subject-matter jurisdiction on foreign-sovereign-immunity grounds. The U.S. Court of Appeals for the Ninth Circuit originally affirmed but, upon rehearing en banc, later reversed and held that the commercial-activity exception of FSIA applied in this case because OBB was a common carrier owned by a foreign state that acted through a domestic agent to sell tickets to U.S. citizens and residents. Therefore, the district court did have subject-matter jurisdiction.</p>\n",
+    "conclusion": "<p>Justice John G. Roberts, Jr. delivered the opinion of the unanimous Court, which held that a tort claim for personal injuries suffered in connection with travel outside of the United States was not \u201cbased upon\u201d the sale of the ticket in the United States. Therefore, the lawsuit fell outside of the commercial activity exception to the Foreign Sovereign Immunities Act, and sovereign immunity barred the suit. According to the Court\u2019s decision in <em>Saudi Arabia v. Nelson</em>, the fact that the relevant commercial activity would establish a single element of the claim in question was not sufficient to prove that the claim was \u201cbased upon\u201d the commercial activity. In this case, the conduct that gave rise to the lawsuit occurred entirely abroad and therefore was not \u201cbased upon\u201d commercial activity in the United States sufficient to satisfy the commercial activity exception.</p>\n"
+}

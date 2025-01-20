@@ -1,0 +1,42 @@
+{
+    "ID": 54209,
+    "name": "Central Bank of Denver , N. A. v. First Interstate Bank of Denver , N. A.",
+    "href": "https://api.oyez.org/cases/1993/92-854",
+    "view_count": 0,
+    "docket_number": "92-854",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                754639200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37258"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                766731600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37259"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                739429200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53567"
+        }
+    ],
+    "question": "<p>Does the Securities Exchange Act of 1934 impose a private liability for aiding and abetting manipulative or deceptive trading practices?</p>\n",
+    "citation": {
+        "volume": "511",
+        "page": "164",
+        "year": "1994",
+        "href": "https://api.oyez.org/case_citation/case_citation/18138"
+    },
+    "term": "1993",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/511/164/",
+    "facts_of_the_case": "<p>In 1986 and 1988, the Colorado Springs-Stetson Hills Public Building Authority issued $26 million worth of bonds to fund public improvements and residential and commercial developments. The Central Bank of Denver served as a trustee on the bonds. In 1988, there was concern that the land was no longer worth 160% of the value of the bonds\u2019 outstanding principals and interests as required by the bond covenant. Before a review was completed, the Public Building Authority defaulted on the bonds. </p>\n<p>First Interstate Bank of Denver and the other respondents had purchased $2.1 million of the bonds, and after the default, sued for violations of the Securities Exchange Act of 1934. The respondents argued that Central Bank was also liable for aiding and abetting the violations. Central Bank petitioned the district court for summary judgment, which the district court granted. The United States Court of Appeals for the Tenth Circuit reversed.</p>\n",
+    "conclusion": "<p>No. Justice Anthony Kennedy delivered the opinion of the 5-4 majority. The Court held that the Securities Exchange Act only prohibits manipulative or deceitful actions, and it can only be used to prosecute such actions. Since the charge of aiding and abetting is not directly covered in the statute, companies cannot be liable for such actions. The Court also held that if Congress intended the statute to be used in such a way, it would have added a section that specifically addressed the issue. </p>\n<p>Justice John Paul Stevens wrote a dissenting opinion where he argued that the judicial history of similar cases showed that those who aid and abet in violations of the Securities Exchange Act are considered liable. He also argued that, given the liberal background to the construction of the Act, it is reasonable to assume that Congress intended it to have a broad applicability. Justices Harry A. Blackmun, David H. Souter, and Ruth Bader Ginsburg joined in the dissent.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55560,
+    "name": "Melendez-Diaz v. Massachusetts",
+    "href": "https://api.oyez.org/cases/2008/07-591",
+    "view_count": 0,
+    "docket_number": "07-591",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1205730000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40162"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1226296800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40163"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1245906000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40164"
+        }
+    ],
+    "question": "<p>Is a state forensic analyst's laboratory report prepared for use in a criminal prosecution \"testimonial\" evidence subject to the demands of the Sixth Amendment's Confrontation Clause as set forth in <em>Crawford v. Washington</em>?</p>\n",
+    "citation": {
+        "volume": "557",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20812"
+    },
+    "term": "2008",
+    "description": "A case in which the Court found that a state forensic analyst's lab report prepared for use in a criminal prosecution is subject to the demands of the Sixth Amendment Confrontation Clause.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>Luis Melendez-Diaz was arrested while making a cocaine sale in a parking lot in Massachusetts. At trial, bags of the cocaine alleged to have been distributed by Melendez-Diaz were introduced into evidence along with drug analysis certificates prepared by the lab technician who analyzed the drugs and identified them as cocaine. A jury convicted Melendez-Diaz of distributing and trafficking cocaine in violation of Massachusetts law. Melendez-Diaz appealed, arguing that the State's introduction of the drug analysis certificates violated his Sixth Amendment right to confront witnesses against him under the Court's ruling in <em>Crawford v. Washington</em>. <em>Crawford</em> had held that so-called \"testimonial\" evidence cannot be introduced at trial unless the defendant has a chance to cross-examine the witness providing the evidence. Melendez-Diaz characterized the lab analysis as testimonial and argued that <em>Crawford</em> required the lab technician to testify on the results. The State argued that Massachusetts had previously held, in <em>Commonwealth v. Verde</em>, that lab reports were not testimonial.</p>\n<p>The Massachusetts Court of Appeals rejected Melendez-Diaz's claims in an unpublished opinion, referring to them in a short footnote as \"without merit.\" The Massachusetts Supreme Court also denied his appeal.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court held that a state forensic analyst's lab report that is prepared for use in a criminal prosecution is subject to the demands of the Sixth Amendment's Confrontation Clause. With Justice Antonin G. Scalia writing for the majority and joined by Justices John Paul Stevens, David H. Souter, Clarence Thomas, and Ruth Bader Ginsburg, the Court reasoned that the lab reports constitute affidavits which fall within the \"core class of testimonial statements\" covered by the Confrontation Clause. Therefore, when Mr. Melendez- Diaz was not allowed to confront the persons who created the lab reports used in testimony at his trial, his Sixth Amendment right was violated.</p>\n<p>Justice Thomas wrote a separate concurring opinion, emphasizing that he thought the Confrontation Clause was only implicated by statements made outside the courtroom when they are part of \"formalized testimonial materials.\" Justice Anthony M. Kennedy dissented and was joined by Chief Justice John G. Roberts, and Justices Stephen G. Breyer and Samuel A. Alito. He criticized the majority for so cavalierly dispensing with the long held rule that scientific analysis could be introduced into evidence without testimony from the analyst who produced it.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55427,
+    "name": "Zuni Public School Dist. No. 89 v. Department of Education",
+    "href": "https://api.oyez.org/cases/2006/05-1508",
+    "view_count": 0,
+    "docket_number": "05-1508",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1159246800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39792"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1168408800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39793"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1176786000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39794"
+        }
+    ],
+    "question": "<p>Was the Secretary of Education's regulatory formula for determining whether a state's education funding is equalized among its school districts consistent with 20 U.S.C. Section 7709, the Federal Impact Aid Program?</p>\n",
+    "citation": {
+        "volume": "550",
+        "page": "81",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20664"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/550/81/",
+    "facts_of_the_case": "<p>The Department of Education certified that the state of New Mexico equalizes educational expenditures among school districts. The certification of equalization allowed New Mexico to offset its funding of districts located on Indian Reservations by a proportion of the federal Impact Aid payments made to those districts. Zuni Public School District objected to the certification, arguing that the Department had not followed the statutory formula for determining that a state's expenditures are equalized. Outlier school districts falling above the 95th or below the 5th percentile in per-pupil expenditures were excluded from consideration when the Department determined equalization. The Department calculated these percentiles based on the total student population, but Zuni argued that 20 U.S.C. Section 7709 had repealed that policy.</p>\n<p>An administrative judge dismissed Zuni's complaint, and the Secretary of Education affirmed on the ground that the law was ambiguous. A divided panel of the U.S. Circuit Court of Appeals for the Tenth Circuit upheld the Secretary's decision as a valid interpretation of the statute. In a rehearing by the entire Circuit Court, the 12 judges split evenly, again upholding the ruling.</p>\n",
+    "conclusion": "<p>Yes. The Court voted 5-4 in favor of the Department of Education, affirming the lower court. In his majority opinion, Justice Stephen Breyer agreed with the Secretary of Education's argument that 20 U.S.C. 7709 was ambiguous on the specific formula to be used. Since administrative agencies have wide latitude to interpret their governing statutes, the Court gave deference to the Secretary's formula for calculating the 5th and 95th percentiles for the purpose of determining expenditure equalization. The majority concluded that \"[...] the history of the statute strongly supports the Secretary.\" No member of Congress had expressed an opinion on the formula to be used, so the Department would have been free to calculate the percentiles using either formula. In response to Zuni's statutory-language based argument, the Court ruled that the statute's phrasing could encompass the Secretary's method of calculating excluded districts based on per-pupil expenditure percentiles of the total student population. The four dissenting Justices argued that the statute required the Secretary to calculate the percentiles based on a comparison of the per-pupil expenditures of the districts.</p>\n"
+}

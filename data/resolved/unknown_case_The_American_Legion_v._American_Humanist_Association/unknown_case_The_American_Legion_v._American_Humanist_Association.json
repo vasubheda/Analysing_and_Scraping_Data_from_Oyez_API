@@ -1,0 +1,42 @@
+{
+    "ID": 63050,
+    "name": "The American Legion v. American Humanist Association",
+    "href": "https://api.oyez.org/cases/2018/17-1717",
+    "view_count": 0,
+    "docket_number": "17-1717",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1541134800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54387"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1551247200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54443"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1561006800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54539"
+        }
+    ],
+    "question": "<ol><li>Is the display and maintenance of the cross unconstitutional?</li>\n<li>Under what test should the constitutionality of a passive display incorporating religious symbolism be assessed?</li>\n<li>Does the expenditure of funds to maintain the cross amount to the government\u2019s excessive entanglement with religion?</li>\n</ol>",
+    "citation": {
+        "volume": "588",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27638"
+    },
+    "term": "2018",
+    "description": "A case in which the Court held that the display and maintenance of a large memorial cross by a local government does not violate the Establishment Clause of the First Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/588/17-1717/",
+    "facts_of_the_case": "<p>In Bladensburg, Maryland, as part of a memorial park honoring veterans is a 40-foot tall cross, which is the subject of this litigation. Construction on the cross began in 1918, and it was widely described using Christian terms and celebrated in Christian services. In 1961, Maryland-National Capital Park and Planning Commission acquired the cross and the land, as well as the responsibility to maintain, repair, and otherwise care for the cross. The Commission has spent approximately $117,000 to maintain and repair the cross, and in 2008, it set aside an additional $100,000 for renovations.</p>\n<p>Several non-Christian residents of Prince George\u2019s County, Maryland, expressed offense at the cross, which allegedly amounts to governmental affiliation with Christianity. American Humanist Association is a nonprofit organization advocating for separation of church and state. Together, AHA and the individual residents sued the Commission under 42 U.S.C. \u00a7 1983, alleging that the Commission\u2019s display and maintenance of the cross violates the Establishment Clause. Applying the test established in <a href=\"https://www.oyez.org/cases/1970/89\"><em>Lemon v. Kurtzman</em>, 403 U.S. 602 (1971)</a>, the district court found that the Commission did not violate the Establishment Clause because (1) the cross has a secular purpose, (2) it neither advances nor inhibits religion, and (3) it does not have a primary effect of endorsing religion. The Fourth Circuit reversed and remanded.</p>\n",
+    "conclusion": "<p>The Bladensburg Cross does not violate the Establishment Clause.</p>\n<p>Justice Samuel Alito authored the opinion of the Court, joined by Chief Justice John Roberts and Justices Stephen Breyer and Brett Kavanaugh. Justice Elena Kagan joined the majority opinion in part.</p>\n<p>The Court explained that although the cross originated as a Christian symbol, it has also taken on a secular meaning. In particular, the cross became a symbol of World War I as evidenced by its use in the present controversy. The <em>Lemon</em> test, which the Court first articulated in 1971 as a way to discern Establishment Clause violations, does not serve its intended purpose, particularly as applied to religious symbols or monuments. Thus, when the question arises whether to keep a religious monument in place (as opposed to a question whether to put up a new one), there should be a presumption that the monument is constitutional.</p>\n<p>Applying this presumption rather than the <em>Lemon</em> test, the Court found the Bladensburg Cross does not violate the Establishment Clause because it has historical importance beyond its admittedly Christian symbolism.</p>\n<p>Justice Breyer joined Justice Alito\u2019s opinion in full but wrote a separate concurrence joined by Justice Kagan to highlight his belief that there is no single test for Establishment Clause violations. Rather, a court asked to resolve such questions must consider \u201cthe basic purposes that the Religion Clauses were meant to serve: assuring religious liberty and tolerance for all, avoiding religiously based social conflict, and maintaining that separation of church and state that allows each to flourish in its separate sphere.\u201d</p>\n<p>Justice Kavanaugh also joined Justice Alito\u2019s opinion in full and also wrote his own concurring opinion. He even more harshly criticized the <em>Lemon</em> test, arguing that \u201cthe Court\u2019s decisions over the span of several decades demonstrate that the <em>Lemon</em> test is not good law and does not apply to Establishment Clause cases in any of\u201d five categories, which he enumerated.</p>\n<p>Justice Kagan joined most of Justice Alito\u2019s opinion but wrote a separate concurrence to note that, although \u201crigid application of the <em>Lemon</em> test does not solve every Establishment Clause problem,\u201d courts should still focus on the purpose and effect of government action in deciding whether it violates the Constitution.</p>\n<p>Justice Clarence Thomas wrote a separate opinion concurring in the judgment, but based on entirely different reasoning. Justice Thomas does not believe the Establishment Clause applies to state and local governments, and even if it did, it applies only to prevent coercive action by the government. Justice Thomas would overrule the <em>Lemon</em> test in all contexts.</p>\n<p>Justice Neil Gorsuch wrote a separate opinion concurring in the judgment, in which Justice Thomas joined. Justice Gorsuch would dismiss the lawsuit for lack of standing, arguing that simply being offended by the cross\u2019s presence is insufficient to meet the injury requirement of Article III standing.</p>\n<p>Justice Ruth Bader Ginsburg wrote a dissenting opinion, in which Justice Sonia Sotomayor joined. Justice Ginsburg argued that the cross \u201cis the foremost symbol of the Christian faith,\u201d and using it as a war memorial doesn\u2019t change that. Maryland\u2019s decision to maintain that Christian symbol on public land \u201celevates Christianity over other faiths, and religion over nonreligion.\u201d Justice Ginsburg additionally pointed out that an appropriate remedy for an Establishment Clause violation is not necessarily to destroy the memorial, as the majority suggests, but to transfer title to the land on which it sits to a private entity\u2014in fact, a private entity owned the land when the cross was first erected.</p>\n"
+}

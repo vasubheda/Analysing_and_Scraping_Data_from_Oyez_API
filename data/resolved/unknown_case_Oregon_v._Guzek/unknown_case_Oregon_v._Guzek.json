@@ -1,0 +1,42 @@
+{
+    "ID": 55311,
+    "name": "Oregon v. Guzek",
+    "href": "https://api.oyez.org/cases/2005/04-928",
+    "view_count": 0,
+    "docket_number": "04-928",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1114405200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39484"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1133935200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39485"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1140588000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39486"
+        }
+    ],
+    "question": "<p>Is there a constitutional right under the Eighth and Fourteenth Amendments to introduce evidence of innocence during the sentencing phase of a trial?</p>\n",
+    "citation": {
+        "volume": "546",
+        "page": "517",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20622"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/546/517/",
+    "facts_of_the_case": "<p>A jury found Randy Lee Guzek guilty of capital murder and sentenced him to death. On appeal, the Oregon Supreme Court overturned the death sentence. Guzek was sentenced to death again, and the Oregon Supreme Court again threw out the death sentence. When Guzek was sentenced to death a third time, the Oregon Supreme Court again overturned his sentence and also considered his complaint that he had not been allowed to present testimony about his alibi at the sentencing phase of the trial. Oregon law requires that evidence of innocence, such as an alibi, be presented during the trial, not during the sentencing hearing. The Oregon Supreme Court accepted Guzek's argument that he had a constitutional right under the Eighth and Fourteenth Amendments to introduce the alibi testimony at his sentencing proceeding. Oregon appealed to the Supreme Court, arguing that it was reasonable to restrict the introduction of evidence of innocence to the guilt phase of the trial.</p>\n",
+    "conclusion": "<p>No. In an 8-0 decision (Justice Alito not participating), the Supreme Court reversed the Oregon Supreme Court. Justice Stephen Breyer wrote for the Court: \"We can find nothing in the Eighth or Fourteenth Amendments that provides a capital defendant a right to introduce new evidence of this kind at sentencing.\" States are free \"to set reasonable limits upon the evidence a defendant can submit, and to control the manner in which it is submitted.\" This can include excluding the introduction of evidence of innocence from the sentencing phase.</p>\n"
+}

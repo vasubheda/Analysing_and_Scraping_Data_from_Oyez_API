@@ -1,0 +1,42 @@
+{
+    "ID": 55437,
+    "name": "Morse v. Frederick",
+    "href": "https://api.oyez.org/cases/2006/06-278",
+    "view_count": 0,
+    "docket_number": "06-278",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1164952800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39818"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1174280400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39819"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1182747600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39820"
+        }
+    ],
+    "question": "<p>1) Does the First Amendment allow public schools to prohibit students from displaying messages promoting the use of illegal drugs at school-supervised events?</p>\n<p>2) Does a school official have qualified immunity from a damages lawsuit under 42 U.S.C. 1983 when, in accordance with school policy, she disciplines a student for displaying a banner with a drug reference at a school-supervised event?</p>\n",
+    "citation": {
+        "volume": "551",
+        "page": "393",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20696"
+    },
+    "term": "2006",
+    "description": "A case in which the Court found an Alaska public school principal had the right to suspend a student for holding up a \"BONG HiTS 4 JESUS\" banner at a school-sponsored event.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/551/393/",
+    "facts_of_the_case": "<p>At a school-supervised event, Joseph Frederick held up a banner with the message \"Bong Hits 4 Jesus,\" a slang reference to marijuana smoking. Principal Deborah Morse took away the banner and suspended Frederick for ten days. She justified her actions by citing the school's policy against the display of material that promotes the use of illegal drugs. Frederick sued under 42 U.S.C. 1983, the federal civil rights statute, alleging a violation of his First Amendment right to freedom of speech. The District Court found no constitutional violation and ruled in favor of Morse. The court held that even if there were a violation, the principal had qualified immunity from lawsuit. The U.S. Court of Appeals for the Ninth Circuit reversed. The Ninth Circuit cited <em> <a href=\"/cases/1968/21/\">Tinker v. Des Moines Independent Community School District</a> </em>, which extended First Amendment protection to student speech except where the speech would cause a disturbance. Because Frederick was punished for his message rather than for any disturbance, the Circuit Court ruled, the punishment was unconstitutional. Furthermore, the principal had no qualified immunity, because any reasonable principal would have known that Morse's actions were unlawful.</p>\n",
+    "conclusion": "<p>Yes and not reached. The Court reversed the Ninth Circuit by a 5-4 vote, ruling that school officials can prohibit students from displaying messages that promote illegal drug use. Chief Justice John Roberts's majority opinion held that although students do have some right to political speech even while in school, this right does not extend to pro-drug messages that may undermine the school's important mission to discourage drug use. The majority held that Frederick's message, though \"cryptic,\" was reasonably interpreted as promoting marijuana use - equivalent to \"[Take] bong hits\" or \"bong hits [are a good thing].\" In ruling for Morse, the Court affirmed that the speech rights of public school students are not as extensive as those adults normally enjoy, and that the highly protective standard set by <em>Tinker</em> would not always be applied. In concurring opinions, Justice Thomas expressed his view that the right to free speech does not apply to students and his wish to see <em>Tinker</em> overturned altogether, while Justice Alito stressed that the decision applied only to pro-drug messages and not to broader political speech. The dissent conceded that the principal should have had immunity from the lawsuit, but argued that the majority opinion was \"[...] deaf to the constitutional imperative to permit unfettered debate, even among high-school students [...].\"</p>\n"
+}

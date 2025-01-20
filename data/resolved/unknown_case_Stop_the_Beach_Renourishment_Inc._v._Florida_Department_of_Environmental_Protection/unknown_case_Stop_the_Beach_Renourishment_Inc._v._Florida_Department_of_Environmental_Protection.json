@@ -1,0 +1,42 @@
+{
+    "ID": 55621,
+    "name": "Stop the Beach Renourishment Inc. v. Florida Department of Environmental Protection",
+    "href": "https://api.oyez.org/cases/2009/08-1151",
+    "view_count": 0,
+    "docket_number": "08-1151",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1245042000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40332"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1259733600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40333"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1276750800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40334"
+        }
+    ],
+    "question": "<p>By reversing longstanding holdings that littoral (i.e., on or near the shore) rights are constitutionally protected, did the Florida Supreme Court cause a \"judicial taking\" proscribed by the Fifth and Fourteenth Amendments?</p>\n",
+    "citation": {
+        "volume": "560",
+        "page": "702",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19544"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that a ruling on littoral (\"on or near the shore\") takings by the Florida Supreme Court did not cause a judicial takings violation of the Fifth or Fourteenth Amendments.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/560/702/",
+    "facts_of_the_case": "<p>In 1961, Florida enacted the Beach and Shore Preservation Act (\"BSPA\") to restore and maintain critically eroded beaches within the state. In 2003, under the BSPA, the Florida Department of Environmental Protection filed for an Application for a Joint Coastal Permit and Authorization to Use Sovereign Submerged Lands in order to dredge sand from a shoal to rebuild a beach. Stop the Beach Renourishment Inc. (\"SBR\"), an association of homeowners, subsequently challenged the issuance of the permit and the constitutionality of the BSPA. The Florida court of appeals rescinded the permit, holding that issuance would have resulted in an unconstitutional taking.</p>\n<p>On appeal, the Supreme Court of Florida first rephrased the certified question to determine whether the BSPA was \"on its face\" constitutional. Then, the court held that the BSPA was not unconstitutional, reasoning that it did not deprive land owners of littoral rights without just compensation.</p>\n",
+    "conclusion": "<p>No. The Supreme Court held 8-0 that the Florida Supreme Court did not take property without just compensation in violation of the Fifth and Fourteenth Amendments. Justice Antonin Scalia announced the judgment of the Court, and authored an opinion in which he maintained that there could be no taking unless property owners could show that they had rights to future exposed land and to contact with the water superior to Florida's right to fill in its submerged land. Here, there could be no showing. Scalia drew from Florida-law principles that (1) the state, as owner of submerged land adjacent to beachfront property, has the right to fill that land and (2) the exposure of land previously submerged belongs to the state even if it interrupts the beachfront property owners' contact with the water. Justice Scalia, with a plurality of the Court including Chief Justice John G. Roberts and Justices Clarence Thomas and Samuel A. Alito, also noted in Parts II and III of the decision that if a court declares that what was once an established right of private property no longer exists, it has taken that property in violation of the Takings Clause.</p>\n<p>Justice Anthony M. Kennedy, joined by Justice Sonia Sotomayor, concurred in part and concurred in the judgment. He agreed with the Court's holding, but disagreed that a plurality should reach the issue of whether or when a judicial decision determining property owners' rights can violate the Takings Clause. Justice Stephen G. Breyer, joined by Justice Ruth Bader Ginsburg, also concurred in part and concurred in the judgment. He agreed with the Court's holding, but, like Justice Kennedy, counseled that the Court should only address the issues before it.</p>\n"
+}

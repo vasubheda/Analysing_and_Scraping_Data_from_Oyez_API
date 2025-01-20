@@ -1,0 +1,42 @@
+{
+    "ID": 55370,
+    "name": "Davis v. Washington",
+    "href": "https://api.oyez.org/cases/2005/05-5224",
+    "view_count": 0,
+    "docket_number": "05-5224",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1130738400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39641"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1142834400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39642"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1150693200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39643"
+        }
+    ],
+    "question": "<p>Under the U.S. Supreme Court's interpretation of the Sixth Amendment in <em>Crawford v. Washington</em>, may statements made to police during investigation of a crime, though not made with the intent to preserve evidence, be admitted in court without allowing defendants to cross-examine the person who made the original statements?</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "813",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20639"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>Davis was arrested after Michelle McCottry called 911 and told the operator that he had beaten her with his fists and then left. At trial, McCottry did not testify, but the 911 call was offered as evidence of the connection between Davis and McCottry's injuries. Davis objected, arguing that presenting the recording without giving him the opportunity to cross-examine McCottry violated his Sixth Amendment right to confront his accuser as interpreted by the U.S. Supreme Court in <em>Crawford v. Washington</em>. The Washington Supreme Court disagreed, finding that the call was not \"testimonial\" and was therefore different from the statements at issue in <em>Crawford</em>.</p>\n",
+    "conclusion": "<p>Yes. In a 9-0 decision authored by Justice Antonin Scalia, the Court ruled that the Confrontation Clause of the Sixth Amendment, as interpreted in <em>Crawford v. Washington</em>, does not apply to \"non-testimonial\" statements not intended to be preserved as evidence at trial. Although McCottry identified her attacker to the 911 operator, she provided the information intending to help the police resolve an \"ongoing emergency,\" not to testify to a past crime. The Court reasoned that under the circumstances, McCottry was not acting as a \"witness,\" and the 911 transcript was not \"testimony.\" Therefore, the Sixth Amendment did not require her to appear at trial and be cross-examined. Justice Clarence Thomas wrote a separate opinion concurring in part and dissenting in part. He argued that though McCottry's statements were not testimonial, the Court should not \"guess\" at the primary motive behind the statements. This case was decided with <em>Hammon v. Indiana</em>.</p>\n"
+}

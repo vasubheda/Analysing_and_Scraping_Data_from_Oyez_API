@@ -1,0 +1,42 @@
+{
+    "ID": 63141,
+    "name": "Monasky v. Taglieri",
+    "href": "https://api.oyez.org/cases/2019/18-935",
+    "view_count": 0,
+    "docket_number": "18-935",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1560142800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54528"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1576044000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54627"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1582610400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54661"
+        }
+    ],
+    "question": "<p>When an infant is too young to acclimate to her surroundings, is a subjective agreement between the infant\u2018s parents is necessary to establish her habitual residence under the Hague Convention?</p>\n<p>What is the proper standard of review of a district court\u2019s determination of habitual residence under the Hague Convention\u2014de novo, a deferential version of de novo, or for clear error?</p>\n",
+    "citation": {
+        "volume": "589",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27688"
+    },
+    "term": "2019",
+    "description": "A case in which the Court held that a child\u2019s \u201chabitual residence\u201d under the Hague Convention depends on the totality of the circumstances specific to the case, not categorical requirements such as an actual agreement between parents.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/589/18-935/",
+    "facts_of_the_case": "<p>Michelle Monasky, a U.S. citizen married to Domenico Taglieri, an Italian citizen, claimed that Taglieri had repeatedly assaulted her before and during her pregnancy. Monasky returned to the United States with their two-month-old daughter, and Taglieri asked an Italian court to terminate Monasky\u2019s parental rights.</p>\n<p>The Italian court ruled in Taglieri\u2019s favor ex parte (without an appearance by Monasky). Taglieri then asked a federal court to require that Monasky return the baby to Italy. The court granted Taglieri\u2019s petition, finding that Italy was the baby\u2019s habitual residence. Both the Sixth Circuit and the U.S. Supreme Court denied Monasky\u2019s motion for a stay pending appeal, so Monasky returned their daughter to Italy. A panel of the Sixth Circuit affirmed the district court\u2019s decision, and then the Sixth Circuit agreed to a rehearing en banc.</p>\n<p>The International Child Abduction Remedies Act, 22 U.S.C. \u00a7 9001 et seq. implements the Hague Convention in the United States, and the law defines wrongful removal as taking a child in violation of custodial rights \u201cunder the law of the State in which the child was habitually resident immediately before the removal.\u201d To determine the child\u2019s habitual residence, a court must look \u201cto the place in which the child has become \u2018acclimatized,\u2019 or as a back-up inquiry, \u201cshared parental intent.\u201d Because the child, at two months of age, was too young to acclimate to a country, the relevant inquiry is the parents\u2019 shared intent. The district court is in the best position to make such an inquiry, and, finding no clear error in the district court\u2019s finding as to habitual residence, the Sixth Circuit (en banc) affirmed.</p>\n",
+    "conclusion": "<p>Under the Hague Convention on the Civil Aspects of International Child Abduction, a child\u2019s \u201chabitual residence\u201d depends on the totality of the circumstances specific to the case, not on categorical requirements such as an actual agreement between the parties. Such a determination is subject to review for clear error.</p>\n<p>Justice Ruth Bader Ginsburg delivered the opinion for the Court that was unanimous in the judgment. Justices Clarence Thomas and Samuel Alito joined in part and concurred in the judgment. The text of the Convention does not define \u201chabitual residence,\u201d but the accompanying explanatory report states that a child habitually resides where she is at home. No single fact is dispositive of all cases; instead, courts must make a fact-driven inquiry \u201csensitive to the unique circumstances of the case and informed by common sense.\u201d</p>\n<p>The Court found unpersuasive Monasky\u2019s argument that an actual agreement between the parents on where to raise their child was required to determine the child\u2019s habitual residence. None of the treaty partners interpret the treaty that way, and to do so would run counter to the principle that the inquiry is an intensely fact-driven one.</p>\n<p>Turning to the question of the standard of review, the Court found that because the question of habitual residence is a mixed question of law and fact that is heavily fact-laden, a determination by a trial court should be entitled to deferential clear-error review.</p>\n<p>Justice Thomas filed an opinion concurring in part and concurring in the judgment, in which Justice Alito joined. Justice Thomas would have decided this case principally on the plain meaning of the treaty\u2019s text\u2014which leads to the same outcome.</p>\n"
+}

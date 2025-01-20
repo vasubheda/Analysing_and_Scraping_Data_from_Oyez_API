@@ -1,0 +1,42 @@
+{
+    "ID": 55880,
+    "name": "Dorsey v. United States",
+    "href": "https://api.oyez.org/cases/2011/11-5683",
+    "view_count": 0,
+    "docket_number": "11-5683",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1322460000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41003"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1334638800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41004"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1340254800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41005"
+        }
+    ],
+    "question": "<p>Is the FSA applicable when the criminal was sentenced after the FSA passed but the crime occurred prior to passage?</p>\n",
+    "citation": {
+        "volume": "567",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19802"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that criminals who had committed drug crimes before the passage of the Fair Sentencing Act of 2010 but were sentenced after its passage were entitled to the sentencing provisions laid out in the Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/567/260/",
+    "facts_of_the_case": "<p>These two consolidated cases involve the Fair Sentencing Act of 2010 (FSA) which became law on August 3, 2010. The FSA increased the amount of crack cocaine necessary to trigger the statutory minimum sentence from 5 to 28 grams for a 5-year sentence and from 50 to 280 grams for a 10-year sentence. Police caught Edward Dorsey with 5.5 grams of crack cocaine and Corey Hill with over 50 grams. Dorsey had a prior felony drug conviction, so he triggered the 10-year minimum although he was under the pre FSA limit. Both men committed their crimes before the FSA passed, but were sentenced after the Act passed. The trial court judges refused to apply the FSA retroactively.</p>\n<p>The U.S. Court of Appeals for the Seventh Circuit affirmed both sentences, holding that the relevant date for application of the FSA is the date of the crime, not the date of sentencing.</p>\n",
+    "conclusion": "<p>Yes. In a 5-4 majority opinion by Justice Stephen G. Breyer, the Court held that the FSA's lower minimum sentences apply to offenders sentenced after the FSA's passage, even for crimes committed before its passage. In the Court's view, Congress clearly intended for the sentencing guidelines to apply to pre-Act offenders. The FSA is intended to create uniformity and proportionality in sentencing, a goal that would be undermined by applying the old sentencing guidelines after the Act's passage. Instead, applying the old sentencing guidelines would create the exact sentencing disparities that Congress tried to prevent with the FSA.</p>\n<p>Justice Antonin Scalia dissented, concerned with the majority's finding of clear congressional intent. Rather than search for congressional intent, Justice Scalia focused on the text of the general saving statute. The saving statute maintains that the repeal of any statute will not extinguish liability or penalties incurred while the statute was still in effect, unless Congress expressly allows otherwise. Justice Scalia found no express showing that Congress intended for the FSA to extend to those who committed crimes under the prior sentencing statute; therefore the defendants should not be subject to the FSA. Chief Justice John G. Roberts, Jr., Justice Clarence Thomas, and Justice Samuel A. Alito, Jr. joined in the dissent.</p>\n"
+}

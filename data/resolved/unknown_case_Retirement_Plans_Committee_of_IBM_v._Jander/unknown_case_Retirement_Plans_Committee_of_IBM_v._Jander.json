@@ -1,0 +1,42 @@
+{
+    "ID": 63137,
+    "name": "Retirement Plans Committee of IBM v. Jander",
+    "href": "https://api.oyez.org/cases/2019/18-1165",
+    "view_count": 0,
+    "docket_number": "18-1165",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1559538000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54524"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1573020000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54599"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1578981600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54643"
+        }
+    ],
+    "question": "<p>Do generalized allegations that the harm of an inevitable disclosure of an alleged fraud generally increases over time satisfy the \u201cmore harm than good\u201d pleading standard for ERISA claims the Court established in <em>Fifth Third Bancorp v. Dudenhoeffer</em>?</p>\n",
+    "citation": {
+        "volume": "589",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27684"
+    },
+    "term": "2019",
+    "description": "A case in which the Court was asked to decide whether generalized allegations of harm satisfy the \"more harm than good\" pleading standard for ERISA claims.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/589/18-1165/",
+    "facts_of_the_case": "<p>In <a href=\"https://www.oyez.org/cases/2013/12-751\"><em>Fifth Third Bancorp v. Dudenhoeffer</em>, 573 U.S. __ (2014)</a>, the Supreme Court unanimously held that under the Employee Retirement Income Security Act of 1974 (ERISA), fiduciaries to an employee stock ownership plan (ESOP) are not entitled to a presumption of prudence regarding their decisions to buy or hold employer stock. Rather, for a plaintiff to state a claim for breach of the fiduciary duty of prudence based on inside information, the plaintiff need only \u201cplausibly allege that a prudent fiduciary in the defendant\u2019s position could not have concluded that [an alternative action] would do more harm than good to the fund.\u201d Thus the Court established a \u201ccontext-specific\u201d pleading standard rather than a generalized presumption standard.</p>\n<p>IBM offers as a benefit to its employees an ERISA-qualified ESOP, invested predominantly in IBM common stock, with Retirement Plans Committee of IBM as the fiduciary. In 2015, two substantially similar lawsuits were filed against IBM and its officers, one under securities laws and the other under ERISA. Both lawsuits alleged that IBM fraudulently concealed problems with the company\u2019s microelectronics unit, thereby artificially inflating IBM\u2019s reported value. By continuing to invest in IBM stock despite allegedly knowing that the market price was artificially inflated due to the fraudulent scheme, the plaintiffs in the ERISA lawsuit argued that the ESOP\u2019s fiduciaries breached their duty of prudence under Section 404 of ERISA.</p>\n<p>The district court dismissed the ERISA lawsuit for failure to state a claim, finding that the plaintiffs failed to meet the pleading standard established in <em>Fifth Third</em>, as they had not alleged facts showing that the fiduciaries \u201ccould not have concluded\u201d that publicly disclosing the alleged \u201cfraud\u201d or halting further investments in IBM stock would be more likely to harm the fund than to help it.</p>\n<p>The plaintiffs amended their complaint to add generic allegations that disclosure of the alleged fraud was \u201cinevitable\u201d and that the magnitude of the stock price correction resulting from a delayed disclosure would increase over time. The plaintiffs also added a claim that the fiduciaries could have avoided doing more harm than good by instead purchasing a \u201clow-cost\u201d hedging product.</p>\n<p>The district court again dismissed the lawsuit for failing to meet the <em>Fifth Third</em> pleading standard and because a prudent fiduciary could reasonably find their proposed alternative likely to cause more harm than good. The U.S. Court of Appeals for the Second Circuit reversed, finding that \u201cwhen a \u2018drop in the value of the stock already held by the fund\u2019 is inevitable, it is far more plausible that a prudent fiduciary would prefer to limit the effects of the stock\u2019s artificial inflation on the ESOP\u2019s beneficiaries through prompt disclosure.\u201d</p>\n",
+    "conclusion": "<p>In a per curiam (unsigned) opinion, the Court vacated the judgment below and remanded the case to the Second Circuit to determine whether to entertain the parties\u2019 arguments on ERISA\u2019s duty of prudence.</p>\n"
+}

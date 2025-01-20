@@ -1,0 +1,35 @@
+{
+    "ID": 54369,
+    "name": "U. S. Term Limits, Inc. v. Thornton",
+    "href": "https://api.oyez.org/cases/1994/93-1456",
+    "view_count": 0,
+    "docket_number": "93-1456",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                786088800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37556"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                801118800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37557"
+        }
+    ],
+    "question": "<p>Can states alter those qualifications for the U.S. Congress that are specifically enumerated in the Constitution?</p>\n",
+    "citation": {
+        "volume": "514",
+        "page": "779",
+        "year": "1995",
+        "href": "https://api.oyez.org/case_citation/case_citation/18298"
+    },
+    "term": "1994",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/514/779/",
+    "facts_of_the_case": "<p>On November 3, 1992, Arkansas voters adopted Amendment 73 to their State Constitution. The \"Term Limitation Amendment,\" in addition to limiting terms of elected officials within the Arkansas state government, also provided that any person who served three or more terms as a member of the United States House of Representatives from Arkansas would be ineligible for re-election as a US Representative from Arkansas. Similarly, the Amendment provided that any person who served two or more terms as a member of the United States Senate from Arkansas would be ineligible for re-election as a US Senator from Arkansas.</p>\n",
+    "conclusion": "<p>No. The Constitution prohibits States from adopting Congressional qualifications in addition to those enumerated in the Constitution. A state congressional term limits amendment is unconstitutional if it has the likely effect of handicapping a class of candidates and \"has the sole purpose of creating additional qualifications indirectly.\" Furthermore, \"...allowing individual States to craft their own congressional qualifications would erode the structure designed by the Framers to form a 'more perfect Union.'\"</p>\n"
+}

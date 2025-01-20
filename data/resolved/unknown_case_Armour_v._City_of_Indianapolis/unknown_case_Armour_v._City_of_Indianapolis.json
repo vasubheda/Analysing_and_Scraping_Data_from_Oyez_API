@@ -1,0 +1,42 @@
+{
+    "ID": 55833,
+    "name": "Armour v. City of Indianapolis",
+    "href": "https://api.oyez.org/cases/2011/11-161",
+    "view_count": 0,
+    "docket_number": "11-161",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1321250400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40879"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1330495200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40880"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1338786000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40881"
+        }
+    ],
+    "question": "<p>Did the City of Indianapolis violate equal protection by forgiving only outstanding Barrett Law assessment balances, and not those of property owners who paid in full?</p>\n",
+    "citation": {
+        "volume": "566",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19755"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that an Indiana town did not violate residents' Fourteenth Amendment rights when it denied them reimbursement for paying property assessment fees, later deemed to be more than necessary, in full.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/566/673/",
+    "facts_of_the_case": "<p>In April of 2001, the City of Indianapolis (\"the city\") sent a letter to property owners in the Northern Estates neighborhood informing them that their properties were part of the Brisbane/Manning Barrett Law Sanitary Sewers Project (\"the project\"). The project was designed to connect properties to the city sewer system, reducing or eliminating the use of septic tanks.</p>\n<p>In July of 2004, the Indianapolis Board of Public Works (\"the board\") levied an assessment of $9,278 against each property subject to the project. Indianapolis offered each property owner the option of paying the assessment in its entirety or of paying in monthly installments, subject to an annual interest rate. The petitioners, Christine Armour and 30 other property owners (\"property owners\"), chose to pay the assessment in its entirety.</p>\n<p>In 2005, the city abandoned the Barrett Law method of assessing owners' contributions in favor of the Septic Tank Elimination Program (\"STEP\"). As part of the transition to STEP, the board passed a measure forgiving all outstanding Barrett Law assessment balances owed as of November 1, 2005, including those assessed for the project. As a result, owners who chose to pay their assessment in monthly installments were forgiven from future payment. Owners who chose to pay their assessments in their entirety were given no reimbursement. The property owners requested compensation from the board in February of 2006 and were denied.</p>\n<p>The property owners filed complaint against the city in July of 2007, alleging violation of due process and equal protection under the Fourteenth Amendment. All parties filed for summary judgment; the trial court granted the property owners' motion, and entered judgment against the city. On appeal, the property owners abandoned their due process claim, arguing that the city violated equal protection. The Indiana Court of Appeals affirmed, holding that the city did not have a rational basis for only forgiving the debt of owners who chose to pay in installments. The Indiana Supreme Court granted the city's motion to transfer the case, vacating the decision of the Court of Appeals.</p>\n<p>Justice Frank Sullivan, writing for a unanimous court, held that the city's tax policy survives rational basis review and does not violate equal protection. The city legitimately believed that 1) owners who fully paid their assessments were in a better financial position than those making monthly installments, 2) the benefits of simplifying funding for the sewer system outweighed the effort of continuing the previous taxation system and 3) the new taxation system would preserve city resources. He rejected the property owners' argument that they were a \"class of one\" --requiring heightened scrutiny of the city's action-- because the property owners were not singled out for discriminatory treatment.</p>\n",
+    "conclusion": "<p>No. Justice Stephen G. Breyer, writing for a 6-3 majority, affirmed the Indiana court. The Supreme Court held that the distinction between homeowners who had paid the full amount and homeowners who had their balance forgiven had a rational relationship to the legitimate interest of reducing administrative costs. The Court used rational basis review because the classification between homeowners was not suspect and did not involve a fundamental right.</p>\n<p>Chief Justice John G. Roberts, Jr. dissented, writing that the extreme disparity in tax burdens between homeowners violated the equal protection clause under rational basis review. While administrative costs can play a role, they do not justify charging some taxpayers 30 times what other similarly situated taxpayers paid. Indianapolis even provided detailed records of how much each homeowner overpaid, so the only administrative cost would be cutting checks and mailing them to the homeowners. Justice Antonin Scalia and Justice Samuel A. Alito, Jr. joined in the dissent.</p>\n"
+}

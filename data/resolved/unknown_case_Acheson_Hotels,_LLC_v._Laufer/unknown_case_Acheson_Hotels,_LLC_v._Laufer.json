@@ -1,0 +1,42 @@
+{
+    "ID": 63568,
+    "name": "Acheson Hotels, LLC v. Laufer",
+    "href": "https://api.oyez.org/cases/2023/22-429",
+    "view_count": 0,
+    "docket_number": "22-429",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1679893200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55239"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1696395600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55344"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1701756000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55379"
+        }
+    ],
+    "question": "<p>Does an ADA \u201ctester\u201d have Article III standing to challenge a hotel\u2019s failure to provide disability accessibility information on its website, even if she has no plans to visit the hotel?</p>\n",
+    "citation": {
+        "volume": "601",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27945"
+    },
+    "term": "2023",
+    "description": "A case in which the Court was asked to decide whether a civil rights \u201ctester\u201d has Article III standing to challenge under the Americans with Disabilities Act a hotel\u2019s failure to provide disability accessibility information on its website.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/601/22-429/",
+    "facts_of_the_case": "<p>Deborah Laufer, a prolific litigant with physical disabilities and vision impairments, sued Acheson Hotels for failing to publish information about their accessibility on their website, which is required under the Americans with Disabilities Act (ADA).</p>\n<p>The district court dismissed the lawsuit, finding that Laufer lacked standing to sue because had no plans to visit the hotel and thus suffered no injury as a result of the lack of information on the website. The U.S. Court of Appeals for the First Circuit reversed, concluding that Laufer\u2019s lack of intent to book a room at the hotel operated by Acheson does not negate the fact of injury.</p>\n",
+    "conclusion": "<p>The Court vacated the case as moot because Laufer voluntarily dismissed her pending suits in lower courts with prejudice due to serious misconduct by her lawyers. Justice Amy Coney Barrett authored the majority opinion of the court vacating the case as moot and declining, despite Acheson\u2019s request to the contrary, to resolve the still-live circuit split on the question of standing.</p>\n<p>Justice Clarence Thomas authored an opinion concurring in the judgment arguing that he would reach the standing issue and resolve that question in the negative.</p>\n<p>Justice Ketanji Brown Jackson author an opinion concurring in the judgment, explaining that she concurs only because of the Court\u2019s precedent of vacating the judgment of the Court of Appeals below \u201cwhen mootness occurs through . . . the unilateral action of the party who prevailed in the lower court.\u201d In her view, however, vacatur is not appropriate in situations, as here, where the parties did not provide any equitable basis for vacatur.</p>\n"
+}

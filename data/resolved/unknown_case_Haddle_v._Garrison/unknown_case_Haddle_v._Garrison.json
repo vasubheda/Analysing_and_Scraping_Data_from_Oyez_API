@@ -1,0 +1,35 @@
+{
+    "ID": 54722,
+    "name": "Haddle v. Garrison",
+    "href": "https://api.oyez.org/cases/1998/97-1472",
+    "view_count": 0,
+    "docket_number": "97-1472",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                910677600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38207"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                913615200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38208"
+        }
+    ],
+    "question": "<p>May at-will employees sue their employers over firings allegedly carried out to retaliate for testimony against their employers?</p>\n",
+    "citation": {
+        "volume": "525",
+        "page": "121",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18651"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/525/121/",
+    "facts_of_the_case": "<p>Michael A. Haddle, an at-will employee for Healthmaster, Inc., filed suit in federal court alleging his employer, along with 2 previous Healthmaster, Inc. officers, Jeanette Garrison and Dennis Kelly, conspired to have him fired in retaliation for obeying a federal grand jury subpoena and later testifying in a criminal trial against Healthmaster, Inc. for Medicare fraud. Haddle claimed his employers' acts had had \"injured [him] in his person or property\" in violation of federal law, specifically the Civil Rights Act of 1871. The District Court, relying on precedent, dismissed the suit for failure to state a claim. The precedent the court cited held that an at-will employee discharged pursuant to a conspiracy proscribed by the Act has suffered no actual injury because he has no constitutionally protected interest in continued employment. The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous decision, announced by Chief Justice William H. Rehnquist, the Court ruled that such interference may give rise to a claim for damages under the Civil Rights Act of 1871. \"The kind of interference with at-will employment relations alleged here is merely a species of the traditional torts of intentional interference with contractual relations and intentional interference with prospective contractual relations,\" wrote Chief Justice Rehnquist.</p>\n"
+}

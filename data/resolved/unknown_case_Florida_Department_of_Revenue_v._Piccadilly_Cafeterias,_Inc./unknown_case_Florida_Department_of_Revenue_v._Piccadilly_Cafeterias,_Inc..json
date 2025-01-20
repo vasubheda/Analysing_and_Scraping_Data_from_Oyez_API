@@ -1,0 +1,42 @@
+{
+    "ID": 55489,
+    "name": "Florida Department of Revenue v. Piccadilly Cafeterias, Inc.",
+    "href": "https://api.oyez.org/cases/2007/07-312",
+    "view_count": 0,
+    "docket_number": "07-312",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1197007200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39964"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1206507600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39965"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1213592400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39966"
+        }
+    ],
+    "question": "<p>Does 11 U.S.C. Section 1146(c), a provision of the Bankruptcy Code stating that certain asset transfers \"under a [confirmed Chapter 11] plan may not be taxed under any law imposing a stamp tax or similar tax,\" prohibit states from imposing taxes on pre-confirmation asset sales that are essential to the completion of a reorganization plan?</p>\n",
+    "citation": {
+        "volume": "554",
+        "page": "33",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/19412"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/554/33/",
+    "facts_of_the_case": "<p>In 2003, Piccadilly Cafeterias filed a Chapter 11 Bankruptcy petition in federal court in Florida asking the bankruptcy court for permission to auction off its assets in order to fund a reorganization plan. Piccadilly sought a tax exemption under 11 U.S.C. 1146(c) which states that certain asset transfers \"under a [confirmed Chapter 11] plan may not be taxed under any law imposing a stamp tax or similar tax.\" Florida vehemently opposed this exemption and sought to collect $32,000 in taxes from Piccadilly.</p>\n<p>The bankruptcy court, the district court, and the U.S. Court of Appeals for the Eleventh Circuit all found in favor of Piccadilly, holding that 11 U.S.C. 1146(c) allowed courts to exempt from taxes pre-confirmation asset sales that were essential to the completion of a reorganization plan. In urging the Court to grant certiorari, Florida pointed to both Third and Fourth Circuit decisions holding that such pre-confirmation asset sales were subject to state taxation, while Piccadilly Cafeterias contended that these so-called \"circuit splits\" only involve a small handful of cases and require no resolution by the Court.</p>\n",
+    "conclusion": "<p>No. The Court held 7-2 that the plain meaning of the statute indicates that it only applies to confirmed asset sales, not \"pre-confirmation\" sales. Writing for the majority, Justice Clarence Thomas noted Congress' use of the phrase \"plan confirmed\" in Sec. 1146(c), as well as the statute's placement in a sub-chapter titled \"Postconfirmation Matters,\" to hold that the tax exemption should only be applied after a plan has been confirmed. Justice Stephen Breyer, joined by Justice John Paul Stevens, dissented, interpreting this same language to mean that the tax break should apply to asset sales that are <em>subsequently</em> confirmed, even if they were not confirmed at the time the sales were made.</p>\n"
+}

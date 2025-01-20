@@ -1,0 +1,35 @@
+{
+    "ID": 62273,
+    "name": "Branch v. Smith",
+    "href": "https://api.oyez.org/cases/2002/01-1437",
+    "view_count": 0,
+    "docket_number": "01-1437",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1039500000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52677"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1049090400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52678"
+        }
+    ],
+    "question": "<p>Did the District Court properly enjoin the Mississippi state court's proposed congressional redistricting plan and properly fashion its own congressional reapportionment plan?</p>\n",
+    "citation": {
+        "volume": "538",
+        "page": "254",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/27068"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/538/254/",
+    "facts_of_the_case": "<p>After the 2000 census caused Mississippi to lose one congressional seat, the State legislature failed to pass a new redistricting plan. Subsequently, lawsuits were filed in both the Mississippi State Chancery Court and the Federal District Court, asking that each court issue its own redistricting plan. While the federal court stayed its hand, the Mississippi Supreme Court ruled that the Chancery Court had jurisdiction to issue a redistricting plan. The Chancery Court adopted such a plan, which was submitted for preclearance pursuant to the Voting Rights Act of 1965. Meanwhile, the Federal District Court promulgated a plan that would fix the State's congressional districts for the 2002 elections should the state-court plan not be precleared by the state-law deadline. Ultimately, the District Court enjoined the State from using the state-court plan and ordered that its own plan be used in 2002 until the State produced a precleared, constitutional plan. The State did not appeal and no determination was made on the preclearance submission because the District Court's injunction rendered the state-court plan incapable of administration.</p>\n",
+    "conclusion": "<p>Yes. In a plurality opinion delivered by Justice Antonin Scalia, the Court held, 9-0, that the District Court properly enjoined enforcement of the state- court plan that lacked the required timely preclearance. The Court also held, 7-2, that the federal court properly fashioned its own congressional reapportionment plan, which drew the requisite single-member districts rather than directing at-large elections, under 2 USC section 2c. Regarding the second holding, Justice Scalia, joined by Chief Justice William H. Rehnquist and Justices Anthony M. Kennedy and Ruth Bader Ginsburg, reasoned that the provision for at-large elections under 2 USC section 2a(c) was subject to the requirement under section 2c that single-member districts must be drawn whenever possible. Justice John Paul Stevens, with whom Justices David H. Souter and Stephen G. Breyer joined, concluded that section 2c impliedly repealed section 2a(c). Justice Sandra Day O'Connor, with whom Justice Clarence Thomas joined, disagreed with the plurality's interpretations of section 2c.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 54257,
+    "name": "United States v. Granderson",
+    "href": "https://api.oyez.org/cases/1993/92-1662",
+    "view_count": 0,
+    "docket_number": "92-1662",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                758181600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52404"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                764316000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52210"
+        }
+    ],
+    "question": "<p>United States Code section 3565 says that if a person serving a sentence of probation possesses illegal drugs, \"the court shall revoke the sentence of probation and sentence the defendant to not less than one third of the original sentence.\" Does \"original sentence\" refer to the original imprisonment sentence range set by U.S. Sentencing Guidelines, or to the term of probation?</p>\n",
+    "citation": {
+        "volume": "511",
+        "page": "39",
+        "year": "1994",
+        "href": "https://api.oyez.org/case_citation/case_citation/20480"
+    },
+    "term": "1993",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/511/39/",
+    "facts_of_the_case": "<p>Granderson, convicted for mail destruction, faced potential imprisonment of 0-6 months under U.S. Sentencing Guidelines. The district court sentenced him to five years of probation. When Granderson tested positive for cocaine, the court resentenced him under section 3565 of the U.S. Code. The section says that if a person serving a sentence of probation possesses illegal drugs, \"the court shall revoke the sentence of probation and sentence the defendant to not less than one third of the original sentence.\" The district court interpreted the phrase \"original sentence\" to refer to the term of probation imposed (60 months), rather than the 0-6 month imprisonment range set by the Guidelines. The court resentenced Granderson to 20 months' imprisonment.</p>\n<p>The 11th Circuit Court of Appeals vacated Granderson's new sentence. Citing \"lenity,\" the court agreed with Granderson that \"original sentence\" referred to the potential imprisonment range under the Guidelines, not to the actual probation sentence.</p>\n",
+    "conclusion": "<p>In an opinion delivered by Justice Ruth Bader Ginsburg, the Court held 7-2 that the U.S. Code's section 3565 refers to the original sentence range set by U.S. Sentencing Guidelines. Therefore, the minimum revocation sentence for drug possession while on probation is one third the maximum of the Guidelines range of imprisonment; the maximum revocation sentence is the Guidelines maximum. The Court pointed out that the statute differentiates between \"sentence of probation\" and \"original sentence.\" Moreover, the history of the language shows that Congress may not have given it careful attention and that it \"may have been composed with an obsolete federal sentencing regime in the drafter's mind.\" In \"circumstances, where the text, structure, and statutory history fail to establish that the Government's position is unambiguously correct, the rule of lenity... resolve[s] the statutory ambiguity in Granderson's favor.\"</p>\n<p>Justices Antonin Scalia and Anthony Kennedy concurred separately. Dissenting, Chief Justice William H. Rehnquist, with whom Justice Clarence Thomas concurred, argued that \"original sentence\" should be interpreted as the term of probation.</p>\n"
+}

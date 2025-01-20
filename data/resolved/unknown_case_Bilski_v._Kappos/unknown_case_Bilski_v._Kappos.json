@@ -1,0 +1,42 @@
+{
+    "ID": 55628,
+    "name": "Bilski v. Kappos",
+    "href": "https://api.oyez.org/cases/2009/08-964",
+    "view_count": 0,
+    "docket_number": "08-964",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1243832400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40353"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1257746400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40354"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1277701200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40355"
+        }
+    ],
+    "question": "<p>1) Did the Federal Circuit err by using the machine-or-transformation test in determining patentable subject matter?</p>\n<p>2) Does the machine-or-transformation test prevent patent protection for many business methods and thus contradict congressional intent that patents protect \"methods of doing or conducting business.\"</p>\n",
+    "citation": {
+        "volume": "561",
+        "page": "593",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19551"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that the \"machine-or-transformation\" test adopted by the Patent and Trademark Office (PTO) was a legal means for determining patent eligibility.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/561/593/",
+    "facts_of_the_case": "<p>Applicants were denied a patent by the Patent and Trademark Office (PTO) for claims pertaining to a process of managing risk in commodities trading. The PTO examiner deemed the invention not to be of patentable subject matter under 35 U.S.C. Section 101. The Board of Patent Appeals and Interferences affirmed the decision.</p>\n<p>On appeal, the U.S. Court of Appeals for the Federal Circuit affirmed. The court relied on Supreme Court precedent stating that an invention is patentable if: \"1) it is tied to a particular machine or apparatus, or 2) it transforms a particular article into a different state or thing.\" Reasoning from this, it held that the applicants' invention clearly failed this test (machine-or-transformation test) and therefore did not constitute patentable subject matter.</p>\n",
+    "conclusion": "<p>No. No. The Supreme Court affirmed the Federal Circuit, holding that the applicants' claimed invention is not patent eligible. With Justice Anthony M. Kennedy writing for the majority, the Court reasoned that the Federal Circuit did not err when it used the \"machine-or-transformation test\" to determine patentability. However, the Court noted, in contrast to the Federal Circuit, that the machine-or-transformation test is not the sole test for determining patent eligibility.</p>\n<p>Justice John Paul Stevens, joined by Justices Ruth Bader Ginsburg, Stephen G. Breyer, and Sonia Sotomayor, concurred in the judgment. He disagreed with the majority to the extent it suggested that any series of steps that is not itself an abstract idea or law of nature may constitute a \"process\" within Section 101. Justice Stephen G. Breyer, joined by Justice Antonin Scalia, also concurred in the judgment. He noted his agreement with Justice Stevens' concurrence and also highlighted the extent to which the Court agreed on many fundamental issues of patent law raised by this case.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55353,
+    "name": "Brown v. Sanders",
+    "href": "https://api.oyez.org/cases/2005/04-980",
+    "view_count": 0,
+    "docket_number": "04-980",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1111989600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39598"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1129006800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39599"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1136959200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39600"
+        }
+    ],
+    "question": "<p>Was the Eighth Amendment violated when the California Supreme Court upheld a death sentence even though two of the four special aggravating circumstances considered by the jury were found to be invalid?</p>\n",
+    "citation": {
+        "volume": "546",
+        "page": "212",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20625"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/546/212/",
+    "facts_of_the_case": "<p>A California trial court sentenced Sanders to death for murder. The jury was told to consider four special aggravating circumstances during sentencing. On appeal, however, the state supreme court invalidated two of these circumstances, but still upheld Sanders's sentence. Sanders then filed a federal habeas petition, which was rejected by the district court but granted by the Ninth Circuit Court of Appeals. In overturning Sanders's sentence, it held that the sentence had been substantially affected by jury instructions to consider invalid aggravating circumstances. The Ninth Circuit faulted the state supreme court for its standard of review: The court should have determined whether the invalid circumstances were harmless beyond a reasonable doubt in affecting the jury's sentence.</p>\n",
+    "conclusion": "<p>No. The Court upheld the sentence in a 5-4 decision authored by Justice Antonin Scalia. The Court established a new rule: invalidated sentencing factors make a sentence unconstitutional if they added aggravating weight to the jury's weighing process, \" <em>unless</em> one of the other sentencing factors enables the sentencer to give aggravating weight to the same facts and circumstances.\" In Sanders's case, the two remaining valid special circumstances were sufficient to make him eligible for the death penalty. Furthermore, the two invalided circumstances did not add any improper aggravating weight, because another valid sentencing factor - an omnibus \"circumstances of the crime\" factor - gave aggravating weight to the same facts. Therefore, the Court ruled, \"the erroneous factor could not have 'skewed' the sentence, and no constitutional violation occurred.\" Justice Stevens wrote a dissent, which Justice Souter joined. Justice Breyer wrote a separate dissent, which Justice Ginsburg joined.</p>\n"
+}

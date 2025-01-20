@@ -1,0 +1,42 @@
+{
+    "ID": 55245,
+    "name": "Ballard v. Commissioner of Internal Revenue",
+    "href": "https://api.oyez.org/cases/2004/03-184",
+    "view_count": 0,
+    "docket_number": "03-184",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1082955600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39297"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1102399200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39298"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1110175200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39299"
+        }
+    ],
+    "question": "<p>Could the Tax Court exclude from the record on appeal Rule 183(b) reports submitted by special trial judges?</p>\n",
+    "citation": {
+        "volume": "544",
+        "page": "40",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19173"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/544/40/",
+    "facts_of_the_case": "<p>Under federal law, the Tax Court could appoint special trial judges to hear certain cases and to make recommendations to the Tax Court. The Tax Court judge, under Tax Rule 183(b), had to presume the special judge's fact findings to be correct, but could make the ultimate decision in the case. The special trail judge reports were made public and included in the record on appeal. Only after a rule revision in 1983 did the Tax Court stop making such reports public and exclude them from the appellate record. Whether the final Tax Court's decision deviated from the special judge's recommendations was kept secret. Tax Court Judge Howard Dawson ruled that Kanter was guilty of tax fraud and of illegally diverting money to Claude Ballard, a business associate. In his opinion, Dawson claimed to have adopted the opinion of the special trial judge. Ballard and Kanter separately appealed, objecting to the absence of the special trial judge's report from the appellate record. Two federal appellate courts ruled against Kanter and Ballard.</p>\n",
+    "conclusion": "<p>No. In a 7-2 opinion delivered by Justice Ruth Bader Ginsburg, the Court held that no statute authorized, and Rule 183's text did not warrant, the concealment of the special report. Rule 183 did not allow the \"novel practice\" of treating the trial judge's opinion as an \"in-house draft to be worked over collaboratively by the regular Tax Court judge and the special trial judge.\" The rules allowed only one trial judge opinion to be issued and before a separate Tax Court ruling, Ginsburg wrote. It would be impossible for a Tax Court judge to give deference to an opinion he himself collaborated in producing. Moreover, the Tax Court's refusal to disclose the trial judge's original report did not allow fully informed appellate review of the court's decision.</p>\n"
+}

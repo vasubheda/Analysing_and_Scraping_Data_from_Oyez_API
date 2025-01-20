@@ -1,0 +1,42 @@
+{
+    "ID": 55697,
+    "name": "McDonald v. Chicago",
+    "href": "https://api.oyez.org/cases/2009/08-1521",
+    "view_count": 0,
+    "docket_number": "08-1521",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1254286800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40521"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1267509600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40522"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1277701200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40523"
+        }
+    ],
+    "question": "<p>Does the Second Amendment apply to the states because it is incorporated by the Fourteenth Amendment's Privileges and Immunities or Due Process clauses and thereby made applicable to the states?</p>\n",
+    "citation": {
+        "volume": "561",
+        "page": "742",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19619"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that the Fourteenth Amendment makes the Second Amendment's right to bear arms for the purpose of self-defense applicable in the states.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/561/742/",
+    "facts_of_the_case": "<p>Several suits were filed against Chicago and Oak Park in Illinois challenging their gun bans after the Supreme Court issued its opinion in <em>District of Columbia v. Heller</em>. In that case, the Supreme Court held that a District of Columbia handgun ban violated the Second Amendment. There, the Court reasoned that the law in question was enacted under the authority of the federal government and, thus, the Second Amendment was applicable. Here, plaintiffs argued that the Second Amendment should also apply to the states. The district court dismissed the suits. On appeal, the U.S. Court of Appeals for the Seventh Circuit affirmed.</p>\n",
+    "conclusion": "<p>The Supreme Court reversed the Seventh Circuit, holding that the Fourteenth Amendment makes the Second Amendment right to keep and bear arms for the purpose of self-defense applicable to the states. With Justice Samuel A. Alito writing for the majority, the Court reasoned that rights that are \"fundamental to the Nation's scheme of ordered liberty\" or that are \"deeply rooted in this Nation's history and tradition\" are appropriately applied to the states through the Fourteenth Amendment. The Court recognized in <em>Heller</em> that the right to self-defense was one such \"fundamental\" and \"deeply rooted\" right. The Court reasoned that because of its holding in <em>Heller</em>, the Second Amendment applied to the states. Here, the Court remanded the case to the Seventh Circuit to determine whether Chicago's handgun ban violated an individual's right to keep and bear arms for self-defense.</p>\n<p>Justice Alito, writing in the plurality, specified that the Due Process Clause of the Fourteenth Amendment incorporates the Second Amendment right recognized in <em>Heller</em>. He rejected Justice Clarence Thomas's separate claim that the Privileges or Immunities Clause of the Fourteenth Amendment more appropriately incorporates the Second Amendment against the states. Alito stated that the Court's decision in the <em>Slaughterhouse Cases</em> -- rejecting the use of the Privileges or Immunities Clause for the purpose of incorporation -- was long since decided and the appropriate avenue for incorporating rights was through the Due Process Clause.</p>\n<p>Justice Antonin Scalia concurred. He agreed with the Court's opinion, but wrote separately to disagree with Justice John Paul Stevens' dissent. Justice Clarence Thomas concurred and concurred in the judgment. He agreed that the Fourteenth Amendment incorporates the Second Amendment against the states, but disagreed that the Due Process Clause was the appropriate mechanism. Instead, Justice Thomas advocated that the Privileges or Immunities Clause was the more appropriate avenue for rights incorporation. Justice John Paul Stevens dissented. He disagreed that the Fourteenth Amendment incorporates the Second Amendment against the states. He argued that owning a personal firearm was not a \"liberty\" interest protected by the Due Process Clause. Justice Stephen G. Breyer, joined by Justices Ruth Bader Ginsburg and Sonia Sotomayor, also dissented. He argued that there is nothing in the Second Amendment's \"text, history, or underlying rationale\" that characterizes it as a \"fundamental right\" warranting incorporation through the Fourteenth Amendment.</p>\n"
+}

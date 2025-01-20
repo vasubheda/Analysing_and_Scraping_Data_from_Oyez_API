@@ -1,0 +1,35 @@
+{
+    "ID": 62617,
+    "name": "Mullenix v. Luna",
+    "href": "https://api.oyez.org/cases/2015/14-1143",
+    "view_count": 0,
+    "docket_number": "14-1143",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1447048800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53313"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1447048800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53316"
+        }
+    ],
+    "question": "<p>Did the district court and the U.S. Court of Appeals for the Fifth Circuit err in determining that Chadrin Lee Mullenix was not entitled to qualified immunity?</p>\n",
+    "citation": {
+        "volume": "577",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/27382"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that a trooper was entitled to qualified immunity for his actions in the context of the situation he faced.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/577/7/",
+    "facts_of_the_case": "<p>On March 23, 2010, a police officer approached Israel Leija, Jr. at a drive-in restaurant with a warrant for his arrest. Leija proceeded to lead the police on a high-speed chase on the interstate while periodically calling the police dispatcher, saying that he had a gun and threatening to shoot the officers chasing him. The officers continued their pursuit, and other officers deployed spike strips. Trooper Chadrin Lee Mullenix, upon learning that other spike strips were set up, decided to pursue the alternate tactic of shooting at Leija\u2019s car in order to stop it. Although he had not received training on this maneuver, he informed one of the officers in pursuit of his plan and radioed his supervisor for permission. Before receiving a response, Mullenix got in position on an overpass. Witnesses testified that Mullenix could hear his supervisor respond to say that he should \u201cstand by\u201d and \u201csee if the spikes work first.\u201d When Leija\u2019s car approached, Mullenix fired six shots. The car struck the spike strips, hit the median, and rolled several times. It was later determined that Leija died as a result of Mullenix\u2019 shots, four of which struck his body and none of which struck the car\u2019s radiator, hood, or engine block.</p>\n<p>The respondents sued Mullenix under 42 U.S.C. \u00a71983 and argued that Mullenix had violated Leija\u2019s Fourth Amendment rights by using excessive force against him. Mullenix moved for summary judgment and argued that he was entitled to qualified immunity. The district court denied the motion and held that there were genuine questions of fact regarding whether Mullenix acted as a reasonable officer would have under similar circumstances. The U.S. Court of Appeals for the Fifth Circuit affirmed and subsequently denied Mullenix\u2019s petition for a rehearing.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion, the Court held that there was no clearly established law saying that the use of deadly force on a fleeing suspect that posed a danger to others violates the Fourth Amendment. The Court held that the proper question in such cases was whether the Fourth Amendment prohibited the officer\u2019s conduct in the specific situation with which he was confronted. The inquiry would necessarily be a fact-intensive one to determine whether there was precedent that \u201csquarely governed\u201d the situation at hand. In this case, there was no excessive force precedent that concluded that the unreasonability of Mullenix\u2019s actions in this case was \u201cbeyond debate.\u201d In fact, there was generally murky precedent regarding when the use of excessive force is reasonable. Because it was not clearly established that Mullenix\u2019s actions were inappropriate in response to specific situation at hand, the appellate court and the distict court erred in holding that Mullenix was not entitled to qualified immunity.</p>\n<p>In his opinion concurring in the judgment, Justice Antonin Scalia wrote that the inquiry should not be into whether Mullenix reasonably used deadly force; such an inquiry should be reserved for when the officer was directing his use of force against the person rather than an object like a car, as was the case here.</p>\n<p>Justice Sonia Sotomayor wrote a dissent in which she argued that it was clearly established under the Fourth Amendment that an officer in Mullenix\u2019s position should not have acted as he did unless there was a significant government interest that outweighed the intrusion into Leija\u2019s Fourth Amendment rights. Because there was no plausible reason for an officer in Mullenix\u2019s position to shoot at the car rather than waiting to see if they spike strips would be sufficient, there was no government interest significant enough to outweigh the intrusion. Justice Sotomayor also argued that the majority focused on the wrong legal question by dwelling on the imminence of the danger that Leija posed.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 56001,
+    "name": "Atlantic Marine Construction Company v. U.S. District Court for the Western District of Texas",
+    "href": "https://api.oyez.org/cases/2013/12-929",
+    "view_count": 0,
+    "docket_number": "12-929",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1364792400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41329"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1381294800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41330"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1386050400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41593"
+        }
+    ],
+    "question": "<p>Did the Supreme Court's decision in <em>Stewart Organization, Inc. v. Ricoh Corp.</em> limit review of forum selection clauses to a discretionary, balancing-of-conveniences analysis under 28 U.S.C. \u00a7 1404(a)</p>\n<p>If so, who has the burden of proof when a party seeks to enforce or avoid a forum selection clause?</p>\n",
+    "citation": {
+        "volume": "571",
+        "page": "49",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/20903"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that the Federal Rules of Procedure allow two opposing parties in a lawsuit to transfer the litigation to a more convenient forum rather than being dismissed entirely.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/571/49/",
+    "facts_of_the_case": "<p>In 2009 the U.S. Corps of Engineers contracted with Atlantic Marine Construction Company (Atlantic) to build a child development center at Fort Hood, a military base located in the western district of Texas. Atlantic then subcontracted with J-Crew Management, Inc. (J-Crew) to provide labor and materials. The subcontract agreement contained a forum selection clause stating that any dispute would be litigated in Circuit Court for the City of Norfolk, Virginia, or the U.S. District Court for the Eastern District of Virginia, Norfolk Division. Despite this clause, J-Crew brought suit against Atlantic in the U.S. District Court for the Western District of Texas for failure to pay for work J-Crew performed.</p>\n<p>Atlantic moved to dismiss the suit under Federal Rule of Civil Procedure 12(b)(3) and 28 U.S.C. \u00a71406, arguing that the forum selection clause required the suit to be brought in Virginia. Atlantic also moved, in the alternative, to transfer the case to the Eastern District of Virginia under 28 U.S.C. \u00a71404(a). The district court denied Atlantic's motions, holding that Atlantic did not show why the interest of justice or the convenience of the parties weighed in favor of Virginia. Atlantic petitioned the U.S. Court of Appeals for the Fifth Circuit for a writ of mandamus ordering the district court to dismiss the case or transfer it to Virginia. The court of appeals held that the district court did not abuse its discretion and venue was proper in the Texas court because the parties entered into and performed the agreement in that district.</p>\n",
+    "conclusion": "<p>Yes; the party acting in violation of the forum-selection clause. Justice Samuel A. Alito, Jr. delivered the opinion for the unanimous Court. The Court held that Section 1404 codified a doctrine of transfer that allowed cases to be transferred to a more convenient forum rather than being dismissed. Because both Section 1404 and the <em>forum non conveniens</em> doctrine from which it derives depend on a balancing-of-interests standard, courts should use that standard when evaluating claims under Section 1404. The Court also held that, when parties have agreed to a forum-selection clause, a court should transfer the case to that forum unless there are exceptional factors at work. Therefore, the party requesting the change of forum should bear the burden of proving that such a change is necessary.</p>\n"
+}

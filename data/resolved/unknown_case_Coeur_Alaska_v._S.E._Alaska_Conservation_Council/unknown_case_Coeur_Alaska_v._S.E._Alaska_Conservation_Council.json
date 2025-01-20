@@ -1,0 +1,42 @@
+{
+    "ID": 55550,
+    "name": "Coeur Alaska v. S.E. Alaska Conservation Council",
+    "href": "https://api.oyez.org/cases/2008/07-984",
+    "view_count": 0,
+    "docket_number": "07-984",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1214542800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40132"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1231740000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40133"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1245646800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40134"
+        }
+    ],
+    "question": "<p>Did the United States Court of Appeals for the Ninth Circuit err in invalidating the United States Army Corps of Engineers' longstanding interpretation of the Clean Water Act?</p>\n",
+    "citation": {
+        "volume": "557",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20827"
+    },
+    "term": "2008",
+    "description": "A case in which the Court held that the United States Army Corps of Engineers had exclusive rights to grant a permit to Coeur Alaska, Inc. to discharge its waste.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>The United States Army Corps of Engineers (USACE) granted permits to allow Coeur Alaska, Inc. to discharge processed wastewater from its gold mine into a lake in Alaska. The South East Alaska Conservation council sued to prevent the discharge. It argued that granting the permits exceeded the authority of the USACE. The federal district court in Alaska held that the permits were valid.</p>\n<p>On appeal, the United States Court of Appeals for the Ninth Circuit reversed and remanded with instructions for the district court to void the permits. The court held that the USACE improperly interpreted the Clean Water Act when granting the permits. It explained that the characteristics of the wastewater discharge did not come under the USACE's scope of authority, but were of a nature that was explicitly prohibited by the Clean Water Act.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court held that the United States Army Corp of Engineers (USACE) and not the Environmental Protection Agency (EPA) had authority to grant permits allowing Coeur Alaska Inc. to discharge processed wastewater into a lake in Alaska. With Justice Anthony M. Kennedy writing for the majority and joined by Chief Justice John G. Roberts, and Justices Clarence Thomas, Stephen G. Breyer, and Samuel A. Alito, and joined in part by Justice Antonin G. Scalia, the Court stated that both the USACE and EPA agreed on a common definition of \"fill material,\" which described the discharge planned by Coeur at its mining site in Alaska. Further, since the USACE had exclusive rights to grant permits relating to the discharge of fill material, the Court reasoned that it was clear that USACE had authority to grant Coeur a permit to discharge its waste at its mining site.</p>\n<p>Justice Breyer wrote a separate concurring opinion, attempting to assuage concerns that the Court's decision will be seen as a loophole for polluters, so long as they dump enough pollutant into a lake for it to be considered \"fill material.\" Justice Scalia also wrote separately concurring in part and concurring in the judgment. Justice Ruth Bader Ginsburg dissented and was joined by Justices John Paul Stevens and David H. Souter. She argued that the relevant inquiry should have stopped at the determination that Coeur failed to meet EPA performance standards by discharging its wastewater in an Alaska lake.</p>\n"
+}

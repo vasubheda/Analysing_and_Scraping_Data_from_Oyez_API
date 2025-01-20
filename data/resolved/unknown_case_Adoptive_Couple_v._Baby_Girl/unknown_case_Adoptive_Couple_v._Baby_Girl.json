@@ -1,0 +1,42 @@
+{
+    "ID": 55966,
+    "name": "Adoptive Couple v. Baby Girl",
+    "href": "https://api.oyez.org/cases/2012/12-399",
+    "view_count": 0,
+    "docket_number": "12-399",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1357279200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41258"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1366088400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41259"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1372136400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41260"
+        }
+    ],
+    "question": "<p>Can a non-custodial parent invoke ICWA to block an adoption voluntarily and lawfully initiated by a non-Indian parent under state law?</p>\n<p>Does ICWA define \"parent\" to include an unwed biological father who has not complied with state law rules to attain legal status as a parent?</p>\n",
+    "citation": {
+        "volume": "570",
+        "page": "637",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19888"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that a non-custodial parent cannot stop an adoption made lawfully by a non-Indian parent by invoking the ICWA.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/570/637/",
+    "facts_of_the_case": "<p>When the biological mother of Baby Girl became pregnant she did not live with the father and the father did not support the mother financially. The mother sent the father a text message asking if he would rather pay child support or relinquish his parental rights. He sent a text back, saying that he would relinquish his rights, though he later testified that he thought he was relinquishing his rights only to the mother. The biological father was a registered member of the Cherokee Nation. The biological mother attempted to verify this status, but spelled the father's name wrong and misrepresented his birthday in the request, so the Nation could not locate the father's registration. The mother listed Baby Girl's ethnicity as \"Hispanic\" instead of \"Native American\" on the birth certificate. The mother decided to put Baby Girl up for adoption because she had two other children that she struggled to support.</p>\n<p>Adoptive Couple, who resided in South Carolina, began adoption proceedings in that state. The Cherokee Nation finally identified the father as a registered member and filed a notice of intervention, stating that Baby Girl was an \"Indian Child\" under the Federal Indian Child Welfare Act (ICWA). The father stated that he did not consent to the adoption and would seek custody of Baby Girl. After trial, the family court denied Adoptive Couple's petition for adoption and granted custody to the biological father. The court held that the biological father was a \"parent\" under the ICWA because of his paternity and pursuit of custody as soon as he learned that Baby Girl was being put up for adoption. Adoptive Couple did not follow the procedural directives in the ICWA to obtain the father's consent prior to initiating adoption proceedings. The Supreme Court of South Carolina affirmed.</p>\n",
+    "conclusion": "<p>No, a non-custodial parent cannot invoke the ICWA to block an adoption voluntarily and lawfully initiated by a non-Indian parent. The Court did not rule on the definition of \"parent,\" but, for the sake of argument, assumed that the biological father was a \"parent\" under the ICWA. Justice Samuel A. Alito, Jr. delivered the opinion of the 5-4 majority. The Court held that the ICWA was designed to stop the practice of unwarranted removal of Indian children from Indian families \"due to the cultural insensitivity and bias of social workers and state courts.\" In this case, however, the Court noted that the biological father never had either legal or physical custody of Baby Girl and had previously relinquished his parental rights. Because the biological father gave up custody before birth, and because Baby Girl had never been in his legal or physical custody, the ICWA's goal to prevent the breakup of Indian families did not apply. Furthermore, the Court held that the ICWA's preference for placing an Indian child with family, other members of the tribe, or other Indian families did not apply in this case because no other parties beside the adoptive parents had come forward to adopt Baby Girl. The Court feared that applying the lower court's rationale could lead to a scenario where a biological Indian father could play an \"ICWA trump card\" to override the mother's decision and the child's best interests.</p>\n<p>In his concurring opinion, Justice Clarence Thomas stated that the federal government, in passing the ICWA, may have interfered in the area of family law, a topic constitutionally reserved to the states. However, because the majority opinion avoided constitutional problems, he concurred with the decision. Justice Stephen G. Breyer wrote a separate concurrence in which he stated that the majority's decision may adversely affect parents without looking at whether the parent would look out for the child's best interest, and that the ruling still raised the possibility of allowing an absentee father to re-gain custody with the support of his tribe.</p>\n<p>Justice Sonia Sotomayor wrote a dissent in which she argued that the majority's opinion distorted the statute and led to a result that was both contrary to Congress' intent and potentially devastating to Baby Girl. Additionally, she argued that the majority completely ignores Congress' policy reasons for passing the ICWA and distorts the clear provisions in the act. Finally, Justice Sotomayor stated that the majority's interpretation of the ICWA applies adversely to all noncustodial Indian parents, regardless of whether those parents actively participated in their child's upbringing. Justice Ruth Bader Ginsburg and Justice Elena Kagan joined in the dissent, and Justice Antonin Scalia joined in part. In his separate dissent, Justice Antonin Scalia argued that the majority's definition of the phrase, \"continued custody,\" should have also included future custody. He also wrote that the majority's decision \"needlessly demeans the right of parenthood\" by removing a father's right to raise his child.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 55046,
+    "name": "Virginia v. Hicks",
+    "href": "https://api.oyez.org/cases/2002/02-371",
+    "view_count": 0,
+    "docket_number": "02-371",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1051678800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52651"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1055739600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38819"
+        }
+    ],
+    "question": "<p>Is the Richmond Redevelopment and Housing Authority's trespass policy, which provides for arrest after being served notice for being on the premises without \"a legitimate business or social purpose,\" facially invalid under the First Amendment's overbreadth doctrine?</p>\n",
+    "citation": {
+        "volume": "539",
+        "page": "113",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/20510"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/539/113/",
+    "facts_of_the_case": "<p>The Richmond Redevelopment and Housing Authority (RRHA), a political subdivision of Virginia, owns and operates Whitcomb Court, a low-income housing development. In 1997, the Richmond City Council conveyed Whitcomb Court's streets to the RRHA. Subsequently, the RRHA enacted a policy authorizing the Richmond police to serve notice on any person lacking \"a legitimate business or social purpose\" for being on the premises and to arrest for trespassing any person who remains or returns after having been notified. After the RRHA gave Kevin Hicks, a nonresident, written notice barring him from Whitcomb Court, he trespassed there and was arrested and convicted. At trial, Hicks claimed that RRHA's policy was unconstitutionally overbroad and void for vagueness. The Virginia en banc Court of Appeals vacated his conviction. In affirming, the Virginia Supreme Court found the policy unconstitutionally overbroad in violation of the First Amendment.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Antonin Scalia, the Court held that the RRHA's trespass policy is not facially invalid under the First Amendment's overbreadth doctrine. Noting that he was not in Whitcomb Court to engage in constitutionally protected speech, the Court reasoned that Hicks had not shown that the RRHA policy prohibited a substantial amount of protected speech in relation to its many legitimate applications. Justice Scalia wrote, \"both the notice-barment rule and the 'legitimate business or social purpose' rule apply to all persons who enter the streets of Whitcomb Court, not just to those who seek to engage in expression.\"</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 56098,
+    "name": "Alabama Department of Revenue v. CSX Transportation, Inc.",
+    "href": "https://api.oyez.org/cases/2014/13-553",
+    "view_count": 0,
+    "docket_number": "13-553",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1404190800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41679"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1418104800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41680"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1425448800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41681"
+        }
+    ],
+    "question": "<p>Does a state violate the Railroad Revitalization and Regulatory Reform Act of 1974 when it requires rail carriers to pay a sales-and-use tax but exempts the railroad's competitors?</p>\n<p>In resolving such a claim, should a court consider other aspects of the state's tax scheme rather than focusing solely on the challenged provision?</p>\n",
+    "citation": {
+        "volume": "575",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20933"
+    },
+    "term": "2014",
+    "description": "A case in which the Court held that, in evaluating whether a tax is discriminatory under the Railroad Revitalization and Regulatory Reform Act of 1974, courts may consider competitors an appropriate comparison class and must examine the tax code as a whole rather than solely the challenged provision.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/575/21/",
+    "facts_of_the_case": "<p>Alabama imposes a 4% sales tax on the gross receipts of retail businesses and a 4% use tax on storage, use, or consumption of tangible personal property. Accordingly, rail carriers that purchase diesel fuel within the state are subject to a 4% sales tax. However, motor and water carriers that purchase fuel in Alabama pay an excise tax of $0.19 per gallon.</p>\n<p>In 2008, CSX Transportation, Inc. (CSX) sued the Alabama Department of Revenue for violating the Railroad Revitalization and Regulatory Reform Act of 1974 (4-R Act), which targeted local and state taxation schemes that discriminated against rail carriers. CSX argued that the sales tax was discriminatory because it required the rail carriers to pay more than their competitors for purchasing diesel fuel in the state. The district court dismissed the case and U.S. Court of Appeals for the Eleventh Circuit affirmed the dismissal by citing precedent that held that a railroad could not challenge its competitors' exemptions from a sales tax as discriminatory under the 4-R Act. The Supreme Court granted certiorari, overturned the ruling, and remanded the case. On remand, the district court conducted a bench trial and issued an order holding that the state's sales tax does not discriminate against rail carriers for the purposes of the 4-R Act, because the amount that motor carriers paid was roughly equal to that paid by rail carriers. The Court of Appeals reversed the lower court's decision and held that the tax is discriminatory because the state had not offered sufficient justification for exempting CSX's competitors from the sales tax.</p>\n",
+    "conclusion": "<p>Unanswered, and yes. Justice Antonin Scalia delivered the opinion for the 7-2 majority. The Court held that the appellate court correctly examined the railroad's situation in relation to its comparison class of competitors in the transportation industry. The Court also held that, in determining whether discrimination occurred, a court must look at the state's tax scheme as a whole rather than just the challenged provision. A provision may seem discriminatory when examined in isolation, but the tax code as a whole may subject a competitor to a comparable tax. Because the appellate court did not examine the state's justifications for its tax regime, the Court remanded the case for further proceedings to determine whether discrimination in violation of the Railroad Revitalization and Regulatory Reform Act of 1974 occurred.</p>\n<p>Justice Clarence Thomas wrote a dissenting opinion in which he argued that the majority opinion's definition of discrimination was overly broad and could lead to inconsistent applications of the statute. Because the railroad was unable to prove that the tax \"targets and singles out\" the railroad as compared to other taxpayers, there was no discrimination. Justice Ruth Bader Ginsburg joined in the dissent.</p>\n"
+}

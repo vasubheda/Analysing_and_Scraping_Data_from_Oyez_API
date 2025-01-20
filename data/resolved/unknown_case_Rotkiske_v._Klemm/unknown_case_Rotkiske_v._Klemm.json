@@ -1,0 +1,42 @@
+{
+    "ID": 63102,
+    "name": "Rotkiske v. Klemm",
+    "href": "https://api.oyez.org/cases/2019/18-328",
+    "view_count": 0,
+    "docket_number": "18-328",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1551074400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54464"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1571202000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54587"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1575957600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54622"
+        }
+    ],
+    "question": "<p>Does the statute of limitations under the Fair Debt Collection Practices Act begin when the violation is discovered or when the violation occurred?</p>\n",
+    "citation": {
+        "volume": "589",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27668"
+    },
+    "term": "2019",
+    "description": "A case in which the Court held that the one-year statute of limitations under the Fair Debt Collection Practices Act begins when the violation occurred, not when the violation was discovered.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/589/18-328/",
+    "facts_of_the_case": "<p>Kevin Rotkiske accumulated credit card debt between 2003 and 2005, which his bank referred to Klemm &amp; Associates for collection. Klemm filed a collections lawsuit against Rotkiske in March 2008 but was unable to locate him for service of process. Klemm refiled its suit in January 2009 and attempted to serve Rotkiske at the same address. Unbeknownst to Rotkiske, someone at that address accepted service on his behalf, and Klemm obtained a default judgment against him. Rotkiske only discovered the judgment when he applied for a mortgage in September 2014.</p>\n<p>Rotkiske filed the present action against Klemm alleging that its actions violate the Fair Debt Collection Practices Act (FDCPA). Klemm moved to dismiss the claim as time-barred, and the district court granted the motion to dismiss. The FDCPA provides that any action under the Act must be brought \u201cwithin one year from the date on which the violation occurs.\u201d Rotkiske argued that the statute incorporates a \u201cdiscovery rule,\u201d which is recognized in both the Fourth and Ninth Circuits and which \u201cdelays the beginning of a limitations period until the plaintiff knew or should have known of his injury.\u201d The district court rejected this argument, finding that under a plain reading of the statute, the limitations period begins at the time of injury. Rotkiske appealed, but before the appellate panel issued its opinion and judgment, the Third Circuit ordered rehearing <em>en banc</em>. The Third Circuit, sitting <em>en banc</em>, affirmed the judgment of the district court.</p>\n",
+    "conclusion": "<p>The statute of limitations in \u00a7 1692k(d) of the Fair Debt Collection Practices Act begins to run when the alleged FDCPA violation occurs, not when it is discovered. Justice Clarence Thomas delivered the opinion of the 8-1 majority affirming the judgment below. The Court first looked at the statutory language of the FDCPA, finding that the plain meaning of the statute of limitations unambiguously refers to the date of the alleged violation. The Court rejected Rotkiske\u2019s argument that the statute incorporates a \u201cdiscovery rule\u201d that would delay the beginning of the limitations period until the plaintiff knew or should have known of his injury, finding the \u201catextual judicial supplementation...particularly inappropriate.\u201d The Court declined to consider Rotkiske\u2019s fraud-based equitable defense because he failed to preserve that argument when he appealed to the Third Circuit.</p>\n<p>Justice Sonia Sotomayor authored a concurring opinion to point out that the Court has \u201clong recognized\u201d the equitable \u201cdiscovery rule\u201d in cases of fraud or concealment, notwithstanding the majority\u2019s disparagement of that rule in its opinion in this case.</p>\n<p>Justice Ruth Bader Ginsburg authored a dissenting opinion in which she agrees with the majority\u2019s determination that the \u201cdiscovery rule\u201d does not apply to the one-year statute of limitations in the FDCPA, but she disagrees with the majority that Rotkiske failed to preserve a fraud-based discovery argument in the court below. Justice Ginsburg would hold that if the conduct giving rise to the claim is fraudulent, or if fraud infects the manner in which the claim is presented, then the fraud-based discovery rule governs. Because, in her view, Rotkiske did preserve this argument on appeal, she would allow adjudication of his claim on the merits.</p>\n"
+}

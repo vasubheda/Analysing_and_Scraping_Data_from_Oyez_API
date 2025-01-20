@@ -1,0 +1,35 @@
+{
+    "ID": 55831,
+    "name": "Marmet Health Care Center v. Brown",
+    "href": "https://api.oyez.org/cases/2011/11-391",
+    "view_count": 0,
+    "docket_number": "11-391",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1329804000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40874"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1329804000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40875"
+        }
+    ],
+    "question": "<p>Did the state court err when it held that the arbitration clauses were invalid due to public policy?</p>\n",
+    "citation": {
+        "volume": "565",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19753"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that a Virginia court incorrectly applied provisions of the FAA regarding nursing homes and personal injury/death disputes.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/565/530/",
+    "facts_of_the_case": "<p>These are two consolidated case involving negligence suits against nursing homes in West Virginia. In both cases, the children of nursing home patients signed an agreement with the nursing home requiring arbitration for any disputes. In both cases, the patients died under the nursing homes' care and the children sued in state court for negligence. The trial court dismissed both suits because of the arbitration agreements. The Supreme Court of West Virginia reversed, holding that the forcing arbitration for personal injury and wrongful death cases violated public policy. The court also held that the Federal Arbitration Act (FAA) did not preempt state public policy despite recent U.S. Supreme Court precedent to the contrary.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion, the Supreme Court vacated the prior judgment and remanded for further proceedings. The Court held that the West Virginia court interpreted the FAA incorrectly. The FAA requires a court to enforce agreements parties make to arbitrate, and contains no exception for personal injury or wrongful death claims. On remand, the West Virginia Court must consider whether state common law principles, which are not preempted by the FAA, make the arbitration agreements unenforceable. The court may not consider general public policy.</p>\n"
+}

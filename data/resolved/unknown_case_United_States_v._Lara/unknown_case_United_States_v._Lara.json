@@ -1,0 +1,42 @@
+{
+    "ID": 55125,
+    "name": "United States v. Lara",
+    "href": "https://api.oyez.org/cases/2003/03-107",
+    "view_count": 0,
+    "docket_number": "03-107",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1064898000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38966"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1074664800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38967"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1082350800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38968"
+        }
+    ],
+    "question": "<p>Does the Indian Civil Rights Act (1968) give Indian tribes separate sovereignty to prosecute nonmembers (as opposed to delegating federal power to the tribes for prosecution purposes) such that prosecution in tribal and federal courts for the same crime would not violate the Fifth Amendment double jeopardy clause?</p>\n",
+    "citation": {
+        "volume": "541",
+        "page": "193",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19054"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/541/193/",
+    "facts_of_the_case": "<p>Bureau of Indian Affairs officials arrested Billy Jo Lara on the Spirit Lake Nation Reservation for public intoxication (though Lara is not a member of the reservation). During the arrest Lara attacked an officer.</p>\n<p>A tribal court convicted Lara of assault. The federal government then indicted Lara for assaulting a federal officer. Lara moved to dismiss the indictment, claiming the federal charges violated the Fifth Amendment's prohibition against double jeapordy (being charged twice for the same crime). The district court denied Lara's motion. Lara then entered a conditional guilty plea, reserving the right to appeal the denial of his Fifth Amendment motion.</p>\n<p>A panel of the U.S. Eighth Circuit Court of Appeals affirmed the district court ruling. However, the Eight Circuit reversed when it reviewed the case en banc (with the full court), ruling that Lara's federal charges violated the double jeapordy clause. The court reasoned that the only source of authority for Spirit Lake Nation to prosecute a nonmember (like Lara) came from the federal Indian Civil Rights Act (1968). Because the federal government delegated this prosecutorial authority to Indian Tribes, charging Lara for the same crime in tribal and federal courts was essentially trying Lara twice under federal authority.</p>\n",
+    "conclusion": "<p>Yes. In an opinion written by Justice Stephen G. Breyer and joined by Chief Justice Rehnquist and three other Justices, the Court found that the right to prosecute nonmember Indians is inherent in the sovereignty of Native American tribes. Congress may constitutionally choose to restrict this right, but its choice not to (or its choice to relax earlier-imposed restrictions) is different from a delegation of federal prosecutorial power. Prosecuting a crime under both federal and tribal law, therefore, does not violate the Constitution.</p>\n"
+}

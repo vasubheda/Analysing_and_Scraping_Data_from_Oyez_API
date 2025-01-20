@@ -1,0 +1,42 @@
+{
+    "ID": 55855,
+    "name": "Martel v. Clair",
+    "href": "https://api.oyez.org/cases/2011/10-1265",
+    "view_count": 0,
+    "docket_number": "10-1265",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1309150800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40937"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1323151200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40938"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1330927200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40939"
+        }
+    ],
+    "question": "<p>Is a condemned state prisoner in federal habeas corpus proceedings entitled to replace his court-appointed counsel with another court-appointed lawyer because he expresses dissatisfaction and alleges that his counsel was failing to pursue potentially important evidence?</p>\n",
+    "citation": {
+        "volume": "565",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19777"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that a condemned state prisoner in federal proceedings is not entitled to replace his court-appointed counsel with another court-appointed counsel due to dissatisfaction with the counsel's service.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/565/648/",
+    "facts_of_the_case": "<p>Facts of the case: Kenneth Clair was sentenced to death in Orange County, Calif., in 1987 for the sexual assault, beating and strangulation of babysitter Linda Faye Rodgers. Clair filed a petition for habeas corpus. The district court appointed the federal public defender as Clair's federal habeas counsel. The district court then stayed the federal proceedings to give Clair a chance to return to the California Supreme Court to \"exhaust\" his state remedies on some newly raised claims. Clair filed a second state habeas corpus petition in the California Supreme Court, which was denied. Clair then returned to federal court. On June 16, 2005, Clair wrote a letter to the court, requesting that new counsel be appointed. The court was aware that Clair was having problems with his counsel; only three months earlier it had received from him a letter alleging a longstanding pattern of inattention to his case. In response to that letter, the district court made inquiry of Clair's counsel, who notified the court in April 2005 that they had spoken with Clair and that he was willing to have them continue to represent him for the time being.</p>\n<p>The June 16th letter repeated allegations made in the previous letter, but also included a serious additional allegation: that a private investigator working on Clair's behalf had located important physical evidence from the crime scene that had never been tested, and that his counsel, despite having been informed of the evidence, had made no effort to obtain it, analyze it or present it to the court. Clair's private investigator sent the court a letter substantiating Clair's claims. The court received and opened the private investigator's letter, but returned it without filing it. Following receipt of Clair's June 16th letter, however, the district court made no inquiry into the truth of Clair's allegations or their potential impact on the case before it. The district judge without explanation denied the motion on the same day that he denied Clair's petition. The U.S. Court of Appeals for the Ninth Circuit reversed, ruling that the district court abused its discretion.</p>\n",
+    "conclusion": "<p>No. Justice Elena Kagan delivered the unanimous opinion of the Court reversing the lower appellate court's judgment. The Court held that the district court did not abuse its discretion in denying the prisoner's motion to replace court-appointed counsel. The Court further held that courts considering a motion to replace court-appointed counsel in capital cases should apply the same \"interest of justice\" standard applied in non-capital cases.</p>\n"
+}

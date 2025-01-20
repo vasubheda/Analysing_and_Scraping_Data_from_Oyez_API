@@ -1,0 +1,28 @@
+{
+    "ID": 54626,
+    "name": "City of Monroe v. United States",
+    "href": "https://api.oyez.org/cases/1997/97-122",
+    "view_count": 0,
+    "docket_number": "97-122",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                879746400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38033"
+        }
+    ],
+    "question": "<p>Is the city of Monroe, Georgia entitled to conduct elections under a state-law rule requiring majority vote to win, when the U.S. alleged that the city had not sought preclearance of the change from plurality voting as required by the Voting Rights Act of 1965?</p>\n",
+    "citation": {
+        "volume": "522",
+        "page": "34",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18555"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/522/34/",
+    "facts_of_the_case": "<p>Monroe, Georgia is covered by section 5 of the Voting Rights Act of 1965, which requires the preclearance of certain voting changes. Prior to 1966, the Monroe city charter did not specify whether a majority vote or a plurality vote was needed to win a mayoral election. In practice, the city changed in 1966 from using a plurality-voting requirement to using a majority-voting requirement. The United States brought suit against the city, claiming that it had not sought preclearance of the change, as required by section 5 and sought to enjoin such majority voting and to require the city to return to plurality voting. The District Court, in granting summary judgment in favor of the United States, expressed the view that the change to majority voting had not been precleared in accordance with section 5.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion, the Court held that the city was entitled to conduct elections under the auspices of a controlling state-law default rule that had been passed by the state's legislature in 1968. The Court reasoned that, because the U.S. Attorney General had approved and precleared the default rule when the state had submitted the 1968 code for preclearance, the submission had given the Attorney General an adequate opportunity to determine the purpose of the default-rule electoral changes and whether they would adversely affect minority voting.</p>\n"
+}

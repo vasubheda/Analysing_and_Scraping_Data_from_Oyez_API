@@ -1,0 +1,42 @@
+{
+    "ID": 55751,
+    "name": "General Dynamics Corp. v. United States",
+    "href": "https://api.oyez.org/cases/2010/09-1298",
+    "view_count": 0,
+    "docket_number": "09-1298",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1285650000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40660"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1295330400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40661"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1306126800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40662"
+        }
+    ],
+    "question": "<p>The \"state secrets\" doctrine prevents disclosure of important state secrets in litigation. Can the government sue a federal contractor for breach of contract then use the state secrets doctrine to prevent the contractor from raising a defense that would require the contractor to disclose secret information?</p>\n",
+    "citation": {
+        "volume": "563",
+        "page": "478",
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19673"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that neither the government nor the contractor could pursue litigation because of the risk that state secrets might be revealed. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/563/478/",
+    "facts_of_the_case": "<p>More than 20 years ago, General Dynamics Corp. and McDonnell Douglas Corp. signed a contract to build eight A- 12 Avenger stealth fighters for the U.S. Navy at a total estimated cost of more than $4 billion. Three years later, the Navy and then-Defense Secretary Dick Cheney declared the company in default and canceled the contract. The government has argued that the companies weren't able to produce the aircraft as designed on schedule and is seeking repayment of $1.35 billion, plus more than $2.5 billion in accumulated interest, arguing that the companies failed to meet the terms of the contract. Meanwhile, General Dynamics Corp. and Boeing Co., which inherited the litigation through its purchase of McDonnell Douglas, contend that the delay was caused by the government's refusal to share essential stealth technology.</p>\n<p>The government has argued that the companies couldn't press that argument because litigating the issue would require the disclosure of military secrets and jeopardize national security. Two lower courts agreed.</p>\n",
+    "conclusion": "<p>No. The Supreme Court reversed and remanded the lower court order in a unanimous decision by Justice Antonin Scalia. The court held that neither the government nor the defense contractors could pursue the long-running dispute because of the possibility that state secrets might be revealed. \"Suit on the contract, or for performance rendered or funds paid under the contract, will not lie, and the parties will be left where they are,\" Scalia wrote. \"Both parties\u2014the government no less than petitioners\u2014must have assumed the risk that state secrets would prevent the adjudication of claims of inadequate performance.\"</p>\n"
+}

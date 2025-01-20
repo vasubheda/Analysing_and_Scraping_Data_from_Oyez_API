@@ -1,0 +1,42 @@
+{
+    "ID": 63419,
+    "name": "Egbert v. Boule",
+    "href": "https://api.oyez.org/cases/2021/21-147",
+    "view_count": 0,
+    "docket_number": "21-147",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1636088400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54999"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1646200800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55051"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1654664400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55130"
+        }
+    ],
+    "question": "<p>Does a plaintiff have a right to sue federal officers for First Amendment retaliation claims or for allegedly violating the individual\u2019s Fourth Amendment rights while engaging in immigration-related functions?</p>\n",
+    "citation": {
+        "volume": "596",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27855"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held an individual cannot sue federal officers for First Amendment retaliation claims or for allegedly violating the individual\u2019s Fourth Amendment rights while engaging in immigration-related functions.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/596/21-147/",
+    "facts_of_the_case": "<p>Erik Egbert, a Customs and Border Patrol Agent, went to the Smugglers Inn, which sits at the U.S.-Canada border, and approached a car carrying a guest from Turkey. The inn\u2019s owner, Robert Boule, asked Egbert to leave, and when Egbert refused to do so, Egbert pushed Boule to the ground. After Boule complained to Egbert\u2019s supervisors, Egbert suggested to the IRS that it investigate Boule.</p>\n<p>Boule filed a Bivens lawsuit (so called because of the case Bivens v. Six Unknown Named Agents of Federal Bureau of Narcotics, which first recognized the right of plaintiffs to sue federal officials for damages arising from violations of their constitutional rights) against Egbert arguing that the agent had violated his First and Fourth Amendment rights. The district court ruled against Boule, finding his claims beyond the scope of those permitted under Bivens. The U.S. Court of Appeals for the Ninth Circuit reversed, and the full (en banc) Ninth Circuit denied Egbert\u2019s petition for rehearing.</p>\n",
+    "conclusion": "<p>A plaintiff does not have a right to sue Border Patrol officers engaged in immigration-related functions for First Amendment retaliation claims or for alleged excessive force. Justice Clarence Thomas authored the majority opinion of the Court.</p>\n<p>Although Bivens permits suits against federal officials for excessive force under the Fourth Amendment, its application to Border Patrol officers raises national security concerns. Thus, \u201cjudicial intrusion\u201d would be harmful or inappropriate in this arena. As to the First Amendment, Boule\u2019s claim is a novel concept and no factors weigh in favor of judicial extension of Bivens to that claim. Moreover, for both claims, Congress is better suited to authorize a damages remedy.</p>\n<p>Justice Neil Gorsuch authored an opinion concurring in the judgment. Justice Gorsuch would overrule Bivens entirely.</p>\n<p>Justice Sonia Sotomayor authored an opinion, joined by Justices Stephen Breyer and Elena Kagan, concurring in the judgment as to the First Amendment claim but dissenting as to the Fourth Amendment claim. Justice Sotomayor argued that Boule\u2019s Fourth Amendment claim was squarely within the scope of Bivens and only his First Amendment claim was in a new context.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55239,
+    "name": "MGM Studios v. Grokster",
+    "href": "https://api.oyez.org/cases/2004/04-480",
+    "view_count": 0,
+    "docket_number": "04-480",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1102658400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39281"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1112076000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39282"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1119848400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39283"
+        }
+    ],
+    "question": "<p>Were companies that distributed file-sharing software, and encouraged and profited from direct copyright infringement using such software, liable for the infringement?</p>\n",
+    "citation": {
+        "volume": "545",
+        "page": "913",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/20551"
+    },
+    "term": "2004",
+    "description": "A case in which the Court ruled that companies that distributed file-sharing software, and encouraged and profited from direct copyright infringement using such software, were liable for the infringement. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/545/913/",
+    "facts_of_the_case": "<p>Grokster and other companies distributed free software that allowed computer users to share electronic files through peer-to-peer networks. In such networks, users can share digital files directly between their computers, without the use of a central server. Users employed the software primarily to download copyrighted files, file-sharing which the software companies knew about and encouraged. The companies profited from advertising revenue, since they streamed ads to the software users. A group of movie studios and other copyright holders sued and alleged that Grokster and the other companies violated the Copyright Act by intentionally distributing software to enable users to infringe copyrighted works. The district court ruled for Grokster, reasoning that the software distribution companies were not liable for copyright violations stemming from their software, which could have been used lawfully. The Ninth Circuit affirmed.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion delivered by Justice David Souter, the Court held that companies that distributed software, and promoted that software to infringe copyrights, were liable for the resulting acts of infringement. The Court argued that although the Copyright Act did not expressly make anyone liable for another's infringement, secondary liability doctrines applied here. The software in this case was used so widely to infringe copyrights that it would have been immensely difficult to deal with each individual infringer. The \"only practical alternative\" was to go against the software distributor for secondary liability. Here the software companies were liable for encouraging and profiting from direct infringement.</p>\n"
+}

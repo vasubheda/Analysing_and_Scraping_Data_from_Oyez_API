@@ -1,0 +1,42 @@
+{
+    "ID": 55139,
+    "name": "Locke v. Davey",
+    "href": "https://api.oyez.org/cases/2003/02-1315",
+    "view_count": 0,
+    "docket_number": "02-1315",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1053320400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52590"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1070344800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52591"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1077688800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39008"
+        }
+    ],
+    "question": "<p>If a state provides college scholarships for secular instruction, does the First Amendment's free exercise clause require a state to fund religious instruction?</p>\n",
+    "citation": {
+        "volume": "540",
+        "page": "712",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/20530"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/540/712/",
+    "facts_of_the_case": "<p>The Washington State Promise Scholarship, created by the state legislature in 1999, gives college scholarship money to talented students. However, this money cannot be used to obtain a degree in theology if the program is taught to cause belief. Washington's constitution prohibits funding religious instruction. The 1969 state code applied this ban to college financial aid.</p>\n<p>Joshua Davey forfeited his Promise Scholarship money in order to major in pastoral ministries at a private Christian college. Davey filed suit in U.S. district court, claiming the state constitution's ban on funding religious instruction violated his First Amendment right to free exercise of religion (in the U.S. Constitution). The district court rejected Davey's claim. The Ninth Circuit Court of Appeals reversed, concluding Davey's free exercise rights were violated.</p>\n",
+    "conclusion": "<p>No. In a 7-2 opinion delivered by Chief Justice William Rehnquist, the Court ruled that a state does not violate the First Amendment's free exercise clause when it funds secular college majors but excludes devotional theology majors. The Court rejected Davey's argument that the state scholarship program is unconstitutional because it is not neutral toward religion. \"The State has merely chosen not to fund a distinct category of instruction,\" the Court wrote. Similarly the Washington Constitution - which explicitly prohibits state money from going to religious instruction - does not violate the free exercise clause. Unlike laws and programs the Court has struck down under the free exercise clause, nothing in either the scholarship program or the state constitution \"suggests animus towards religion.\" States have a \"historic and substantial interest\" in excluding religious activity from public funding.</p>\n"
+}

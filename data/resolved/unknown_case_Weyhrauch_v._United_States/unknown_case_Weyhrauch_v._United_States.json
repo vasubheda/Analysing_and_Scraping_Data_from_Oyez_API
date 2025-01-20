@@ -1,0 +1,42 @@
+{
+    "ID": 55705,
+    "name": "Weyhrauch v. United States",
+    "href": "https://api.oyez.org/cases/2009/08-1196",
+    "view_count": 0,
+    "docket_number": "08-1196",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1246251600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40545"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1260252000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40546"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1277355600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40547"
+        }
+    ],
+    "question": "<p>To convict a state official for depriving the public of its right to the defendant's honest services in violation of 18 U.S.C. Section 1341 and Section 1346, must the government prove that the defendant violated a disclosure duty imposed by state law?</p>\n",
+    "citation": {
+        "volume": "561",
+        "page": "476",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19627"
+    },
+    "term": "2009",
+    "description": "A case which the Court remanded to the Ninth Circuit Court of Appeals for further proceedings in light of its decision in Skilling v. United States.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/561/476/",
+    "facts_of_the_case": "<p>Bruce Weyhrauch was charged in the Alaska federal district court in part with a \"scheme and artifice to defraud and deprive the State of Alaska of its intangible right to [his] honest services.\" Mr. Weyhrauch was a member of the Alaska House of Representatives and allegedly took actions favorable to an Alaska oil company, VECO Corp., in return for future employment. At trial, Mr. Weyhrauch moved to exclude evidence related to the honest services charge. The district court excluded the evidence because it would merely have shown that Alaska could have imposed a duty upon Mr. Weyhrauch to disclose the conflict of interest, and thus did not prove he had violated any duty imposed by state law.</p>\n<p>On appeal, the U.S. Court of Appeals for the Ninth Circuit reversed. It held that 18 U.S.C. Section 1346 established a uniform standard for \"honest services\" that governs every public official and that the government did not need to prove an independent violation of state law to sustain an honest services fraud conviction. Therefore, the court reasoned that because the district court excluded the evidence needed to prove that state law imposed an affirmative duty on Mr. Weyhrauch to disclose the conflict of interest, the evidence was admissible.</p>\n",
+    "conclusion": "<p>Not answered. In a per curiam opinion, the Supreme Court vacated the judgment and remanded the case to the U.S. Court of Appeals for the Ninth Circuit in light of <em>Skilling v. United States</em>.</p>\n"
+}

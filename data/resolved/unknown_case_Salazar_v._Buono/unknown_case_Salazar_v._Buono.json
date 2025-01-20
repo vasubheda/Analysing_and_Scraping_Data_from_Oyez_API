@@ -1,0 +1,42 @@
+{
+    "ID": 55655,
+    "name": "Salazar v. Buono",
+    "href": "https://api.oyez.org/cases/2009/08-472",
+    "view_count": 0,
+    "docket_number": "08-472",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1235368800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40424"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1254891600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40425"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1272430800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40426"
+        }
+    ],
+    "question": "<p>1) Can Mr. Buono's suit be maintained when he is merely offended by the fact that public land on which a cross is displayed is not a forum for other religious symbols?</p>\n<p>2) Did the U.S. Court of Appeals for the Ninth Circuit err in not giving effect to Congress's land swap where Sunrise Rock was made private land?</p>\n",
+    "citation": {
+        "volume": "559",
+        "page": "700",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19577"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that an individual has standing to maintain a suit when he acquires a \"judicially cognizable\" interest in ensuring compliance with a previous judgment in his favor. The Court also held that a court may not order an injunction in a case when it fails to consider all the circumstances bearing on the need for preventive relief.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/559/700/",
+    "facts_of_the_case": "<p>In 1934, the Veterans of Foreign Wars built a wooden cross on top of Sunrise Rock in the Mojave National Preserve (Preserve) as a memorial to those who died in World War I. The original cross no longer exists, but has been rebuilt several times. Frank Buono, a former Preserve employee, filed suit in a California federal district court seeking to prevent the permanent display of the cross. The genesis of his suit occurred in 1999 when a request to build a Buddhist shrine in the Preserve, near the cross, was denied. He argued that the cross' display on federal property violated the Establishment Clause of the First Amendment. The district court agreed and the cross was covered.</p>\n<p>While the case was pending, Congress designated Sunrise Rock a national memorial and barred its dismantling with the use of federal funds. One year later, by land swap, Congress made Sunrise Rock private property in exchange for another parcel of land. Mr. Buono moved to not only enforce the previous court order preventing the display of the cross, but also to prohibit the land swap. The district court granted both motions. The Secretary of the Interior appealed, arguing that the district court abused its discretion.</p>\n<p>On appeal, the U.S. Court of Appeals for the Ninth Circuit held that the district court did not abuse its discretion. The court reasoned that the government failed to show that the district court's fact findings or legal standards were clearly erroneous, nor did it show that the district court made an error in judgment.</p>\n",
+    "conclusion": "<p>Yes. Yes. The Supreme Court reversed the Ninth Circuit. With Justice Anthony M. Kennedy writing for the plurality, the Court held that Mr. Buono has standing to maintain this action. Justice Kennedy reasoned that when a party obtains a judgment in its favor, like Mr. Buono, it acquires a \"judicially cognizable\" interest in ensuring compliance with that judgment. The plurality also held that the district court erred in preventing the government from implementing the land-transfer statute in order to protect Mr. Buono's rights. A court may not order an injunction when it fails to consider all the circumstances bearing on the need for preventive relief. The district court failed to consider the context in which the land-transfer statute was enacted. Justice Kennedy concluded that upon remand the court should conduct a proper inquiry into the continued need for preventive relief in light of the statute.</p>\n<p>Justice Samuel A. Alito wrote separately, concurring in part and concurring in the judgment. The district court should not reach the issue whether the implementation of the land-transfer statute would violate the district court's injunction or the Establishment Clause of the First Amendment. Justice Antonin G. Scalia, joined by Justice Clarence Thomas, also wrote separately, concurring in the judgment. Mr. Buono lacked standing; and therefore, the Supreme Court should not have addressed the merits of his claim. Justice John Paul Stevens, joined by Justices Ruth Bader Ginsburg and Sonia Sotamayor, dissented. The district court was correct in preventing the enforcement of Congress' land-transfer statute because the statute was designed to leave the cross in place thus violating the Establishment Clause.</p>\n"
+}

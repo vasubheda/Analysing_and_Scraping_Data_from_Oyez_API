@@ -1,0 +1,35 @@
+{
+    "ID": 54541,
+    "name": "United States v. Wells",
+    "href": "https://api.oyez.org/cases/1996/95-1228",
+    "view_count": 0,
+    "docket_number": "95-1228",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                847087200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37875"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                856936800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37876"
+        }
+    ],
+    "question": "<p>Is the materiality of falsehood an element of the crime of knowingly making a false statement to a federally insured bank?</p>\n",
+    "citation": {
+        "volume": "519",
+        "page": "482",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18470"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/519/482/",
+    "facts_of_the_case": "<p>Jerry E. Wells and Kenneth R. Steele were charged with knowingly making false and \"material\" statements to a federally insured bank in violation of federal law. At the trial's end, the District Court instructed the jury, at the Government's request, that withholding a \"material fact\" made a statement or representation false and that materiality of an allegedly false statement was for the judge, not the jury, to determine. Subsequently, the jury treated Wells and Steele's statements as material and convicted them. The U.S. Supreme Court then decided that materiality was a question for the jury to decide. On appeal, Wells and Steele argued that materiality was an element of knowingly making false and \"material\" statements to a federally insured bank in violation of federal law and it was a question for the jury to decide. The Government then argued materiality was not an element of the crime, so that no harm had been done when the trial judge had dealt with the issue. The Court of Appeals agreed with Wells and Steele, vacated their convictions and sentences, and remanded the case for a new trial.</p>\n",
+    "conclusion": "<p>No. In an 8-1 decision, authored by Justice David H. Souter, the Court ruled that the materiality of falsehood is not an element of the crime of knowingly making a false statement to a federally insured bank. Justice Souter wrote for the court that prosecutors need not prove that a lie was relevant enough to affect the outcome of a bank's decision because the law does not require such materiality.</p>\n"
+}

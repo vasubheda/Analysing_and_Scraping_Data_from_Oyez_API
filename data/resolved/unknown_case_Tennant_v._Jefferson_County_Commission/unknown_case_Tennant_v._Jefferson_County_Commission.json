@@ -1,0 +1,35 @@
+{
+    "ID": 55840,
+    "name": "Tennant v. Jefferson County Commission",
+    "href": "https://api.oyez.org/cases/2011/11-1184",
+    "view_count": 0,
+    "docket_number": "11-1184",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1327039200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40897"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1348549200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40898"
+        }
+    ],
+    "question": "<p>Does the population disparity in West Virginia's apportionment of voting districts violate Article I Section 2 of the U.S. Constitution?</p>\n",
+    "citation": {
+        "volume": "567",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19762"
+    },
+    "term": "2011",
+    "description": "A case in which the Court found that the population disparity in West Virginia's apportionment of voting districts did not violate Article I Section 2 of the U.S. Constitution.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/567/758/",
+    "facts_of_the_case": "<p>In January 2012, the Jefferson County Commission brought suit against West Virginia Secretary of State Natalie E. Tennant, Governor Earl Ray Tomblin, State Senate President Jeffrey Kessler, and Speaker Richard Thompson of the West Virginia House of Delegates, each in his or her official capacity. The county commission and two of its commissioners claimed that the State's congressional apportionment statute enacted after the 2010 census violates Article I Section 2 of the US Constitution. The new statute created voting districts with significant disparities in population, violating the constitutional principle of \"one person, one vote.\"</p>\n<p>Since the plaintiffs showed that the population disparities could have been reduced, the United States District Court for the Southern District of West Virginia held that the apportionment is not constitutional and declared it null and void. The state officials appealed directly to the United States Supreme Court.</p>\n",
+    "conclusion": "<p>No. The Court, in a per curiam opinion, reversed the district court's decision. The Court held that the lower court failed to defer to West Virginia's reasonable exercise of political judgment. Even though the state could have chosen a re-districting plan with less of a population disparity, none of the other plans satisfied the state's legitimate objectives. Therefore, the minor disparity in population was justified to achieve those objectives.</p>\n"
+}

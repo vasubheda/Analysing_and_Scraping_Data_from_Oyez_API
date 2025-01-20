@@ -1,0 +1,42 @@
+{
+    "ID": 63144,
+    "name": "Guerrero-Lasprilla v. Barr",
+    "href": "https://api.oyez.org/cases/2019/18-776",
+    "view_count": 0,
+    "docket_number": "18-776",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1561352400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54550"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1575871200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54623"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1584939600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54678"
+        }
+    ],
+    "question": "<p>Does the phrase \u201cquestions\u00a0of law\u201d in the Immigration and Nationality Act include the application of a legal\u00a0standard to undisputed or established facts?</p>\n",
+    "citation": {
+        "volume": "589",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27691"
+    },
+    "term": "2019",
+    "description": "A case in which the Court held that the phrase \u201cquestions of law\u201d in the Immigration and Nationality Act\u2019s Limited Review Provision, 8 U. S. C. \u00a71252(a)(2)(D), includes the application of a legal standard to undisputed or established facts.\r\n",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/589/18-776/",
+    "facts_of_the_case": "<p>Pedro Pablo Guerrero-Lasprilla, a native and citizen of Colombia, entered the United States in 1986 as a legal immigrant but was removed in 1998 due to felony drug convictions. In September 2016, Guerrero filed a motion to reopen, claiming that the 2014 decision by the Board of Immigration Appeals (BIA) in <em>Matter of Abdelghany</em> rendered him eligible to seek relief under former Immigration and Nationality Act \u00a7 212(c). The immigration judge denied Guerrero\u2019s motion to reopen, finding it not timely filed. Given that <em>Abdelghany</em> was decided in 2014, the immigration judge found the two-year delay in filing the motion to reopen indicated Guerrero had not diligently pursued his rights as required for equitable tolling.</p>\n<p>On appeal, the BIA affirmed the immigration judge\u2019s denial of the motion to reopen, finding that the motion was untimely because it was not filed within 90 days of the final administrative decision. And the BIA agreed with the immigration judge that equitable tolling did not apply to extend the 90-day deadline. Guerrero argued that he could not have filed his motion to reopen until the Fifth Circuit issued its decision in <a href=\"https://law.justia.com/cases/federal/appellate-courts/ca5/14-60865/14-60865-2016-07-28.html\"><em>Lugo-Resendez v. Lynch</em>, 831 F.3d 337 (5th Cir. 2016)</a> (holding that a litigant is entitled to equitable tolling of a statute of limitations if he establishes \u201cthat he has been pursuing his rights diligently and that some extraordinary circumstance stood in his way and prevented timely filing.\u201d).</p>\n<p>On appeal, the Fifth Circuit found it lacked jurisdiction to review the BIA\u2019s determination that equitable tolling did not apply. Within the Fifth Circuit, under <a href=\"https://law.justia.com/cases/federal/appellate-courts/ca5/16-60286/16-60286-2018-02-28.html\"><em>Penalva v. Sessions</em>, 884 F.3d 521, 525 (5th Cir. 2018)</a> the question whether a litigant acted diligently in attempting to reopen removal proceedings for purposes of equitable tolling is a factual question, not a question of law, and thus is not reviewable.</p>\n",
+    "conclusion": "<p>The phrase \u201cquestions of law\u201d in the Immigration and Nationality Act\u2019s Limited Review Provision, 8 U. S. C. \u00a71252(a)(2)(D), includes the application of a legal standard to undisputed or established facts. Writing for a 7-2 majority, Justice Stephen Breyer concluded that the Fifth Circuit erred in holding that it had no jurisdiction to consider the petitioners\u2019 \u201cfactual\u201d due diligence claims for equitable tolling purposes.</p>\n<p>The Court first looked to the statute\u2019s language, finding that nothing there precludes the conclusion that Congress used the term \u201cquestions of law\u201d to refer to the application of a legal standard to settled facts. Courts repeatedly refer to mixed questions of law and fact as \u201cquestions of law.\u201d The Court then considered the principle of statutory construction favoring judicial review of administrative action, finding that principle supported interpreting the court of appeals as having appellate jurisdiction in cases such as this one. Next the Court looked at the language immediately surrounding the phrase at issue, finding a \u201czipper clause,\u201d which consolidates judicial review of immigration proceedings into one action in the court of appeals.\u201d The Court then turned to the statutory history and relevant precedent, finding that they too supported an interpretation of \u201cquestions of law\u201d as including the application of a legal standard to undisputed or established facts.</p>\n<p>Justice Clarence Thomas authored a dissenting opinion in which Justice Alito joined all but one subpart. Justice Thomas argued that despite being presented with a narrow question, the Court\u2019s decision answers a much broader question and \u201ceffectively nullifies a jurisdiction-stripping statute\u201d by disregarding the text and structure of the statute.</p>\n"
+}

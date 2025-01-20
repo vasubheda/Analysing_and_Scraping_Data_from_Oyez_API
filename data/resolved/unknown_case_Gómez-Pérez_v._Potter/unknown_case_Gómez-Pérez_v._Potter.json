@@ -1,0 +1,42 @@
+{
+    "ID": 55478,
+    "name": "G\u00f3mez-P\u00e9rez v. Potter",
+    "href": "https://api.oyez.org/cases/2007/06-1321",
+    "view_count": 0,
+    "docket_number": "06-1321",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1190696400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39935"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1203400800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39936"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1211864400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39937"
+        }
+    ],
+    "question": "<p>Does the ADEA prohibit retaliation against federal employees?</p>\n",
+    "citation": {
+        "volume": "553",
+        "page": "474",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20727"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/553/474/",
+    "facts_of_the_case": "<p>Myrna G\u00f3mez-P\u00e9rez worked as a clerk for the United States Postal Service (USPS) in Puerto Rico. G\u00f3mez alleged that she was subject to retaliatory treatment after filing an age discrimination complaint against her supervisors under section 15 of the Age Discrimination in Employment Act (ADEA). A federal district court granted summary judgment to the USPS on the ground that the United States had not waived sovereign immunity as to retaliation claims under the ADEA.</p>\n<p>G\u00f3mez appealed to the United States Court of Appeals in the First Circuit. It held that the USPS and Potter have waived sovereign immunity with respect to ADEA suits, but that Section 15 of the ADEA does not provide a cause of action for retaliation by federal employers.</p>\n",
+    "conclusion": "<p>Yes, the ADEA prohibits retaliation against federal employees. Writing for a six-Justice majority, Justice Samuel A. Alito, Jr. relied on prior Court rulings holding that retaliation is covered by similar language in other antidiscrimination statutes. Noting the similarity between these statutes and the ADEA, Alito concluded that Congress had intended to include a retaliation prohibition in the ADEA. Chief Justice John G. Roberts and Justice Clarence Thomas filed dissenting opinions each joined in part by Justice Antonin Scalia.</p>\n"
+}

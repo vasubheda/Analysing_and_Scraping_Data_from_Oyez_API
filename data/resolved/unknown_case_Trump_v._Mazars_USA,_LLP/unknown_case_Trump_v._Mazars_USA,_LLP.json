@@ -1,0 +1,42 @@
+{
+    "ID": 63206,
+    "name": "Trump v. Mazars USA, LLP",
+    "href": "https://api.oyez.org/cases/2019/19-715",
+    "view_count": 0,
+    "docket_number": "19-715",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1576216800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54632"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1589259600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54708"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1594270800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54751"
+        }
+    ],
+    "question": "<p>Does the Constitution prohibit subpoenas issued to Donald Trump\u2019s accounting firm requiring it to provide non-privileged financial records relating to Trump (as a private citizen) and some of his businesses?</p>\n",
+    "citation": {
+        "volume": "591",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27727"
+    },
+    "term": "2019",
+    "description": "Cases in which the Court held that while the Constitution does not prohibit congressional subpoenas issued to the sitting President, the courts below did not adequately weigh the separation-of-powers concerns raised by the subpoenas in these cases.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/591/19-715/",
+    "facts_of_the_case": "<p>The U.S. House of Representatives Committee on Oversight and Reform issued a subpoena to Mazars USA, the accounting firm for Donald Trump (in his capacity as a private citizen) and several of his businesses, demanding private financial records belonging to Trump. According to the Committee, the requested documents would inform its investigation into whether Congress should amend or supplement its ethics-in-government laws. Trump argued that the information serves no legitimate legislative purpose and sued to prevent Mazars from complying with the subpoena.</p>\n<p>The district court granted summary judgment for the Committee, and the U.S. Court of Appeals for the D.C. Circuit affirmed, finding the Committee possesses the authority under both the House Rules and the Constitution.</p>\n<p>In the consolidated case, Trump v. Deutsche Bank AG, No. 19-760, two committees of the U.S. House of Representatives\u2014the Committee on Financial Services and the Intelligence Committee\u2014issued a subpoena to the creditors of President Trump and several of his businesses. The district court denied Trump\u2019s motion for a preliminary injunction to prevent compliance with the subpoenas, and the U.S. Court of Appeals for the Second Circuit affirmed in substantial part and remanded in part.</p>\n",
+    "conclusion": "<p>The courts below did not take adequate account of the significant separation of powers concerns implicated by congressional subpoenas for the President\u2019s information. Chief Justice John Roberts authored the 7-2 majority opinion of the Court.</p>\n<p>The Court first acknowledged that this dispute between Congress and the Executive is the first of its kind to reach the Court and that the Court does not take lightly its responsibility to resolve the issue in a manner that ensures \u201cit does not needlessly disturb \u2018the compromises and working arrangements\u2019 reached by those branches. Each house of Congress has \u201cindispensable\u201d power \u201cto secure needed information\u201d in order to legislate, including the power to issue a congressional subpoena, provided that the subpoena is \u201crelated to, and in furtherance of, a legitimate task of the Congress.\u201d However, the issuance of a congressional subpoena upon the sitting President raises important separation-of-powers concerns. The standard advocated by the President\u2014a \u201cdemonstrated, specific need\u201d\u2014is too stringent. At the same time, the standard advocated by the House\u2014a \u201cvalid legislative purpose\u201d\u2014does not adequately safeguard the President from an overzealous and perhaps politically motivated Congress.</p>\n<p>Rather than adopt either party\u2019s approach, the Court proposed a balancing test that considers four factors. First, courts should carefully assess whether the asserted legislative purpose requires involving the President and his papers, or whether the information is available elsewhere. Second, courts should consider whether the subpoena is no broader than reasonably necessary in scope so as to still serve Congress\u2019s legislative purpose. Third, courts should evaluate the evidence Congress has offered to \u201cestablish that a subpoena advances a valid legislative purpose\u201d\u2014the more \u201cdetailed and substantial,\u201d the better. Finally, courts should assess what burdens a subpoena imposes on the President.</p>\n<p>Justice Clarence Thomas authored a dissenting opinion, in which he argued that Congress can never issue a legislative subpoena for private, unofficial documents.</p>\n<p>Justice Samuel Alito authored a dissenting opinion, in which he argued that even accepting the balancing test adopted by the majority, the House subpoenas should fail without a greater showing from the House as to each of the four considerations outlined by the majority.</p>\n"
+}

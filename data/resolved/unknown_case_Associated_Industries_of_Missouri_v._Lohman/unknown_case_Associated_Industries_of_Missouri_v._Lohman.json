@@ -1,0 +1,35 @@
+{
+    "ID": 54211,
+    "name": "Associated Industries of Missouri v. Lohman",
+    "href": "https://api.oyez.org/cases/1993/93-397",
+    "view_count": 0,
+    "docket_number": "93-397",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                764834400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37261"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                769669200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37262"
+        }
+    ],
+    "question": "<p>Does Missouri's use tax violate the Commerce Clause by discriminating against interstate commerce in those localities where the use tax exceeds the local sales tax?</p>\n",
+    "citation": {
+        "volume": "511",
+        "page": "641",
+        "year": "1994",
+        "href": "https://api.oyez.org/case_citation/case_citation/18140"
+    },
+    "term": "1993",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/511/641/",
+    "facts_of_the_case": "<p>Following Missouri's imposition of a 1.5% statewide \"use tax,\" the Associated Industries of Missouri - representing Missouri businesses that had to collect the tax and a manufacturing firm that had to pay it - filed suit alleging that the tax violated the Commerce Clause by discriminating against interstate commerce. Such discrimination was said to result from the fact that the use tax exceeded many in-state localities' sales tax rate.</p>\n",
+    "conclusion": "<p>Yes. The Court held that the use tax was discriminatory in those localities where it exceeded the local sales tax. Such discrepancies, between certain localities' sales taxes and the state use tax, prevented the latter tax from being a valid \"compensatory\" tax, since it obviously did not impose a \"substantially similar\" burden on the interstate and intrastate commerce of such localities. The Court added that in those localities where the use tax did not exceed the local sales tax, no discriminatory treatment resulted and so the use tax's application would not be struck down in its entirety. Instead, the Court remanded the case back to Missouri for a decision on how to best correct certain of its localities' existing tax discrepancies.</p>\n"
+}

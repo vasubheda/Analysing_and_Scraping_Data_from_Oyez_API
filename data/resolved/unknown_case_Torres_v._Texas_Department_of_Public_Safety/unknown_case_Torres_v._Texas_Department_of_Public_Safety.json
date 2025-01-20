@@ -1,0 +1,42 @@
+{
+    "ID": 63430,
+    "name": "Torres v. Texas Department of Public Safety",
+    "href": "https://api.oyez.org/cases/2021/20-603",
+    "view_count": 0,
+    "docket_number": "20-603",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1639548000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55006"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1648530000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55063"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1656478800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55140"
+        }
+    ],
+    "question": "<p>Did Congress properly abrogate state sovereign immunity for claims arising under the federal Uniformed Services Employment and Reemployment Rights Act of 1994 (USERRA)?</p>\n",
+    "citation": {
+        "volume": "597",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27861"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held that Congress has the power to abrogate a state\u2019s sovereign immunity from lawsuit pursuant to its constitutional war powers.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/597/20-603/",
+    "facts_of_the_case": "<p>Leroy Torres enlisted in the U.S. Army Reserve in 1989. In 1998, he was employed by the Texas Department of Public Safety (DPS) as a trooper, where he served until his deployment to Iraq in 2007. In 2008, he was honorably discharged and sought reemployment by DPS. However, due to a lung condition he acquired in Iraq, Torres requested employment with DPS in a position different from the one he held before. Instead, DPS offered Torres only a \u201ctemporary duty offer,\u201d which he declined.</p>\n<p>Torres sued DPS in 2017, alleging that the agency\u2019s failure to offer him a job that would accommodate his disability violated the federal Uniformed Services Employment and Reemployment Rights Act of 1994 (USERRA), which prohibits adverse employment actions against an employee based on the employee\u2019s military service. The trial court ruled in favor of Torres, finding that USERRA properly abrogated DPS\u2019s sovereign immunity under Congress\u2019s constitutional war powers. The appellate court reversed.</p>\n",
+    "conclusion": "<p>Congress properly exercised its power to raise and support the Armed Forces when it authorized private damages suits against nonconsenting States, as in the Uniformed Services Employment and Reemployment Rights Act of 1994. Justice Stephen Breyer authored the majority opinion of the Court.</p>\n<p>In PennEast, the Court held that Congress could, pursuant to its eminent domain power, authorize lawsuits against nonconsenting States because, upon entering the federal system, the States implicitly agreed that their \u201ceminent domain power would yield to that of the Federal Government.\u201d Under PennEast, the test for structural waiver is whether the federal power is \u201ccomplete in itself, and the States consented to the exercise of that power\u2014in its entirety\u2014in the plan of the Convention.\u201d Congress\u2019s power to build and maintain the Armed Forces fits PennEast\u2019s test. Thus, in joining together to form a Union, the States agreed to sacrifice their sovereign immunity for the good of the common defense.</p>\n<p>Justice Elena Kagan authored a concurring opinion.</p>\n<p>Justice Clarence Thomas authored a dissenting opinion, in which Justices Samuel Alito, Neil Gorsuch, and Amy Coney Barrett joined.</p>\n"
+}

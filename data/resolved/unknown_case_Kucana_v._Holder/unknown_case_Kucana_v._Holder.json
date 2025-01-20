@@ -1,0 +1,42 @@
+{
+    "ID": 55702,
+    "name": "Kucana v. Holder",
+    "href": "https://api.oyez.org/cases/2009/08-911",
+    "view_count": 0,
+    "docket_number": "08-911",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1240808400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40536"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1257832800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40537"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1263967200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40538"
+        }
+    ],
+    "question": "<p>Does 8 U.S.C. \u00a7 1252(a)(2)(B)(ii) bar judicial review for both administrative decisions made discretionary by statute and those made discretionary by regulation?</p>\n",
+    "citation": {
+        "volume": "558",
+        "page": "233",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19624"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that 8 U.S.C. Section 1252(a)(2)(B)(ii) does not preclude federal courts from hearing cases specified by the Attorney General, only cases that are specified by statute.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/558/233/",
+    "facts_of_the_case": "<p>Agron Kucana, a citizen of Albania, entered the United States in 1995 and did not leave when his visa expired. Mr. Kucana applied for asylum but failed to appear at his hearing, after which he was ordered removed from the United States. He filed a motion to reopen his case, which was denied. On appeal, the Board of Immigration Appeals (BIA) affirmed. After failing to remove himself from the United States, Mr. Kucana once again moved to reopen his case, contending that conditions in Albania had deteriorated to the extent where his life would be in danger upon his return. His motion was denied.</p>\n<p>On appeal to the U.S. Court of Appeals for the Seventh Circuit, he argued that the BIA \"abused its discretion\" in denying his claim when it failed to consider an affidavit testifying to the dangerous conditions existing in Albania. The Seventh Circuit held that it lacked jurisdiction to review the matter. It found that the BIA's decision not to reopen Mr. Kucana's case was \"discretionary.\" 8 U.S.C. Section 1252(a)(2)(B)(ii) provides that \"no court has jurisdiction to review\" any decision that is under the discretion of the BIA. Therefore, the court reasoned that Mr. Kucana's claim was not reviewable by a federal court of appeals.</p>\n",
+    "conclusion": "<p>No. The Supreme Court held that 8 U.S.C. \u00a7 1252(a)(2)(B)(ii)'s proscription of judicial review applies only to determinations made discretionary by statute, not to determinations declared discretionary by the Attorney General himself through regulation. With Justice Ruth Bader Ginsburg writing for the majority and joined by Chief Justice John G. Roberts and Justices John Paul Stevens, Antonin G. Scalia, Anthony M. Kennedy, Clarence Thomas, Stephen G. Breyer, and Sonia Sotamayor, the Court reasoned that policy, the statute's language, and its history all indicate that \u00a7 1252(a)(2)(B)(ii) does not bar judicial review for administrative decisions made discretionary by regulation. At the heart of the Court's concern was preserving the separation of powers and avoiding a scenario where an Executive Branch order could preclude Judicial Branch review over a matter.</p>\n<p>Justice Samuel A. Alito filed a separate opinion, concurring in the judgment. He agreed that the Seventh Circuit had jurisdiction to review the denial of Mr. Kucana's petition to reopen his removal proceeding. However, Justice Alito argued for a narrower holding. He stated that while some regulations issued by the Attorney General may be unreviewable, the regulation at issue in this case did not have that effect.</p>\n"
+}

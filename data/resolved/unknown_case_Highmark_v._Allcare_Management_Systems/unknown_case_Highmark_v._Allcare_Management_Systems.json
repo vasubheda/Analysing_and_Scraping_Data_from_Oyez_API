@@ -1,0 +1,42 @@
+{
+    "ID": 56017,
+    "name": "Highmark v. Allcare Management Systems",
+    "href": "https://api.oyez.org/cases/2013/12-1163",
+    "view_count": 0,
+    "docket_number": "12-1163",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1380603600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41355"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1393394400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52564"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1398747600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52565"
+        }
+    ],
+    "question": "<p>Did the appellate court apply an improper standard of review to the district court's determination that Allcare pursued objectively baseless claims against Highmark?</p>\n",
+    "citation": {
+        "volume": "572",
+        "page": "559",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/19939"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that a district court is the best place to determine whether or not a lawsuit is objectively baseless.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/572/559/",
+    "facts_of_the_case": "<p>The Patent Act allows a court to award reasonable attorneys fees in exceptional cases in which the lawsuit is objectively baseless and brought in bad faith. Allcare Management Systems, Inc. (Allcare) owns a patent that covers a computer-based method of generating treatment options based on symptom data entered by a physician. This process can help an insurance company determine whether to approve a particular treatment for a patient. In 2003, Highmark, Inc. (Highmark), a health insurance company, sought a declaratory judgment of non-infringement of Allcare's patent. Allcare filed a counterclaim and alleged that Highmark infringed on two sections of its patent. The federal district court awarded summary judgment in favor of Highmark. The court also found that Allcare had willfully pursued frivolous infringement claims and ordered it to pay Highmark's attorney's fees and costs. On appeal, the U.S. Court of Appeals for the Federal Circuit independently reviewed the district court's determination that Allcare's claims were objectively baseless. The appellate court affirmed the lower court's finding with respect to one of Allcare's claims and reversed the court regarding Allcare's second claim.</p>\n",
+    "conclusion": "<p>Yes. Justice Sonia Sotomayor delivered the opinion for the unanimous Court. The Court held that a district court is in the best position to determine whether a lawsuit is objectively baseless and, as such, is entitled to deference upon appeal. The Federal Circuit applied too strict of a standard in its independent review of the case, which should be reserved for questions of law. The Court remanded the proceedings and instructed the Federal Circuit to examine the district court\u2019s findings for abuse of discretion.</p>\n"
+}

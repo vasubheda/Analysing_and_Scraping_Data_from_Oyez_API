@@ -1,0 +1,42 @@
+{
+    "ID": 55298,
+    "name": "Wachovia Bank, N.A. v. Schmidt",
+    "href": "https://api.oyez.org/cases/2005/04-1186",
+    "view_count": 0,
+    "docket_number": "04-1186",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1118638800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39449"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1133157600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39450"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1137477600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39451"
+        }
+    ],
+    "question": "<p>For the purposes of federal diversity jurisdiction, is a national bank \"located\" in every state in which it maintains a branch office?</p>\n",
+    "citation": {
+        "volume": "546",
+        "page": "303",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20581"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/546/303/",
+    "facts_of_the_case": "<p>Schmidt, a South Carolina citizen, sued Wachovia Bank in a South Carolina state court for fraudulently inducing him to participate in an illegal tax shelter. Wachovia is a national bank with its main office in North Carolina and branch offices in several other states, including South Carolina. Under federal diversity jurisdiction, federal courts can hear cases in which the parties are citizens of different states. Wachovia filed a petition in Federal District Court, seeking to compel arbitration of the dispute. After the petition was denied on the merits, Wachovia appealed to the Fourth Circuit Court of Appeals, which dismissed the case for lack of jurisdiction. Under 28 U.S.C. Section 1348, national banks are \"deemed citizens of the States in which they are respectively located.\" The Circuit Court interpreted \"located\" to mean any state where the bank has a branch location. Noting that the statute uses both \"located\" and \"established\" to refer to the presence of a bank, the Circuit Court determined that a national bank is \"established\" in the state where its main office is located, and \"located\" in every state where it has a branch office. Therefore, under the Fourth Circuit's reasoning, Wachovia was \"located\" in, and a citizen of, South Carolina (as well as several other states with branch offices). Since both parties, Schmidt and Wachovia, had South Carolina citizenship, the Circuit Court dismissed the case for lack of diversity jurisdiction.</p>\n",
+    "conclusion": "<p>No. In an 8-0 decision authored by Justice Ruth Bader Ginsburg, the Court ruled that a national bank is \"located\" in, and therefore a \"citizen\" of, only the state in which its main office is located. Looking to the history of Congress's diversity jurisdiction statutes, the Court concluded that the word \"located\" need not be interpreted to mean any state where a bank has a physical presence. Furthermore, the Court ruled that the Fourth Circuit had erred in drawing a distinction between the words \"located\" and \"established\": \"the Congress may well have comprehended the words 'located' and 'established,' as used in [Section] 1348, as synonymous terms.\" Justice Thomas took no part in the decision of the case.</p>\n"
+}

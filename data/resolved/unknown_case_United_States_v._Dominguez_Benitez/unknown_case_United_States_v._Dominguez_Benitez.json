@@ -1,0 +1,42 @@
+{
+    "ID": 55193,
+    "name": "United States v. Dominguez Benitez",
+    "href": "https://api.oyez.org/cases/2003/03-167",
+    "view_count": 0,
+    "docket_number": "03-167",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1070863200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39158"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1082523600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39159"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1087189200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39160"
+        }
+    ],
+    "question": "<p>In order to show that a judge's mistake is a reversible \"plain error\" under Federal Rule of Criminal Procedure 52, must a defendant show that it is reasonably likely he would not have pled guilty without the mistake?</p>\n",
+    "citation": {
+        "volume": "542",
+        "page": "74",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19121"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/542/74/",
+    "facts_of_the_case": "<p>Carlos Dominguez Benitez confessed to selling drugs to an informant. He made a plea agreement with the government in which he would plead guilty to conspiracy to sell drugs, which normally carried a 10-year minimum sentence. However, the government agreed to ask the judge to reduce the sentence below that minimum. The plea agreement also said that, if the judge did not agree to the government's request to lower the sentence, Dominguez could not withdraw his guilty plea. During discussions of the plea, the judge failed to mention the fact that it prohibited him from withdrawing his plea (the written statement, which did contain the fact, was read to him at another time). When the judge ruled that he could not lower the sentence, Dominguez appealed. He argued that the judge's failure to tell him that he would be unable to withdraw his appeal was a \"plain error\" under Federal Rule of Criminal Procedure 52 and therefore required reversal. The prosecutors countered that, in order to show that the judge had made a \"plain error\" Dominguez would need to show not just that he had made a mistake but also that it was reasonably likely that, without the error, Dominguez would not have pled guilty. A Ninth Circuit Court of Appeals rejected that argument, siding with Dominguez to reverse the decision.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous decision, the Court ruled that the judge's error most likely had no effect on Dominguez's decision to plead guilty, because he had already confessed to the crime and had little chance of winning at trial. Under Rule 52, a plain error is an \"error that affects substantial rights.\" Because the error did not harm Dominguez - he would likely have pled guilty anyway - it was not a reversible plain error. Justice David H. Souter, writing for 8 members of the Court (Justice Antonin Scalia wrote a separate opinion concurring in judgment), wrote, \"The point of the question is not to second-guess a defendant's actual decision... The point, rather, is to enquire whether the omitted warning would have made the difference required by the standard of reasonable probability; it is hard to see here how the warning could have had an effect on Dominguez's assessment of his strategic position.\"</p>\n"
+}

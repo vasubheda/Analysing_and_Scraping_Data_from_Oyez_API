@@ -1,0 +1,42 @@
+{
+    "ID": 55404,
+    "name": "MedImmune, Inc. v. Genentech, Inc.",
+    "href": "https://api.oyez.org/cases/2006/05-608",
+    "view_count": 0,
+    "docket_number": "05-608",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1140501600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39725"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1159938000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39726"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1168322400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39727"
+        }
+    ],
+    "question": "<p>Does the \"actual controversy\" requirement of the Declaratory Judgment Act require that a patent licensee break its licensing agreement by refusing to pay royalties before suing to declare a patent invalid and unenforceable?</p>\n",
+    "citation": {
+        "volume": "549",
+        "page": "118",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20675"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/549/118/",
+    "facts_of_the_case": "<p>Genentech held the patent for \"Cabilly I\", a process for using cell cultures to manufacture human antibodies. MedImmune had a licensing agreement with Genentech under which MedImmune paid royalties to Genentech in return for the use of the patent. Later, Genentech also obtained the patent to \"Cabilly II,\" a continuation of the Cabilly I process. Under the licensing agreement, MedImmune became a licensee for Cabilly II as well. Genentech informed MedImmune that it would have to pay royalties on one of its most lucrative products, Synagis, which uses the Cabilly II process. MedImmune sued Genentech, claiming that the patent was invalid and unenforceable. However, MedImmune kept paying the royalties.</p>\n<p>A federal District Court dismissed the suit because it did not present a controversy. Article III of the Constitution limits the jurisdiction of federal courts to \"cases or controversies.\" This is implemented in the Declaratory Judgment Act, which requires that a suit involve an \"actual controversy.\" Genentech argued that since MedImmune was still paying royalties on the patent, there was no controversy. MedImmune countered that though it was indeed still paying royalties on the patent it claimed was invalid, it was paying \"under protest.\" It would be unreasonable, MedImmune argued, for the company to be required to break its contractual obligations by stopping royalty payments before suing. This might jeopardize MedImmune's legal rights to one of its best-selling products.</p>\n<p>The U.S. Court of Appeals for the Federal Circuit ruled for Genentech and upheld the District Court, holding that the suit presented no actual controversy.</p>\n",
+    "conclusion": "<p>No. In an 8-1 decision authored by Justice Antonin Scalia, the Court reversed the Federal Circuit and ruled for MedImmune. The Court held that MedImmune was not required to break its contract before suing, because \"The rule that a plaintiff must [...] risk treble damages and the loss of 80 percent of its business[] before seeking a declaration of its actively contested legal rights finds no support in Article III.\" The Declaratory Judgment Act only requires that disputes be non-hypothetical and non-abstract. The mere fact that royalties were still being paid, the Court ruled, was not sufficient to remove the courts' jurisdiction under Article III. In a lone dissent, Justice Thomas argued that the Court's expansive approach toward Article III jurisdiction would improperly allow parties to bring premature, theoretical suits.</p>\n"
+}

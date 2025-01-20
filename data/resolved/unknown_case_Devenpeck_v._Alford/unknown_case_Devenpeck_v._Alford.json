@@ -1,0 +1,42 @@
+{
+    "ID": 55268,
+    "name": "Devenpeck v. Alford",
+    "href": "https://api.oyez.org/cases/2004/03-710",
+    "view_count": 0,
+    "docket_number": "03-710",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1082350800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39366"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1099893600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39367"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1102917600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39368"
+        }
+    ],
+    "question": "<p>(1) Does an arrest violate the Fourth Amendment when a police officer has probable cause to make an arrest for one offense, if that offense is not closely related to the offense articulated by the officer at the time of the arrest? (2) For the purposes of qualified immunity, was \"closely related offense doctrine\" clearly established given that different circuit courts disagreed on its application?</p>\n",
+    "citation": {
+        "volume": "543",
+        "page": "146",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19196"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/543/146/",
+    "facts_of_the_case": "<p>Tony Alford was driving when Washington state police, concerned Alford was impersonating a police officer, pulled him over. During a search of Alford's car, police found a tape recorder recording the traffic stop. The police arrested Alford and said he had made an illegal recording of a private conversation - a violation, they said, of the state's Privacy Act. A state court judge dismissed charges against Alford, ruling - as another state court already had - that the Privacy Act did not apply to public police work.</p>\n<p>Alford then sued the officers in federal district court, alleging his arrest violated the Fourth Amendment right to be free from unreasonable seizure. The district court ruled for the officers.</p>\n<p>The Ninth Circuit Court of Appeals reversed and ruled the officers violated Alford's Fourth Amendment rights. The facts and law were so clearly established that no reasonable officer could believe Alford violated the Privacy Act. Therefore the officers lacked probable cause for the arrest and were not protected by qualified immunity. The court rejected the officers' argument that the arrest was constitutional because there was probable cause Alford committed the crime of impersonating a police officer. That was not the reason police gave during the arrest. The Ninth Circuit said there was only one instance when an arrest for a reason the police did not articulate was constitutional: if that reason was closely related to the stated reason for the arrest. Impersonating a police officer was not closely related to violating the state Privacy Act. Other circuit courts disagreed with the Ninth Circuit's \"closely related offense doctrine.\"</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Antonin Scalia, the Court held that police had probable cause to arrest Alford for impersonating a police officer, despite the fact that this was not closely related to the offense police identified during the arrest. A warrantless arrest by a police officer is reasonable under the Fourth Amendment if, given the facts known to the officer, there is probable cause to believe a crime has been or is being committed. The offense establishing probable cause need not be closely related to the offense the arresting officer identifies at the time of arrest. An arresting officer's state of mind, except for facts he knows, is irrelevant to probable cause.</p>\n"
+}

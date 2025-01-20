@@ -1,0 +1,35 @@
+{
+    "ID": 62918,
+    "name": "Trump v. International Refugee Assistance Project",
+    "href": "https://api.oyez.org/cases/2017/16-1436",
+    "view_count": 0,
+    "docket_number": "16-1436",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1498453200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54151"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1498453200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54152"
+        }
+    ],
+    "question": "<ol><li>Are respondents' challenges to the temporary suspension of entry of aliens abroad under Section 2(c) of Executive Order No. 13,780 justiciable?</li>\n<li>Does Section 2(c)'s temporary suspension of entry violate the Establishment Clause of the First Amendment?</li>\n<li>Is the global injunction, which was the relief granted based on alleged injury to an individual plaintiff, impermissibly overbroad?</li>\n</ol>",
+    "citation": {
+        "volume": "582",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27551"
+    },
+    "term": "2017",
+    "description": "A case in which the Court would have decided whether the respondents' challenges to the temporary suspension of entry of aliens abroad under Section 2(c) of Executive Order No. 13,780 became moot on June 14, 2017, whether Section 2(c)'s temporary suspension of entry violates the Establishment Clause, and whether the global injunction issued by the district court is impermissibly overbroad. On June 26, 2017, the Court granted the government's applications for a stay of the preliminary injunction with respect to Sections 6(a) and (b) of Executive Order.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/582/16-1436/",
+    "facts_of_the_case": "<p>On January 27, 2017, President Donald Trump signed Executive Order No. 13,769 (EO-1), which, among other things, suspended entry for 90 days of foreign nationals from seven countries identified by Congress or the Executive as presenting heightened terrorism-related risks. EO-1 was immediately challenged in federal district court, and the judge entered a nationwide temporary restraining order enjoining enforcement of several of its provisions. A panel of the Ninth Circuit denied the government's emergency motion to stay the order pending appeal. Rather than continuing to litigate the matter, the government announced that it would revoke that order and issue a new one.</p>\n<p>On March 6, 2017, President Trump issued Executive Order No. 13,780 (EO-2). Section 2(c) of EO-2 directs that entry of nationals from six of the seven countries designated in EO-1 be suspended for 90 days from the effective date of the order, citing a need for time to establish adequate standards to prevent infiltration by foreign terrorists. Section 6(a) directs that applications for refugee status and travel of refugees into the United States under the United States Refugee Admissions Program (USRAP) be suspended for 120 days from the effective date \"to review the adequacy of USRAP application and adjudication procedures.\" Section 6(b) suspends the entry of any individual under USRAP once 50,000 refugees have entered the United States in fiscal year 2017. The effective date of the order is March 16, 2017.</p>\n<p>The case before the Court represents two consolidated cases. In the first, federal district court in Maryland issued a nationwide preliminary injunction barring the government from enforcing Section 2(c) against any foreign national seeking entry to the United States. In the second, a federal district court in Hawaii issued a nationwide preliminary injunction barring enforcement of all of Section 2, as well as Section 6. The Fourth Circuit, sitting en banc, largely upheld the the lower court's injunction as to Section 2(c), finding that one of the plaintiffs was likely to succeed on the merits of his Establishment Clause claim. The Ninth Circuit shortly thereafter largely upheld the Hawaii district court's injunction, finding that the key provisions of EO-2 likely exceeded the president's authority under the Immigration and Nationality Act.</p>\n<p>On June 14, just before Section 2(c) of EO-2 was by its terms set to expire, President Trump issued a memorandum to Executive Branch officials declaring the effective date of each enjoined provision of EO\u20132 to be the date on which the injunctions in these cases \u201care lifted or stayed with respect to that provision.\" The government sought review in both cases, making arguments both on the merits of the cases and on procedural issues.</p>\n<p>In a per curiam opinion issued simultaneously with an order granting certiorari, the Court granted the government's applications for a stay of the preliminary injunction with respect to Sections 6(a) and (b) of Executive Order 13,780 (EO-2), thereby allowing enforcement of those provisions. Under the Court's ruling, the government may enforce Section 6(a) except as to any \"individual seeking admission as a refugee who can credibly claim a bona fide relationship with a person or entity in the United States,\" nor may such an individual be excluded under Section 6(b).</p>\n<p>On September 24, 2017\u2014the same day EO-2 was expiring\u2014President Donald Trump has issued a new proclamation restricting travel to the United States by citizens from eight countries.</p>\n",
+    "conclusion": "<p>On October 10, 2017, the Court vacated the lower court's judgment and remanded the case to the US Court of Appeals for the 4th Circuit with instructions to dismiss as moot.</p>\n<p>The Court vacated the lower court's judgment in Trump v. Hawaii, No. 16-1540, as well, remanding that case to the US Court of Appeals for the 9th Circuit with instructions to dismiss as moot.</p>\n"
+}

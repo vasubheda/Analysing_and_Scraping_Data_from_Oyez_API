@@ -1,0 +1,42 @@
+{
+    "ID": 62799,
+    "name": "Sandoz Inc. v. Amgen Inc.",
+    "href": "https://api.oyez.org/cases/2016/15-1039",
+    "view_count": 0,
+    "docket_number": "15-1039",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1484287200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53951"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1493182800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54027"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1497243600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54055"
+        }
+    ],
+    "question": "<ol>\n<li>\n<p>Under the Biologics Price Competition and Innovation Act of 2009, can notice of commercial marketing of a \u201cbiosimilar product\u201d be effective if given prior to approval by the Food and Drug Administration?</p>\n</li>\n<li>\n<p>Does the notice requirement delay sale of biosimilar products by 180 days after notice? </p>\n</li>\n<li>\n<p>Does the Act only permit a remedy for a claim of patent infringement?</p>\n</li>\n</ol>\n",
+    "citation": {
+        "volume": "582",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27493"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that the Biologics Price Competition and Innovation Act of 2009 allows for commercial notice of a \u201cbiosimilar product\u201d to be effective if given prior to approval by the Food and Drug Administration (FDA), but that the Act\u2019s notice requirement is not enforceable with an injunction.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/582/15-1039/",
+    "facts_of_the_case": "<p>The Biologics Price Competition and Innovation Act of 2009 established a process for the Food and Drug Administration (FDA) to license \u201cbiosimilar\u201d products: products that are \u201chighly similar\u201d to already-approved biological products. Under the Act, biosimilar product applicants must provide notice to the seller of the original product at least 180 days prior to the first commercial marketing of the biosimilar product. The Act also requires the biosimilar seller to provide the original seller with the details of its application within 20 days of receiving notice of FDA review.</p>\n<p>In May 2014, Sandoz Inc. filed an application for FDA approval of its product Zarxio, which was highly similar to Amgen Inc.\u2019s product Neupogen (both products are bone marrow stimulants). On July 7, 2014, the FDA notified Sandoz that its application was under review, and the next day, Sandoz notified Amgen of the application. Later that month, Sandoz informed Amgen that it would not disclose the details of its application as required by the Act. On March 6, 2015, the FDA approved Sandoz\u2019s application; Sandoz then notified Amgen of the FDA\u2019s approval.</p>\n<p>In October 2014, Amgen sued Sandoz and claimed that Sandoz violated the Act because it failed to disclose the details of its application and did not give proper notice of commercial marketing before the FDA\u2019s approval of its biosimilar product. The district court held that failure to disclose application details under the Act does not authorize the original seller to receive damages from the biosimilar product seller or prevent the sale of the biosimilar product. The court also held that an applicant may give notice of commercial marketing before FDA approval. The U.S. Court of Appeals for the Federal Circuit vacated the district court\u2019s ruling and held that effective notice may only be given after the FDA has approved the application. Therefore, Sandoz\u2019s notice was effective in March 2015 rather than July 2014, and Sandoz could not sell its biosimilar product until 180 days after the March 2015 notice. The court also held that, because the Act only permits remedies based on patent infringement claims, Sandoz\u2019s failure to disclose the details of its application did not violate the Act. Both parties filed petitions for writs of certiorari which were granted and consolidated.</p>\n",
+    "conclusion": "<p>The Court held that the Biologics Price Competition and Innovation Act of 2009 allows for commercial notice of a \u201cbiosimilar product\u201d to be effective if given prior to approval by the Food and Drug Administration (FDA), but that the Act\u2019s notice requirement is not enforceable with an injunction. Justice Clarence Thomas delivered the opinion for the unanimous Court, which held that the only relief that the Act provided for the applicant\u2019s failure to turn over application and manufacturing information was the filing of a declaratory judgment action. The relevant section of the Act explicitly stated that declaratory relief was available, and therefore no other relief, whether damages or injunctive, was available. The larger context of the statute, which only provided for injunctive relief in the specific instance of a breach of confidentiality, supported this interpretation. Although federal law did not allow for injunctive relief, on remand, the lower court should consider whether injunctive relief may be available under the relevant state law. The Court also held that the plain text of the Act places the notice requirement in relation to the first commercial marketing, not the FDA\u2019s approval. Therefore, the Act allows for effective notice to be given prior to approval by the FDA.</p>\n<p>Justice Stephen G. Breyer wrote a concurring opinion in which he argued that Congress granted the FDA the authority to interpret the Act, and if it concluded that a different interpretation was correct, it could properly deviate from the majority\u2019s holding.</p>\n"
+}

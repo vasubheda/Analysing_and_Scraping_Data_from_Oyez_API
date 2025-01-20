@@ -1,0 +1,42 @@
+{
+    "ID": 55832,
+    "name": "Smith v. Cain",
+    "href": "https://api.oyez.org/cases/2011/10-8145",
+    "view_count": 0,
+    "docket_number": "10-8145",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1307941200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40876"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1320732000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40877"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1326175200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40878"
+        }
+    ],
+    "question": "<p>Was there a reasonable probability that the outcome would have been different if the undisclosed witness statements were presented at trial?</p>\n<p>Did the State of Louisiana ignore due process by rejecting Smith's <em> Brady</em>  claim? </p>\n",
+    "citation": {
+        "volume": "565",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19754"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that the omission of eyewitness testimony in a murder trial, which was the only evidence linking the accused to the crime, was a violation of the accused's due process.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/565/73/",
+    "facts_of_the_case": "<p>Juan Smith was convicted on five counts of murder and sentenced to life in prison without parole. The Louisiana state trial court, Fourth Circuit Court of Appeal and state Supreme Court denied Smith's petition for review. Smith contends that the Louisiana state courts reached this result only by disregarding established precedents regarding the suppression of material evidence favorable to a defendant and presentation of false or misleading evidence to a prosecutor in past Supreme Court cases, Brady v. Maryland, Giglio v. United States and Napue v. Illinois.</p>\n",
+    "conclusion": "<p>Yes and Yes. In an 8-1 decision Chief Justice John Roberts wrote the majority opinion reversing Smith's conviction and remanding the case to the district court. The Supreme Court held that because the eyewitness testimony was the only evidence linking Smith to the murders, the witness' statements to the police were material to the jury's decision. The Court noted that contradictory statements will not always be material if there is enough other evidence to sustain confidence in the verdict. The Court found it unnecessary to consider other the undisclosed evidence Smith discovered.</p>\n<p>Justice Clarence Thomas wrote a dissent, stating that the Court should have considered the cumulative effect of all of the evidence. Justice Thomas felt that the undisclosed statements are not enough to establish a \"reasonable probability\" that the jury would change its verdict.</p>\n"
+}

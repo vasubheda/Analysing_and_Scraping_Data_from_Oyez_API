@@ -1,0 +1,42 @@
+{
+    "ID": 55182,
+    "name": "Thornton v. United States",
+    "href": "https://api.oyez.org/cases/2003/03-5165",
+    "view_count": 0,
+    "docket_number": "03-5165",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1067839200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39125"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1080712800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39126"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1085374800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39127"
+        }
+    ],
+    "question": "<p>Under the \"search incident to arrest\" exception to the Fourth Amendment, may police search the vehicle of a person they have arrested if they did not make contact with him until after he left the vehicle?</p>\n",
+    "citation": {
+        "volume": "541",
+        "page": "615",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19110"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/541/615/",
+    "facts_of_the_case": "<p>Marcus Thornton was stopped after getting out of his vehicle by a police officer who had noticed that the license plate on Thornton's Lincoln Town Car belonged to a Chevy two-door car. During his conversation with Thornton, the officer asked if he could search him. During the search he found two bags of drugs. The officer arrested Thornton, then searched his vehicle (which Thornton had already exited by the time the police officer spoke with him, though the officer had seen him exit it). In the vehicle the officer found a gun.</p>\n<p>Thornton was convicted of drug and firearms offenses. On appeal, he moved to have the gun dismissed as evidence because, he claimed, it had been found as the result of an unconstitutional search. He argued that the officer had contacted him after he had left the vehicle and that the search therefore did not fall within the \"search incident to arrest\" exception to the Fourth Amendment warrant requirement (the exception allows police to search the person being arrested and the area \"within his immediate control\").</p>\n<p>A Fourth Circuit Court of Appeals panel rejected his argument, holding that requiring officers to signal their intent to arrest a person before he exited his vehicle would be dangerous because it would give him a chance to get any weapons in the vehicle or to use the vehicle to get away or run over the officers.</p>\n",
+    "conclusion": "<p>Yes. In a 7-to-2 decision, the Court ruled that forcing officers to decide whether a suspect had noticed them before exiting the car (with the understanding that only if he had could the car be searched) would be too subjective and leave officers uncertain of whether they could perform searches. Further, it found that weapons or contraband inside a vehicle could still be easily accessed by someone who had just exited it, providing the same reason for searching the vehicle that was present in cases where suspects were arrested while still inside it (that is, the possibility that illegal material would be destroyed or officers attacked with concealed weapons). Chief Justice Rehnquist, in the majority opinion, wrote, \"Once an officer determines there is probable cause to make an arrest, it is reasonable to allow officers to ensure their safety and to preserve evidence by searching the entire passenger compartment.\"</p>\n"
+}

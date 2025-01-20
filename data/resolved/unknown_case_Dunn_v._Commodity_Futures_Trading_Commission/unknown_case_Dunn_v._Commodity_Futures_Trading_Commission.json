@@ -1,0 +1,35 @@
+{
+    "ID": 54527,
+    "name": "Dunn v. Commodity Futures Trading Commission",
+    "href": "https://api.oyez.org/cases/1996/95-1181",
+    "view_count": 0,
+    "docket_number": "95-1181",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                847864800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37847"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                856850400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37848"
+        }
+    ],
+    "question": "<p>Does the Commodity Futures Trading Commission have the authority to regulate \"off exchange\" trading in options to buy or sell foreign currency?</p>\n",
+    "citation": {
+        "volume": "519",
+        "page": "465",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18456"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/519/465/",
+    "facts_of_the_case": "<p>The Commodity Futures Trading Commission (CFTC) brought an action against William C. Dunn and Delta Consultants, Inc. claiming that they had solicited investments in and operated a fraudulent scheme involving transactions in foreign currency options in violation of the Commodity Exchange Act (CEA) and CFTC regulations. Dunn and Delta Consultants allegedly engaged in the transactions by contracting directly with international banks, rather than using a regulated exchange or board of trade. This is known as \"off exchange\" trading. Dunn, Delta Consultants, and their customers suffered heavy losses. The District Court appointed a temporary receiver to take control of Dunn and Delta Consultants' property. The court rejecting their defense that the transactions were exempt from the CEA under the \"Treasury Amendment,\" which excepts \"transactions in foreign currency\" unless they involve a sale \"for future delivery\" \"conducted on a board of trade.\" The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>No. In an opinion authored by Justice John Paul Stevens, The Court ruled that the \"Treasury Amendment\" of the Commodity Exchange Act exempts from the Commodity Futures Trading Commission regulation off exchange trading in foreign currency options. \"The arguments favoring each side in the important public policy dispute over whether off exchange foreign currency options should be exempt from CEA regulation are best addressed to the Congress, not the Courts,\" wrote Justice Stevens.</p>\n"
+}

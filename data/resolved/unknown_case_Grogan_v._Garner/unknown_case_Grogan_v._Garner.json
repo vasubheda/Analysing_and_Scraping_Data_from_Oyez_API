@@ -1,0 +1,35 @@
+{
+    "ID": 53850,
+    "name": "Grogan v. Garner",
+    "href": "https://api.oyez.org/cases/1990/89-1149",
+    "view_count": 0,
+    "docket_number": "89-1149",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                657180000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36579"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                663919200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36580"
+        }
+    ],
+    "question": "<p>What standard of evidence should bankruptcy courts apply in considering whether a debt was the result of \"actual fraud\" under section 523(a) of the Bankruptcy Code?</p>\n",
+    "citation": {
+        "volume": "498",
+        "page": "279",
+        "year": "1991",
+        "href": "https://api.oyez.org/case_citation/case_citation/17779"
+    },
+    "term": "1990",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/498/279/",
+    "facts_of_the_case": "<p>Frank Garner was convicted of defrauding Coy Grogan and ordered to repay him. Garner then filed for Chapter 11 Bankruptcy, asking the Bankruptcy Court to discharge (that is, nullify) his court-ordered repayment to Grogan. Grogan argued that the debt should not be discharged because section 523(a) of the bankruptcy code exempts obligations for money obtained by \"actual fraud.\" The Bankruptcy Court, based on portions of the fraud case, agreed and did not allow Garner to discharge the debt. The District Court affirmed, but the Eighth Circuit Court of Appeals reversed, finding that the standard of proof used in the original fraud case - the \"preponderance of the evidence\" standard - was lower than the standard of proof demanded under section 523(a) - a \"clear and convincing evidence\" standard. The Court found that most states used the \"clear and convincing\" standard in fraud cases and that Congress would have explicitly stated it if they used a different standard. Moreover, it argued that the intention of the bankruptcy code to provide a \"fresh start\" suggested that the standard most favorable to bankruptcy filers should be used (that is, the more demanding \"clear and convincing\" standard).</p>\n",
+    "conclusion": "<p>Courts should apply the \"preponderance of the evidence\" standard. Justice John Paul Stevens, for a unanimous Supreme Court, wrote that the lack of a specified standard of evidence in section 523(a) implied that Congress had intended the preponderance of the evidence standard to be used. That lower standard was generally used in civil actions between private parties (including bankruptcy filings) unless particularly important interests were at stake. Protecting a bankruptcy filer who had previously been convicted of fraud was not sufficiently important to demand a higher level of evidence.</p>\n<p>Stevens also wrote that the \"fresh start\" intention of the bankruptcy laws did not suggest a higher standard of evidence. \"In the same breath that we have invoked this 'fresh start policy,\" he wrote, \"we have been careful to explain that the Act limits the opportunity for a completely unencumbered new beginning to the 'honest but unfortunate debtor.'\" A debtor previously convicted of fraud did not fit this description.</p>\n"
+}

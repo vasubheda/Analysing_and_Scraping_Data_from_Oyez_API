@@ -1,0 +1,42 @@
+{
+    "ID": 56020,
+    "name": "Brandt Revocable Trust v. United States",
+    "href": "https://api.oyez.org/cases/2013/12-1173",
+    "view_count": 0,
+    "docket_number": "12-1173",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1380603600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41359"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1389679200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41360"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1394427600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41558"
+        }
+    ],
+    "question": "<p>Did the United States retain an implied ownership interest in the ROW property after the underlying lands were granted into private ownership?</p>\n",
+    "citation": {
+        "volume": "572",
+        "page": "93",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20870"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that the General Railroad Right-of-Way Act of 1875 guaranteed the federal government easements for federally-granted railroad land, but not an enduring property interest.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/572/93/",
+    "facts_of_the_case": "<p>In 1908, the United States granted land, known as a right-of-way (ROW) to the Hahn's Peak and Pacific Railway Company to build a 66-mile railway from Laramie, Wyoming to Colorado. In 1976, the United States granted Fox Park, Wyoming\u23afland that surrounds the ROW\u23afto Melvin and Lula Brandt. In 1986, a new company, the Wyoming and Colorado Railway Company, acquired the ROW. The company operated the ROW until it officially abandoned the land in 2003. Following the abandonment, the United States sued the Brandt Revocable Trust and other potential property owners under 42 USC 912, a statute governing the disposition of abandoned or forfeited railroad grants. The government argued that this statute reverts abandoned ROWs back to the federal government's exclusive possession. The United States sought a judicial order of abandonment and exclusive possession of the ROW. The Brandt Revocable Trust and property owners filed a countersuit seeking full possession of the ROW, insofar as it cut through their land. They argued that the statute only granted an easement to the United States, not full possession. The district court granted the interest in the ROW to the United States and the US. Court of Appeals for the Tenth Circuit affirmed.</p>\n",
+    "conclusion": "<p>No. Chief Justice John G. Roberts, Jr. delivered the opinion of the 8-1 majority. The Court held that the language, legislative history, and subsequent administrative interpretation of the General Railroad Right-of-Way Act of 1875 (1875 Act) clearly grants an easement for the railroad's land and not a more enduring property interest. When the United States granted Fox Park to Melvin and Lula Brandt, it did not reserve for itself any additional interest in the railroad property. Therefore, pursuant to the 1875 Act, when the railroad company abandoned the land, it should have been settled as an easement. When an easement is abandoned, the easement disappears and the land reverts to its previous owner, so in this case, the land would revert to the Brandt Revocable Trust and property owners.</p>\n<p>Justice Sonia Sotomayor wrote a dissent in which she argued that there is judicial precedent to support the view that, in granting land to railroad companies, Congress did not intend to allow those land grants to be disposed at the will of the private companies. Justice Sotomayor also argued that the majority opinion failed to take into account the fact that railroad rights have historically not been treated as property rights that can be decided simply on the basis of common law principles. Therefore, even if the 1875 Act only granted an easement, it should not be treated as an ordinary easement. Instead, such an easement should be settled according to the presumption in favor of the sovereign grantor, the United States, as has typically governed railroad ROW property.</p>\n"
+}

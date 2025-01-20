@@ -1,0 +1,35 @@
+{
+    "ID": 55062,
+    "name": "Brown v. Legal Foundation of Washington",
+    "href": "https://api.oyez.org/cases/2002/01-1325",
+    "view_count": 0,
+    "docket_number": "01-1325",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1039413600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38848"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1048658400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38849"
+        }
+    ],
+    "question": "<p>Does the use of interest on lawyers' trust accounts to pay for legal services provided to the needy constitute a state taking in violation of the Just Compensation Clause of the Fifth Amendment?</p>\n",
+    "citation": {
+        "volume": "538",
+        "page": "216",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/18991"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/538/216/",
+    "facts_of_the_case": "<p>Every state uses interest on lawyers' trust accounts (IOLTA) to pay for legal services for the needy. Among it rules, Washington's program requires that funds that cannot earn net interest for the client be deposited in an IOLTA account. The Supreme Court of Washington extended its IOLTA rules to cover Limited Practice Officers (LPOs), nonlawyers who are licensed to act as escrowees in real estate closings. Allen Brown and Greg Hayes alleged that they regularly purchase and sell real estate, in the course of such transactions they deliver funds to LPOs who are required to deposit them in IOLTA accounts, and the taking of the interest earned on their funds in IOLTA accounts violates the Just Compensation Clause of the Fifth Amendment. The District Court found, among other things, that Brown and Hayes had lost nothing. Sitting en banc, the Court of Appeals reasoned that there was no taking because Brown and Hayes had suffered neither an actual loss nor an interference with any investment-backed expectations.</p>\n",
+    "conclusion": "<p>No. In a 5-4 opinion delivered by Justice John Paul Stevens, the Court held that state law that requires client funds that could not otherwise generate net earnings for the client to be deposited in an IOLTA account is not a regulatory taking. Moreover, the Court reasoned that, because compensation is measured by the owner's pecuniary loss, which is zero whenever the Washington law is obeyed, there is no violation of the Just Compensation Clause of the Fifth Amendment. Justice Antonin Scalia, joined by Chief Justice William H. Rehnquist and Justices Anthony M. Kennedy and Clarence Thomas, dissented, arguing that the Court's decision created an exception to its general rule that the just compensation owed to former owners of confiscated property is the fair market value of the property taken. Justice Kennedy also filed a separate dissent.</p>\n"
+}

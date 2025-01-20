@@ -1,0 +1,42 @@
+{
+    "ID": 62888,
+    "name": "City of Hays, Kansas v. Vogt",
+    "href": "https://api.oyez.org/cases/2017/16-1495",
+    "view_count": 0,
+    "docket_number": "16-1495",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1506574800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54117"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1519106400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54179"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1527570000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54278"
+        }
+    ],
+    "question": "<p>Is the Fifth Amendment violated when a criminal&nbsp;defendant is compelled to incriminate himself and&nbsp;the incriminating statement is used in a probable cause hearing, rather than in in a criminal proceeding?</p>\n",
+    "citation": {
+        "volume": "584",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27537"
+    },
+    "term": "2017",
+    "description": "A case in which the Court was asked to clarify the scope of the Fifth Amendment right against self-incrimination in a \u201ccriminal case\u201d\u2014specifically whether the Fifth Amendment is violated when a criminal defendant is compelled to incriminate himself and the incriminating statement is used in a probable cause hearing.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/584/16-1495/",
+    "facts_of_the_case": "<p>Matthew Vogt was employed as a police officer with the City of Hays, Kansas, when he applied for a position with the City of Haysville police department. During Vogt\u2019s interview process with the City of Haysville, he disclosed that he had kept a knife obtained while working for the City of Hays.</p>\n<p>The City of Haysville made Vogt an offer of employment contingent on his reporting his acquisition of the knife to the City of Hays and returning it, which Vogt did. Upon this report, the City of Hays chief of police ordered Vogt to issue a statement regarding the knife, which Vogt submitted nominally, in addition to a letter of resignation due to his intent to accept the position with the Haysville Police Department.</p>\n<p>The Hays police chief began an internal investigation into Vogt and required him to issue a more detailed statement regarding the knife. This subsequent statement led to additional evidence, and Hays Police Department submitted both to the Kansas Bureau of Investigation, asking the Bureau to initiate a criminal investigation. As a result of the criminal investigation, the Haysville Police Department withdraw its offer of employment to Vogt.</p>\n<p>Vogt was charged in state court with two felony counts related to his possession of the knife. Following a probable cause hearing, the state district court determined that probable cause was lacking and dismissed the charges. Vogt brought a federal lawsuit alleging that the use of his compelled statements (1) to start an investigation leading to the discovery of additional evidence concerning the knife, (2) to initiate a criminal investigation, (3) to bring criminal charges, and (4) to support the prosecution during the probable cause hearing violated his Fifth Amendment right against self-incrimination.</p>\n<p>The district court dismissed his case for failure to state a claim, and, reviewing the claims de novo, the Tenth Circuit affirmed the district court\u2019s holding as to the first three claims but reversed as to the fourth one, finding that the Fifth Amendment is violated when criminal defendants are compelled to incriminate themselves and the incriminating statement is used in a probable cause hearing.</p>\n",
+    "conclusion": "<p>In a per curiam opinion, the writ of certiorari was dismissed as improvidently granted. Justice Neil Gorsuch took no part in the consideration or decision of the case.</p>\n"
+}

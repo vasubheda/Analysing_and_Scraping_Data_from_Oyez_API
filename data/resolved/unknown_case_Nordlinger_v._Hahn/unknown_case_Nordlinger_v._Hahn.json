@@ -1,0 +1,35 @@
+{
+    "ID": 53946,
+    "name": "Nordlinger v. Hahn",
+    "href": "https://api.oyez.org/cases/1991/90-1912",
+    "view_count": 0,
+    "docket_number": "90-1912",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                698997600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36757"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                708843600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36758"
+        }
+    ],
+    "question": "<p>Does Article XIIIA's \"acquisition value provision,\" which created a dramatic disparity in the property taxes paid by long-term property owners as compared with new property owners, violate the Fourteenth Amendment's Equal Protection Clause by discriminating against new property owners?</p>\n",
+    "citation": {
+        "volume": "505",
+        "page": "1",
+        "year": "1992",
+        "href": "https://api.oyez.org/case_citation/case_citation/17875"
+    },
+    "term": "1991",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/505/1/",
+    "facts_of_the_case": "<p>In a statewide ballot, California residents approved the addition of Article XIIIA to their State Constitution. Article XIIIA's \"acquisition value\" provision limited property assessment value increases to two percent, if caused by changes in ownership or new construction improvements. Article XIIIA exempted two types of transfers from this reassessment limit: first, if the principal seller is 55 or older and moved to a home of equal or lower value, and second, when a transfer occurred between parents and children. One of Article XIIIA's effects is that over time the taxes of new property owners, adjusted to reflect recent values, would be substantially higher than long-term property owner's taxes. A new property owner filed suit to challenge the state constitutional amendment.</p>\n",
+    "conclusion": "<p>The Court, through Justice Blackmun, held that California's new property tax system rationally and plausibly furthered legitimate state interests in restraining increasing property taxes and preserving local neighborhood stability. The discrepancy which Article XIIIA created between new and long time property owners is warranted, because the latter had a far greater reliance interest in their property than the former. Thus, long-time property owners deserved more protection from higher property taxes than new property owners. This demonstrated a significant difference between the two property owner types. In addition, both of Article XIIIA's exemptions rationally promoted a legitimate state interest. The first exemption did not discourage older people from moving to a smaller home that is likely to better suit their smaller family and income. The second exemption aimed at preserving family unity and neighborhood stability. Accordingly, the Court held that Article XIIIA did not violate the Fourteenth Amendment's Equal Protection Clause.</p>\n"
+}

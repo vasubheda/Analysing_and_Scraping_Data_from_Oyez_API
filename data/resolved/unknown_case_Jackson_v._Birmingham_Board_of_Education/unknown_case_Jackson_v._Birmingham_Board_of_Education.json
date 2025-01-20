@@ -1,0 +1,42 @@
+{
+    "ID": 55249,
+    "name": "Jackson v. Birmingham Board of Education",
+    "href": "https://api.oyez.org/cases/2004/02-1672",
+    "view_count": 0,
+    "docket_number": "02-1672",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1087189200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39309"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1101794400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39310"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1112076000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39311"
+        }
+    ],
+    "question": "<p>Does Title IX of the Education Amendments of 1972 allow suits for retaliation for complaints about unlawful sex discrimination?</p>\n",
+    "citation": {
+        "volume": "544",
+        "page": "167",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19177"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/544/167/",
+    "facts_of_the_case": "<p>Roderick Jackson, a high school basketball coach, claimed he was fired for complaining that the girls' basketball team he coached was denied equal treatment by the school. Jackson sued the Birmingham Board of Education in federal court, claiming his firing violated Title IX of the Education Amendments of 1972. Title IX bans sex discrimination in federally-funded schools. Jackson claimed Title IX gave him the right to sue - a \"private right of action\" - because he suffered for reporting sex discrimination against others, despite the fact the he did not suffer from sex discrimination. The federal district court and appellate court ruled against Jackson.</p>\n",
+    "conclusion": "<p>Yes. In a 5-4 opinion delivered by Justice Sandra Day O'Connor, the Court held that Title IX allowed suits alleging retaliation for reporting sex discrimination. Such retaliation, the majority reasoned, constituted intentional discrimination on the basis of sex in violation of Title IX. Jackson therefore had the right under Title IX to pursue his claim in court.</p>\n"
+}

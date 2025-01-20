@@ -1,0 +1,35 @@
+{
+    "ID": 55372,
+    "name": "Dye v. Hofbauer",
+    "href": "https://api.oyez.org/cases/2005/04-8384",
+    "view_count": 0,
+    "docket_number": "04-8384",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1129006800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39645"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                1129006800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53472"
+        }
+    ],
+    "question": "<p>Can a habeas petitioner sufficiently assert his federal due process claim based on prosecutorial misconduct when the state court did not address the claim of a violation of a federal right?</p>\n",
+    "citation": {
+        "volume": "546",
+        "page": "1",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19297"
+    },
+    "term": "2005",
+    "description": "A case in which the Court held a habeas petitioner can sufficiently assert a federal due process claim based on prosecutorial misconduct, even when the state court did not address the claim.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/546/1/",
+    "facts_of_the_case": "<p>On August 29, 1982, Glenda Collins and Donna Bartels were shot in the Forbidden Wheels Motorcycle Club. After several witnesses testified against him in exchange for immunity, Paul Allen Dye was convicted of first- and second-degree murder for the shootings. Dye contended that he was innocent and that one of the witnesses who had testified against him was the shooter. The Michigan Court of Appeals affirmed his conviction, and the Michigan Supreme Court denied review.</p>\n<p>Dye petitioned for federal habeas relief and argued that he was deprived of his right to a fair trial due to prosecutorial misconduct. The district court denied his petition. On appeal, the U.S. Court of Appeals for the Sixth Circuit initially held that there was flagrant prosecutorial misconduct and therefore reversed the district court\u2019s ruling. The respondent moved for a panel rehearing, but before the rehearing occurred, one of the justices on the original panel retired. In its second opinion, the appellate court affirmed the district court\u2019s ruling and determined that Dye\u2019s prosecutorial misconduct claim was too vague and was not presented as a violation of a federal right to the state court because the state court\u2019s opinion did not mention it.</p>\n",
+    "conclusion": "<p>In a per curiam opinion, the Court held that the fact that a state court did not address a federal rights violation claim is not conclusive of whether the claim was made. A habeas petitioner should not be denied relief because a state court does not fully address all of his claims. In this case, the federal rights violation claim was sufficiently presented to the state court, and the lower court erred in concluding otherwise.</p>\n"
+}

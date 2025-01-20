@@ -1,0 +1,35 @@
+{
+    "ID": 54931,
+    "name": "Semtek International, Inc. v. Lockheed Martin Corporation",
+    "href": "https://api.oyez.org/cases/2000/99-1551",
+    "view_count": 0,
+    "docket_number": "99-1551",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                975996000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38601"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                983253600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38602"
+        }
+    ],
+    "question": "<p>Is the claim-preclusive effect of a federal judgment dismissing a diversity action on statute-of-limitations grounds determined by the law of the state in which the federal court sits?</p>\n",
+    "citation": {
+        "volume": "531",
+        "page": "497",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18860"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/531/497/",
+    "facts_of_the_case": "<p>Semtek International filed a complaint against Lockheed Martin Corporation in California state court, alleging breach of contract and various business torts. Based on diversity of citizenship, Lockheed Martin moved the case to the District Court. In the District Court, Lockheed Martin successfully moved to dismiss Semtek's claims, as they were barred by California's 2-year statute of limitations. The dismissal was upheld on appeal. Semtek then filed suit in the State Circuit Court for Baltimore City, Maryland, alleging the same causes of action. The suit was not time barred under Maryland's 3-year statute of limitations. The court dismissed the case under res judicata. In affirming, the Maryland Court of Special Appeals held that the California federal court's dismissal barred the Maryland complaint because the res judicata effect of federal diversity judgments is prescribed by federal law, under which the earlier dismissal was on the merits and claim-preclusive.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Antonin Scalia, the Court held that \"[b]ecause the claim-preclusive effect of a federal court's dismissal 'upon the merits' of a diversity action on state statute-of-limitations grounds is governed by a federal rule, which in turn (in diversity cases) incorporates the claim-preclusion law that would be applied by state courts in the State in which the federal court sits, the Maryland Court of Special Appeals erred in holding that the California federal court's dismissal 'upon the merits' necessarily precluded the Maryland state-court action.\" Thus, the District Court's dismissal on the merits of claims as untimely under California law did not preclude Semtek from asserting its claims in a different state court forum.</p>\n"
+}

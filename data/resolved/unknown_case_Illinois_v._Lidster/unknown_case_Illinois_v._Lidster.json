@@ -1,0 +1,42 @@
+{
+    "ID": 55123,
+    "name": "Illinois v. Lidster",
+    "href": "https://api.oyez.org/cases/2003/02-1060",
+    "view_count": 0,
+    "docket_number": "02-1060",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1052110800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38960"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1068012000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38961"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1073973600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38962"
+        }
+    ],
+    "question": "<p>Does Indianapolis v. Edmond, which dealt with the Fourth and 14th Amendment prohibitions of unreasonable searches and seizures, prohibit checkpoints organized to question motorists about a previous offense and arrest motorists for drunk driving?</p>\n",
+    "citation": {
+        "volume": "540",
+        "page": "419",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19052"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/540/419/",
+    "facts_of_the_case": "<p>Police stopped Robert Lidster at a checkpoint set up to find information about a recent hit-and-run accident. Lidster was arrested, and later convicted, for drunk driving. Lidster successfully appealed his conviction to the Illinois Appellate Court. It relied on the U.S. Supreme Court's decision in Indianapolis v. Edmond (2000) holding that a checkpoint is unconstitutional if its only purpose is to uncover \"ordinary criminal wrongdoing.\" The Illinois Supreme Court affirmed.</p>\n",
+    "conclusion": "<p>No. In an opinion delivered by Justice Breyer, the Court held 6-3 that the Illinois checkpoint did not violate the Fourth Amendment's prohibition of unreasonable searches and seizures and was constitutional. It ruled that the checkpoint was reasonable because it advanced a \"grave\" public interest - \"investigating a crime that had resulted in a human death\" - and interfered minimally with Fourth Amendment liberty. The Court distinguished Illinois's \"information-seeking\" checkpoint from the \"crime control\" checkpoint struck down in Edmond. Justices Stevens, Souter, and Ginsburg - while agreeing that Edmond does not invalidate the Illinois checkpoint - dissented from the majority's decision granting constitutional approval to the checkpoint. They argued that the case should have been remanded to the Illinois courts.</p>\n"
+}

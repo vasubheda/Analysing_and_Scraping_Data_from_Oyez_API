@@ -1,0 +1,42 @@
+{
+    "ID": 55608,
+    "name": "Cuomo v. Clearing House Assn., L. L. C.",
+    "href": "https://api.oyez.org/cases/2008/08-453",
+    "view_count": 0,
+    "docket_number": "08-453",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1232085600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40297"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1240894800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40298"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1246251600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40299"
+        }
+    ],
+    "question": "<p>Are state officials precluded from regulating and enforcing banking activities governed by the National Bank Act and the Office of the Comptroller of the Currency's regulations?</p>\n",
+    "citation": {
+        "volume": "557",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20842"
+    },
+    "term": "2008",
+    "description": "A case in which the Court found that state officials are not precluded from regulating and enforcing banking activities governed by the Office of the Comptroller. ",
+    "justia_url": null,
+    "facts_of_the_case": "<p>In 2005, the New York State Attorney General began investigating possible racial discrimination in the real estate lending practices of several national banks. The Attorney General requested that the implicated banks turn over certain non-public information to aid the investigation. The Clearing House Association (CHA), a consortium of national banks including several involved in the investigation, filed a lawsuit in a New York federal district court to prevent the Attorney General from continuing his investigation. The CHA argued that the Office of the Comptroller of the Currency (OCC), the federal agency charged with overseeing national banks, was appropriately responsible for regulating the banks' compliance with activities that fall under the National Bank Act (NBA) and therefore precluded state officials like the Attorney General from doing so. In response, the Attorney General argued that the Federal Housing Act (FHA) provided an exception to the OCC's sole stewardship of the NBA and therefore authorized his investigation. The district court granted the CHA's request for an injunction and stopped the Attorney General's investigation.</p>\n<p>On appeal, the U.S. Court of Appeals for the Second Circuit sustained the injunction against the Attorney General's investigation, but used the decision in a separate case, filed by the OCC and utilizing different arguments, to do so. Here, the court of appeals held that the district court lacked jurisdiction to decide the FHA claim. It reasoned that since the Attorney General had not yet filed any lawsuits against the banks under investigation, the issue of whether the FHA provided an exception to the enforcement of the NBA was not ripe for adjudication.</p>\n",
+    "conclusion": "<p>No. The Supreme Court held that the OCC's interpretation of the NBA that precluded state officials from regulating and enforcing banking activities was not reasonable. With Justice Antonin G. Scalia writing for the majority and joined by Justices John Paul Stevens, David H. Souter, Ruth Bader Ginsburg, and Stephen G. Breyer, the Court distinguished between a state's \"visitorial powers\" \u2013 its supervisory powers \u2013 and its enforcement powers. The Court stated that the NBA only prevented a state from exercising its visitorial powers over banks. Therefore, the Court reasoned that a state was not precluded from exercising its ordinary powers to enforce state laws.</p>\n<p>Justice Clarence Thomas concurred in part and dissented in part. He was joined by Chief Justice John G. Roberts, and Justices Anthony M. Kennedy and Samuel A. Alito. Justice Thomas argued that because the definition of \"visitorial powers\" was ambiguous, the courts should have deferred to the OCC's interpretation of the term in the NBA.</p>\n"
+}

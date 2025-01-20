@@ -1,0 +1,35 @@
+{
+    "ID": 54910,
+    "name": "Saucier v. Katz",
+    "href": "https://api.oyez.org/cases/2000/99-1977",
+    "view_count": 0,
+    "docket_number": "99-1977",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                985068000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38560"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                992840400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38561"
+        }
+    ],
+    "question": "<p>Is the reasonableness inquiry into claims of qualified immunity by a police officer accused of using excessive force in an arrest the same as the reasonableness inquiry on the merits of the excessive-force claim?</p>\n",
+    "citation": {
+        "volume": "533",
+        "page": "194",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18839"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/533/194/",
+    "facts_of_the_case": "<p>Donald Saucier, a military police officer, arrested Elliot Katz, who was protesting during a speech by Vice President Gore at the Presidio Army Base in San Francisco. Katz filed suit against Saucier alleging that Saucier had violated his Fourth Amendment rights by using excessive force in arresting him. Rejecting Saucier's motions for summary judgment on qualified immunity grounds, the District Court held that the immunity inquiry is the same as the inquiry made on the merits. In affirming, the Court of Appeals made a two-part qualified immunity inquiry. After finding that the law governing Saucier's conduct was clearly established when the incident occurred, the court moved to determined whether a reasonable officer could have believed, in light of the clearly established law, that his conduct was lawful. The court then reasoned that this step and the merits of a Fourth Amendment excessive force claim were identical because both concern the objective reasonableness of the officer's conduct in light of the circumstances the officer faced at the scene. Subsequently, the court found that summary judgment based on qualified immunity was inappropriate.</p>\n",
+    "conclusion": "<p>No. In an opinion delivered by Justice Anthony M. Kennedy, the Court held that \"the ruling on qualified immunity requires an analysis not susceptible of fusion with the question whether unreasonable force was used in making the arrest.\" \"The approach the Court of Appeals adopted -- to deny summary judgment any time a material issue of fact remains on the excessive force claim -- could undermine the goal of qualified immunity to 'avoid excessive disruption of government and permit the resolution of many insubstantial claims on summary judgment,'\" wrote Justice Kennedy. The majority then concluded that the military policeman was entitled to qualified immunity.</p>\n"
+}

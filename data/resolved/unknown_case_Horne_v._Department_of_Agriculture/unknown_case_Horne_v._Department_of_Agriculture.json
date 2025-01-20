@@ -1,0 +1,42 @@
+{
+    "ID": 56145,
+    "name": "Horne v. Department of Agriculture",
+    "href": "https://api.oyez.org/cases/2014/14-275",
+    "view_count": 0,
+    "docket_number": "14-275",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1421388000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41749"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1429678800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41750"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1434949200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52765"
+        }
+    ],
+    "question": "<p>(1) Does the Takings Clause of the Fifth Amendment apply only to real property?</p>\n<p>(2) Can the government avoid the duty to pay just compensation for the physical taking of property by reserving the property owner a contingent interest in the value of the property?</p>\n<p>(3) Does a <em>per se</em> taking occur when the government mandates the relinquishment of specific, identifiable property as a condition of permission to engage in commerce?</p>\n",
+    "citation": {
+        "volume": "576",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20969"
+    },
+    "term": "2014",
+    "description": "A case in which the Court determined that the reserve requirement of the Department of Agriculture\u2019s Marketing Order constituted a <i>per se</i> taking and therefore required that the government provide just compensation.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/576/351/",
+    "facts_of_the_case": "<p>In 1949 the U.S. Department of Agriculture implemented the Marketing Order Regulating the Handling of Raisins Produced from Grapes Grown in California (Marketing Order). The Marketing Order authorized the federal government to reserve a percentage of the yearly California raisin crop to stabilize the supply, and thus the price, of California raisins. Under the Marketing Order, farmers are entitled to a share of the proceeds acquired when, or if, the government sells the reserved raisins. Marvin Horne, a farmer and raisin producer, attempted to skirt the Marketing Order by processing his own raisins, which he claimed exempted his raisins from the Marketing Order's reserve requirement. The Department of Agriculture claimed Horne's raisins were still subject to the Market Order, and following administrative proceedings, Horne was fined nearly $700,000.</p>\n<p>Horne sued the Department of Agriculture and claimed that the Marketing Order violated his Fifth Amendment rights against uncompensated takings. The district court found in favor of the Department of Agriculture. The U.S. Court of Appeals for the Ninth Circuit held that it lacked standing to address Horne's claim, because Fifth Amendment takings claims are within the jurisdiction of the Court of Federal Claims. The United States Supreme Court held that the appellate court did have jurisdiction and remanded the case. On remand, the appellate court found for the Department of Agriculture by holding that the reserve requirement did not act as a <em>per se</em> taking because Horne's raisins constituted personal property rather than real property. The appellate court also held that the Marketing Order did not constitute a taking because there was a sufficient nexus, and rough proportionality, between the reserve requirement and the specific interest the government seeks to protect, which in this case is the government's interest in stabilizing raisin prices.</p>\n",
+    "conclusion": "<p>No, no, yes. Chief Justice John G. Roberts, Jr. delivered the opinion for the 8-1 majority. The Court held that the Takings Clause of the Fifth Amendment applies with equal force to personal as well as real property; therefore the Marketing Order\u2019s reserve requirement constituted a taking under the Fifth Amendment because it deprives the owners of their property rights to \u201cpossess, use, and dispose of\u201d the raisins. Because a physical taking has occurred, returning the net proceeds of the sale of the raisins to the owners does not exempt the government from paying just compensation for the taking itself. The Court also held that making the reserve requirement a condition on legally participating in the raisin market effects a <em>per se</em> taking because it cannot be properly characterized as a voluntary exchange for a governmental benefit. Therefore, the government should pay a just compensation for the taking, which the government has already calculated in its attempt to fine the Hornes the fair market value of the raisins at issue, by rescinding the fine it had imposed.</p>\n<p>In his concurring opinion, Justice Thomas wrote that the Takings Clause only requires the government to pay just compensation when the taking results in a public legal right to the property. Because it is not clear that such a right is being granted when the government enforces the reserve requirement, there is no reason to calculate what such \u201cjust compensation\u201d would be in this case.</p>\n<p>Justice Stephen G. Breyer wrote an opinion concurring in part and dissenting in part in which he argued that the Court should remand the case to the appellate court to calculate what \u201cjust compensation\u201d should be in this case. If the Marketing Order is determined to afford just compensation, when taking into account the benefit to the market that the reserve requirement confers, then the reserve requirement does not violate the Takings Clause. Justices Ruth Bader Ginsburg and Elena Kagan joined in the partial concurrence and partial dissent.</p>\n<p>Justice Sonia Sotomayor wrote a dissent in which she argued that a <em>per se</em>\u00a0taking only occurs when the government deprives an individual of every property right regarding the property in question. Because the reserve requirement allows the owner to retain interest in the property in the form of the net proceeds from the disposition of the raisins, the Marketing Order does not deprive the individual of all property rights and therefore is not a <em>per se</em> taking. Justice Sotomayor also argued that precedent establishes that the government may require an individual to give up some property rights as a condition of engaging in regulated commerce.</p>\n"
+}

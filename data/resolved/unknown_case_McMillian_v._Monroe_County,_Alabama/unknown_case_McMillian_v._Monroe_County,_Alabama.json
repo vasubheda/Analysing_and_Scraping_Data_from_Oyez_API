@@ -1,0 +1,35 @@
+{
+    "ID": 54539,
+    "name": "McMillian v. Monroe County, Alabama",
+    "href": "https://api.oyez.org/cases/1996/96-542",
+    "view_count": 0,
+    "docket_number": "96-542",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                858664800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37871"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                865227600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37872"
+        }
+    ],
+    "question": "<p>Is a county liable for constitutional violations committed by the county sheriff in matters of law enforcement?</p>\n",
+    "citation": {
+        "volume": "520",
+        "page": "781",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18468"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/520/781/",
+    "facts_of_the_case": "<p>A Monroe County court sentenced Walter McMillian to death for murder. Later evidence, suppressed by Monroe County Sheriff Tom Tate, exonerated McMillian after six years on Alabama's death row. McMillian sued Monroe County, claiming that Tate's actions were unconstitutional. McMillian argued that under 42 U.S.C. Section 1983, a county is liable for the actions of its sheriffs that constitute county policy. A District Court decided that Monroe County was not liable for Tate's actions because the county had no authority over law enforcement.</p>\n<p>McMillian appealed, claiming that since the county employed Tate, the county should be liable for Tate. The U.S. Court of Appeals for the Eleventh Circuit ruled in favor of Monroe County. The Eleventh Circuit held that though Tate was employed by Monroe County, he acted under the authority of the state.</p>\n",
+    "conclusion": "<p>No. In a 5-4 decision, the Supreme Court affirmed the lower courts. The opinion by Chief Justice William Rehnquist held that because the county had no authority to make law enforcement policy, Sheriff Tate as a policymaker represented the state rather than the county. According to the Alabama Constitution and the Alabama Code, the Court held, Alabama sheriffs \"act for the State when exercising their law enforcement functions.\"</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 62986,
+    "name": "Frank v. Gaos",
+    "href": "https://api.oyez.org/cases/2018/17-961",
+    "view_count": 0,
+    "docket_number": "17-961",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1525064400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54257"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1540962000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54346"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1553058000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54477"
+        }
+    ],
+    "question": "<p>Does a <em>cy pres</em> award of class action proceeds that provides no direct relief to class members support class certification and comport with the requirement that a settlement binding class members must be \u201cfair, reasonable, and adequate,\u201d and if so, in what circumstances?</p>\n",
+    "citation": {
+        "volume": "586",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27587"
+    },
+    "term": "2018",
+    "description": "A case in which the Court was asked to decide whether, or in what circumstances, a cy pres award of class action proceeds that provides no direct relief to class members supports class certification and comports with the requirement that a settlement binding class members must be \u201cfair, reasonable, and adequate.\u201d",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/586/17-961/",
+    "facts_of_the_case": "<p>In a group of consolidated class actions, three plaintiffs sued Google on behalf of internet users who claimed that their privacy was violated under the Stored Communications Act, 18 U.S.C. \u00a7 2701, et. seq., and California law by the company\u2019s disclosure of their internet search terms to third party websites. The case went to mediation, and the parties reached a settlement which they submitted to the district court for approval in July 2013.\u00a0</p>\n<p>Among the terms of the settlement were that Google would pay $5.3 million of the $8.3 million total to six cy pres recipients, provided that they agreed to dedicate the funds to promoting education and initiatives relating to internet privacy. The district court certified the class for settlement purposes, and preliminarily approved the settlement. Notice was sent out to the class in 2014, with 13 class members opting out and 5, including Thomas Frank, filing objections (\u201cthe Objectors\u201d).\u00a0</p>\n<p>The district court approved the parties\u2019 settlement in 2015, and with regard to the objections, found that: (1) the cy pres award was appropriate because the award was non-distributable, (2) Rule 23(b)(3)\u2019s superiority requirement was not affected by whether the award was cy pres, (3) there was a substantial nexus between the cy pres recipients and the interests of the class members, and there was no evidence that the parties\u2019 preexisting relationships with the recipients influenced the selection process, and (4) the amount of attorney fees was commensurate with the benefit to the class.</p>\n<p>The Ninth Circuit approved the district court\u2019s ruling approving the settlement, holding that the district court had not abused its discretion with regard to any of the four findings described above.\u00a0</p>\n",
+    "conclusion": "<p>Rather than answer the question presented, the Court issued a per curiam (unsigned) opinion vacating the judgment of the Ninth Circuit and remanding the case for further proceedings. The Court noted that there remain \"substantial questions\" about whether any of the named plaintiffs has standing to sue, in light of its decision in <a href=\"https://www.oyez.org/cases/2015/13-1339\"><em>Spokeo, Inc. v. Robins</em>, 578 U.S. __ (2016)</a>.</p>\n"
+}

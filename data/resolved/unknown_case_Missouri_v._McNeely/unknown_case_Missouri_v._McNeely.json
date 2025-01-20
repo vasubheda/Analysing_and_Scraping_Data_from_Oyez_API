@@ -1,0 +1,42 @@
+{
+    "ID": 55940,
+    "name": "Missouri v. McNeely",
+    "href": "https://api.oyez.org/cases/2012/11-1425",
+    "view_count": 0,
+    "docket_number": "11-1425",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1348549200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41181"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1357711200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41182"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1366174800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41183"
+        }
+    ],
+    "question": "<p>Does the Fourth Amendment prevent the taking of a warrantless blood sample under exigent circumstances?</p>\n",
+    "citation": {
+        "volume": "569",
+        "page": "141",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19862"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that the Fourth Amendment protects against the warrantless taking of a blood sample under exigent circumstances.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/569/141/",
+    "facts_of_the_case": "<p>On October 3, 2010, Missouri state police officer Mark Winder saw Tyler McNeely driving above the speed limit. When Winder followed McNeely to pull him over, he saw McNeely cross the center line three times. Upon making contact with McNeely, Wilder observed that his eyes were red and glassy, and that his breath smelled like alcohol. McNeely performed poorly on four field sobriety tests and refused to submit to a portable breath test. Wilder arrested McNeely for driving while intoxicated and transported him to a hospital to obtain a blood sample. Wilder read McNeely the Missouri Implied Consent statement, and McNeely still refused to submit the sample. Wilder ordered the sample taken anyway, and the blood test revealed McNeely's blood alcohol level was far above the legal limit.</p>\n<p>The state charged McNeely with driving while intoxicated, and McNeely moved to suppress the evidence of the blood sample because it was obtained without a warrant. The trial court granted the defendant's motion. The state appealed and argued that the risk of McNeely's blood alcohol level decreasing over time represented an exigent circumstance requiring a blood draw. The Missouri Court of Appeals held that the trial court erred, but that the case represented a departure from current case law; it transferred the case to the Missouri Supreme Court. The Supreme Court of Missouri affirmed the trial court's decision.</p>\n",
+    "conclusion": "<p>Yes. Justice Sonia Sotomayor delivered the opinion of the 5-4 plurality. The Supreme Court held that the Fourth Amendment\u2019s protection against warrantless searches applies to blood alcohol tests unless specific exigent circumstances exist. Because each case must be considered based on its individual facts, there are cases in which the natural dissipation of alcohol in the blood would be considered an exigent circumstance, but there is no reason to create a categorical rule. The Court also held that the Fourth Amendment\u2019s protection against bodily intrusions outweighs the state\u2019s interest in gaining evidence quickly.</p>\n<p>In his partial concurrence, Justice Anthony M. Kennedy wrote that the case in question does not provide the basis for any categorical rule on the issue of conducting a blood alcohol test without a warrant. He also wrote that the Fourth Amendment does not allow the warrant requirement to be entirely ignored in drunk driving arrests. Chief Justice John G. Roberts, Jr. wrote an opinion concurring in part and dissenting in part in which he argued that there must be a categorical rule on this issue to provide appropriate guidance to law enforcement officials. He argued that exigent circumstances exist and justify a warrantless blood test if the officer believes there is not sufficient time to obtain a warrant before critical evidence is lost through natural metabolic processes. If there is time to secure a warrant, the officer must do so. Justice Stephen G. Breyer and Justice Samuel A. Alito, Jr. joined in the partial concurrence and partial dissent.</p>\n<p>Justice Clarence Thomas wrote a dissenting opinion in which he argued that the body\u2019s natural metabolization of alcohol constitutes the destruction of evidence and represents an exigent circumstance. The importance of obtaining evidence allows the police to conduct a warrantless blood alcohol test without violating the Fourth Amendment.</p>\n<p><em>Learn more about the Roberts Court and the Fourth Amendment in <a href=\"http://projects.oyez.org/shifting-scales/\">Shifting Scales</a>, a nonpartisan Oyez resource.</em></p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 62831,
+    "name": "Ayestas v. Davis",
+    "href": "https://api.oyez.org/cases/2017/16-6795",
+    "view_count": 0,
+    "docket_number": "16-6795",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1491195600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54012"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1509339600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54108"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1521608400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54243"
+        }
+    ],
+    "question": "<p>Are investigative services under 18 U.S.C. \u00a7 3599(f) only \u201creasonably necessary\u201d when the habeas petitioner requesting the services can meet the burden of proof for the underlying claim for habeas relief at the time of the request for the investigative services?</p>\n",
+    "citation": {
+        "volume": "584",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27515"
+    },
+    "term": "2017",
+    "description": "A case in which the Court decided that the district court's denial of petitioner's request for \"reasonably necessary\" investigative and related services under 18 U.S.C. \u00a7 3599(f) to prove that he was entitled to federal habeas relief was a judicial decision subject to appellate review under the standard jurisdictional provisions; and that the U.S. Court of Appeals for the 5th Circuit applied the wrong legal standard in affirming the district court's denial of petitioner's \u00a7 3599(f) request.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/584/16-6795/",
+    "facts_of_the_case": "<p dir=\"ltr\">In July 1997, Carlos Manuel Ayestas, a Honduran national, was convicted and sentenced to death for the murder of Santiaga Paneque at her home in Houston, Texas. Ayestas appealed his conviction and filed for state habeas relief based on a claim of ineffective assistance of counsel; he argued that his trial counsel failed to secure the testimony of family members who could have presented mitigating evidence. The state habeas court found that Ayestas\u2019 trial attorney was not ineffective and denied his application for habeas relief. The Texas Court of Criminal Appeals adopted the findings of the state habeas court and denied relief as well. </p>\n<p>In 2009, Ayestas, with a new attorney, filed a federal habeas petition and claimed that his trial counsel had been ineffective because he had failed to conduct a reasonable investigation that would have uncovered \u201cavailable and abundant\u201d mitigating factors. However, the district court found that his claim was procedurally defaulted because it had not been raised in the state habeas proceeding and denied relief. The US Court of Appeals for the Fifth Circuit affirmed. The US Supreme Court subsequently decided <em>Martinez v. Ryan</em>, which held that ineffectiveness of state habeas counsel in failing to bring an ineffective assistance of trial counsel claim may excuse a procedural default. The Supreme Court later extended the holding of <em>Martinez</em> to Texas\u2019 habeas scheme in <em>Trevino v. Thaler</em>. In light of these decisions, Ayestas asked for a rehearing. On rehearing in the district court, Ayestas filed a motion for investigative assistance that was \u201creasonably necessary\u201d to develop his broader ineffective assistance of counsel claim under 18 U.S.C. \u00a7 3599(f). The district court denied the motion based on Fifth Circuit precedent that holds that investigative assistance is not \u201creasonably necessary\u201d unless the habeas petitioner can carry the ultimate burden of proof on the underlying claim at the time of the request for investigative assistance. The district court determined that Ayestas could not meet his burden of proof on the ineffective assistance of counsel claim and therefore denied the motion. The appellate court affirmed.</p>\n",
+    "conclusion": "<p>In a unanimous opinion authored by Justice Alito, after explaining that it had jurisdiction to hear the appeal because it related to a judicial rather than an administrative decision, the Court held that the Fifth Circuit applied the wrong legal standard in affirming the denial of Ayestas' claim for the investigative funding needed to prove his entitlement to federal habeas relief under 18 USC \u00a7 3599(f). Analyzing the statutory language, the Court concluded that it called for district courts to exercise their discretion in determining whether a reasonable attorney would deem the services sought by the funding to be sufficiently important to the case in order to meet the \"reasonably necessary\" requirement. The Fifth Circuit's \"substantial need\" standard was more stringent, and therefore improper.\u00a0</p>\n<p>The Court explained that the Fifth Circuit also erred in requiring Ayestas to present \"a viable constitutional claim that [was] not procedurally barred,\" as this rule had become too restrictive in light of <em>Trevino</em>, and lower courts could potentially err in denying funding requests in cases where such funding could allow a petitioner to overcome a procedural default. On the other hand, the Court also explained that district courts had broad discretion in ruling on \u00a7 3599(f) funding requests, and while a funding applicant need not prove that they will win their case due to the funding services, the courts must evaluate the likelihood of success as part of the\u00a0\"reasonably necessary\" test.\u00a0</p>\n<p>The Court remanded to the Fifth Circuit the state's alternative argument that \u00a7 3599(f) funding is never \"reasonably necessary\" when a petitioner for habeas relief seeks to bring a procedurally defaulted ineffective assistance of trial counsel claim based on facts outside the state court record.</p>\n<p>Justice Sotomayor wrote a concurring opinion, in which Justice Ginsburg joined.</p>\n"
+}

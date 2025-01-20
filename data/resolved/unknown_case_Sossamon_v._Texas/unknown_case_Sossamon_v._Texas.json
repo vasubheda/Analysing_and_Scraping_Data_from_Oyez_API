@@ -1,0 +1,42 @@
+{
+    "ID": 55806,
+    "name": "Sossamon v. Texas",
+    "href": "https://api.oyez.org/cases/2010/08-1438",
+    "view_count": 0,
+    "docket_number": "08-1438",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1274677200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40801"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1288674000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40802"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1303275600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40803"
+        }
+    ],
+    "question": "<p>Under the RLUIPA, can a person sue a state official in his official capacity for damages?</p>\n",
+    "citation": {
+        "volume": "563",
+        "page": "277",
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19728"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that a person may not sue a state official in his individual capacity for damages under the Religious Land Use and Institutional Persons Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/563/277/",
+    "facts_of_the_case": "<p>Harvey Sossamon, a Texas inmate, sued the state of Texas and various state officials in their official and individual capacities in a Texas federal district court. In part, he argued that he was denied access to the prison's chapel and religious services in violation of the Religious Land Use and Institutionalized Persons Act (\"RLUIPA\"). The district court dismissed the claim.</p>\n<p>On appeal, the U.S. Court of Appeals for the Fifth Circuit held that Mr. Sossamon could not sue Texas officials in their individual capacities under the RLUIPA. The court reasoned that because the Act was passed pursuant to Congress' Spending Power and not its Fourteenth Amendment Power, it did not create a cause of action for damages against state officials sued in their individual capacities. As to official-capacity lawsuits, the Fifth Circuit held that regardless of whether RLUIPA creates such a cause of action, it is barred by Texas's sovereign immunity.</p>\n",
+    "conclusion": "<p>No. The Supreme Court affirmed the lower court order in an opinion by Justice Clarence Thomas. \"States, in accepting federal funding, do not consent to waive their sovereign immunity to private suits for money damages under RLUIPA,\" Thomas wrote for the 6-2 majority. Justice Sonia Sotomayor filed a dissenting opinion joined by Justice Stephen J. Breyer. \"Our precedents make clear that the phrase 'appropriate relief' includes monetary relief,\" she argued. \"By adopting a contrary reading of the term, the majority severely undermines the 'broad protection of religious exercise' Congress intended the statute to provide.\" Justice Elena Kagan took no part in consideration of the case.</p>\n"
+}

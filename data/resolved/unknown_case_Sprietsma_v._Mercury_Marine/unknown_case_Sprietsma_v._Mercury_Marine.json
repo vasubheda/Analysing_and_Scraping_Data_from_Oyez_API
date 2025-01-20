@@ -1,0 +1,35 @@
+{
+    "ID": 55096,
+    "name": "Sprietsma v. Mercury Marine",
+    "href": "https://api.oyez.org/cases/2002/01-706",
+    "view_count": 0,
+    "docket_number": "01-706",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1034658000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38910"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1038895200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38911"
+        }
+    ],
+    "question": "<p>Does the Federal Boat Safety Act of 1971 preempt state common-law claims related to propeller safety?</p>\n",
+    "citation": {
+        "volume": "537",
+        "page": "51",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/19025"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/537/51/",
+    "facts_of_the_case": "<p>Rex Sprietsma's wife was killed in a boating accident when she was struck by the propeller of a motor made by Mercury Marine. Sprietsma sued Mercury Marine under Illinois common law, alleging that his wife's injuries were caused by an unreasonably dangerous motor. The trial court, the intermediate court, and the Illinois Supreme Court all dismissed the complaint, finding the Federal Boat Safety Act of 1971 (FBSA) preempted such state common-law claims.</p>\n",
+    "conclusion": "<p>No. In an opinion delivered by Justice John Paul Stevens, the Court held 8-0 that neither the text nor the intent of the FBSA preempts Sprietsma's common law claims, either explicitly or implicitly. Justice Stevens wrote, \"Absent a contrary decision by the Coast Guard\" - the agency in charge of propeller-safety regulations - \"the concern with uniformity does not justify the displacement of state common-law remedies that compensate accident victims...\"</p>\n"
+}

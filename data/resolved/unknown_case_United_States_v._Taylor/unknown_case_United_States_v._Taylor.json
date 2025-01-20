@@ -1,0 +1,42 @@
+{
+    "ID": 63383,
+    "name": "United States v. Taylor",
+    "href": "https://api.oyez.org/cases/2021/20-1459",
+    "view_count": 0,
+    "docket_number": "20-1459",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1625202000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54944"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1638856800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54978"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1655787600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55121"
+        }
+    ],
+    "question": "<p>Does the definition of \u201ccrime of violence\u201d in 18 U.S.C. \u00a7 924(c)(3)(A) exclude attempted Hobbs Act robbery, which may be completed through an attempted threat alone?</p>\n",
+    "citation": {
+        "volume": "596",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27835"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held that 18 U.S.C. \u00a7 924(c)(3)(A)\u2019s definition of \u201ccrime of violence\u201d excludes attempted Hobbs Act robbery, which may be completed through an attempted threat alone.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/596/20-1459/",
+    "facts_of_the_case": "<p>Justin Eugene Taylor and a co-conspirator intended to rob a drug dealer, who ended up being shot during the transaction. The Government\u2019s indictment charged Taylor on seven counts, including conspiracy to commit Hobbs Act robbery in violation of 18 U.S.C. \u00a7 1951, attempted Hobbs Act robbery in violation of 18 U.S.C. \u00a7 1951, and use of a firearm in furtherance of a \u201ccrime of violence\u201d in violation of 18 U.S.C. \u00a7 924(c).</p>\n<p>The indictment also alleged two predicate crimes of violence: the conspiracy to commit Hobbs Act robbery and the attempted Hobbs Act robbery. Taylor pled guilty to conspiracy to commit Hobbs Act robbery and use of a firearm in furtherance of a \u201ccrime of violence,\u201d and the Government agreed to dismiss the remaining charges. Taylor was convicted of using a firearm in furtherance of a \u201ccrime of violence\u201d in violation of 18 U.S.C. \u00a7 924(c).</p>\n<p>On habeas review, Taylor asked the court to vacate his conviction and remand for resentencing based on the argument that the two predicate offenses are not \u201ccrimes of violence\u201d under \u00a7 924(c). The U.S. Court of Appeals for the Fourth Circuit vacated Taylor\u2019s \u00a7 924(c) conviction, finding that because the elements of attempted Hobbs Act robbery do not invariably require \u201cthe use, attempted use, or threatened use of physical force,\u201d the offense does not qualify as a \u201ccrime of violence\u201d under \u00a7 924(c).</p>\n",
+    "conclusion": "<p>Attempted Hobbs Act robbery does not qualify as a \u201ccrime of violence\u201d under \u00a7 924(c)(3)(A) because no element of the offense requires proof that the defendant used, attempted to use, or threatened to use force. Justice Neil Gorsuch authored the 7-2 majority opinion.</p>\n<p>To convict a defendant of attempted Hobbs Act robbery, the prosecution must prove that the defendant intended to complete the\u00a0offense and that the defendant completed a \u201csubstantial step\u201d toward\u00a0that end. Neither element requires proof that the defendant used, attempted to use, or threatened to use force (even though, in many cases, force is present). As such, attempted Hobbs Act robbery cannot constitute a \u201ccrime of violence\u201d under \u00a7 924(c)(3)(A).</p>\n<p>Justice Clarence Thomas dissented, arguing that under the facts of this case, Taylor did in fact threaten violence, so his attempted Hobbs Act robbery was a \u201ccrime of violence\u201d even if that incomplete crime might not be a crime of violence in some other hypothetical situation.</p>\n<p>Justice Samuel Alito also dissented, rejecting the majority\u2019s categorical approach as disregarding the real world.</p>\n"
+}

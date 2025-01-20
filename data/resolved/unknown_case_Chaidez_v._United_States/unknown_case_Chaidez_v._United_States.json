@@ -1,0 +1,42 @@
+{
+    "ID": 55934,
+    "name": "Chaidez v. United States",
+    "href": "https://api.oyez.org/cases/2012/11-820",
+    "view_count": 0,
+    "docket_number": "11-820",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1335762000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41164"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1351746000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41165"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1361340000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41166"
+        }
+    ],
+    "question": "<p>Does the <em>Padilla</em> rule on ineffective assistance of counsel apply to persons whose convictions became final before its announcement?</p>\n",
+    "citation": {
+        "volume": "568",
+        "page": "342",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19856"
+    },
+    "term": "2012",
+    "description": "A case in which the Court found that the Padilla rule created an entirely new rule regarding ineffective assistance of counsel and therefore did not apply to persons whose conviction became final before its announcement. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/568/342/",
+    "facts_of_the_case": "<p>Roselva Chaidez came to the United States from Mexico in 1971; she became a lawful permanent resident in 1977. In 2003, she was indicted in the U.S. District Court for the Northern District of Illinois on three counts of mail fraud in connection with an insurance scheme. On the advice of her attorney, Chaidez pleaded guilty and received a sentence of four years of probation. The U.S. government initiated removal proceedings in 2009 under a federal law that allows deportation of any alien who commits an aggravated felony. Chaidez's attorney never told her that pleading guilty could lead to her deportation.</p>\n<p>Chaidez filed for a writ of coram nobis, arguing ineffective assistance of counsel. While this motion was pending before the district court, the U.S. Supreme Court issued its decision in <em>Padilla v. Kentucky</em>, holding that it is ineffective assistance of counsel when an attorney fails to advise a client that he or she may face deportation as a result of pleading guilty. The district court concluded that <em>Padilla</em> did not announce a new rule, so its holding applied to Chaidez's case. The U.S. Court of Appeals for the Seventh Circuit reversed, holding that <em>Padilla</em> does announce a new rule and is not retroactively applicable in this case.</p>\n",
+    "conclusion": "<p>No. Justice Elena Kagan delivered the opinion for the 7-2 majority. The Supreme Court held that the <em>Padilla</em> ruling created an entirely new rule relating to whether advice about deportation fell under the scope of the Sixth Amendment right to counsel. Because the Court considered this rule separately from previous cases, it was considered a new rule and therefore could not retroactively apply to already decided cases.</p>\n<p>Justice Clarence Thomas wrote an opinion concurring in the judgment only arguing that the Sixth Amendment provides for adequate assistance of counsel in the charged offense and does not extend to advice regarding possible consequences, such as deportation. He dissented in the <em>Padilla</em> case and therefore concurred only in the judgment in this case.</p>\n<p>Justice Sonia Sotomayor wrote a dissenting opinion in which she argued that the decision in Padilla did not create a new rule but only extended previous analysis of Sixth Amendment rights to a new set of facts. Because the <em>Padilla</em> decision only clarified an attorney's responsibility to a client and did not create any new distinctions, the ruling should apply retroactively to previously decided cases. Justice Ruth Bader Ginsburg joined in the dissent.</p>\n"
+}

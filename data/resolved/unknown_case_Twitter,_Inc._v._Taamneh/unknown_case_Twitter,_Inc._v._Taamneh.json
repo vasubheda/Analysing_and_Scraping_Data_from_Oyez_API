@@ -1,0 +1,42 @@
+{
+    "ID": 63510,
+    "name": "Twitter, Inc. v. Taamneh",
+    "href": "https://api.oyez.org/cases/2022/21-1496",
+    "view_count": 0,
+    "docket_number": "21-1496",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1664773200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55154"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1677045600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55217"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1684386000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55276"
+        }
+    ],
+    "question": "<p>1. Does an internet platform \u201cknowingly\u201d provide substantial assistance under 18 U.S.C. \u00a7 2333 merely because it allegedly could have taken more \u201cmeaningful\u201d or \u201caggressive\u201d action to prevent such use?</p>\n<p>2. May an internet platform whose services were not used in connection with the specific \u201cact of international terrorism\u201d that injured the plaintiff still be liable for aiding and abetting under Section 2333?</p>\n",
+    "citation": {
+        "volume": "598",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27913"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held an internet platform does not \u201cknowingly\u201d provide substantial assistance under 18 U.S.C. \u00a7 2333 merely because it allegedly could have taken more \u201cmeaningful\u201d or \u201caggressive\u201d action to prevent such use, and that an internet platform whose services were not used in connection with the specific \u201cact of international terrorism\u201d that injured the plaintiff cannot be liable for aiding and abetting under Section 2333.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/598/21-1496/",
+    "facts_of_the_case": "<p>This case arises from the same set of facts as Gonzalez v. Google.</p>\n<p>Nohemi Gonzalez, a U.S. citizen, was killed by a terrorist attack in Paris, France, in 2015\u2014one of several terrorist attacks that same day. The day afterwards, the foreign terrorist organization ISIS claimed responsibility by issuing a written statement and releasing a YouTube video. Gonzalez\u2019s father filed an action against Google, Twitter, and Facebook, claiming, among other things, all three platforms were liable for aiding and abetting international terrorism by failing to take meaningful or aggressive action to prevent terrorists from using its services, even though they did not play an active role in the specific act of international terrorism that actually injured Gonzalez.</p>\n<p>The district court dismissed the claims based on aiding-and-abetting liability under the Anti-Terrorism Act, and the U.S. Court of Appeals for the Ninth Circuit reversed.</p>\n",
+    "conclusion": "<p>Twitter did not \u201cknowingly\u201d provide substantial assistance under 18 U.S.C. \u00a7 2333, and thus cannot be said to have aided and abetted ISIS in its terrorist attack on a nightclub in Istanbul, Turkey. Justice Clarence Thomas authored the unanimous opinion of the Court.</p>\n<p>Section 2333 establishes liability for anyone \u201cwho aids and abets, by knowingly providing substantial assistance, or who conspires with the person who committed such an act of international terrorism.\u201d To \u201caid and abet\u201d requires three elements: (1) the party whom the defendant aids must perform a wrongful act that causes an injury, (2) the defendant must be generally aware of his role as part of an illegal activity at the time he provides assistance, and (3) the defendant must knowingly and substantially assist the principal violation.\u201d</p>\n<p>The plaintiffs (respondents) in this case satisfied the first two elements by alleging both that ISIS committed a wrong and that the defendants knew they were playing some sort of role in ISIS\u2019s enterprise. They failed to show, however, that the defendants gave such knowing and substantial assistance to ISIS that they culpably participated in the Reina attack.\u00a0</p>\n<p>Courts use six flexible factors to assess the third element, whether a defendant knowingly and substantially assisted the principal violation: (1) \u201cthe nature of the act assisted,\u201d (2) the \u201camount of assistance\u201d provided, (3) whether the defendant was \u201cpresent at the time\u201d of the principal tort, (4) the defendant\u2019s \u201crelation to the tortious actor,\u201d (5) the \u201cdefendant\u2019s state of mind,\u201d and (6) the \u201cduration of the assistance\u201d given.</p>\n<p>Applying these factors, the Court found that the plaintiffs failed to allege that Twitter did more than transmit information by billions of people\u2014most of whom use the platform for interactions that once took place via mail, on the phone, or in public areas. Without more, their claim that Twitter aided and abetted ISIS in its terrorist attack on a nightclub in Istanbul must fail.</p>\n<p>Justice Ketanji Brown Jackson authored a concurring opinion to point out the narrowness of the decision due to the stage of litigation (the motion to dismiss stage).</p>\n"
+}

@@ -1,0 +1,26 @@
+{
+    "ID": 63735,
+    "name": "Rivers v. Lumpkin",
+    "href": "https://api.oyez.org/cases/2024/23-1345",
+    "view_count": 0,
+    "docket_number": "23-1345",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1733464800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55575"
+        }
+    ],
+    "question": "<p>Does 28 U.S.C. \u00a7 2244(b)(2) apply to all second habeas petitions, or only specific types of second petitions?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28056"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether 28 U.S.C. \u00a7 2244(b)(2)\u2014which strictly limits the circumstances in which an inmate can file a second petition for federal post-conviction relief\u2014applies to all second habeas petitions (petitions filed after the first one) or only to specific types of second petitions.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-1345/"
+}

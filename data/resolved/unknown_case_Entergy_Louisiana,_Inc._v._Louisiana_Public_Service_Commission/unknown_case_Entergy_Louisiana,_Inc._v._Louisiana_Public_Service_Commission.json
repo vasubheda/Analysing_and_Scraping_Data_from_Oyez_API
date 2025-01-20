@@ -1,0 +1,35 @@
+{
+    "ID": 55032,
+    "name": "Entergy Louisiana, Inc. v. Louisiana Public Service Commission",
+    "href": "https://api.oyez.org/cases/2002/02-299",
+    "view_count": 0,
+    "docket_number": "02-299",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1051506000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52560"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1054530000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52561"
+        }
+    ],
+    "question": "<p>Does a Federal Energy Regulatory Commission approved tariff that delegates discretion to the regulated entity to determine the precise cost allocation similarly preempt a state order that adjudges those costs imprudent?</p>\n",
+    "citation": {
+        "volume": "539",
+        "page": "39",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/20509"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/539/39/",
+    "facts_of_the_case": "<p>\u00a0</p>\n<p>Several Louisiana cotton gins sued Entergy, an electric utility company, because it had over-billed them for electricity between 1988 and 1994. The gins claimed that Entergy had failed to notify them of a lower rate that would have saved them more than $2 million over the six-year period. Louisiana law requires that utility companies notify customers when they are eligible for a lower rate. Furthermore, the gins claimed that Entergy had discriminated against them by notifying several other gins in the state of the lower rate. Deferring to the decision of the Louisiana Public Service Commission, the state's utility regulatory agency, a state district court ruled against Entergy. The Supreme Court of Louisiana affirmed the decision on appeal.</p>\n<p>\u00a0</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion delivered by Justice Clarence Thomas, the Court held that the LPSC's order was preempted by the filed rate doctrine articulated in Nantahala Power &amp; Light Co. v. Thornburg, 476 U.S. 953, and Mississippi Power &amp; Light Co. v. Mississippi ex rel. Moore, 487 U.S. 354. Applying Nantahala and MP&amp;L;, the Court reasoned that the LPSC's order impermissibly \"traps\" costs that have been allocated in a FERC tariff. The Court noted that it did not matter whether the FERC has spoken to the precise classification of ERS units, but only whether the FERC tariff dictates how and by whom that classification should be made. \"The amended system agreement clearly does so, and therefore the LPSC's second-guessing of the classification of ERS units is pre-empted,\" wrote Justice Thomas.</p>\n"
+}

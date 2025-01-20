@@ -1,0 +1,42 @@
+{
+    "ID": 62806,
+    "name": "Davila v. Davis",
+    "href": "https://api.oyez.org/cases/2016/16-6219",
+    "view_count": 0,
+    "docket_number": "16-6219",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1484287200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53963"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1493010000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54029"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1498453200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54080"
+        }
+    ],
+    "question": "<p>Should the Supreme Court\u2019s precedent that ineffective state habeas counsel can overcome the procedural default of an ineffective assistance of trial claim also apply to the procedural default of claims of ineffective assistance of appellate counsel?</p>\n",
+    "citation": {
+        "volume": "582",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27500"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that ineffective assistance of appellate counsel does not overcome the procedural default of ineffective assistance of counsel claims.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/582/16-6219/",
+    "facts_of_the_case": "<p>In February 2009, Erick Daniel Davila was found guilty of capital murder for the killings of Annette Stevenson and her granddaughter, Queshawn Stevenson. The jury sentenced Davila to death. After the Texas Court of Criminal Appeals affirmed his conviction on direct appeal and the U.S. Supreme Court denied his petition for a writ of certiorari, Davila pursued habeas relief in the state courts, which was denied at the trial and appellate levels. Davila then sought federal habeas relief and claimed, among other things, that he received ineffective assistance of trial, appellate, and state habeas counsel. Because Davila did not raise the ineffective assistance of appellate counsel claim in the state habeas proceedings, the federal district court held that the claim was procedurally defaulted and denied habeas relief. Davila appealed and argued that Supreme Court precedent that ineffective state habeas counsel can overcome the procedural default of an ineffective assistance of trial claim should also apply to the procedural default of claims of ineffective assistance of appellate counsel. The U.S. Court of Appeals for the Fifth Circuit affirmed the district court\u2019s denial of relief.</p>\n",
+    "conclusion": "<p dir=\"ltr\">Ineffective assistance of appellate counsel does not overcome the procedural default of ineffective assistance of counsel claims. Justice Clarence Thomas delivered the opinion for the 5-4 majority. The Court held that, as a general rule, a federal court may not review claims that were procedurally defaulted in state court because they were decided on adequate and independent state procedural rule. A state prisoner may only overcome this bar by showing that there was cause to excuse his failure to comply and actual prejudice from the underlying constitutional violation. While there was an exception for when a state required defendants to raise an ineffective assistance of trial counsel claim in a state post-conviction proceeding and the defendant failed to do so because of ineffective assistance of counsel, this exception was a narrow one. The Court had previously held that this exception applied only when the state prohibited defendants from bringing such claims on direct appeal. The exception was chiefly concerned with ensuring review of a claim of ineffective assistance of trial counsel, because of the crucial role that the criminal trial played in the justice system. Because this case dealt with appellate counsel, it did not raise the same serious concerns, and therefore the exception should not apply. Additionally, while the exception did not create systemic costs, the proposed rule in this case would do so without actually adding protections for defendants.</p>\n<p>\u00a0</p>\n<p dir=\"ltr\">In his dissent, Justice Stephen G. Breyer wrote that the reasons underlying the exception for procedurally defaulted ineffective assistance of trial counsel claims applied to procedurally defaulted ineffective assistance of appellate counsel claims. The exception reflected the understanding that a defendant could not raise a claim of ineffective assistance of trial counsel until his first opportunity to do so outside of the trial. Similarly, a defendant could not raise a claim of ineffective assistance of appellate counsel until the first opportunity to do so outside of that appellate proceeding. Because the same underlying due process concerns regarding effective assistance of counsel applied at the appellate level and there was no indication that expanding the exception in this way would lead to an increase in systemic costs, the procedural default exception should apply to claims of ineffective assistance of appellate counsel. Justice Ruth Bader Ginsburg, Justice Sonia Sotomayor, and Justice Elena Kagan joined in the dissent. </p>\n"
+}

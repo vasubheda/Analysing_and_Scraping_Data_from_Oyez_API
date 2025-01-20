@@ -1,0 +1,26 @@
+{
+    "ID": 63737,
+    "name": "Diamond Alternative Energy LLC v. Environmental Protection Agency",
+    "href": "https://api.oyez.org/cases/2024/24-7",
+    "view_count": 0,
+    "docket_number": "24-7",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1734069600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55577"
+        }
+    ],
+    "question": "<p>May a party establish the redressability component of Article III standing by pointing to the coercive and predictable effects of regulation on third parties?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28058"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether a party may establish the redressability component of Article III standing by pointing to the coercive and predictable effects of regulation on third parties.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/24-7/"
+}

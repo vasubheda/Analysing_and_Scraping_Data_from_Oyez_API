@@ -1,0 +1,42 @@
+{
+    "ID": 55920,
+    "name": "Peugh v. United States",
+    "href": "https://api.oyez.org/cases/2012/12-62",
+    "view_count": 0,
+    "docket_number": "12-62",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1352440800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41123"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1361858400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41124"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1370840400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41125"
+        }
+    ],
+    "question": "<p>Does the use of the U.S. Sentencing Guidelines in effect at the time of sentencing rather than those in effect at the time of the offense violate the Ex Post Facto Clause if there is significant risk that the newer Guidelines would result in a longer sentence?</p>\n",
+    "citation": {
+        "volume": "569",
+        "page": "530",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19842"
+    },
+    "term": "2012",
+    "description": "A case in which the Court found that using the U.S. Sentencing Guidelines at the time of the sentencing for a crime rather than at the time of the offense is a violation of the ex post facto clause. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/569/530/",
+    "facts_of_the_case": "<p>In 1996, Marvin Peugh and Steven Hollewell formed two companies: the Grainary, Inc., which bought, stored and sold grain; and Agri-Tech, Inc., which provided custom farming services to landowners and tenants. From January 1999 to August 2000, the two obtained bank loans by falsely representing future contracts and inflating the bank accounts by writing bad checks between the two accounts. Peugh pleaded not guilty to all counts, while Hollewell pleaded guilty to one count and agreed to testify against Peugh in exchange for the other charges being dropped. After a jury trial, Peugh was convicted on five counts of bank fraud. At sentencing, Peugh argued that he should be sentenced under the 1999 U.S. Sentencing Guidelines that were in effect at the time of the offense, rather than the 2009 Guidelines that were in effect at the time of sentencing. He argued that use of the later Guidelines violated the Ex Post Facto Clause. He was sentenced to 70 months in prison, and he and Hollewell were jointly ordered to pay nearly $2 million. The U.S. Court of Appeals for the Seventh Circuit affirmed.</p>\n",
+    "conclusion": "<p>Yes. Justice Sonia Sotomayor delievered the opinion for the 5-4 majority. The Court held that Peugh's sentencing violated the <em>ex post facto</em> clause because, although the Supreme Court has held that the Sentencing Guidelines are not binding on lower courts, the Guidelines still must be used as an initial benchmark for sentencing. By setting an initial benchmark, the Guidelines forbid the government from altering the formula used to calculate an appropriate sentencing range. The lower court's refusal to apply the previous Guidelines in this case created a type of <em>ex post facto</em> law that changed the nature of a crime by inflicting a greater punishment than would be applied when the crime was committed.</p>\n<p>In his dissent, Justice Clarence Thomas wrote that the Guidelines are not binding on lower courts, so they have no legal effect on a defendant's sentences. He also argued that any risk that a defendant might receive a harsher sentence results from the Guidelines' persuasive power, not any legal effect. Chief Justice John G. Roberts, Jr., Justice Samuel A. Alito, Jr., and Justice Antonin Scalia joined in the dissent. Justice Alito, joined by Justice Scalia, also filed a separate dissent in which he argued that retroactive application of advisory guidelines do not violate the test established in <em>California Dept. of Corrections v. Morales.</em> Under that test, laws only violate the <em>ex post facto</em> clause if they create a \"sufficient risk\" of increasing the measure of punishment attached to a crime.</p>\n"
+}

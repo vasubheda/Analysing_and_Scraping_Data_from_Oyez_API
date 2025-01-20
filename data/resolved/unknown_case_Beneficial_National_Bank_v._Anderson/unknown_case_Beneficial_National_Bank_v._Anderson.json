@@ -1,0 +1,35 @@
+{
+    "ID": 55045,
+    "name": "Beneficial National Bank v. Anderson",
+    "href": "https://api.oyez.org/cases/2002/02-306",
+    "view_count": 0,
+    "docket_number": "02-306",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1051678800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38816"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1054530000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38817"
+        }
+    ],
+    "question": "<p>Does the NBA require that any suits involving charges of excessive interest be heard in federal rather than state court?</p>\n",
+    "citation": {
+        "volume": "539",
+        "page": "1",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/18974"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/539/1/",
+    "facts_of_the_case": "<p>Several H&amp;R Block customers, who took out loans from Beneficial National Bank in anticipation of their tax refunds, sued the bank in state court. The customers alleged that the bank charged excessive interest in violation of Alabama law. The bank asked that the case be heard in federal, rather than state, court, because the issues were covered under the National Bank Act (NBA), a federal law. The district court ruled in favor of the bank; the 11th Circuit Court of Appeals reversed, holding that the NBA did not completely preempt state laws governing lending rates and that the case could therefore be heard in state court.</p>\n",
+    "conclusion": "<p>Yes. In a 7-2 opinion delivered by Justice John Paul Stevens, the Court held that the National Bank Act preempted the state-law claim and provided the exclusive cause of action for usury claims against national banks. Thus, the claim arose under federal law. The Court reasoned that the provisions of the Act create a federal remedy for overcharges that is exclusive, even when a state complainant relies entirely on state law. \"Because [sections of the Act] provide the exclusive cause of action for such claims, there is, in short, no such thing as a state-law claim of usury against a national bank,\" wrote Justice Stevens. Justice Antonin Scalia, joined by Justice Clarence Thomas, dissented.</p>\n"
+}

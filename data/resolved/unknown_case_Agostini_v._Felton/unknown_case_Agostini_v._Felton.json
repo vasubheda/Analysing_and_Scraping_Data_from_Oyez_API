@@ -1,0 +1,35 @@
+{
+    "ID": 54535,
+    "name": "Agostini v. Felton",
+    "href": "https://api.oyez.org/cases/1996/96-552",
+    "view_count": 0,
+    "docket_number": "96-552",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                861080400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37863"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                867042000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37864"
+        }
+    ],
+    "question": "<p>Is the Establishment Clause violated when public school teachers instruct in parochial schools?</p>\n",
+    "citation": {
+        "volume": "521",
+        "page": "203",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18464"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/521/203/",
+    "facts_of_the_case": "<p>This suit was brought by a New York parochial school board, and some of its student's parents, as a challenge to a District Court ruling upholding the twelve-year-old decision set out in Aguilar v. Felton (473 US 402). The decision in Aguilar prohibited public school teachers from teaching in parochial schools as a violation of the Establishment Clause. On appeal from the Second Circuit's affirmance of a District Court's denial of the parent's challenge, the Supreme Court granted certiorari.</p>\n",
+    "conclusion": "<p>No. The Court overruled its decision in Aguilar v. Felton. The Court held that there was no evidence to support its former presumption that the entrance of public school teachers into parochial schools will inevitably lead to the indoctrination of state-sponsored religion. The New York program under which public school teachers were sent into parochial schools did not provide parochial schools with any incentive, financial or other, to establish religion in order to attract public school teachers. The Court added that under its new view, only those policies which generate an excessive conflict between church and state will be deemed to violate the Establishment Clause. As such, one should no longer find that all entanglements between church and state have a distinctly positive or negative impact on religion.</p>\n"
+}

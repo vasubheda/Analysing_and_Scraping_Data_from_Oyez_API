@@ -1,0 +1,42 @@
+{
+    "ID": 55393,
+    "name": "Hein v. Freedom From Religion Foundation, Inc.",
+    "href": "https://api.oyez.org/cases/2006/06-157",
+    "view_count": 0,
+    "docket_number": "06-157",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1164952800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39694"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1172642400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51882"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1182747600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52227"
+        }
+    ],
+    "question": "<p>Do taxpayers have standing to bring an Establishment Clause challenge against Executive Branch actions funded by general appropriations rather than by any specific congressional grant?</p>\n",
+    "citation": {
+        "volume": "551",
+        "page": "587",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20694"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/551/587/",
+    "facts_of_the_case": "<p>Shortly after taking office, President Bush created by executive order the Office of Faith-Based and Community Initiatives, a program aimed at allowing religious charitable organizations to compete alongside non-religious ones for federal funding. Another executive order instructed various executive departments to hold conferences promoting the Faith-Based Initiative. The Freedom from Religion Foundation sued, alleging that the conferences favored religious organizations over non-religious ones and thereby violated the Establishment Clause of the First Amendment. The government argued that there was no \"Case or Controversy\" as required by Article III of the Constitution. According to the government, the Foundation had no standing to sue, because the Foundation had not been harmed in any way by the conferences. The fact that an individual pays taxes to the federal government is not normally enough to give the individual standing to challenge a federal program, but the Foundation noted that exceptions have been made for Establishment Clause challenges (see <em>Flast v. Cohen</em> and <em>Bowen v. Kendrick</em> ).</p>\n<p>The District Court ruled that the Foundation lacked standing to sue. The court held that the exceptions only covered challenges to specific congressional expenditures, not executive-branch actions funded by the general funds allotted to the executive departments. The U.S. Court of Appeals for the Seventh Circuit reversed, ruling that any taxpayer has standing to bring an Establishment Clause challenge against an executive-branch program, whether funded by a specific congressional grant or by a discretionary use of a general appropriation.</p>\n",
+    "conclusion": "<p>No. By a 5-4 vote, the Court ruled that citizens do not have standing as taxpayers to bring Establishment Clause challenges against Executive Branch programs that are funded by appropriations for general administrative expenses. Justice Samuel Alito's plurality opinion called <em>Flast v. Cohen</em> a \"narrow exception\" to the general rule that taxpayer status does not grant standing to sue the government, and held that <em>Flast</em> did not support the Seventh Circuit's broad interpretation. In order to have standing under <em>Flast</em>, a taxpayer must not only challenge a policy on the basis of the Establishment Clause, but also bring the challenge against a congressional expenditure. Since no specific congressional appropriation was implicated in the suit, the Court ruled that there was no \"Case or Controversy\" under the <em>Flast</em> exception. To extend <em>Flast</em> to executive actions, the Court said, would threaten the separation of powers by relaxing the doctrine of standing and turning federal courts into \"general complaint bureaus.\" In a separate concurring opinion, Justice Scalia called the plurality's distinction \"utterly meaningless,\" and argued that <em>Flast</em> should be overruled. Justice Souter argued in dissent that \"When executive agencies spend identifiable sums of tax money for religious purposes, no less than when Congress authorizes the same thing, taxpayers suffer injury.\"</p>\n"
+}

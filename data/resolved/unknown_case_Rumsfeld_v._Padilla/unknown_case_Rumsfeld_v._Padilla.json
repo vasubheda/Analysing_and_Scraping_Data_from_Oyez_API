@@ -1,0 +1,42 @@
+{
+    "ID": 55165,
+    "name": "Rumsfeld v. Padilla",
+    "href": "https://api.oyez.org/cases/2003/03-1027",
+    "view_count": 0,
+    "docket_number": "03-1027",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1077256800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39076"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1083128400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39077"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1088398800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39078"
+        }
+    ],
+    "question": "<p>Does Congress's \"Authorization for use of Military Force\" authorize the President to detain a United States citizen based on a determination that he is an enemy combatant, or is that power precluded by the Non-Detention Act?</p>\n",
+    "citation": {
+        "volume": "542",
+        "page": "426",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19093"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/542/426/",
+    "facts_of_the_case": "<p>Jose Padilla, an American citizen, was arrested in Chicago's O'Hare International Airport after returning from Pakistan in 2002. He was initially detained as a material witness in the government's investigation of the al Qaeda terrorist network, but was later declared an \"enemy combatant\" by the Department of Defense, meaning that he could be held in prison indefinitely without access to an attorney or to the courts. The FBI claimed that he was returning to the United States to carry out acts of terrorism.</p>\n<p>Donna Newman, who had represented him while he was being held as a material witness, filed a petition for habeas corpus on his behalf. The U.S. District Court for the Southern District of New York ruled that Newman had standing to file the petition despite the fact that Padilla had been moved to a military brig in South Carolina. However, the court also found that the Department of Defense, under the President's constitutional powers as Commander in Chief and the statutory authorization provided by Congress's Authorization for Use of Military Force, had the power to detain Padilla as an enemy combatant. The district judge rejected Newman's argument that the detention was prohibited by the federal Non-Detention Act, which states that no \"citizen shall be imprisoned or otherwise detained by the United States except pursuant to an Act of Congress.\"</p>\n<p>On appeal, a divided Second Circuit Court of Appeals panel reversed the district court's \"enemy combatant\" ruling. The panel found that the Authorization for Use of Military force did not meet the requirement of the Non-Detention Act and that the President could not, therefore, declare American citizens captured outside a combat zone as enemy combatants.</p>\n",
+    "conclusion": "<p>The Court did not reach a decision on the merits in this case. Instead, in 5-to-4 opinion written by Chief Justice William H. Rehnquist, the Court found that the case had been improperly filed. Under federal law, a petition for a writ of habeas corpus can only be filed against the person <em>directly</em> responsible for a prisoner's confinement or, put another way, the person with the power to bring the prisoner to court. In most cases this person is the warden of the petitioner's prison; in this case, it was the commander of the military brig in which Padilla was held. Because Padilla's attorney had listed Secretary of Defense Donald Rumsfeld as the defendent, instead of the brig commander, and because the suit was filed in New York instead of in South Carolina, where the commander lived and worked, the Court found that the case would have to be re-filed in a federal district court in South Carolina.</p>\n<p>Justices Stevens, Souter, Ginsberg and Breyer dissented, finding that an exception should be made to the jurisdictional rule because the government had moved Padilla to South Carolina without giving his attorney notice to file the habeas writ.</p>\n"
+}

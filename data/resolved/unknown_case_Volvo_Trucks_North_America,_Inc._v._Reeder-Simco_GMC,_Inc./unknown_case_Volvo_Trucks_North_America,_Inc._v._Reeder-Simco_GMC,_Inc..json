@@ -1,0 +1,42 @@
+{
+    "ID": 55345,
+    "name": "Volvo Trucks North America, Inc. v. Reeder-Simco GMC, Inc.",
+    "href": "https://api.oyez.org/cases/2005/04-905",
+    "view_count": 0,
+    "docket_number": "04-905",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1110175200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39577"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1130738400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39578"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1136872800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39579"
+        }
+    ],
+    "question": "<p>Can a seller be held liable for discriminatory pricing under the Robinson- Patman Act if the purchaser loses profits to competitors that do not purchase from the seller, but does not lose profits to any competitor that \"receives the benefit of\" the price discrimination?</p>\n",
+    "citation": {
+        "volume": "546",
+        "page": "164",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20621"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/546/164/",
+    "facts_of_the_case": "<p>Reeder, a Volvo truck dealership, sued Volvo for violating the Robinson-Patman Act (RPA), which prohibits forms of discriminatory pricing that reduce competition. When retail customers take bids from dealers such as Reeder, the dealers ask manufacturers for price concessions, which dealers factor into their bids. Reeder accused Volvo of offering better price concessions to other Volvo dealers bidding for different customers. Reeder cited four instances in which it had received a comparatively low concession from Volvo, but it claimed that its losses due to discriminatory pricing went beyond those four instances. District Court allowed the case to go to a jury, and the jury awarded damages to Reeder. On appeal, Volvo argued that no competition was present, as would be required by the RPA, because Reeder was not actually bidding against the other Volvo dealers that allegedly got favorable concessions. The Eighth Circuit disagreed, ruling that the Volvo dealers - though they did not bid against each other - \"competed at the same functional level.\" Volvo's price discrimination would therefore fall under the RPA.</p>\n",
+    "conclusion": "<p>No. In a 7-2 decision, the Court ruled that for a manufacturer to be liable under the RPA, dealers must be in actual competition with each other. The opinion by Justice Ruth Bader Ginsburg held that Volvo's pricing decisions did not fall under the Act, because \"in none of the discrete instances on which Reeder relied did Reeder compete with beneficiaries of the alleged discrimination <em>for the same customer</em>.\" In declining to interpret the RPA more expansively, the Court hoped to maintain the \"broader policies of the antitrust laws,\" which are designed to protect competition itself rather than individual competitors. Justice Stevens wrote a dissent, which Justice Thomas joined.</p>\n"
+}

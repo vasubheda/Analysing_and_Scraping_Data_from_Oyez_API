@@ -1,0 +1,42 @@
+{
+    "ID": 55325,
+    "name": "Schaffer ex rel. Schaffer v. Weast",
+    "href": "https://api.oyez.org/cases/2005/04-698",
+    "view_count": 0,
+    "docket_number": "04-698",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1109052000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39521"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1128488400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39522"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1131948000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39523"
+        }
+    ],
+    "question": "<p>Do the parents or school system bear the burden of proof in disputes over a child's individualized education program under the Individuals with Disabilities Education Act?</p>\n",
+    "citation": {
+        "volume": "546",
+        "page": "49",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/20612"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/546/49/",
+    "facts_of_the_case": "<p>The parents of Brian Schaffer, a disabled child, sued their public school district under the Individuals with Disabilities Education Act (IDEA). Schaffer's parents claimed the Individualized Education Program that the school system devised for their son, and which IDEA required for each disabled student, was inadequate. The district court ruled for the Schaffers, but the Fourth Circuit reversed, holding that the lower court incorrectly assigned the burden of proof to the school system. Because IDEA was silent on whether the parents or the school system bear the burden of proof, the Fourth Circuit held, the general rule that the party initiating the suit bears that burden should be applied.</p>\n",
+    "conclusion": "<p>In a 6 to 2 ruling, the Supreme Court held that the party bringing the suit bears the burden of proof, whether that party is the parents or the school system. In the majority opinion, Justice Sandra Day O'Connor wrote that \"absent some reason to believe that Congress intended otherwise, ... we will conclude that the burden of persuasion lies where it usually falls, upon the party seeking relief.\"</p>\n"
+}

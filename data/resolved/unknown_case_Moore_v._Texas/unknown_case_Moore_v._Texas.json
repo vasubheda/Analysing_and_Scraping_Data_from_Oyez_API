@@ -1,0 +1,42 @@
+{
+    "ID": 62716,
+    "name": "Moore v. Texas",
+    "href": "https://api.oyez.org/cases/2016/15-797",
+    "view_count": 0,
+    "docket_number": "15-797",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1465189200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53737"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1480399200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53918"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1490677200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54008"
+        }
+    ],
+    "question": "<ol><li>Does the use of outdated medical standards regarding intellectual disability to determine whether a person is exempt from execution violate the Eighth Amendment\u2019s prohibition against cruel and unusual punishment as well as the <em>Atkins v. Virginia</em> precedent?</li>\n</ol>",
+    "citation": {
+        "volume": "581",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27432"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that the use of outdated medical standards regarding intellectual disability to determine whether a person is exempt from execution violates the Eighth Amendment\u2019s prohibition against cruel and unusual punishment as well as earlier precedent. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/581/15-797/",
+    "facts_of_the_case": "<p>In 1980, Bobby James Moore was convicted of capital murder for the shooting of James McCarble, a seventy-year-old store clerk, in Houston, Texas. Moore was sentenced to death, and his conviction and sentence were both affirmed on appeal. After a federal court granted habeas corpus relief, a new punishment hearing occurred in 2001, and Moore was again sentenced to the death penalty. His sentence was again affirmed on appeal. Moore sought state habeas relief and argued that the U.S. Supreme Court\u2019s decision in <em>Atkins v. Virginia</em> should apply to his case; therefore, because he was intellectually disabled, he was exempt from execution. The habeas court granted relief based on the <em>Atkins</em> argument. The Court of Criminal Appeals of Texas, however, reversed and held that Moore had failed to establish by a preponderance of the evidence that he had the requisite intellectual disability for the <em>Atkins</em> precedent to apply based on Texas case law that used a 1992 definition of intellectual disability.</p>\n",
+    "conclusion": "<p dir=\"ltr\">The use of an outdated medical definition of intellectual disability violated the Eighth Amendment\u2019s prohibition against cruel and unusual punishment as well as Supreme Court precedent. Justice Ruth Bader Ginsburg delivered the opinion for the 5-3 majority. The Court held that, by rejecting the habeas court\u2019s application of medical guidance, the Court of Criminal Appeals of Texas (CCA) applied the wrong standard when it denied Moore habeas relief and approved his execution. State standards for determining when a person is exempt from the death sentence because of mental disability cannot ignore current medical standards defining mental disability. The CCA standard differed from current medical standards in multiple respects. First, the CCA failed to consider the \u201cstandard error of measurement\u201d for Moore\u2019s IQ score, which indicated his IQ was likely to fall within a range that dipped into a level consistent with mental disability. Second, the CCA gave improper weight to Moore\u2019s perceived strengths when evaluating his ability to navigate everyday life; medical standards instead focus on a person\u2019s deficits. Third, the CCA also relied on \u201devidentiary factors\u201d from Texas case law based on stereotypes about mental disability that create an unacceptable risk that mentally disabled persons will be executed. </p>\n<p>In his dissent, Chief Justice John G. Roberts, Jr., agreed that the evidentiary factors the CCA applied violated the Eighth Amendment, but he argued that Moore\u2019s IQ score established he was not mentally disabled. More broadly, Chief Justice Roberts argued that the majority \u00a0opinion gave states too little guidance on how to properly enforce the Eighth Amendment ban on executing the mentally disabled. Justice Clarence Thomas and Justice Samuel A. Alito, Jr., joined in the dissent.</p>\n"
+}

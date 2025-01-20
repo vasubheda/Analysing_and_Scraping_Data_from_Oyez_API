@@ -1,0 +1,42 @@
+{
+    "ID": 63511,
+    "name": "Financial Oversight and Management Board for Puerto Rico v. Centro de Periodismo Investigativo, Inc.",
+    "href": "https://api.oyez.org/cases/2022/22-96",
+    "view_count": 0,
+    "docket_number": "22-96",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1664773200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55155"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1673416800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55202"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1683781200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55266"
+        }
+    ],
+    "question": "<p>Does the Puerto Rico Oversight, Management, and Economic Stability Act (PROMESA)\u2019s general grant of jurisdiction to the federal courts over claims against the Financial Oversight and Management Board for Puerto Rico and claims otherwise arising under PROMESA abrogate the Board\u2019s sovereign immunity with respect to all federal and territorial claims?</p>\n",
+    "citation": {
+        "volume": "598",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27914"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held the Puerto Rico Oversight, Management, and Economic Stability Act (PROMESA)\u2019s general grant of jurisdiction to the federal courts over claims against the Financial Oversight and Management Board for Puerto Rico and claims otherwise arising under PROMESA does not abrogate the Board\u2019s sovereign immunity with respect to all federal and territorial claims.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/598/22-96/",
+    "facts_of_the_case": "<p>The Centro de Periodismo Investigativo (\u201cCPI\u201d) is a nonprofit media organization based in Puerto Rico. It seeks disclosure of documents relating to Puerto Rico\u2019s fiscal situation from the Financial Oversight and Management Board for Puerto Rico (\u201cthe Board\u201d). The Board has declined to release the requested documents, and CPI asked the district court to compel production. The Board asked the district court to dismiss the litigation, arguing that it is immune from suit pursuant to both the Eleventh Amendment of the U.S. Constitution and the Puerto Rico Oversight, Management, and Economic Stability Act (\u201cPROMESA\u201d).</p>\n<p>The district court disagreed with the Board, finding PROMESA abrogated any possible Eleventh Amendment immunity the Board might have enjoyed, and the U.S. Court of Appeals for the First Circuit affirmed.</p>\n",
+    "conclusion": "<p>Nothing in the Puerto Rico Oversight, Management, and Economic Stability Act (PROMESA) categorically abrogates any sovereign immunity the Financial Oversight and Management Board for Puerto Rico enjoys from legal claims. Justice Elena Kagan authored the 8-1 majority opinion of the Court.</p>\n<p>If Congress wishes to abrogate sovereign immunity, it must do so using \u201cunmistakably clear\u201d language in the statute. The Supreme Court has found such language only in two types of situations: when a statute expressly states that it is stripping immunity from a sovereign entity, and when a statute creates a cause of action and authorizes a lawsuit against a government based on that cause of action. There is no such language in PROMESA, nor does it create a cause of action for use against the Board or Puerto Rico. Even \u00a7 2126(a)\u2014which provides that \u201cany action against the Oversight Board, and any action otherwise arising out of [PROMESA] . . . shall be brought\u201d in the Federal District Court for Puerto Rico\u2014does not amount to a clear intent to abrogate sovereign immunity.</p>\n<p>Justice Clarence Thomas authored a dissenting opinion, arguing that Puerto Rico lacks state sovereign immunity, which would make the question of abrogation superfluous.</p>\n"
+}

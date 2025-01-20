@@ -1,0 +1,42 @@
+{
+    "ID": 55797,
+    "name": "Brown v. Entertainment Merchants Association",
+    "href": "https://api.oyez.org/cases/2010/08-1448",
+    "view_count": 0,
+    "docket_number": "08-1448",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1272258000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40781"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1288674000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40782"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1309150800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40783"
+        }
+    ],
+    "question": "<p>Does the First Amendment bar a state from restricting the sale of violent video games to minors?</p>\n",
+    "citation": {
+        "volume": "564",
+        "page": null,
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19719"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that video games, including violent ones, are protected speech under the First Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/564/786/",
+    "facts_of_the_case": "<p>Associations of companies that create, publish, distribute, sell and/or rent video games brought a declaratory judgment action against the state of California in a California federal district court. The plaintiffs brought the claim under the First and Fourteenth Amendments seeking to invalidate a newly-enacted law that imposed restrictions and labeling requirements on the sale or rental of \"violent video games\" to minors. The district court found in favor of the plaintiffs and prevented the enforcement of the law.</p>\n<p>On appeal, the U.S. Court of Appeals for the Ninth Circuit affirmed, holding that: (1) violent video games did not constitute \"obscenity\" under the First Amendment, (2) the state did not not have a compelling interest in preventing psychological or neurological harm to minors allegedly caused by video games, and (3) even if the state had a compelling interest, the law was not narrowly tailored enough to meet that objective.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court affirmed the lower court order in an opinion by Justice Antonin Scalia. \"Like the protected books, plays, and movies that preceded them, video games communicate ideas\u2014and even social messages\u2014through many familiar literary devices (such as characters, dialogue, plot, and music) and through features distinctive to the medium (such as the player's interaction with the virtual world). That suffices to confer First Amendment protection.\" Justice Samuel Alito concurred in judgment, joined by Chief Justice John Roberts. Alito noted that he disagreed \"with the approach taken in the Court's opinion. In considering the application of unchanging constitutional principles to new and rapidly evolving technology, this Court should proceed with caution. We should make every effort to understand the new technology.\" Justices Clarence Thomas and Stephen Breyer filed separate dissents. Adhering to his strict understanding of the Framers' intent with the Constitution, Thomas wrote: \"The Court's decision today does not comport with the original public understanding of the First Amendment.\" Breyer argued that the California statute met current constitutional standards.</p>\n"
+}

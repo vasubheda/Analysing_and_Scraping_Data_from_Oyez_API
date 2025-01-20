@@ -1,0 +1,42 @@
+{
+    "ID": 56176,
+    "name": "Hurst v. Florida",
+    "href": "https://api.oyez.org/cases/2015/14-7505",
+    "view_count": 0,
+    "docket_number": "14-7505",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1425877200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41777"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1444712400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52802"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1452578400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53384"
+        }
+    ],
+    "question": "<p>In light of the Supreme Court\u2019s decision in <em>Ring v. Arizona</em>, does the Florida death sentencing scheme, which does not require a jury to determine whether a capital defendant is mentally retarded or to unanimously sentence a defendant to death, violate the Sixth Amendment\u2019s jury trial guarantee or the Eighth Amendment\u2019s prohibition against cruel and unusual punishment?</p>\n",
+    "citation": {
+        "volume": "577",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/20958"
+    },
+    "term": "2015",
+    "description": "A case in which the Court held that Florida\u2019s sentencing scheme violated the Sixth Amendment\u2019s guarantee of a jury trial in light of the Supreme Court\u2019s decision in Ring v. Arizona, which held that the Sixth Amendment required a jury to sentence the defendant to death. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/577/92/",
+    "facts_of_the_case": "<p>Timothy Lee Hurst was charged and convicted of first-degree murder for killing his co-worker, Cynthia Harrison, during a robbery of the Popeye\u2019s restaurant where they both worked. He was sentenced to death and appealed. On appeal, Hurst was granted a new sentencing trial because the Supreme Court of Florida found that his counsel should have investigated and presented evidence of Hurst\u2019s borderline intelligence and possible organic brain damage. At his new sentencing trial, Hurst was prevented from presenting mental retardation evidence as an absolute bar to the imposition of the death penalty, though he was allowed to present it as mitigating evidence. The jury again sentenced Hurst to the death penalty by a vote of seven to five, and the Supreme Court of Florida affirmed.</p>\n<p>In 2002, the Supreme Court decided the case <em>Ring v. Arizona</em>, in which the Court held that the Sixth Amendment required that the presence of aggravating factors, which Arizona\u2019s death penalty sentencing scheme viewed as essentially elements of a larger offense, be determined by the jury. The Supreme Court of Florida had previously held that the decision in <em>Ring v. Arizona</em> did not apply to Florida\u2019s death penalty sentencing scheme generally and specifically did not require that a jury\u2019s recommendation of the death penalty be unanimous or that a jury determine the factual issue of a defendant\u2019s potential mental retardation.</p>\n",
+    "conclusion": "<p>Florida\u2019s death sentencing scheme violated the Sixth Amendment in light of the Supreme Court\u2019s decision in <em>Ring v. Arizona</em>. Justice Sonia Sotomayor delivered the opinion for the 8-1 majority. The Court held that the Sixth Amendment requires a jury, not a judge, to find each element necessary to impose the death sentence. Although the Florida sentencing scheme required that the jury recommend a death sentence in order to impose the death penalty, the judge was only required to take the jury recommendation under consideration. Because the Supreme Court held in <em>Ring v. Arizona</em> that the Sixth Amendment required that a jury make all the critical findings necessary to impose the death penalty, the Florida sentencing scheme violated the Sixth Amendment in the same way the Arizona one did in <em>Ring</em>. In his opinion concurring in the judgment, Justice Stephen G. Breyer wrote that the Eighth Amendment required jury sentencing in capital cases.</p>\n<p>Justice Samuel A. Alito, Jr. wrote a dissent in which he argued that that the Sixth Amendment did not require that a jury make the specific findings authorizing the imposition of the death penalty. The Florida sentencing scheme is different from the one the Supreme Court found unconstitutional in <em>Ring v. Arizona</em> because in the Arizona scheme the jury did not make any recommendation about the death penalty at all. Although the judge could choose not to follow the jury\u2019s recommendation, no Florida court has done so for more than 15 years. Justice Alito also argues that, if there was error, the error was harmless in this case because the jury recommended that Hurst be sentenced to death.</p>\n"
+}

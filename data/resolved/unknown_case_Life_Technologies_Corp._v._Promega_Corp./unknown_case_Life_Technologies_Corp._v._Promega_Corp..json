@@ -1,0 +1,42 @@
+{
+    "ID": 62725,
+    "name": "Life Technologies Corp. v. Promega Corp.",
+    "href": "https://api.oyez.org/cases/2016/14-1538",
+    "view_count": 0,
+    "docket_number": "14-1538",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1467003600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53841"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1481004000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53922"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1487743200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53974"
+        }
+    ],
+    "question": "<p>Does supplying a single component of a multi-component invention from the United States for sale abroad expose the manufacturer to liability for infringement based on worldwide sales?</p>\n",
+    "citation": {
+        "volume": "580",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27439"
+    },
+    "term": "2016",
+    "description": "A case in which the Court held that supplying a single component of a multi-component invention from the United States for sale abroad does not expose the manufacturer to liability for infringement based on worldwide sales.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/580/14-1538/",
+    "facts_of_the_case": "<p>Promega Corporation owned four patents and was the exclusive licensee of another one for technology used in kits that can conduct genetic testing. The kits are usually used for the purposes of identifying forensic or paternity matches. In 2010, Promega sued Life Technologies Corporation (LifeTech) for infringing on the patents in question, and LifeTech filed counterclaims that argued that the asserted claims of the patents were invalid. The district court determined that LifeTech had directly infringed on the patents and the case proceeded to damages. During the damages phase, there was a dispute about whether or not Promega had met its burden to prove that it was eligible for damages based on its worldwide sales. The jury determined that Promega was eligible for the worldwide damages, but the district court granted LifeTech\u2019s motion to vacate the judgment because it determined that, as a matter of law, Promega had failed to present sufficient evidence to sustain that jury verdict. The U.S. Court of Appeals for the Federal Circuit reversed and determined that there was substantial evidence that LifeTech was liable for worldwide damages.</p>\n",
+    "conclusion": "<p dir=\"ltr\">A single component cannot justify liability for the producer of the component.Justice Sonia Sotomayor delivered the \u00a0opinion for the 7-0 majority. The Court held that, because the phrase \u201csubstantial portion\u201d was attached to the phrase \u201cof components of a patented invention\u201d in the text of the statute, the word \u201csubstantial\u201d was meant to be read as a quantitative measure. Further, the plural use of the word \u201ccomponents\u201d indicated that a \u201csubstantial portion\u201d must always be more than one component. Thus, a single component could never constitute a \u201csubstantial portion\u201d of a multi-component invention. The Court also determined that Congress intended this reading because the statute was meant to fill a gap in patent law that prevented enforcement of patent rights on collections of components produced in the United States and sent overseas. Therefore, Lifetech was not liable because it only produced one of the five components required for the kits.</p>\n<p>In his opinion concurring in part and concurring in the judgment, Justice Samuel A. Alito, Jr., noted that the majority opinion failed to identify what number of components constituted a \u201csubstantial portion.\u201d Rather, the opinion only identified that one component is not sufficient.</p>\n<p>Chief Justice John G. Roberts, Jr., did not participate in the decision of this case.</p>\n"
+}

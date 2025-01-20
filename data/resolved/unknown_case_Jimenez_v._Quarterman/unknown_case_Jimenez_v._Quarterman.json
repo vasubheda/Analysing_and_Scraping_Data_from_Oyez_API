@@ -1,0 +1,42 @@
+{
+    "ID": 55576,
+    "name": "Jimenez v. Quarterman",
+    "href": "https://api.oyez.org/cases/2008/07-6984",
+    "view_count": 0,
+    "docket_number": "07-6984",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1205730000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40204"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1225778400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40205"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1231826400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40206"
+        }
+    ],
+    "question": "<p>When a criminal defendant is unable to obtain timely direct review of his case in state court, should the one-year statute of limitations for appeals begin to run at the date of conviction, as federal law prescribes, or after the delayed direct review is completed?</p>\n",
+    "citation": {
+        "volume": "555",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20819"
+    },
+    "term": "2008",
+    "description": "A case in which the Court held that if a state court grants a criminal defendant the right to file an out-of-time direct appeal, the statute of limitations doesn't begin until after the out-of-time appeal is final. ",
+    "justia_url": null,
+    "facts_of_the_case": "<p>In 1995, Carlos Jimenez pled guilty in Texas state court to burglary and violating his probation. Because Jimenez had a prior felony conviction for aggravated assault with a deadly weapon, he was sentenced to 43 years in prison. Jimenez appealed and, in 1996, a state appeals court dismissed Jimenez's petition when a court-appointed lawyer stated that Jimenez had no grounds for appeal. Six years later the Texas Court of Criminal Appeals allowed leave for Jimenez to renew his appeal based on his lawyer's incompetence, however the court affirmed his conviction and sentence.</p>\n<p>In 2005, Jimenez filed a habeas corpus petition in a Texas federal court arguing that he had not received adequate legal assistance during his proceedings in the state courts. The district judge dismissed the claim, holding that the one-year statute of limitations, which began running on the date of conviction, had expired. The U.S. Court of Appeals for the Fifth Circuit also denied Jimenez's appeal. Jimenez, in his petition for certiorari, argued that the one-year statute of limitations should actually have begun in 2005, after his final appeal was denied in state court, rather than in 1995 when he was convicted.</p>\n",
+    "conclusion": "<p>In a unanimous opinion with Justice Clarence Thomas writing for the Court, the Supreme Court reversed the U.S. Court of Appeals for the Fifth Circuit. It held that when a state court grants a criminal defendant the right to file an out-of-time direct appeal and he does so, the conviction is not final. Therefore, the statute of limitations begins to run only after the out-of-time direct appeal is final. The Court remanded Mr. Jimenez's case for further proceedings consistent with its opinion.</p>\n"
+}

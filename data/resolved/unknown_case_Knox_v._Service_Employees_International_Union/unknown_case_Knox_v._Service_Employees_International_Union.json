@@ -1,0 +1,42 @@
+{
+    "ID": 55865,
+    "name": "Knox v. Service Employees International Union",
+    "href": "https://api.oyez.org/cases/2011/10-1121",
+    "view_count": 0,
+    "docket_number": "10-1121",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1309150800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40965"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1326175200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40966"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1340254800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40967"
+        }
+    ],
+    "question": "<p>(1) May a State, consistent with the First and Fourteenth Amendments, condition employment on the payment of a special union assessment intended solely for political and ideological expenditures without first providing a notice that includes information about that assessment and provides an opportunity to object to its exaction?</p>\n<p>(2) May a State, consistent with the First and Fourteenth Amendments, condition continued public employment on the payment of union agency fees for purposes of financing political expenditures for ballot measures?</p>\n",
+    "citation": {
+        "volume": "567",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19787"
+    },
+    "term": "2011",
+    "description": "A case in which the Court found that, under the First Amendment, public-sector unions are not permitted to impose a special assessment fee without the consent of the member upon whom it is imposed.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/567/298/",
+    "facts_of_the_case": "<p>All California state employees are required to pay a fee to the Service Employees International Union for its representation of them, and the union is required to tell employees how the money is spent and how to object. The union wanted to collect a special assessment for a \"Political Fight Back Fund\" in 2005. But some nonmembers wanted the union to give them a new notice and a new chance to object. They filed a class-action lawsuit seeking declaratory and injunctive relief and equitable restitution for violations of the nonmembers' rights under the First and Fourteenth Amendments. The district court agreed, siding with the nonmembers. However, the U.S. Court of Appeals for the Ninth Circuit reversed.</p>\n",
+    "conclusion": "<p>No, No. In his opinion for the 7-2 majority, Justice Samuel A. Alito, Jr., wrote that the structure by which nonmembers of a union have to pay chargeable expenses and must opt out of any others already strains the limits of the First Amendment. The actions of the Service Employees International Union (SEIU) went beyond this allowable extension and infringed upon nonmembers' First Amendment rights. By failing to provide a new notice and a new chance to opt out, the union did not abide by the established procedure for handling nonmember payment. In order to respect the First Amendment rights of nonmembers, the special assessment should have come with a notice that allowed nonmembers to opt in. The Court held that, while it can be difficult to determine the yearly dues ahead of time, the union should err on the side of having nonmembers pay too little rather than too much and infringe on their constitutional rights.</p>\n<p>Justice Sonia Sotomayor concurred in the judgment. She agreed that the union had not satisfied its constitutional obligation to provide nonmembers with notice of the purpose of the special assessment and a chance to opt out. However, she argued that the Court went beyond its authority by specifying that an opt-in system better fits the requirements of the First Amendment when there is no precedent to support such a statement. Justice Ruth Bader Ginsburg joined the concurring opinion.</p>\n<p>Justice Stephen G. Breyer dissented and argued that the basic system that the unions uses to charge dues is both constitutional and fair to members and nonmembers. The union uses each year's ratio of chargeable vs. nonchargeable to determine the next year's fees, so an objecting nonmember might overpay one year, but will underpay the next and ultimately come out even. In the year in question, even with the special assessment, the objecting nonmembers paid less than what the constitution considers their fair share. The First Amendment does not require the union to provide more than one opportunity for a nonmember to object to the yearly fee. Justice Elena Kagan joined in the dissent.</p>\n"
+}

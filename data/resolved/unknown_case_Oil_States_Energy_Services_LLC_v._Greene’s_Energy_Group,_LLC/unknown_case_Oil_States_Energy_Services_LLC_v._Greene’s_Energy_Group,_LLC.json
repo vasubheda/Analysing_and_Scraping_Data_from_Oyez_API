@@ -1,0 +1,42 @@
+{
+    "ID": 62852,
+    "name": "Oil States Energy Services LLC v. Greene\u2019s Energy Group, LLC",
+    "href": "https://api.oyez.org/cases/2017/16-712",
+    "view_count": 0,
+    "docket_number": "16-712",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1497243600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54052"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1511762400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54125"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1524546000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54254"
+        }
+    ],
+    "question": "<p>Does inter partes review violate the Constitution by depriving patent holders of their property rights without providing them a jury and an Article III forum?</p>\n",
+    "citation": {
+        "volume": "584",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27522"
+    },
+    "term": "2017",
+    "description": "A case in which the Court decided that inter partes review, which authorizes the United States Patent and Trademark Office to reconsider and cancel an already-issued patent claim under 35 U.S.C. \u00a7\u00a7 311-391, does not violate Article III or the Seventh Amendment of the Constitution.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/584/16-712/",
+    "facts_of_the_case": "<p>During hydraulic fracturing (known as \u201cfracking\u201d) procedures, fluid is pumped into oil and gas wells to stimulate production. However, the wellheads that sit on top of oil and gas wells are not designed to withstand continuous exposure to fracking fluids and can sustain significant damage as a result. In an attempt to address this issue, Stinger Wellhead Protection Inc., a subsidiary of Oil States Energy Services, first tried using a design described in Canadian Patent Application No. 2,195,118 (the \u2019118 Application) that relies on using hydraulic pressure first to push a \u201cmandrel\u201d into the wellhead through which the fracking fluid could be pumped without contacting the wellhead equipment. That method failed to sufficiently address the issue, so the Oil States subsidiary attempted a different method using a mechanical lockdown mechanism (described in Patent No. 6,179,053, or the \u2019053 Patent), rather than hydraulic pressure. In 2012, Oil States filed a patent infringement suit against Greene\u2019s Energy Group, during the course of which litigation the district court found the \u2019053 Patent to be distinct from the \u2019118 Application using the \u201cordinary meaning\u201d standard. Greene\u2019s filed for inter partes review, which is a process used by the Patent and Trademark Office where one party asks the U.S. Patent Trial and Appeal Board to reconsider the PTO\u2019s issuance of an existing patent and invalidate it on the ground that it was anticipated by prior art or obvious. Oil States challenges the practice of inter partes review as violating the constitutional right of patent owners to a jury and an Article III forum before having their patent invalidated.\u00a0</p>\n",
+    "conclusion": "<p>The Court affirmed the Federal Circuit\u2019s ruling, holding that the the Patent and Trademark Office\u2019s inter partes review process did not violate Article III or the Seventh Amendment of the Constitution.\u00a0</p>\n<p>Writing for the majority in a 7-2 decision, Justice Thomas explained that inter partes review falls precisely within the public rights doctrine, with the grant of a patent being a matter involving public rights, and inter partes review involving the same basic matter as the grant of a patent.</p>\n<p>The opinion went on to clarify that three of the Court\u2019s holdings under the Patent Act of 1870 recognizing patent rights as the \u201cprivate property of the patentee\u201d did not contradict this conclusion. The Court also explained that despite a history of patent disputes being decided by the judicial system in 19th-century England, inter partes review did not violate the principle that Congress may not remove matters of common law from judicial purview. The opinion further noted that just because American courts have typically decided patent disputes, they need not always do so, as matters governed by the public rights doctrine may be assigned to any of the three branches of government.</p>\n<p>The Court stated that it has never adopted a \u201clooks like\u201d test to establish whether a matter was properly decided outside of an Article III court, meaning that drawing similarities between the inter partes review process and that of a court was inconsequential here. It also emphasized that its holding was narrow, and should not be misconstrued to suggest that patents are not property pursuant to the Due Process Clause or the Takings Clause.</p>\n<p>Finally, the Court held that inter partes review does not run afoul of the Seventh Amendment, explaining that when Congress properly assigns a matter to a non-Article III entity, the Seventh Amendment does not create an independent barrier to that body\u2019s adjudication of the dispute.</p>\n<p>Justice Breyer authored a concurring opinion, which was joined by Justices Ginsburg and Sotomayor. Justice Gorsuch authored a dissenting opinion, which was joined by Chief Justice Roberts.</p>\n"
+}

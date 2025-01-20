@@ -1,0 +1,42 @@
+{
+    "ID": 55473,
+    "name": "Plains Commerce Bank v. Long Family Land & Cattle Co.",
+    "href": "https://api.oyez.org/cases/2007/07-411",
+    "view_count": 0,
+    "docket_number": "07-411",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1199426400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39921"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1208149200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39922"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1214370000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39923"
+        }
+    ],
+    "question": "<p>Under the U.S. Supreme Court's decisions in <em>Montana v. U.S. _ and _Nevada v. Hicks</em>, do tribal courts have jurisdiction to hear claims based on civil suits against non-members who voluntarily did business with members?</p>\n",
+    "citation": {
+        "volume": "554",
+        "page": "316",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20767"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/554/316/",
+    "facts_of_the_case": "<p>The Long family, members of the Sioux nation, owned a cattle company that had been doing business with the Plains Commerce Bank for seven years when the family patriarch died. Because Plains Commerce was reluctant to grant operating loans to younger generation family members, it struck a deal with the Longs agreeing to provide the operating loans if the Longs deeded their farmland and house to the bank. According to the Longs the bank never followed through on its promise to provide the operating loans, and after the bank attempted to foreclose on the land the Longs brought suit in a local tribal court seeking a temporary restraining order blocking the land transfer as well as charging the bank with tortuous discrimination. The tribal court returned an award of $700,000 for the Longs, after which Plains Commerce filed suit in federal district court claiming that the tribal court had improperly exercised jurisdiction over the case.</p>\n<p>The district court decided that the tribal court had jurisdiction over the claim, and the U.S. Court of Appeals for the Eighth Circuit affirmed. In seeking Supreme Court review, Plains Commerce argued that the tribal court should not have had jurisdiction, and the Eighth Circuit erred in deciding so, because the claim did not fit into one of the exceptions granting such jurisdiction set forth by the Supreme Court in _Montana v. U.S. _ On the other hand, the Longs argued that federal courts whose geographic reach encompasses tribal lands have repeatedly allowed tribal courts to adjudicate civil suits against non-members who voluntarily did business with members.</p>\n",
+    "conclusion": "<p>Generally yes, but not in cases such as this one where the conflict arises over the sale of a piece of land. On this issue, the Court held unanimously that tribal courts do not have jurisdiction to hear disputes concerning non- Indian banks' sales of their own lands. Writing for the Court, Chief Justice John G. Roberts stated that although tribal courts have jurisdiction to regulate conduct occurring on tribal lands, that jurisdiction is lost once title to the land passes into the hands of non-Indians. Justice Ruth Bader Ginsburg, joined by Justices John Paul Stevens, David Souter, and Stephen Breyer, wrote an opinion concurring and dissenting in part, agreeing that the tribal court did not have jurisdiction to disturb the bank's land sale but suggesting that certain damages for discrimination, awarded based on the bank's mistreatment of the Longs due to their Indian heritage, should not have been overturned.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55977,
+    "name": "BG Group PLC v. Argentina",
+    "href": "https://api.oyez.org/cases/2013/12-138",
+    "view_count": 0,
+    "docket_number": "12-138",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1370840400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41283"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1385964000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41284"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1393999200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41564"
+        }
+    ],
+    "question": "<p>Is it the role of a court to decide whether a precondition to arbitration has been satisfied?</p>\n",
+    "citation": {
+        "volume": "572",
+        "page": "25",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20876"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that it is the duty of the arbitrating party in a contract lawsuit to interpret provisions outlined in the contract.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/572/25/",
+    "facts_of_the_case": "<p>In the early 1990s, BG Group PLC (BG), a British company, made a major investment in Argentina's natural gas industry. Later, in the midst of an economic crisis, Argentina enacted an emergency law that required investors to collect tariff revenues in Argentinian pesos at a rate of one peso per dollar. Given the weak international peso-to-dollar exchange rate, these changes that made it difficult for BG to see a return on its investment. Simultaneously, Argentina adopted legislation that stayed all lawsuits arising from the emergency measures. . BG sought recourse under a bilateral investment treaty (Treaty) between the United Kingdom and Argentina. The Treaty required that BG first attempt to resolve its dispute before a \"competent tribunal\" in Argentina for at least eighteen months. Instead, BG bypassed the Argentinian courts and submitted its dispute directly to an arbitral tribunal. The arbitral panel, seated in Washington, D.C., held that Argentina's changes to its judicial system excused the eighteen-month precondition to arbitration and awarded BG over US$185 million in damages. Argentina petitioned the district court to vacate the award under the Federal Arbitration Act by arguing that the arbitral panel exceeded its powers. The court denied the petition. The U.S. Court of Appeals, District of Columbia Circuit reversed and held that the determination of whether BG could submit its dispute directly to arbitration must be made by a court, not the arbitral tribunal.</p>\n",
+    "conclusion": "<p>No. Justice Stephen G. Breyer delivered the opinion for the 7-2 majority. The Court held that the task of interpreting the Treaty's local litigation provision fell to the arbitrator, and courts should give deference to the arbitrator's findings. Whether a party has satisfied a precondition to arbitration is a procedural matter left for arbitrators under ordinary contract law. The fact that the document at issue is a treaty does not make a critical difference because the text contained no evidence that the parties intended to bypass ordinary contract presumptions about who should decide threshold arbitration issues. The Court further held that the arbitrators' determination that the local litigation provision did not act as a bar to arbitration was within their interpretative authority.</p>\n<p>Justice Sonia Sotomayor wrote an opinion concurring in part in which she noted that explicitly labeling a local litigation provision as a condition on the parties' consent to arbitrate would change her analysis. Justice Sotomayor argued that such a label signals the parties' intent for courts, not arbitrators, to decide the issue.</p>\n<p>Chief Justice John G. Roberts, Jr. wrote a dissenting opinion in which he argued that the local litigation provision is a condition to the formation of an agreement between the investors and host country to eventually submit their dispute to arbitration. As courts usually decide issues concerning conditions on a party's consent to arbitrate, Justice Roberts would have remanded the case for further proceedings. Justice Anthony M. Kennedy joined in the dissent.</p>\n"
+}

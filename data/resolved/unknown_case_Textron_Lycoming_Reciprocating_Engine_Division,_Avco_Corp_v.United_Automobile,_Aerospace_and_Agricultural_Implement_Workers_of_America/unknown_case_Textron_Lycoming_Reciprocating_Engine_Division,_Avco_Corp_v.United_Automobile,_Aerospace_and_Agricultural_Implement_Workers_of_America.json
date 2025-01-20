@@ -1,0 +1,35 @@
+{
+    "ID": 54608,
+    "name": "Textron Lycoming Reciprocating Engine Division, Avco Corp v.United Automobile, Aerospace and Agricultural Implement Workers of America",
+    "href": "https://api.oyez.org/cases/1997/97-463",
+    "view_count": 0,
+    "docket_number": "97-463",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                888213600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37999"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                895467600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38000"
+        }
+    ],
+    "question": "<p>Does section 301 of the Labor-Management Relations Act permit a union to sue in federal court to declare a collective bargaining agreement voidable in the absence of any alleged violation of the agreement?</p>\n",
+    "citation": {
+        "volume": "523",
+        "page": "653",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18537"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/523/653/",
+    "facts_of_the_case": "<p>Textron Lycoming Reciprocating Engine Division and the United Automobile, Aerospace and Agricultural Implement Workers of America and its Local 187 are parties to a collective-bargaining agreement that required Textron to notify the Union before entering into any agreement to \"subcontract out\" work that would otherwise be performed by Union members. In 1994, Textron announced plans to subcontract out work that would have caused approximately one-half of the Union members to lose their jobs. Subsequently, the Union filed suit, alleging that Textron had fraudulently induced the Union to sign the collective-bargaining agreement. The complaint invoked section 301(a) of the Labor Management Relations Act, which confers federal subject matter jurisdiction over \"suits for violation of contracts\" between an employer and a labor organization. The District Court dismissed the complaint for lack of subject-matter jurisdiction, concluding that the cause of action alleged did not come within section 301(a). The Court of Appeals reversed.</p>\n",
+    "conclusion": "<p>No. In an opinion delivered by Justice Antonin Scalia, the Court held that neither it nor the lower federal courts have subject-matter jurisdiction under section 301 because the Union's complaint alleged no violation of the collective-bargaining agreement. \"Suits for violation of contracts\" under [section 301(a)] are not suits that claim a contract is invalid, but suits that claim a contract has been violated, wrote Justice Scalia. Justices John Paul Stevens and Stephen G. Breyer filed concurring opinions.</p>\n"
+}

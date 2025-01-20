@@ -1,0 +1,35 @@
+{
+    "ID": 55049,
+    "name": "Clackamas Gastroenterology Associates, P. C. v. Wells",
+    "href": "https://api.oyez.org/cases/2002/01-1435",
+    "view_count": 0,
+    "docket_number": "01-1435",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1046152800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38824"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1050987600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38825"
+        }
+    ],
+    "question": "<p>Should four physicians actively engaged in medical practice as shareholders and directors of a professional corporation be counted as employees under the Americans with Disabilities Act of 1990?</p>\n",
+    "citation": {
+        "volume": "538",
+        "page": "440",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/18978"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/538/440/",
+    "facts_of_the_case": "<p>Deborah Wells worked for Clackamas Gastroenterology Associates, P.C. from 1986 until 1997. Wells filed suit, alleging that Clackamas Gastroenterology violated the Americans with Disabilities Act of 1990 (ADA) when it terminated her employment. Clackamas moved for summary judgment, arguing that it was not covered by the Act because it did not have 15 or more employees for the 20 weeks required by the ADA. This argument depended on the four physician-shareholders, who own the professional corporation and constitute its board of directors, not being counted as employees. In granting the motion, the District Court concluded that the physicians were more analogous to partners in a partnership than to shareholders in a corporation and therefore were not employees under the ADA. In reversing, the Court of Appeals found no reasoned to permit the professional corporation to argue it was a partnership so as to avoid employment discrimination liability.</p>\n",
+    "conclusion": "<p>In a 7-2 opinion delivered by Justice John Paul Stevens, the Court held that the common-law element of control is the principal guidepost to be followed in deciding whether the four director-shareholder physicians in this case should be counted as employees and listed six factors that are relevant to such a decision. \"Because the District Court's findings appear to weigh in favor of concluding that the four physicians are not clinic employees, but evidence in the record may contradict those findings or support a contrary conclusion,\" the Court remanded the case for a determination under the new standard. Justice Ruth Bader Ginsburg, joined by Justice Stephen G. Breyer, dissented, arguing that the physician-shareholders function in several respects as common-law employees in their capacity as doctors performing everyday functions.</p>\n"
+}

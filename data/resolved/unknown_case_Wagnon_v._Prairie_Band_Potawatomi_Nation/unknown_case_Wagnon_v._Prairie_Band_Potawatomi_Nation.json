@@ -1,0 +1,42 @@
+{
+    "ID": 55313,
+    "name": "Wagnon v. Prairie Band Potawatomi Nation",
+    "href": "https://api.oyez.org/cases/2005/04-631",
+    "view_count": 0,
+    "docket_number": "04-631",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1109570400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39490"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1128315600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39491"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1133848800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39492"
+        }
+    ],
+    "question": "<p>When a State taxes receipt of fuel by non-tribal, off-reservation distributors, manufacturers, and importers, should the <em>White Mountain Apache v. Bracker</em> interest-balancing test apply if the fuel is later sold by an Indian tribe?</p>\n",
+    "citation": {
+        "volume": "546",
+        "page": "95",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/20611"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/546/95/",
+    "facts_of_the_case": "<p>The Prairie Band Potawatomi Nation, a sovereign Indian tribe, raises revenue with a tax on the gasoline sold at an on-reservation gas station. The Nation purchases the gas from non-Indian, off-reservation distributors. Kansas imposed a tax on distributors of motor fuels, which the distributors pass on to the gas stations they sell to. The Nation sued Wagnon, the Secretary of the Kansas Department of Revenue, seeking to avoid the tax. The Nation argued that the state's tax interfered with the tribe's sovereignty, and therefore was not allowed by federal law. Wagnon claimed that since the tax was on off-reservation suppliers, the Nation's sovereignty was unaffected. The District Court accepted that argument and ruled for Wagnon. The Tenth Circuit Court of Appeals reversed, applying the interest-balancing test prescribed by <em>White Mountain Apache Tribe v. Bracker.</em> The Circuit Court found that the tribe's interests in economic development, tribal self-sufficiency, and strong tribal government out-weighed Kansas's interest in raising revenue.</p>\n",
+    "conclusion": "<p>No. In a 7-2 decision authored by Justice Clarence Thomas, the Court ruled that the <em>White Mountain Apache v. Bracker</em> balancing test applies only where \"a State asserts authority over the conduct of non-Indians engaging in activity on the reservation.\" The Court ruled for Wagnon and upheld the tax, agreeing with the District Court that the balancing test should not apply to taxes on off-reservation distributors. Justice Thomas wrote that keeping the scope of the test narrow would maintain the traditional concept of tribal sovereignty, establish a \"bright-line standard\" in Indian tax-immunity, and still respect tribal authority over on-reservation activities. Justice Ginsburg wrote a dissent, which Justice Kennedy joined.</p>\n"
+}

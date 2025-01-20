@@ -1,0 +1,42 @@
+{
+    "ID": 63479,
+    "name": "Oklahoma v. Castro-Huerta",
+    "href": "https://api.oyez.org/cases/2021/21-429",
+    "view_count": 0,
+    "docket_number": "21-429",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1642744800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55074"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1651035600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55083"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1656478800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55143"
+        }
+    ],
+    "question": "<p>Do states have the authority to prosecute non-Natives who commit crimes against Natives on Native American lands?</p>\n",
+    "citation": {
+        "volume": "597",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27889"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held that a state has concurrent jurisdiction to prosecute non-Natives who commit crimes against Natives on Native American lands.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/597/21-429/",
+    "facts_of_the_case": "<p>Victor Manuel Castro-Huerta, a non-Native, was convicted in Oklahoma state court of child neglect, and he was sentenced to 35 years. The victim, his stepdaughter, is Native American, and the crime was committed within the Cherokee Reservation.</p>\n<p>Castro-Huerta challenged his conviction, arguing that under the Supreme Court\u2019s 2020 decision in McGirt v. Oklahoma, which held that states cannot prosecute crimes committed on Native American lands without federal approval. Oklahoma argued that McGirt involved a Native defendant, whereas Castro-Huerta is non-Native, so McGirt does not bar his prosecution by the state.</p>\n",
+    "conclusion": "<p>The federal government and the state have concurrent jurisdiction to prosecute crimes committed by non-Natives against Natives on Native American land. Justice Brett Kavanaugh authored the majority opinion of the Court.</p>\n<p>The Court has held that States have jurisdiction to prosecute crimes committed by non-Natives against non-Natives on Native American lands. Native American land is not separate from state territory. And States have jurisdiction to prosecute crimes committed on Native American land unless preempted. Preemption may occur either under ordinary principles of federal preemption, or when the exercise of state jurisdiction would unlawfully infringe on tribal self-government. Neither is present in this case, so states have jurisdiction to prosecute crimes committed by non-Natives against Natives on Native American land.</p>\n<p>Justice Neil Gorsuch authored a dissenting opinion, joined by Justices Stephen Breyer, Sonia Sotomayor, and Elena Kagan. Justice Gorsuch argued that the Court\u2019s decision \u200b\u200breneges on the federal government\u2019s centuries-old promise that tribes would remain forever free from interference by state authorities.</p>\n"
+}

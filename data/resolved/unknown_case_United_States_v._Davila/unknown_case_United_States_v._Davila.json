@@ -1,0 +1,42 @@
+{
+    "ID": 55930,
+    "name": "United States v. Davila",
+    "href": "https://api.oyez.org/cases/2012/12-167",
+    "view_count": 0,
+    "docket_number": "12-167",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1357279200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41152"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1366002000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41153"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1371099600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41154"
+        }
+    ],
+    "question": "<p>Did the magistrate judge's improper participation in a plea discussion warrant vacating the defendant's guilty plea?</p>\n",
+    "citation": {
+        "volume": "569",
+        "page": "597",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19852"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that a magistrate judge's improper participation in plea discussions does not warrant vacating a guilty plea.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/569/597/",
+    "facts_of_the_case": "<p>In early 2010, Anthony Davila was tried for defrauding the federal government by filing false tax returns. During a hearing before the magistrate judge, Davila requested to discharge his court-appointed attorney. Davila was concerned that the attorney had not discussed any possible trial strategies with him; the attorney merely insisted that Davila plead guilty. The magistrate judge explained to Davila that there might not be another viable option and that pleading guilty may be the best advice his attorney could have given him. Following the judge's advice, Davila plead guilty and was subsequently sentenced to 115 months imprisonment.</p>\n<p>Davila appealed to the United States Court of Appeals for the Eleventh Circuit. Davila argued that the magistrate judge's advice to plead guilty warranted a new trial. Under the Federal Rules of Criminal Procedure, the court must not be involved in any plea discussions. Since the judge commented on the weight of the evidence against Davila and suggested that a guilty plea would result in a more lenient sentence, he participated in such a plea discussion. As a result of this violation, Davila claimed that the court should vacate the judgment. The appellate court agreed with Davila, vacated the judgment, and remanded the case for further proceedings.</p>\n",
+    "conclusion": "<p>No. Justice Ruth Bader Ginsberg delivered the opinion for the 7-2 majority. The Court held that a judge's improper participation in plea discussions does not belong in the \"highly exceptional\" category of errors that trigger an automatic reversal of a defendant's guilty plea. Instead, such misconduct falls within the category of \"harmless error.\" Because Davila failed to raise the issue of the magistrate judge's comments at his hearing, he had the burden to show that, but for the misconduct, he would not have pled guilty. In this case, the three-month window between Davila's conversation with the magistrate and his guilty plea de-emphasized the role of the judge's comments in affecting the plea.</p>\n<p>Justice Antonin Scalia wrote an opinion concurring in part and concurring in the judgment. He argued that the case could be decided based simply on the text of the harmless error rule, which states that a harmless error is one that \"does not affect substantial rights.\" According to Scalia, the majority's analysis of legislative history to discern the scope of the harmless error rule was unnecessary. Justice Clarence Thomas joined in the partial concurrence and concurrence in judgment.</p>\n"
+}

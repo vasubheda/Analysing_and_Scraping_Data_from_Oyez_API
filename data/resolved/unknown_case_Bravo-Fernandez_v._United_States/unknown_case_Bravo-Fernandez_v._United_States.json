@@ -1,0 +1,42 @@
+{
+    "ID": 62693,
+    "name": "Bravo-Fernandez v. United States",
+    "href": "https://api.oyez.org/cases/2016/15-537",
+    "view_count": 0,
+    "docket_number": "15-537",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1459141200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53487"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1475557200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53867"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1480399200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53925"
+        }
+    ],
+    "question": "<p>Under the Double Jeopardy Clause, does the fact that a decision was vacated as unconstitutional prevent that case's acquittal from barring further prosecution on issues already decided in the defendant\u2019s favor?</p>\n",
+    "citation": {
+        "volume": "580",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27418"
+    },
+    "term": "2016",
+    "description": "A case in which the Court decided that the Double Jeopardy Clause does not bar retrial when a jury returns an inconsistent verdict of conviction and acquittal and the convictions are later vacated for a completely separate legal error.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/580/15-537/",
+    "facts_of_the_case": "<p>In May 2005, Juan Bravo-Fernandez, the president of a private security firm in Puerto Rico, and Hector Martinez-Maldonado, a member of the Puerto Rican Senate, traveled to Las Vegas to see a boxing match. Bravo-Fernandez and Martinez-Maldonado were later indicted on charges that Bravo-Fernandez\u2019s payment for the trip was connected to Martinez-Maldonado\u2019s support of legislation beneficial to the security firm. The charges included violations of the federal bribery statute, conspiracy, and the Travel Act, which prohibits travel in interstate commerce for a criminal purpose -- in this case, the violation of the federal bribery statute. The jury convicted the defendants of violating the federal bribery statute, but found the defendants not guilty of conspiracy to violate the statute or of violating the Travel Act. The U.S. Court of Appeals for the First Circuit vacated the convictions for violating the federal bribery statute because the jury was improperly instructed about what the government needed to prove. The appellate court remanded the case.</p>\n<p>Based on this holding, the district court entered an order that acquitted the defendants, but that order was vacated after the government clarified that the appellate court\u2019s decision vacating the federal bribery convictions did not require the district court to enter an order of acquittal. The district court subsequently entered an order that clarified that the bribery convictions were vacated. The defendants moved to reinstate the initial order and argued that it was a judgment of acquittal that, under the Double Jeopardy Clause, could not be rescinded. The district court denied the motion. The defendants then moved for acquittal and argued that the original acquittals for the Travel Act and conspiracy charges prevented the government from relitigating the bribery charges because a jury had already determined that the government failed to prove elements essential to conviction under the bribery statute. The defendants argued that the Double Jeopardy Clause prohibits relitigation of these issues. The district court denied the motion, and the appellate court affirmed.</p>\n",
+    "conclusion": "<p dir=\"ltr\">The Double Jeopardy Clause does not prevent the government from retrying defendants after a jury returns an irreconcilably inconsistent verdict of convictions and acquittals and the convictions are later vacated based on a different legal error. Justice Ruth Bader Ginsburg delivered the opinion for the unanimous Court. The Court determined that retrial in this case would be precluded if the U.S. Court of Appeals for the First Circuit had vacated the convictions (a) due to insufficient evidence or (b) to resolve the inconsistency of the jury\u2019s verdicts. However, because the vacated judgment was due to a legal error, the petitioners may be retried. The Court also drew a distinction between a hung jury and the jury\u2019s verdict in this case. A hung jury means a jury did not reach a decision at all; in this case, the jury supplied both an acquittal and a conviction, notwithstanding that the decision was vacated on appeal due to a legal error. Because it is unclear what the jury would have concluded without the legal error, the Government is not precluded from a new trial on the jury\u2019s returned convictions. </p>\n<p>In his concurring opinion, Justice Clarence Thomas wrote that the Court should reconsider the precedents established in Ashe v. Swenson and Yeager v. United States. In Ashe, the Court found that the Double Jeopardy Clause sometimes precludes a successive prosecution when facts essential to conviction of the second crime have been \u201cnecessarily\u201d resolved in an acquittal of the first crime. Justice Thomas argued that the Court erroneously extended Ashe in Yeager, which \u201cbar[red] retrial on hung counts\u201d after an earlier stage of the same proceeding, not a prior proceeding. However, because this decision did not extend the holding in those cases, Justice Thomas joined the majority opinion. </p>\n"
+}

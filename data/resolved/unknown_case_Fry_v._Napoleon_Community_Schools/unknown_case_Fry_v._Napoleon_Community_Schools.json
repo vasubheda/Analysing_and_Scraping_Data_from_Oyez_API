@@ -1,0 +1,42 @@
+{
+    "ID": 62734,
+    "name": "Fry v. Napoleon Community Schools",
+    "href": "https://api.oyez.org/cases/2016/15-497",
+    "view_count": 0,
+    "docket_number": "15-497",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1467090000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53876"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1477890000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53906"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1487743200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53975"
+        }
+    ],
+    "question": "<p>Does the Individuals with Disabilities Education Act\u2019s requirement that plaintiffs exhaust administrative remedies before suing under the Americans with Disabilities Act and the Rehabilitation Act apply to plaintiffs seeking damages, which are not available under the Individuals with Disabilities Education Act?</p>\n",
+    "citation": {
+        "volume": "580",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27445"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that the Individuals with Disabilities Education Act\u2019s requirement that plaintiffs exhaust administrative remedies before suing under the Americans with Disabilities Act and the Rehabilitation Act only applies to individuals seeking relief for the denial of a free and appropriate public education.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/580/15-497/",
+    "facts_of_the_case": "<p>The Frys\u2019 daughter, E.F., was born with cerebral palsy and was prescribed a service dog to assist with everyday tasks. Her school, which provided her with a human aide in accordance with her Individualized Education Plan (IEP) under the Individuals with Disabilities Education Act (IDEA), did not allow her to bring her service dog to school. The Frys sued the school, the principal, and the school district and argued that they violated the Americans with Disabilities Act (ADA), the Rehabilitation Act, and state disabilities laws. The district court granted the defendants\u2019 motion to dismiss because the claims necessarily implicated the IDEA, which required plaintiffs to exhaust all administrative remedies before suing under the ADA and Rehabilitation Act. The Frys appealed and argued that the exhaustion requirement did not apply because they were seeking damages, which is not the sort of relief the IDEA provided. The U.S. Court of Appeals for the Sixth Circuit affirmed the dismissal and held that the Frys\u2019 claims were essentially educational, which are precisely the sort of claims the IDEA was meant to address, and therefore the exhaustion requirement applied.</p>\n",
+    "conclusion": "<p dir=\"ltr\">The Individuals with Disabilities Education Act (IDEA) does not require that a plaintiff exhaust administrative remedies before suing under the Americans with Disabilities Act if the plaintiff\u2019s claims are not based in, and seeking relief for, the denial of a free and appropriate public education (FAPE). Justice Elena Kagan delivered the opinion for the 8-0 majority. The Court held that the plain language of the exhaustion requirement in the IDEA only applies to remedies that are \u201cavailable\u201d under that statutory scheme, which is entirely structured around ensuring the provision of FAPE. If a lawsuit is not seeking relief for the denial of FAPE, then it is not seeking an available remedy under the IDEA, and the exhaustion requirement does not apply. Therefore, in determining whether the plaintiff must exhaust administrative remedies, courts must examine the substance of the plaintiff\u2019s complaint to determine whether the plaintiff is seeking relief for a denial of FAPE. Although this examination must do more than look at how the plaintiff labels the relief she seeks, it does not require that the court determine the plaintiff could have sought such relief. In this case, the Frys\u2019 complaint alleges only disability-based discrimination and makes no allegations about the denial of FAPE, but the Court did not foreclose the possibility that a more in-depth examination would reveal something different.</p>\n<p>Justice Samuel A. Alito, Jr., wrote an opinion concurring in part and concurring in the judgment in which he argued that some of the indicators the majority opinion identified as helpful in determining whether a complaint sought relief for denial of FAPE would only confuse lower courts. Justice Clarence Thomas joined in the concurrence in part and concurrence in the judgment.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 62730,
+    "name": "Beckles v. United States",
+    "href": "https://api.oyez.org/cases/2016/15-8544",
+    "view_count": 0,
+    "docket_number": "15-8544",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1467003600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53844"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1480312800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53917"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1488780000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53987"
+        }
+    ],
+    "question": "<p>Because the residual clause defining a \u201ccrime of violence\u201d in the Sentencing Guidelines is identical to the one that the Supreme Court held unconstitutional in <em>Johnson v. United States</em>, does that ruling apply retroactively to sentences imposed under the Sentencing Guidelines?</p>\n",
+    "citation": {
+        "volume": "580",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27441"
+    },
+    "term": "2016",
+    "description": "A case in which the Court held that its holding in Johnson v. US regarding the unconstitutionality of the residual clause in the Armed Criminal Career Act does not apply retroactively to identical language in the Sentencing Guidelines.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/580/15-8544/",
+    "facts_of_the_case": "<p>On April 11, 2007, Travis Beckles was arrested because a sawed-off shotgun was located in his residence, and he had previous felony convictions, mostly for drug possession and sales. Beckles was convicted, and during the sentencing phase of his trial, the district court determined that Beckles was an armed career criminal under the Armed Career Criminal Act (ACCA) who had been in possession of a firearm and was therefore subject to sentencing enhancement under the Sentencing Guidelines. Pursuant to the Sentencing Guidelines, Beckles was eligible for a sentence range from 360 months to life imprisonment, and the court sentenced him to 360 months in prison, five months of supervised release, and a $5,000 fine. Beckles appealed and argued that the Sentencing Guidelines imposed an unreasonable sentence, that his prior convictions did not qualify as \u201cviolent felonies\u201d subject to sentencing enhancement under ACCA, and that possession of a sawed-off shotgun was not a \u201ccrime of violence\u201d subject to sentencing enhancement under the Sentencing Guidelines. The U.S. Court of Appeals for the Eleventh Circuit affirmed Beckles\u2019 conviction and sentence.</p>\n<p>The U.S. Supreme Court vacated the appellate court\u2019s decision and remanded the case for reconsideration in light of <em>Johnson v. United States</em>, which determined that the residual clause of ACCA was unconstitutional. On remand, the appellate court again upheld Beckles\u2019 conviction and sentence because possession of a sawed-off shotgun was a \u201ccrime of violence.\u201d The appellate court also held that the <em>Johnson</em> decision did not affect this case because Beckles was not sentenced under the residual clause of ACCA but rather under express language from the Sentencing Guidelines about sentencing enhancements for crimes of violence.</p>\n",
+    "conclusion": "<p dir=\"ltr\">The Court\u2019s holding in Johnson v. US does not apply to the Sentencing Guidelines. Justice Clarence Thomas delivered the opinion for the 7-0 majority. The Court held that the Sentencing Guidelines were not unconstitutionally vague like the residual clause in the Armed Career Criminal Act (ACCA) because the Sentencing Guidelines are a simply a guide to assist judges exercise discretion in sentencing. The Sentencing Guidelines are primarily advisory, and do not necessarily constrain judge\u2019s discretion. While the ACCA provides notice of potential punishment by providing the range of potential imprisonment length, the Sentencing Guidelines need not do so, as they are meant to guide judges and therefore need not provide notice to people who might be prosecuted. </p>\n<p>In his concurring opinion, Justice Anthony M. Kennedy noted that while Sentencing Guidelines are not necessarily immune from constitutional challenges, they may not be challenged for vagueness. </p>\n<p>Justice Ruth Bader Ginsburg wrote an opinion concurring in judgment in which she stated that, since Beckles was already convicted of a crime of violence under the ACCA, he could not challenge the Sentencing Guidelines. She asserted that the Court should wait until a case better-suited for ruling on the constitutionality of the Sentencing Guidelines was before it. In her separate opinion concurring in the judgment, Justice Sonia Sotomayor agreed with Justice Ginsburg that the Court did not need to rule on the Sentencing Guidelines because Beckles had already been convicted under the ACCA. Additionally, Justice Sotomayor stated that, because the Sentencing Guidelines provided such strong guidance, they should be subject to vagueness challenges under the Due Process Clause.</p>\n<p>Justice Elena Kagan did not participate in the decision of this case.</p>\n"
+}

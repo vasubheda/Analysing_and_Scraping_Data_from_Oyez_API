@@ -1,0 +1,42 @@
+{
+    "ID": 55641,
+    "name": "NRG Power Marketing, LLC v. Maine Pub. Util. Comm'n",
+    "href": "https://api.oyez.org/cases/2009/08-674",
+    "view_count": 0,
+    "docket_number": "08-674",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1240808400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40388"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1257228000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40389"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1263362400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40390"
+        }
+    ],
+    "question": "<p>Does the <em>Mobile-Sierra</em> doctrine's public interest standard apply to non-parties to a FERC settlement?</p>\n",
+    "citation": {
+        "volume": "558",
+        "page": "165",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19564"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that the Mobile-Sierra doctrine, which is premised on the existence of a \"voluntary contract\" between parties, applies to non-parties in a Federal Energy Regulatory Commission settlement.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/558/165/",
+    "facts_of_the_case": "<p>The Maine Public Utilities Commission along with the attorneys general of Connecticut and Massachusetts filed for petitions of review of orders of the Federal Energy Regulatory Commission (FERC). FERC approved a settlement and redesigned New England's \"capacity\" electricity market, which Maine, Connecticut, and Massachusetts were subject to, even though they were not parties to the settlement. FERC denied their request for rehearing.</p>\n<p>On appeal to the U.S. Court of Appeals for the District of Columbia, Maine, Connecticut, and Massachusetts argued that FERC erred in finding that \"transition payments\" under the settlement should be reviewed under the \"public interest\" standard as dictated by <em>Mobile-Sierra</em> rather than the \"just and reasonable\" standard. The District of Columbia Circuit agreed holding that the <em>Mobile-Sierra</em> doctrine should not apply to non-parties to the settlement agreement. It reasoned that the <em>Mobile-Sierra</em> doctrine is premised on the existence of a \"voluntary contract\" between the parties. Maine, Connecticut, and Massachusetts never entered a voluntary agreement with FERC and therefore the standard was inappropriate.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court reversed U.S. Court of Appeals for the District of Columbia to the extent that it rejected the application of <em>Mobile-Sierra</em> to non-contracting parties. With Justice Ruth Bader Ginsburg writing for the majority and joined by Chief Justice John G. Roberts, and Justices Antonin G. Scalia, Anthony M. Kennedy, Clarence Thomas, Stephen G. Breyer, Samuel A. Alito, and Sonia Sotamayor, the Court held that <em>Mobile-Sierra</em> controls the FERC as well as challenges to contract rates brought by contracting and non-contracting parties. The Court reasoned that <em>Mobile-Sierra</em> is not an exception to the just-and-reasonable standard, but rather an application of that standard to the context of rates set by contract.</p>\n<p>Justice John Paul Stevens wrote a separate dissenting opinion. He argued in part that this case was clearly outside the context of the <em>Mobile-Sierra</em> doctrine. He further argued that the majority's decision imposes \"a special burden\" on non-contracting parties attempting to exercise their rights to object to unreasonable rates. He reasoned that such a rule was a \"quantum leap\" from the origins of the Supreme Court's rate setting jurisprudence.</p>\n"
+}

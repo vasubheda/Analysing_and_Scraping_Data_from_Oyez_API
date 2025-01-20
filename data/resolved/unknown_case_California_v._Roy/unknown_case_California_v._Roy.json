@@ -1,0 +1,28 @@
+{
+    "ID": 54549,
+    "name": "California v. Roy",
+    "href": "https://api.oyez.org/cases/1996/95-2025",
+    "view_count": 0,
+    "docket_number": "95-2025",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                847087200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37890"
+        }
+    ],
+    "question": "<p>Did the Court of Appeals, in applying a special harmless-error standard, apply a too-strict harmless-error standard for the purposes of federal habeas corpus review of a California trial judge's error in instructing a jury as to the elements of the crime of first-degree murder?</p>\n",
+    "citation": {
+        "volume": "519",
+        "page": "2",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18478"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/519/2/",
+    "facts_of_the_case": "<p>A California court convicted Kenneth Roy of robbery and first-degree murder. The State argued that Roy, in coming to the aid of a confederate who was committing the robbery, helped with the murder. The jury had been instructed that it could convict if Roy, with knowledge of the confederate's unlawful purpose, had helped the confederate. The State Supreme Court later held an identical instruction erroneous because it did not require the jury to find that a defendant had the knowledge and intent or purpose of committing, encouraging, or facilitating the confederate's crime. The State Court of Appeal affirmed Roy's conviction, finding that the error was harmless. On federal habeas review, the Federal District Court also found the error harmless, reasoning that no rational juror could have found that Roy knew the confederate's purpose and helped him but also did not intend to help him. In reversing, the en banc Court of Appeals applied a special harmless-error standard and held that the omission of the instruction's intent part is harmless only if a review of the assistance and knowledge facts found by the jury establishes that the jury necessarily found the omitted intent element.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion, the Court held that as a federal court reviewing a state-court determination in a habeas corpus proceeding, the Court of Appeals should have applied the harmless-error standard whether the error had substantial and injurious effect or influence in determining the jury's verdict. The Court reasoned that the error at issue, a misdescription of an element of the crime, was an error of omission and not an error of the structural sort in the trial mechanism that defies harmless-error analysis.</p>\n"
+}

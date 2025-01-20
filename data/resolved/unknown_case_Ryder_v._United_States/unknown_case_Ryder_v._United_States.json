@@ -1,0 +1,35 @@
+{
+    "ID": 54285,
+    "name": "Ryder v. United States",
+    "href": "https://api.oyez.org/cases/1994/94-431",
+    "view_count": 0,
+    "docket_number": "94-431",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                798181200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37400"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                802933200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37401"
+        }
+    ],
+    "question": "<p>Is it proper to accord de facto validity to the actions of civilian judges on a military appellate panel, when the accused challenges the composition of the panel as a violation of the Constitution's Appointments Clause?</p>\n",
+    "citation": {
+        "volume": "515",
+        "page": "177",
+        "year": "1995",
+        "href": "https://api.oyez.org/case_citation/case_citation/18214"
+    },
+    "term": "1994",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/515/177/",
+    "facts_of_the_case": "<p>James Ryder, an enlisted member of the Coast Guard, was convicted of drug offenses by a court-martial. The Coast Guard Court of Military Review affirmed. On rehearing, the court rejected Ryder's claim that its composition violated the Appointments Clause because two of the judges on the three-judge panel were civilians appointed by the General Counsel of the Department of Transportation. The Court of Military Appeals agreed with Ryder that the appointments violated the Clause under its previous decision in United States v. Carpenter that appellate military judges are inferior officers who must be appointed by a President, a court of law, or a head of a department. The court nonetheless affirmed Ryder's conviction on the ground that the actions of the two civilian judges were valid de facto.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Chief Justice William H. Rehnquist, the Court held that the judges' actions were not valid de facto. The Court reasoned that a defendant who made a timely challenge to the constitutional validity of the appointment of an officer who adjudicates his case was entitled to a decision on the merits of the question and whatever relief may be appropriate if a violation had occurred. The Court also noted that review by the properly constituted Court of Military Appeals did not necessarily give Ryder all the possibility for relief that review by a properly constituted Coast Guard Court of Military Review would have given him.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55220,
+    "name": "Pasquantino v. United States",
+    "href": "https://api.oyez.org/cases/2004/03-725",
+    "view_count": 0,
+    "docket_number": "03-725",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1081141200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39235"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1099980000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39236"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1114491600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39237"
+        }
+    ],
+    "question": "<p>Did a plot to defraud a foreign government of tax revenue violate the federal wire fraud statute?</p>\n",
+    "citation": {
+        "volume": "544",
+        "page": "349",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19148"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/544/349/",
+    "facts_of_the_case": "<p>Carl J. Pasquantino, David B. Pasquantino and Arthur Hilts smuggled large quantities of liquor from the United States into Canada to evade that country's heavy alcohol import taxes. A federal district court convicted them for violating the federal wire fraud statute, which prohibited the use of interstate wires for \"any scheme or artifice to defraud, or for obtaining money or property by means of false or fraudulent pretenses.\" The Fourth Circuit affirmed their convictions, rejecting the petitioners' argument that they could not be prosecuted because of the common-law revenue, which rule barred courts from enforcing foreign tax laws.</p>\n",
+    "conclusion": "<p>Yes. In a 5-4 opinion delivered by Justice Clarence Thomas, the Court held that the law's plain language criminalized the smuggling scheme in this case. The common-law revenue rule did not bar the prosecution of the scheme, because no common-law case as of 1952 clearly established that the rule barred the U.S. from prosecuting a fraudulent scheme to evade foreign taxes.</p>\n"
+}

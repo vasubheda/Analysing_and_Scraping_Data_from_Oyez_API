@@ -1,0 +1,35 @@
+{
+    "ID": 55051,
+    "name": "Chavez v. Martinez",
+    "href": "https://api.oyez.org/cases/2002/01-1444",
+    "view_count": 0,
+    "docket_number": "01-1444",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1038981600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38828"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1054011600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38829"
+        }
+    ],
+    "question": "<p>Are a suspect's Fifth Amendment right against self-incrimination and his Fourteenth Amendment substantive due process right to be free from coercive questioning violated when he was subjected to coercive questioning while in police custody, even if his coerced statements were never used against him in a criminal case?</p>\n",
+    "citation": {
+        "volume": "538",
+        "page": "760",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/18980"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/538/760/",
+    "facts_of_the_case": "<p>Oliverio Martinez was stopped while riding his bicycle home from work by police investigating narcotics violations. When police attempted to handcuff him, a struggle ensued, but it is unclear who started it. During the struggle, Martinez was shot, resulting in permanent paralysis and loss of vision. A year later he sued the officers, saying the search and use of deadly force were unconstitutional. The officers introduced as evidence in their defense a taped confession obtained while Martinez was receiving medical treatment in the hospital, in which he admitted to grabbing the gun of one of the officers during the struggle. Martinez claimed that the tape could not be used as evidence because he had not been read his Miranda rights. The district court ruled with Martinez that the tape was inadmissible. The 9th Circuit Court of Appeals unanimously affirmed.</p>\n",
+    "conclusion": "<p>No; the Court remanded the substantive due process portion of the question. In a 6-3 judgment delivered by Justice Clarence Thomas, the Court held that Chavez did not deprive Martinez of his Fifth Amendment rights. Chief Justice William H. Rehnquist and Justices Sandra Day O'Connor and Antonin Scalia, joined Justice Thomas. Justice David H. Souter, joined by Justice Stephen G. Breyer, reasoned that Martinez's claim that his questioning alone was a violation of the Fifth and Fourteenth Amendments could be recognized if a \"core guarantee\" would be placed at risk; however, Martinez could not make the showing necessary to expand protection of the privilege against self-incrimination. Regarding substantive due process, Justice Souter delivered a 5-4 holding concluding that the issue whether Martinez may pursue a claim of liability for a substantive due process violation should be addressed on remand.</p>\n"
+}

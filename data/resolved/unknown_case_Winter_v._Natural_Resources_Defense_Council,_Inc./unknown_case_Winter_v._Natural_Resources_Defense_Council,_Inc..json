@@ -1,0 +1,42 @@
+{
+    "ID": 55539,
+    "name": "Winter v. Natural Resources Defense Council, Inc.",
+    "href": "https://api.oyez.org/cases/2008/07-1239",
+    "view_count": 0,
+    "docket_number": "07-1239",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1214197200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40102"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1223442000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40103"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1226469600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40104"
+        }
+    ],
+    "question": "<p>Can federal courts grant preliminary injunctions on Naval training exercises based on the possible negative environmental impact of those exercises when the Navy fails to complete an Environmental Impact Statement as required by the National Environmental Policy Act?</p>\n<p>What circumstances are necessary to allow the Navy to conduct exercises without an Environmental Impact Statement under the \"emergency circumstances\" exception of the National Environmental Policy Act?</p>\n",
+    "citation": {
+        "volume": "555",
+        "page": null,
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20791"
+    },
+    "term": "2008",
+    "description": "A case in which the Court held that the standard for properly granting a preliminary injunction is not based on the \"possibility\" of irreparable harm to marine life, but rather that \"irreparable injury is likely\" in the absence of such an injunction.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>Natural Resources Defense Council along with other environmental groups object to the \"SOCAL\" exercises, scheduled to take place between February 2007 and January 2009. The groups felt the exercises would cause serious harm to various species of marine mammal present in the southern California waters. The groups sought a preliminary injunction to prevent the Navy from carrying out the exercises. The district court granted the injunction, finding that the NRDC had demonstrated probable success on its claim that the Navy had violated the National Environmental Policy Act by failing to prepare an Environmental Impact Statement (EIS) regarding the exercises. The district court also denied the efforts of the Council on Environmental Quality to provide \"alternative arrangements\" for the Navy to proceed without an EIS. The district court stated that such arrangements require \"emergency circumstances\" not applicable to the case</p>\n<p>The U.S. Court of Appeals for the Ninth Circuit agreed with the district court and upheld the decision granting the injunction. The court reviewed the findings under an \"abuse of discretion\" standard and determined that the district court had not abused its discretion in finding that the environmental groups raised substantial questions as to whether the exercises would have a significant impact on the environment and that these claims were likely to succeed on the merits. Furthermore, the district court had acted properly when it found that allowing long-planned, routine training exercises to meet the \"emergency circumstances\" exception would create an unacceptably broad definition of that phrase.</p>\n",
+    "conclusion": "<p>No and not specifically determined. The Supreme Court held in a 5-4 decision authored by Chief Justice John G. Roberts that the standard for properly granting a preliminary injunction is not based on the \"possibility\" of irreparable harm to marine life, but rather that \"irreparable injury is likely\" in the absence of such an injunction. Regardless, the Court reasoned that in this case the public interest in conducting naval training exercises outweighed even certain irreparable harm to marine life. Therefore, the Court reversed the Court of Appeals for the Ninth Circuit and removed the preliminary injunction against the Navy's training exercises. It further instructed that if a district court finds the Navy must complete an Environmental Impact Statement, it need find alternative ways to persuade the Navy to comply, other than through an injunction.</p>\n<p>Justice Stepehen G. Breyer filed a separate opinion, concurring in part and dissenting in part. While agreeing with much of the majority's reasoning, he advocated keeping in place the court of appeals' modified injunction against naval exercises, at least until Navy's publication of an acceptable Environmental Impact Statement. Justice Ruth Bader Ginsberg joined by Justice David H. Souter dissented finding that the District Court appropriately used its discretion to order a preliminary injunction against the Navy.</p>\n"
+}

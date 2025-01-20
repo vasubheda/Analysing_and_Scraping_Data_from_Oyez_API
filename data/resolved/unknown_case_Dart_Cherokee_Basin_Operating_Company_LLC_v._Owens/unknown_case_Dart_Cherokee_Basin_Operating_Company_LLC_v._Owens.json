@@ -1,0 +1,42 @@
+{
+    "ID": 56111,
+    "name": "Dart Cherokee Basin Operating Company LLC v. Owens",
+    "href": "https://api.oyez.org/cases/2014/13-719",
+    "view_count": 0,
+    "docket_number": "13-719",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1396846800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41698"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1412658000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41699"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1418623200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41700"
+        }
+    ],
+    "question": "<p>Is a defendant seeking removal of a case to federal court required to provide evidence supporting federal jurisdiction in the notice of removal?</p>\n",
+    "citation": {
+        "volume": "574",
+        "page": "81",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20922"
+    },
+    "term": "2014",
+    "description": "A case in which the Court ruled that a defendant seeking removal of a case to federal court is not required to provide evidence supporting federal jurisdiction in the notice of removal.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/574/81/",
+    "facts_of_the_case": "<p>On October 30, 2012, Brandon W. Owens filed a class action petition in state court that alleged that Dart Cherokee Basin Operating Company and Cherokee Basin Pipeline underpaid the members on the class on royalties they were owed from wells. The petition alleged that this underpayment constituted a breach of contract and sought damages without specifying an amount.</p>\n<p>On December 5, 2012, the defendants removed the case from state court to federal district court and cited that federal jurisdiction existed under the Class Action Fairness Act of 2005 (CAFA). CAFA requires that three elements be established for a class action case to fall under federal jurisdiction: at least one plaintiff and one defendant must be citizens of different states, the class must consist of at least 100 members, and the amount in controversy must exceed $5 million. The defendants in this case claimed that they met the requirements for removal to federal court under CAFA because the amount in controversy exceeded $8 million, but did not include specific evidence in the notice of removal. The federal district court held that defendants had not provided evidence that the amount in controversy exceeded $5 million in the notice of removal and therefore remanded the case back to state court.</p>\n<p>The U.S. Court of Appeals for the Tenth Circuit held that the district court should not have remanded the case because requiring the party requesting the removal to produce evidence that the amount in controversy exceeds $5 million creates an evidentiary burden. The Court of Appeals held that that such evidence is wholly unnecessary unless the removal is contested. A party requesting that a case be removed to federal court need only allege that the grounds for removal exist and need only prove those allegations if they are contested.</p>\n",
+    "conclusion": "<p>No. Justice Ruth Bader Ginsburg delivered the opinion for the 5-4 majority. The Court held that a defendant's notice of removal to federal court must only include a plausible allegation that the amount in controversy exceeds the federal jurisdictional threshold, not evidentiary proofs. Because the requirements for a notice of removal track those for a normal pleading, the defendant seeking removal should similarly be allowed to allege in good faith that the amount in controversy is sufficient. Evidence only becomes necessary in response to a plaintiff's contestation of the removal.</p>\n<p>Justice Antonin Scalia wrote a dissent in which he argued that the only issue properly before the Court was whether the appellate court abused its discretion. Because the majority opinion addressed the district court's analysis, it presumed the basis for a lower court's decision, which violates previously established standards of review. Justice Anthony M. Kennedy, Justice Elena Kagan, and Justice Clarence Thomas joined in the dissent. In his separate dissent, Justice Thomas wrote that the Court did not have the jurisdiction to review the appellate court's decision because the Court can only review \"cases\" that were before an appellate court. This case does not qualify for such review because it was never before the court seeking a remedy or redress for legal injury; instead, the appellate court denied the application for permission to appeal a remand order.</p>\n"
+}

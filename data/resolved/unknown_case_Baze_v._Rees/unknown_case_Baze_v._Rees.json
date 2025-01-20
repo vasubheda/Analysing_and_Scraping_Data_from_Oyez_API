@@ -1,0 +1,42 @@
+{
+    "ID": 55460,
+    "name": "Baze v. Rees",
+    "href": "https://api.oyez.org/cases/2007/07-5439",
+    "view_count": 0,
+    "docket_number": "07-5439",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1190696400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39885"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1199685600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39886"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1208322000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52230"
+        }
+    ],
+    "question": "<p>Is the use of a four-drug lethal injection process to carry out death sentences a violation of the Eighth Amendment ban on cruel and unusual punishment?</p>\n",
+    "citation": {
+        "volume": "553",
+        "page": "35",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20771"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/553/35/",
+    "facts_of_the_case": "<p>Two Kentucky inmates challenged the state's four-drug lethal injection protocol. The lethal injection method calls for the administration of four drugs: Valium, which relaxes the convict, Sodium Pentathol, which knocks the convict unconscious, Pavulon, which stops his breathing, and potassium chloride, which essentially puts the convict into cardiac arrest and ultimately causes death. The Kentucky Supreme Court held that the death penalty system did not amount to unconstitutional cruel and unusual punishment.</p>\n",
+    "conclusion": "<p>In a 7-2 decision with four concurrences and a dissent, the Court held that Kentucky's lethal injection scheme did not violate the Eighth Amendment. Noting that the inmates had conceded the \"humane nature\" of the procedure when performed correctly, the divided Court inmates had failed to prove that incorrect administration of the drugs would amount to cruel and unusual punishment. However, the Court also suggested that a state may violate the ban on cruel and unusual punishment if it continues to use a method without sufficient justification in the face of superior alternative procedures. Chief Justice John G. Roberts, Jr. announced the judgment and issued an opinion joined by Justices Anthony Kennedy and Samuel A. Alito. Justice John Paul Stevens wrote a separate concurring opinion supporting the judgment but for the first time stated his opposition to the death penalty. Justice Antonin Scalia, joined by Justice Clarence Thomas, wrote a separate concurring opinion in support of the judgment. Justice Alito also issued a separate concurring opinion. Justice Ruth Bader Ginsburg, joined by Justice David Souter, dissented.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 54499,
+    "name": "Immigration and Naturalization Service v. Yueh-Shaio Yang",
+    "href": "https://api.oyez.org/cases/1996/95-938",
+    "view_count": 0,
+    "docket_number": "95-938",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                845355600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37798"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                847864800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37799"
+        }
+    ],
+    "question": "<p>May the Imigration and Naturalization Service, when deciding whether to grant a discretionary waiver of deportation under the applicable provision of the Immigration and Nationality Act, take into account acts of fraud committed by an alien in connection to his entry into the United States?</p>\n",
+    "citation": {
+        "volume": "519",
+        "page": "26",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18428"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/519/26/",
+    "facts_of_the_case": "<p>Yueh-Shaio Yang and his wife, former Taiwan residents, executed elaborate fraudulent schemes to gain entry to the United States and, later, to obtain Yang's citizenship. While Yang's naturalization application was pending, the Immigration and Naturalization Service (INS) learned of his unlawful entry and issued an order to show cause why he should not be deported at the time of entry. Yang conceded that he was deportable and filed a request for a waiver of deportation under the Immigration and Nationality Act with the Attorney General. An Immigration Judge denied Yang's request. In affirming, the Board of Immigration Appeals found that Yang was statutorily eligible for a waiver, but denied it as a matter of discretion. In vacating, the Court of Appeals held that the Board had abused its discretion by considering the adverse factors of Yang's participation in his wife's fraudulent entry and, secondly, his fraudulent naturalization application. The court reasoned that Yang's actions in his wife's fraudulent entry were \"inextricably intertwined\" with his own efforts to secure entry and must be considered part of the initial fraud, while his application must be considered an \"extension\" of that initial fraud.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous decision, authored by Justice Antonin Scalia, the Court ruled that in deciding whether to grant a waiver under the Immigration and Nationality Act, the Attorney General or her delegate, the Immigration and Naturalization Service, may take into account acts of fraud committed by the alien in connection to his entry into the United States. Justice Scalia wrote, the Act \"imposes no limitations on the factors that the INS may consider in determining who, among the class of eligible aliens, should be granted relief.\"</p>\n"
+}

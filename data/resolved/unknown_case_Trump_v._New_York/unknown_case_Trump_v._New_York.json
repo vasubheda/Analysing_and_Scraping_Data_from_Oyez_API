@@ -1,0 +1,42 @@
+{
+    "ID": 63296,
+    "name": "Trump v. New York",
+    "href": "https://api.oyez.org/cases/2020/20-366",
+    "view_count": 0,
+    "docket_number": "20-366",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1600750800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54795"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1606716000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54796"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1608271200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54813"
+        }
+    ],
+    "question": "<p>1. Does a group of states and local governments have standing under Article III of the Constitution to challenge a July 21, 2020, memorandum by President Donald Trump instructing the secretary of commerce to include in his report on the 2020 census information enabling the president to exclude noncitizens from the base population number for purposes of apportioning seats in the House of Representatives?\u00a0</p>\n<p>2. Is the memorandum is a permissible exercise of the President\u2019s discretion under the provisions of law governing congressional apportionment?</p>\n",
+    "citation": {
+        "volume": "592",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27780"
+    },
+    "term": "2020",
+    "description": "A case in which the Court was asked to decide whether a memorandum by President Donald Trump instructing the Secretary of Commerce to include in his report on the 2020 census information enabling the President to exclude noncitizens from the base population number for purposes of apportioning seats in the House of Representatives.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/592/20-366/",
+    "facts_of_the_case": "<p>On July 21, 2020, President Donald Trump announced that the population figures used to determine the apportionment of Congress would, in a reversal of long-standing practice, exclude non-citizens who are not lawfully present in the United States. To implement this new policy, the President ordered the Secretary of Commerce to provide him two sets of numbers for each state. The first number was the total population as determined in the 2020 census and the second, the total population as determined in the 2020 census minus the number of \"aliens who are not in a lawful immigration status.\" The President left it to the Secretary to determine how to calculate the latter figure, but since the 2020 census did not not collect information regarding citizenship status, let alone legal immigration status in this country, it remained unclear how the Secretary would obtain that number.</p>\n<p>Immediately after the President filed the memorandum, two sets of plaintiffs\u2014a coalition of 22 States and D.C., 15 cities and counties, and the U.S. Conference of Mayors (the \"Governmental Plaintiffs\"); and a coalition of non-governmental organizations\u2014challenged the decision to exclude illegal aliens from the apportionment base for Congress on the ground that it violates the Constitution, statutes governing the census and apportionment, and other laws.</p>\n<p>The federal district court found for the plaintiffs, concluding that by directing the Secretary to provide two sets of numbers, one derived from the census and one not, and announcing that it is the policy of the United States to use the latter to apportion the House, the memorandum violated the statutory scheme. In addition, the court concluded that the memorandum violated the statute governing apportionment because, so long as they reside in the United States, illegal aliens qualify as \u201cpersons in\u201d a \u201cState\u201d as Congress used those words.</p>\n",
+    "conclusion": "<p>In a per curiam (unsigned) opinion, the Court held that the plaintiffs in this case had not shown standing and that their claims were not ripe for adjudication. As such, the Court vacated the District Court\u2019s judgment and remanded the case with instructions to dismiss for lack of jurisdiction.</p>\n<p>For a federal court to have jurisdiction to hear a case, the plaintiffs must demonstrate they have standing, which requires \u201can injury that is concrete, particularized, and imminent rather than conjectural or hypothetical. Further, the case must be \u201cripe\u201d\u2014that is, it must not depend on \u201ccontingent future events that may not occur as anticipated, or indeed may not occur at all.\u201d</p>\n<p>Although the President clearly expressed his desire to exclude unlawfully present noncitizens from the apportionment base \u201cto the extent practicable,\u201d it remains mere conjecture whether and how the Executive Branch might eventually implement this general statement of policy. Moreover, the plaintiffs had suffered no concrete harm from the policy itself, because the policy \u201cdoes not require them \u2018to do anything or to refrain from doing anything.\u2019\u201d As such, the courts lack jurisdiction to hear the case because the plaintiffs have not demonstrated Article III standing or that the case is ripe for review.</p>\n<p>Justice Stephen Breyer authored a dissenting opinion, in which Justices Sonia Sotomayor and Elena Kagan joined. The dissent argued that the plaintiffs did have standing based on its own precedents in census cases, which have recognized standing based on a substantial risk of anticipated apportionment harm. Justice Breyer also argued that the question is ripe for resolution, and as such, that the plaintiffs should prevail on the merits because \u201cthe plain meaning of the governing statutes, decades of historical practice, and uniform interpretations from all three branches of Government demonstrate that aliens without lawful status cannot be excluded from the decennial census solely on account of that status.\u201d</p>\n"
+}

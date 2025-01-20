@@ -1,0 +1,35 @@
+{
+    "ID": 55733,
+    "name": "Bobby v. Mitts",
+    "href": "https://api.oyez.org/cases/2010/10-1000",
+    "view_count": 0,
+    "docket_number": "10-1000",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1304312400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40619"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1304312400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40620"
+        }
+    ],
+    "question": "<p>Were the jury instructions given at the penalty phase of the murder trial contrary to clearly established law for purposes of the Antiterrorism and Effective Death Penalty Act?</p>\n",
+    "citation": {
+        "volume": "563",
+        "page": "395",
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19655"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that the jury instructions given at the penalty phase of the murder trial were not contrary to clearly established law for purposes of the Antiterrorism and Effective Death Penalty Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/563/395/",
+    "facts_of_the_case": "<p>Harry Mitts drank bourbon until he became intoxicated and then shot and killed an African American man, while speaking racial epithets. During the police shoot-out that followed, Mitts shot and killed one police officer and wounded two others before being apprehended. At trial, Mitts did not contest the evidence proving that he had killed two men, but he instead attempted to establish that he was too intoxicated to form the required intent to kill. After a penalty hearing, the jury recommended the death penalty on both aggravated murder counts and terms of imprisonment for the attempted murders.</p>\n<p>The trial court sentenced Mitts to death for the aggravated murders and to terms of imprisonment for the attempted murders. The Ohio Court of Appeals affirmed Mitts' convictions and sentences, and the Ohio Supreme Court affirmed the convictions and sentences and denied rehearing, ruling that the trial court should have instructed the jury to merge duplicative death penalty specifications, but holding that the error did not influence the jury and was resolved by re-weighing on appeal.</p>\n<p>Mitts filed a petition for a writ of habeas corpus. A federal judge in Cleveland affirmed the sentence, but the United States Court of Appeals for the Sixth Circuit decided to vacate.</p>\n",
+    "conclusion": "<p>No. The Supreme Court summarily reversed the appellate court ruling in an unsigned per curiam opinion.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55996,
+    "name": "Petrella v. MGM, Inc.",
+    "href": "https://api.oyez.org/cases/2013/12-1315",
+    "view_count": 0,
+    "docket_number": "12-1315",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1380603600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41319"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1390284000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41320"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1400475600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41562"
+        }
+    ],
+    "question": "<p>Does the doctrine of laches apply without restriction to civil copyright claims that are within the bounds of the federal three-year statute of limitations on such cases?</p>\n",
+    "citation": {
+        "volume": "572",
+        "page": "663",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20874"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that the doctrine of laches could not be used to prevent a copyright suit that seeks relief for damages that occurred within the three-year window allowed by the Copyright Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/572/663/",
+    "facts_of_the_case": "<p>After Jake LaMotta retired from boxing, he and Frank Peter Petrella (F. Petrella) created two screenplays and a book based on LaMotta's life. These works were registered with the United States Copyright Office in 1963, 1973, and 1970, respectively. In 1976, LaMotta and F. Petrella signed a written agreement that granted the exclusive rights to the book and the screenplays to Chartoff-Winkler Productions, Inc, which in turn assigned those rights to a subsidiary of Metro-Goldwyn-Mayer Studios, Inc. (MGM), United Artists Corporation. In 1980, United Artists Corporation registered a copyright for the film \"Raging Bull\" based on LaMotta and F. Petrella's work. When F. Petrella died in 1981, which was still within the original 28-year period of the copyright, his renewal rights passed to his heirs.</p>\n<p>In 1991, Paula Petrella (Petrella), the daughter of F. Petrella, filed an application for the renewal of copyright rights on the 1963 screenplay. In 1998, Petrella's attorney contacted MGM and asserted that Petrella had obtained the rights to the screenplay and its derivative works, which included the movie \"Raging Bull,\" and that MGM was infringing on those rights. MGM argued that the 1963 screenplay was a collaboration between LaMotta and F. Petrella, so MGM retained the rights to the screenplay under the agreement with LaMotta. MGM also argued that there was no \"substantial similarity of protectable elements\" between the 1963 screenplay and the film. In 2009, Petrella sued MGM for copyright infringement, and the federal district court granted summary judgment for MGM under the doctrine of laches, which prevents a legal claim from being enforced if a long delay in filing the claim adversely affected the defendant's ability to fight the claim. The U.S. Court of Appeals for the Ninth Circuit affirmed.</p>\n",
+    "conclusion": "<p>No. Justice Ruth Bader Ginsburg delivered the opinion of the 6-3 majority. The Court held that the doctrine of laches could not be used to bar a copyright suit that seeks relief for damages that occurred within the three-year timeframe allowed by the Copyright Act. This limitation prevents a defendant from being held liable for multiple violations of the same work. Because Petrella did not seek relief for damages prior to three years before the filing of her suit, the doctrine of laches does not apply to this case. The Court also held that the doctrine of laches has never been used to bar claims for wrongs that occurred within the acceptable timeframe, so there was no precedent for the type of reading that MGM argued was necessary. Because laches originally served as a guide to adjudicating copyright disputes when there was no statutory limitation, there is no reason to use the doctrine to interpret the statute.</p>\n<p>Justice Stephen G. Breyer wrote a dissent in which he argued that the doctrine of laches must be applied to the three-year statute of limitations in order for the courts to protect the equity of the legal system. Allowing the three-year limitation to control every copyright case regardless of the circumstances could create loopholes such as permitting plaintiffs to sue for copyright violations on the same work every three years or to wait long enough that evidence that could be used to defend against the suit is lost. Justice Breyer also argued that judicial precedent held that statutory limitations are subject to further adjustment in the name of equity. Chief Justice John G. Roberts, Jr. and Justice Anthony M. Kennedy joined in the dissent.</p>\n"
+}

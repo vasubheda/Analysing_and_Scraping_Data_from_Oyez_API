@@ -1,0 +1,42 @@
+{
+    "ID": 63475,
+    "name": "Andy Warhol Foundation for the Visual Arts, Inc. v. Goldsmith",
+    "href": "https://api.oyez.org/cases/2022/21-869",
+    "view_count": 0,
+    "docket_number": "21-869",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1648443600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55069"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1665550800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55163"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1684386000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55275"
+        }
+    ],
+    "question": "<p>What is the proper test for whether a work is \u201ctransformative\u201d under the first factor of the Copyright Act\u2019s fair use doctrine?</p>\n",
+    "citation": {
+        "volume": "598",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27887"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held that Andy Warhol Foundation's commercial use of artwork derived from Lynn Goldsmith's copyrighted photograph of the musician Prince lacked transformative value and thus weighed against fair use.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/598/21-869/",
+    "facts_of_the_case": "<p>Artist Andy Warhol created a series of silkscreen prints and pencil illustrations (\u201cPrince Series\u201d) based on a copyrighted 1981 photograph of the musician Prince, taken by Lynn Goldsmith. Warhol made some aesthetic changes to Goldsmith\u2019s original photograph, but they remained \u201crecognizably derived\u201d from the original.</p>\n<p>Goldsmith sued the Andy Warhol Foundation, successor to Warhol\u2019s copyright in the Prince Series, for copyright infringement. The Foundation raised fair use as a defense. The district court granted summary judgment for the Foundation, concluding that Warhol had \u201ctransformed\u201d the original photograph by giving it a new \u201cmeaning and message.\u201d The U.S. Court of Appeals for the Second Circuit, holding that because the Prince Series remained \u201crecognizably derived\u201d from the original, it failed to transform and was thus not fair use.</p>\n",
+    "conclusion": "<p>The \u201cpurpose and character\u201d of the Andy Warhol Foundation (AWF)\u2019s particular commercial use of Lynn Goldsmith\u2019s photograph of the musician Prince does not favor AWF\u2019s fair use defense to copyright infringement. Justice Sonia Sotomayor authored the 7-2 majority opinion of the Court.</p>\n<p>The fair use defense to copyright infringement promotes creativity by recognizing that some secondary works make unauthorized use of original works but serve a different purpose, add new expression, or convey new ideas. Andy Warhol\u2019s \u201cOrange Prince,\u201d one of the Prince Series that was derived from the photograph by Lynn Goldsmith, appeared on the cover of a Vanity Fair magazine commemorating the late musician for a fee of $10,000\u2014all of which to AWF and of which Goldsmith received none. In contrast, Goldsmith\u2019s photographs were licensed and used on several other magazine covers commemorating Prince.</p>\n<p>AWF\u2019s use of Orange Prince on the cover of Vanity Fair served essentially the same commercial purpose as Goldsmith\u2019s original. Thus, the first fair-use factor\u2014the purpose and character of use, including whether the use is for commercial or nonprofit purpose\u2014weighs against the conclusion that AWF\u2019s use of Goldsmith\u2019s photograph for the specific purpose of a magazine cover commemorating Prince was fair.</p>\n<p>Justice Neil Gorsuch authored a concurring opinion, in which Justice Ketanji Brown Jackson joined, emphasizing the narrowness of the majority\u2019s opinion and its appropriate focus on the specific use challenged.</p>\n<p>Justice Elena Kagan authored a dissenting opinion, in which Chief Justice John Roberts joined, criticizing the majority of stifling creativity and disregarding the reality that creativity relies upon the borrowing of works that came before.</p>\n"
+}

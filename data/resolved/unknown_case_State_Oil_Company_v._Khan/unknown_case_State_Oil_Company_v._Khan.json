@@ -1,0 +1,35 @@
+{
+    "ID": 54589,
+    "name": "State Oil Company v. Khan",
+    "href": "https://api.oyez.org/cases/1997/96-871",
+    "view_count": 0,
+    "docket_number": "96-871",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                876200400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37962"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                878623200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37963"
+        }
+    ],
+    "question": "<p>Is the setting of maximum prices always (\"per se\") a violation of the Sherman Act's prohibition on price fixing?</p>\n",
+    "citation": {
+        "volume": "522",
+        "page": "3",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18518"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/522/3/",
+    "facts_of_the_case": "<p>Barkat U. Khan and his corporation contracted with State Oil to lease and run a gas station. Under the agreement, State Oil set a maximum profit margin for gasoline and required Khan to return any excess profits to State Oil. Khan fell behind in lease payments and was evicted. Khan then sued State Oil claiming that State Oil had engaged in price fixing in violation of Section 1 of the Sherman Act, which disallows restrictions on trade. State Oil claimed that in setting profit margins, they had not prevented Kahn from setting prices and therefore were not guilty of price fixing.</p>\n<p>On appeal, the U.S. Court of Appeals for the Seventh Circuit found in favor of Kahn based on the logic of <em>Albrecht v. Herald Co.</em> in which the Supreme Court ruled that some restrictions on trade, such as price-fixing, always have such negative effects coupled with such little competitive benefit that these restrictions are always unlawful.</p>\n",
+    "conclusion": "<p>No. In a unanimous decision authored by Justice Sandra Day O'Connor, the Court overturned the <em>Albrecht</em> decision. The Court noted that antitrust cases are typically decided by weighing the costs and benefits of restrictions in each individual case instead of by per se rules as in <em>Albrecht</em>. Also, there was significant precedent contradicting the assertion that all trade restrictions are illegal, and there was evidence that the effects of price-fixing are not as detrimental as the Court thought at the time of <em>Albrecht</em>.</p>\n"
+}

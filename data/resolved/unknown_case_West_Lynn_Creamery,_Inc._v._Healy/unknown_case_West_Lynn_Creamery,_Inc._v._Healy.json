@@ -1,0 +1,35 @@
+{
+    "ID": 54263,
+    "name": "West Lynn Creamery, Inc. v. Healy",
+    "href": "https://api.oyez.org/cases/1993/93-141",
+    "view_count": 0,
+    "docket_number": "93-141",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                762588000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51867"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                771829200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52211"
+        }
+    ],
+    "question": "<p>Is the Massachusetts pricing order a breach of the Commerce Clause?</p>\n",
+    "citation": {
+        "volume": "512",
+        "page": "186",
+        "year": "1994",
+        "href": "https://api.oyez.org/case_citation/case_citation/18192"
+    },
+    "term": "1993",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/512/186/",
+    "facts_of_the_case": "<p>On January 28, 1992, in response to the serious financial hardships of Massachusetts dairy farmers, the Commissioner of Massachusetts Department of Food and Agriculture issued a pricing order. The order required all dealers who sold milk to Massachusetts retailers to make a monthly premium payment to be distributed among in-state dairy farmers. Two Massachusetts milk dealers --West Lynn Creamery and LeComte's Dairy -- sell dairy products in Massachusetts. West Lynn Creamery relies on out-of-state producers; LeComte purchases all of its milk from West Lynn. The dealers filed an action in state court claiming that the order violated the Commerce Clause of the Constitution. The state court rejected their claims; the Supreme Judicial Court of Massachusetts affirmed.</p>\n",
+    "conclusion": "<p>Yes. In a majority decision authored by Justice John Paul Stevens, the Court determined that the pricing order violated the Commerce Clause because it discriminated against interstate commerce. The majority found that while the pricing order taxed all dealers, the benefit of the tax was reserved exclusively for in-state dairy farmers and outweighed the tax they were required to pay. Thus, the Court concluded that, in effect, the pricing order functioned like a tariff, and was clearly unconstitutional. The decision of the Supreme Judicial Court of Massachusetts was reversed.</p>\n"
+}

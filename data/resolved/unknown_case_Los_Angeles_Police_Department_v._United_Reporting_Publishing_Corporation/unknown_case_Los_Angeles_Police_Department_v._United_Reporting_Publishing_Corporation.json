@@ -1,0 +1,35 @@
+{
+    "ID": 54768,
+    "name": "Los Angeles Police Department v. United Reporting Publishing Corporation",
+    "href": "https://api.oyez.org/cases/1999/98-678",
+    "view_count": 0,
+    "docket_number": "98-678",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                939790800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51675"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                944546400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51676"
+        }
+    ],
+    "question": "<p>\u00a0</p>\n<p>Does California's amended public record statute, under which an arrestee's address disclosed by governmental agency may not be used to sell a product or service, violate the First Amendment's protection of commercial speech?</p>\n",
+    "citation": {
+        "volume": "528",
+        "page": "32",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18697"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/528/32/",
+    "facts_of_the_case": "<p>The former version of the California public records statute required a state or local law enforcement agency to make public the name, address, and occupation of every individual arrested by the agency. In 1996, the state amended the statute to require that a person requesting an arrestee's address declare, under penalty of perjury, that the request was being made for journalistic, scholarly, political, governmental, or investigative purposes, and that the address would not be used directly or indirectly to sell a product or service. The United Reporting Publishing Corporation publishes the \"JAILMAIL\" list, which provides the names and addresses of recently arrested individuals for its customers. United received its information from the Los Angeles Police Department and other California law enforcement agencies under the former version of the statute. United sought declaratory and injunctive relief to hold the amendment unconstitutional under the First and Fourteenth Amendments. Ultimately, the Federal District Court granted United summary judgment, on the ground that the amended statute was an impermissible restriction on commercial speech and thus violated the First Amendment. In affirming, the Court of Appeals concluded that the amended statute restricted commercial speech, which was entitled to a limited measure of First Amendment protection; and that although an asserted governmental interest in protecting an arrestees' privacy was substantial, the amended statute's numerous exceptions precluded the statute from directly and materially advancing such an interest.</p>\n",
+    "conclusion": "<p>No. In a 7-2 opinion delivered by Chief Justice William H. Rehnquist, the Court held that the amended statute was not an abridgment of anyone's right to engage in speech, commercial or otherwise, but simply a law regulating access to information in the hands of law enforcement agencies. The Court concluded that United's facial challenge to the statute was not warranted, as there was \"'no possibility that protected speech would be muted.'\" Justice Rehnquist wrote for the Court that, \"California could decide not to give out arrestee information at all without violating the First Amendment.\" Dissenting, Justice John Paul Stevens expressed the view that the amended statute was invalid as applied to the service, because California was denying access to information based on their intended use of the information for a constitutionally protected purpose, and that such discrimination was not justified by state interests.</p>\n"
+}

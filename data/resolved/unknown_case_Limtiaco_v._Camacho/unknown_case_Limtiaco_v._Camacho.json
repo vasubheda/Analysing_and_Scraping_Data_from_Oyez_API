@@ -1,0 +1,42 @@
+{
+    "ID": 55424,
+    "name": "Limtiaco v. Camacho",
+    "href": "https://api.oyez.org/cases/2006/06-116",
+    "view_count": 0,
+    "docket_number": "06-116",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1159246800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39783"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1168236000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39784"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1174971600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39785"
+        }
+    ],
+    "question": "<p>1) Did the Supreme Court of Guam err in interpreting the phrase \"aggregate tax valuation\" in the Guam Organic Act to mean the full value of property on Guam rather than the assessed value for the purposes of taxation?</p>\n<p>2) Does the time the case was pending before the U.S. Court of Appeals count toward the time limit for seeking Supreme Court review?</p>\n",
+    "citation": {
+        "volume": "549",
+        "page": "483",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20692"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/549/483/",
+    "facts_of_the_case": "<p>Governor Camacho of Guam sought to borrow over $400 million through the issuance of bonds. Guam Attorney General Moylan argued that the bond issuance violated the Guam Organic Act, a federal law governing the Territory of Guam. The Organic Act sets the limit for government borrowing to 10% of the \"aggregate tax valuation of the property on Guam.\" The Governor asked the Supreme Court of Guam for a decision on the disputed text. The Guam legislature had interpreted the phrase \"aggregate tax valuation\" to mean the assessed value of property on Guam for purposes of taxation. However, the Guam Supreme Court declined to follow the legislature's interpretation and ruled that the \"aggregate tax valuation\" was equivalent to the full appraised value of property on Guam. Under that interpretation, the debt-limit would be about $1.1 billion.</p>\n<p>The Attorney General appealed to the U.S. Court of Appeals for the Ninth Circuit. While the case was pending, Congress passed a law allowing parties to appeal directly from the Guam Supreme Court to the U.S. Supreme Court. When the Ninth Circuit declined to hear the case, Moylan appealed to the Supreme Court. Normally parties must seek Supreme Court review within 90 days of a lower court's decision, but the case had been pending before the Ninth Circuit for two years. The Supreme Court directed the parties to argue the question of whether the time the case was pending before the Ninth Circuit counted toward the time limit.</p>\n",
+    "conclusion": "<p>Yes and no. The Court agreed unanimously that the time the case was pending in the Ninth Circuit did not count toward the 90-day time limit for Supreme Court appeals, though this ruling was limited to the \"unique procedural circumstances\" presented by the case. On question of the interpretation of \"tax valuation\" in the Organic Act of Guam, the Court split 5-4. The majority opinion by Justice Clarence Thomas held that, contrary to the Guam Supreme Court's interpretation, the phrase must mean the assessed value for tax purposes of property on Guam. \"The word 'tax' modifies 'valuation,' not 'property,'\" the Court reasoned, so \"tax valuation\" \"refers to the type of valuation to be conducted, not the object that is valued.\" The dissenting Justices argued that deciding the case on the basis of textual analysis and comparison to state debt limitations would amount to a \"coin toss.\" In the dissenters' view, Congress's purpose was to set a \"hard cap\" on debt, which would indicate that the debt limitation should be based on the full market (appraised) value of property on Guam rather than dependent on the changeable assessment rate.</p>\n"
+}

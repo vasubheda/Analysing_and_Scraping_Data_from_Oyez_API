@@ -1,0 +1,42 @@
+{
+    "ID": 55434,
+    "name": "Norfolk Southern Railway Co. v. Sorrell",
+    "href": "https://api.oyez.org/cases/2006/05-746",
+    "view_count": 0,
+    "docket_number": "05-746",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1147669200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39810"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1160456400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39811"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1168408800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39812"
+        }
+    ],
+    "question": "<p>Is the causation standard for employee negligence under the Federal Employers Liability Act different from the causation standard for railroad negligence?</p>\n",
+    "citation": {
+        "volume": "549",
+        "page": "158",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20680"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/549/158/",
+    "facts_of_the_case": "<p>Sorrell, an employee of Norfolk Southern Railway, crashed his company truck while swerving to avoid another company truck. Sorrell suffered injuries and sued Norfolk Southern for damages under the Federal Employers Liability Act (FELA). Both Sorrell and the railroad had been negligent in the incident to some extent. Norfolk Southern argued that under the FELA, the \"causation standard\" - the standard for assigning the blame for an incident - was the same for both the employee and the railroad. According to Norfolk Southern, any damages awarded to Sorrell for the railroad's negligence had to be reduced by the amount of the damages that was attributable to Sorrell's own negligence. (If Sorrell was 60% responsible for the accident, for example, the damages would be reduced by 60%.)</p>\n<p>The trial ruled instead that the causation standards were different: the railroad was responsible for any negligence that contributed to the accident, but the employee was only responsible for negligence that directly caused damage. Under this more lenient standard for employee negligence, the trial court awarded Sorrell $1.5 million.</p>\n<p>The Missouri Court of Appeals affirmed. The Missouri Supreme Court declined to hear the case, but the U.S. Supreme Court granted review.</p>\n",
+    "conclusion": "<p>No. The Court ruled unanimously that the causation standard for employee negligence is the same as the standard for railroad negligence. The opinion by Chief Justice John Roberts held that \"the common law applied the same causation standard to defendant and plaintiff negligence, and FELA did not expressly depart from that approach.\" In the absence of any explicit indication from the text of FELA, the Court relied on common law principles of negligence. The Court held that Congress had most likely intended for juries to compare each party's contribution under the same standard - a simple \"apples to apples\" comparison. The Court ruled only that the causation standards were the same; it declined to rule on the question of what the standard of causation should be.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 54641,
+    "name": "Gebser v. Lago Vista Independent School District",
+    "href": "https://api.oyez.org/cases/1997/96-1866",
+    "view_count": 0,
+    "docket_number": "96-1866",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                890805600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38061"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                898491600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38062"
+        }
+    ],
+    "question": "<p>Can a federally funded educational program or activity be required, under Title IX of the Education Amendments of 1972, to pay sexual harassment damages to a student who was involved in a secret relationship with a member of its staff?</p>\n",
+    "citation": {
+        "volume": "524",
+        "page": "274",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18570"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/524/274/",
+    "facts_of_the_case": "<p>Alida Star Gebser, a high school student in the Lago Vista Independent School District (\"Lago Vista\"), had a secret sexual affair with one of her teachers. At the time, Lago Vista had no official procedure for reporting sexual harassment nor any formal anti-harassment policy, as required by federal law. One day, after the two were discovered having sex, the teacher was arrested and fired. Claiming she was harassed in violation of Title IX of the Education Amendments of 1972 (the \"Amendments\"), providing that no person \"be subjected to discrimination\" under any federally funded education program or activity, Gebser sought damages against Lago Vista. On appeal from a decision affirming a district court's ruling in favor of Lago Vista, the Supreme Court granted Gebser certiorari.</p>\n",
+    "conclusion": "<p>No. In a 5-to-4 decision the Court held that two minimal criteria must be met in order for an aggrieved party to recover sexual harassment damages under the Amendments. First, the party must show that a school district official, with the ability to institute corrective measures, knew of the forbidden conduct. Second, a showing must be made that despite having knowledge of the forbidden conduct, the educational establishment deliberately failed to respond in a proper manner. The Court concluded that Lago Vista never showed indifference to Gebser's relationship since it never knew, either formally or informally, of its existence. Accordingly, Lago Vista was not liable for sexual harassment damages.</p>\n"
+}

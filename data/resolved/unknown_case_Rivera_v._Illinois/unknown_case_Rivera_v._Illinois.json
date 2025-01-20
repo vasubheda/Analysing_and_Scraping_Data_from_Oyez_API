@@ -1,0 +1,42 @@
+{
+    "ID": 55613,
+    "name": "Rivera v. Illinois",
+    "href": "https://api.oyez.org/cases/2008/07-9995",
+    "view_count": 0,
+    "docket_number": "07-9995",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1222837200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40312"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1235368800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40313"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1238475600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40314"
+        }
+    ],
+    "question": "<p>Does an error in dismissing a defendant's pre-trial motion to dismiss a juror require automatic reversal of conviction because it denies the defendant's right to an impartial jury guaranteed by the Sixth Amendment?</p>\n",
+    "citation": {
+        "volume": "556",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20828"
+    },
+    "term": "2008",
+    "description": "A case in which the Court found that the Due Process Clause does not require the automatic reversal of a conviction because of the lower court's good-faith error in denying the defendant's pre-trial motion to dismiss a juror.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>In 1998, Michael Rivera was convicted in an Illinois court on two counts of first degree murder and sentenced to 85 years in prison. Before the trial, Mr. Rivera's attorney moved to dismiss a potential juror. The judge did not allow it deeming the motion discriminatory towards the juror. On appeal after his conviction, Mr. Rivera argued that the trial court erred in dismissing the pre-trial motion and thus his conviction should be reversed. The Illinois Supreme Court remanded the case with instructions for the trial court to specify how the motion was discriminatory. After the trial court found that gender discrimination was at issue, the Illinois Supreme Court continued its review.</p>\n<p>It held that Mr. Rivera was improperly denied his pre-trial motion to dismiss the juror. It reasoned that there was no evidence Mr. Rivera's attorney aimed to dismiss the juror because of her gender. However, it also found that this was harmless error. It explained that there was no evidence that indicated Mr. Rivera was tried before a biased jury because of the improperly dismissed motion. Thus, Mr. Rivera's conviction should stand.</p>\n",
+    "conclusion": "<p>No. A unanimous Supreme Court held that the Due Process Clause does not require the automatic reversal of a conviction because of the trial court's good-faith error in denying the defendant's preemptory challenge to a juror, provided that all the jurors are qualified and unbiased. In her opinion for the Court, Justice Ruth Bader Ginsburg reasoned that since there is no constitutional right to peremptory challenges, the mistaken denial of a preemptory challenge does not on its own violate the Constitution. Rather, states are free to decide as a matter of law whether the mistaken denial of a preemptory challenge is reversible error. In this case, the Court agreed that the Illinois Supreme Court acted within its powers in determining the mistaken denial of Mr. Rivera's preemptory challenge was mere harmless error.</p>\n"
+}

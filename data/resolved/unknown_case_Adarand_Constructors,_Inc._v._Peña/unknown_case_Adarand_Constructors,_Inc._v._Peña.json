@@ -1,0 +1,35 @@
+{
+    "ID": 54307,
+    "name": "Adarand Constructors, Inc. v. Pe\u00f1a",
+    "href": "https://api.oyez.org/cases/1994/93-1841",
+    "view_count": 0,
+    "docket_number": "93-1841",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                790322400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37440"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                802933200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37441"
+        }
+    ],
+    "question": "<p>Is the presumption of disadvantage based on race alone, and consequent allocation of favored treatment, a discriminatory practice that violates the equal protection principle embodied in the Due Process Clause of the Fifth Amendment?</p>\n",
+    "citation": {
+        "volume": "515",
+        "page": "200",
+        "year": "1995",
+        "href": "https://api.oyez.org/case_citation/case_citation/18236"
+    },
+    "term": "1994",
+    "description": "A case in which the Court found that in order to uphold the Fifth Amendment, strict scrutiny must be applied if race is the sole indicator of disadvantage.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/515/200/",
+    "facts_of_the_case": "<p>Adarand, a contractor specializing in highway guardrail work, submitted the lowest bid as a subcontractor for part of a project funded by the United States Department of Transportation. Under the terms of the federal contract, the prime contractor would receive additional compensation if it hired small businesses controlled by \"socially and economically disadvantaged individuals.\" [The clause declared that \"the contractor shall presume that socially and economically disadvantaged individuals include Black Americans, Hispanic Americans, Native Americans, Asian Pacific Americans, and other minorities....\" Federal law requires such a subcontracting clause in most federal agency contracts]. Another subcontractor, Gonzales Construction Company, was awarded the work. It was certified as a minority business; Adarand was not. The prime contractor would have accepted Adarand's bid had it not been for the additional payment for hiring Gonzales.</p>\n",
+    "conclusion": "<p>Yes. Overruling Metro Broadcasting (497 US 547), the Court held that all racial classifications, whether imposed by federal, state, or local authorities, must pass strict scrutiny review. In other words, they \"must serve a compelling government interest, and must be narrowly tailored to further that interest.\" The Court added that compensation programs which are truly based on disadvantage, rather than race, would be evaluated under lower equal protection standards. However, since race is not a sufficient condition for a presumption of disadvantage and the award of favored treatment, all race-based classifications must be judged under the strict scrutiny standard. Moreover, even proof of past injury does not in itself establish the suffering of present or future injury. The Court remanded for a determination of whether the Transportation Department's program satisfied strict scrutiny.</p>\n"
+}

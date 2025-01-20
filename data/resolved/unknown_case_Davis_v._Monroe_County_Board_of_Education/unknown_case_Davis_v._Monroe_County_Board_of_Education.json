@@ -1,0 +1,35 @@
+{
+    "ID": 54701,
+    "name": "Davis v. Monroe County Board of Education",
+    "href": "https://api.oyez.org/cases/1998/97-843",
+    "view_count": 0,
+    "docket_number": "97-843",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                916120800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38168"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                927522000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38169"
+        }
+    ],
+    "question": "<p>Can a school board be held responsible under Title IX of the Education Amendments of 1972, meant to secure equal access of students to educational benefits and opportunities, for \"student-on-student\" harassment?</p>\n",
+    "citation": {
+        "volume": "526",
+        "page": "629",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18630"
+    },
+    "term": "1998",
+    "description": "A case in which the Court held that a school board can be liable for student-on-student harassment if the board acts with deliberate indifference.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/526/629/",
+    "facts_of_the_case": "<p>Aurelia Davis sued the Monroe County Board of Education (the \"Board\"), on behalf of her fifth grade daughter LaShonda, alleging that school officials failed to prevent Lashonda's suffering sexual harassment at the hands of another student. Davis claimed that the school's complacency created an abusive environment that deprived her daughter of educational benefits promised her under Title IX of the Education Amendments of 1972 (Title IX). On appeal from successive adverse rulings in both district and appellate court, the Supreme Court granted Davis certiorari.</p>\n",
+    "conclusion": "<p>Yes. In a 5-to-4 decision the Court began by noting that because there is an implied private right to education under Title IX, private damage actions may lie against schools that act with deliberate indifference to harassment that is severe enough to prevent victims from enjoying educational opportunities. The Court added that Title IX's prohibitions against harassment in school are clear enough to have served proper notice to school boards in general and the Board in particular. As such, consistent with the Spending Clause, the Title IX guidelines that Congress attached to its school funds obligate all recipient schools to comply or face the pain of legal action. The Court also observed that the Board acted with deliberate indifference, since it ignored several complaints by Davis, and that the harassment in question was serious and systematic.</p>\n"
+}

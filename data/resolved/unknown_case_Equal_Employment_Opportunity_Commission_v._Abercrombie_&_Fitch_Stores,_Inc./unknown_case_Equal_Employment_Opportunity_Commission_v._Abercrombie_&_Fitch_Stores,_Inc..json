@@ -1,0 +1,42 @@
+{
+    "ID": 56154,
+    "name": "Equal Employment Opportunity Commission v. Abercrombie & Fitch Stores, Inc.",
+    "href": "https://api.oyez.org/cases/2014/14-86",
+    "view_count": 0,
+    "docket_number": "14-86",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1412226000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41767"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1424844000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41768"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1433134800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51715"
+        }
+    ],
+    "question": "<p>Can an employer be held liable under Title VII of the Civil Rights Act of 1964 for refusing to hire an applicant based on a religious observance or practice if the employer did not have direct knowledge that a religious accommodation was required?</p>\n",
+    "citation": {
+        "volume": "575",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/26957"
+    },
+    "term": "2014",
+    "description": "<p>A case in which the Court held that an employer may be held liable under Title VII of the Civil Rights Act if an applicant can show that her need for an accommodation was a motivating factor in the employer\u2019s decision not to hire her.</p>",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/575/768/",
+    "facts_of_the_case": "<p>Abercrombie &amp; Fitch Stores, Inc. (Abercrombie) is a national chain of clothing stores that requires its employees to comply with a \"Look Policy\" that reflects the store's style and forbids black clothing and caps, though the meaning of the term cap is not defined in the policy. If a question arises about the Look Policy during the interview or an applicant requests a deviation, the interviewer is instructed to contact the corporate Human Resources department, which will determine whether or not an accommodation will be granted.</p>\n<p>In 2008, Samantha Elauf, a practicing Muslim, applied for a position at an Abercrombie store. She wore a headscarf, or hijab, every day, and did so in her interview. Elauf did not mention her headscarf during her interview and did not indicate that she would need an accommodation from the Look Policy. Her interviewer likewise did not mention the headscarf, though she contacted her district manager, who told her to lower Elauf's rating on the appearance section of the application, which lowered her overall score and prevented her from being hired.</p>\n<p>The Equal Employment Opportunity Commission (EEOC) sued Abercrombie on Elauf's behalf and claimed that the company had violated Title VII of the Civil Rights Act of 1964 by refusing to hire Elauf because of her headscarf. Abercrombie argued that Elauf had a duty to inform the interviewer that she required an accommodation from the Look Policy and that the headscarf was not the expression of a sincerely held religious belief. The district court granted summary judgment for the EEOC. The U.S. Court of Appeals for the Tenth Circuit reversed and held that summary judgment should have been granted in favor of Abercrombie because there is no genuine issue of fact that Elauf did not notify her interviewer that she had a conflict with the Look Policy.</p>\n",
+    "conclusion": "<p>Yes. Justice Antonin Scalia delivered the opinion of the 7-2 majority. The Court held that, to hold an employer liable under Title VII of the Civil Rights Act of 1964, an applicant for a position must only show that her need for an accommodation was a motivating factor in the employer\u2019s decision not to hire her. The disparate-treatment provision of Title VII does not contain a knowledge requirement but rather forbids certain motives, regardless of the employer\u2019s knowledge about the applicant. If the applicant can show that the employer\u2019s decision not to hire an applicant was based on a desire to avoid having to accommodate a religious practice, then the employer has violated Title VII. The Court also held that Title VII does not demand mere neutrality; instead it creates an affirmative duty to accommodate religious practices.</p>\n<p>In his opinion concurring in the judgment, Justice Samuel A. Alito, Jr. wrote that, while the applicant has to show that the employer had knowledge of the applicant\u2019s religious practice, the applicant does not have a duty to notify the employer. Justice Alito argued that the statutory language would not make sense without any knowledge requirement because such a reading would allow an employer to be held liable without fault.</p>\n<p>Justice Clarence Thomas wrote an opinion concurring in part and dissenting in part in which he argued that the application of a neutral policy cannot constitute intentional discrimination that violates Title VII. Although the strict application of the employer\u2019s policy may have disproportionately affected those who wear headscarves for religious reasons, the policy still treated all potential applicants in the same manner, and therefore an applicant who was denied a position because of her religious headscarf did not suffer from disparate treatment. Additionally, Title VII disparate-treatment precedent does not hold that a failure to accommodate is intentional discrimination. Justice Thomas also argued that the statutory language should be construed narrowly so as to only punish employers who act with a discriminatory motive.</p>\n"
+}

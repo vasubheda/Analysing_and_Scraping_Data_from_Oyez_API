@@ -1,0 +1,42 @@
+{
+    "ID": 56102,
+    "name": "Zivotofsky v. Kerry",
+    "href": "https://api.oyez.org/cases/2014/13-628",
+    "view_count": 0,
+    "docket_number": "13-628",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1398056400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41685"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1414994400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41686"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1433739600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52571"
+        }
+    ],
+    "question": "<p>Does a federal statute that directs the Secretary of State to record the birthplace of an American citizen born in Jerusalem as \"Israel,\" if requested to do so, impermissibly infringe on the President's power to recognize foreign states?</p>\n",
+    "citation": {
+        "volume": "576",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/27044"
+    },
+    "term": "2014",
+    "description": "A case in which the Court held that a federal statute directing the Secretary of State to record the birthplace of a citizen born in Jerusalem as \u201cIsrael\u201d if requested to do so impermissibly infringed on the President\u2019s power to recognize foreign states.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/576/1/",
+    "facts_of_the_case": "<p>In 2002, Manachem Zivotofsky was born in Jerusalem to parents who are United States citizens. Manachem's parents requested that the U.S. State Department record his place of birth on his passport as \"Israel,\" in accordance with Section 214(d) of the Foreign Relations Authorization Act of 2003 (Act). The State Department refused and instead issued Manachem a passport that listed \"Jerusalem\" as his place of birth. His parents sued the Secretary of State on his behalf and sought the enforcement of Section 214(d). The district court dismissed the case on the grounds that it presented a non-justiciable political question. The U.S. Supreme Court, in <em>Zivotofsky v. Clinton</em>, reversed that holding and remanded the case. On remand, the district court held that Section 214(d) \"impermissibly intereferes\" with the President's exclusive power to recognize foreign states. The U.S. Court of Appeals for the District of Columbia Circuit affirmed and held that the section goes beyond the scope of Congress's passport power to affect United States foreign policy, which is a realm the Constitution reserves for the executive branch.</p>\n",
+    "conclusion": "<p>Yes. Justice Anthony M. Kennedy delivered the opinion for the 6-3 majority holding that the\u00a0federal statute unconstitutionally usurped the President\u2019s power to recognize foreign nations as it relates to passports. The\u00a0Court held that, although the Constitution does not explicitly address the issue of recognition of foreign nations, the Reception Clause in Article II of the Constitution\u2014which states that the President will receive foreign ambassadors\u2014grants the President the power to recognize foreign states. The fact that Article II also vests the President with the power to make treaties and appoint ambassadors gives the President further control over recognition decisions. Although Congress has a role to play in other aspects of foreign policy, often by granting the President\u2019s formal recognition practical effect, Congress has no such power to initiate international diplomacy without involving the President. Because the question of whether the American government recognizes a foreign nation must have only one answer, the President\u2019s power is assumed to be exclusive, and therefore Congress cannot act in a manner that contradicts Executive branch policy regarding recognition. The Court also held that precedent and history support the view that the formal recognition power belongs exclusively to the President. Because the Executive branch has maintained a neutral position by not recognizing any nation\u2019s sovereignty over Jerusalem, the federal statute in question unconstitutionally infringes on the President\u2019s recognition power.</p>\n<p>In his concurring opinion, Justice Stephen G. Breyer wrote that this case presented a political question beyond the purview of the judiciary, but because precedent precluded political resolution, he joined in the majority opinion. </p>\n<p>On a second issue -- \u00a0whether the\u00a0statute unconstitutionally usurped the President's power to recognize foreign nations in relation to consular reports\u00a0-- the Court answered 5-4 in the affirmative with Justice Clarence Thomas joining the dissenters arguing\u00a0that the federal statute in question was an unconstitutional usurpation of the President\u2019s recognition power with regard to passports but not consular reports of birth abroad. The historical record indicates that any residual foreign affairs powers that were not explicitly allocated were assumed to be vested in the President. While passport regulation has traditionally been an executive function and falls squarely within the residual foreign affairs power reserved to the President, the consular reports are part of the naturalization powers that are granted to Congress. Therefore, the enforcement of the statute in question as it relates to passports would violate the separation of powers doctrine, but it may be constitutionally applied to consular reports of birth abroad.</p>\n<p>Chief Justice John G. Roberts, Jr. wrote a dissent in which he argued that, in order for the President to constitutionally ignore the express will of Congress, the President must be exercising a power that the Constitution \u201cconclusively and preclusively\u201d granted to the Executive branch. Because the history and the precedent regarding the power to recognize foreign states is at best conflicting, Chief Justice Roberts argued that the Constitution does not conclusively and preclusively grant the President the power to recognize foreign states. Even if the President did have that power, the statute in question would not be unconstitutional because an optional passport designation does not amount to official recognition. Justice Samuel A. Alito, Jr. joined in the dissent. In his separate dissent, Justice Antonin Scalia wrote that, to the extent that the Constitution grants the President the power to recognize foreign states, the power is not exclusive. The Constitution grants Congress such a power in the form of its authority to regulate commerce with foreign nations. Regardless, the statute in question does not implicate the recognition power; it merely directs the State Department to make an accommodation regarding a geographic description that is in line with similar accommodations the State Department already offers. Chief Justice Roberts and Justice Alito joined in the dissent.</p>\n"
+}

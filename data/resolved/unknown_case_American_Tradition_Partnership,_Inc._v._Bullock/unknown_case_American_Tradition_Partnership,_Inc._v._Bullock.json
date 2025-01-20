@@ -1,0 +1,35 @@
+{
+    "ID": 55842,
+    "name": "American Tradition Partnership, Inc. v. Bullock",
+    "href": "https://api.oyez.org/cases/2011/11-1179",
+    "view_count": 0,
+    "docket_number": "11-1179",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1340600400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40902"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1340600400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40903"
+        }
+    ],
+    "question": "<p>Does the Montana state law violate the First Amendment rights of corporations?</p>\n",
+    "citation": {
+        "volume": "567",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19764"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that a Montana law prohibiting corporations from giving political candidates monetary donations violated the corporations' First Amendment rights.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/567/516/",
+    "facts_of_the_case": "<p>A Montana law states that a corporation may not \"make an expenditure in connection with a candidate or a political committee that supports or opposes a candidate or a political party.\" The petitioners - American Tradition Partnership (formerly Western Tradition Partnership), Champion Painting, and Montana Shooting Sports Association - sued the Attorney General of Montana and the Commissioner of Political Practices on the grounds that the statute violated their First Amendment right to free speech. The district court found the statute unconstitutional and granted summary judgment for the petitioners. The Supreme Court of Montana found that the statute did not materially impact the freedom of speech of the corporations, and if it did, it served a compelling state interest to protect the electoral process. The Supreme Court of Montana reversed the judgment of the lower court.</p>\n",
+    "conclusion": "<p>Yes. In a <em>per curiam</em> decision, the Court held that the findings in <em>Citizens United v. Federal Election Commission</em> also applies to this case, and that political speech is protected regardless of the source. The Court also held that all of the relevant arguments were addressed in the <em>Citizens United</em> decision and reversed the decision of the Supreme Court of Montana.</p>\n<p>Justice Stephen G. Breyer dissented and noted that he disagreed with the Court's original holding in <em>Citizens United</em>. In this case, he argued, Montana did have a compelling interest to limit electoral and political corruption by limiting corporate political expenditures. Justices Ruth Bader Ginsburg, Sonia Sotomayor, and Elena Kagan joined in the dissent.</p>\n"
+}

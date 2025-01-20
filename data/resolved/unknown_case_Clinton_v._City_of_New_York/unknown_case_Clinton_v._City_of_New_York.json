@@ -1,0 +1,35 @@
+{
+    "ID": 54622,
+    "name": "Clinton v. City of New York",
+    "href": "https://api.oyez.org/cases/1997/97-1374",
+    "view_count": 0,
+    "docket_number": "97-1374",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                893653200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38025"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                898750800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38026"
+        }
+    ],
+    "question": "<p>Did the President's ability to selectively cancel individual portions of bills, under the Line Item Veto Act, violate the Presentment Clause of Article I?</p>\n",
+    "citation": {
+        "volume": "524",
+        "page": "417",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18551"
+    },
+    "term": "1997",
+    "description": "A case in which the Court declared that pieces of legislation passed by both houses of Congress must be either passed or vetoed as a whole, not in separate parts.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/524/417/",
+    "facts_of_the_case": "<p>This case consolidates two separate challenges to the constitutionality of two cancellations, made by President William J. Clinton, under the Line Item Veto Act (\"Act\"). In the first, the City of New York, two hospital associations, a hospital, and two health care unions, challenged the President's cancellation of a provision in the Balanced Budget Act of 1997 which relinquished the Federal Government's ability to recoup nearly $2.6 billion in taxes levied against Medicaid providers by the State of New York. In the second, the Snake River farmer's cooperative and one of its individual members challenged the President's cancellation of a provision of the Taxpayer Relief Act of 1997. The provision permitted some food refiners and processors to defer recognition of their capital gains in exchange for selling their stock to eligible farmers' cooperatives. After a district court held the Act unconstitutional, the Supreme Court granted certiorari on expedited appeal.</p>\n",
+    "conclusion": "<p>Yes. In a 6-to-3 decision the Court first established that both the City of New York, and its affiliates, and the farmers' cooperative suffered sufficiently immediate and concrete injuries to sustain their standing to challenge the President's actions. The Court then explained that under the Presentment Clause, legislation that passes both Houses of Congress must either be entirely approved (i.e. signed) or rejected (i.e. vetoed) by the President. The Court held that by canceling only selected portions of the bills at issue, under authority granted him by the Act, the President in effect \"amended\" the laws before him. Such discretion, the Court concluded, violated the \"finely wrought\" legislative procedures of Article I as envisioned by the Framers.</p>\n"
+}

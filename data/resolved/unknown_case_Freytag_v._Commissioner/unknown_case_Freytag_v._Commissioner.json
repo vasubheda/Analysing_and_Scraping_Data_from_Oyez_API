@@ -1,0 +1,35 @@
+{
+    "ID": 53905,
+    "name": "Freytag v. Commissioner",
+    "href": "https://api.oyez.org/cases/1990/90-762",
+    "view_count": 0,
+    "docket_number": "90-762",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                672382800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36678"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                677998800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36679"
+        }
+    ],
+    "question": "<p>Does 26 U.S.C. 7443A(a) permit the assignment of particularly complex cases dealing with large amounts of money to \"special trial judges\" appointed by the Chief Judge of the U.S. Tax Court, provided that the special trial judges do not enter the decision but simply prepare an opinion for review and adoption by a regular Tax Court judge? Under the Appointments Clause of Article II Section 2, may Congress permit the Chief Judge of the U.S. Tax Court to appoint \"special trial judges\" to \"any other proceeding which the chief judge may designate\"?</p>\n",
+    "citation": {
+        "volume": "501",
+        "page": "868",
+        "year": "1991",
+        "href": "https://api.oyez.org/case_citation/case_citation/17834"
+    },
+    "term": "1990",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/501/868/",
+    "facts_of_the_case": "<p>Under 26 U.S.C. 7443A(b), the Chief Judge of the United States Tax Court (an Article I Court established by Congress) may appoint special trial judges to certain specified proceedings explicitly laid out in the statute, in which the special trial judges may issue decisions. He may also appoint them to \"any other proceeding which the chief judge may designate,\" but in those unspecified cases the special trial judge may not issue a final decision, only draft an opinion which must be reviewed by a regular judge of the Tax Court.</p>\n<p>Freytag and several other defendants were charged with using a tax shelter to avoid paying roughly $1.5 billion in taxes. They consented to have their case heard by a special trial judge. The trial judge eventually drafted an opinion unfavorable to their position, which was reviewed and adopted by the Chief Judge. They then appealed the case, arguing that their case was too complex to assign to a special trial judge under section 7443A. Congress's decision to allow the Chief Judge to make such an assignment, they argued, violated the Appointments Clause of the Constitution (Article II Section 2), which provides that Congress may \"vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments.\" Freytag asserted that the \"Courts of Law\" referred to there were only Article III courts (Federal District Courts, Circuit Courts of Appeals, and the Supreme Court, all of which have judges with lifetime tenure), and that the Chief Judge was part of an Article I court, meaning that Congress could not assign him the power of appointment. The Fifth Circuit Court of Appeals rejected that argument, affirming the Tax Court's decisions.</p>\n",
+    "conclusion": "<p>Yes and yes. On the question of whether 7443A permitted the assignment of complex cases to special trial judges, the Supreme Court unanimously ruled that the statute unambiguously did allow such appointments. Justice Harry Blackmun, in the majority opinion, wrote, \"The plain language of 7443A(b)(4) surely authorizes the Chief Judge's assignment of petitioners' cases to a special trial judge. When we find the terms of a statute unambiguous, judicial inquiry should be complete except in rare and exceptional circumstances.\"</p>\n<p>On the Appointments Clause question, however, the Court was divided 5-to-4. Justice Blackmun wrote for the majority that Article I Courts, like Article III Courts, exercised the judicial power of the United States and were therefore \"Courts of Law\" for purposes of Article II Section 2. While they may have been more dependent on Congress than the other branches, they were nevertheless independent, and it therefore did not violate the separation of powers to allow them to make appointments.</p>\n"
+}

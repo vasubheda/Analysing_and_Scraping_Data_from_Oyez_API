@@ -1,0 +1,42 @@
+{
+    "ID": 63316,
+    "name": "San Antonio v. Hotels.com, L.P.",
+    "href": "https://api.oyez.org/cases/2020/20-334",
+    "view_count": 0,
+    "docket_number": "20-334",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1610085600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54825"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1618981200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54882"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1622091600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54905"
+        }
+    ],
+    "question": "<p>Do district courts have the discretion to deny or reduce appellate costs deemed \u201ctaxable\u201d in district court under Federal Rule of Appellate Procedure 39(e)?</p>\n",
+    "citation": {
+        "volume": "593",
+        "page": null,
+        "year": "2021",
+        "href": "https://api.oyez.org/case_citation/case_citation/27791"
+    },
+    "term": "2020",
+    "description": "A case in which the Court held that district courts do not have the discretion to deny or reduce appellate costs deemed \u201ctaxable\u201d in district court under Federal Rule of Appellate Procedure 39(e).",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/593/20-334/",
+    "facts_of_the_case": "<p>In 2006, the City of San Antonio, Texas, filed a class-action lawsuit against various online travel companies (OTCs), such as Hotels.com, Hotwire, Orbitz, and Travelocity, alleging that the service fees those companies charged constitute the \u201ccost of occupancy\u201d and therefore are subject to municipal hotel tax ordinances. After extensive litigation, the U.S. Court of Appeals for the Fifth Circuit ruled in favor of the OTCs, reasoning that the hotel occupancy tax applied only to the discounted room rate paid by the OTC to the hotel.</p>\n<p>Toward the end of litigation, the OTCs moved for \"an order entering Final Judgment in favor of the OTCs, releasing all supersedeas bonds, and awarding costs to the OTCs as the prevailing parties.\" The OTCs\u2019 proposed order stated that \"costs shall be taxed against the Cities in favor of the OTCs pursuant to 28 U.S.C. \u00a7 1920, Fed. R. Civ. P. 54, and Fed. R. App. P. 39.\" San Antonio did not object, so the district court entered the OTC\u2019s proposed order.</p>\n<p>Then the OTCs filed a bill of costs in the district court seeking over $2.3 million, which included over $2 million for \u201cpost-judgment interest\u201d and \u201cpremiums paid for the supersedeas bonds.\u201d San Antonio objected and asked the district court to refuse to tax, or to substantially reduce, the appeal bond premiums sought by the OTCs. The district court concluded that it lacked the discretion to reduce taxation of the bond premiums. The Fifth Circuit affirmed, despite that every other circuit confronting the question has held the opposite.</p>\n",
+    "conclusion": "<p>Federal Rule of Appellate Procedure 39 does not permit a district court to alter a court of appeals\u2019 allocation of the costs listed in subdivision (e) of that Rule. Justice Samuel Alito authored the unanimous opinion of the Court.</p>\n<p>Rule 39 gives the courts of appeals discretion over the allocation of appellate costs, setting default rules that apply unless the court \u201corders otherwise.\u201d These default rules and the language and structure of Rule 39 suggest that the appeals court makes all determinations as to the costs. This comprehensive scheme leaves no room for the district court to modify the appeals court\u2019s allocation of costs, and indeed to read the Rule as giving the district court such power would undermine the authority of the appeals court to make the determination in the first place.</p>\n<p>\u00a0</p>\n"
+}

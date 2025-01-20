@@ -1,0 +1,28 @@
+{
+    "ID": 54557,
+    "name": "Lords Landing Village Condominium Council of Unit Owners v. Continental Insurance Company",
+    "href": "https://api.oyez.org/cases/1996/96-1033",
+    "view_count": 0,
+    "docket_number": "96-1033",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                865227600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37902"
+        }
+    ],
+    "question": "<p>Is it appropriate, when a holding of the federal appellate court below is called into question by a recent decision of a State's highest court, for the U.S. Supreme Court to grant a petition for certiorari, vacate the judgment of the lower court, and remand the case for further consideration?</p>\n",
+    "citation": {
+        "volume": "520",
+        "page": "893",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18486"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/520/893/",
+    "facts_of_the_case": "<p>Lords Landing Village Condominium Council of Unit Owners, an association of condominium owners, sued Continental Insurance Company in Maryland state court, seeking to compel it to pay a judgment the association had obtained against an insured condominium developer. The company removed the case to federal court. As a matter of Maryland law, the case involved the extent of the developer's coverage under a general liability insurance policy. The District Court granted summary judgment in favor of the company. The Court of Appeals affirmed. Subsequently, the appellate court denied a petition for rehearing. Later, the association's counsel learned of a recent decision by Maryland's highest court in another case that also involved liability insurance coverage. The association brought this decision to the Court of Appeals' attention in a motion to stay or recall the court's mandate. The appellate court denied the motion.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion, the Court held that this case fits within the category of cases in which the Court has held that it is proper to issue a GVR order, or to grant the petition for certiorari, vacate the judgment of the lower court, and remand the case for further consideration. There was reason to question the correctness of the Court of Appeals' original decision because the decision by Maryland's highest court explicitly disapproved the two cases on which the Court of Appeals had primarily relied. Chief Justice William H. Rehnquist, joined by Justice Stephen G. Breyer, dissented.</p>\n"
+}

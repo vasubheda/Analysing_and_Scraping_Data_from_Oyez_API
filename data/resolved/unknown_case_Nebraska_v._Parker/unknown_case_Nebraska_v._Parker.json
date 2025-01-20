@@ -1,0 +1,42 @@
+{
+    "ID": 62587,
+    "name": "Nebraska v. Parker",
+    "href": "https://api.oyez.org/cases/2015/14-1406",
+    "view_count": 0,
+    "docket_number": "14-1406",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1443675600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53280"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1453269600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53331"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1458622800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53459"
+        }
+    ],
+    "question": "<p>Did the passage of the 1882 Act diminish the original boundaries of the Omaha Indian Reservation?</p>\n",
+    "citation": {
+        "volume": "577",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27365"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that the passage of the 1882 Act by Congress did not diminish the original boundaries of the Omaha Indian Reservation. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/577/481/",
+    "facts_of_the_case": "<p>Omaha Tribal members attempted to enforce liquor licenses and taxes on local venders and clubs selling alcoholic beverages in Pender, Nebraska. The plaintiffs, the owners of clubs and venues that sold alcoholic beverages in Pender, Nebraska, joined by the state of Nebraska, sued for injunctive relief and argued that they are not located on federally-recognized Indian reservation land and therefore were not under the jurisdiction of the Omaha Tribe. The plaintiffs and defendants cross-filed for summary judgment, and the trial court found in favor of the defendants. The trial court held that Pender, Nebraska, was under the jurisdiction of tribal law because the U.S. Senate\u2019s passage of an 1882 Act that allowed the Omaha tribe to sell allotments of its tribal land did not diminish the tribal boundaries of jurisdiction. The U.S. Court of Appeals for the Eighth Circuit affirmed the lower court\u2019s decision.</p>\n",
+    "conclusion": "<p>The passage of the 1882 Act did not diminish the Omaha Indian Reservation boundaries. Justice Clarence Thomas wrote the opinion for the unanimous Court, which held that only the clear intent of Congress can determine when tribal land is diminished. Because the 1882 Act only allowed for the tribe to sell plots of tribal lands to non-tribal members and there was no clear indication that Congress intended to diminish the reservation, the Omaha Tribe\u2019s boundaries had not been diminished.</p>\n"
+}

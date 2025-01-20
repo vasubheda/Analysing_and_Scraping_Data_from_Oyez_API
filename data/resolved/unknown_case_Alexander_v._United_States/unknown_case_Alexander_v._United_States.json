@@ -1,0 +1,35 @@
+{
+    "ID": 54168,
+    "name": "Alexander v. United States",
+    "href": "https://api.oyez.org/cases/1992/91-1526",
+    "view_count": 0,
+    "docket_number": "91-1526",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                726818400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37182"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                741243600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37183"
+        }
+    ],
+    "question": "<ol>\n<li>\n<p>Does property forfeiture under RICO as punishment for the distribution of obscene materials constitute 'prior restraint' on speech in violation of the First Amendment?</p>\n</li>\n<li>\n<p>Does the forfeiture of a business as punishment for the sale of obscene media constitute an 'excessive fine'?</p>\n</li>\n</ol>\n",
+    "citation": {
+        "volume": "509",
+        "page": "544",
+        "year": "1993",
+        "href": "https://api.oyez.org/case_citation/case_citation/18097"
+    },
+    "term": "1992",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/509/544/",
+    "facts_of_the_case": "<p>Ferris Alexander was the owner of a chain of stores and theaters in Minnesota that distributed sexually explicit media. He was charged with violating federal obscenity laws and the Racketeer Influenced and Corrupt Organizations Act (RICO). The federal District Court in Minnesota found him guilty of both charges. The court ordered him to forfeit his businesses, sentenced him to a six-year prison term, and fined him $100,000.</p>\n<p>Alexander appealed, claiming that the confiscation of his stores for his dealings in obscene material amounted to 'prior restraint' on his subsequent distribution of adult materials, and therefore violated his First Amendment rights. He also claimed that the seizure of his business violated his Eighth Amendment protection against excessive fines. The United States Court of Appeals for the Eighth Circuit affirmed the District Court's judgment on the First Amendment claim, and declined to review the Eighth Amendment claim on the ground that no sentence less severe than life imprisonment without parole could justify an Eighth Amendment review.</p>\n",
+    "conclusion": "<p>No and undecided. Chief Justice William Rehnquist wrote for a 5-4 majority that the application of RICO in Alexander's case was neither a 'prior restraint' on speech, nor a criminalization of speech typically protected under the Constitution. His sentence established no conditions on his behavior after its completion; once he paid the fine, surrendered his business and went to prison, he could theoretically distribute adult media without prejudice from the government. \"To accept petitioner's argument,\" Rehnquist wrote, \"would virtually obliterate the distinction [...] between prior restraints and subsequent punishments.\"</p>\n<p>In a separate and unanimous vote, the Court ruled that the forfeiture did in fact merit Eighth Amendment review. The case was returned to the Eighth Circuit for an analysis under the Excessive Fines Clause.</p>\n"
+}

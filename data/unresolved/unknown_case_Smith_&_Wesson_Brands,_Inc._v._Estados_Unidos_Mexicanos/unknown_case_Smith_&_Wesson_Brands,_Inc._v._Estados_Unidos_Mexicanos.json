@@ -1,0 +1,33 @@
+{
+    "ID": 63706,
+    "name": "Smith & Wesson Brands, Inc. v. Estados Unidos Mexicanos",
+    "href": "https://api.oyez.org/cases/2024/23-1141",
+    "view_count": 0,
+    "docket_number": "23-1141",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1728018000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55534"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1741068000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55587"
+        }
+    ],
+    "question": "<p>Can U.S. gun manufacturers be held liable for violence in Mexico under theories of proximate causation and aiding and abetting, based on their domestic production and sale of firearms that are later trafficked to Mexican cartels?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28040"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether U.S. gun manufacturers can be held liable for violence in Mexico under theories of proximate causation and aiding and abetting, based on their domestic production and sale of firearms that are later trafficked to Mexican cartels.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-1141/"
+}

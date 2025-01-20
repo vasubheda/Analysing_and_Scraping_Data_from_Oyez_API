@@ -1,0 +1,42 @@
+{
+    "ID": 55599,
+    "name": "Cone v. Bell",
+    "href": "https://api.oyez.org/cases/2008/07-1114",
+    "view_count": 0,
+    "docket_number": "07-1114",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1214197200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40271"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1228802400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40272"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1240894800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40273"
+        }
+    ],
+    "question": "<p>1) Is Mr. Cone entitled to federal habeas review of his claim that the state suppressed material evidence in violation of <em>Brady v. Maryland</em>?</p>\n<p>2) Is Mr. Cone's federal habeas corpus claim \"procedurally defaulted\" because it has been presented twice at the state court level?</p>\n",
+    "citation": {
+        "volume": "556",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20785"
+    },
+    "term": "2008",
+    "description": "A case in which the Court found that the petitioner was entitled to federal habeas corpus review due to suppression of material evidence, notwithstanding that habeas reviewed had already been presented twice at the state court level. ",
+    "justia_url": null,
+    "facts_of_the_case": "<p>This is the third habeas corpus appeal of petitioner Gary Bradford Cone after his 1982 conviction in a Tennessee state court on several felony counts including first degree murder and robbery by use of deadly force. The jury found that Cone had bludgeoned two elderly people to death while hiding out after a robbery. Cone's initial appeal to the Tennessee Supreme Court soon following his conviction fell on deaf ears: the court ruled that although errors had been committed during the trial, each of them had been \"harmless\" and did not warrant overturning Cone's conviction. He responded by twice filing habeas corpus petitions alleging violations of several constitutional rights, appealing both all the way up to the Court but both times having his case remanded with, in his view, several of his claims still unresolved.</p>\n<p>In his third appearance before the U.S. Court of Appeals for the Sixth Circuit, Cone raised two main points of contention. First, he claimed that he was entitled to relief because the jury in his trial had weighed invalid aggravating factors during his sentencing hearing, thereby entitling him to a new hearing. This argument was rejected by the Sixth Circuit, which found that the Tennessee Supreme Court had conducted a satisfactory harmless error test on the issue. The court pointed out that habeas petitions should be granted only after finding that a state court ruling has \"resulted in a decision that was contrary to, or involved an unreasonable application of, clearly established federal law.\" Because Tennessee had not abridged any federal laws, the Sixth Circuit denied Cone relief on this first issue.</p>\n<p>Cone also argued that the Sixth Circuit had erred when, in a previous appeal, it had held that his claims relating to the prosecutor's improper withholding of evidence had been procedurally defaulted. Cone argued that his case met the Court's \"exceptional circumstances\" test as set out in <em>Westside Mothers v. Olszewski</em> for overruling the procedural default rule and rehearing the issue. The Sixth Circuit once again disagreed, ruling that Cone had failed to show \"cause and prejudice\" on the part of the prosecutor. The Sixth Circuit denied Cone's habeas appeal on all counts.</p>\n",
+    "conclusion": "<p>Yes and No. The Supreme Court held that the Tennessee state courts' rejection of Mr. Cone's <em>Brady</em> claim, that the state had suppressed material evidence at his trial, was improperly denied review during post-conviction proceedings and had not been procedurally defaulted. With Justice John Paul Stevens writing for the majority and joined by Justices Anthony M. Kennedy, David H. Souter, Ruth Bader Ginsburg, and Stephen G. Breyer, the Court reasoned that Mr. Cone's <em>Brady</em> claim had in fact never been presented at the state court level and thus the Sixth Circuit erred in finding that Mr. Cone's claim had been defaulted for having been raised twice previously. Moreover, the Court reasoned that the documents withheld at Mr. Cone's trial were material to his sentencing and thus entitled him to federal habeas corpus review.</p>\n<p>Chief Justice John G. Roberts wrote separately, concurring in the judgment. Justice Samuel A. Alito also wrote separately, concurring in part and dissenting in part. He agreed that Mr. Cone's case was properly remanded for further review. However, he disagreed that Mr. Cone properly preserved and exhausted his <em>Brady</em> claim at the state court level because Mr. Cone never raised that claim at the state court level. Rather, he argued Mr. Cone's claim was either \"not exhausted\" or was \"procedurally defaulted\", appropriate for the Sixth Circuit to review, not the federal district court. Justice Clarence Thomas, joined by Justice Antonin G. Scalia, dissented. He argued that Mr. Cone failed to prove that there was a \"reasonable probability\" that had the withheld evidence been disclosed at trial that his sentencing would have been different, and therefore his claim should not be granted federal habeas corpus review.</p>\n"
+}

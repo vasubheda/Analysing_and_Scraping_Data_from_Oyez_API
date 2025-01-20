@@ -1,0 +1,42 @@
+{
+    "ID": 53975,
+    "name": "Robertson v. Seattle Audubon Society",
+    "href": "https://api.oyez.org/cases/1991/90-1596",
+    "view_count": 0,
+    "docket_number": "90-1596",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                691653600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36811"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                701503200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36812"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                678085200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53531"
+        }
+    ],
+    "question": "<p>Does \u00a7 318 of the Department of the Interior and Related Agencies Appropriations Act, violate Article III of the U.S. Constitution?</p>\n",
+    "citation": {
+        "volume": "503",
+        "page": "429",
+        "year": "1992",
+        "href": "https://api.oyez.org/case_citation/case_citation/17904"
+    },
+    "term": "1991",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/503/429/",
+    "facts_of_the_case": "<p>Respondents -- the Seattle Audubon Society, the Portland Audubon Society, and several other environmental groups -- filed two separate suits in federal district court seeking to enjoin harvesting timber in forests managed by the United States Forest Service and the Bureau of Land Management.  The suits challenged five federal statutes.  In response, Congress enacted \u00a7318 of the Department of Interior and Related Agencies Appropriations Act, which required harvesting in certain areas, while prohibiting it in others.  \u00a7318 included the names of the lawsuits and specifically stated that it was enacted to address the challenges from the lawsuits.  Respondents argued that \u00a7318 violated Article III of the Constitution because it directed the results of the two pending cases, a job for the judiciary, not the legislature.  The district courts rejected that claim, but the U.S. Court of Appeals for the Ninth Circuit consolidated the cases and reversed, holding that Congress was directing the result in pending cases without repealing or amending the underlying litigation.</p>\n",
+    "conclusion": "<p>No.  Justice Clarence Thomas, writing for a unanimous court, reversed the Ninth Circuit and remanded.  The Supreme Court held that \u00a7318 did not violate Article III because it made changes to the law by replacing the legal standards of the five challenged statutes.  It did not make any findings of law or fact, or compel any results in the pending cases.  The explicit reference to the cases only served to identify the statutes underlying those cases.</p>\n"
+}

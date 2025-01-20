@@ -1,0 +1,42 @@
+{
+    "ID": 55480,
+    "name": "Metropolitan Life Ins. Co. v. Glenn",
+    "href": "https://api.oyez.org/cases/2007/06-923",
+    "view_count": 0,
+    "docket_number": "06-923",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1200636000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39941"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1208926800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39942"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1213851600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39943"
+        }
+    ],
+    "question": "<p>Does an insurance carrier, acting both as the entity determining when awards are to be paid and actually funding those awards, have the right to represent to a court that an individual is disabled when the insurance carrier separately determines for other purposes that the individual is in fact not disabled?</p>\n",
+    "citation": {
+        "volume": "554",
+        "page": "105",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/19403"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/554/105/",
+    "facts_of_the_case": "<p>Wanda Glenn, a long-time employee of Sears and manager of its women's department, was covered by the company's long-term disability plan. In 2000, Glenn took medical leave from Sears based on an ailing heart condition and submitted a disability claim under her ERISA plan. Metlife, the insurance carrier, approved the claim and told Glenn to seek social security payments which could then be deducted from her Metlife payments. However, after an administrative law judge determined, based in part on information provided by Metlife, that Glenn was disabled and eligible for social security payments, Metlife revised its own opinion and decided Glenn was no longer eligible for disability benefits.</p>\n<p>Glenn brought suit against Metlife in district court, where Metlife's change of heart was vindicated, however the U.S. Court of Appeals for the Sixth Circuit reversed. In making its decision, the Sixth Circuit took into account Metlife's dual role as both the entity determining when disability awards should be paid out as well as the entity actually funding those payments, noting the possible conflicts of interest that could arise based on this arrangement. In seeking Supreme Court review, Metlife drew attention to circuit splits on the issue of whether these conflicts should be taken into account in determining the validity of Metlife's decisions on disability. In addition to the conflict of interest argument, Glenn pointed out that Metlife's flip-flop did not take into account certain of Glenn's doctor evaluations and that Metlife's representations to the administrative judge were at odds with its own eventual determination that she was not disabled.</p>\n",
+    "conclusion": "<p>Maybe. The Court, in a 7-2 opinion, relied on its prior ruling in <em>Firestone Tire &amp; Rubber Co. v. Bruch</em> to hold that a possible conflict of interest such as MetLife's should be taken into account in determining the legality of a claim denial. The significance and severity of the conflict must be determined by the facts of each individual case. Here, the Court found that the evidence was sufficient to prove that a strong conflict of interest existed. Based on the principle of deference to lower court decisions, the Court affirmed the Sixth Circuit. Justice Stephen Breyer delivered the opinion of the Court. Chief Justice John G. Roberts concurred in part and dissented in part, framing his dissent around his view that conflicts should be taken into account only where there is evidence that the benefits denial was motivated or affected by the administrator's conflict. Justice Anthony Kennedy also concurred in part and dissented in part, suggesting that the case should be remanded to the Sixth Circuit where it could apply the majority opinion to the facts of the case on its own. Justice Antonin Scalia, joined by Justice Clarence Thomas, dissented, finding the mere fact that an entity both determines claims and funds those claims insufficient to prove a conflict of interest.</p>\n"
+}

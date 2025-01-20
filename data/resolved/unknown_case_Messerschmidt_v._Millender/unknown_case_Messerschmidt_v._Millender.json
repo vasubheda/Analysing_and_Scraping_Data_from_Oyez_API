@@ -1,0 +1,42 @@
+{
+    "ID": 55889,
+    "name": "Messerschmidt v. Millender",
+    "href": "https://api.oyez.org/cases/2011/10-704",
+    "view_count": 0,
+    "docket_number": "10-704",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1309150800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41030"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1323064800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41031"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1329890400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41032"
+        }
+    ],
+    "question": "<p>Are police officers entitled to qualified immunity when they obtain a valid warrant to search for firearms, firearm-related materials, and gang-related items in the residence of a gang member and felon who had threatened to kill his girlfriend and fired a sawed-off shotgun at her?</p>\n",
+    "citation": {
+        "volume": "565",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19811"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that qualified immunity protects government officials from civil liability when their conduct does not violate any clearly established right of which a reasonable person would have known.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/565/535/",
+    "facts_of_the_case": "<p>Los Angeles County Deputy Sheriff Curt Messerschmidt prepared an affidavit in support of a search warrant for the residence of Jerry Bowen's foster mother. Bowen was suspected of assaulting his former girlfriend with a sawed-off shotgun. The affidavit requested a night search because Bowen had gang ties, so that a surprise search at night would be safer for the community and the personnel serving the search warrant. The warrant was reviewed by a sergeant, a police lieutenant and a deputy district attorney before it was presented to, and signed by, a judge. Officers executed the warrant in the early morning hours. The homeowner, Augusta Millender, and her family responded by filing suit under for alleged violations of the Fourth and Fourteenth Amendments, for conspiracy to deprive them of their civil rights based on race, and for related state-law claims.</p>\n<p>The district court found the warrant valid, Messerchmidt's conduct reasonable and that probable cause existed to believe that Bowen was at the residence and that nighttime service was appropriate. As to the scope of the warrant, however, the district court found it overbroad. On appeal, the U.S. Court of Appeals for the Ninth Circuit vacated the district court order and remanded the action with directions. The court held that law enforcement officers were entitled to qualified immunity where they reasonably relied on a deputy attorney general and a judge to restrict an overbroad search warrant's scope to items supported by probable cause.</p>\n",
+    "conclusion": "<p>Yes. Chief Justice John G. Roberts Jr. delivered the opinion of the court, which reversed the judgment of the United States Court of Appeals for the Ninth Circuit. The Court held that qualified immunity protects government officials from civil liability when their conduct does not violate any clearly established right of which a reasonable person would have known. The Court further determined that the officers in this instance acted in a reasonable manner.</p>\n<p>Justice Stephen G. Breyer filed a concurring opinion. Justice Breyer wrote separately to emphasize that the multiple facts together made it reasonable for an officer to believe that it was reasonable to search for all firearms and for evidence of gang-related activity.</p>\n<p>Justice Elena Kagan filed an opinion concurring in part and dissenting in part. Justice Kagan agreed with the Court's determination that a reasonable police officer could have thought that there was enough probable cause to authorize a search for all firearms. However, she disagreed with the Court's determination that a reasonable police officer could believe that there was enough probable cause to authorize a search for all evidence of gang membership.</p>\n<p>Justice Sonia M. Sotomayor filed a dissenting opinion, which Justice Ruth Bader Ginsburg joined. Justice Sotomayor disagreed with the majority's assertion that the conduct of the police officers was objectively reasonable because the officer's search included a search for evidence unrelated to the specific crime the officers were investigating.</p>\n"
+}

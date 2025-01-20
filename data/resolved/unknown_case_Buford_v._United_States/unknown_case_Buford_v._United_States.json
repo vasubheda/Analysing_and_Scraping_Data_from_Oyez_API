@@ -1,0 +1,35 @@
+{
+    "ID": 54914,
+    "name": "Buford v. United States",
+    "href": "https://api.oyez.org/cases/2000/99-9073",
+    "view_count": 0,
+    "docket_number": "99-9073",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                978933600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38568"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                985068000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38569"
+        }
+    ],
+    "question": "<p>Does a de novo standard of review apply when a court of appeals reviews a trial court's sentencing guideline determination as to whether an offender's prior convictions were consolidated, and thus related, for sentencing purposes?</p>\n",
+    "citation": {
+        "volume": "532",
+        "page": "59",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18843"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/532/59/",
+    "facts_of_the_case": "<p>The United States Sentencing Guidelines define a career offender as one with at least two prior felony convictions for violent or drug-related crimes and provides that a sentencing judge must count as a single prior conviction all \"related\" convictions. Convictions may also be functionally related, if they were factually or logically related and sentencing was joint. After Paula Buford pleaded guilty to armed bank robbery, the sentencing judge had to determine whether her five prior state convictions were \"related\" or whether they should count as more than one. At sentencing, the government conceded that her four prior robbery convictions were related. The government did not concede that her prior drug conviction was related to the robberies. The District Court concluded that Buford's drug and robbery cases had not been either formally or functionally consolidated. In affirming, the Court of Appeals reviewed the decision deferentially rather than de novo, giving deference to the District Court.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Stephen G. Breyer, the Court held that the Court of Appeals properly reviewed the District Court's \"''functional consolidation'\" decision deferentially \"[i]n light of the fact-bound nature of the legal decision, the comparatively greater expertise of the District Court, and the limited value of uniform court of appeals precedent.\" Rejecting Buford's arguments for de novo review, Justice Breyer wrote that \"the district court is in a better position than the appellate court to decide whether a particular set of individual circumstances demonstrates 'functional consolidation.'\"</p>\n"
+}

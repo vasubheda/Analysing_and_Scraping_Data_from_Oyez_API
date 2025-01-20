@@ -1,0 +1,42 @@
+{
+    "ID": 55158,
+    "name": "Baldwin v. Reese",
+    "href": "https://api.oyez.org/cases/2003/02-964",
+    "view_count": 0,
+    "docket_number": "02-964",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1054011600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39057"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1070863200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39058"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1078207200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39059"
+        }
+    ],
+    "question": "<p>Federal law requires state prisoners to \"fairly present\" their allegations of federal constitutional violations to state courts before turning to federal courts. To meet this requirement, do prisoners need to specifically say their claims are federal constitutional claims?</p>\n",
+    "citation": {
+        "volume": "541",
+        "page": "27",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19086"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/541/27/",
+    "facts_of_the_case": "<p>A state trial court sentenced Reese to 33 years in prison. An appellate court lowered the sentence to 24 years. In another appeal to a state appellate court, Reese argued his federal Sixth Amendment right to effective counsel was violated at trial and on appeal. The appellate court refused to reverse Reese's sentence. Reese appealed to the state supreme court and failed.</p>\n<p>Reese appealed to a U.S. District Court. Ruling against Reese, the Court held that Reese did clearly say to the state supreme court his claims were federal. Federal law requires state prisoners to \"fairly present\" federal constitutional claims in each state court before appealing to federal courts. A federal appellate court reversed, ruling that the state supreme court had had the opportunity to read the state appellate court decision - had the court done this, it would have understood Reese's claims were federal.</p>\n",
+    "conclusion": "<p>Yes. In an 8-1 opinion delivered by Justice Stephen Breyer, the Court held that Reese did not \"fairly present\" his Sixth Amendment ineffective counsel claim to state courts. Federal law thus barred Reese from turning to federal courts. The state court could have understood Reese's claims were federal if the court had read the lower court opinion. However, a state prisoner does not \"fairly present\" a federal claim to a state court if that court must read beyond what the prisoner files. There is no federal requirement that courts read lower court opinions.</p>\n"
+}

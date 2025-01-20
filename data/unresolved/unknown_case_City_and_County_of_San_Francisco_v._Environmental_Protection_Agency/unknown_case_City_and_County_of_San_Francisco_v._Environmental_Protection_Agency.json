@@ -1,0 +1,33 @@
+{
+    "ID": 63683,
+    "name": "City and County of San Francisco v. Environmental Protection Agency",
+    "href": "https://api.oyez.org/cases/2024/23-753",
+    "view_count": 0,
+    "docket_number": "23-753",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1716872400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55468"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1729054800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55525"
+        }
+    ],
+    "question": "<p>Does the Clean Water Act allow the Environmental Protection Agency (or an authorized state) to impose generic prohibitions in National Pollutant Discharge Elimination System permits that subject permit-holders to enforcement for violating water quality standards without identifying specific limits to which their discharges must conform?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28017"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether the Clean Water Act allows the Environmental Protection Agency (or an authorized state) to impose generic prohibitions in National Pollutant Discharge Elimination System permits that subject permit-holders to enforcement for violating water quality standards without identifying specific limits to which their discharges must conform.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-753/"
+}

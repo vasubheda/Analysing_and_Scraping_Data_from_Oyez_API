@@ -1,0 +1,42 @@
+{
+    "ID": 56036,
+    "name": "Heimeshoff v. Hartford Life & Accident Insurance Co.",
+    "href": "https://api.oyez.org/cases/2013/12-729",
+    "view_count": 0,
+    "docket_number": "12-729",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1366002000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41387"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1381813200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41388"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1387173600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41581"
+        }
+    ],
+    "question": "<p>When should the statute of limitations period for judicial review of an ERISA disability benefit decision begin?</p>\n",
+    "citation": {
+        "volume": "571",
+        "page": "99",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/20893"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that the Employment Retirement Income Security Act does not mandate a statute of limitations, allowing both parties in an insurance suit to mutually agree on a timeframe in which civil suits may be brought to court.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/571/99/",
+    "facts_of_the_case": "<p>Julie Heimeshoff worked for Wal-Mart as Senior Public Relations Manager from April 1986 through June 2005. In January 2005, she began suffering from pain from fibromyalgia as well as Irritable Bowel Syndrome and lupus. By June, her condition was so severe that she had to leave work. In August 2005, Heimsehoff filed a claim with Hartford Life &amp; Accident Insurance Co. (Hartford) for Long Term Disability benefits. Heimsehoff's doctor failed to provide an analysis of her condition to Harford, so Hartford denied her claim in December 2005. In May 2006, Heimsehoff obtained counsel to assist her in obtaining benefits. After several evaluations by other doctors, Hartford denied Heimsehoff's claim again in November 2006, finding that she could perform the duties of her former position. Heimsehoff appealed the decision, but Hartford denied her claim for a final time in November 2007.</p>\n<p>Heimsehoff sued in district court, alleging that Hartford violated the Employment Retirement Income Security Act (ERISA) in denying her claim. The district court dismissed the suit as time barred because the plan unambiguously prohibited legal action more than three years after proof of loss is required. Heimsehoff argued that the three-year statute of limitations should instead run from the date when Hartford denied her claim for the final time. The U.S. Court of Appeals for the Second Circuit affirmed.</p>\n",
+    "conclusion": "<p>Justice Clarence Thomas delivered the opinion for the unanimous Court. The Court held that, because ERISA does not mandate a statute of limitations, parties may agree to one that begins before a final denial of coverage that allows a party to state a claim in district court. Since Hartford's agreed-upon limitations period is neither too short nor is there a statute that prevents it from taking effect, the courts are bound to enforce the limitations period and its start date as written in the coverage plan. The Court also held that there is no evidence that the limitations period would prevent a party from fully pursuing internal review followed by judicial review, and if that were to happen, the courts could apply well-established doctrines to allow the suit to proceed.</p>\n"
+}

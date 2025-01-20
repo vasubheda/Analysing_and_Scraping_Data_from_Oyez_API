@@ -1,0 +1,42 @@
+{
+    "ID": 55525,
+    "name": "Bd. of Educ. of City Sch. Dist. of N.Y. v. Tom F.",
+    "href": "https://api.oyez.org/cases/2007/06-637",
+    "view_count": 0,
+    "docket_number": "06-637",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1172469600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40062"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1191214800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40063"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1191992400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40064"
+        }
+    ],
+    "question": "<p>Does the Individuals with Disabilities Act provide for public tuition reimbursement for private school when a child has not previously received special education from a public school?</p>\n",
+    "citation": {
+        "volume": "552",
+        "page": "1",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20741"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/552/1/",
+    "facts_of_the_case": "<p>The Individuals with Disabilities Act (IDEA) guarantees students with disabilities a \"free appropriate public education.\" Tom Freston enrolled his son Gilbert in a private school for students with special needs, because the New York City school district was unable to establish an adequate \"individualized education program.\" The school district reimbursed Freston for the private school tuition. After two years the school district offered to place Gilbert in another public school, but Freston chose to keep his son in private school and again sought tuition reimbursement from the district.</p>\n<p>A U.S. district court ruled that the school district was not required by the IDEA to reimburse Freston, because Gilbert had never been enrolled in public school. The relevant section of the IDEA authorizes tuition reimbursement to the parents of a disabled child \"who previously received special education and related services under the authority of a public agency,\" but it does not explicitly state that parents of children who have never received public education are not entitled to reimbursement. The U.S. Court of Appeals for the Second Circuit vacated the district court. By comparing the disputed section of the IDEA with other sections of the statute, the Second Circuit reasoned that the IDEA was not meant to deny reimbursement to students who have never been enrolled in public school. To rule otherwise, the Circuit Court held, would be to require parents like Freston to enroll children in inadequate public schools in order to be eligible for tuition reimbursement.</p>\n",
+    "conclusion": "<p>The Court's role in the case proved to be anticlimactic. Justice Anthony Kennedy took no part in consideration of the case, leaving the eight remaining Justices to split evenly 4-4, affirming the judgment of the Second Circuit. This result leaves open the issue of reimbursements for private school placements under the IDEA when parents reject a public school placement and the child has not received special education services in the public school.</p>\n"
+}

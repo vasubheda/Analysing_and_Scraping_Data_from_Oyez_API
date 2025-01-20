@@ -1,0 +1,42 @@
+{
+    "ID": 63608,
+    "name": "Bissonnette v. LePage Bakeries Park St., LLC",
+    "href": "https://api.oyez.org/cases/2023/23-51",
+    "view_count": 0,
+    "docket_number": "23-51",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1695963600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55336"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1708408800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55403"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1712898000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55438"
+        }
+    ],
+    "question": "<p>To be exempt from the Federal Arbitration Act, must a class of workers that is actively engaged in interstate transportation also be employed by a company in the transportation industry?</p>\n",
+    "citation": {
+        "volume": "601",
+        "page": null,
+        "year": "2024",
+        "href": "https://api.oyez.org/case_citation/case_citation/27978"
+    },
+    "term": "2023",
+    "description": "A case in which the Court held that a worker need not be employed by a company in the transportation industry to be exempt from the Federal Arbitration Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/601/23-51/",
+    "facts_of_the_case": "<p>Flowers Foods, Inc. is a holding company that owns subsidiaries responsible for producing and distributing baked goods like breads, buns, rolls, and snack cakes. Two of the independent distributors for Flowers in Connecticut are Neal Bissonnette and Tyler Wojnarowski. Both entered into Distributor Agreements with Flowers in 2017 and 2018, respectively. According to these agreements, they pick up baked goods from local warehouses and distribute them to stores and restaurants, earning the difference between the acquisition and selling prices. They are also responsible for sales promotion, stock management, and other operational tasks. While they can sell non-competitive products, they primarily work full-time for Flowers.</p>\n<p>The Distributor Agreement includes an appended Arbitration Agreement, which states that any disputes must be submitted to binding arbitration under the Federal Arbitration Act, except for certain specified issues. Pursuant to that arbitration agreement, the district court compelled arbitration. Bissonnette and Wojnarowski claimed that they are not subject to the FAA because they are \u201ctransportation workers\u201d within the meaning of Section 1 of the FAA, which excludes contracts with \u201cseamen, railroad employees, [and] any other class of workers engaged in foreign or interstate commerce.\u201d The U.S. Court of Appeals for the Second Circuit affirmed the district court\u2019s decision ordering arbitration and dismissing Plaintiff\u2019s lawsuit against Defendant for unpaid or withheld wages, unpaid overtime wages, and unjust enrichment, concluding that Bissonnette and Wojnarowski did not qualify as transportation workers because they were not employed by a company in the transportation industry.</p>\n",
+    "conclusion": "<p>A transportation worker need not work in the transportation industry to be exempt from coverage under Section 1 of the Federal Arbitration Act. Chief Justice John Roberts authored the unanimous opinion of the Court.</p>\n<p>In <em>Circuit City v. Adams</em>, the Court held that Section 1\u2019s exemption covers \u201ctransportation workers\u201d based on the characteristics shared by the specific categories of \u201cseamen\u201d and \u201crailroad employees\u201d mentioned in the statute. In the more recent <em>Southwest Airlines v. Saxon</em> case, the Court rejected an \u201cindustrywide\u201d approach, emphasizing that the focus is on the work the individual performs, not the industry of their employer. The Court reasoned that imposing a \u201ctransportation industry\u201d requirement would lead to complex line-drawing problems about what counts as that industry. Moreover, the statutory text and precedent do not support limiting \u201cseamen\u201d and \u201crailroad employees\u201d to particular industries. While there is a legitimate concern that Section 1 might be read too broadly, transportation workers play a direct and necessary role in the interstate transport of goods, ensuring that the exemption remains appropriately narrow. Therefore, the appeals court erred in compelling arbitration solely because the workers were in the bakery industry.</p>\n"
+}

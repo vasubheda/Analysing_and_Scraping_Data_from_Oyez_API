@@ -1,0 +1,42 @@
+{
+    "ID": 53955,
+    "name": "Morales v. Trans World Airlines, Inc.",
+    "href": "https://api.oyez.org/cases/1991/90-1604",
+    "view_count": 0,
+    "docket_number": "90-1604",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                699602400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36773"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                707374800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36774"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                691221600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53382"
+        }
+    ],
+    "question": "<p>Does the Airline Deregulation Act of 1978 prevent states from prohibiting deceptive airline fare advertisements through enforcement of their general consumer protection statuses?</p>\n",
+    "citation": {
+        "volume": "504",
+        "page": "374",
+        "year": "1992",
+        "href": "https://api.oyez.org/case_citation/case_citation/17884"
+    },
+    "term": "1991",
+    "description": "A case in which the Court held that the Airline Deregulation Act of 1978 prevents states from prohibiting deceptive airline fare advertisements through enforcement of their general consumer protection statuses. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/504/374/",
+    "facts_of_the_case": "<p>The pre-emption provision of the Airline Deregulation Act of 1978 (ADA) prohibits states from enforcing any law relating to airline rates, route, or service. The ADA was enacted to ensure that states would not undo the anticipated benefits of federal deregulation of the airline industry. In 1987, the National Association of Attorneys General (NAAG) adopted Air Travel Industry Enforcement Guidelines, which govern the content and format of airline advertising and award frequent flyers and payment to passengers who voluntarily gave up their seats on overbooked flights. The Attorney General of Texas sent letters to airlines, including Trans World Airlines, notifying them of the intent to sue if they did not follow the guidelines. Trans World Airlines sued and claimed that state regulation of fare advertisements is prohibited by the ADA. The district court found in favor of Trans World Airlines and held that states cannot take any enforcement action, which would restrict any aspect of the fare advertising or operations relating to rate, routes, or services. The U.S. Court of Appeals for the Fifth Circuit affirmed.</p>\n",
+    "conclusion": "<p>Yes. Justice Antonin Scalia delivered the opinion of the 5-3 majority. The Court held that the ADA prevents the enforcement of the NAAG fare-advertising guidelines through a state\u2019s general consumer protection. When the ADA was enacted, Congress intended to prevent the state enforcement action if it has a connection with, or references airline rates, routes, or services, including advertisements. The NAAG guidelines explicitly refer to the rates within the meaning of the ADA and would have a significant impact on the airline\u2019s ability to market their product and upon the fares they charge.</p>\n<p>Justice John Paul Stevens wrote a dissenting opinion in which he argued the words \u201crelate to\u201d in the ADA should not be given a broad meaning because it gives the ADA pre-emption provision a meaning beyond the words and the legislative history behind the enactment. Justice William H. Rehnquist and Justice Harry A. Blackmun joined the dissent</p>\n<p>Justice David H. Souter took no part in the consideration or decision of the case.</p>\n<p>\u00a0</p>\n"
+}

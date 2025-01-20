@@ -1,0 +1,42 @@
+{
+    "ID": 55402,
+    "name": "United States v. Atlantic Research Corp.",
+    "href": "https://api.oyez.org/cases/2006/06-562",
+    "view_count": 0,
+    "docket_number": "06-562",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1169186400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39720"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1177304400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39721"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1181538000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39722"
+        }
+    ],
+    "question": "<p>Can a party that is potentially responsible for the cost of cleaning up contaminated property under the Comprehensive Environmental Response, Compensation and Liability Act (CERCLA) bring an action against another potentially responsible party under Section 107(a), even if the party does not satisfy the requirements for bringing an action for contribution under Section 113(f) of CERCLA?</p>\n",
+    "citation": {
+        "volume": "551",
+        "page": "128",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20708"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/551/128/",
+    "facts_of_the_case": "<p>Atlantic Research Corp. (Atlantic) built rocket motors for the United States government at an Arkansas facility. When residue from burnt rocket fuel contaminated the site, Atlantic voluntarily cleaned up the contamination and later sought cost recovery from the government under Section 107(a) and Section 113(f) of the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA). Some Courts of Appeals had interpreted Section 107(a) as implicitly allowing a party responsible for contamination to compel other partly-responsible parties to contribute to the clean-up. The Superfund Amendments and Reauthorization Act of 1986 added Section 113(f), which makes explicit the right to sue for contribution.</p>\n<p>While Atlantic was negotiating with the government, the Supreme Court ruled in <em>Cooper Industries, Inc. v. Aviall Services, Inc.</em> that a party cannot bring a Section 113(f) claim for contribution unless it is already the subject of a Section 107(a) contamination action. Atlantic filed a new claim for contribution under Section 107(a), but a district court denied the claim. The U.S. Court of Appeals for the Eighth Circuit had previously ruled that a liable party must use Section 113(f), not Section 107(a), to file a contribution claim. Atlantic argued that failure to meet the requirements of Section 113(f) did not foreclose the implied Section 107(a) right to sue other partly-responsible parties for contribution.</p>\n",
+    "conclusion": "<p>Yes. The Court ruled unanimously that Section 107(a) of CERCLA allows potentially responsible parties (PRPs) to sue other PRPs for cost recovery. The opinion by Justice Clarence Thomas affirmed the Eighth Circuit and ruled for Atlantic Research. The government had claimed that the phrase \"any other person\" in Section 107(a) was meant to include only non-PRPs, but the Court, relying on the plain language of the statute, held that \"the Government\u00eds interpretation makes little textual sense.\" Since almost any party likely to incur clean-up costs could be designated a PRP, the government's interpretation risked rendering Section 107(a) functionless. The Court explained that its interpretation would not result in improper overlap between Section 113(f) and Section 107(a). A party can sue another PRP for contribution under 113(f), but the party can only sue under Section 107(a) for reimbursement of its own clean-up costs. Therefore, parties cannot take advantage of Section 107(a)'s longer limitations period by bringing contribution claims under 107(a).</p>\n"
+}

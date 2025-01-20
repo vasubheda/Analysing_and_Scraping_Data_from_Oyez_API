@@ -1,0 +1,42 @@
+{
+    "ID": 62257,
+    "name": "Robers v. United States",
+    "href": "https://api.oyez.org/cases/2013/12-9012",
+    "view_count": 0,
+    "docket_number": "12-9012",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1382331600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52609"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1393308000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52696"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1399266000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52697"
+        }
+    ],
+    "question": "<p>Does a defendant who has fraudulently obtained a loan and thus owes restitution for the loan under the Mandatory Victims Restitution Act (MVRA) return \"any part \" of the loan money by surrendering title to a house that has fallen under foreclosure?</p>\n",
+    "citation": {
+        "volume": "572",
+        "page": "639",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/27053"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that, under the Mandatory Victims Restitution Act, individuals accused of property crime must pay \u201can amount equal to...the value of the property,\u201d minus \u201cthe value...of any part of the property that is returned\" in retribution.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/572/639/",
+    "facts_of_the_case": "<p>Benjamin Robers was involved in a mortgage fraud scheme. His role was to pose as a legitimate buyer of houses, make fraudulent loan applications\u23afby misrepresenting his income and his intention to live in the house and repay the mortgage\u23afthen allow the loan to default by not paying it. Eventually, the bank foreclosed on the houses and then sold them to pay back the lenders. Robers was able to secure two houses under this guise.</p>\n<p>After government officials discovered the scheme but prior to indictment, Robers pled guilty to one count of conspiracy to commit wire fraud because the funds for the fraudulent loans were disbursed electronically (wired) by lenders. A federal district court sentenced him to three years of probation and ordered him to pay restitution pursuant to the Mandatory Victims Restitution Act (MVRA) in the amount of $218,952.18 for both incidents. The amount was calculated by finding the difference between each loan and the resale amount of each house that was foreclosed (the offset value). Robers appealed the restitution award and argued that the wrong offset value was used in the calculation; instead, the fair market price at the time of foreclosure should have been used. The U.S. Court of Appeals for the Seventh Circuit affirmed the district court's holding in part, vacated attorney fees and \"other expenses\" from the restitution sum, and remanded the case back to the district court to draw a new order with the corrected sum.</p>\n",
+    "conclusion": "<p>No. Justice Stephen G. Breyer delivered the opinion of the unanimous Court. The Court held that the word \u201cproperty\u201d in the MVRA refers to the money lent by the banks and not to the houses the banks received as collateral for the fraudulent loans. Therefore, the district court properly calculated the restitution amount because the property (money) was not returned to the banks until the date on which the homes were actually sold.</p>\n<p>Justice Sonia Sotomayor wrote a concurring opinion in which she emphasized that, in her view, the Court\u2019s ruling applied only to cases in which the victim intended to sell the collateral but encountered a reasonable delay in doing so. She noted that, in other cases, a defendant might be able to show that a victim intended to hold onto the collateral as an investment rather than reduce it to cash right away and should consequently bear the loss of any decline in value. Justice Ruth Bader Ginsburg joined in the concurring opinion.</p>\n"
+}

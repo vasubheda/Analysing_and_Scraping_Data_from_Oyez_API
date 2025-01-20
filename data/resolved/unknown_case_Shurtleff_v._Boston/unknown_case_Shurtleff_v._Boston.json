@@ -1,0 +1,42 @@
+{
+    "ID": 63409,
+    "name": "Shurtleff v. Boston",
+    "href": "https://api.oyez.org/cases/2021/20-1800",
+    "view_count": 0,
+    "docket_number": "20-1800",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1632978000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54993"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1642485600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55014"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1651467600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55094"
+        }
+    ],
+    "question": "<p>Does Boston\u2019s refusal to fly a private religious organization\u2019s flag depicting a cross on a city flagpole violate the organization\u2019s First Amendment rights?</p>\n",
+    "citation": {
+        "volume": "596",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27851"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held that a city\u2019s refusal to fly a private religious organization\u2019s flag, which depicts a cross, on a city flagpole violates the organization\u2019s First Amendment rights.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/596/20-1800/",
+    "facts_of_the_case": "<p>The City of Boston owns and manages three flagpoles in front of City Hall, the seat of Boston\u2019s municipal government. Ordinarily, the City raises the United States flag and the POW/MIA flag on one flagpole, the Commonwealth of Massachusetts flag on the second flagpole, and its own flag on the third flagpole. Upon request and after approval, the City will occasionally fly another flag for a limited period of time instead of its own flag.</p>\n<p>Gregory T. Rooney, Commissioner of Boston\u2019s Property Management Department, reviews applications for flag-raising events to ensure the flag is consistent with the City\u2019s message, policies, and practices. The City has approved 284 flag-raising events over a 12-year period, and Rooney had never denied a flag-raising application.</p>\n<p>Camp Constitution is an organization that seeks \u201cto enhance the understanding of the country\u2019s Judeo-Christian moral heritage\u201d and applied to fly a \u201cChristian flag\u201d for its event. Rooney denied Camp Constitution\u2019s flag-raising request, finding it was the first time any entity or organization had requested to fly a religious flag. Camp Constitution sued, and the district court found for the City. On appeal, the U.S. Court of Appeals for the First Circuit affirmed.</p>\n",
+    "conclusion": "<p>Boston\u2019s flag-raising program does not constitute government speech, so its refusal to fly the private religious organization\u2019s flag violates the organization\u2019s First Amendment rights. Justice Stephen Breyer authored the majority opinion of the Court.</p>\n<p>The Court first considered whether Boston\u2019s flag-raising program is government speech. The test for government speech is a holistic inquiry that considers, among other things, the history of the expression at issue, the public\u2019s perception as to who is speaking, and the extent to which the government has controlled the expression. Although the history of flag displays favors Boston, the other two factors outweigh the first factor. The public would not necessarily associate a flag\u2019s message with the City, and, most importantly, the City has exercised almost no control over flag content. In fact, the City has no record of denying a request until the Petitioner\u2019s in this case. Thus, on balance, the flag-raising program is not government speech.</p>\n<p>The Free Speech Clause of the First Amendment disallows the government from engaging in \u201cimpermissible viewpoint discrimination.\u201d When it is not speaking for itself, the government may not exclude speech based on \u201creligious viewpoint.\u201d Thus, Boston\u2019s refusal to allow Shurtleff and Camp Constitution to raise their flag based on \u201creligious viewpoint\u201d violated the First Amendment.</p>\n<p>Justice Brett Kavanaugh authored a concurring opinion to reiterate that the government does not violate the Establishment Clause when it treats religious persons or organizations equally with secular persons or organizations, but it does violate the Free Speech Clause when it excludes religious persons or organizations.</p>\n<p>Justice Samuel Alito authored an opinion concurring in the judgment, in which Justices Clarence Thomas and Neil Gorsuch joined, disclaiming the three-factor test used by the majority. Rather, when faced with a question whether speech constitutes government speech, Justice Alito would ask \u201cwhether the government is actually expressing its own views or the real speaker is a private party and the government is surreptitiously engaged in the \u2018regulation of private speech.\u2019\u201d</p>\n<p>Justice Gorsuch authored an opinion concurring in the judgment, in which Justice Thomas joined, criticizing the so-called Lemon test the Court adopted for resolving Establishment Clause disputes. Justice Gorsuch argued that Boston erroneously relied on the now-abandoned Lemon test, leading it to believe that flying the flag would violate the Establisment Clause.</p>\n"
+}

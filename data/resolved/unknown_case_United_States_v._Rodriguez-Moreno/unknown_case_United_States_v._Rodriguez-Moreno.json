@@ -1,0 +1,35 @@
+{
+    "ID": 54712,
+    "name": "United States v. Rodriguez-Moreno",
+    "href": "https://api.oyez.org/cases/1998/97-1139",
+    "view_count": 0,
+    "docket_number": "97-1139",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                913010400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38190"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                922773600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38191"
+        }
+    ],
+    "question": "<p>Is the venue for prosecuting a violation of 18 USC section 924(c)(1), which proscribes using or carrying a firearm \"during and in relation to any crime of violence,\" proper only in the district were the firearm was used or carried?</p>\n",
+    "citation": {
+        "volume": "526",
+        "page": "275",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18641"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/526/275/",
+    "facts_of_the_case": "<p>Jacinto Rodriguez-Moreno and others were hired by a drug distributor to find a drug dealer who stole cocaine from the distributor while holding captive the botched deal's middleman, Ephrain Avendano. In pursuit of the dealer, Rodriguez-Moreno took Avendano from Texas to New Jersey to New York to Maryland. In Maryland, Rodriguez-Moreno took possession of a revolver and threatened to kill Avendano. However, Avendano escaped and called the police. Rodriguez-Moreno was then arrested. Rodriguez-Moreno was charged in a federal District Court with, among kidnapping and other violations, using and carrying a firearm in relation to Avendano's kidnapping, in violation of 18 USC section 924(c)(1), which proscribes using or carrying a firearm \"during and in relation to any crime of violence.\" Rodriguez-Moreno moved to dismiss the firearm count for lack of venue. Rodriguez-Moreno argued that the only place where the Government had proved he had actually used a gun was Maryland and, therefore, venue was proper only in Maryland. The court denied the motion and a jury found Rodriguez-Moreno guilty of the count. In reversing, the Court of Appeals applied a \"verb test,\" under which a violation of section 924(c)(1) is committed only in the district where a defendant \"uses\" or \"carries\" a firearm. Thus, the New Jersey court venue for the firearm count was improper.</p>\n",
+    "conclusion": "<p>No. In a 7-2 opinion delivered by Justice Clarence Thomas, the Court held that \"[v]enue in a prosecution for using or carrying a firearm 'during and in relation to any crime of violence' in violation of section 924(c)(1) is proper in any district where the crime of violence was committed.\" Justice Thomas wrote for the Court that, \"A kidnapping...does not end until the victim is free. It does not make sense...to speak of it in discrete geographic fragments....[I]t does not matter that respondent used the revolver...only in Maryland because he did so 'during and in relation to' a kidnaping that was begun in Texas and continued in New York, New Jersey, and Maryland.\" Justice Antonin Scalia, with joined by Justice John Paul Stevens, dissented, expressing the view that the crime defined in 924(c)(1) could be \"committed only where the defendant both engages in the acts making up the predicate offense and uses or carries the gun.\" Moreover, Justice Scalia argued, because the accused's use of the gun occurred only in Maryland, venue was proper only there.</p>\n"
+}

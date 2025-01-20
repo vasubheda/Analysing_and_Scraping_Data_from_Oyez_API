@@ -1,0 +1,35 @@
+{
+    "ID": 54269,
+    "name": "Madsen v. Women's Health Center, Inc.",
+    "href": "https://api.oyez.org/cases/1993/93-880",
+    "view_count": 0,
+    "docket_number": "93-880",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                767509200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37369"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                772952400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37370"
+        }
+    ],
+    "question": "<p>1) Is the prohibition of all protesting within the 36-foot buffer zone around the front of the clinic an infringement of the First Amendment right to free speech? 2) Is the 36-foot buffer zone along the back and side of the clinic a breach of the First Amendment right to free speech? 3) Do the limitations imposed on noise-making constitute a breach of the First Amendment right to free speech? 4) Do the restrictions placed on the use of images violate the First Amendment right to free speech? 5) Is it a breach of the First Amendment right to free speech to bar protesters from approaching potential patients when they are within a 300-foot radius of the clinic? 6) Is it a violation of the First Amendment right to free speech to prohibit all protesting in a 300-foot radius of clinic staff residences?</p>\n",
+    "citation": {
+        "volume": "512",
+        "page": "753",
+        "year": "1994",
+        "href": "https://api.oyez.org/case_citation/case_citation/18198"
+    },
+    "term": "1993",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/512/753/",
+    "facts_of_the_case": "<p>Women's Health Center Inc. operated several abortion clinics throughout central Florida, including the Aware Woman Center for Choice in Melbourne, Florida. In 1992, in response to anti-abortion protesters, a state court prohibited the protesters from physically abusing those entering or exiting the clinic, or otherwise interfering with access to the clinic. About 6 months later, Women's Health Center Inc. expressed a need to broaden the court order. The state court agreed, banning demonstrators from entering a 36-foot buffer-zone around the clinic, making excessive noise, using images visible to patients, approaching patients within a 300-foot radius of the clinic, and protesting within a 300-foot radius of staff residences. Petitioner Judy Madsen and her fellow protesters claimed that these restrictions violated their First Amendment right to free speech, but the Florida Supreme Court disagreed, upholding the court order.</p>\n",
+    "conclusion": "<p>No, Yes, No, Yes, Yes, and Yes. In a majority opinion authored by Chief Justice William H. Rehnquist, the Court found that the state of Florida could only restrict protesters to the extent necessary to allow the clinic to run and the staff to live in their homes without interference. Thus, the majority approved of the 36-foot buffer zone around the front of the clinic because it was essential to allow patients and staff to enter and leave the building freely, but disapproved of the 36-foot buffer zone along the back and side of the building because it found no indication that protesting in these areas interfered with the function of the clinic. The Court also determined that the limitations placed on noise-making were necessary to insure the well-being of the patients, whereas those placed on images were not because they were easier to ignore. Finally, the Court concluded that both 300-foot radius rules were too broad, thus restricting the protestors more than was necessary. Therefore, the decision of the Florida Supreme Court was affirmed in part and reversed in part.</p>\n"
+}

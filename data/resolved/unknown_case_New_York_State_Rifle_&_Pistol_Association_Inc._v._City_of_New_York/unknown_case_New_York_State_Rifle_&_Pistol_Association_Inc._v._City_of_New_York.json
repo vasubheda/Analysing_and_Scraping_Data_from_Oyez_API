@@ -1,0 +1,42 @@
+{
+    "ID": 63090,
+    "name": "New York State Rifle & Pistol Association Inc. v. City of New York",
+    "href": "https://api.oyez.org/cases/2019/18-280",
+    "view_count": 0,
+    "docket_number": "18-280",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1548136800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54433"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1575266400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54615"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1587963600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54695"
+        }
+    ],
+    "question": "<p>Does a New York City rule banning the transportation a licensed, locked, and unloaded handgun to a home or shooting range outside city limits violate the Second Amendment, the Commerce Clause, or the constitutional right to travel?</p>\n",
+    "citation": {
+        "volume": "590",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27661"
+    },
+    "term": "2019",
+    "description": "A case in which the Court was asked to decide whether New York City\u2019s ban on transporting a licensed, locked, and unloaded handgun to a home or shooting range outside city limits is consistent with the Second Amendment, the Commerce Clause, and the constitutional right to travel.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/590/18-280/",
+    "facts_of_the_case": "<p>The State of New York law prohibits the possession of firearms without a license. To obtain a handgun license, an individual must apply with a local licensing officer\u2014which, in New York City, is the police commissioner\u2014and the application process involves an investigation into the applicant\u2019s mental health history, criminal history, and moral character. There are two primary types of handgun licenses: \u201ccarry\u201d licenses and \u201cpremises\u201d licenses. This case involves the latter, which permits the licensee to \u201chave and possess in his dwelling\u201d a pistol or revolver. The premises license is specific to a particular address, and the handguns permitted by the license may not be removed from that address except in limited circumstances prescribed by law. One such circumstance is to \u201ctransport his/her handgun(s) directly to and from an authorized small arms range/shooting club, unloaded, and in a locked container, the ammunition to be carried separately.\u201d All small arms ranges/shooting clubs authorized under the rule are located in New York City.</p>\n<p>Three individuals with premises licenses sought to transport their handguns to shooting ranges and competitions outside New York City\u2014which is prohibited by the rule. One of the individuals sought to transport his handgun between the premises in New York City for which it was licensed and his second home in Hancock, New York\u2014which the rule also prohibits. The three individuals and petitioner New York State Rifle &amp; Pistol Association filed a lawsuit in federal district court, asking the court to declare the city\u2019s restrictions unconstitutional and to enjoin the city from enforcing them.</p>\n<p>The district court found the rule \u201cmerely regulates rather than restricts the right to possess a firearm in the home and is a minimal, or at most, modest burden on the right\u201d and thus did not violate plaintiffs\u2019 Second Amendment rights. The district court also held that the rule did not violate the dormant Commerce Clause, the First Amendment right of expressive association, or the fundamental right to travel. Reviewing the district court\u2019s decision de novo, the US Court of Appeals for the Second Circuit affirmed.</p>\n",
+    "conclusion": "<p>In a per curiam (unsigned) opinion, the Court held that the petitioners\u2019 claim for declaratory and injunctive relief with respect to the City\u2019s rule is moot because after the Court granted certiorari, the City amended the rule, permitting the petitioners to transport firearms to a second home or shooting range outside the city.</p>\n<p>Justice Brett Kavanaugh authored a concurring opinion to express agreement with the determination that the claim in this case is moot but also to agree with the dissenting justices in their interpretation of the leading Second Amendment cases, <em>District of Columbia v. Heller</em>, 554 U.S. 570 (2008) and <em>McDonald v. Chicago</em>, 561 U.S. 742 (2010).</p>\n<p>Justice Samuel Alito authored a dissenting opinion, in which Justice Neil Gorsuch joined in full and Justice Clarence Thomas joined in part. Justice Alito argued that the Court incorrectly dismissed the case as moot and that the Court should have decided the case on the merits to correct lower courts' misapplication of <em>Heller</em> and <em>McDonald</em>.</p>\n"
+}

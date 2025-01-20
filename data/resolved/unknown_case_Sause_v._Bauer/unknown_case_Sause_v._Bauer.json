@@ -1,0 +1,35 @@
+{
+    "ID": 63016,
+    "name": "Sause v. Bauer",
+    "href": "https://api.oyez.org/cases/2017/17-742",
+    "view_count": 0,
+    "docket_number": "17-742",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1530162000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54333"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1530162000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54334"
+        }
+    ],
+    "question": "<p>Does the failure of the self-represented plaintiff in this case to raise her Fourth Amendment claim on appeal after bringing closely related First and Fourth Amendment claims in the original action render unnecessary the court\u2019s resolution of her Fourth Amendment claims?</p>\n",
+    "citation": {
+        "volume": "585",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27617"
+    },
+    "term": "2017",
+    "description": "A case in which the Court held that a self-represented woman's failure to raise a Fourth Amendment claim on appeal, when her original complaint raised \"inextricable\" First and Fourth Amendment issues, did not obviate the need for the lower court to resolve the Fourth Amendment issues.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/585/17-742/",
+    "facts_of_the_case": "<p>Mary Ann Sause, representing herself, filed a lawsuit under 42 U.S.C. \u00a7 1983 against members of the Louisburg, Kansas, police department, as well as the current and former mayor of the town. In her complaint she alleges that two police officers visited her apartment in response to a noise complaint, entered her apartment without consent, and \u201cthen proceeded to engage in a course of strange and abusive conduct.\u201d She further alleges that at one point she \u201cknelt and began to pray but one of the officers ordered her to stop.\u201d Sause claims that the officers\u2019 conduct violated her First Amendment right to the free exercise of religion and her Fourth Amendment right to be free of unreasonable searches and seizures. The defendants moved to dismiss Sause\u2019s claim for failure to state a claim, asserting that they were entitled to qualified immunity. The district court granted the motion and dismissed the complaint. On appeal, Sause\u2014now with counsel\u2014argued only that her free exercise rights were violated by the officers\u2019 conduct (dropping her Fourth Amendment claims). The Tenth Circuit affirmed the district court\u2019s dismissal of the action, concluding that the officers were entitled to qualified immunity.</p>\n",
+    "conclusion": "<p>In a per curiam opinion, the Court held that Sause\u2019s failure to raise her Fourth Amendment claims on appeal did not render unnecessary the lower court\u2019s resolution of the \u201cinextricabl[y]\u201d linked First and Fourth Amendment claims. The district court should have interpreted the pro se complaint \u201cliberally,\u201d and in doing so it should find that the plaintiff\u2019s Fourth Amendment claims cannot properly be dismissed for failure to state a claim. Although the plaintiff raised only her First Amendment claim on appeal, even that claim \u201cdemanded consideration of the ground on which the officers were\u00a0present in the apartment and the nature of any legitimate law enforcement interests that might have justified an order to stop praying at the specific time in question.\u201d Without such consideration, a finding of qualified immunity for the officers would be premature.</p>\n"
+}

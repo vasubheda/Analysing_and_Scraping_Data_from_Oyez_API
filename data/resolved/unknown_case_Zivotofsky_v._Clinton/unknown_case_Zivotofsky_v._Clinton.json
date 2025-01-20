@@ -1,0 +1,42 @@
+{
+    "ID": 55824,
+    "name": "Zivotofsky v. Clinton",
+    "href": "https://api.oyez.org/cases/2011/10-699",
+    "view_count": 0,
+    "docket_number": "10-699",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1304312400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40853"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1320645600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40854"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1332738000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40855"
+        }
+    ],
+    "question": "<p>Does the political question doctrine deprive a federal court of jurisdiction to enforce a federal statute that explicitly directs the Secretary of State how to record the birthplace of an American citizen on a Consular Report of Birth Abroad and on a passport?</p>\n",
+    "citation": {
+        "volume": "566",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19746"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that a dispute over passport regulation was not a political issue and is thus liable for judicial review.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/566/189/",
+    "facts_of_the_case": "<p>Menachem Binyamin Zivotofsky is a United States citizen born on October 17, 2002 in Jerusalem. In December 2002, Zivotofsky's mother filed an application for a Consular Report of Birth Abroad and a United States passport for petitioner, listing his place of birth as \"Jerusalem, Israel.\" United States diplomatic officials informed petitioner's mother that State Department policy required them to record \"Jerusalem\" as petitioner's place of birth, which is how petitioner's place of birth appears in the documents he received.</p>\n<p>On his behalf, Zivotofsky's parents filed this suit against the Secretary of State seeking an order compelling the State Department to identify petitioner's place of birth as \"Jerusalem, Israel\" in the official documents. The United States District Court for the District of Columbia initially dismissed the complaint after concluding that petitioner lacked standing, and that the complaint raised a nonjusticiable political question. United States Court of Appeals for the D.C. Circuit reversed and remanded, concluding that petitioner had standing and that a more complete record was needed on the foreign policy implications of recording \"Israel\" as Zivotofsky's place of birth.</p>\n<p>On remand, the State Department explained, among other things, that in the present circumstances if \"Israel\" were to be recorded as the place of birth of a person born in Jerusalem, such \"unilateral action\" by the United States on one of the most sensitive issues in the negotiations between Israelis and Palestinians \"would critically compromise\" the United States' ability to help further the Middle East peace process. The district court again dismissed on political question grounds. The court of appeals affirmed, holding that Zivotofsky's claim is foreclosed because it raises a nonjusticiable political question.</p>\n",
+    "conclusion": "<p>No. In an 8-to-1 decision, Chief Justice John G. Roberts, Jr. delivered the opinion of the Court vacating the judgment and remanding the case to the trial court for further consideration on the merits. Roberts argued that Zivotofsky's claim did not involve a political question and is thus justiciable. Resolution of Zivotofsky's claim would require the Judiciary to vindicate Zivotofsky's statutory rights, a matter within its competence to resolve. Reaching a decision is not simple, however. A full airing on the merits will frame the issues for further review.</p>\n<p>Justice Sonia Sotomayor filed an opinion concurring in the judgment. Justice Stephen Breyer joined Part I of Justice Sonia Sotomayor's opinion. She wrote separately to emphasize that the inquiry required by the political question doctrine was more demanding than the majority suggested with its opinion.</p>\n<p>Justice Samuel A. Alito, Jr. filed a special concurrence. He noted that determining the constitutionality of an Act of Congress could present a political question, but he did not think that the narrow issue before the court fell into that category of cases.</p>\n<p>Justice Stephen G. Breyer filed a dissenting opinion. He wrote that a decision would touch upon several very sensitive foreign policy matters and that adjudication of the petitioner's claim would require the courts to answer a political question as defined by the Court's decision in <em>Baker v. Carr. </em></p>\n"
+}

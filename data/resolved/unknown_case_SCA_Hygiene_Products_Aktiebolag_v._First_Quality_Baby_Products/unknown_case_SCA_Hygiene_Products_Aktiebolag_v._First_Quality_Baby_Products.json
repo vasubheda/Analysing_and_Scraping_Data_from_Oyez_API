@@ -1,0 +1,42 @@
+{
+    "ID": 62703,
+    "name": "SCA Hygiene Products Aktiebolag v. First Quality Baby Products",
+    "href": "https://api.oyez.org/cases/2016/15-927",
+    "view_count": 0,
+    "docket_number": "15-927",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1462165200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53510"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1477976400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53907"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1490072400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53996"
+        }
+    ],
+    "question": "<p>Can the defense of an unreasonable delay in litigation bar claims for patent infringement that are brought within the six-year statutory period of limitations?</p>\n",
+    "citation": {
+        "volume": "580",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27424"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that an unreasonable delay in litigation cannot bar claims for patent infringement that are brought within the six-year statutory period of limitations.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/580/15-927/",
+    "facts_of_the_case": "<p>SCA Hygiene Products Aktiebolag (SCA) produces adult incontinence products, as does First Quality Baby Products, LLC (First Quality). In 2003, SCA notified First Quality that it believed First Quality was infringing on one of its patents, and First Quality responded by arguing that, because the SCA patent in question was essentially the same as a prior-filed patent, it was invalid and therefore First Quality could not be infringing. The two companies ceased communication on the issue, but in 2004, SCA requested that the U.S. Patent and Trademark Office (PTO) reexamine its patent in light of the prior-filed one, and in 2007, the PTO determined that the patent in question was valid.</p>\n<p>In 2010, SCA sued First Quality for patent infringement. First Quality moved for summary judgment because SCA had unreasonably delayed litigation, and the district court granted the motion. The U.S. Court of Appeals for the Federal Circuit affirmed the district court\u2019s opinion regarding the unreasonable delay because SCA should have been able to proceed with litigation after the reexamination and had not provided evidence to justify the delay. SCA requested a rehearing before the entire appellate court to reconsider the issue in light of the Supreme Court\u2019s decision in &lt;i&gt;Petrella v. Metro-Goldwyn-Mayer&lt;/i&gt;, which held that the unreasonable delay defense cannot bar suits for copyright infringement that occurred during the three-year limitations period, and argued that the same analysis should apply to patent suits like this one. Upon rehearing, the appellate court rejected SCA\u2019s argument and held that the Petrella decision did not affect its precedent, which stated that an unreasonable delay defense may be used in patent infringement claims brought within the six-year statute of limitations, and courts must examine the circumstances underlying those claims and the defense.</p>\n",
+    "conclusion": "<p dir=\"ltr\">An unreasonable delay in litigation is not a defense against a claim for damages brought within the six-year statutory period of limitations in a patent infringement case. Justice Samuel A. Alito, Jr., delivered the opinion of the 7-1 majority. The Court held that the reasoning of Petrella v. Metro-Goldwyn-Mayer, which held that an unreasonable delay defense cannot bar relief within the three-year statute of limitations for copyright cases, also applies to a patent infringement case. Because the unreasonable delay defense was meant to be in place when there was no statute of limitations, applying the defense during the statute of limitations period would conflict with the purpose of the defense. The Court explained that, at the time of the Patent Act\u2019s enactment, there was a well-established general rule that the unreasonable delay defense cannot be used to bar damages on a claim filed during the statute of limitations period and that First Quality did not properly consider this rule. Although the rule was established in the context of patent cases, there is no \u201cunambiguous consensus of lower court decisions\u201d to support that patent law cases should be treated differently than copyright cases for this purpose. </p>\n<p>In his dissent, Justice Stephen G. Breyer argued that the language of the Patent Act does not explicitly contain a statute of limitations period. Instead, the language allows a patentee to sue any time after an infringement takes place and sue in hopes of recovering significant damages from the preceding six years. The unreasonable delay defense prevents a plaintiff from succeeding in this effort and therefore should apply to patent cases. </p>\n"
+}

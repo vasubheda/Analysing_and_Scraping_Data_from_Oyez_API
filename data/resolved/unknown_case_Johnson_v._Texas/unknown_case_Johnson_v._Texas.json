@@ -1,0 +1,35 @@
+{
+    "ID": 54162,
+    "name": "Johnson v. Texas",
+    "href": "https://api.oyez.org/cases/1992/92-5653",
+    "view_count": 0,
+    "docket_number": "92-5653",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                735800400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37170"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                740898000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37171"
+        }
+    ],
+    "question": "<p>Did the Texas capital sentencing statute unconstitutionally preclude the jury from fully considering the mitigating effect of the petitioner's youth at the time of the crime? </p>\n",
+    "citation": {
+        "volume": "509",
+        "page": "350",
+        "year": "1993",
+        "href": "https://api.oyez.org/case_citation/case_citation/18091"
+    },
+    "term": "1992",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/509/350/",
+    "facts_of_the_case": "<p>On March 23, 1986, Dorsie Lee Johnson, Jr., who was 19, shot Jack Huddleston in the course of a convenience store robbery by telling Huddleston to get on the ground and then shooting Huddleston in the back of the neck. A few weeks later, Johnson was arrested for a subsequent robbery and attempted murder. At that time he confessed to the murder of Jack Huddleston. </p>\n<p>Johnson was tried and convicted of capital murder. After a jury determined that he was guilty, a separate proceeding was held to determine whether Johnson would be sentenced to death or to life in prison. Pursuant to the Texas capital sentencing statute, the court instructed the jury to determine two special issues, whether Johnson caused the death of Jack Huddleston intentionally and whether Johnson was likely to constitute a continuing threat to society. Under Texas law, if the jury answered yes to both questions Johnson would be sentenced to death. The court further instructed the jury that it may consider any aggravating or mitigating evidence. However, the jury was given no special instruction to consider Johnson's youth. A unanimous jury found that the answer to both special issues was yes, and the trial court sentenced Johnson to death. </p>\n<p>Johnson appealed, and the appellate court affirmed the conviction. Johnson later filed a motion for rehearing arguing that the special issues did not allow for adequate consideration of Johnson's youth. The court of appeals rejected Johnson's argument concluding that the jury was able to express a reasoned and moral response to Johnson's mitigating evidence. Johnson then filed a petition for certiorari with the Supreme Court. </p>\n",
+    "conclusion": "<p>No. Justice Anthony M. Kennedy wrote for the majority and held that the procedure set forth by the Texas capital sentencing statute was constitutional with respect to the Eighth and Fourteenth Amendments. After a lengthy discussion of past decisions regarding the constitutional requirements regarding the consideration of mitigating circumstances in capital cases, the Court ultimately held that the Texas capital sentencing statute allowed adequate consideration of Johnson's youth because the jury was instructed to determine the probability that the petitioner would be a continuing threat to society and to consider any mitigating evidence with which they were presented. </p>\n<p>Justice Antonin Scalia filed a concurring opinion. He emphasized that the sentencer's consideration of relevant mitigating evidence ought to be channeled. He stated that the kind of channeling of mitigating discretion practiced in Texas should not merely be permitted, but required.</p>\n<p>Justice Clarence Thomas also filed a concurring opinion in which he agreed with the ruling, but added that he believed the Court wrongly decided <i>Penry v. Lynaugh</i>. </p>\n<p>Justice Sandra Day O'Connor dissented, joined by Justices Harry A. Blackmun, John Paul Stevens, and David Souter. In her opinion, Justice O'Connor stated that the jury was not allowed to give full effect to the mitigating evidence of Johnson's youth and stated that the sentence should have been remanded. </p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 63174,
+    "name": "Seila Law LLC v. Consumer Financial Protection Bureau",
+    "href": "https://api.oyez.org/cases/2019/19-7",
+    "view_count": 0,
+    "docket_number": "19-7",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1571374800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54591"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1583215200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54674"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1593406800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54737"
+        }
+    ],
+    "question": "<ol><li>Does the vesting of substantial executive authority in the Consumer Financial Protection Bureau, an independent agency led by a single director, violate the separation of powers principle?</li>\n<li>If it does, is 12 U.S.C. \u00a7 5491(c)(3) severable from the Dodd-Frank Act?</li>\n</ol>",
+    "citation": {
+        "volume": "591",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27715"
+    },
+    "term": "2019",
+    "description": "A case in which the Court held that the vesting of substantial executive authority in the Consumer Financial Protection Bureau, an independent agency led by a single director, violates the separation of powers, but the statutory provision creating that violation, 12 U.S.C. \u00a7 5491(c)(3) is severable from the Dodd-Frank Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/591/19-7/",
+    "facts_of_the_case": "<p>The Consumer Financial Protection Bureau (CFPB) was investigating Seila Law LLC, a law firm that provides debt-relief services, among others. As part of its investigation, the CFPB issued a civil investigative demand to Seila Law that requires the firm to respond to several interrogatories and requests for documents. Seila Law refused to comply with the demand, so the CFPB filed a petition in\u00a0the district court to enforce compliance. The district court granted the petition and ordered Seila Law to comply with the CID. Seila Law appealed the district court\u2019s order on two grounds, one of which was that the CFPB is unconstitutionally structured.</p>\n<p>Specifically, Seila Law argued that the CFPB\u2019s structure violates the Constitution\u2019s separation of powers because it is an independent agency headed by a single Director who exercises substantial executive power but can be removed by the President only for cause. The Ninth Circuit disagreed.</p>\n<p>The court found two Supreme Court decisions on separation of powers controlling: Humphrey\u2019s Executor v. United States, 295 U.S. 602 (1935), and Morrison v. Olson, 487 U.S. 654 (1988). According to the Ninth Circuit panel, those cases indicate that the for-cause removal restriction protecting the CFPB\u2019s Director does not \u201cimpede\u00a0the President\u2019s ability to perform his constitutional duty\u201d to ensure that the laws are faithfully executed.\u00a0</p>\n",
+    "conclusion": "<p>The Consumer Financial Protection Bureau\u2019s leadership by a single Director removable only for inefficiency, neglect, or malfeasance violates the separation of powers, but that provision is severable from the Dodd-Frank Act. Chief Justice John Roberts authored the opinion of the Court.</p>\n<p>Article II of the federal Constitution vests the entire \u201cexecutive Power\u201d in the President alone, though lesser executive officers may assist the President in discharging his duties. The President retains the power supervise and to remove these lesser executive officers, and Congress may not restrict the President\u2019s power to remove such officers, except in two circumstances, neither of which was present in this case.</p>\n<p>First, Congress may grant for-cause removal protection to a multimember body of experts who were balanced along partisan lines, appointed to staggered terms, performed only \u201cquasi-legislative\u201d and\u00a0\u201cquasi-judicial functions,\u201d and were said not to exercise any executive\u00a0power. Second, Congress may grant for-cause removal protection to an inferior officer\u2014the independent counsel\u2014who had limited duties and no policymaking or administrative authority.</p>\n<p>The director of the CFPB falls within neither of these exceptions, and the Court declined to extend the exceptions to a new situation because the CFPB\u2019s structure has no foothold in history or tradition and the CFPB\u2019s single-director configuration is incompatible with the structure of the Constitution, which \u201cscrupulously\u201d avoids concentrating power in the hands of any single individual, save the President.</p>\n<p>The Chief Justice, joined by Justices Samuel Alito and Brett Kavanaugh, concluded that the Director\u2019s removal protection is severable from the other provisions of the Dodd-Frank Act that establish the CFPB and define its authority.</p>\n<p>Justice Clarence Thomas authored an opinion in which Justice Neil Gorsuch joined, concurring with the Chief Justice\u2019s conclusion that the CFPB\u2019s structure violates the separation of powers but dissenting as to the severability of the clause. Justice Thomas argued that he would repudiate entirely the first exception in which Congress may restrict the President\u2019s power to remove lesser executive officers and that the doctrine of severability is entirely unfounded because it \u201cinvolves nebulous inquir[ies] into hypothetical congressional intent.\u201d</p>\n<p>Justice Elena Kagan authored an opinion in which Justices Ruth Bader Ginsburg, Stephen Breyer, and Sonia Sotomayor joined, concurring with the Chief Justice\u2019s conclusion as to severability but dissenting as to the conclusion that the configuration violates the separation of powers. Justice Kagan argued that for-cause removal restrictions serve to create in administrative agencies \u201ca measure of independence from political pressure\u201d and that \u201cthe text of the Constitution, the history of the country, the precedents of this Court, and the need for sound and adaptable governance\u2014all stand against the majority\u2019s opinion.\u00a0</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55835,
+    "name": "Howes v. Fields",
+    "href": "https://api.oyez.org/cases/2011/10-680",
+    "view_count": 0,
+    "docket_number": "10-680",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1295848800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40885"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1317704400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40886"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1329804000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40887"
+        }
+    ],
+    "question": "<p>Does federal law automatically require <em>Miranda</em> warnings before questioning jail or prison inmates about issues unrelated to the cases for which they were incarcerated?</p>\n",
+    "citation": {
+        "volume": "565",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19757"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that a prisoner, currently held in jail, did not have his Miranda rights violated when he was questioned inside the jail for a different crime.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/565/499/",
+    "facts_of_the_case": "<p>A jury found Randall Fields guilty of two counts of third-degree criminal sexual conduct for the sexual abuse of a thirteen-year-old child. Fields was in jail on a disorderly charge when Lenawee County, Michigan deputies questioned him about allegations of sex with a minor. The sex case was unrelated to the one Fields was in jail for at the time.</p>\n<p>Fields filed an appeal of right in the Michigan Court of Appeals claiming that his statements were inadmissible because he had not been given his <em>Miranda</em> warnings before questioning. The state court reasoned that because Fields was free to return to the jail and was questioned on a matter unrelated to his incarceration, there was no obligation to provide him warnings under <em>Miranda</em>.</p>\n<p>Fields then filed a petition for a writ of habeas corpus under 28 U.S.C. \u00a7 2254 claiming that his Fifth Amendment right against self-incrimination was violated, and the U.S. District Court agreed. The United States Court of Appeals for the Sixth Circuit affirmed.</p>\n",
+    "conclusion": "<p>Justice Samuel A. Alito, Jr. delivered the opinion of the Court reversing the lower court's decision. The Court stated that there was not yet any clearly established rule regarding what constituted Miranda custody. Mere imprisonment and private questioning about events in the outside world were not sufficient to create a custodial situation for Miranda purposes. Furthermore, the prisoner in this case was not in custody under Miranda because he was told at the outset of the interrogation that he could leave and go back to his cell whenever he wanted and because he was not physically restrained.</p>\n<p>Justice Ruth Bader Ginsburg wrote an opinion concurring in part and dissenting in part, which Justice Stephen Breyer and Justice Sonia Sotomayor joined. Justice Ginsburg agreed that what constituted custody was not clearly established in Fields' favor. However, the justice disagreed with the Court's determination that Fields was not in custody because Fields was subjected to incommunicado interrogation in a police-dominated atmosphere, was placed in an inherently stressful situation against his will, and had his freedom of action curtailed in a significant way.</p>\n"
+}

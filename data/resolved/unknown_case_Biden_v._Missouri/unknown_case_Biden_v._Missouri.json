@@ -1,0 +1,35 @@
+{
+    "ID": 63435,
+    "name": "Biden v. Missouri",
+    "href": "https://api.oyez.org/cases/2021/21a240",
+    "view_count": 0,
+    "docket_number": "21A240",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1641535200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55020"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1642053600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55043"
+        }
+    ],
+    "question": "<p>Does the Department of Health and Human Services have the authority to enforce a rule requiring health care workers at facilities that participate in the Medicare and Medicaid programs to be fully vaccinated against COVID-19 unless they qualify for a medical or religious exemption?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/27866"
+    },
+    "term": "2021",
+    "description": "A case in which the Court allowed the Biden administration to enforce nationwide a rule requiring health care workers at facilities that participate in the Medicare and Medicaid programs to be fully vaccinated against COVID-19 unless they qualify for a medical or religious exemption.",
+    "justia_url": null,
+    "facts_of_the_case": null,
+    "conclusion": "<p>The Department of Health and Human Services has the authority to enforce its rule requiring health care workers at facilities that participate in the Medicare and Medicaid programs to be fully vaccinated against COVID-19 unless they qualify for a medical or religious exemption. In a per curiam (unsigned) opinion, the Court\u00a0granted the applications to stay the two injunctions barring the Secretary of Health and Human Services from enforcing the regulation.</p>\n<p>The Court reasoned that a core function of HHS is to ensure that the healthcare\u00a0providers who care for Medicare and Medicaid patients protect their patients\u2019 health and safety, and the interim rule at issue here seeks to do precisely that.</p>\n<p>Justice Clarence Thomas authored a dissenting opinion, in which Justices Samuel Alito, Neil Gorsuch, and Amy Coney Barrett joined. The dissenters found no statutory support for such an exercise of authority.</p>\n<p>\u00a0</p>\n"
+}

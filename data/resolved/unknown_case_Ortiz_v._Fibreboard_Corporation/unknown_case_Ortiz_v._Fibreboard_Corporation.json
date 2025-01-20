@@ -1,0 +1,35 @@
+{
+    "ID": 54705,
+    "name": "Ortiz v. Fibreboard Corporation",
+    "href": "https://api.oyez.org/cases/1998/97-1704",
+    "view_count": 0,
+    "docket_number": "97-1704",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                913096800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38176"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                930114000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38177"
+        }
+    ],
+    "question": "<p>Is a mandatory settlement class in asbestos personal injury litigation certifiable on limited fund theory under Rule 23(b)(1)(B) of Federal Rules of Civil Procedure?</p>\n",
+    "citation": {
+        "volume": "527",
+        "page": "815",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18634"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/527/815/",
+    "facts_of_the_case": "<p>After decades of litigation, Fibreboard Corporation and a group of plaintiffs' lawyers reached a \"Global Settlement Agreement\" of its asbestos personal-injury liability. Subsequently, a group of named plaintiffs filed the present action in Federal District Court, seeking certification for settlement purposes of a mandatory class that comprised three certain groups. Intervening objectors argued that the absence of a \"limited fund\" precluded Rule 23(b)(1)(B) certification. Rule 23(b)(1)(B) provides that \"an action may be maintained as a class action if the prerequisites of subdivision (a) are satisfied, and in addition: (1) the prosecution of separate actions by or against individual members of the class would create a risk of... (B) adjudications with respect to individual members of the class which would as a practical matter be dispositive of the interests of the other members not parties to the adjudications or substantially impair or impede their ability to protect their interests.\" The court ruled that both the disputed insurance asset liquidated by the global settlement, and, alternatively, the sum of the value of Fibreboard plus the value of its insurance coverage, as measured by the insurance funds' settlement value, were relevant \"limited funds.\" The Court of Appeals affirmed both the class certification and the adequacy of the settlement. The appellate court approved the class certification, under Rule 23(b)(1)(B), on a limited fund rationale based on the threat to other class members' ability to receive full payment from the manufacturer's limited assets.</p>\n",
+    "conclusion": "<p>No. In a 7-2 opinion delivered by Justice David H. Souter, the Court held that \"applicants for contested certification [of a mandatory settlement class on a limited fund theory under Rule 23(b)(1)(B)] must show that the fund is limited by more than the agreement of the parties, and has been allocated to claimants belonging within the class by a process addressing any conflicting interests of class members.\" \"The record on which the District Court rested its certification of the class for the purpose of the global settlement did not support the essential premises of mandatory limited fund actions. It failed to demonstrate that the fund was limited except by the agreement of the parties, and it showed exclusions from the class and allocations of assets at odds with the concept of limited fund treatment and the structural protections of Rule 23(a) explained in [Amchem Products, Inc. v. Windsor],\" concluded Justice Souter.</p>\n"
+}

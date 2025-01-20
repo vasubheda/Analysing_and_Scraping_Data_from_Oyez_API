@@ -1,0 +1,35 @@
+{
+    "ID": 54624,
+    "name": "Edwards v. United States",
+    "href": "https://api.oyez.org/cases/1997/96-8732",
+    "view_count": 0,
+    "docket_number": "96-8732",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                888213600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38029"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                893739600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38030"
+        }
+    ],
+    "question": "<p>May federal judges sentence someone convicted of taking part in a drug conspiracy based on a finding that two illegal drugs were involved, even if the jury might have convicted based on one drug?</p>\n",
+    "citation": {
+        "volume": "523",
+        "page": "511",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18553"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/523/511/",
+    "facts_of_the_case": "<p>At Vincent Edwards, Reynolds A. Wintersmith, Horace Joiner, Karl V. Fort, and Joseph Tidwell's trial for \"conspiring\" to \"possess with intent to...distribute [mixtures containing two] controlled substances,\" the jury was instructed that the Government must prove that the conspiracy involved measurable amounts of \"cocaine or cocaine base (crack).\" After the jury returned guilty verdicts, the District Judge imposed sentences based on his finding that each petitioners' illegal conduct involved both cocaine and crack. On appeal, the petitioners argued that their sentences were unlawful insofar as they were based upon crack, because the word \"or\" in the jury instruction meant that the judge must assume that the conspiracy involved only cocaine. The United States Sentencing Guidelines treats cocaine more leniently than crack. The Court of Appeals concluded that the Guidelines require the sentencing judge, not the jury, to determine both the kind and the amount of the drugs at issue in a drug conspiracy.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion delivered by Justice Stephen G. Breyer, the Court held that \"the judge was authorized to determine for sentencing purposes whether crack, as well as cocaine, was involved in the offense-related activities.\" Justice Breyer wrote for the Court that \"[t]he Sentencing Guidelines instruct the judge in a case like this one to determine both the amount and the kind of 'controlled substances' for which a defendant should be held accountable -- and then to impose a sentence that varies depending upon amount and kind. Consequently, regardless of the jury's actual, or assumed, beliefs about the conspiracy, the Guidelines nonetheless require the judge to determine whether the 'controlled substances' at issue -- and how much of those substances -- consisted of cocaine, crack, or both.\"</p>\n"
+}

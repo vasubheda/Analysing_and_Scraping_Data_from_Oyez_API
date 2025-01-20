@@ -1,0 +1,42 @@
+{
+    "ID": 55864,
+    "name": "Kappos v. Hyatt",
+    "href": "https://api.oyez.org/cases/2011/10-1219",
+    "view_count": 0,
+    "docket_number": "10-1219",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1309150800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40962"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1326088800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40963"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1334725200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40964"
+        }
+    ],
+    "question": "<p>(1) Can a plaintiff, who is appealing the denial of an application of a patent by commencing a civil action against the Director of the United States Patent and Trademark Office (PTO) in a federal district court pursuant to 35 U.S.C. \u00a7 145, introduce new evidence that could have been presented to the agency in the first instance?</p>\n<p>(2) When new evidence is introduced under Section 145, can the district court decide de novo the factual questions to which the evidence pertains, without giving deference to the prior decision of the PTO?</p>\n",
+    "citation": {
+        "volume": "566",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19786"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that a patent applicant's ability to introduce new evidence in a civil action against the Patent and Trademark Office was only limited by the Federal Rules of Evidence and the Federal Rules of Civil Procedure.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/566/431/",
+    "facts_of_the_case": "<p>When the U.S. Patent and Trademark Office denies an application for a patent, the applicant may seek judicial review of the agency's final action by one of two means. The applicant may obtain direct review of the agency's determination in the U.S. Court of Appeals for the Federal Circuit. Alternatively, the applicant may commence a civil action against the director of the PTO in federal district court. The court will decide whether a plaintiff in a civil (\u00a7 145) action may introduce new evidence that could have been presented to the agency in the first instance. The court will also consider whether, when new evidence is introduced under \u00a7 145, the district court may decide the factual questions to which the evidence pertains, without giving deference to the prior decision of the PTO.</p>\n<p>Gilbert P. Hyatt's patent application and subsequent claims were rejected. Hyatt appealed to the U.S. Board of Patent Appeals and Interferences. The Board reversed most of the examiner's written description rejections, but upheld some. Hyatt filed a request for rehearing on the rejected claims, which the Board dismissed on the basis that it raised new issues that could have been raised to either the examiner or the Board. Hyatt responded by filing a civil action at the U.S. District Court for the District of Columbia under \u00a7145. He submitted a declaration supporting his new and amended claims. The PTO objected to the declaration, arguing that the district court should not consider the new evidence because Hyatt did not introduce it to either the Board or the examiner. The district court agreed with the PTO, ruling that Hyatt's failure to present the evidence to the PTO constituted a negligent act. The U.S. Court of Appeals for the Federal Circuit reversed the district court's decision.</p>\n",
+    "conclusion": "<p>Yes and Yes. Justice Clarence Thomas wrote for a unanimous court affirming the lower court's decision. The Court held a patent applicant's ability to introduce new evidence in a civil action against the Patent and Trademark Office was only limited by the Federal Rules of Evidence and the Federal Rules of Civil Procedure. The Court also held that a district court can decide a de novo factual question without giving deference to the prior decision and that it may take both new evidence and the administrative record into account.</p>\n<p>Justice Sonia Sotomayor filed a concurring opinion which Justice Stephen G. Breyer joined. Justice Sotomayor wrote separately to emphasize that the Court's decision should not foreclose a district court's authority to exclude evidence that was deliberately suppressed or withheld in bad faith.</p>\n"
+}

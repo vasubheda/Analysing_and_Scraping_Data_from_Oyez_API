@@ -1,0 +1,42 @@
+{
+    "ID": 62760,
+    "name": "Nelson v. Colorado",
+    "href": "https://api.oyez.org/cases/2016/15-1256",
+    "view_count": 0,
+    "docket_number": "15-1256",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1475125200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53896"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1483941600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53945"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1492578000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54022"
+        }
+    ],
+    "question": "<p>Does the state of Colorado\u2019s refusal to refund money from persons exonerated from convictions unless they can \u201cprove, by clear and convincing evidence, that [they were] \u2018actually innocent\u2019\u201d violate the Due Process Clause?</p>\n",
+    "citation": {
+        "volume": "581",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27465"
+    },
+    "term": "2016",
+    "description": "A case in which the Court decided that the Colorado Exoneration Act, which requires exonerated persons to \u201cprove, by clear and convincing evidence, that they were \u2018actually innocent\u2019\u201d in order to refund their money, does not comport with the Due Process Clause of the Fourteenth  Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/581/15-1256/",
+    "facts_of_the_case": "<p>The state of Colorado, like most states, imposes certain monetary penalties upon persons convicted of a crime. Shannon Nelson and Louis Madden were both separately arrested and charged with sexual assault crimes. Nelson was acquitted of all charges, and Madden was acquitted of one of two charges against him. Both requested refunds from the state for the penalties they had been charged, since their convictions were overturned. The trial court determined it lacked jurisdiction in Nelson\u2019s case and only returned the funds taken from Madden in connection with the one charge on which he was acquitted. The Colorado Court of Appeals found that the state must refund the money Nelson and Madden had paid respective to their sexual assault charges that had been thrown out. The Colorado Supreme Court reversed the decisions in both cases and held that, \u00a0under the state\u2019s Exoneration Act, an individual may only recover monetary losses from an arrest if they can \u201cprove, by clear and convincing evidence, that [they were] \u2018actually innocent.\u2019\u201d</p>\n",
+    "conclusion": "<p dir=\"ltr\">Colorado\u2019s Exoneration Act, which requires exonerated persons to \u201cprove, by clear and convincing evidence, that they were \u2018actually innocent\u2019\u201d in order to refund their money, is invalid under the Due Process Clause of the Fourteenth Amendment. Justice Ruth Bader Ginsburg delivered the opinion for the 7-1 majority. The Court returned to its reasoning in Mathews v. Eldridge, in which the Court looked at three factors: \u00a0the private interest affected, \u00a0the risk of erroneous deprivation of the defendants\u2019 interests if the Exoneration Act is their only remedy, and what is at stake for the government. Nelson and Madden clearly had an interest in getting back the money they paid to the state upon their convictions. With regard to the second factor, the Court noted that the Exoneration Act did not allow the defendants to be presumed innocent, a presumption to which they are entitled. Finally, the Court held that Colorado has no claim of right to Nelson and Madden\u2019s funds.</p>\n<p dir=\"ltr\">In his concurrence, Justice Samuel A. Alito, Jr., looked to the historical, common-law tradition rather than using the Mathews framework. Generally, when an individual\u2019s judgment is later reversed, the money is repaid; \u00a0this general rule also applied to criminal cases. Because Colorado\u2019s Exoneration Act provided defendants whose convictions are reversed with \u201cno realistic opportunity to prove they are deserving of refunds,\u201d it did not comport with the Due Process Clause. \u00a0</p>\n<p>Justice Clarence Thomas wrote a dissent in which he argued that the defendants had failed to show that they had a substantive entitlement to the money paid to the state upon their convictions. Justice Thomas argued \u00a0that there had been no demonstration as to why exonerated individuals should automatically receive a refund of money that was paid pursuant to their then-valid convictions, nor had the defendants showed how they have been \u201cdeprived of a protected property interest\u201d under the Fourteenth Amendment.</p>\n"
+}

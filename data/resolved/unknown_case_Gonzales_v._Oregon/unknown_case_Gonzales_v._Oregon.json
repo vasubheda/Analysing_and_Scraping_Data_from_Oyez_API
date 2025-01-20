@@ -1,0 +1,42 @@
+{
+    "ID": 55324,
+    "name": "Gonzales v. Oregon",
+    "href": "https://api.oyez.org/cases/2005/04-623",
+    "view_count": 0,
+    "docket_number": "04-623",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1109052000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39518"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1128488400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39519"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1137477600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39520"
+        }
+    ],
+    "question": "<p>Did the Controlled Substances Act authorize the attorney general to ban the use of controlled substances for physician-assisted suicide in Oregon?</p>\n",
+    "citation": {
+        "volume": "546",
+        "page": "243",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20610"
+    },
+    "term": "2005",
+    "description": "A case in which the Court decided that the Controlled Substance Act did not ban the use of controlled substances in physician-assisted suicide, nor does the Attorney General have the power to determine what is a violation of the Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/546/243/",
+    "facts_of_the_case": "<p>In 1994 Oregon enacted the Death with Dignity Act, the first state law authorizing physicians to prescribe lethal doses of controlled substances to terminally ill patients. Attorney General John Ashcroft declared in 2001 that physician-assisted suicide violated the Controlled Substances Act of 1970 (CSA). Ashcroft threatened to revoke the medical licenses of physicians who took part in the practice. Oregon sued Ashcroft in federal district court. That court and, later the Ninth Circuit, held Ashcroft''s directive illegal. The courts held that the CSA did not authorize the attorney general to regulate physician-assisted suicide, which was the sort of medical matter historically entrusted to the states.</p>\n",
+    "conclusion": "<p>No. In a 6-3 opinion delivered by Justice Anthony Kennedy, the Court held that Congress intended the CSA to prevent doctors only from engaging in illicit drug dealing, not to define general standards of state medical practice. Moreover, the CSA did not authorize Attorney General John Ashcroft to declare a medical practice authorized under state law to be illegitimate.</p>\n"
+}

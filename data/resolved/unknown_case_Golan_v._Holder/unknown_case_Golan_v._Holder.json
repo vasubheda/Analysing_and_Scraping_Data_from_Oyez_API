@@ -1,0 +1,42 @@
+{
+    "ID": 55866,
+    "name": "Golan v. Holder",
+    "href": "https://api.oyez.org/cases/2011/10-545",
+    "view_count": 0,
+    "docket_number": "10-545",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1299477600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40968"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1317790800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40969"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1326866400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40970"
+        }
+    ],
+    "question": "<p>(1) Does the Progress Clause of the U.S. Constitution prohibit Congress from taking works out of the public domain?</p>\n<p>(2) Does Section 514 of the Uruguay Round Agreements Act violate the First Amendment of the United States Constitution?</p>\n",
+    "citation": {
+        "volume": "565",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19788"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that Section 514 of the Uruguay Round Agreements Act, regarding copyright status of works in the public domain, does not violate the Copyright Clause or the First Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/565/302/",
+    "facts_of_the_case": "<p>In 1994, Congress passed the Uruguay Round Agreements Act. Section 514 of the act restored U.S. copyright protection to foreign parties whose works had entered the public domain. A group of artists, including musician Lawrence Golan, who made use of the works while they were in the public domain filed a lawsuit in Colorado's federal court to challenge the restoration of copyright, arguing that doing so violated their First Amendment rights.</p>\n<p>The U.S. District Court for the District of Colorado held that Section 514 of the URAA does not violate the Copyright Clause or the First Amendment. The district court also rejected Golan's First Amendment challenge, seeing \"no need to expand upon the settled rule that private censorship via copyright enforcement does not implicate First Amendment concerns.\" The United States Court of Appeals for the 10th Circuit affirmed in part and reversed in part. The court agreed that Section 514 of the URAA does not exceed Congress' authority under the Copyright Clause, but it vacated the district court's First Amendment ruling and remanded for further proceedings.</p>\n",
+    "conclusion": "<p>No and no. In a 6-2 decision, Justice Ruth Bader Ginsburg wrote the majority opinion affirming the lower court. The Court held that congress did have the power to enact Section 514 and the Uruguay Round Agreement. An exhaustive recount of the history of copyright law showed that the public domain is not untouchable, and congress may grant protection to previously unprotected works. The Court soundly rejected Golan's argument that taking works out of the public domain violated the constitutional \"limited times\" requirement, following the reasoning from <em>Eldred v. Ashcroft</em>, 537 U.S. 186 (2003). The Court also held that there were sufficient First Amendment protections built into the current copyright law in the form of the idea/expression dichotomy and the fair use doctrine.</p>\n<p>Justice Steven G. Breyer wrote a dissent, stating that the statutes in question violated the Constitution because they did not promote the production of new works. Justice Beyer also expressed concerns about the difficulty of finding authors of orphaned works in order to gain a copyright license.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 63322,
+    "name": "Yellen v. Confederated Tribes of the Chehalis Reservation",
+    "href": "https://api.oyez.org/cases/2020/20-543",
+    "view_count": 0,
+    "docket_number": "20-543",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1610085600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54830"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1618808400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54879"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1624597200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54932"
+        }
+    ],
+    "question": "<p>Are Alaska Native regional and village corporations established pursuant to the Alaska Native Claims Settlement Act \u201cIndian Tribes\u201d for purposes of the Coronavirus Aid, Relief, and Economic Security (CARES) Act?</p>\n",
+    "citation": {
+        "volume": "594",
+        "page": null,
+        "year": "2021",
+        "href": "https://api.oyez.org/case_citation/case_citation/27796"
+    },
+    "term": "2020",
+    "description": "A case in which the Court held that the Alaska Native regional and village corporations established pursuant to the Alaska Native Claims Settlement Act are \u201cIndian Tribe[s]\u201d for purposes of the Coronavirus Aid, Relief, and Economic Security Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/594/20-543/",
+    "facts_of_the_case": "<p>For over a century after the Alaska Purchase in 1867, the federal government had no settled policy on recognition of Alaska Native groups as Indian tribes. In 1971, Congress enacted the Alaska Native Claims Settlement Act (ANCSA), which authorized the creation of two types of corporations to receive money and land: Alaska Native Regional Corporations and Alaska Native Village Corporations (collectively ANCs).</p>\n<p>In 1975, Congress enacted the Indian Self-Determination and Education Assistance Act (ISDA) to \u201chelp Indian tribes assume responsibility for aid programs that benefit their members.\u201d ISDA defines an \u201cIndian tribe\u201d as \u201cany Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.\u201d</p>\n<p>In 2020, Congress passed the Coronavirus Aid, Relief, and Economic Security Act (CARES Act), Title V of which makes certain funds available to the recognized governing bodies of any \"Indian Tribe\" as that term is defined in the Indian Self-Determination and Education Assistance Act (ISDA). The Department of the Treasury concluded that ANCs were eligible to receive Title V funds.</p>\n<p>Six federally recognized tribes in Alaska and twelve federally recognized tribes in the lower 48 states challenged that determination, arguing that ANCs are not \u201cIndian Tribes\u201d within the meaning of the CARES Act or ISDA. Although the government conceded that ANCs have not been historically recognized as eligible for special programs and services because of their status as Indians, it nevertheless argued that Congress expressly included ANCs within the ISDA definition.</p>\n<p>The district court granted summary judgment to the defendants, finding that ANCs must qualify as Indian tribes to give effect to their express inclusion in the ISDA definition, even though no ANC has been recognized as an Indian tribe. The U.S. Court of Appeals for the District of Columbia reversed, holding that ANCs are not eligible for funding under Title V of the CARES Act because they are not \u201crecognized\u201d as Indian tribes.</p>\n",
+    "conclusion": "<p>Alaska Native Corporations (ANCs) are \u201cIndian tribe[s]\u201d under the Indian Self-Determination and Education Assistance Act (ISDA) and thus eligible for funding available to \u201cTribal governments\u201d under Title V of the Coronavirus Aid, Relief, and Economic Security Act. Justice Sonia Sotomayor authored the 5-4 majority opinion of the Court.</p>\n<p>The majority determined that under the plain meaning of the ISDA, ANCs are Indian tribes. The Alaska Native Claims Settlement Act (ANCSA) is the only statute the ISDA\u2019s \u201cIndian tribe\u201d definition mentions by name, so eligibility for ANCSA\u2019s benefits satisfies the definition\u2019s final \u201crecognized-as-eligible\u201d clause. The respondents failed to demonstrate that the phrase \u201cIndian tribe\u201d is a term of art that should exclude ANCs, and none of their other arguments for reading \u201cIndian tribes\u201d as exclusive of ANCs were persuasive.\u00a0</p>\n<p>Justice Neil Gorsuch authored a dissenting opinion, joined by Justices Clarence Thomas and Elena Kagan. Justice Gorsuch argued that the plain language and construction of the ISDA suggest that ANCs are not \u201cIndian tribes,\u201d supported by analogy to another statute with \u201cnearly identical language in remarkably similar contexts,\u201d and that the majority overlooked the critical statutory word \u201crecognized.\u201d</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55627,
+    "name": "Holder v. Humanitarian Law Project",
+    "href": "https://api.oyez.org/cases/2009/08-1498",
+    "view_count": 0,
+    "docket_number": "08-1498",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1254286800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40350"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1266904800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40351"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1277096400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40352"
+        }
+    ],
+    "question": "<p>Are provisions of the AEDPA which prohibit providing \"any . . . service, . . . training, [or] other specialized knowledge\" to designated foreign terrorist organizations unconstitutionally vague?</p>\n",
+    "citation": {
+        "volume": "561",
+        "page": "1",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19550"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that sections of the Antiterrorism and Effective Death Penalty Act were not unconstitutionally vague in a lawsuit that named the Kurdistan Workers Party and Liberation Tigers of Tamil Eelam.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/561/1/",
+    "facts_of_the_case": "<p>Among the plaintiffs in this case are supporters of the Kurdistan Workers Party (\"KWP\") and the Liberation Tigers of Tamil Eelam (\"LTTE\"). The KWP and LTTE engage in a variety of both lawful and unlawful activities. They sought an injunction to prevent the government from enforcing sections of the Antiterrorism and Effective Death Penalty Act (\"AEDPA\"). Section 302 authorizes the Secretary of State to designate a group as a \"foreign terrorist organization.\" Section 303 makes it a crime for anyone to provide \"material support or resources\" to even the nonviolent activities of a designated organization. In previous cases, the courts have held that Section 303 was unconstitutionally vague. Congress then passed the Intelligence Reform and Terrorism Prevention Act (\"IRTPA\") which amended the AEDPA. It added a state of mind requirement that individuals \"knowingly\" provide \"material support or resources\" in order to violate the Act. Congress also added terms to the Act that further clarified what constituted \"material support or resources.\" The government moved for summary judgment arguing that challenged provisions of the AEDPA were not unconstitutionally vague. The district court granted a partial motion for summary judgment, but held that some parts of the Act were unconstitutionally vague.</p>\n<p>On appeal, the U.S. Court of Appeals for the Ninth Circuit affirmed, holding that the terms \"service,\" \"training,\" or \"other specialized knowledge\" within the AEDPA, as applied to the plaintiffs, were unconstitutionally vague.</p>\n",
+    "conclusion": "<p>Not as applied to the plaintiffs. The Supreme Court held that the material support provision of the AEDPA is constitutional as applied to the particular forms of support that the plaintiffs seek to provide to terrorist organizations. With Chief Justice John G. Roberts writing for the majority, the Court reasoned that, as applied, the provision in question is not vague. Here, the statutory terms at issue -- \"training,\" \"expert advice or assistance,\" \"service,\" and \"personnel\" -- are not similar to terms like \"annoying\" and \"indecent\" that the Court has struck down as being too vague. The Court recognized that the statute may not be clear in every respect, but it is clear enough with respect to the plaintiffs in this case.</p>\n<p>Justice Stephen G. Breyer, joined by Justices Ruth Bader Ginsburg and Sonia Sotomayor, dissented. He agreed that the statute was not unconstitutionally vague. However, Justice Breyer disagreed that the Constitution permits the government to prosecute the plaintiffs criminally for engaging in coordinated teaching and advocacy furthering the designated organizations' lawful political objectives. He reasoned that the government had not met its burden to show that the speech prohibited by the statute served a compelling governmental interest.</p>\n"
+}

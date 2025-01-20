@@ -1,0 +1,42 @@
+{
+    "ID": 55963,
+    "name": "Oxford Health Plans v. Sutter",
+    "href": "https://api.oyez.org/cases/2012/12-135",
+    "view_count": 0,
+    "docket_number": "12-135",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1354860000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41249"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1364187600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41250"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1370840400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41251"
+        }
+    ],
+    "question": "<p>Does an arbitrator exceed his authority when he determines that parties agreed to class arbitration based only on broad contractual language precluding litigation and requiring arbitration of any dispute arising under their contract?</p>\n",
+    "citation": {
+        "volume": "569",
+        "page": "564",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19885"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that an arbitrator did not exceed his power when he interpreted that the parties intended, even if not explicitly, to authorize class-wide arbitration.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/569/564/",
+    "facts_of_the_case": "<p>John Ivan Sutter and Oxford Health Plans entered into a Primary Care Physician Agreement (PCPA). Under this agreement, Sutter provided primary care health services to patients in Oxford's care network in exchange for reimbursement by Oxford. The contract also included a general arbitration clause, which stated, in part, \"No civil action concerning any dispute arising under this Agreement shall be instituted before any court.\" In 2002, Sutter initiated a class action, on behalf of himself and other health care providers under the PCPA, against Oxford, alleging breach of contract and violations of New Jersey law. Oxford moved to compel arbitration. The arbitrator found that the arbitration clause was so general that it encompassed any conceivable court action, including class actions. The arbitrator certified the class, and Oxford moved to vacate that decision in district court arguing the arbitration clause did not encompass class actions and the arbitrator exceeded his authority. The district court denied the motion and class wide arbitration proceeded.</p>\n<p>In 2010, the U.S. Supreme Court decided <em>Stolt-Neilson S.A. v. AnimalFeeds International Corp.</em>, which held that an arbitrator exceeded his authority by allowing class arbitration when the parties had no agreement on the issue. Oxford moved for reconsideration from the arbitrator in light of <em>Stolt-Neilson</em>, and then moved in district court to vacate the arbitrator's most recent award. Both motions were unsuccessful. On appeal, the U.S. Court of Appeals for the Third Circuit affirmed.</p>\n",
+    "conclusion": "<p>No. Justice Elena Kagan, delivered the opinion for the unanimous Court. The Court held that the arbitrator's interpretation, deciding that the parties intended to authorize class-wide arbitration, did not exceed his powers. When parties agree to arbitration, the price of that decision is that an arbitrator may not interpret the contract correctly. Under the Federal Arbitration Act a court cannot overrule the arbitrator as long as the arbitrator provides an interpretation of the contract.</p>\n<p>Justice Samuel A. Alito Jr. wrote a concurrence in which he noted that absent members of the plaintiff class did not consent to the arbitrator's authority and that an arbitrator may only authorize class-wide arbitration when given permission. However, since the petitioner submitted to the arbitration the question of abitrability cannot be raised. Justice Clarence Thomas joined in the concurrence.</p>\n"
+}

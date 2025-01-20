@@ -1,0 +1,35 @@
+{
+    "ID": 54510,
+    "name": "Reno v. ACLU",
+    "href": "https://api.oyez.org/cases/1996/96-511",
+    "view_count": 0,
+    "docket_number": "96-511",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                858751200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37816"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                867301200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37817"
+        }
+    ],
+    "question": "<p>Did certain provisions of the 1996 Communications Decency Act violate the First and Fifth Amendments by being overly broad and vague in their definitions of the types of internet communications which they criminalized?</p>\n",
+    "citation": {
+        "volume": "521",
+        "page": "844",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18439"
+    },
+    "term": "1996",
+    "description": "A case in which the Court ruled that certain provisions of the Communications Decency Act concerning \"indecent\" behavior were unconstitutionally vague. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/521/844/",
+    "facts_of_the_case": "<p>Several litigants challenged the constitutionality of two provisions in the 1996 Communications Decency Act. Intended to protect minors from unsuitable internet material, the Act criminalized the intentional transmission of \"obscene or indecent\" messages as well as the transmission of information which depicts or describes \"sexual or excretory activities or organs\" in a manner deemed \"offensive\" by community standards. After being enjoined by a District Court from enforcing the above provisions, except for the one concerning obscenity and its inherent protection against child pornography, Attorney General Janet Reno appealed directly to the Supreme Court as provided for by the Act's special review provisions.</p>\n",
+    "conclusion": "<p>Yes. The Court held that the Act violated the First Amendment because its regulations amounted to a content-based blanket restriction of free speech. The Act failed to clearly define \"indecent\" communications, limit its restrictions to particular times or individuals (by showing that it would not impact adults), provide supportive statements from an authority on the unique nature of internet communications, or conclusively demonstrate that the transmission of \"offensive\" material is devoid of any social value. The Court added that since the First Amendment distinguishes between \"indecent\" and \"obscene\" sexual expressions, protecting only the former, the Act could be saved from facial overbreadth challenges if it dropped the words \"or indecent\" from its text. The Court refused to address any Fifth Amendment issues.</p>\n<p>Justice Sandra Day O'Connor authored an opinion concurring in the judgment in part and dissenting in part, joined by Chief Justice William Rehnquist. Justice O'Connor would invalidate the provisions only to the extent that they fail to adhere to the Court's principle that zoning restrictions may be valid if they do not unduly limit adult access to the material.</p>\n"
+}

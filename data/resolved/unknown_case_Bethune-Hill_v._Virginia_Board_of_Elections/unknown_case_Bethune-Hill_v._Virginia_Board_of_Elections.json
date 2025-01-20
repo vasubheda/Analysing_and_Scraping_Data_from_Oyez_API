@@ -1,0 +1,42 @@
+{
+    "ID": 62715,
+    "name": "Bethune-Hill v. Virginia Board of Elections",
+    "href": "https://api.oyez.org/cases/2016/15-680",
+    "view_count": 0,
+    "docket_number": "15-680",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1465189200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53736"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1480917600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53920"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1488348000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53984"
+        }
+    ],
+    "question": "<ol><li>Can race be a predominant consideration even where it is the most important consideration in drawing a given district unless the use of race results in \"actual conflict\" with traditional districting criteria?</li>\n<li>Does the admitted use of a one-size-fits-all 55% black voting age population floor amount to racial predominance and trigger strict scrutiny?</li>\n<li>Should courts disregard the admitted use of race in drawing district lines in favor of examining circumstantial evidence regarding the contours of the districts?</li>\n<li>Must racial goals negate all other districting criteria in order for race to predominate?</li>\n<li>Was the General Assembly's predominant use of race in drawing House District 75 narrowly tailored to serve a compelling government interest?</li>\n</ol>",
+    "citation": {
+        "volume": "580",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27431"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that race can be shown to be the predominant factor in redistricting even when traditional principles are respected, and that district courts must engage in a holistic analysis. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/580/15-680/",
+    "facts_of_the_case": "<p>Based on the 2010 Census, the Virginia General Assembly sought to redraw the legislative districts for the Virginia Legislature. At the time the districting legislation was prepared, Virginia was subject to Section 5 of the Voting Rights Act, and therefore any new districting plan must have ensured that there would be no \u201cretrogression\u201d in the ability of racial minorities to elect the candidate of their choice. Accordingly, the new districting plan contained 12 majority-minority districts. On December 22, 2014, the plaintiffs, each of whom resided in one of the twelve challenged districts, sued and argued that those districts constituted racial gerrymanders that violated the Equal Protection Clause of the Fourteenth Amendment. The district court held that the plaintiffs did not establish that race was the predominant factor in the creation of 11 of the 12 challenged district. The district court also held that, although race was the predominant factor in the creation of one district, in doing so the General Assembly was pursuing a compelling state interest and its use of race was narrowly tailored to serve that interest.</p>\n",
+    "conclusion": "<p dir=\"ltr\">Race can still be shown to be the predominant factor in redistricting even when traditional principles are respected, and district courts must engage in a holistic analysis of alleged racial gerrymanders. Justice Anthony M. Kennedy delivered the opinion for the six-justice majority. The Court held that the lower court erred in applying the controlling legal principles in this case. Challengers to an alleged racial gerrymander do not need to show an actual conflict between the enacted redistricting plan and traditional redistricting principles; while such evidence might be persuasive, it is not required. Racial predominance can be shown through other factors, such the circumstantial evidence of a district\u2019s shape or demographics, or more direct evidence regarding legislative purpose. The Court also held that a court\u2019s analysis of an alleged racial gerrymander must be a holistic view of the whole district rather than focusing on the extent to which individual lines may deviate from the traditional principles. Therefore, any explanation for a particular portion of the lines must take into account the context of the district as a whole. On the issue of House District 75, the Court determined that the predominant use of race was narrowly tailored to serve a compelling government interest because the legislature engaged in a careful functional analysis in apportioning the district. </p>\n<p>Justice Samuel A. Alito, Jr. wrote an opinion concurring in part and concurring in the judgment in which he argued that, when a legislature creates a majority-minority voting district, the legislature is using race as a predominant motivation and therefore that action must be narrowly tailored to serve a compelling government interest. Justice Alito therefore joined the majority\u2019s opinion regarding the acceptability of House District 75 and agreed that the other districts should be reexamined, but under the same standard as House District 75. In his separate opinion concurring in part and concurring in the judgment, Justice Clarence Thomas wrote that, because the legislature clearly created majority-minority districts, race was the predominating factor in creating those districts. Therefore the creation of such districts must be shown to be narrowly tailored to serve a compelling government interest. Justice Thomas disagreed with the majority\u2019s holding that House District 75 satisfied this standard because the state neither asserted a sufficiently compelling interest nor was its use of race in the districting process narrowly tailored to serve the interest it asserted. </p>\n"
+}

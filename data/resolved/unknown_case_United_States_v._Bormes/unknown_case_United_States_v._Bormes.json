@@ -1,0 +1,42 @@
+{
+    "ID": 55905,
+    "name": "United States v. Bormes",
+    "href": "https://api.oyez.org/cases/2012/11-192",
+    "view_count": 0,
+    "docket_number": "11-192",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1326434400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41078"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1349154000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41079"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1352786400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41080"
+        }
+    ],
+    "question": "<p>Does the Little Tucker Act waive the sovereign immunity of the United States for claims of damages arising from violations of the Fair Credit Reporting Act?</p>\n",
+    "citation": {
+        "volume": "568",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19827"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that the Little Tucker Act does not apply to lawsuits brought under the Federal Credit Reporting Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/568/6/",
+    "facts_of_the_case": "<p>In October 2000, the United States Treasury Department launched Pay.gov, a billing and payment processing system that allows consumers to make online payments to government agencies by credit or debit card. Numerous government agencies use Pay.gov to process credit and debit payments. On August 9, 2008, attorney James X Bormes filed a lawsuit on behalf of one of his clients in the United States District Court for the Northern District of Illinois, paying the filing fee with a credit card via Pay.gov. The confirmation page displayed the expiration date of Bormes' credit card.</p>\n<p>Bormes alleged that the inclusion of his card's expiration date violated the Fair Credit Reporting Act (\"FCRA\"); he brought this action on behalf of himself and a class of individual cardholders. The statute provides that no person accepting credit or debit cards for a business transaction shall print more than the last 5 digits of the card or the expiration date on any receipt provided to the cardholder after a transaction. The government filed a motion to dismiss for lack of subject matter jurisdiction and for failure to state a claim. The district court concluded that it had jurisdiction under the FCRA, but granted the government's motion to dismiss because the FCRA did not waive the government's sovereign immunity. It held that Bormes' invocation of the Little Tucker Act was moot because the court had jurisdiction under the FCRA.</p>\n<p>On appeal, a motions panel denied the government's motion to transfer to the United States Court of Appeals for the Seventh Circuit. It held that Bormes' complaint invoked the district court's jurisdiction under the Little Tucker Act; the Little Tucker Act grants jurisdiction to district courts over claims against the United States not exceeding $10,000. Afterwards, a panel of the Seventh Circuit determined that the Little Tucker Act waives sovereign immunity for the FCRA in <em>Talley v. U.S. Department of Agriculture</em>. The Seventh Circuit later vacated this opinion; the <em>Talley</em> case remains pending. Bormes appealed his case to the United States Court of Appeals for the Federal Circuit, which determined that the FCRA mandates money damages from the federal government, giving jurisdiction to the district courts through the Little Tucker Act.</p>\n",
+    "conclusion": "<p>No. Justice Antonin Scalia, writing for a unanimous court, vacated the lower judgment and remanded. The Supreme Court held that the Little Tucker Act does not apply when the underlying law imposing monetary liability has its own specific judicial remedies, as in the FCRA. The Little Tucker Act does not create any substantive rights, and was intended to fill the gaps left in more general statutes where monetary relief might be warranted. The lower court should have used the text of the FCRA itself to decide whether sovereign immunity was waived. The Court did not decide whether the FCRA waives the government's sovereign immunity.</p>\n"
+}

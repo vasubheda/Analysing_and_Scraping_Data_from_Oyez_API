@@ -1,0 +1,42 @@
+{
+    "ID": 55341,
+    "name": "Holmes v. South Carolina",
+    "href": "https://api.oyez.org/cases/2005/04-1327",
+    "view_count": 0,
+    "docket_number": "04-1327",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1127797200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39565"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1140588000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39566"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1146459600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39567"
+        }
+    ],
+    "question": "<p>Does South Carolina's rule governing the admissibility of evidence of third-party guilt violate a defendant's Fourteenth Amendment right to due process and Sixth Amendment rights to confrontation and compulsory process (the ability to compel witnesses to testify)?</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "319",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20586"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/547/319/",
+    "facts_of_the_case": "<p>Bobby Lee Holmes was sentenced to death after he was convicted of murder and several other crimes. At trial, he was not permitted to introduce evidence suggesting that another person had committed the crimes.</p>\n<p>Under South Carolina law, defendants \"seeking to present evidence of third-party guilt must [limit the evidence] to such facts as are inconsistent with his own guilt, and to such facts as raise a reasonable inference or presumption as to his own innocence.\" Evidence that merely casts a bare suspicion on another person is not admissible. Using this standard, the South Carolina Supreme Court affirmed the trial court's decision not to allow the evidence.</p>\n",
+    "conclusion": "<p>In a unanimous decision, the Court reversed the South Carolina Supreme Court. The opinion by Justice Samuel Alito - his first as a Supreme Court Justice - held that evidence of third-party guilt brought by the defense could not be excluded only on the basis of the strength of the prosecution's case. Although the Constitution is not violated by the exclusion of evidence based on \"certain other factors such as unfair prejudice, confusion of the issues, or potential to mislead the jury,\" the Court held that exclusion of a defendant's evidence based on the strength of the prosecution's evidence denies the defendant his constitutional right to \"'a meaningful opportunity to present a complete defense.'\"</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 54911,
+    "name": "Nevada v. Hicks",
+    "href": "https://api.oyez.org/cases/2000/99-1994",
+    "view_count": 0,
+    "docket_number": "99-1994",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                985154400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51874"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                993445200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52218"
+        }
+    ],
+    "question": "<p>May a tribal court assert jurisdiction over civil claims against state officials who entered tribal land to execute a search warrant against a tribe member suspected of having violated state law outside the reservation?</p>\n",
+    "citation": {
+        "volume": "533",
+        "page": "353",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18840"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/533/353/",
+    "facts_of_the_case": "<p>Floyd Hicks is a member of the Fallon Paiute-Shoshone Tribes of western Nevada. After tribal police observed that Hicks was in possession of two California bighorn sheep heads, state game wardens obtained search warrants from state court and from the tribal court. After the warrants were executed, Hicks filed suit in Tribal Court, alleging trespass to land and chattels, abuse of process, and violation of civil rights, specifically denial of equal protection, denial of due process, and unreasonable search and seizure. The Tribal Court held that it had jurisdiction over the claims and the Tribal Appeals Court affirmed. Agreeing, the District Court held that the wardens would have to exhaust their qualified immunity claims in Tribal Court. In affirming, the Court of Appeals concluded that the fact that Hicks's home is on tribe-owned reservation land is sufficient to support tribal jurisdiction over civil claims against nonmembers arising from their activities on that land.</p>\n",
+    "conclusion": "<p>No. In an opinion delivered by Justice Antonin Scalia, a unanimous Court held that \"[b]ecause the Fallon Paiute-Shoshone Tribes lacked legislative authority to restrict, condition, or otherwise regulate the ability of state officials to investigate off-reservation violations of state law, they also lacked adjudicative authority to hear respondent's claim that those officials violated tribal law in the performance of their duties. \"[S]ince the lack of authority is clear,\" continued Scalia, \"there is no need to exhaust the jurisdictional dispute in tribal court. State officials operating on a reservation to investigate off-reservation violations of state law are properly held accountable for tortious conduct and civil rights violations in either state or federal court, but not in tribal court.\"</p>\n"
+}

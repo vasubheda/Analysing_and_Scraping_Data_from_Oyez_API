@@ -1,0 +1,42 @@
+{
+    "ID": 55257,
+    "name": "Muehler v. Mena",
+    "href": "https://api.oyez.org/cases/2004/03-1423",
+    "view_count": 0,
+    "docket_number": "03-1423",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1087189200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39333"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1102485600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39334"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1111471200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39335"
+        }
+    ],
+    "question": "<p>(1) Did police violate the Fourth Amendment right to be free from unreasonable seizure by detaining Mena in handcuffs for 2-3 they executed a search warrant for contraband on the premises she occupied? (2) Did police violate the Fourth Amendment by questioning Mena about her immigration status during the detention?</p>\n",
+    "citation": {
+        "volume": "544",
+        "page": "93",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19185"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/544/93/",
+    "facts_of_the_case": "<p>Police detained Mena and others in handcuffs while they searched the house they occupied. During the detention they asked Mena about her immigration status. The police had a search warrant to search the premises for deadly weapons and evidence of gang membership. Mena sued the officers in federal district court for violating her Fourth Amendment right to be free from unreasonable seizure. The district court ruled for Mena. The Ninth Circuit affirmed, holding that using handcuffs to detain Mena during the search violated the Fourth Amendment and that the officers' questioning of Mena about her immigration status also violated the Fourth Amendment.</p>\n",
+    "conclusion": "<p>No and no. In a 9-0 judgment delivered by Chief Justice William H. Rehnquist, the Court held that Mena's detention did not violate the Fourth Amendment. Officers with a search warrant for contraband had authority to detain occupants of the premisses during the search, in order to minimize any risk to officers. Handcuffing Mena while police searched for weapons and a wanted gang member was also justified by officer safety concerns and because officers had to deal with detaining multiple occupants. The Court further held that the officers' questioning of Mena about her immigration status during her detention did not violate the Fourth Amendment. The officers did not need to have reasonable suspicion to question Mena. Moreover, the Court had held repeatedly that mere police questioning did not constitute a seizure.</p>\n"
+}

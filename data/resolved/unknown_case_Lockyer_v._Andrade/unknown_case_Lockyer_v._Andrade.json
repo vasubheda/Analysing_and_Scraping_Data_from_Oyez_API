@@ -1,0 +1,35 @@
+{
+    "ID": 55087,
+    "name": "Lockyer v. Andrade",
+    "href": "https://api.oyez.org/cases/2002/01-1127",
+    "view_count": 0,
+    "docket_number": "01-1127",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1036476000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38892"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1046844000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38893"
+        }
+    ],
+    "question": "<p>Did the Federal Court of Appeals err in holding that California Court of Appeal's affirmation of a sentence of two consecutive terms of 25 years to life in prison for a \"third strike\" conviction was \"grossly disproportionate\" to the crime and thus violated the Eighth Amendment's prohibition on \"cruel and unusual punishment\"?</p>\n",
+    "citation": {
+        "volume": "538",
+        "page": "63",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/19016"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/538/63/",
+    "facts_of_the_case": "<p>Leandro Andrade was found guilty of two felony counts of petty theft with a prior conviction after he stole approximately $150 worth of videotapes. Under California's three strikes regime, a judge sentenced him to two consecutive terms of 25 years to life. In affirming, the California Court of Appeal rejected his claim that his sentence violated the Eighth Amendment. After the Supreme Court of California denied discretionary review, Andrade filed a petition for a writ of habeas corpus in Federal District Court. The District Court denied his petition. In reversing, the Court of Appeals granted Andrade a certificate of appealability as to his claim that his sentence violated the Eighth Amendment.</p>\n",
+    "conclusion": "<p>Yes. In a 5-4 opinion delivered by Justice Sandra Day O'Connor, the Court held that the Court of Appeals erred in ruling that the California Court of Appeal's decision was contrary to, or an unreasonable application of, the Court's clearly established law within the meaning of 28 USC section 2254(d)(1). The Court reasoned that, because the \"precise contours\" of the proportionality principle were unclear, it was not objectively unreasonable for the state appellate court to conclude that the \"contours\" permitted an affirmance of the sentence. The gross disproportionality principle reserves a constitutional violation for only the extraordinary case, wrote Justice O'Connor. \"This is the rare sentence of demonstrable gross disproportionality,\" argued Justice David H. Souter in his dissent, in which Justices John Paul Stevens, Ruth Bader Ginsburg, and Stephen G. Breyer joined.</p>\n"
+}

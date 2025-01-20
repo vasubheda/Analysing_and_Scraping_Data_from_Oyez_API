@@ -1,0 +1,35 @@
+{
+    "ID": 54685,
+    "name": "Reno v. American-Arab Anti-Discrimination Committee",
+    "href": "https://api.oyez.org/cases/1998/97-1252",
+    "view_count": 0,
+    "docket_number": "97-1252",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                910159200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38142"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                919836000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38143"
+        }
+    ],
+    "question": "<p>Does the IIRIRA deprive federal courts of jurisdiction over aliens' suits alleging that actions of the Attorney General are selectively enforced?</p>\n",
+    "citation": {
+        "volume": "525",
+        "page": "471",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18614"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/525/471/",
+    "facts_of_the_case": "<p>Bashar Amer, Aiad Barakat, Julie Mungai, Amjad Obeid, Ayman Obeid, Naim Sharif, Khader Hamide, and Michel Shehadeh, members of the Popular Front for the Liberation of Palestine (PFLP), were marked for deportation by the Immigration and Naturalization Service. The PFLP is characterized by the government as an international terrorist and communist organization. The resident aliens filed suit alleging the Attorney General and other federal parties had targeted them for deportation because of their affiliation with a politically unpopular group, in violation of their First and Fifth Amendment rights. Initially, the District Court enjoined the deportation proceedings. During the case, Congress passed the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (IIRIRA). The IIRIRA restricts judicial review of the Attorney General's \"decision or action\" to \"commence proceedings, adjudicate cases, or execute removal orders against any alien under this Act.\" Reno then filed motions arguing that the IIRIRA deprived the courts of jurisdiction over the aliens' selective-enforcement claim. The District Court denied the motion. The Court of Appeals affirmed the District Court's decision on the merits.</p>\n",
+    "conclusion": "<p>Yes. In an 8-1 decision, announced by Justice Antonin Scalia, the Court ruled that the IIRIRA deprives federal courts of jurisdiction over the selective-enforcement claim. Justice Scalia wrote, \"[a]s a general matter -- and assuredly in the context of claims such as those put forward in the present case -- an alien unlawfully in this country has no constitutional right to assert selective enforcement as a defense against his deportation.\"</p>\n"
+}

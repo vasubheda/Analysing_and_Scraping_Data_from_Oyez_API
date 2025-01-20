@@ -1,0 +1,35 @@
+{
+    "ID": 54754,
+    "name": "Minnesota v. Mille Lacs Band of Chippewa Indians",
+    "href": "https://api.oyez.org/cases/1998/97-1337",
+    "view_count": 0,
+    "docket_number": "97-1337",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                912578400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38267"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                922255200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38268"
+        }
+    ],
+    "question": "<p>Does the Mille Lacs Band of Chippewa Indians have usufructuary rights on land now part of the state of Minnesota?</p>\n",
+    "citation": {
+        "volume": "526",
+        "page": "172",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18683"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/526/172/",
+    "facts_of_the_case": "<p>Mille Lacs Band of Chippewa Indians ceded land in present-day Minnesota to the U.S. in an 1837 treaty. In return, the U.S. granted the Mille Lacs Band certain hunting, fishing, and gathering rights on the ceded land. An 1850 Executive Order by President Taylor ordered the removal of the Mille Lacs Band and revoked their usufructuary rights. An 1855 treaty set aside reservation lands for the Mille Lacs Band, but did not mention their rights. The Mille Lacs Band sued, seeking a declaratory judgment stated that they retained their usufructuary rights and an injunction to prevent the state's interference with those rights. The District Court ultimately ruled that the Mille Lacs Band retained their usufructuary rights under the 1837 treaty. The Court of Appeals affirmed. The courts rejected arguments that the 1850 Executive Order abrogated the usufructuary rights guaranteed by the 1837 treaty and that Minnesota's entrance into the Union in 1858 extinguished any Indian treaty rights under the \"equal footing doctrine.\"</p>\n",
+    "conclusion": "<p>Yes. In a 5-4 decision, authored by Justice Sandra Day O'Connor, the Court ruled that the Mille Lacs Band of Chippewa Indians does have usufructuary rights that were guaranteed to them by the 1837 treaty. After an examination of the historical record, the Court held that the 1850 Executive Order was ineffective to terminate Mille Lacs Band's usufructuary rights, that the Mille Lacs Band did not relinquish its 1837 treaty rights in the 1855 treaty, and that the Mille Lacs Band's usufructuary rights were not extinguished when Minnesota was admitted to the Union.</p>\n"
+}

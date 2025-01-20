@@ -1,0 +1,42 @@
+{
+    "ID": 56012,
+    "name": "Town of Greece v. Galloway",
+    "href": "https://api.oyez.org/cases/2013/12-696",
+    "view_count": 0,
+    "docket_number": "12-696",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1369026000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41348"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1383717600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41349"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1399266000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41580"
+        }
+    ],
+    "question": "<p>Does the invocation of prayer at a legislative session violate the Establishment Clause of the First Amendment even in the absence of discrimination in the selection of prayer-givers and content?</p>\n",
+    "citation": {
+        "volume": "572",
+        "page": "565",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20892"
+    },
+    "term": "2013",
+    "description": "A case in which the Court ruled that the invocation of prayer at a legislative session does not violate the Establishment Clause of the First Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/572/565/",
+    "facts_of_the_case": "<p>The town of Greece, New York, is governed by a five-member town board that conducts official business at monthly public meetings. Starting in 1999, the town meetings began with a prayer given by an invited member of the local clergy. The town did not adopt any policy regarding who may lead the prayer or its content, but in practice, Christian clergy members delivered the vast majority of the prayers at the town's invitation. In 2007, Susan Galloway and Linda Stephens complained about the town's prayer practices, after which there was some increase in the denominations represented.</p>\n<p>In February 2008, Galloway and Stephens sued the town and John Auberger, in his official capacity as Town Supervisor, and argued that the town's practices violated the Establishment Clause of the First Amendment by preferring Christianity over other faiths. The district court found in favor of the town and held that the plaintiffs failed to present credible evidence that there was intentional seclusion of non-Christian faiths. The U.S. Court of Appeals for the Second Circuit reversed and held that the practices violated the Establishment Clause by showing a clear preference for Christian prayers.</p>\n",
+    "conclusion": "<p>No. Justice Anthony Kennedy delivered the opinion for the 5-4 majority. The Court held that the context and jurisprudence surrounding the First Amendment suggested that the Establishment Clause was never meant to prohibit legislative prayer, which created the proper deliberative mood and acknowledged religion's role in society. The content of this prayer does not need to be non-sectarian, because such a requirement would place the courts in the role of arbiters of religious speech, which would involve the government in religion to an extent that is impermissible under the Establishment Clause. The Court thus held that the prayers in question do not violate this tradition and are therefore acceptable under the First Amendment. Justice Kennedy further argued that legislative prayer is primarily for the members of the legislative body, and therefore such prayers do not coerce the public into religious observance. Though the respondents testified that they felt offended by these prayers, Justice Kennedy distinguished between offense and coercion and noted that the former does not violate the Establishment Clause. Justice Antonin Scalia and Justice Clarence Thomas did not join in this portion of the opinion.</p>\n<p>In his concurring opinion, Justice Samuel A. Alito, Jr. wrote that there is a long tradition of constitutionally permissible legislative prayer and that such prayer need not be non-sectarian, especially when such a requirement would place the government in the position of policing prayer. Justice Thomas wrote a separate opinion concurring in part and concurring in the judgment in which he argued that the Establishment Clause should be read as a federalist provision that protected states' rights rather than individual rights.</p>\n<p>Justice Stephen G. Breyer wrote a dissent in which he argued that, as the Court of Appeals held, the Town of Greece must do more to make its legislative prayer inclusive of other faiths. Despite the fact that the town is not exclusively Christian, the town made no significant effort to inform non-Christian clergy about the possibility of delivering an invocation, and in doing so, marginalized religious minority populations. Justice Elena Kagan wrote in a separate dissent that the town's failure to represent a variety of religions in its meetings amounted to the unconstitutional preference of one religion over others. To do so in a public forum where people come to participate in the political process forces individuals who do not agree with the beliefs represented in the prayer to either acquiesce or visibly make their dissent known. Justice Ruth Bader Ginsburg, Justice Sonia Sotomayor, and Justice Breyer joined in the dissent.</p>\n<p>\"</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 54711,
+    "name": "UNUM Life Insurance Company of America v. Ward",
+    "href": "https://api.oyez.org/cases/1998/97-1868",
+    "view_count": 0,
+    "docket_number": "97-1868",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                919836000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38188"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                924584400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38189"
+        }
+    ],
+    "question": "<p>Does the Employee Retirement Income Security Act of 1974 preempt California's common-law agency rule, under which a California employer administering an insured group health plan should be deemed to act as the insurance company's agent? Does ERISA preempt California's \"notice-prejudice\" rule?</p>\n",
+    "citation": {
+        "volume": "526",
+        "page": "358",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18640"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/526/358/",
+    "facts_of_the_case": "<p>UNUM Life Insurance Company of America (UNUM) issued a long-term group disability policy to Management Analysis Company (MAC) as an insured welfare benefit plan governed the Employee Retirement Income Security Act of 1974 (ERISA). The policy provides that proof of claims must be furnished to UNUM within one year and 180 days after the onset of disability. John E. Ward, a California MAC employee, became permanently disabled in May 1992. Ward informed MAC of his disability in late February or early March 1993. UNUM received proof of Ward's claim on April 11, 1994. Ward was notified that his claim was denied as untimely because his notice was late under the terms of the policy. Ward then filed suit under ERISA's civil enforcement provision to recover the disability benefits provided by the plan. Ward argued that, under California's common-law agency rule, an employer administering an insured group health plan should be deemed to act as the insurance company's agent; therefore, his notice of permanent disability to MAC, in late February or early March 1993, sufficed to supply timely notice to UNUM. The District Court rejected Ward's argument and ruled in favor of UNUM, citing ERISA's preemption clause, which states that ERISA provisions \"shall supersede ... State laws\" to the extent that those laws \"relate to any employee benefit plan.\" In reversing, the Court of Appeals noted that Ward might prevail under California's \"notice-prejudice\" rule, under which an insurer cannot avoid liability although the proof of claim is untimely, unless the insurer shows it suffered actual prejudice from the delay.</p>\n",
+    "conclusion": "<p>Yes and no. In a unanimous opinion, delivered by Justice Ruth Bader Ginsburg, the Court held that California's agency rule is preempted by the Employee Retirement Income Security Act of 1974. Justice Ginsburg wrote for the Court that California's common-law agency rule \"would have a marked effect on plan administration,\" adding that it would force employers to take on a role for which they had not volunteered. Further, the Court held that California's notice-prejudice rule is not preempted by ERISA because it is a \"law ... which regulates insurance.\" Thus, Ward's insurance claim may go forward even though he filed for benefits after the deadline because UNUM did not suffer any prejudice from the delay. \"By allowing a longer period to file than the minimum filing terms mandated by federal law, the [California] rule complements rather than contradicts ERISA and the regulations,\" wrote Justice Ginsburg.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 54547,
+    "name": "Associates Commercial Corp. v. Rash",
+    "href": "https://api.oyez.org/cases/1996/96-454",
+    "view_count": 0,
+    "docket_number": "96-454",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                861166800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37886"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                866437200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37887"
+        }
+    ],
+    "question": "<p>Is the value of collateral, under the \"cram-down\" provision of the Bankruptcy Code, section 1325(a)(5)(B), determined by the \"foreclosure-value\" standard, or what a secured creditor could obtain through a foreclosure sale of the property?</p>\n",
+    "citation": {
+        "volume": "520",
+        "page": "953",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18476"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/520/953/",
+    "facts_of_the_case": "<p>In 1992, Elray Rash filed a repayment plan under Chapter 13 of the Bankruptcy Code. Associates Commercial Corporation (ACC) was listed in the bankruptcy petition as a creditor holding a secured claim because it held a valid loan and lien on Rash's tractor truck. Ultimately to gain confirmation of his Chapter 13 plan and retain the truck, Rash invoked the \"cram-down\" provision of the Code. The cram-down provision allows a debtor to keep collateral over the objection of the creditor and requires the debtor to provide the creditor with payments that will total the present value of the collateral. At an evidentiary hearing, ACC maintained, under the \"replacement-value\" standard, that Rash would have to pay approximately $41,000 for a similar truck. Under the \"foreclosure-value\" standard, Rash maintained that the proper valuation was the net amount ACC would realize upon foreclosure and sale of the collateral, or approximately $31,875. The Bankruptcy Court adopted Rash's valuation figure and approved the plan. The District Court and the Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>No. In an 8-1 opinion delivered by Justice Ruth Bader Ginsburg, the Court held that section 506(a) of the Bankruptcy Code, which governs the value of a secured claim, directs the application of the replacement-value standard when debtor, in a repayment plan under Chapter 13, has exercised the cram-down provision. Justice Ginsburg wrote that, \"under [section 506(a)], the value of property retained because the debtor has exercised the [section 1325(a)(5)(B)] 'cram down' option is the cost the debtor would incur to obtain a like asset for the same 'proposed... use.'\" Dissenting, Justice John Paul Stevens expressed the view that the text of 506(a) pointed to foreclosure as the proper method of valuation in the case at hand.</p>\n"
+}

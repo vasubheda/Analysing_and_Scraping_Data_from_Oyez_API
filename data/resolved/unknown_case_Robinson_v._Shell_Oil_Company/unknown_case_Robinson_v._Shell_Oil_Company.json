@@ -1,0 +1,35 @@
+{
+    "ID": 54506,
+    "name": "Robinson v. Shell Oil Company",
+    "href": "https://api.oyez.org/cases/1996/95-1376",
+    "view_count": 0,
+    "docket_number": "95-1376",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                847260000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37810"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                856245600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37811"
+        }
+    ],
+    "question": "<p>Does the term \"employees,\" as used in under Title VII of the Civil Rights Act of 1964, includes former employees, such that a petitioner may bring suit against his or her former employer for post-employment actions allegedly taken in retaliation for having filed a charge with the Equal Employment Opportunity Commission?</p>\n",
+    "citation": {
+        "volume": "519",
+        "page": "337",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18435"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/519/337/",
+    "facts_of_the_case": "<p>Charles T. Robinson, Sr., was fired by Shell Oil Co. Thereafter, Robinson filed an employment discrimination charge with the Equal Employment Opportunity Commission (EEOC) under Title VII of the Civil Rights Act of 1964. While that charge was pending, Robinson applied for a job with another company, which contacted Shell for an employment reference. Robinson, claiming that Shell gave him a negative reference in retaliation for his having filed the EEOC charge, then filed suit under Title VII, which makes it unlawful \"for an employer to discriminate against any of his employees or applicants for employment\" who have availed themselves of Title VII's protections. The District Court dismissed the suit. In affirming, the en banc Court of Appeals held that the term \"employees\" in Title VII refers only to current employees and therefore petitioner's claim was not justicible under Title VII.</p>\n",
+    "conclusion": "<p>Yes. In an unanimous decision, authored by Justice Clarence Thomas, the Court ruled that because the term \"employees,\" as used Title VII of the Civil Rights Act of 1964, includes former employees, Robinson may sue Shell for its allegedly retaliatory post-employment actions. Justice Thomas wrote for the court that barring such protection to former employees, while current employees have it, \"would provide a perverse incentive for employers to fire employees who might bring . . . claims\" under Title VII.</p>\n"
+}

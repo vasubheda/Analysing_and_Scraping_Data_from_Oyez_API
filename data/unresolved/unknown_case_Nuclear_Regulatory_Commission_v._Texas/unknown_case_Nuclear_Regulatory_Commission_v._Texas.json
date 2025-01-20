@@ -1,0 +1,33 @@
+{
+    "ID": 63712,
+    "name": "Nuclear Regulatory Commission v. Texas",
+    "href": "https://api.oyez.org/cases/2024/23-1300",
+    "view_count": 0,
+    "docket_number": "23-1300",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1728018000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55540"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1741154400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55590"
+        }
+    ],
+    "question": "<p>1. Can a nonparty challenge a federal agency\u2019s \u201cfinal order\u201d under the Hobbs Act\u2019s judicial review provision?\u00a0</p>\n<p>2. Do federal nuclear laws allow the Nuclear Regulatory Commission to license private companies to store spent nuclear fuel at off-reactor sites?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28046"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether a nonparty can challenge a federal agency\u2019s \u201cfinal order\u201d under the Hobbs Act\u2019s judicial review provision; and whether federal nuclear laws allow the Nuclear Regulatory Commission to license private companies to store spent nuclear fuel at off-reactor sites.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-1300/"
+}

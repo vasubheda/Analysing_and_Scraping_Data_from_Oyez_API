@@ -1,0 +1,42 @@
+{
+    "ID": 62772,
+    "name": "Packingham v. North Carolina",
+    "href": "https://api.oyez.org/cases/2016/15-1194",
+    "view_count": 0,
+    "docket_number": "15-1194",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1477630800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53911"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1488175200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53976"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1497848400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54061"
+        }
+    ],
+    "question": "<p>Does a North Carolina law prohibiting registered sex offenders from accessing various websites, where minors are known to be active and have accounts, regardless of whether or not the sex offender directly interacted with a minor, violate the First Amendment?</p>\n",
+    "citation": {
+        "volume": "582",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27474"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that the North Carolina law prohibiting registered sex offenders from accessing various websites, where minors are known to be active and have accounts, regardless of whether or not the sex offender directly interacted with a minor violates the First Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/582/15-1194/",
+    "facts_of_the_case": "<p dir=\"ltr\">Lester Packingham was convicted of taking \u201cindecent liberties\u201d with a minor in 2002, as a 21-year-old college student. Per North Carolina law, he was sentenced to a standard 10-12 month imprisonment, followed by a 24-month supervised release. Aside from being told to \u201cremain away from\u201d the minor, his conviction entailed no special stipulations. Packingham was arrested in 2010 after authorities came across a post on his Facebook profile, thanking God for having a parking ticket dismissed. He was arrested for violating North Carolina\u2019s laws regarding convicted sex offenders, which barred the offender\u2019s access to social media websites. </p>\n<p>\u00a0\n</p><p>In his defense, Packingham argued that the law violated his First Amendment rights. He was convicted in trial court, which found that the state had a weighty interest in keeping sexual predators off of social media websites for the \u201cprotection of minors.\u201d The North Carolina Court of Appeals reversed and held that the social media website provision of the law was unconstitutional. The North Carolina Supreme Court reversed and held that the law was constitutional by finding that the law was a \u201climitation on conduct\u201d and not a restriction of free speech. The court found that the state had a sufficient interest in \u201cforestalling the illicit lurking and contact\u201d of registered sex offenders and their potential future victims.</p>\n",
+    "conclusion": "<p dir=\"ltr\">The North Carolina law prohibiting registered sex offenders from accessing various websites, where minors are known to be active and have accounts, regardless of whether or not the sex offender directly interacted with a minor violates the First Amendment. Justice Anthony M. Kennedy delivered the opinion of the 5-3 majority. The Court held that, in order to be valid under the First Amendment, a content-neutral regulation of speech must be narrowly tailored to serve a significant government interest. In other words, the law cannot burden substantially more speech than necessary to advance the government\u2019s legitimate interest. In this case, although the government has a legitimate interest in protecting children from abuse, this law too broadly restricted access to all sorts of websites. Even if it were limited only to social media websites, the law would still unconstitutionally restrict speech because of the vast number of functions that social media websites perform in the modern world. First Amendment jurisprudence has never allowed for such a broad regulation of speech, and similarly broad restrictions have been struck down. However, a state could accomplish the same goal by enacting a more narrowly written statute. </p>\n<p dir=\"ltr\">Justice Samuel A. Alito, Jr., wrote an opinion concurring in the judgment in which he argued that the majority opinion erred in equating the entire internet with a traditionally public forum instead of recognizing the importance of allowing states to regulate certain types of websites. The government certainly has a compelling interest in protecting children from potential sexual predation, and the internet is a place that allows sexual offenders to contact children in ways that they might not otherwise be able, so the government should be able to regulate sex offenders\u2019 use of the internet to an extent. However, the North Carolina law at issue here went too far because it encompassed websites that were unlikely to facilitate a sex crime against a child. Because the North Carolina law prohibited more speech than necessary to further the government\u2019s significant interest, it violated the First Amendment. Chief Justice John G. Roberts, Jr. and Justice Clarence Thomas joined in the opinion concurring in the judgment.</p>\n<p>\u00a0</p>\n<p dir=\"ltr\">Justice Neil Gorsuch did not participate in the discussion or decision of this case.</p>\n"
+}

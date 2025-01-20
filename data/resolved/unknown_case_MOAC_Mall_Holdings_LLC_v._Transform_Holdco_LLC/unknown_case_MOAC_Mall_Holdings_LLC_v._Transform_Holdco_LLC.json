@@ -1,0 +1,42 @@
+{
+    "ID": 63497,
+    "name": "MOAC Mall Holdings LLC v. Transform Holdco LLC",
+    "href": "https://api.oyez.org/cases/2022/21-1270",
+    "view_count": 0,
+    "docket_number": "21-1270",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1655787600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55135"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1670220000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55183"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1681880400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55259"
+        }
+    ],
+    "question": "<p>Does Bankruptcy Code Section 363(m) limit the jurisdiction of appellate courts over an order approving the sale of a debtor\u2019s assets or instead simply limit the remedies available on appeal from such an order?</p>\n",
+    "citation": {
+        "volume": "598",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27901"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held that Bankruptcy Code Section 363(m) does not limit the jurisdiction of appellate courts over an order approving the sale of a debtor\u2019s assets but instead simply limits the remedies available on appeal from such an order.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/598/21-1270/",
+    "facts_of_the_case": "<p>Sears formerly occupied a space in the Mall of America in Minneapolis, Minnesota, under a lease with MOAC. In 2019, the bankruptcy court permitted Transform to assign the Sears lease to its wholly-owned subsidiary. MOAC moved to stay assignment of the lease, but the bankruptcy court denied the motion. MOAC appealed to federal district court but did so without first obtaining from the district court a stay of the assignment pending resolution of the appeal. Transform challenged the district court\u2019s review of the bankruptcy court\u2019s assignment order, claiming that Bankruptcy Code Section 363(m) \u201ccreates a rule of statutory mootness\u201d barring appellate review of a sale \u201cmade to a good-faith purchaser\u201d and not stayed pending appeal. Because MOAC had not obtained a stay, the district court dismissed as moot MOAC\u2019s appeal. The U.S. Court of Appeals for the Second Circuit affirmed.</p>\n",
+    "conclusion": "<p>Section 363(m) of the Bankruptcy Code\u2014which restricts the effects of certain successful appeals of judicially authorized sales or leases of bankruptcy-estate property\u2014is not a jurisdictional provision. Justice Ketanji Brown Jackson authored the unanimous opinion of the Court.</p>\n<p>Congressional statutes often contain restrictions and conditions on relief, but absent a \u201cclear statement\u201d that a provision is jurisdictional, courts must not treat these restrictions and conditions as jurisdictional. Jurisdictional provisions limit the power of the district court, whereas other limitations bear on the rights or obligations of the parties.</p>\n<p>Nothing in the limiting language of \u00a7 363(m)\u2019s purports to \u201cgover[n] a court\u2019s adjudicatory capacity.\u201d First, the text does not address a court\u2019s authority or refer to the jurisdiction of district courts. Second, the structure of the Code and context of \u00a7 363(m) suggest it is not jurisdictional. The provision is separate from other provisions in the code that address federal courts\u2019 jurisdiction over bankruptcy matters, and unlike other provisions, \u00a7 363(m) contains no \u201cclear tie\u201d to the jurisdictional provisions.</p>\n"
+}

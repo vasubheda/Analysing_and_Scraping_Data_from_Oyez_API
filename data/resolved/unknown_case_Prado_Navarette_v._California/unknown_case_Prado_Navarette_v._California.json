@@ -1,0 +1,42 @@
+{
+    "ID": 55983,
+    "name": "Prado Navarette v. California",
+    "href": "https://api.oyez.org/cases/2013/12-9490",
+    "view_count": 0,
+    "docket_number": "12-9490",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1380603600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41294"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1390284000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41295"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1398142800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41595"
+        }
+    ],
+    "question": "<p>Does the Fourth Amendment require an officer who received information regarding drunken or reckless driving to independently corroborate the behavior before stopping the vehicle?</p>\n",
+    "citation": {
+        "volume": "572",
+        "page": "393",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20905"
+    },
+    "term": "2013",
+    "description": "A case in which the Court ruled that the Fourth Amendment does not require an officer who received information regarding drunken or reckless driving to independently corroborate the behavior before stopping the vehicle.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/572/393/",
+    "facts_of_the_case": "<p>On August 23, 2008, the Mendocino County dispatch center received a call from a Humboldt County dispatcher with the information that a silver Ford F150 pickup truck had run an unidentified vehicle off the road at mile marker 88 on southbound Highway 1. The original caller had also provided the license plate number of the pickup truck in question. The dispatch center broadcast that information to officers in the area, and two separate officers soon reported seeing the vehicle and began following it. The officers pulled the vehicle over, and while requesting information from the driver, smelled marijuana. During a search of the vehicle, the officers found four large bags of marijuana in the truck bed. The occupants of the vehicle, Lorenzo Prado Navarette and Jose Prado Navarette, were arrested for transportation of marijuana and possession of marijuana for sale.</p>\n<p>At trial, the defendants moved to suppress the evidence obtained from the traffic stop and argued that the evidence did not establish a reasonable suspicion of wrongdoing to justify the stop. The state argued that the anonymous tip combined with the officers' observations of details that matched the tip constituted reasonable suspicion of the alleged reckless driving. The magistrate judge denied the motion. After the defendants petitioned for a review of this decision and were denied by both the California Court of Appeals for the First District, Division Five and the California Supreme Court, the defendants pled guilty. The California Court of Appeals for the First District, Division Five affirmed.</p>\n",
+    "conclusion": "<p>No. Justice Clarence Thomas delivered the opinion for the 5-4 majority. The Court held that, under the totality of the circumstances, the officer had a reasonable suspicion that the driver was intoxicated, which justified the traffic stop. Because the reasonable suspicion standard allows an officer to rely on information beyond what that officer personally observed, a stop based on an anonymous tip does not violate the Fourth Amendment as long as the officer had reason to believe the information contained in the tip was reliable. In this case, the information came in the form of a call from the driver who had been run off the road, which means that the caller claimed eyewitness knowledge of the incident. Additionally, the timeline of the events suggest that the call was made almost immediately after the incident, so the caller presumably would not have had sufficient time to concoct a story. The Court held that, because the anonymous tip had these indicators of reliability and reported driving behavior consistent with reports of drunk driving that resulted in a car being run off the road, the officer had sufficient reasonable suspicion and did not need to observe the alleged behavior at length.</p>\n<p>In his dissenting opinion, Justice Antonin Scalia wrote that the aspects of the anonymous tip that the majority opinion argues make it reliable do not in fact make the information trustworthy enough to stand uncorroborated. Justice Scalia argued that the supposed eyewitness status of the caller could be afforded to anyone who saw the truck and wanted the driver to be pulled over and that any time at all between the alleged incident and the phone call allowed the caller to create a false story. Since the caller only reported a specific instance of unsafe driving\u2014forcing another car off the road\u2014there was no reason for the police officer to suspect ongoing drunk driving. When the officers observed the car and still did not see any indication of impaired driving, the reliability of the anonymous tip was further undermined, and there was no reasonable suspicion for the officer to conduct a traffic stop. Justice Ruth Bader Ginsburg, Justice Sonia Sotomayor, and Justice Elena Kagan joined in the dissent.</p>\n"
+}

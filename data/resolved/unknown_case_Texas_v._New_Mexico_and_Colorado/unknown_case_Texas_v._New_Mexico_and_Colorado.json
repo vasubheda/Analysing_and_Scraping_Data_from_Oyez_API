@@ -1,0 +1,42 @@
+{
+    "ID": 62911,
+    "name": "Texas v. New Mexico and Colorado",
+    "href": "https://api.oyez.org/cases/2017/141-orig",
+    "view_count": 0,
+    "docket_number": "141-orig",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1507611600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54140"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1515391200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54169"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1520229600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54344"
+        }
+    ],
+    "question": "<p>May the United States properly intervene in an action involving a dispute over a compact between states?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/27550"
+    },
+    "term": "2017",
+    "description": "A case in which the Court held that the United States is permitted to intervene in this particular dispute over a compact between states to defend \"distinctively federal interests\" that a normal litigant might not be permitted to pursue in traditional litigation.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/585/141-orig/",
+    "facts_of_the_case": "<p>The Rio Grande originates in Colorado, flows south into New Mexico, and flows into Texas near El Paso. The Rio Grande Compact apportions the water of the Rio Grande Basin among the states of Colorado, New Mexico, and Texas. Among other things, the Compact provides that Colorado must deliver a specific quantity of water to the New Mexico state line, and that New Mexico must then deliver a specific quantity of water to Elephant Butte Reservoir, a federal Bureau of Reclamation project that distributes water to New Mexico and Texas.</p>\n<p>Texas alleges that New Mexico has depleted Texas's equitable apportionment of water under the Compact by allowing diversion of surface water and pumping of groundwater that is hydrologically connected to the Rio Grande below Elephant Butte. New Mexico contends that the Compact does not require it to deliver any specific amount of water to the Texas state line and thus that its actions do not violate the Compact.</p>\n",
+    "conclusion": "<p>In a unanimous opinion authored by Justice Neil Gorsuch, the Court held that\u00a0the United States is permitted to intervene in this particular dispute over a compact between states to defend \"distinctively federal interests\" that a normal litigant might not be permitted to pursue in traditional litigation. To reach this conclusion, the Court assessed four considerations.\u00a0First, the compact at issue in this case is\u00a0inextricably intertwined with certain other contracts that implicate federal interests (the Rio Grande Project and the\u00a0Downstream Contracts). Second,\u00a0the United States has a critical\u00a0role in the operation of the compact at issue. Third, a breach of the compact\u00a0could jeopardize the federal government\u2019s ability to satisfy its treaty\u00a0obligations to Mexico. Finally, the United States has asserted its compact claims in an existing action brought by Texas, seeking substantially\u00a0the same relief and without that State\u2019s objection. The Court specifically limited its holding so as not to answer the question whether the United States may initiate litigation to force a State to perform its obligations under the compact or expand the scope of an existing controversy between states.</p>\n"
+}

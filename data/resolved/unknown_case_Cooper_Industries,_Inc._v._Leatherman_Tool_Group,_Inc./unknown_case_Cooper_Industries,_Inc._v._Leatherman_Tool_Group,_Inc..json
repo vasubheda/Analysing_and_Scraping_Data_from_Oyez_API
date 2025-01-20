@@ -1,0 +1,35 @@
+{
+    "ID": 54857,
+    "name": "Cooper Industries, Inc. v. Leatherman Tool Group, Inc.",
+    "href": "https://api.oyez.org/cases/2000/99-2035",
+    "view_count": 0,
+    "docket_number": "99-2035",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                983167200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38458"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                989816400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38459"
+        }
+    ],
+    "question": "<p>Did the Court of Appeals review the constitutionality of the punitive damages award against Cooper Industries, Inc. under the correct standard?</p>\n",
+    "citation": {
+        "volume": "532",
+        "page": "424",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18786"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/532/424/",
+    "facts_of_the_case": "<p>Leatherman Tool Group, Inc., manufactures a multifunction pocket tool, the Pocket Survival Tool (PST). In 1996, Cooper Industries, Inc. used photographs of a modified PST to introduce a competing tool, the ToolZall. The photographs were used in posters, packaging, and advertising materials. Subsequently, Leatherman filed an action asserting claims of trade-dress infringement, unfair competition, and false advertising under the Trademark Act of 1946 (Lanham Act). Ultimately, a trial jury awarded Leatherman $50,000 in compensatory damages and $4.5 million in punitive damages. The District Court then entered judgment, rejecting Cooper's argument that the punitive damages were grossly excessive. In affirming, the Court of Appeals, using an \"abuse of discretion\" standard, concluded that the District Court did not abuse its discretion in declining to reduce the award.</p>\n",
+    "conclusion": "<p>No. In an 8-1 opinion delivered by Justice John Paul Stevens, the Court held that the Courts of Appeals should apply a de novo standard when reviewing district court determinations of the constitutionality of punitive damages awards. Because the Court of Appeals applied an \"abuse of discretion\" standard, a less demanding standard, the Court vacated the judgment and remanded the case for a determination on whether the award was grossly excessive under the correct standard.</p>\n"
+}

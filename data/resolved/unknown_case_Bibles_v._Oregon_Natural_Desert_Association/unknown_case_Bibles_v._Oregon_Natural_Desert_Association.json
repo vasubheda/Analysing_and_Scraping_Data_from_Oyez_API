@@ -1,0 +1,28 @@
+{
+    "ID": 54555,
+    "name": "Bibles v. Oregon Natural Desert Association",
+    "href": "https://api.oyez.org/cases/1996/96-713",
+    "view_count": 0,
+    "docket_number": "96-713",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                856245600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37899"
+        }
+    ],
+    "question": "<p>Must the Oregon Bureau of Land Management release a list of people who receive its newsletter under the Freedom of Information Act?</p>\n",
+    "citation": {
+        "volume": "519",
+        "page": "355",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18484"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>The Oregon Natural Desert Association filed a request with the Oregon Bureau of Land Management in order to obtain the names and addresses of people who received a newsletter that provided information about the Bureau's activities and plans affecting the Oregon desert. Invoking Exemption 6 of the Freedom of Information Act (FOIA), the Bureau refused to release any portion of the list. Exemption 6 exempts from disclosure files \"similar\" to personnel and medical files. Subsequently, the association filed an action in District Court under the FOIA to obtain the list. The court ordered the release. In affirming, the Court of Appeals held that there was a substantial public interest in knowing to whom the government was directing information and providing those persons with additional information from other sources that did not share the Bureau's views.</p>\n",
+    "conclusion": "<p>No. In a per curiam opinion, the Court held that the Court of Appeals engaged in an incorrect public-interest analysis in determining whether the Oregon Bureau of Land Management's mailing list was exempt from disclosure under Exemption 6 of the FOIA. In accordance with previous case history, the Court concluded that \"the only relevant public interest in the FOIA balancing analysis was the extent to which disclosure of the information sought would shed light on an agency's performance of its statutory duties or otherwise let citizens know what the government was up to.\" The Court additionally concluded that the purpose of requests have no bearing on disclosure.</p>\n"
+}

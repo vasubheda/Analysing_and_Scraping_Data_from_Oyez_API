@@ -1,0 +1,42 @@
+{
+    "ID": 55235,
+    "name": "City of Rancho Palos Verdes v. Abrams",
+    "href": "https://api.oyez.org/cases/2004/03-1601",
+    "view_count": 0,
+    "docket_number": "03-1601",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1096347600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39271"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1106114400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39272"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1111471200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39273"
+        }
+    ],
+    "question": "<p>May people whose rights guaranteed by the Telecommunications Act of 1996 are violated seek remedies other than those allowed by the act?</p>\n",
+    "citation": {
+        "volume": "544",
+        "page": "113",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19163"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/544/113/",
+    "facts_of_the_case": "<p>Rancho Palos Verdes, a city in California, gave Mark Abrams a permit to construct an antenna on his property for amateur use. But when the city learned Abrams used the antenna for commercial purposes, the city forced Abrams to stop until he got a commercial use permit. Abrams applied and the city refused to give him the permit. Abrams then sued in federal district court, alleging the city violated his rights under the Telecommunications Act of 1996. Abrams sought damages under a federal liability law that allowed people to sue for damages for federal rights violations.</p>\n<p>The district court agreed with Abrams and ordered the city to give Abrams the permit. But the court refused Abrams' request for damages under the separate federal liability law. The court said Congress intended for violations of rights under the Telecommunications Act to include only remedies specifically found in that act. The Ninth Circuit Court of Appeals reversed and ruled that because the act did not contain a \"comprehensive remedial scheme,\" Abrams could seek damages under other federal laws.</p>\n",
+    "conclusion": "<p>No. In a 9-0 opinion delivered by Justice Antonin Scalia, the Court held that Abrams could not enforce the limitations of the Telecommunications Act on local authorities through federal liability law, because the act provides its own judicial remedy. Congress could not have meant the judicial remedy expressly authorized by the Telecommunications Act to co-exist with an alternative remedy.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55343,
+    "name": "Arkansas Dept. of Health and Human Servs. v. Ahlborn",
+    "href": "https://api.oyez.org/cases/2005/04-1506",
+    "view_count": 0,
+    "docket_number": "04-1506",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1127797200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39571"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1141020000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39572"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1146459600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39573"
+        }
+    ],
+    "question": "<p>Do federal Medicaid statutes limit the amount a state can recover in reimbursement from a third-party payment to the portion earmarked for medical treatment?</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "268",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20595"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/547/268/",
+    "facts_of_the_case": "<p>Heidi Ahlborn was injured and permanently disabled in a car accident. She received Medicaid payments totaling $215,645 through the Arkansas Department of Human Services (ADHS) to pay for her medical treatment. In order to be eligible for the Medicaid payments, Arkansas law required Ahlborn to give the ADHS the \"right to any settlement, judgment, or award\" she might receive because of the accident, up to the amount Medicaid had paid for her treatment.</p>\n<p>Several years after the accident, Ahlborn received $550,000 in a settlement with the parties liable for her injuries. The sum covered her medical treatment as well as pain and suffering, lost earnings, and her lost earning potential in the future. Only $35,581 of the settlement was earmarked for her medical treatment, however. When the ADHS demanded that she repay the full $215,645, therefore, Ahlborn refused, and the issue went to a federal district court in Arkansas. The judge sided with the ADHS, ruling that it was not unreasonable for Arkansas to require Ahlborn to agree to repay them fully from any settlement she might receive in order to be eligible, even if the portion specifically allocated for medical treatment was less than the amount demanded by Medicaid.</p>\n<p>An 8th Circuit Court of Appeals panel reversed, however, finding that seizing money from her settlement that had not been earmarked for medical treatment would violate federal Medicaid regulations, which forbid state governments from seizing the property of Medicaid recipients in order to recover money spent on treatment. The panel therefore ordered that Ahlborn repay just $35,581 to the ADHS.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous decision authored by Justice John Paul Stevens, the Court ruled that federal Medicaid statutes only allow a state to recover the part of a third-party settlement earmarked for medical expenses. The Justices agreed with the Circuit Court that the statutes do not permit Arkansas to require Ahlborn to repay Medicare expenses from the non-medical portions of the settlement. The Court found Arkansas's arguments to the contrary unconvincing due to \"internal inconsistency with a conscious disregard for the statutory text.\"</p>\n"
+}

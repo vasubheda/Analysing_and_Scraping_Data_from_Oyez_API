@@ -1,0 +1,35 @@
+{
+    "ID": 54028,
+    "name": "White v. Illinois",
+    "href": "https://api.oyez.org/cases/1991/90-6113",
+    "view_count": 0,
+    "docket_number": "90-6113",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                689320800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36914"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                695455200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36915"
+        }
+    ],
+    "question": "<p>Does the Confrontation Clause of the Sixth Amendment require either that the prosecution produce a declarant at trial or show that the declarant is unavailable before admitting his or her out-of-court statements under the \u201cspontaneous declaration\u201d and \u201cmedical examination\u201d exceptions to the hearsay rule?</p>\n",
+    "citation": {
+        "volume": "502",
+        "page": "346",
+        "year": "1992",
+        "href": "https://api.oyez.org/case_citation/case_citation/17957"
+    },
+    "term": "1991",
+    "description": "A case in which the Court held that the Confrontation Clause does not require that a declarant be produced at trial or found unavailable before his out-of-court statements may be admitted into evidence. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/502/346/",
+    "facts_of_the_case": "<p>During Randall D. White\u2019s trial on charges related to a sexual assault of a 4-year-old girl, Illinois state prosecutors twice-attempted to call the child, who was by then five years old, as a witness, but each time she experienced emotional difficulty and left the stand without testifying. The trial court then allowed the admission of testimony by the girl\u2019s babysitter, mother, emergency room nurse, doctor and an investigating officer that recounted statements she made describing the crime. This testimony was allowed into evidence under state-law hearsay exceptions for spontaneous declarations and statements made in the course of a medical examination. The jury subsequently convicted White. On appeal, the Illinois Appellate Court rejected White\u2019s claims that the introduction of the out-of-court statements violated his right to confront and cross-examine witnesses under the Sixth Amendment and affirmed the conviction. The Illinois Supreme Court denied discretionary review of the case.</p>\n",
+    "conclusion": "<p>No. Chief Justice William H. Rehnquist delivered the opinion of the 9-0 majority. The Court held that the Confrontation Clause does not require that a declarant be produced at trial or found unavailable before his out-of-court statements may be admitted into evidence. Instead, when the statements fall within a \u201cfirmly-rooted\u201d exception to the hearsay rule, they satisfy the Confrontation Clause. Statements made in certain contexts carry special guarantees of reliability and trustworthiness, such as when the prospect of misdiagnosis or mistreatment deters a declarant from making false statements while obtaining medical treatment. Consequently, the Court held that cross-examination does not aid the truth-finding process with respect to these types of statements as much as it might for out-of-court statements that do not come under an exception to the hearsay rule.</p>\n<p>Justice Clarence Thomas wrote an opinion concurring in part and concurring the judgment in which he urged that the Confrontation Clause be applied more narrowly and only to extrajudicial statements contained in formalized testimonial materials, such as affidavits, depositions, or confessions. According to Justice Thomas, the Court\u2019s interpretation of the Confrontation Clause as permitting out-of-court statements that fall within a \u201cfirmly-established\u201d hearsay exception does not comport with the text of the Sixth Amendment or with the history of extending cross-examination rights to defendants. Justice Antonin Scalia joined in the opinion concurring in part and concurring in the judgment.</p>\n<p>\u00a0</p>\n"
+}

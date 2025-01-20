@@ -1,0 +1,35 @@
+{
+    "ID": 54615,
+    "name": "Bates v. United States",
+    "href": "https://api.oyez.org/cases/1997/96-7185",
+    "view_count": 0,
+    "docket_number": "96-7185",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                876200400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38013"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                878623200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38014"
+        }
+    ],
+    "question": "<p>Does 20 USC section 1097(a), which makes it a felony \"knowingly and willfully\" to misapply student loan funds insured under Title IV of the Higher Education Act of 1965, require an allegation and proof that a defendant specifically intended to injure or defraud either the United States as loan guarantor or another?</p>\n",
+    "citation": {
+        "volume": "522",
+        "page": "23",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18544"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/522/23/",
+    "facts_of_the_case": "<p>In 1986, Garrit Bates was appointed to serve as the Acme Institute of Technology's treasurer. In 1987, James Jackson, as Acme's president, signed a program participation agreement with the Department of Education that authorized the school to receive student loan checks through the Title IV Guaranteed Student Loan (GSL) program. Under the GSL program, governing regulations required Acme to return a portion of a loan if the student withdrew from Acme before the term ended. In 1987, Jackson and Bates began a practice of not making GSL refunds. Ultimately, in 1994, Bates was indicted on of \"knowingly and willfully misapplying\" federally insured student loan funds, in violation of 20 USC section 1097(a). The District Court dismissed Bates's indictment because it lacked an allegation of his \"intent to injure or defraud the United States.\" Reinstating the prosecution, the Court of Appeals concluded that section 1097(a) required the Government to prove only that Bates knowingly and willfully misapplied Title IV funds.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Ruth Bader Ginsburg, the Court held that the specific intent to injure or defraud someone, whether the United States or another, is not an element of the misapplication of funds proscribed by section 1097(a). Justice Ginsburg wore for the Court that, \"the text of [section 1097(a)] does not include an 'intent to defraud' state of mind requirement, and we ordinarily resist reading words or elements into a statute that do not appear on its face.\" In contrast, Justice Ginsburg noted that 20 USC section 1097(d), which makes it a felony \"knowingly and willfully\" to \"destroy or conceal any record relating to the provision of assistance under [Title IV] with intent to defraud the United States\" contained an \"intent to defraud\" element.</p>\n"
+}

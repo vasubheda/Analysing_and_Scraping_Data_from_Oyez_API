@@ -1,0 +1,35 @@
+{
+    "ID": 62919,
+    "name": "Dunn v. Madison",
+    "href": "https://api.oyez.org/cases/2017/17-193",
+    "view_count": 0,
+    "docket_number": "17-193",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1509948000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54153"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1509948000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54154"
+        }
+    ],
+    "question": "<p>Was the state court objectively unreasonable in concluding that Madison was competent to be executed?</p>\n",
+    "citation": {
+        "volume": "583",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27552"
+    },
+    "term": "2017",
+    "description": "A case in which the Court determined that the Alabama court\u2019s determination that Madison was competent to be executed was not objectively unreasonable.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/583/17-193/",
+    "facts_of_the_case": "<p>Vernon Madison is a 66-year-old man on death row in Alabama for the murder of a police officer over thirty years ago. Madison has suffered strokes resulting in significant cognitive and physical impairments, and his lawyers argue that he is mentally incompetent to be executed under the Supreme Court's jurisprudence in <em>Ford v. Wainwright</em> and <em>Panetti v. Quarterman</em>. At a competency hearing held by an Alabama trial court, Madison's lawyers presented testimony from a doctor that Madison's strokes caused him not to remember committing the murder and that he does not understand why the state is seeking to execute him. The State presented a different doctor's expert testimony that Madison was able to accurately discuss his legal appeals and legal theories with his attorneys and thus that he has a rational understanding of his sentence.</p>\n<p>The trial court decided that Madison was competent to be executed, but the Eleventh Circuit reversed, finding that facts in the record were insufficient to support the trial court's decision and that the trial court erroneously applied the test for competency established in Panetti.</p>\n<p>\u00a0</p>\n",
+    "conclusion": "<p>In a per curiam opinion, the court held that because the state court\u2019s determinations of law and fact were not \u201cso lacking in justification\u201d as to give rise to error \u201cbeyond any possibility for fairminded disagreement,\u201d Vernon Madison\u2019s claim to federal habeas relief must fail. Justice Ruth Bader Ginsburg filed a concurring opinion, in which Justices Stephen Breyer and Sonia Sotomayor joined, pointing out that the issue whether a state may administer the death penalty to someone who cannot remember committing the capital offense is a substantial question not addressed by the Court, but which is foreclosed in this case by the Antiterrorism and Effective Death Penalty Act of 1996. Justice Breyer wrote a separate concurrence to highlight the extensive delays involved in the death penalty and calling upon the Court to consider the constitutionality of the practice.</p>\n"
+}

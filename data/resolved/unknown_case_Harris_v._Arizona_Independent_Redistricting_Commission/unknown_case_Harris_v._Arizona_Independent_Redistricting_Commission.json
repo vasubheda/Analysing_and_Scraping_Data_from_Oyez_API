@@ -1,0 +1,42 @@
+{
+    "ID": 62315,
+    "name": "Harris v. Arizona Independent Redistricting Commission",
+    "href": "https://api.oyez.org/cases/2015/14-232",
+    "view_count": 0,
+    "docket_number": "14-232",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1435640400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52784"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1449554400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53289"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1461128400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53495"
+        }
+    ],
+    "question": "<p>(1) Does the desire to gain advantage for one political party justify intentionally over-populating voting districts so that individual votes are devalued, thereby violating the one-person, one-vote principle?</p>\n<p>(2) Does the desire to obtain favorable preclearance review from the Justice Department permit the creation of voting districts that deviate from the one-person, one-vote principle in the wake of the Supreme Court\u2019s decision in <em>Shelby County v. Holder</em>?</p>\n",
+    "citation": {
+        "volume": "578",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27115"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that the creation of voting districts that deviate from the \u201cone person, one vote\u201d principle may be justified by legitimate considerations, such as a desire to comply with the Voting Rights Act as it was in effect at the time of the plan. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/578/14-232/",
+    "facts_of_the_case": "<p>In 2012, the Arizona Independent Redistricting Commission redrew the map for the state legislative districts based on the results of the 2010 census. Wesley Harris and other individual voters sued the Commission and alleged that the newly redrawn districts were under-populated in Democratic-leaning districts and over-populated in Republican-leaning ones, and therefore that the Commission had violated the Equal Protection Clause of the Fourteenth Amendment. The Commission argued that the population deviations were the result of attempts to comply with the Voting Rights Act. The district court found in favor of the Commission and held that the redrawn districts represented a good faith effort to comply with the Voting Rights Act.</p>\n",
+    "conclusion": "<p>Although the desire to gain advantage for one political party over another does not justify deviating from absolute equality of districts, doing so for \u201clegitimate considerations,\u201d such as to achieve compliance with the Voting Rights Act, does not violate the \u201cone person, one vote\u201d principle of the Equal Protection Clause of the Fourteenth Amendment. Justice Stephen G. Breyer delivered the opinion for the unanimous Court. The Court held that the Constitution permits deviations from the baseline \u201cone person, one vote\u201d principle of the Equal Protection Clause of the Fourteenth Amendment when they are based on \u201clegitimate considerations\u201d intended to effectuate \u201crational state policy.\u201d Such considerations include, but are not limited to, traditional interests in compactness and contiguity, as well as maintaining the integrity of political subdivisions and the competing balance among political parties. In previous decisions, some members of the Court have also expressed the view that complying with the Voting Rights Act, which prohibits redistricting plans that effectively disenfranchise minorities, is a legitimate consideration. Precedent has also established that, while deviations of more than 10% may be presumed to represent invidious discrimination, deviations of less than 10% must be shown to be the result of illegitimate considerations, and such evidence was not present in this case. Instead, the evidence shows that the deviations resulted from the Arizona Independent Redistricting Commission\u2019s good faith effort to comply with the Voting Rights Act, which was in effect at the time the plan was created.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 62999,
+    "name": "Azar v. Garza",
+    "href": "https://api.oyez.org/cases/2017/17-654",
+    "view_count": 0,
+    "docket_number": "17-654",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1528088400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54285"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1528088400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54286"
+        }
+    ],
+    "question": null,
+    "citation": {
+        "volume": "584",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27600"
+    },
+    "term": "2017",
+    "description": "A case in which the Court granted certiorari and vacated the en banc order from the D.C. Circuit court and remanded the case to the appellate court with instructions to direct the district court to dismiss the relevant individual claim for injunctive relief as moot.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/584/17-654/",
+    "facts_of_the_case": "<p>Jane Doe entered the United States as an unaccompanied minor when she was eight weeks pregnant. She was detained by immigration authorities, and placed in the custody of the Office of Refugee Resettlement (ORR). She was later placed in a federally funded shelter in Texas, where, after a medical examination, she requested an abortion. ORR denied her request on the grounds that agency policy prohibited shelter staff from taking any action to facilitate an abortion without direction and approval from the ORR director absent emergency circumstances.</p>\n<p>Doe\u2019s guardian ad litem, Rochelle Garza, filed a putative class action challenging the constitutionality of ORR\u2019s policy on behalf of Doe and \u201call other pregnant unaccompanied minors in ORR custody.\u201d On October 18, 2017, the district court issued a temporary restraining order (TRO) permitting Doe to have an abortion immediately. The next day, Doe attended pre-abortion counseling, which was required under Texas law to take place at least 24 hours in advance of the procedure, and with the same doctor who would perform the abortion.</p>\n<p>On October 20, a panel of the D.C. Circuit court vacated the pertinent portions of the TRO on the grounds that ORR\u2019s policy did not constitute an \u201cundue burden.\u201d However, sitting <em>en banc</em>, on October 24 the appellate court vacated the panel order and remanded the matter to the district court. The same day, Garza asked the court for an amended restraining order, requesting that the government make Doe available to repeat the required pre-abortion counseling. The district court granted Garza\u2019s request, and arrangements were made for Doe to have the counseling appointment at 7:30 a.m. on October 25.</p>\n<p>The details of the subsequent events were disputed, but the government, under the impression that the soonest the abortion would happen was October 26, informed Garza\u2019s counsel that they planned to appeal the new order early on the morning of October 25. However, the same doctor who conducted Doe\u2019s pre-abortion counseling became available for her October 25 appointment, so the appointment was moved up to 4:15 a.m. and Doe had the abortion instead of repeating the counseling with a new doctor.</p>\n<p>Because the abortion made the government\u2019s claim moot, it did not ask the Supreme Court to review the <em>en banc</em> order as planned, but instead filed a petition for <em>certiorari</em> to nullify the appellate court\u2019s <em>en banc</em> ruling so that it would not stand as precedent. The government also sought sanctions against Garza\u2019s lawyers, arguing that they had made misrepresentations in an attempt to avoid Supreme Court review.</p>\n",
+    "conclusion": "<p>The Court granted <em>certiorari</em> and vacated the D.C. Circuit court\u2019s <em>en banc</em> order, remanding the case to the appellate court with instructions to direct the district court to dismiss the relevant individual claim for injunctive relief as moot. The Court held that the litigation related to Doe\u2019s TRO permitting her to have an abortion despite ORR\u2019s policy fell squarely within established practice under <em>United States v. Munsingwear, Inc.</em>, 340 U.S. 36 (1950) to reverse or vacate the ruling below and remand with a direction to dismiss when a case from a civil court in the federal system has become moot on its way to the Supreme Court. The Court also declined to sanction Garza\u2019s counsel.</p>\n"
+}

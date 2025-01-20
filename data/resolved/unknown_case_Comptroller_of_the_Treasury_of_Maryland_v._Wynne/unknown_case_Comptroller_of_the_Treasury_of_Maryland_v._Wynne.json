@@ -1,0 +1,42 @@
+{
+    "ID": 56089,
+    "name": "Comptroller of the Treasury of Maryland v. Wynne",
+    "href": "https://api.oyez.org/cases/2014/13-485",
+    "view_count": 0,
+    "docket_number": "13-485",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1401166800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41667"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1415772000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41668"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1431925200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51652"
+        }
+    ],
+    "question": "<p>Does the dormant Commerce Clause of the Constitution prohibit states from taxing all the income of their residents by mandating a credit for taxes paid related to income earned in other states?</p>\n",
+    "citation": {
+        "volume": "575",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/26951"
+    },
+    "term": "2014",
+    "description": "A case in which the Court held that the dormant Commerce Clause prohibits the operation of Maryland\u2019s tax scheme because it discriminates against interstate commerce.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/575/542/",
+    "facts_of_the_case": "<p>Brian Wynne and his wife are Howard County, Maryland residents who own stock in Maxim Healthcare Services, Inc. (Maxim), a company that provides health care services nationally. Maxim's income is \"passed through\" to its owners, and the owners are then taxed individually. In 2006, Maxim filed income tax returns in 39 states and allocated a share of taxes paid to each shareholder. The Wynnes claimed the share of Maxim's income taxes that they paid as a credit against their Maryland individual income tax, which includes Maryland state taxes and Howard County taxes. The Comptroller of Maryland determined that the Wynnes had incorrectly calculated their county tax credit by including the taxes they had paid to other states and issued an assessment for the remaining tax owed. The Wynnes appealed to the Hearings and Appeals Section of the Comptroller's Office, which noted that the wrong county tax rate had been applied initially and revised the assessment, but nonetheless affirmed that the tax credit was limited to Maryland state taxes and not applicable to Howard County taxes.</p>\n<p>The Wynnes appealed to the Maryland Tax Court and argued that the limitation violated the dormant Commerce Clause of the Constitution. The Tax Court rejected the Wynnes' argument and affirmed the revised assessment. The Wynnes then appealed to the Maryland Circuit Court for Howard County. The Circuit Court reversed the Tax Court's decision and held that the county tax without a credit violated the dormant Commerce Clause. The Comptroller appealed to the Maryland Court of Appeals and argued that the Commerce Clause was not implicated by the county tax. The Maryland Court of Appeals affirmed the Circuit Court by finding that the county tax implicates the dormant Commerce Clause because it affects the interstate market for capital and business investment and the overlapping power to tax income from such sources. The Maryland Court of Appeals held that the county tax without a credit violated the Commerce Clause because the county tax is not fairly apportioned, since taxpayers who earn income from interstate activities would be taxed at higher rates than taxpayers who earn income exclusively in Maryland while the tax covers income earned wholly outside of Maryland. The Maryland Court of Appeals also held that the county tax is discriminatory against interstate commerce since it favors businesses that do business primarily in Maryland.</p>\n",
+    "conclusion": "<p>Yes. Justice Samuel A. Alito, Jr. delivered the opinion of the 5-4 majority. The Court held that the dormant Commerce Clause prohibited a tax scheme like Maryland\u2019s, which discriminates against interstate commerce without Congressional approval. This decision is directly in line with previous dormant Commerce Clause jurisprudence. The Court held that, to be permissible under the dormant Commerce Clause, a tax scheme must satisfy the \u201cinternal consistency test,\u201d which asks whether the tax scheme in question would disadvantage interstate commerce if it were applied identically in every state. If so, then the tax is unconstitutional. Because Maryland\u2019s tax scheme fails the internal consistency test, it is therefore unconstitutional under the dormant Commerce Clause.</p>\n<p>Justice Antonin Scalia wrote a dissent in which he argued that the dormant Commerce Clause does not exist in the Constitution. The Constitution explicitly gives the federal government the power to regulate interstate commerce, but it does not say anything about prohibiting state laws that burden interstate commerce. The supposed doctrine also lacks a governing principle as well as internal consistency. Justice Scalia also noted that following precedent would require the tax in this case to be held unconstitutional only if it discriminated against interstate commerce on its face and was indistinguishable from a tax the Court had previously held unconstitutional. Because those factors are not met in this case, the tax should be upheld. Justice Clarence Thomas joined in the dissent. In his separate dissent, Justice Thomas wrote that laws passed by the same legislators that ratified the Constitution would have violated the dormant Commerce Clause under the majority\u2019s analysis. Therefore, that reading of the dormant Commerce Clause, assuming it exists at all, cannot be correct. Justice Scalia joined in the dissent. Justice Ruth Bader Ginsburg also wrote a separate dissent in which she argued that the dormant Commerce Clause does not prevent the operation of a tax scheme when the discriminatory effect is the result of the combination of two otherwise-lawful tax schemes, as is the case here. Although Maryland chooses not to offer tax credits for taxes paid out of state, it is still entitled to tax that income. Justice Ginsburg also noted that the Court has not rigidly enforced the \u201cinternal consistency test\u201d and need not do so here. Justice Scalia and Justice Elena Kagan joined in the dissent.</p>\n"
+}

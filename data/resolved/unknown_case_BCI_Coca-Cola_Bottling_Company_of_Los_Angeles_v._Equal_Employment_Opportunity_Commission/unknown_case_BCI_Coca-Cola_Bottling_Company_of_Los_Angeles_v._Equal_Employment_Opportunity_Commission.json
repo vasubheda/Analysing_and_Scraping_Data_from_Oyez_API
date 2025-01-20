@@ -1,0 +1,35 @@
+{
+    "ID": 55398,
+    "name": "BCI Coca-Cola Bottling Company of Los Angeles v. Equal Employment Opportunity Commission",
+    "href": "https://api.oyez.org/cases/2006/06-341",
+    "view_count": 0,
+    "docket_number": "06-341",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1167976800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39709"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1176354000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39710"
+        }
+    ],
+    "question": "<p>If an employer with no discriminatory motive fires a subordinate based in part on the influence of another employee with a discriminatory motive, can the employer be held liable for discrimination under Section 703(a) of Title VII of the Civil Rights Act of 1964?</p>\n",
+    "citation": {
+        "volume": "549",
+        "page": "1334",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/27374"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>BCI Coca-Cola Bottling Company of Los Angeles fired African-American employee Stephen Peters. Human Resources Manager Pat Edgar decided to fire Peters in part because of a report of insubordination filed against Peters by his immediate supervisor, Cesar Grado. The Equal Employment Opportunity Commission (EEOC) claimed that Peters was a victim of invidious discrimination because Grado, an Hispanic, treated non-African American employees less harshly. EEOC filed suit against BCI on behalf of Stephens under Section 703(a) of Title VII of the Civil Rights Act of 1964, which prohibits discrimination against employees. Though a District Court concluded that Grado was racially biased, it dismissed the case because the evidence failed to prove that Edgar's decision to fire Stephens was sufficiently affected by Grado's discriminatory bias.</p>\n<p>The U.S. Court of Appeals for the Tenth Circuit decided that a jury should determine whether or not Grado's bias affected Edgar's decision to fire Stephens, and it sent the case to trial. The Tenth Circuit cited the subordinate bias theory of liability, which holds a company liable for a discriminatory firing even if the employee who made the actual decision to fire was not the employee harboring racial bias.</p>\n",
+    "conclusion": "<p>Unanswered. Prior to oral argument, BCI Coca-Cola moved to have the case dismissed. The government raised no objection, and the Court granted the motion.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 63221,
+    "name": "Chiafalo v. Washington",
+    "href": "https://api.oyez.org/cases/2019/19-465",
+    "view_count": 0,
+    "docket_number": "19-465",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1579240800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54651"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1589346000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54710"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1594011600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54740"
+        }
+    ],
+    "question": "<p>Does a state law requiring presidential electors to vote the way state law directs or else be subject to a fine violate the electors\u2019 First Amendment rights?</p>\n",
+    "citation": {
+        "volume": "591",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27739"
+    },
+    "term": "2019",
+    "description": "A case in which the Court held that the Constitution does not prohibit Washington's \u201cfaithless elector\u201d law, which requires presidential electors to vote the way state law directs.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/591/19-465/",
+    "facts_of_the_case": "<p>Under Washington State law, each political party with presidential candidates is required to nominate for the Electoral College electors from its party equal to the number of senators and representatives allotted to the state. Nominees must pledge to vote for the candidate of their party, and any nominee who does not vote for their party candidate is subject to a fine of up to $1,000. Washington, as is the case with all but two other states, has a \u201cwinner-take-all\u201d electoral system, which means that all of a state\u2019s electoral votes go to the winner of the popular vote in that state.</p>\n<p>In the 2016 Presidential Election, petitioner Chiafolo and others were nominated as presidential electors for the Washington State Democratic Party. When Hillary Clinton and Tim Kaine won the popular vote in Washington State, the electors were required by law to cast their ballots for Clinton/Kaine. Instead, they voted for Colin Powell for President and a different individual for Vice President. The Washington secretary of state fined the electors $1,000 each for failing to vote for the nominee of their party in violation of state law.</p>\n<p>The electors challenged the law imposing the fine as violating the First Amendment. An administrative law judge upheld the fine, and a state trial court on appeal affirmed.</p>\n<p>This case was originally consolidated with a similar case arising in Colorado,\u00a0<em>Colorado Department of State v. Baca</em>, No. 19-518,\u00a0but is no longer consolidated as of the Court's order of March 10, 2020.</p>\n",
+    "conclusion": "<p>A state may constitutionally enforce a presidential elector\u2019s pledge to support his party\u2019s nominee\u2014and the state voters\u2019 choice\u2014for President. Justice Elena Kagan authored the majority opinion that was unanimous in the judgment.</p>\n<p>Article II, \u00a71 gives the States the authority to appoint electors \u201cin such Manner as the Legislature thereof may direct,\u201d which the Court has interpreted as conveying to the states \u201cthe broadest power of determination\u201d over who becomes an elector. The Twelfth Amendment, which also addresses the Electoral College, only sets out the electors\u2019 voting procedures. Thus, the appointment power of the states is extensive, and nothing in the Constitution prohibits states from taking away the discretion of presidential electors\u2019 discretion, as Washington does. The history of voting in this country supports the conclusion that electors do not have the discretion to vote however they like; indeed \u201clong settled and established practice\u201d of voting in this nation requires finding that electors are required to vote for the candidate whom the state\u2019s voters have chosen.</p>\n<p>Justice Clarence Thomas authored an opinion concurring in the judgment, but for a different reason. Justice Thomas disagreed with the Court that Article II determines the outcome in this case; he would resolve this case by simply recognizing the principle enshrined in the Tenth Amendment that \u201c[a]ll powers that the Constitution neither delegates to the Federal Government nor prohibits to the States are controlled by the people of each State.\u201d Justice Neil Gorsuch joined as to the discussion of the Tenth Amendment.</p>\n"
+}

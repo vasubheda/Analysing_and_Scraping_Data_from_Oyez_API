@@ -1,0 +1,35 @@
+{
+    "ID": 54187,
+    "name": "National Organization for Women, Inc. v. Scheidler",
+    "href": "https://api.oyez.org/cases/1993/92-780",
+    "view_count": 0,
+    "docket_number": "92-780",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                755330400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37216"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                759391200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37217"
+        }
+    ],
+    "question": "<p>Does RICO require that an organization, to be defined as a racketeering enterprise, must be acting in pursuit of an economic motive?</p>\n",
+    "citation": {
+        "volume": "510",
+        "page": "249",
+        "year": "1994",
+        "href": "https://api.oyez.org/case_citation/case_citation/18116"
+    },
+    "term": "1993",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/510/249/",
+    "facts_of_the_case": "<p>The National Organization for Women (NOW) sued a coalition of anti-abortion groups called the Pro-Life Action Network (PLAN) under the Racketeer Influenced and Corrupt Organizations (RICO) Act. N.O.W. alleged that Scheidler and other anti-abortion protesters were members in a nationwide conspiracy to obstruct women's access to abortion clinics through a pattern of racketeering activity including the actual or implied threat of violence. The District Court dismissed the suit, holding that the voluntary contributions are not proceeds of racketeering and that a \"racketeering enterprise\" must have an economic motive, a fact that NOW could not demonstrate. The Court of Appeals affirmed and the Supreme Court granted certiorari.</p>\n",
+    "conclusion": "<p>The unanimous Court held that organizations without an economic motive can detrimentally \"affect interstate or foreign commerce,\" satisfying the RICO definition of a racketeering enterprise. An \"enterprise\" does not have to be an economic organization or a principally criminal organization to trigger the RICO act. Consequently, the Court reversed the appeals court decision which allowed the original case to proceed.</p>\n"
+}

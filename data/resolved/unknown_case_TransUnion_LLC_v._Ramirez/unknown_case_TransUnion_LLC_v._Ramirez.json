@@ -1,0 +1,42 @@
+{
+    "ID": 63309,
+    "name": "TransUnion LLC v. Ramirez",
+    "href": "https://api.oyez.org/cases/2020/20-297",
+    "view_count": 0,
+    "docket_number": "20-297",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1608098400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54814"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1617080400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54870"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1624597200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54931"
+        }
+    ],
+    "question": "<p>Does either Article III of the Constitution or Federal Rule of Civil Procedure 23 permit a damages class action when the majority of the class did not suffer an injury comparable to that of the class representative?</p>\n",
+    "citation": {
+        "volume": "594",
+        "page": null,
+        "year": "2021",
+        "href": "https://api.oyez.org/case_citation/case_citation/27784"
+    },
+    "term": "2020",
+    "description": "A case in which the Court held that a subset of a class of plaintiffs lacked Article III standing to sue a credit reporting agency because they did not suffer an injury comparable to that of the class representative.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/594/20-297/",
+    "facts_of_the_case": "<p>In February 2011, Sergio Ramirez went with his wife and father-in-law to purchase a car. When the dealership ran a joint credit check on Ramirez and his wife, it discovered that Ramirez was on a list maintained by the Treasury Department\u2019s Office of Foreign Assets Control (OFAC), of people with whom U.S. companies cannot do business (i.e. \u201ca terrorist list\u201d). Ramirez and his wife still bought a car that day, but they purchased it in her name only. TransUnion, the company that had prepared the report, eventually removed the OFAC alert from any future credit reports that might be requested by or for Ramirez.</p>\n<p>On behalf of himself and others similarly situated, Ramirez TransUnion in federal court, alleging that the company\u2019s actions violated the Fair Credit Reporting Act (FCRA). The district court certified a class of everyone who, during a six-month period, had received a letter from TransUnion stating that their name was a \u201cpotential match\u201d for one on the OFAC list, although only a fraction of those class members had their credit reports sent to a third party.</p>\n<p>The jury awarded each class member nearly $1,000 for violations of the FCRA and over $6,000 in punitive damages, for a total verdict of over $60 million. On appeal, the U.S. Court of Appeals for the Ninth Circuit upheld the statutory damages but reduced the punitive damages to approximately $32 million.</p>\n<p>TransUnion asked the Supreme Court to resolve two questions, of which the Court agreed to decide only the first.</p>\n",
+    "conclusion": "<p>Only a plaintiff concretely harmed by a defendant\u2019s violation of the Fair Credit Reporting Act has Article III standing to seek damages against that private defendant in federal court. Justice Brett Kavanaugh authored the 5-4 majority opinion.</p>\n<p>To have Article III standing to sue in federal court, a plaintiff must show that she suffered concrete injury in fact, that the injury was fairly traceable to the defendant\u2019s conduct, and that the injury is likely to be redressed by a favorable ruling by the court. To show a concrete injury, a plaintiff must demonstrate that the asserted harm is similar to a harm traditionally recognized as providing a basis for a lawsuit in American courts\u2014i.e., a close historical or common-law analogue for their asserted injury.</p>\n<p>Of the 8,185 class members, TransUnion provided third parties with credit reports containing OFAC alerts for only 1,853 individuals; these individuals have standing. The remaining 6,332 class members stipulated that TransUnion did not provide their credit information to any potential creditors during the designated class period and thus have failed to demonstrate concrete harm required for Article III standing. Mere risk of future harm is insufficient to establish standing.</p>\n<p>Justice Clarence Thomas authored a dissenting opinion, joined by Justices Stephen Breyer, Sonia Sotomayor, and Elena Kagan. Justice Thomas argued that injury in law to a private right has historically been sufficient to establish \u201cinjury in fact\u201d for standing purposes, and each class member in this case has demonstrated violation of their private rights.</p>\n<p>Justice Kagan authored a dissenting opinion joined by Justices Breyer and Sotomayor arguing that Congress expressly allowed these plaintiffs to bring their claim of violation of the Fair Credit Reporting Act, yet the majority disallows them from doing so. Justice Kagan noted her slightly different understanding of the \u201cconcrete injury\u201d requirement for Article III standing that Justice Thomas described in his dissent but suggested such a difference would not lead to a different outcome.</p>\n"
+}

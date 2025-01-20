@@ -1,0 +1,42 @@
+{
+    "ID": 63598,
+    "name": "NetChoice, LLC v. Paxton",
+    "href": "https://api.oyez.org/cases/2023/22-555",
+    "view_count": 0,
+    "docket_number": "22-555",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1695963600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55326"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1708927200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55408"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1719810000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55504"
+        }
+    ],
+    "question": "<p>Do Texas HB 20\u2019s provisions prohibiting social media platforms from censoring users\u2019 content and imposing stringent disclosure requirements violate the First Amendment?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/27968"
+    },
+    "term": "2023",
+    "description": "A case in which the Court was asked to decide whether a state law restricting social media platforms from engaging in editorial choices about whether, and how, to publish and disseminate speech and requiring them to submit to onerous operational and disclosure requirements violates the First Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2023/22-555/",
+    "facts_of_the_case": "<p>The State of Texas enacted HB 20 to regulate large social media platforms, such as Facebook, X (formerly known as Twitter), and YouTube. The law purports to prohibit large social media platforms from censoring speech based on the viewpoint of the speaker.</p>\n<p>NetChoice and the Computer &amp; Communications Industry Association filed a lawsuit against the Attorney General of Texas, challenging two provisions of the law as unconstitutional: (1) Section 7, which prohibits viewpoint-based censorship of users\u2019 posts, except for content that incites criminal activity or is unlawful. (2) Section 2, which requires platforms to disclose how they moderate and promote content, publish an \"acceptable use policy,\" and maintain a complaint-and-appeal system for their users.</p>\n<p>The district court issued a preliminary injunction, holding that Section 7 and Section 2 are facially unconstitutional. The court argued that social media platforms have some level of editorial discretion protected by the First Amendment, and HB 20 interferes with that discretion. On appeal, the U.S. Court of Appeals for the Fifth Circuit reversed, rejecting the idea that large corporations have a \u201cfreewheeling\u201d First Amendment right to censor what people say. It reasoned that HB 20 does not regulate the platforms\u2019 speech but protects other people\u2019s speech and regulates the platforms\u2019 conduct.</p>\n",
+    "conclusion": "<p>The judgments are vacated, and the cases are remanded, because neither the Eleventh Circuit nor the Fifth Circuit conducted a proper analysis of the facial First Amendment challenges to the Florida and Texas laws regulating large internet platforms. Justice Elena Kagan authored the majority opinion of the Court.</p>\n<p>Under precedents like Miami Herald v. Tornillo, Pacific Gas &amp; Electric Co. v. Public Utilities Commission, Turner Broadcasting v. FCC, and Hurley v. Irish-American Gay, Lesbian and Bisexual Group of Boston, when a private entity engages in expressive activity, including curating others' speech, government interference with that activity implicates the First Amendment.</p>\n<p>Specifically, the First Amendment protects entities engaged in expressive activities, including compiling and curating others' speech, from being forced to accommodate messages they prefer to exclude. This protection applies even when the compiler includes most items and excludes only a few. The government cannot justify interfering with a private speaker's editorial choices merely by claiming an interest in improving or balancing the marketplace of ideas. These principles likely apply to the content moderation practices of social media platforms like Facebook's News Feed, indicating that state laws regulating these practices may face significant First Amendment hurdles. However, this analysis may not apply to all of the laws' applications, so it is important for courts to conduct a thorough examination of the laws' full scope and their constitutional and unconstitutional applications in a proper facial challenge analysis.</p>\n<p>Texas's regulation of social media platforms' content moderation policies aims to alter the speech displayed on these platforms, reflecting the state's disapproval of the platforms' current content selection and moderation practices. However, under the First Amendment, Texas cannot impose its preferences on how private entities curate and present speech, as this would amount to government control over the expression of ideas.</p>\n<p>Justice Amy Coney Barrett joined the majority opinion in full and authored a separate concurrence.</p>\n<p>Justice Ketanji Brown Jackson joined the majority opinion in part and authored a separate concurrence.</p>\n<p>Justice Clarence Thomas authored an opinion concurring in the judgment.</p>\n<p>Justice Samuel Alito authored an opinion concurring in the judgment, in which Justices Clarence Thomas and Neil Gorsuch joined.</p>\n"
+}

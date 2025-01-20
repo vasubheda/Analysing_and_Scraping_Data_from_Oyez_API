@@ -1,0 +1,35 @@
+{
+    "ID": 55801,
+    "name": "United States v. Juvenile Male",
+    "href": "https://api.oyez.org/cases/2010/09-940",
+    "view_count": 0,
+    "docket_number": "09-940",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1309150800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40790"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1309150800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40791"
+        }
+    ],
+    "question": "<p>Does the state's requirement of sexual offender registration make S.E.'s challenge to the federal requirement moot, ending his right to appeal?</p>\n",
+    "citation": {
+        "volume": "564",
+        "page": "",
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19723"
+    },
+    "term": "2010",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/564/932/",
+    "facts_of_the_case": "<p>At the age of 13, S.E. engaged in non-consensual sexual acts with a 10-year-old child. This activity continued until S.E. was 15 and the victim was 12. S.E. and the victim were residents of the Fort Belknap Reservation in Montana. In 2005, the district court sentenced S.E. to two years of detention at a juvenile facility, followed by supervised release until his 21st birthday.</p>\n<p>In 2006, Congress enacted the Sex Offender Registration and Notification Act (\"SORNA\"). Its reporting and registration requirements apply to adults and juveniles 14 or older who commit certain serious sex offenses.</p>\n<p>When S.E. completed his sentence, he moved to a prerelease center for six months. S.E. did not engage in a required job search and center officials deemed him a program failure, requesting his removal. In 2007, after SORNA's enactment, the district court revoked S.E.'s supervised release because he failed to meet the conditions of supervision. The court ordered, among other conditions, that S.E. register as a sex offender.</p>\n<p>S.E. appealed to the U.S. Court of Appeals, 9th Circuit, challenging the mandate to register as a sex offender. In May 2008, S.E. turned 21, and the order to register expired. Over a year later, Judge Stephen Reinhardt, writing for a unanimous court, held that SORNA was invalid on its face because the constitution forbids laws that are enforced retroactively. The Supreme Court, in a <em>per curiam</em> opinion, asked the Montana Supreme Court to decide whether the question presented was moot because the district court's order had expired. Justice Jim Rice, writing for the court with two dissents, held that S.E. was obligated to register under the Montana Sexual or Violent Offender Registration Act (\"MSVORA\"). Hence, as Montana law required S.E. to register, and this registration was not contingent on the 9th Circuit's decision, the federal question was moot.</p>\n",
+    "conclusion": "<p>Yes. In a <em>per curiam</em> decision, the court held that because S.E.'s order of supervision had expired by the time of the 9th Circuit's decision, he needed to show that an appellate decision would redress some \"collateral consequence of the registration conditions\" or the question was moot. While a favorable decision might serve as useful precedent in a hypothetical lawsuit challenging Montana's requirement, the court held that this indirect benefit did not save this case from mootness. The court also rejected S.E.'s argument that the question was not moot because the dispute was capable of repetition and likely to evade review; as S.E. was now 21, he would never again be subjected to the special conditions of juvenile supervision.</p>\n<p>Justice Ruth B. Ginsburg, Justice Stephen G. Breyer, and Justice Sonia Sotomayor would remand the case to the Ninth Circuit for that court's consideration of mootness in the first instance. Justice Elena Kagan took no part in the decision.</p>\n"
+}

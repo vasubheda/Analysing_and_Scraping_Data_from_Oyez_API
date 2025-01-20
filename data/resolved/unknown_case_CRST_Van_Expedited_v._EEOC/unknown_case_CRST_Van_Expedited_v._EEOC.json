@@ -1,0 +1,42 @@
+{
+    "ID": 62634,
+    "name": "CRST Van Expedited v. EEOC",
+    "href": "https://api.oyez.org/cases/2015/14-1375",
+    "view_count": 0,
+    "docket_number": "14-1375",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1449208800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53349"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1459141200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53417"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1463634000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53615"
+        }
+    ],
+    "question": "<p>Is a fee award available after the dismissal of a case for failure to satisfy pre-suit obligations?</p>\n",
+    "citation": {
+        "volume": "578",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27390"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that a defendant may be a \u201cprevailing party\u201d for the purpose of the award of fees even without a ruling on the merits.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/578/14-1375/",
+    "facts_of_the_case": "<p>The Equal Employment Opportunity Commission (EEOC) filed a sexual harassment suit on behalf of approximately 270 female employees against CRST Van Expedited (CRST). Two years after filing the suit, the EEOC failed to identify the 270 women, and the district court ordered the EEOC to amend its list of 270 women to include only the women who wished to continue with the suit and to ensure that those women be available for deposition. The EEOC complied with the first court order and failed to fulfill the second before the deadline. CRST had filed seven motions to dismiss, and the district granted (or granted in part) six of the motions. CRST subsequently filed a bill of costs against the EEOC for $4,560,285.11, and the district court granted the fee award. The EEOC appealed, and the U.S. Court of Appeals for the Eighth Circuit reversed the fee award. The appellate court held that the EEOC\u2019s pre-suit obligations were not elements of the claim and did not constitute a ruling on the merits that was eligible for fees.</p>\n",
+    "conclusion": "<p>The defendant may be a \u201cprevailing party\u201d for the purpose of the award of fees even without a ruling on the merits. Justice Anthony M. Kennedy delivered the opinion for the unanimous Court, which held that the determination of whether a particular party has \u201cprevailed\u201d for the purpose of fee-shifting statutes is whether there has been a material alteration in the legal relationship of the parties. Because the defendant can obtain its objective by preventing the plaintiff from altering the legal relationship in its favor, the defendant can prevail without judgment on the merits of the case. In this case, the defendant prevailed because the plaintiffs did not satisfy their pre-suit obligations and therefore were unable to alter the legal relationship between the parties. There is no indication that Congress, in drafting the statutory language, intended to limit the opportunity to collect fees to parties that prevailed on the merits, especially as doing so would prevent parties from obtaining fees on claims that were dismissed as frivolous.</p>\n<p>Justice Clarence Thomas wrote a concurring opinion in which he agreed with the Court\u2019s opinion and argued that previous precedent suggesting that a district court must make a separate finding before determining that a defendant is eligible for a fee award should not be extended further.</p>\n"
+}

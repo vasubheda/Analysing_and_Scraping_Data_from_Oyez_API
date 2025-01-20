@@ -1,0 +1,35 @@
+{
+    "ID": 54387,
+    "name": "United States v. International Business Machines Corporation",
+    "href": "https://api.oyez.org/cases/1995/95-591",
+    "view_count": 0,
+    "docket_number": "95-591",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                827128800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37592"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                834382800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37593"
+        }
+    ],
+    "question": "<p>May the federal government impose a tax on premiums that U.S. businesses pay foreign insurers for risks that could arise in this country?</p>\n",
+    "citation": {
+        "volume": "517",
+        "page": "843",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18316"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/517/843/",
+    "facts_of_the_case": "<p>Pursuant to the Internal Revenue Code, International Business Machines Corporation (IBM) paid a tax on insurance premiums it paid to foreign insurers to insure exports from the U.S. to foreign countries. IBM sought a refund on the tax and filed suit in the Court of Federal Claims when its refund claim was denied by the IRS. IBM contended the tax violated the Export Clause of the U.S. Constitution, which states that \"[n]o Tax or Duty shall be laid on Articles exported from any State.\" The court agreed. The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>No. In a 6-2 decision, announced by Justice Clarence Thomas, the Court ruled the tax did violate the Export Clause and was therefore unconstitutional.</p>\n"
+}

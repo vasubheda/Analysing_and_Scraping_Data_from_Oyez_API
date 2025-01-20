@@ -1,0 +1,35 @@
+{
+    "ID": 54792,
+    "name": "Free v. Abbott Laboratories Inc.",
+    "href": "https://api.oyez.org/cases/1999/99-391",
+    "view_count": 0,
+    "docket_number": "99-391",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                954136800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38334"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                954738000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38335"
+        }
+    ],
+    "question": "<p>Does federal jurisdiction extend to class actions in which not all the claims of individual class members satisfy the $50,000 amount-in-controversy requirement of 28 USC section 1332, as long as diversity jurisdiction exists over the claims of one named plaintiff and, thus, supplemental jurisdiction exists over the claims of the unnamed plaintiffs?</p>\n",
+    "citation": {
+        "volume": "529",
+        "page": "333",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18721"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>Robin Free and Renee Free, consumers of infant formula, sued Abbott Laboratories, Bristol-Myers Squibb Company, and Mead Johnson &amp; Company (collectively Abbott), under Louisiana's antitrust laws alleging a price-fixing conspiracy. After Abbott successfully removed the case to federal court, the District Court granted the Frees' motion to remand, holding that it lacked federal question jurisdiction and that it had diversity jurisdiction only over the named plaintiffs' claims, not over the other class members. Ultimately concluding that federal jurisdiction extended to the case, the Court of Appeals held that the district court had supplemental jurisdiction over the claims of the unnamed plaintiffs because it had diversity jurisdiction over the named plaintiffs' claims.</p>\n",
+    "conclusion": "<p>In a per curiam opinion announced by Chief Justice William H. Rehnquist, the Court affirmed the judgment of the Court of Appeals by an equally divided 4-4 ruling. Justice Sandra Day O'Connor took no part in the consideration or decision of the case.</p>\n"
+}

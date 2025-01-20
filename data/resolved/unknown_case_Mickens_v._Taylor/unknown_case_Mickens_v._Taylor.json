@@ -1,0 +1,35 @@
+{
+    "ID": 54969,
+    "name": "Mickens v. Taylor",
+    "href": "https://api.oyez.org/cases/2001/00-9285",
+    "view_count": 0,
+    "docket_number": "00-9285",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1004940000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38675"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1017208800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38676"
+        }
+    ],
+    "question": "<p>Must a defendant show that a conflict of interest adversely affected his representation in order to demonstrate a Sixth Amendment violation when the trial court fails to inquire into a potential conflict of interest about which it knew or reasonably should have known?</p>\n",
+    "citation": {
+        "volume": "535",
+        "page": "162",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/18898"
+    },
+    "term": "2001",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/535/162/",
+    "facts_of_the_case": "<p>A Virginia jury convicted Walter Mickens, Jr., of the premeditated murder of Timothy Hall during or following the commission of an attempted forcible sodomy and sentenced him to death. Subsequently, Mickens filed a federal habeas petition, alleging that he was denied effective assistance of counsel because one of his court-appointed attorneys had a conflict of interest at trial - his lead attorney, Bryan Saunders, had represented Hall on criminal charges at the time of the murder. Saunders had not disclosed to the court, his co-counsel, or Mickens that he had represented Hall. Ultimately, the en banc Court of Appeals rejected MIckens's argument that the juvenile court judge's failure to inquire into a potential conflict either mandated automatic reversal of his conviction or relieved him of the burden of showing that a conflict of interest adversely affected his representation. Subsequently, the appellate court concluded that Mickens had not demonstrated adverse effect.</p>\n",
+    "conclusion": "<p>Yes. In a 5-4 opinion delivered by Justice Antonin Scalia, the Court held that in order to demonstrate a Sixth Amendment violation in such a situation, a defendant must establish that a conflict of interest adversely affected his counsel's performance. The Court rejected Mickens's argument that where the trial judge neglects a duty to inquire into a potential conflict the defendant, to obtain reversal, need only show that his lawyer was subject to a conflict of interest, not that the conflict adversely affected counsel's performance. In doing so, the Court noted that a defendant alleging ineffective assistance generally must demonstrate a reasonable probability that, but for counsel's unprofessional errors, the result of the proceeding would have been different.</p>\n"
+}

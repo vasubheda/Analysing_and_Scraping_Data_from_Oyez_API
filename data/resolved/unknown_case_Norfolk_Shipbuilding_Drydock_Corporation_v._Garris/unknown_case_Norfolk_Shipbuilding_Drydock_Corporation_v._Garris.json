@@ -1,0 +1,35 @@
+{
+    "ID": 54934,
+    "name": "Norfolk Shipbuilding Drydock Corporation v. Garris",
+    "href": "https://api.oyez.org/cases/2000/00-346",
+    "view_count": 0,
+    "docket_number": "00-346",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                987570000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38607"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                991630800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38608"
+        }
+    ],
+    "question": "<p>Does a maritime cause of action for wrongful death resulting from negligence exist?</p>\n",
+    "citation": {
+        "volume": "532",
+        "page": "811",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18863"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/532/811/",
+    "facts_of_the_case": "<p>Christopher Garris' mother filed a complaint in Federal District Court alleging that her son died as the result of injuries he sustained while sandblasting aboard the USNS Maj. Stephen W. Pless. Because the vessel was berthed in the navigable waters of the United States, Garris invoked federal admiralty jurisdiction and sought damages under general maritime law. Garris asserted that the injuries were caused by the negligence of Norfolk Shipbuilding &amp; Drydock Corporation. The District Court dismissed the complaint for failure to state a federal claim. The court stated that no cause of action exists, under general maritime law, for death resulting from negligence. In reversing, the Court of Appeals noted that although the U.S. Supreme Court had not yet recognized a maritime cause of action for wrongful death resulting from negligence, the action was made appropriate by principles contained in precedent.</p>\n",
+    "conclusion": "<p>Yes. In an opinion delivered by Justice Antonin Scalia, the Court held that the general maritime cause of action for death caused by violation of maritime duties is available for the negligent breach of a maritime duty of care. \"The general maritime law has recognized the tort of negligence for more than a century, and it has been clear since [Moragne v. States Marine Lines Inc.] that breaches of a maritime duty are actionable when they cause death, as when they cause injury,\" wrote Justice Scalia for the Court. Justice Ruth Bader Ginsburg wrote an opinion concurring in part, which was joined by Justices David H. Souter and Stephen G. Breyer.</p>\n"
+}

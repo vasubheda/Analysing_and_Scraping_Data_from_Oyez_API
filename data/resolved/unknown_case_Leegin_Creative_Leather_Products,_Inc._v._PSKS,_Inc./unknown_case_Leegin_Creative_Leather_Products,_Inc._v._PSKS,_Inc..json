@@ -1,0 +1,42 @@
+{
+    "ID": 55406,
+    "name": "Leegin Creative Leather Products, Inc. v. PSKS, Inc.",
+    "href": "https://api.oyez.org/cases/2006/06-480",
+    "view_count": 0,
+    "docket_number": "06-480",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1165471200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39731"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1174885200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39732"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1183006800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39733"
+        }
+    ],
+    "question": "<p>Is it <em>per se</em> illegal under Section 1 of the Sherman Act for a manufacturer to set mandatory minimum prices for its products?</p>\n",
+    "citation": {
+        "volume": "551",
+        "page": "877",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20702"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/551/877/",
+    "facts_of_the_case": "<p>Leegin Creative Leather Products, a manufacturer of women's accessories, entered into vertical minimum price agreements with its retailers. The agreements required the retailers to charge no less than certain minimum prices for Leegin products. According to Leegin, the price minimums were intended to encourage competition among retailers in customer service and product promotion. When one retailer, PSKS, discounted Leegin products below the minimum, Leegin dropped the retailer. PSKS sued, arguing that Leegin was violating Section 1 of the Sherman Act by engaging in anticompetitive price fixing. Under the Supreme Court's 1911 decision in <em>Dr. Miles Medical Co. v. John D. Park &amp; Sons Co.</em>, mandatory minimum price agreements are per se illegal under the Act - that is, they are automatically illegal regardless of the circumstances.</p>\n<p>Leegin argued that this rule was based on outdated economics. It contended that a better legal analysis would be the \"rule of reason,\" under which price minimums would be held illegal only in cases where they could be shown to be anticompetitive. Both the District Court and U.S. Court of Appeals for the Fifth Circuit rejected these arguments. The courts felt compelled to follow the Supreme Court's rule in the <em>Dr. Miles</em> case, under which Leegin's practices were illegal regardless of the economic arguments put forward by the company.</p>\n",
+    "conclusion": "<p>No. The Court ruled 5-4 that \" <em>Dr. Miles</em> should be overruled and that vertical price restraints are to be judged by the rule of reason.\" Justice Anthony Kennedy's majority opinion held that <em>Dr. Miles</em> had erred by treating vertical minimum price agreements between manufacturers and retailers as analogous to horizontal price-fixing agreements between sellers. The Court cited evidence from the economic literature that vertical minimum price agreements are rarely anticompetitive and can often function to increase interbrand competition. The Court acknowledged that in some cases vertical price minimums might facilitate manufacturer cartels, but it held that instances where the price agreements are abused for illegal anticompetitive purposes can be determined on a case-by-case basis under the rule of reason. The mere fact that vertical price minimums may lead to higher prices for goods cannot reflect negatively on its legality under the Sherman Act, because there are many legitimate business decisions that may ultimately result in higher prices. The majority also acknowledged that the principle of <em>stare decisis</em> would weigh against overruling the nearly 100-year-old precedent in <em>Dr. Miles</em>, but it held that the Sherman Act is to be treated as a \"common-law statute,\" which must be allowed to evolve in the courts as economic knowledge and circumstances change. The dissenters, in an opinion authored by Justice Stephen Breyer, saw no change in circumstances that would justify overruling <em>Dr. Miles</em>, and they argued that the reliance of the business community on that decision supported adherence to <em>stare decisis</em>.</p>\n"
+}

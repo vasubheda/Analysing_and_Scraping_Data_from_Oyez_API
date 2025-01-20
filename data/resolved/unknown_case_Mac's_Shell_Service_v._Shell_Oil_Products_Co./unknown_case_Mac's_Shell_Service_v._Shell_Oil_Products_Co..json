@@ -1,0 +1,42 @@
+{
+    "ID": 55650,
+    "name": "Mac's Shell Service v. Shell Oil Products Co.",
+    "href": "https://api.oyez.org/cases/2009/08-240",
+    "view_count": 0,
+    "docket_number": "08-240",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1245042000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40413"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1263880800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40414"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1267509600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40415"
+        }
+    ],
+    "question": "<p>Does the PMPA encompass a claim for \"constructive nonrenewal\" of franchisee's lease when: i) franchisees filed suit prior to receiving new lease agreements that violated the act, ii) lease agreements were presented on a take-it-or-leave-it basis, iii) franchisor stated it would terminate the leases unless franchisees signed the new agreements, and iv) franchisees signed lease agreements under protest and pursued their legal claims against the franchisor?</p>\n",
+    "citation": {
+        "volume": "559",
+        "page": "175",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19573"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that a franchise operator cannot successfully bring a claim of constructive termination of the franchise unless it can be proven that the parent company directly forced the franchise out of business.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/559/175/",
+    "facts_of_the_case": "<p>Gas station franchisees won a verdict against franchisor Motiva in the Massachusetts federal district court for violations of the Petroleum Marketing Practices Act. The franchisees argued that new leases that changed the way rent was calculated and which amounted to increased rents were made in bad faith and meant to drive them out of business. They claimed that the new lease terms amounted to \"constructive nonrenewal,\" prohibited by the PMPA, even though they signed the agreements. On appeal, the U.S. Court of Appeals for the First Circuit reversed in part, holding that the PMPA did not support a claim for constructive nonrenewal under the circumstances in the case. It reasoned that the PMPA requires franchisees faced with objectionable contract terms to refrain from ratifying those terms by executing the contract, as the franchisees did in this case.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion written by Justice Samuel A. Alito, the court held that a franchisee cannot recover for constructive termination under the PMPA if the franchisor's allegedly wrongful conduct did not compel the franchisee to abandon its franchise. The Court further held that a franchisee who signs and operates a renewal agreement with a franchisor may not maintain a constructive nonrenewal claim under the PMPA. The Court reasoned when a franchisee signs a renewal agreement, there has been no \"failure to renew,\" and, thus no violation.</p>\n"
+}

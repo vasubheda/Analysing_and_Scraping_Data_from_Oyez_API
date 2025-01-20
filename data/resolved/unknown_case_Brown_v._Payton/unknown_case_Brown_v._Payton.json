@@ -1,0 +1,42 @@
+{
+    "ID": 55272,
+    "name": "Brown v. Payton",
+    "href": "https://api.oyez.org/cases/2004/03-1039",
+    "view_count": 0,
+    "docket_number": "03-1039",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1085374800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39378"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1100066400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39379"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1111471200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39380"
+        }
+    ],
+    "question": "<p>Was the 9th Circuit correct to rule the California Supreme Court objectively unreasonable in holding that California's \"catch-all\" mitigation instruction in capital cases is constitutional as applied to post-crime evidence in mitigation?</p>\n",
+    "citation": {
+        "volume": "544",
+        "page": "133",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19200"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/544/133/",
+    "facts_of_the_case": "<p>A California court sentenced William Payton to death for murder and attempted murder. Payton appealed and alleged the jury, when imposing the death penalty, did not consider the potentially mitigating evidence of his post-crime religious conversion. California's death penalty statute required jurors to weigh 11 factors when imposing a death penalty. The first 10 factors were specific to the crime and the eleventh factor was a \"catch-all factor\" that allowed the judge or jury to consider any other circumstance the defendant presented in mitigation of a death sentence. Payton alleged the judge's jury instructions effectively prevented the jury from considering his post-crime religious conversion. The California Supreme Court ruled there was nothing wrong with the judge's jury instructions. A federal district court and the Ninth Circuit Court of Appeals agreed with Payton and reversed the death sentence. The Ninth Circuit said the California Supreme Court's application of U.S. Supreme Court precedent was objectively unreasonable. According to the Ninth Circuit, the clearly established precedent required juries to consider mitigating post-crime evidence when considering a death sentence.</p>\n",
+    "conclusion": "<p>No. In a 5-3 opinion delivered by Justice Anthony Kennedy, the Court held that the California Supreme Court was not unreasonable to decline to distinguish between pre-crime and postcrime mitigating evidence. The California Supreme Court reasonably read the relevant precedent, Boyde v. California (1990), as establishing that the catch-all factor's text was broad enough to accommodate Payton's post-crime religious conversion.</p>\n"
+}

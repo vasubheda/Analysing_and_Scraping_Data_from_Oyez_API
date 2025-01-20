@@ -1,0 +1,42 @@
+{
+    "ID": 55962,
+    "name": "Mutual Pharmaceutical Co. v. Bartlett",
+    "href": "https://api.oyez.org/cases/2012/12-142",
+    "view_count": 0,
+    "docket_number": "12-142",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1354255200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41246"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1363669200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41247"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1372050000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41248"
+        }
+    ],
+    "question": "<p>Does federal law preempt a state design defect claim against a generic drug manufacturer?</p>\n",
+    "citation": {
+        "volume": "570",
+        "page": "472",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19884"
+    },
+    "term": "2012",
+    "description": "A case in which the Court found that federal law preempts state law design-defect claims.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/570/472/",
+    "facts_of_the_case": "<p>In December 2004, Karen Bartlett's doctor prescribed Sulindac, a generic anti-inflammatory medication, to help treat her shoulder pain. Within months she began suffering from a severe reaction called Stevens-Johnson syndrome, which caused the skin condition toxic epidermal necrolysis. This condition deteriorated over 60 percent of her skin to the point of causing open wounds. As a result, she has suffered permanent and serious injuries, including near-blindness.</p>\n<p>Bartlett filed a lawsuit against the Sulindac medication manufacturer, Mutual Pharmaceutical Company. Bartlett initially presented several negligence and product liability claims, but only her design defect product liability claim made it to trial. Beginning in August 2009, a jury at the Federal District Court for the District of New Hampshire heard evidence that Sulindac was unreasonably dangerous to consumers and therefore was defectively designed. Mutual countered, among several other defenses, that federal law governs generic drug manufacturers' conduct; therefore Karen could not pursue a state design defect claim.</p>\n<p>After 14 days of trial, the jury deliberated and sided with Bartlett, awarding over $20 million in compensatory damages. Mutual appealed the decision for several reasons, including the following: the district court misunderstood New Hampshire product liability law; and, the court improperly admitted several pieces of evidence and the jury award of damages was excessive. Mutual also reasserted its claim that federal law should prevail over a state defective design claim. Despite Mutual's arguments, the United States Court of Appeals for the First Circuit affirmed the lower court's decision. Mutual appealed further to the Supreme Court of the United States, which granted certiorari.</p>\n",
+    "conclusion": "<p>Yes. Justice Samuel A. Alito Jr. delivered the opinion for the 5-4 majority. The Court held that state law design-defect claims regarding the adequacy of a drug\u2019s warnings are pre-empted by federal law which prohibits generic drug manufacturers from independently changing Food and Drug Administration (FDA) approved drug labels. New Hampshire state law obligates Mutual Pharmaceutical to place a stronger warning on the generic drug labels, a requirement that is irreconcilable with federal requirements. Therefore, the state law is pre-empted by the Supremacy Clause, which states that federal law supersedes that of the states.</p>\n<p>Justice Sonia Sotomayor wrote a dissent in which she argued that state law should not be pre-empted without evidence that Congress acted with the intent to supersede state law, especially in fields historically dominated by states. The objective of Congress in creating the law prohibiting the alteration of labels was to prevent misbranding as a protection for the consumer; state law requiring adequate warnings on labels complements this purpose. The New Hampshire design-defect laws are an incentive to avoid strict-liability not a mandate that product labels must be altered, so they are not irreconcilable with the federal law. She also argues that design-defect claims are distinct from failure-to-warn claims. Justice Ruth Bader Ginsburg joined in the dissent. In his separate dissent, Justice Stephen G. Breyer wrote a dissent arguing that Mutual Pharmaceutical could comply with both state and federal law by not doing business in the state. However, if Mutual Pharmaceutical options are limited by the conflicting laws to paying a substantial damages remedy or leaving New Hampshire and these options are an obstacle to the goals of the federal law, then the relevant state law is pre-empted. Without any direction from the relevant federal agency, the FDA, or a general pre-emption clause in the federal statute, he concludes that the New Hampshire law is not a substantial obstacle and should not be pre-empted. Justice Elena Kagan joined in the dissent.</p>\n"
+}

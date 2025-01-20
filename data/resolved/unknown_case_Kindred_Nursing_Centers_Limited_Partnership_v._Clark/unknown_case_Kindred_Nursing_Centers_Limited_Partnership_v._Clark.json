@@ -1,0 +1,42 @@
+{
+    "ID": 62771,
+    "name": "Kindred Nursing Centers Limited Partnership v. Clark",
+    "href": "https://api.oyez.org/cases/2016/16-32",
+    "view_count": 0,
+    "docket_number": "16-32",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1477630800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53910"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1487743200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53972"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1494824400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54039"
+        }
+    ],
+    "question": "<p>Does the Federal Arbitration Act preempt Kentucky state-law precedent that requires a power of attorney agreement to expressly grant an attorney-in-fact the power to bind her principal to an arbitration agreement?</p>\n",
+    "citation": {
+        "volume": "581",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27473"
+    },
+    "term": "2016",
+    "description": "A case in which the Court held that the Federal Arbitration Act (FAA) preempts Kentucky state-law precedent that requires a clear statement in the power of attorney agreement in order to grant an attorney-in-fact the power to bind her principal to an arbitration agreement.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/581/16-32/",
+    "facts_of_the_case": "<p dir=\"ltr\">Olive Clark and Joe Wellner were both residents at the Fountain Circle Care and Rehabilitation Center, a nursing home operated by Kindred Nursing Centers Limited Partnership (Kindred Nursing) in Winchester, Kentucky. Prior to their admission to the facility, each had designated their relatives as attorneys-in-fact, which gave the relatives broad authority to enter into transactions and agreements on their behalf. Their relatives, Janis E. Clark and Beverly Wellner, used their status as attorneys-in-fact to sign an alternative dispute resolution agreements with the facility that stipulated that any disputes arising from the Olive\u2019s and Joe\u2019s stays at the facility would be resolved through arbitration. </p>\n<p>\u00a0\n</p><p>Olive and Joe both passed away in the spring of 2009, and Janis and Beverly each filed lawsuits against Kindred Nursing for personal injury and wrongful death on their behalf. Kindred Nursing moved to compel arbitration based on the agreements that Janis and Beverly had signed. The state trial court initially dismissed both judicial actions in favor of arbitration, but later reversed in accordance with the precedent the Supreme Court of Kentucky established in Ping v. Beverly Enterprises, Inc. In that case, the Supreme Court of Kentucky held that the power of attorney that authorized an attorney-in-fact to manage the principal\u2019s \u201cfinancial affairs\u201d and \u201chealth-care decisions\u201d did not include the authority to bind the principal to an optional arbitration agreement. The Supreme Court of Kentucky affirmed the lower court\u2019s decision.</p>\n",
+    "conclusion": "<p dir=\"ltr\">The Federal Arbitration Act (FAA) preempts Kentucky state-law precedent that requires a clear statement in the power of attorney agreement in order to grant an attorney-in-fact the power to bind her principal to an arbitration agreement. Justice Elena Kagan delivered the opinion for the 7-1 majority. The Court held that, under the FAA, arbitration agreements may only be found invalid and unenforceable based on legal rules that would apply to any contract. Rules that apply only to arbitration agreements, even if they do not do so explicitly but focus on contracts that have the characteristics of arbitration agreements, violate the FAA and are therefore preempted. Because Kentucky\u2019s clear statement rule focuses exclusively on the primary characteristic of an arbitration agreement--the waiver of the right to a jury trial--it does not put arbitration agreements on equal footing with other contracts, and therefore the FAA preempts it. To hold otherwise would allow states to undermine the express purpose of the FAA. </p>\n<p dir=\"ltr\">Justice Clarence Thomas wrote a dissent in which he argued that the FAA did not apply in state court proceedings and therefore did not preempt the state-law precedent in this case.</p>\n<p dir=\"ltr\">Justice Neil Gorsuch did not participate in the discussion or decision of this case. </p>\n"
+}

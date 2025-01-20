@@ -1,0 +1,42 @@
+{
+    "ID": 63042,
+    "name": "Return Mail, Inc. v. United States Postal Service",
+    "href": "https://api.oyez.org/cases/2018/17-1594",
+    "view_count": 0,
+    "docket_number": "17-1594",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1540530000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54374"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1550556000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54437"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1560142800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54531"
+        }
+    ],
+    "question": "<p>Is the government a \u201cperson\u201d who may institute review proceedings under the Leahy-Smith America Invents Act?</p>\n",
+    "citation": {
+        "volume": "587",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27633"
+    },
+    "term": "2018",
+    "description": "A case in which the Court held that under the Leahy-Smith America Invents Act, the federal government is not a \u201cperson\u201d capable of petitioning the Patent Trial and Appeal Board to institute patent review proceedings.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/587/17-1594/",
+    "facts_of_the_case": "<p>Return Mail, Inc. owns a US patent directed to the processing of mail items that are undeliverable due to an inaccurate or obsolete address of the intended recipient. Return Mail sought to license the patent to the US Postal Service (\u201cUSPS\u201d) and when it was unsuccessful, it filed a lawsuit against USPS alleging unlicensed and unlawful use and infringement of the patent. USPS filed a petition with the Patent and Trademark Office\u2019s Patent Trial and Appeal Board (\u201cBoard\u201d) asking that the patent be declared unpatentable on several grounds. In response, Return Mail addressed the unpatentability arguments and further argued that USPS lacked statutory standing to institute review proceedings under the Leahy-Smith America Invents Act (\u201cAIA\u201d).</p>\n<p>The Board held that USPS was not statutorily barred from filing the petition for review, and on the merits determined that all of the challenged patent claims were unpatentable under 35 U.S.C. \u00a7 101. The US Court of Appeals for the Federal Circuit affirmed.</p>\n",
+    "conclusion": "<p>Under the Leahy-Smith America Invents Act (\u201cAIA\u201d), the federal government is not a \u201cperson\u201d capable of petitioning the Patent Trial and Appeal Board to institute patent review proceedings. Justice Sonia Sotomayor authored the 6-3 majority opinion.</p>\n<p>The Court determined that the AIA does not define \u201cperson\u201d and looked instead to the Dictionary Act, which defines \u201cperson\u201d as including natural individuals and businesses, but not governments \u201cunless the context indicates otherwise.\u201d The Court then looked to whether anything in the context \u201cindicates otherwise,\u201d thereby rebutting the presumption that governments are not \u201cpersons.\u201d</p>\n<p>First, the Court cited several examples where it had applied the presumption against treating the government as a statutory person. It then looked to the use of the word \u201cperson\u201d elsewhere in the AIA, finding that in some instances, the term plainly included the government and in other instances it plainly excluded the government. The Court found the provision at issue was not so plain and could be read either way. Finding no historic reason to permit the government to participate in post-grant review, \u201cwhich was enacted just eight years ago,\u201d the Court opined that patent infringement lawsuits against the government are not as onerous as those against non-government actors. Thus, it is reasonable to infer that Congress intentionally treated government actors differently from private actors.</p>\n<p>Justice Breyer filed a dissenting opinion, in which Justices Ruth Bader Ginsburg and Elena Kagan joined. The dissent argued that the \u201cpurpose, the subject matter, the context, the legislative history, and the executive interpretation\u201d indicate congressional intent to include, not exclude, the government in the term \u201cperson.\u201d</p>\n"
+}

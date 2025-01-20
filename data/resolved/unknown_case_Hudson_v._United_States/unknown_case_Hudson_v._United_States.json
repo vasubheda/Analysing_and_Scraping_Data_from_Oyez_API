@@ -1,0 +1,35 @@
+{
+    "ID": 54648,
+    "name": "Hudson v. United States",
+    "href": "https://api.oyez.org/cases/1997/96-976",
+    "view_count": 0,
+    "docket_number": "96-976",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                876286800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38073"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                881733600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38074"
+        }
+    ],
+    "question": "<p>Are punitive fines and debarment by the Office of the Comptroller of Currency a sufficiently \"criminal\" form of punishment that a subsequent criminal indictment for the same violations would violate the Double Jeopardy Clause of the Fifth Amendment?</p>\n",
+    "citation": {
+        "volume": "522",
+        "page": "93",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18577"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/522/93/",
+    "facts_of_the_case": "<p>John Hudson was chairman of the First National Bank of Tipton and the First National Bank of Hammon. Hudson used his position to regain bank stock he had used as collateral on defaulted loans through a series of bank loans to other parties. Upon investigation the Office of the Comptroller of Currency (OCC) found that the loans were made in violation of several banking statues and regulations. The OCC fined and debarred Hudson for the violations. Later, he faced criminal indictment in federal District Court for violations tied to those same events. Hudson objected, arguing that the indictment violated the Double Jeopardy Clause of the Fifth Amendment.</p>\n<p>The U. S. Court of Appeals for the Tenth Circuit eventually found for the Government in light of <em>United States v. Halper</em> on the grounds that the original proceedings were civil in nature and not so disproportional to the proven damages to the Government as to qualify as a form of criminal punishment.</p>\n",
+    "conclusion": "<p>No. In a unanimous decision written by Chief Justice William H. Rehnquist, the Supreme Court upheld the Tenth Circuit's decision based on the distinction made in <em>United States v. Ward</em> between criminal and civil punishments. The Court held that the Double Jeopardy Clause does not apply to non-criminal penalties, even if the purpose of the penalty is to punish the offenders and deter future offenders. Since the first punishment handed down by the OCC - a Federal Banking Agency, not a court - was not a criminal punishment, the subsequent indictments were upheld.</p>\n"
+}

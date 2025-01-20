@@ -1,0 +1,42 @@
+{
+    "ID": 55965,
+    "name": "Johnson v. Williams",
+    "href": "https://api.oyez.org/cases/2012/11-465",
+    "view_count": 0,
+    "docket_number": "11-465",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1326434400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41255"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1349240400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41256"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1361340000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41257"
+        }
+    ],
+    "question": "<p>Is a habeas petitioner's claim \"adjudicated on the merits\" if the state court denied relief in an explained decision but did not expressly acknowledge the federal-law basis for the claim?</p>\n",
+    "citation": {
+        "volume": "568",
+        "page": "289",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19887"
+    },
+    "term": "2012",
+    "description": "A case in which the Court found that an entire claim can be \"adjudicated on its merits\" even if the federal law claim was not expressly addressed.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/568/289/",
+    "facts_of_the_case": "<p>In 1999, Tara Williams was charged with the 1993 robbery-murder of Hung Mun Kim. During jury deliberations at Williams' trial, the judge received a jury note saying that one of the jurors, juror number six, expressed an intention to disregard the law due to a concern about the severity of the charge of first-degree murder. After an inquiry and evidentiary hearing, the judge dismissed the juror for bias.</p>\n<p>Williams appealed, claiming that the trial court abused its discretion when it removed juror number six, because the removal of the \"lone holdout\" juror violated Williams' Sixth Amendment right to a unanimous jury. The California Court of Appeals rejected her claim as meritless, and the California Supreme Court denied further direct appellate review.</p>\n<p>Williams filed a state habeas corpus petition in Los Angleles County Superior Court. The court denied the petition, ruling that the issues raised in the petition were issues for direct appeal, not collateral attack. Williams next filed a federal habeas corpus petition, in which she again challenged the removal of juror number six. The magistrate judge concluded that the trial court's factual finding of bias was entitled to deference and that the discharge of juror number six did not constitute a constitutional violation. The district court adopted the report of the magistrate judge and dismissed the petition with prejudice.</p>\n<p>Williams appealed to the United States Court of Appeals for the Ninth Circuit. The appellate court reversed the district court, holding that the deferential-review standard did not apply because the California Court of Appeal had only reviewed her state claim and had not adjudicated her federal constitutional claim. The appellate court then conducted a review of Williams' federal claim and concluded that the Sixth Amendment does not allow a trial judge to discharge a juror on account of his views on the merits of the case. The State of California appealed to the appellate court's decision.</p>\n",
+    "conclusion": "<p>Yes. Justice Samuel A. Alito Jr. delivered a unanimous opinion reversing the Ninth Circuit's judgment and remanding for further proceedings. The Court held that Williams' entire claim had been \"adjudicated on the merits,\" even though the California court did not expressly address the federal law claim. To adjudicate a claim on its merits, a state court is only required to evaluate the evidence and arguments; it is not required to expressly address every single claim. When a defendant presents a federal claim to a state court and the state court denies relief, it must be presumed that the state court adjudicated the claim on its merits. It is up to the defendant to rebut this presumption in order to seek federal habeas relief. To rule otherwise would unreasonably burden the state courts and require them to spend time expressly addressing even the most insignificant claims.</p>\n"
+}

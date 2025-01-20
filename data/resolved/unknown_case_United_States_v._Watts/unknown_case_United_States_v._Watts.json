@@ -1,0 +1,28 @@
+{
+    "ID": 54513,
+    "name": "United States v. Watts",
+    "href": "https://api.oyez.org/cases/1996/95-1906",
+    "view_count": 0,
+    "docket_number": "95-1906",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                852530400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37822"
+        }
+    ],
+    "question": "<p>May sentencing courts consider the conduct of a defendant's underlying charges of which she or he has been acquitted?</p>\n",
+    "citation": {
+        "volume": "519",
+        "page": "148",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18442"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/519/148/",
+    "facts_of_the_case": "<p>After police discovered cocaine base in his kitchen and two loaded guns in his bedroom, a jury convicted Vernon Watts of possessing cocaine base with intent to distribute. The jury acquitted Watts of using a firearm in relation to a drug offense. By a preponderance of the evidence, the District Court, afterwards, found that Watts had possessed the guns in connection with the drug offense and sentenced him accordingly. In a similar case, authorities videotaped Cheryl Putra selling cocaine to a government informant. A jury convicted Putra of aiding and abetting possession with intent to distribute one ounce of cocaine, but acquitted her of aiding and abetting possession with intent to distribute five ounces of cocaine on a separate occasion. By a preponderance of the evidence, the District Court, afterwards, found that Putra had indeed been involved in the second transaction and sentenced her accordingly. Reversing both cases, separate Courts of Appeals held that sentencing courts could not consider the conduct of the defendants' underlying charges of which they had been acquitted.</p>\n",
+    "conclusion": "<p>Yes. In a 7-2 per curiam opinion, the Court held that a jury's verdict of acquittal does not prevent a sentencing court from considering a defendant's conduct underlying the acquitted charge, so long as that conduct has been proved by a preponderance of the evidence. Justices Antonin Scalia and Stephen G. Breyer concurred. Dissenting, Justice John Paul Stevens argued that the additional offense should have been required to have been proved beyond a reasonable doubt for sentencing purposes, where a defendant's sentence was lengthened. Justice Anthony M. Kennedy, also dissenting, expressed the view that the cases should have been set for full briefing and consideration.</p>\n"
+}

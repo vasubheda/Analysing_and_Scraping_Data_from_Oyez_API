@@ -1,0 +1,42 @@
+{
+    "ID": 55135,
+    "name": "Central Laborers' Pension Fund v. Heinz",
+    "href": "https://api.oyez.org/cases/2003/02-891",
+    "view_count": 0,
+    "docket_number": "02-891",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1070258400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38994"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1082350800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38995"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1086584400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38996"
+        }
+    ],
+    "question": "<p>Did Central Laborers' Pension violate the \"anti-cutback\" provision of the Employee Retirement Income Security Act of 1974 when it added to a list of positions that temporarily disqualified pension holders from receiving their benefits?</p>\n",
+    "citation": {
+        "volume": "541",
+        "page": "739",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19064"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/541/739/",
+    "facts_of_the_case": "<p>Thomas Heinz worked as a construction worker for 20 years, then retired. Upon retirement, he began to receive pension payments from the Central Laborers' Pension Plan. He continued to receive the pension after he took another job as a supervisor in the construction industry. The pension plan had a list of occupations that a recipient could not work in while receiving pension payments, but construction supervisors were not included. After two years, however, Central Laborers' Pension amended the list of prohibited professions to include construction supervisors. As a result, Heinz stopped receiving his pension payment. He and Richard Schmitt, a friend who was in the same situation, filed suit in federal district court. They claimed that the amendment, because it was passed after they had already started receiving the benefits, violated the \"anti-cutback\" provision of the Employee Retirement Income Security Act (ERISA) of 1974. ERISA states that amendments to a pension plan may not decrease the \"accrued benefit of a participant.\" Because the amendment barred them from receiving payments that they were otherwise eligible for, Heinz and Schmitt claimed that it had reduced their \"accrued benefit.\" Central Laborers' Pension, however, argued that the men were still eligible to receive the same pension, they just could not receive it while working as construction supervisors. Because the value of the plan itself had not been changed, only the stipulations for receiving it, the pension plan managers argued that the amendment did not violate ERISA.</p>\n<p>The federal district court sided with the pension plan. A divided Seventh Circuit Court of Appeals panel, however, reversed the decision, writing that \"an amendment placing materially greater restrictions on the receipt of the benefit 'reduces' the benefit just as surely as a decrease in the size of the monthly benefit payment.\"</p>\n",
+    "conclusion": "<p>Yes. The Court unanimously held that the amendment to the plan had narrowed Heinz's rights to the benefits promised him at the time he retired, and that such a narrowing violated ERISA. Justice David H. Souter, in the Opinion of the Court, wrote, \"'[A] participant's benefits cannot be understood without reference to the conditions imposed on receiving those benefits.' ... We simply do not see how, in any practical sense, this change of terms could not be viewed as shrinking the value of Heinz's pension rights and reducing his promised benefits.\"</p>\n"
+}

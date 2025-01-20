@@ -1,0 +1,42 @@
+{
+    "ID": 55870,
+    "name": "Judulang v. Holder",
+    "href": "https://api.oyez.org/cases/2011/10-694",
+    "view_count": 0,
+    "docket_number": "10-694",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1303102800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40977"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1318395600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40978"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1323669600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40979"
+        }
+    ],
+    "question": "<p>Can a lawful permanent resident who was convicted by guilty plea of an offense that renders him deportable and excludable under differently phrased statutory subsections be prevented from seeking discretionary relief from removal under former Section 212(c) of the Immigration and Nationality Act?</p>\n",
+    "citation": {
+        "volume": "565",
+        "page": null,
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/20859"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that the policy used to determine whether a resident alien is able to ask for relief from deportation under a repealed portion of immigration laws is \u201carbitrary and capricious\u201d under the Administrative Procedure Act, 5 U.S.C. \u00a7 706(2)(A).",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/565/42/",
+    "facts_of_the_case": "<p>Joel Judulang was born on June 26, 1966 in the Philippines, but claims that he obtained derivative citizenship through his parents. Judulang entered the United States in 1974 at the age of eight and has continuously resided in the United States for 36 years. His parents are naturalized citizens. He has a 14-year-old daughter who is also a native-born citizen of the United States, as are his four nephews and two nieces. His two sisters are also U.S. citizens. However, Judulang's parents did not seek to obtain citizenship for him before he turned 18.</p>\n<p>In 1988, when Judulang was 22, he was involved in a fight in which another person shot and killed someone. Although Judulang was not the shooter, he was charged as an accessory. He pled guilty to voluntary manslaughter. Due to his minor involvement in the crime and his cooperation with authorities, Judulang was given a suspended sentence of six years. He was released on probation immediately following his plea. On June 10, 2005, the government commenced deportation proceedings against Judulang as a result of his conviction for voluntary manslaughter, which is an aggravated felony \"crime of violence.\" The Board of Immigration Appeals affirmed the deportation order, though it did not affirm the immigration judge's reasoning. Instead, it ruled that because Judulang was removable for a \"crime of violence\" aggravated felony, he was categorically ineligible for a Section 212(c) waiver.</p>\n<p>A panel of the United States Court of Appeals for the Ninth Circuit denied Judulang's petition for review. His petition for rehearing and rehearing en banc was denied, but Justice Anthony Kennedy stayed the judgment of the Ninth Circuit pending the filing of a petition for certiorari.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous decision delivered by Justice Elena Kagan, the Court held that the rule is invalid. While the judgments on administrative agencies are given deference, they must still have a rational reasoning behind them. The BIA posited several legitimate reasons for the comparable grounds rule, but gave no rational basis for them. The current application of discretionary relief in deportation cases is arbitrary and capricious. The case was reversed and remanded.</p>\n"
+}

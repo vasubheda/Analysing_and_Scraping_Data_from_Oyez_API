@@ -1,0 +1,42 @@
+{
+    "ID": 55766,
+    "name": "Flores-Villar v. United States",
+    "href": "https://api.oyez.org/cases/2010/09-5801",
+    "view_count": 0,
+    "docket_number": "09-5801",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1269234000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40701"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1289368800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40702"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1307941200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40703"
+        }
+    ],
+    "question": "<p>Does <em>Nguyen v. INS</em> permit gender discrimination that has no biological basis?</p>\n",
+    "citation": {
+        "volume": "564",
+        "page": null,
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19688"
+    },
+    "term": "2010",
+    "description": "A case in which the Court affirmed the decision of the lower court without addressing the constitutional question at issue, which was whether Nguyen v. INS permit gender discrimination.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/564/210/",
+    "facts_of_the_case": "<p>A California federal district court convicted Ruben Flores-Villar under the Immigration and Nationality Act (\"INA\") of being a deported alien found in the United States. On appeal to the U.S. Court of Appeals for the Ninth Circuit, Mr. Flores-Villar argued that the relevant provisions of the INA violated the Equal Protection Clause of the Fifth Amendment on the basis of age and gender. The provisions impose a five-year residency requirement, after age fourteen, on United States citizen fathers but not mothers, whose residency requirement is merely one year. The Ninth Circuit applied the Supreme Court's holding in <em>Nguyen v. INS</em> which did not deal precisely with the provisions before the court, but held that other more onerous residency requirements for fathers but not mothers in the INA did not violate the Equal Protection Clause. The court concluded that the provisions challenged by Mr. Flores-Villar also did not violate the Equal Protection Clause and affirmed the judgment of the district court.</p>\n",
+    "conclusion": "<p>Without answering the question, the Supreme Court affirmed the lower court order in an unsigned <em>per curiam</em> opinion. Justice Elena Kagan took no part in consideration of the case.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 54113,
+    "name": "Helling v. McKinney",
+    "href": "https://api.oyez.org/cases/1992/91-1958",
+    "view_count": 0,
+    "docket_number": "91-1958",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                726904800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37075"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                740379600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37076"
+        }
+    ],
+    "question": "<p>May an inmate sue to prove that his Eighth Amendment right to be free from cruel and unusual punishment has been violated by prison officials who act with \"deliberate indifference\" to the future health risks associated with second-hand smoke?</p>\n",
+    "citation": {
+        "volume": "509",
+        "page": "25",
+        "year": "1993",
+        "href": "https://api.oyez.org/case_citation/case_citation/18042"
+    },
+    "term": "1992",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/509/25/",
+    "facts_of_the_case": "<p>William McKinney, a Nevada state prisoner, sued his warden and several other prison officials for violating his Eighth Amendment rights by subjecting him to unhealthy levels of second-hand smoke. McKinney shared a cell with a man who smoked five packs of cigarettes a day. He claimed that his health - both current and future - was being harmed by the smoke, and that the prison officials were \"deliberately indifferent\" to the risk in violation of the Supreme Court's decision in <em>Wilson v. Seiter</em>, 501 U.S. 294. After a federal magistrate ruled that he did not have an Eighth Amendment right to a smoke-free environment and that he had failed to prove any \"serious medical needs,\" the Ninth Circuit Court of Appeals reversed, holding that he should have been given another opportunity to prove that the smoke levels were sufficient to constitute an unreasonable danger to his future health.</p>\n",
+    "conclusion": "<p>Yes. In a 7-to-2 decision, the Supreme Court held that McKinney's suit stated a reasonable claim that, if proven, could be grounds for relief under the Eighth Amendment prohibition of cruel and unusual punishment. Justice Byron White, in the majority opinion, rejected the government's argument that the \"deliberate indifference\" test established by the Court in <em>Wilson</em> (which held that withholding medical care from prisoners only violated the Eighth Amendment if it was done with \"deliberate indifference\" to serious health risks) only applied to current medical conditions. If McKinney could prove that the second-hand smoke posed a serious threat to his future health and that the prison officials had deliberately ignored that threat, White wrote, McKinney would be entitled to relief.</p>\n"
+}

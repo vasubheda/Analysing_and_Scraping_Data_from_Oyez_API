@@ -1,0 +1,35 @@
+{
+    "ID": 55097,
+    "name": "Illinois ex rel. Madigan v. Telemarketing Associates, Inc.",
+    "href": "https://api.oyez.org/cases/2002/01-1806",
+    "view_count": 0,
+    "docket_number": "01-1806",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1052110800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38913"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1046671200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52709"
+        }
+    ],
+    "question": "<p>Does the First Amendment permit a State to maintain fraud actions alleging that fundraisers made false or misleading representations designed to deceive donors about how their donations will be used?</p>\n",
+    "citation": {
+        "volume": "538",
+        "page": "600",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/27080"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/538/600/",
+    "facts_of_the_case": "<p>VietNow National Headquarters, a charitable nonprofit corporation, retained for-profit fundraising telemarketing corporations to solicit donations to aid Vietnam veterans. The contracts provided that the telemarketers would retain 85 percent of the gross receipts from Illinois donors. The Illinois Attorney General filed a complaint in state court, alleging that the telemarketers represented to donors that a significant amount of each dollar donated would be paid over to VietNow for charitable endeavors and that such representations were knowingly deceptive and materially false and constituted a fraud. The trial court granted the telemarketers' motion to dismiss on First Amendment grounds. In affirming, the Illinois Supreme Courts relied on U.S. Supreme Court precedent that held that certain regulations of charitable solicitation barring fees in excess of a prescribed level effectively imposed prior restraints on fundraising and were therefore incompatible with the First Amendment.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion delivered by Justice Ruth Bader Ginsburg, the Court held that, consistent with the Court's precedent and the First Amendment, States may maintain fraud actions when fundraisers make false or misleading representations designed to deceive donors about how their donations will be used. The Court reasoned that, while bare failure to disclose that information directly to potential donors does not suffice to establish fraud, when nondisclosure is accompanied by intentionally misleading statements designed to deceive the listener, the First Amendment does not preclude a fraud claim. Because the state's action was on misrepresentations that were not protected by freedom of speech, rather than the high percentage of donations retained, the Court concluded that the allegations against the telemarketers therefore state a claim for relief that can survive a motion to dismiss.</p>\n"
+}

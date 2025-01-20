@@ -1,0 +1,42 @@
+{
+    "ID": 55623,
+    "name": "Astrue v. Ratliff",
+    "href": "https://api.oyez.org/cases/2009/08-1322",
+    "view_count": 0,
+    "docket_number": "08-1322",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1254286800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40338"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1266818400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40339"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1276491600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40340"
+        }
+    ],
+    "question": "<p>Can an award of attorney\u2019s fees under the Equal Access to Justice Act properly be used to offset the prevailing party\u2019s preexisting debt to the government?</p>\n",
+    "citation": {
+        "volume": "560",
+        "page": "586",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19546"
+    },
+    "term": "2009",
+    "description": "A case in which the Court determined that an award of attorney\u2019s fees under the Equal Access to Justice Act can be used to offset the prevailing party\u2019s preexisting debt to the government.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/560/586/",
+    "facts_of_the_case": "<p>Catherine Ratliff was the attorney for Ruby Kills Ree in her successful suit against the Social Security Administration for Social Security benefits. The district court also granted Kills Ree\u2019s motion for an award of attorney\u2019s fees under the Equal Access to Justice Act (EAJA). Before paying the fee award, the government discovered that Kills Ree owed the government a debt that predated the fee award and accordingly sought to offset the fee award against the debt. Ratliff then intervened in the case to challenge the offset and argued that the fee award belonged to her and therefore could not be used to offset Kills Ree\u2019s debt. The district court held that the offset was proper because the fee award goes to the \u201cprevailing party,\u201d not directly to the attorney. The U.S. Court of Appeals for the Eighth Circuit reversed and held that precedent established that EAJA fee awards go to the attorney.</p>\n",
+    "conclusion": "<p>Yes. Justice Clarence Thomas delivered the opinion of the 9-0 majority. The Court held that \u201cprevailing party\u201d is a term of art referring to the prevailing litigant, and nothing in the text of the Equal Access to Justice Act (EAJA) supports a different reading of the term. The fact that the statute awards fees to the prevailing litigant in which her attorney has an interest or contractual right does not mean that the statute awards the fees directly to the attorney. The government\u2019s practice of paying fees directly to the attorney occurred mostly in cases in which the litigant had already assigned her rights to the fees to the attorney and does not affect the reading of the statutory text. The Court held that the fees are awarded to the litigant, and therefore they can be offset if the litigant has outstanding debts to the government.</p>\n<p>Justice Sonia Sotomayor wrote a concurring opinion in which she argued that, although the text of the EAJA indicates that the government pays the litigant rather than the attorney and the attorney\u2019s right to the fees is controlled by contract, it is not clear whether Congress intended for the government to be able to offset the fees against outstanding debt. Because such offsets undercut the effectiveness of the EAJA in providing access to the courts, it is likely that Congress would have made a different choice had it considered this possibility. Justice John Paul Stevens and Justice Ruth Bader Ginsburg joined in the opinion.</p>\n"
+}

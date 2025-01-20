@@ -1,0 +1,42 @@
+{
+    "ID": 62981,
+    "name": "United States v. Stitt",
+    "href": "https://api.oyez.org/cases/2018/17-765",
+    "view_count": 0,
+    "docket_number": "17-765",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1524459600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54253"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1539061200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54358"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1544421600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54396"
+        }
+    ],
+    "question": "<p>Is the crime of residential burglary under Arkansas law, or aggravated burglary under Tennessee law, the same as or narrower than \u201cgeneral burglary\u201d such that convictions for those crimes serve as predicate crimes for the purpose of the enhanced sentencing provision of the Armed Career Criminal Act of 1984?</p>\n",
+    "citation": {
+        "volume": "586",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27586"
+    },
+    "term": "2018",
+    "description": "A case in which the Court held that residential burglary under Arkansas law and aggravated burglary under Tennessee law are the same as \u201cgeneral burglary\u201d such that convictions for those crimes can serve as predicate crimes for the purpose of the enhanced sentencing provision of the Armed Career Criminal Act of 1984.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/586/17-765/",
+    "facts_of_the_case": "<p>In 2011, Victor Stitt tried to shove a loaded handgun into his girlfriend\u2019s mouth and threatened to kill her. A neighbor called the police, and Stitt fled but later surrendered to police. A jury found Stitt guilty of possession of a firearm as a convicted felon. In light of Stitt\u2019s nine prior \u201cviolent felony\u201d convictions, the court designated Stitt as an armed career criminal under the Armed Career Criminal Act (ACCA) and sentenced him accordingly. The ACCA applies to those felons guilty of possessing a firearm who also have at least three prior convictions for a violent felony or serious drug offense. Stitt appealed the conviction, arguing that none of his nine prior convictions constituted \u201cviolent felonies.\u201d The US Supreme Court\u2019s 2015 decision in <a href=\"https://www.oyez.org/cases/2014/13-7120\"><em>Johnson v. United States</em></a> invalidated the violent-felony status of three of his prior convictions, leaving only six aggravated-burglary convictions. The Sixth Circuit has held that Tennessee aggravated burglary is a violent felony under the ACCA, so a panel of that court affirmed the sentence. Sitting en banc, the Sixth Circuit overturned its precedent and held that a conviction for Tennessee aggravated burglary does not qualify as an ACCA violent felony.</p>\n<p>In a separate case, Jason Sims pleaded guilty to being a felon in possession of a firearm and received an enhanced sentence under the ACCA, based in part on two prior Arkansas residential burglary convictions. Sims appealed his conviction and the Eighth Circuit vacated his sentence and remanded his case for rehearing.</p>\n<p>The US Supreme Court granted certiorari in both cases and consolidated them for the purpose of oral argument. At issue in both cases is whether the elements of the state crimes of which the defendants were convicted are \u201cthe same as, or narrower than, those of the general offense.\u201d If they are broader than those of the general offense, then they cannot serve as ACCA predicate offenses.</p>\n<p>\u00a0</p>\n",
+    "conclusion": "<p>In a unanimous opinion authored by Justice Stephen Breyer, the Court held that \u201cburglary\u201d under the Armed Career Criminal Act of 1984 (ACCA) encompasses not just \u201cdwellings\u201d but also any \u201cvehicle that has been adapted or is customarily used for overnight accommodation.\u201d The general definition of burglary is \u201can unlawful or unprivileged entry into, or remaining in, a building or other structure, with intent to commit a crime.\u201d The Court previously recognized that when the ACCA was adopted in 1986, it was intended to reflect the definition of burglary used by most states. Because the statutory word \u201cstructure\u201d is broad enough to encompass vehicles, and a majority of states in 1986 included in the definition of burglary vehicles adapted for or customarily used for lodging, the defendants\u2019 state court convictions were for violent crimes within the meaning of the ACCA. The Court reversed the Sixth Circuit in <em>United States v. Stitt</em>, No. 17-765, and vacated the Eighth Circuit\u2019s decision in <em>United States v. Sims</em>, No. 17-766, remanding the case for the lower court to resolve novel state law arguments.</p>\n"
+}

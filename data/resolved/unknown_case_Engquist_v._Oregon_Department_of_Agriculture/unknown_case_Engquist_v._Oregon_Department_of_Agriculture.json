@@ -1,0 +1,42 @@
+{
+    "ID": 55500,
+    "name": "Engquist v. Oregon Department of Agriculture",
+    "href": "https://api.oyez.org/cases/2007/07-474",
+    "view_count": 0,
+    "docket_number": "07-474",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1200031200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39995"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1208754000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39996"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1212987600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39997"
+        }
+    ],
+    "question": "<p>Does the Court's ruling in <em>Village of Willowbrook v. Olech,</em> 528 U.S. 562 (2000), allow so-called \"class of one\" equal protection claims against government bodies in the context of employment discrimination?</p>\n",
+    "citation": {
+        "volume": "553",
+        "page": "591",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20770"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/553/591/",
+    "facts_of_the_case": "<p>Anup Engquist, a woman of Indian descent, brought this action against the Oregon Department of Agriculture alleging that a co-worker at the Department harassed her and eventually engineered her termination. Although Engquist asserted numerous claims, a jury in the federal district court only found in her favor on her equal protection, substantive due process, and intentional interference with employment claims.</p>\n<p>On appeal, the U.S. Court of Appeals for the Ninth Circuit struck those jury verdicts. Although the Ninth Circuit acknowledged that the Supreme Court had previously dealt with such \"class of one\" equal protection claims eight years ago in a case, <em>Village of Willowbrook v. Olech</em>, involving a village resident suing the village for unjustified zoning decisions, it refused to apply that short, two-page opinion to Engquist's claim. The Ninth Circuit reasoned that the Olech opinion may only apply when the government is in the role of regulator and did not clarify whether it would also apply in an employment context such as this one. In seeking Court review, Engquist noted the pervasive splits in the circuits regarding the proper allocation of the Court's decision in Olech, while Oregon claimed that Olech should be construed narrowly so as to avoid a deluge of petty cases against the government. Oregon also pointed out that even if the case were to be heard, Oregon would have qualified immunity and Engquist would necessarily lose.</p>\n",
+    "conclusion": "<p>No, it does not. The Court ruled 6-3 that the \"class-of-one\" theory of equal protection does not apply in the public employment context. The government enjoys significantly greater leeway in dealing with employees than it does with the public at large in its capacity as a regulator. Chief Justice John G. Roberts wrote the majority opinion.Justice John Paul Stevens authored a dissent.</p>\n"
+}

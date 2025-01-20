@@ -1,0 +1,42 @@
+{
+    "ID": 63487,
+    "name": "Health and Hospital Corporation of Marion County v. Talevski",
+    "href": "https://api.oyez.org/cases/2022/21-806",
+    "view_count": 0,
+    "docket_number": "21-806",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1651467600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55095"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1667887200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55172"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1686200400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55291"
+        }
+    ],
+    "question": "<p>May a plaintiff file a federal civil rights claim for violation of the Federal Nursing Home Reform Act, which was enacted under Congress\u2019s Spending Clause power?</p>\n",
+    "citation": {
+        "volume": "599",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27892"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held that a plaintiff may sue under Section 1983 for violation of rights secured by legislation enacted under Congress's Spending Clause power, in this case, the Federal Nursing Home Reform Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/599/21-806/",
+    "facts_of_the_case": "<p>Gorgi Talevski was living with dementia and receiving care at Valparaiso Care and Rehabilitation, a state-run nursing facility in Indiana. His wife, Ivanka Talevski, filed a lawsuit on behalf of her husband alleging that Valparaiso Care failed to provide Gorgi with adequate medical care, used psychotropic medications as unnecessary chemical restraint, and improperly discharged and transferred him, among other practices, in violation of the Federal Nursing Home Reform Act (FNHRA).</p>\n<p>The district court dismissed the action for failure to state a claim, finding that FNHRA does not provide a private right of action that may be redressed under 42 U.S.C. \u00a7 1983. On appeal, the U.S. Court of Appeals for the Seventh Circuit reversed, finding that Section 1983 has a broad purpose of providing a remedy for federal statutory and constitutional violations.</p>\n",
+    "conclusion": "<p>A plaintiff may file a federal civil rights claim for violation of the Federal Nursing Home Reform Act (FNHRA). Justice Ketanji Brown Jackson authored the 7-2 majority opinion of the Court.</p>\n<p>The Court first considered whether FNHRA can create rights enforceable through Section 1983. Section 1983 allows private parties to sue for deprivations of any any \u201crights, privileges, or immunities secured by the Constitution and laws\u201d of the United States. The phrase \u201cand laws,\u201d without modifiers, means that the rights at issue need not fall within a specific category (e.g., civil rights) or through a specific power of Congress.</p>\n<p>The Court then considered whether FNHRA unambiguously created a right to be enforced via \u00a7 1983 and concluded that it does. A law unambiguously creates a right enforceable via \u00a7 1983 if \u201cthe provision in question is \u2018phrased in terms of the persons benefited\u2019 and contains \u2018rights-creating,\u2019 individual-centric language with an \u201cunmistakable focus on the benefited class.\u201d The provisions at issue here addressing unnecessary restraint and predischarge notice pass that stringent test; they unambiguously confer rights on residents of nursing-home facilities.</p>\n<p>Finally, the Court considered whether FNHRA creates a comprehensive enforcement scheme that is incompatible with individual enforcement under \u00a7 1983. While FNHRA does have a complex enforcement scheme, that scheme is not incompatible with individual enforcement under \u00a7 1983 and does not suggest Congress intended to preclude \u00a7 1983 enforcement.</p>\n<p>Justice Neil Gorsuch wrote a concurring opinion to point out two questions the petitioners could have raised but did not and called for the resolution of those questions another time in another case.</p>\n<p>Justice Amy Coney Barrett authored a concurring opinion, in which Chief Justice John Roberts joined, cautioning that while she agreed with the disposition in this particular case, courts must \u201ctread carefully before concluding that Spending Clause statutes may be enforced through \u00a7 1983.\u201d</p>\n<p>Justice Clarence Thomas authored a dissenting opinion arguing that laws passed pursuant to Congress\u2019s spending power cannot secure rights within the meaning of \u00a7 1983.</p>\n<p>Justice Samuel Alito authored a dissenting opinion, in which Justice Thomas joined, arguing that while FNHRA does create individual rights, the remedial scheme of the Act forecloses enforcement of those rights via \u00a7 1983.</p>\n"
+}

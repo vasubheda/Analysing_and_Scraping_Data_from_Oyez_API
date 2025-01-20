@@ -1,0 +1,35 @@
+{
+    "ID": 54013,
+    "name": "Suter v. Artist M.",
+    "href": "https://api.oyez.org/cases/1991/90-1488",
+    "view_count": 0,
+    "docket_number": "90-1488",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                691653600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36884"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                701503200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36885"
+        }
+    ],
+    "question": "<p>Does the Adoption Assistance and Child Welfare Act of 1980 create a \"right\" for the purposes of 42 U.S.C. 1983, allowing children affected by a state's adoption program to bring a private suit against its administrators?</p>\n",
+    "citation": {
+        "volume": "503",
+        "page": "347",
+        "year": "1992",
+        "href": "https://api.oyez.org/case_citation/case_citation/17942"
+    },
+    "term": "1991",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/503/347/",
+    "facts_of_the_case": "<p>The Adoption Assistance and Child Welfare Act of 1980 (AACW) provides that, in order to be reimbursed for adoption and foster care services, a state must submit a plan for the administration of those services to the federal Secretary of Health and Human Services for approval. In order to be approved, the plan must be \"in effect in all\" a state's political subdivisions and \"be mandatory upon them,\" and must state that \"reasonable efforts will be made\" to prevent removal of children from their homes and to facilitate reunification of families where removal has occurred. Several children in the Illinois foster care program brought suit against the Director and the Guardianship Administrator of the Illinois program under 42 U.S.C. 1983, which provides private individuals a right to sue for \"deprivation of any rights ... secured by [federal] laws.\" They charged that Illinois had failed to make reasonable efforts to preserve and reunite families, and that it was required to do so by the AACW. The Director and Guardianship Administrator argued that the children had no standing to sue because the AACW did not create substantive rights that had to be reinforced, but merely stated what contents an administrative plan needed to have in order to receive approval. The federal District Court sided with the children, and the Seventh Circuit Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>No. In a 7-to-2 decision, the Supreme Court held that the Adoption Assistance and Child Welfare Act of 1980 only required that a state have a plan for the administration of adoption and foster care programs in order to receive federal reimbursement, not that the plan be correctly carried out. The language of the statute requiring that the plan be \"in effect in all\" political subdivisions of the state meant only that the plan had to apply to all of them, not that they were actually required to carry it out. The Secretary of Health and Human Services could reasonably withhold approval of a plan if it was clear that the plan would not be applied, but nothing in the Act suggested that Congress had intended to create a private right to sue for the enforcement of the plan.</p>\n"
+}

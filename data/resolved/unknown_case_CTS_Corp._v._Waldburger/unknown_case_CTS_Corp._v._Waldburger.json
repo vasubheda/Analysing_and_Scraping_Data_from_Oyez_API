@@ -1,0 +1,42 @@
+{
+    "ID": 62263,
+    "name": "CTS Corp. v. Waldburger",
+    "href": "https://api.oyez.org/cases/2013/13-339",
+    "view_count": 0,
+    "docket_number": "13-339",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1389333600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52625"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1398229200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52626"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1402290000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52627"
+        }
+    ],
+    "question": "<p>Did the U.S. Court of Appeals for the Fourth Circuit correctly interpret CERCLA to apply to statutes of repose as well as to statutes of limitations?</p>\n",
+    "citation": {
+        "volume": "573",
+        "page": "1",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/27059"
+    },
+    "term": "2013",
+    "description": "A case in which the Court found that the Comprehensive Environmental Response, Compensation, and Liability Act pre-empts statutes of limitations, but cannot be used to pre-empt statutes of repose.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/573/1/",
+    "facts_of_the_case": "<p>In 1980, in response to concerns about the repercussions of toxic waste dumping, Congress passed the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA), which was designed to establish a comprehensive response mechanism and to shift the cost of the clean-up to the parties responsible. In 1986, Congress amended CERCLA by adding a section stating that, if a state statute of limitations allows the period in which action may be brought to begin before the plaintiff has knowledge of the harm, CERCLA preempts the state statute and allows the period to begin only from the point at which the plaintiff has knowledge.</p>\n<p>CTS Corporation (CTS) manufactures and disposes of electronics and electronic parts. From 1959 to 1985, CTS operated the Mills Gap Road Facility (Facility) in Asheville, North Carolina, where notable quantities of carcinogenic solvents were stored. In 1987, CTS sold the Facility and promised the realtors that the property was environmentally safe and clean. Subsequently, the land was sold to David Bradley, Renee Richardson, and others (landowners), who learned that the land was contaminated and that their well water contained concentrated levels of carcinogenic solvents in 2009. The landowners sued CTS in federal district court and argued that CTS should be required to remove the toxic contaminants as well as pay monetary damages. CTS moved to dismiss the case by arguing that North Carolina's ten-year statute of limitations on real property actions resulting from physical damage to a claimant's property prevented the suit from going forward. Although the landowners argued that CERCLA preempted the limitation, the district court held that the ten-year limitation was actually a statute of repose, which limits legal action to a particular timeframe regardless of when the harm becomes apparent. The district court granted the motion to dismiss. The U.S. Court of Appeals for the Fourth Circuit reversed and held that CERCLA's preemption applied to both statutes of repose, in which a plaintiff's knowledge of the harm is not relevant to when the time period begins, as well as to statutes of limitation, in which a plaintiff's knowledge of the harm is relevant.</p>\n",
+    "conclusion": "<p>No. Justice Anthony M. Kennedy wrote the opinion for the 7-2 majority. The Court explained the differences between statutes of limitations, which begin to run when the injury was discovered, and statutes of repose, which place an absolute bar on lawsuits regardless of whether any injury has been discovered. The Court held that statutes of limitations reflect a policy of encouraging a plaintiff to pursue his or her rights diligently and may be paused if an extraordinary circumstance prevents a plaintiff from bringing his or her claim. Statutes of repose, however, reflect a policy of freeing defendants from potential liability and generally cannot be paused even in extraordinary circumstances. Although the Court recognized that Congress has used the terms interchangeably in the past, in CERCLA Congress only used the term \"statute of limitations\" despite the Study Group Report's use of both terms. Given Congress' awareness of the distinction, the Court held that CERCLA could not be extended to pre-empt \"statutes of repose.\"</p>\n<p>In Part II-D of the majority opinion, Justice Kennedy argued that when a pre-emption clause is open to more than one plausible reading, courts tend to disfavor pre-emption and interpret the clause narrowly, especially when the law covers subject matter that is traditionally covered by state law. Justice Sonia M. Sotomayor and Justice Elena Kagan joined in Part II-D. Justice Antonin G. Scalia wrote a separate concurring opinion with respect to Part II-D and argued that pre-emption clauses should be interpreted simply by applying their ordinary meaning. Chief Justice John G. Roberts, Justice Clarence Thomas, and Justice Samuel A. Alito, Jr. joined the separate concurrence.</p>\n<p>Justice Ruth Bader Ginsburg wrote a dissenting opinion in which she argued that the statute of repose was essentially a statute of limitations and should be pre-empted by CERCLA because CERCLA's purpose would be defeated if it did not pre-empt statutes of repose as well as statutes of limitations. Justice Ginsburg also wrote that the majority decision gave contaminators an incentive to conceal the hazards they have created. Justice Stephen G. Breyer joined the dissent.</p>\n"
+}

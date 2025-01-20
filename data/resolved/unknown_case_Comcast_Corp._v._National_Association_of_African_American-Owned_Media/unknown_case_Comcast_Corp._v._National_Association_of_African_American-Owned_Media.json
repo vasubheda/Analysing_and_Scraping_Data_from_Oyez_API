@@ -1,0 +1,42 @@
+{
+    "ID": 63142,
+    "name": "Comcast Corp. v. National Association of African American-Owned Media",
+    "href": "https://api.oyez.org/cases/2019/18-1171",
+    "view_count": 0,
+    "docket_number": "18-1171",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1560142800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54529"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1573624800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54604"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1584939600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54682"
+        }
+    ],
+    "question": "<p>Does a claim of race discrimination under 42 U.S.C. \u00a7 1981 require that the plaintiff show but-for causation, or only that race is a motivating factor?</p>\n",
+    "citation": {
+        "volume": "589",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27689"
+    },
+    "term": "2019",
+    "description": "A case in which the Court held that a claim of race discrimination under 42 U.S.C. \u00a7 1981 requires that the plaintiff show that race was a but-for cause of the plaintiff's injury.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/589/18-1171/",
+    "facts_of_the_case": "<p>Entertainment Studios Network (ESN), owned by African American actor and comedian Byron Allen, and the National Association of African American-Owned Media, an entity created by Allen, sued Comcast over the latter\u2019s decision not to carry ESN\u2019s channels. ESN alleged that Comcast\u2019s decision not to carry ESN\u2019s networks was based, at least in part, on racial animus against ESN, which is the only 100% African American-owned multi-channel media company in the United States. At the time of Comcast\u2019s decision, several other large distributors\u2014 including Charter Communications, Time Warner Cable, DirecTV, and AT&amp;T\u2014had also declined to enter into carriage agreements with ESN.</p>\n<p>The district court dismissed ESN\u2019s original complaint and several subsequent amended complaints against Comcast and other defendants for failure to plead facts that state a plausible claim for relief. On appeal, the U.S. Court of Appeal for the Ninth Circuit held in a related case involving Charter Communications that \u201cmixed-motive claims are cognizable under \u00a7 1981,\u201d meaning that \u201ceven if racial animus was not the but-for cause of a defendant\u2019s refusal to contract, a plaintiff can still prevail if she demonstrates that discriminatory intent was a factor in that decision.\u201d Applying this standard, the Ninth Circuit concluded that ESN had stated a valid Section 1981 claim based on its assertions that the carriers had entered into contracts with \u201cwhite-owned, lesser-known networks during the same period.\u201d</p>\n<p>The Ninth Circuit declined petitions for rehearing en banc.</p>\n",
+    "conclusion": "<p>A plaintiff who sues for racial discrimination under 42 U.S.C. \u00a7 1981 must show\u2014in all parts of the lawsuit\u2014that race was the actual cause of her injury. Justice Neil Gorsuch authored the opinion for the unanimous Court. The Court noted from the outset that normally, a plaintiff suing for an injury must prove actual causation (also called \u201cbut-for\u201d causation), and that burden of proof remains constant throughout the life of the lawsuit. The Court rejected Entertainment Studios Network (ESN)\u2019s argument that \u00a7 1981 creates an exception to these default principles, finding that the statute\u2019s text and history, as well as the Court\u2019s precedent, support reading it as following the normal rules. Although Title VII of the Civil Rights Act of 1964 allows for a \u201cmotivating factor\u201d causation test, the history of that statute is unique and does not apply to \u00a7 1981. Because \u00a7 1981 follows the usual rules, a plaintiff must initially plead and ultimately prove that, but for race, the plaintiff would not have suffered the loss of a legally protected right.</p>\n<p>Justice Ruth Bader Ginsburg wrote an opinion concurring in part and concurring in the judgment, in which she noted her disagreement with a strict but-for causation standard in discrimination cases such as this one but acknowledged the Court\u2019s own precedent otherwise. Justice Ginsburg further clarified that she rejected (and the Court did not resolve) Comcast\u2019s narrow view of the scope of \u00a7 1981, that it applies only to the final decision whether to enter a contract and not to earlier stages of the contract-formation process.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55750,
+    "name": "Freeman v. United States",
+    "href": "https://api.oyez.org/cases/2010/09-10245",
+    "view_count": 0,
+    "docket_number": "09-10245",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1285650000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40657"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1298440800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40658"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1308805200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40659"
+        }
+    ],
+    "question": "<p>Does a federal judge have the authority to reduce a criminal sentence after the U.S. Sentencing Commission amends the Sentencing Guidelines if the judge has already accepted a plea agreement?</p>\n",
+    "citation": {
+        "volume": "564",
+        "page": null,
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19672"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that a federal judge has the authority to reduce a criminal sentence after the U.S. Sentencing Commission amended the Sentencing Guidelines if the judge has already accepted a plea agreement.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/564/522/",
+    "facts_of_the_case": "<p>William Freeman was charged with one count of crack possession, among other charges, and entered a plea agreement that included a sentence of 106 months. After his agreement was accepted by the trial judge and his sentence was entered, the U.S. Sentencing Commission amended the Sentencing Guidelines to reduce the disparity in the treatment of crack and powder cocaine, and made the amendment retroactive. Freeman sought to reduce his sentence accordingly.</p>\n<p>But in December 2008, the U.S. District Court for the Western District of Kentucky refused to do so. In November 2009, the U.S. Court of Appeals for the Sixth Circuit affirmed.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court reversed and remanded the lower court order in a plurality opinion. \"The Justices who join this plurality opinion conclude that the categorical bar enacted by the Court of Appeals finds no support in \u00a73582(c)(2), Rule11(c)(1)(C), or the relevant Guidelines policy statements,\" Justice Anthony Kennedy wrote. In the controlling opinion, Justice Sonia Sotomayor noted: \"In my view, the term of imprisonment imposed by a district court pursuant to an agreement authorized by Federal Rule of Criminal Procedure 11(c)(1)(C) ((C) agreement) is 'based on' the agreement itself, not on the judge's calculation of the Sentencing Guidelines.\" Meanwhile, Chief Justice John Roberts dissented, joined by Justices Antonin Scalia, Clarence Thomas and Samuel Alito. \"I agree with the concurrence that the sentence imposed under a Rule 11(c)(1)(C) plea agreement is based on the agreement, not the Sentencing Guidelines,\" Roberts wrote. \"I would, however, adhere to that logic regardless whether the agreement could be said to 'use' or 'employ' a Guidelines range in arriving at the particular sentence specified in the agreement.\"</p>\n"
+}

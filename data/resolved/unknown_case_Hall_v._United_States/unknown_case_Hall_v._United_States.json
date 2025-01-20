@@ -1,0 +1,42 @@
+{
+    "ID": 55894,
+    "name": "Hall v. United States",
+    "href": "https://api.oyez.org/cases/2011/10-875",
+    "view_count": 0,
+    "docket_number": "10-875",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1307941200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41045"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1322546400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41046"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1336971600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41047"
+        }
+    ],
+    "question": "<p>Does 11 U.S.C. 1222(a)(2)(A) authorize the bankruptcy court to treat a federal tax debt arising out of the debtor's post-petition sale of a farm asset as a dischargeable debt \"incurred by the estate\"?</p>\n",
+    "citation": {
+        "volume": "566",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19816"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that assets sold by a debtor in bankruptcy proceedings does not count as a separately taxable estate in Chapter 12 bankruptcies.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/566/506/",
+    "facts_of_the_case": "<p>Lynwood and Brenda Hall filed for Chapter 12 bankruptcy and were forced to sell their family farm for $960,000 to settle their bankruptcy debts. That sale brought about capital gains taxes of $29,000. The Halls wanted the taxes treated as part of the bankruptcy, paying part of the debt and having the court discharge the rest. They argued that the taxes were dischargeable as a debt \"incurred by the estate\". The IRS objected to that plan, saying all of the taxes must be paid. The U.S. Court of Appeals for the Ninth Circuit agreed, ruling that the Halls had to pay federal income tax on the gain from the sale of their farm during bankruptcy proceedings.</p>\n",
+    "conclusion": "<p>No. Justice Sonia Sotomayor, writing for a 5-4 majority, affirmed the court of appeals. The Supreme Court held that there is no separately taxable estate in Chapter 12 bankruptcies, so the taxes in question were not \"incurred by the estate\". The debtor remains liable for these taxes independent of the bankruptcy proceedings. The Court noted that the Hall's position is sympathetic, but the plain language of the statute does not allow a ruling in their favor. Congress is free to amend the statute if they are unhappy with this result.</p>\n<p>Justice Stephen G. Breyer dissented, arguing that the majority's decision goes against the purpose of Chapter 12, which is to allow family farmers to reorganize debts without losing their farms. Justice Breyer read the statute's language more broadly to fit this purpose and allow discharge of the tax debt. Justices Anthony M. Kennedy, Ruth Bader Ginsburg, and Elena Kagan joined in the dissent.</p>\n"
+}

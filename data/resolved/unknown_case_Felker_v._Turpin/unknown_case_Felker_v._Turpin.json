@@ -1,0 +1,35 @@
+{
+    "ID": 54397,
+    "name": "Felker v. Turpin",
+    "href": "https://api.oyez.org/cases/1995/95-8836",
+    "view_count": 0,
+    "docket_number": "95-8836",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                833778000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37610"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                835938000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37611"
+        }
+    ],
+    "question": "<p>Do the Act's Title I provisions, preventing the Supreme Court from reviewing an appellate review panel's denial of leave to file a second habeas petition, unconstitutionally \"suspend\" the habeas writ and restrict the Court's authority to entertain original habeas petitions?</p>\n",
+    "citation": {
+        "volume": "518",
+        "page": "651",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18326"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/518/651/",
+    "facts_of_the_case": "<p>Ellis Felker filed a petition for writ of habeas corpus, appellate or certiorari review, and stay of execution after having his convictions for capital murder, rape, aggravated sodomy, and false imprisonment affirmed on appeal. Felker's habeas petition challenged the constitutionality of Title I of the Antiterrorism and Effective Death Penalty Act of 1996 (the \"Act\"). Title I of the Act requires that all motions for filing a second or successive habeas appeal from a district court be reviewed by an appellate panel whose decision shall not be appealable by writ of certiorari to the Supreme Court.</p>\n",
+    "conclusion": "<p>No. The unanimous Court held that the Act's creation of an appellate panel, charged with reviewing all second or successive habeas applications, is not unconstitutional. The Act simply transfers the duty of habeas review from the district courts to an appellate panel. While the Act prevents an appeal to the Court from an appellate panel's denial of leave to file a second habeas petition, it does not repeal the Court's authority to entertain original habeas petitions. Thus, the shift in habeas \"gatekeeping\" duties to an appellate panel is neither an unconstitutional \"suspension\" of the habeas writ which would violate the Exceptions Clause of Article III, nor a deprivation of the Court's appellate jurisdiction.</p>\n"
+}

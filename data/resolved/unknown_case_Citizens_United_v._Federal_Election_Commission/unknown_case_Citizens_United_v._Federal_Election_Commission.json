@@ -1,0 +1,49 @@
+{
+    "ID": 55589,
+    "name": "Citizens United v. Federal Election Commission",
+    "href": "https://api.oyez.org/cases/2008/08-205",
+    "view_count": 0,
+    "docket_number": "08-205",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1226642400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40241"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1237870800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52575"
+        },
+        {
+            "event": "Reargued",
+            "dates": [
+                1252472400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51889"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1264053600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52576"
+        }
+    ],
+    "question": "<p>1) Did the Supreme Court's decision in <em>McConnell</em> resolve all constitutional as-applied challenges to the BCRA when it upheld the disclosure requirements of the statute as constitutional?</p>\n<p>2) Do the BCRA's disclosure requirements impose an unconstitutional burden when applied to electioneering requirements because they are protected \"political speech\" and not subject to regulation as \"campaign speech\"?</p>\n<p>3) If a communication lacks a clear plea to vote for or against a particular candidate, is it subject to regulation under the BCRA?</p>\n<p>4) Should a feature length documentary about a candidate for political office be treated like the advertisements at issue in <em>McConnell</em> and therefore be subject to regulation under the BCRA?</p>\n",
+    "citation": {
+        "volume": "558",
+        "page": "310",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19512"
+    },
+    "term": "2008",
+    "description": "A case in which the Court held that corporate funding of independent political broadcasts in elections cannot be limited under the First Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/558/310/",
+    "facts_of_the_case": "<p>Citizens United sought an injunction against the Federal Election Commission in the United States District Court for the District of Columbia to prevent the application of the Bipartisan Campaign Reform Act (BCRA) to its film <em>Hillary: The Movie</em>. <em>The Movie</em> expressed opinions about whether Senator Hillary Rodham Clinton would make a good president.</p>\n<p>In an attempt to regulate \"big money\" campaign contributions, the BCRA applies a variety of restrictions to \"electioneering communications.\" Section 203 of the BCRA prevents corporations or labor unions from funding such communication from their general treasuries. Sections 201 and 311 require the disclosure of donors to such communication and a disclaimer when the communication is not authorized by the candidate it intends to support.</p>\n<p>Citizens United argued that: 1) Section 203 violates the First Amendment on its face and when applied to <em>The Movie</em> and its related advertisements, and that 2) Sections 201 and 203 are also unconstitutional as applied to the circumstances.</p>\n<p>The United States District Court denied the injunction. Section 203 on its face was not unconstitutional because the Supreme Court in <em>McConnell v. FEC</em> had already reached that determination. The District Court also held that <em>The Movie</em> was the functional equivalent of express advocacy, as it attempted to inform voters that Senator Clinton was unfit for office, and thus Section 203 was not unconstitutionally applied. Lastly, it held that Sections 201 and 203 were not unconstitutional as applied to the <em>The Movie</em> or its advertisements. The court reasoned that the <em>McConnell</em> decision recognized that disclosure of donors \"might be unconstitutional if it imposed an unconstitutional burden on the freedom to associate in support of a particular cause,\" but those circumstances did not exist in Citizen United's claim.</p>\n",
+    "conclusion": "<p>No. No. Yes. Yes. The Supreme Court overruled <em>Austin v. Michigan Chamber of Commerce</em> and portions of <em>McConnell v. FEC</em>. (In the prior cases, the Court had held that political speech may be banned based on the speaker's corporate identity.) By a 5-to-4 vote along ideological lines, the majority held that under the First Amendment corporate funding of independent political broadcasts in candidate elections cannot be limited. Justice Anthony M. Kennedy wrote for the majority joined by Chief Justice John G. Roberts and Justices Antonin G. Scalia, Samuel A. Alito, and Clarence Thomas. Justice John Paul Stevens dissented, joined by Justices Ruth Bader Ginsburg, Stephen G. Breyer, and Sonia Sotomayor. The majority maintained that political speech is indispensable to a democracy, which is no less true because the speech comes from a corporation. The majority also held that the BCRA's disclosure requirements as applied to <em>The Movie</em> were constitutional, reasoning that disclosure is justified by a \"governmental interest\" in providing the \"electorate with information\" about election-related spending resources. The Court also upheld the disclosure requirements for political advertising sponsors and it upheld the ban on direct contributions to candidates from corporations and unions.</p>\n<p>In a separate concurring opinion, Chief Justice Roberts, joined by Justice Alito, emphasized the care with which the Court handles constitutional issues and its attempts to avoid constitutional issues when at all possible. Here, the Court had no narrower grounds upon which to rule, except to handle the First Amendment issues embodied within the case. Justice Scalia also wrote a separate concurring opinion, joined by Justices Alito and Thomas in part, criticizing Justice Stevens' understanding of the Framer's view towards corporations. Justice Stevens argued that corporations are not members of society and that there are compelling governmental interests to curb corporations' ability to spend money during local and national elections.</p>\n"
+}

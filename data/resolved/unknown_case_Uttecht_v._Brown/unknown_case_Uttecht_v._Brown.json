@@ -1,0 +1,42 @@
+{
+    "ID": 55441,
+    "name": "Uttecht v. Brown",
+    "href": "https://api.oyez.org/cases/2006/06-413",
+    "view_count": 0,
+    "docket_number": "06-413",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1168581600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39830"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1176786000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39831"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1180933200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39832"
+        }
+    ],
+    "question": "<p>Did the U.S. Court of Appeals for the Ninth Circuit fail to give proper deference to a trial judge's dismissal of a juror on the grounds that he could not carry out the duties of a juror in a capital sentencing case?</p>\n",
+    "citation": {
+        "volume": "551",
+        "page": "1",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20700"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/551/1/",
+    "facts_of_the_case": "<p>A Washington State jury sentenced Cal Brown to death for murder. Brown protested that unfair jury selection had guaranteed a \"verdict of death.\" One potential juror who expressed willingness to impose the death penalty only in \"severe situations\" was dismissed by the judge for cause. The Washington Supreme Court upheld the dismissal.</p>\n<p>Brown appealed first to a federal district court and then to the U.S. Court of Appeals for the Ninth Circuit, which ruled that the dismissed juror was not \"substantially impaired\" in his ability to follow the law. Supreme Court precedent required that jurors only be dismissed if their personal views prevent them from performing their duties. The prosecution unsuccessfully petitioned for the Ninth Circuit to rehear the case en banc on the ground that the Anti-Terrorism and Effective Death Penalty Act required appeals courts to give deference to trial judges' evaluations of jurors.</p>\n",
+    "conclusion": "<p>Yes. The Court reversed the Ninth Circuit and ruled that appellate courts \"owe deference to the trial court, which is in a superior position to determine the demeanor and qualifications of a potential juror.\" Justice Anthony Kennedy wrote the opinion for the 5-4 majority. The substance of the potential juror's comments had indicated confusion over the proper application of Washington's death penalty law, so the trial court had acted reasonably when it found the juror substantially impaired and excused him. The Court held that the trial judge was especially entitled to deference because the trial judge, unlike appellate judges, has access to contextual information that is not reflected in the transcript of the jury selection questioning. The Court also considered it significant that, although the defense counsel vigorously objected to other juror dismissals, he originally made no objection to the dismissal of the juror at issue in the subsequent appeal. Justice John Paul Stevens argued in dissent that \"the Court has fundamentally redefined--or maybe just misunderstood--the meaning of 'substantially impaired,' and, in doing so, has gotten it horribly backwards.\"</p>\n"
+}

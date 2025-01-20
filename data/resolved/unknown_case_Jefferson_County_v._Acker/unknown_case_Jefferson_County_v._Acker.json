@@ -1,0 +1,35 @@
+{
+    "ID": 54676,
+    "name": "Jefferson County v. Acker",
+    "href": "https://api.oyez.org/cases/1998/98-10",
+    "view_count": 0,
+    "docket_number": "98-10",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                922687200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38127"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                929941200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38128"
+        }
+    ],
+    "question": "<p>May Jefferson County impose a \"license or privilege tax\" upon two U.S. District Judges? Was the dispute properly transferred to the federal district court under the federal officer removal statute? Does the Tax Injunction Act deprive the district court of jurisdiction to adjudicate the matter?</p>\n",
+    "citation": {
+        "volume": "527",
+        "page": "423",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18605"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/527/423/",
+    "facts_of_the_case": "<p>Two U.S. District Judges, William M. Acker, Jr., and U. W. Clemon, who maintain their principal offices in Jefferson County, Alabama, resisted payment of a state-approved, county-authorized occupational tax on the ground that it violates the intergovernmental tax immunity doctrine. The county instituted collection suits in Alabama small claims court against the judges, who removed the suits to the Federal District Court under the federal officer removal statute. The federal court denied the county's motions to remand and granted summary judgment for the judges, holding the county tax unconstitutional under the intergovernmental tax immunity doctrine to the extent that it reached federal judges' compensation. The en banc Court of Appeals affirmed. The U.S. Supreme Court granted Jefferson County's initial petition for certiorari and remanded for further consideration of whether the Tax Injunction Act deprived the District Court of jurisdiction to adjudicate the matter. On remand, the Court of Appeals adhered to its prior en banc decision. Certiorari was granted again to consider whether the removal from state court to federal court was unauthorized by the federal officer removal statute, the Tax Injunction Act issue, and the merits of the case.</p>\n",
+    "conclusion": "<p>Yes, yes, and no. In an opinion delivered by Justice Ruth Bader Ginsburg, the Court held that Jefferson County may impose an occupation tax on the U.S. District Judges, for \"Jefferson County's tax operates as a nondiscriminatory tax on the judges' compensation, to which the Public Salary Tax Act of 1939 consents when it allows States to tax the pay that federal employees receive if the taxation does not discriminate against [that] employee because of the source of the pay or compensation.\" Further, the Court held that the case was properly removed under the federal officer removal statute because the Jefferson County tax effects the judges' \"performance of federal judicial duties in the county and risks interfering with the Federal Judiciary's operation in violation of the intergovernmental tax immunity doctrine.\" The Court also concluded that the Tax Injunction Act did not bar federal-court adjudication of the matter.</p>\n"
+}

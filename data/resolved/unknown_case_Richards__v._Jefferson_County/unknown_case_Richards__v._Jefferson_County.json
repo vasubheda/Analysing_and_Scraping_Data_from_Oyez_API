@@ -1,0 +1,35 @@
+{
+    "ID": 54463,
+    "name": "Richards  v. Jefferson County",
+    "href": "https://api.oyez.org/cases/1995/95-386",
+    "view_count": 0,
+    "docket_number": "95-386",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                827820000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37730"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                834382800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37731"
+        }
+    ],
+    "question": "<p>May the Alabama residents, who claim that the Jefferson County occupation tax violates the Federal and Alabama Constitutions, proceed with their class action suit in court in light of a prior, similar adjudication?</p>\n",
+    "citation": {
+        "volume": "517",
+        "page": "793",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18392"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/517/793/",
+    "facts_of_the_case": "<p>Jason Richards and others, who are privately employed in Jefferson County, filed a state court class action suit claiming that the county's occupation tax violates the Federal and Alabama Constitutions. The Alabama trial court found that their state claims were barred by a prior adjudication, Bedingfield v. Jefferson County. The unsuccessful Bedingfield adjudication of the tax was brought by Birmingham's acting finance director and the city itself, consolidated with a suit by three county taxpayers. However, the court found that their federal claims had not been decided in that case. On appeal, the county argued that the federal claims were also barred. The State Supreme Court agreed, concluding that the doctrine of res judicata applied because Richard and others were adequately represented in the Bedingfield action.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous decision, authored by Justice John Paul Stevens, the Court ruled that because Richards and others received neither notice of, nor sufficient representation in, the Bedingfield litigation, that adjudication, as a matter of federal due process, may not bind them and thus cannot bar them from challenging an allegedly unconstitutional deprivation of their property.</p>\n"
+}

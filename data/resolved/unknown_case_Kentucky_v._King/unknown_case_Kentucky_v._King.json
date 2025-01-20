@@ -1,0 +1,42 @@
+{
+    "ID": 55777,
+    "name": "Kentucky v. King",
+    "href": "https://api.oyez.org/cases/2010/09-1272",
+    "view_count": 0,
+    "docket_number": "09-1272",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1285650000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40731"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1294812000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40732"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1305522000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40733"
+        }
+    ],
+    "question": "<p>Does the exclusionary rule, which forbids the use of illegally seized evidence except in emergency situations, apply when the emergency is created by lawful police actions?</p>\n",
+    "citation": {
+        "volume": "563",
+        "page": "452",
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19699"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held the exclusionary rule, which forbids the use of illegally seized evidence except in emergency situations, applies when the emergency is created by lawful police action.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/563/452/",
+    "facts_of_the_case": "<p>Police officers in Lexington, Ky., entered an apartment building in pursuit of a suspect who sold crack cocaine to an undercover informant. The officers lost sight of the suspect and mistakenly assumed he entered an apartment from which they could detect the odor of marijuana. After police knocked on the door and identified themselves, they heard movements, which they believed indicated evidence was about to be destroyed. Police forcibly entered the apartment and found Hollis King and others smoking marijuana. They also found cash, drugs and paraphernalia. King entered a conditional guilty plea; reserving his right to appeal denial of his motion to suppress evidence obtained from what he argued was an illegal search.</p>\n<p>The Kentucky Court of Appeals affirmed the conviction, holding that exigent circumstances supporting the warrantless search were not of the police's making and that police did not engage in deliberate and intentional conduct to evade the warrant requirement. In January 2010, the Kentucky Supreme Court reversed the lower court order, finding that the entry was improper. The court held that the police were not in pursuit of a fleeing suspect when they entered the apartment, since there was no evidence that the original suspect even knew he was being followed by police.</p>\n",
+    "conclusion": "<p>The Supreme Court reversed and remanded the lower court order in a decision by Justice Samuel Alito. \"The exigent circumstances rule applies when the police do not create the exigency by engaging or threatening to engage in conduct that violates the Fourth Amendment,\" Alito wrote for the majority. Justice Ruth Bader Ginsburg dissented, contending that \"the Court today arms the police with a way routinely to dishonor the Fourth Amendment's warrant requirement in drug cases. \"</p>\n"
+}

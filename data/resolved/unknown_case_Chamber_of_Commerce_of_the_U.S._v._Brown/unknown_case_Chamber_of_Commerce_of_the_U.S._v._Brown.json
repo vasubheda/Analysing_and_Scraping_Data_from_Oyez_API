@@ -1,0 +1,42 @@
+{
+    "ID": 55501,
+    "name": "Chamber of Commerce of the U.S. v. Brown",
+    "href": "https://api.oyez.org/cases/2007/06-939",
+    "view_count": 0,
+    "docket_number": "06-939",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1195538400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39998"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1205902800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39999"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1213851600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40000"
+        }
+    ],
+    "question": "<p>Does the National Labor Relations Act, which states that companies' anti-labor speech can only be considered unfair labor practice if it threatens or coerces workers, preempt state laws prohibiting the use of state funds to \"assist, promote, or deter union organizing,\" even if the public funds are transparently segregated?</p>\n",
+    "citation": {
+        "volume": "554",
+        "page": "60",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/19424"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/554/60/",
+    "facts_of_the_case": "<p>After the California legislature passed laws prohibiting the use of state funds to \"assist, promote, or deter union organizing,\" a group of California companies brought suit claiming the state laws were preempted by the National Labor Relations Act, 29 U.S.C. Section 7. The Act provides that companies' anti-labor speech can only be considered evidence of unfair labor practice if it threatens or coerces workers. The California companies argued that the state laws infringe upon their \"safe harbor\" for anti-labor speech embodied in the Act.</p>\n<p>The U.S. Court of Appeals for the Ninth Circuit, after entering two panel decisions holding the California law preempted, issued a split en banc opinion holding that it was not. The Second Circuit has reached the opposite conclusion on similar facts. The Court's decision in this case will affect roughly a dozen other states currently considering adopting legislation substantially similar to the California law.</p>\n",
+    "conclusion": "<p>Yes. In a 7-2 opinion, the Court held the California laws preempted by the National Labor Relations Act because the state laws regulated within \"a zone protected and reserved for market freedom.\" Justice John Paul Stevens, writing for the Court, viewed the Act as showing a \"congressional intent to encourage free debate on issues dividing labor and management.\" Justice Stephen Breyer, joined by Justice Ruth Bader Ginsburg, dissented, arguing that the California laws dealt with funding, not regulation, and did not impermissibly discourage labor-related speech. Employers are still free under the laws to spend their own money on such speech.</p>\n"
+}

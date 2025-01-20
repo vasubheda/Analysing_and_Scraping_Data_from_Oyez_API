@@ -1,0 +1,35 @@
+{
+    "ID": 54946,
+    "name": "Swierkiewicz v. Sorema N.A.",
+    "href": "https://api.oyez.org/cases/2001/00-1853",
+    "view_count": 0,
+    "docket_number": "00-1853",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1011074400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38629"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1014703200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38630"
+        }
+    ],
+    "question": "<p>Must a complaint in an employment discrimination lawsuit contain specific facts establishing a prima facie case of discrimination?</p>\n",
+    "citation": {
+        "volume": "534",
+        "page": "506",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/18875"
+    },
+    "term": "2001",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/534/506/",
+    "facts_of_the_case": "<p>Akos Swierkiewicz, a 53-year-old native of Hungary, began working for Sorema N. A., a reinsurance company principally owned and controlled by a French parent corporation, in 1989. Six years later, the Chief Executive Officer, a French national, demoted Swierkiewicz from the position of senior vice president and chief underwriting officer to a marketing and services position with fewer responsibilities. A younger French national was promoted to Swierkiewicz's old position. Swierkiewicz filed suit, alleging that he had been fired on account of his national origin in violation of Title VII of the Civil Rights Act of 1964,and on account of his age in violation of the Age Discrimination in Employment Act of 1967 (ADEA). In dismissing the case, the District Court found that Swierkiewicz had not adequately alleged a prima facie case, in that he had not adequately alleged circumstances that support an inference of discrimination. In affirming, the Court of Appeals relied on precedent requiring an employment discrimination complaint to allege facts constituting a prima facie case of discrimination under McDonnell Douglas Corp. v. Green, 411 U.S. 792.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Clarence Thomas, the Court held that an employment discrimination complaint need not include specific facts establishing a prima facie case under the framework of McDonnell Douglas Corp. v. Green and instead must contain only \"a short and plain statement of the claim showing that the pleader is entitled to relief,\" pursuant to Rule 8(a)(2) of the Federal Rules of Civil Procedure. Justice Thomas noted that the prima facie case operates as a flexible evidentiary standard and not a pleading requirement for discrimination cases. \"Under the Second Circuit's heightened pleading standard, a plaintiff without direct evidence of discrimination at the time of his complaint must plead a prima facie case of discrimination, even though discovery might uncover such direct evidence,\" wrote Justice Thomas. \"It thus seems incongruous to require a plaintiff, in order to survive a motion to dismiss, to plead more facts than he may ultimately need to prove to succeed on the merits if direct evidence of discrimination is discovered.\"</p>\n"
+}

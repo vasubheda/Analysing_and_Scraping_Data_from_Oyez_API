@@ -1,0 +1,42 @@
+{
+    "ID": 62904,
+    "name": "Dahda v. United States",
+    "href": "https://api.oyez.org/cases/2017/17-43",
+    "view_count": 0,
+    "docket_number": "17-43",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1508130000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54136"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1519192800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54181"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1526274000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54269"
+        }
+    ],
+    "question": "<p>Does Title III of the Omnibus Crime Control and Safe Streets Act of 1968 require suppression of evidence obtained pursuant to a wiretap order that is facially deficient because it exceeds the judge\u2019s territorial jurisdiction?</p>\n",
+    "citation": {
+        "volume": "584",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27546"
+    },
+    "term": "2017",
+    "description": "A case in which the Court decided that wiretap orders authorized by a judge for the federal district of Kansas in a government investigation of a suspected Kansas drug distribution ring were not facially insufficient because they did not lack any information that the wiretap statute required them to include, and because the challenged language permitting interception outside the court\u2019s territorial jurisdiction was surplus.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/584/17-43/",
+    "facts_of_the_case": "<p>Los and Roosevelt Dahda \u2013 twin brothers \u2013 were indicted on charges that they had conspired to acquire and distribute marijuana. Much of the evidence against the Dahdas was obtained through wiretaps of cell phones used by the co-conspirators, including the Dahdas. The wiretaps arose out of nine orders issued by a federal district court in Kansas. Prior to trial, the Dahdas brothers moved to suppress the information obtained from the wiretaps on the grounds that the wiretap orders exceeded the district court's territorial jurisdiction. The trial court rejected that argument, and both were found guilty and sentenced.</p>\n<p>The Tenth Circuit upheld the decision allowing evidence from the cellphones to be used against the brothers. Although the court of appeals agreed that the wiretap orders exceeded the district court's territorial jurisdiction, it held that such defect did not \"directly and substantially affect a congressional intention to limit wiretapping. The court identified two \u201ccore concerns\u201d of Title III of the Omnibus Crime Control and Safe Streets Act of 1968\u2014privacy and uniformity\u2014that were not implicated by the Dahdas\u2019 argument that the order exceeded the Kansas district court\u2019s jurisdiction.</p>\n",
+    "conclusion": "<p>A unanimous Court, with the exception of Justice Gorsuch who took no part in the opinion, affirmed the 10th Circuit\u2019s ruling, but with different reasoning than the appellate court had used. In an opinion authored by Justice Breyer, the Court explained that the 10th Circuit had incorrectly applied United States v. Giordano, 416 U. S. 505, 527 (1974) in deciding the case. Giordano and its \u201ccore concerns\u201d test only applied to the first subsection of the statutory provision at issue, which dealt with \u201cunlawfully intercepted\u201d communications, where in this case, the second subsection, regarding facially insufficient wiretap orders, was the portion in dispute.</p>\n<p>The Court went on to hold that the wiretap orders authorized by the Kansas district court judge were not facially insufficient because they were not lacking any information that the wiretap statute required them to include, noting that \u201cnot every defect results in an insufficiency.\u201d The Court also explained that the challenged language authorizing interception outside the court\u2019s territorial jurisdiction was surplus, and thus did not render the orders facially insufficient.</p>\n"
+}

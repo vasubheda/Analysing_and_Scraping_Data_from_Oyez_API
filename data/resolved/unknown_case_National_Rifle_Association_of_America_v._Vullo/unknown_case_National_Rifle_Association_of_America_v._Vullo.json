@@ -1,0 +1,42 @@
+{
+    "ID": 63624,
+    "name": "National Rifle Association of America v. Vullo",
+    "href": "https://api.oyez.org/cases/2023/22-842",
+    "view_count": 0,
+    "docket_number": "22-842",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1698987600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55362"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1710738000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55417"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1717045200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55466"
+        }
+    ],
+    "question": "<p>Does a New York regulator\u2019s discouragement of companies from doing business with the National Rifle Association after the Parkland school shooting constitute coercion in violation of the First Amendment?</p>\n",
+    "citation": {
+        "volume": "602",
+        "page": null,
+        "year": "2024",
+        "href": "https://api.oyez.org/case_citation/case_citation/27988"
+    },
+    "term": "2023",
+    "description": "A case in which the Court permitted the National Rifle Association's lawsuit to proceed where it plausibly alleged that the New York State Department of Financial Services (DFS) violated the First Amendment by coercing regulated entities to terminate their business relationships with the NRA in order to punish or suppress the NRA\u2019s gun-promotion advocacy.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/602/22-842/",
+    "facts_of_the_case": "<p>In October 2017, following a referral from the New York County District Attorney's Office, the New York State Department of Financial Services (DFS), under the leadership of Maria T. Vullo, initiated an investigation into NRA-endorsed insurance programs suspected of violating New York law. This scrutiny resulted in three insurance companies acknowledging their fault through consent decrees in 2018. Concurrently, after the Parkland school shooting, Vullo issued guidance and statements encouraging banks and insurers to assess and potentially end their affiliations with gun promotion organizations like the NRA, citing reputational risks. The fallout led to several firms cutting ties with the NRA, prompting the association to file a lawsuit against Vullo and other state officials, asserting violations of its free speech and equal protection rights.</p>\n<p>The district court dismissed most of the claims but allowed the First Amendment allegations against Vullo to proceed, citing unresolved factual questions about her qualified immunity. On appeal, the U.S. Court of Appeals for the Second Circuit reversed. The appellate court reasoned that while the First Amendment protects against the abridgment of free speech by government officials, these officials also have the responsibility to address public concerns. Here, the NRA failed to show that Vullo\u2019s conduct sought to coerce, rather than merely to convince. Furthermore, even if her actions were coercive, Vullo\u2019s conduct as a regulator and public official did not infringe upon any clearly established law, as she appeared to act reasonably and in good faith in performing her duties.</p>\n",
+    "conclusion": "<p>The NRA plausibly alleged that the New York State Department of Financial Services (DFS) violated the First Amendment by coercing regulated entities to terminate their business relationships with the NRA in order to punish or suppress the NRA\u2019s gun-promotion advocacy. Justice Sonia Sotomayor authored the unanimous opinion of the Court.</p>\n<p>Government officials are free to criticize particular viewpoints and try to persuade others, but they cannot use state power to punish or suppress disfavored speech. Under the 1963 case Bantam Books v. Sullivan, the key question is whether, based on the totality of the circumstances, the government official\u2019s actions could reasonably be understood as a threat of adverse consequences aimed at coercing a private party to punish or suppress someone else's speech on the government's behalf. Factors to consider include the official's regulatory authority, the language and tone of the communications, how they were perceived, and whether they referred to adverse consequences.</p>\n<p>Here, the NRA plausibly alleged coercion based on Vullo\u2019s broad regulatory and enforcement powers over entities like Lloyd\u2019s of London, her alleged statements pressuring Lloyd\u2019s and other insurance entities to cut ties with the NRA and other gun-promotion groups in exchange for leniency on unrelated infractions, and how those entities reacted to that pressure. Although Vullo was entitled to enforce state insurance law, she could not leverage that power to stifle the NRA\u2019s advocacy. At this preliminary (motion to dismiss) stage of the case, a court must assume the NRA\u2019s factual allegations were true, so the Court rejected Vullo\u2019s arguments that she was engaged only in government speech and legitimate enforcement.</p>\n<p>Justice Neil Gorsuch authored a concurring opinion to reiterate that the Court merely reaffirms a well-settled principle: \u201cA government official cannot coerce a private party to punish or suppress disfavored speech on her behalf.\u201d</p>\n<p>Justice Ketanji Brown Jackson authored a concurring opinion to highlight the distinction between government coercion and a violation of the First Amendment\u2014specifically that the fact of coercion, without more, does not state a First Amendment claim.</p>\n"
+}

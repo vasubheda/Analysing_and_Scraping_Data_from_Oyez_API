@@ -1,0 +1,35 @@
+{
+    "ID": 54923,
+    "name": "National Labor Relations Board v. Kentucky River Community Care, Inc.",
+    "href": "https://api.oyez.org/cases/2000/99-1815",
+    "view_count": 0,
+    "docket_number": "99-1815",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                982735200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38586"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                991112400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38587"
+        }
+    ],
+    "question": "<p>Does the party claiming that an employee is a supervisor bear the burden of proving supervisor status in a representation hearing and unfair labor practice proceeding under the National Labor Relations Act? Under the National Labor Relations Act, is judgment \"independent judgment\" when it is informed by professional or technical training or experience?</p>\n",
+    "citation": {
+        "volume": "532",
+        "page": "706",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18852"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/532/706/",
+    "facts_of_the_case": "<p>In 1997, a labor union petitioned the National Labor Relations Board (NLRB) to represent a unit of all the employees at the Caney Creek Developmental Complex, which is operated by Kentucky River Community Care, Inc. Kentucky River objected to the inclusion of its registered nurses in the unit because they were \"supervisors\" under National Labor Relations Act (NLRA). Under the NLRA, employees are deemed to be \"supervisors\" and thereby excluded from the NLRA if they exercise \"independent judgment\" in \"responsibly...directing\" other employees \"in the interest of the employer.\" At the ensuing representation hearing, the NLRB placed the burden of proving supervisory status on Kentucky River and found that it had not carried its burden. The NLRB rejected Kentucky River's proof of supervisory status on the ground that employees do not use \"independent judgment\" under the NLRA when they exercise \"ordinary professional or technical judgment in directing less-skilled employees to deliver services in accordance with employer-specified standards.\" Kentucky River then refused to bargain with the union. Ultimately, the Court of Appeals refused to enforce a bargaining order issued by the NLRB at an unfair labor practice proceeding. The court rejected the NLRB's interpretation of \"independent judgment\" under the NLRA's test for supervisory status and held that NLRB had erred in placing the burden of proving supervisory status on Kentucky River.</p>\n",
+    "conclusion": "<p>Yes and no. In a unanimous opinion delivered by Justice Antonin Scalia, the Court held that the burden of proving the applicability of the supervisory exception of the Act falls on the party asserting it. Justice Scalia wrote that the \"Act does not...expressly allocate the burden of proving or disproving a challenged employee's supervisory status. The Board therefore has filled the statutory gap with the consistent rule that the burden is borne by the party claiming that the employee is a supervisor.\" Additionally, in a 5-4 split, the Court held that the NLRB's application of its interpretation of \"independent judgment\" to create categorical exclusion for nurses who exercised ordinary professional or technical judgment in directing less-skilled employees to deliver services was unlawful under the NLRA.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55900,
+    "name": "Metrish v. Lancaster",
+    "href": "https://api.oyez.org/cases/2012/12-547",
+    "view_count": 0,
+    "docket_number": "12-547",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1358488800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41063"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1366779600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41064"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1369026000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41065"
+        }
+    ],
+    "question": "<p>Was the Michigan Supreme Court's abolition of the diminished capacity defense an \"unexpected and indefensible\" change?</p>\n<p>Did the Michigan Court of Appeals err in retroactively applying the change to Lancaster's case?</p>\n",
+    "citation": {
+        "volume": "569",
+        "page": "351",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19822"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that eliminating the diminished capacity defense retroactively was reasonable. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/569/351/",
+    "facts_of_the_case": "<p>On April 23, 1993, Burt Lancaster, a former Detroit police officer with a history of mental health problems, shot and killed his girlfriend. He was charged with first-degree murder and possession of a firearm in the commission of a felony. At his trial in state court, Lancaster admitted to the killing but argued he was not guilty by reason of insanity and diminished capacity. The jury convicted Lancaster on both counts.</p>\n<p>After exhausting his appeals in state courts, Lancaster filed a petition for a writ of habeas corpus in federal district court and argued that the state had improperly excluded a black juror based on his race. The district court granted the writ of habeas corpus, and Lancaster received a new trial in 2005. At the new trial, Lancaster waived his right to a jury and limited his defense to diminished capacity. Since Lancaster's first trial, the Michigan Supreme Court had held that diminished capacity defense was no longer valid. The trial court held that the Michigan Supreme Court ruling applied retroactively and that Lancaster could not use the diminished capacity defense. The Michigan Court of Appeals and the Michigan Supreme Court declined to hear the case, and Lancaster was again convicted on both counts.</p>\n<p>Lancaster filed a petition for a writ of habeas corpus. He argued that the abolition of the diminished capacity defense was a substantive change in the law and that the trial court violated his Fifth and Fourteenth Amendment rights by retroactively applying the change to his case. The district court denied his petition and held that the abolition of the diminished capacity defense was a reasonable change because the defense was not well established under Michigan law. The U.S. Court of Appeals for the Sixth Circuit reversed and held that the retroactive application of the new ruling denied Lancaster his right to due process.</p>\n",
+    "conclusion": "<p>No, no. Justice Ruth Bader Ginsburg delivered the opinion for the unanimous Court. The Supreme Court held that the Michigan Supreme Court ruling eliminating the diminished capacity defense was reasonable as the defense had limited standing in Michigan's jurisprudence and was not encompassed in the legislature's statutory scheme. The Court also held that the retroactive application of the ruling to this case did not violate due process because it represented a foreseeable interpretation of statutory language by the Michigan Supreme Court.</p>\n"
+}

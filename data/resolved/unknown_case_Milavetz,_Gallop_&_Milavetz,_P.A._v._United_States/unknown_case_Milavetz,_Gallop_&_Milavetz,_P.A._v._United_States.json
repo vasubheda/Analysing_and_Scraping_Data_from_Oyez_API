@@ -1,0 +1,42 @@
+{
+    "ID": 55637,
+    "name": "Milavetz, Gallop & Milavetz, P.A. v. United States",
+    "href": "https://api.oyez.org/cases/2009/08-1119",
+    "view_count": 0,
+    "docket_number": "08-1119",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1244437200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40379"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1259647200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40380"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1268028000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40381"
+        }
+    ],
+    "question": "<p>1) Did the Eight Circuit's interpretation of attorneys as \"debt relief agencies\" contradict the plain meaning of the BAPCPA?</p>\n<p>2) Does the BAPCA constitute a broad, content-based restriction on attorney-client communications that is not adequately tailored to constrain only speech the government has a substantial interest in restricting; and, thus violates the First Amendment?</p>\n<p>3) Does the BAPCPA, as applied to attorneys, restrict commercial speech by requiring mandatory disclosures in advertisements, and thus violate First Amendment free speech rights?</p>\n",
+    "citation": {
+        "volume": "559",
+        "page": "229",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19560"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that attorneys who provide bankruptcy assistance are debt relief agencies under the Bankruptcy Abuse Prevention and Consumer Protection Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/559/229/",
+    "facts_of_the_case": "<p>In 2005, the Bankruptcy Abuse Prevention and Consumer Protection Act (BAPCPA) was signed into law. In part, it added a new term to the Bankruptcy Code (\"Code\"), \"debt relief agency,\" and both restricted and proscribed actions by those groups falling under the definition. Subsequently, a Minnesota bankruptcy law firm sought a declaratory judgment against the United States, arguing that the BAPCPA did not apply to attorneys and law firms, and was unconstitutional as it applied to attorneys. The federal district court agreed and issued an order declaring that attorneys in the District of Minnesota were excluded from the Code's definition of \"debt relief agency\" and that the challenged provisions of the Code were unconstitutional as they applied to attorneys in the District of Minnesota.</p>\n<p>On appeal, the U.S. Court of Appeals for the Eight Circuit held that attorneys who provide \"bankruptcy assistance\" were included within the BAPCPA's definition of \"debt relief agency.\" However, it also held that BAPCPA provisions that prohibited a debt relief agency from advising clients to incur debt in contemplation of bankruptcy was overbroad, and thus unconstitutional.</p>\n",
+    "conclusion": "<p>No. No. No. With Justice Sonia Sotamayor writing for the majority, the Supreme Court held that attorneys who provide bankruptcy assistance to assisted persons are debt relief agencies under the BAPCPA. The Court further held that \u00a7 526(a)(4) of the BAPCPA is not an overly broad, content based restriction on attorney-client communications. Rather, the Court reasoned that it merely prohibits a debt relief agency only from advising a debtor to incur more debt because the debtor is filing for bankruptcy. Lastly, the Court held that \u00a7 528's disclosure requirements are valid as applied to Mr. Milavetz. The Court reasoned that the disclosure requirements do not act as an affirmative limitation on speech and are reasonably related to the government's interest in preventing consumer deception.</p>\n<p>Justice Antonin Scalia wrote a separate opinion, concurring in part and concurring in the judgment. He disagreed with the majority's use of the BAPCPA's legislative history arguing that \"legislative history is irrelevant when the statutory text is clear.\" Justice Clarence Thomas also concurred in part and concurred in the judgment. He noted his skepticism with <em>Zauderer</em> and its progeny, cases at the heart of the majority's reasoning. Justice Thomas wondered whether these precedents provide sufficient First Amendment protection against government-mandated disclosure requirements.</p>\n"
+}

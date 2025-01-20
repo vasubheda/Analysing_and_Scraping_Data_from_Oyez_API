@@ -1,0 +1,28 @@
+{
+    "ID": 54682,
+    "name": "Maryland v. Dyson",
+    "href": "https://api.oyez.org/cases/1998/98-1062",
+    "view_count": 0,
+    "docket_number": "98-1062",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                929941200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38137"
+        }
+    ],
+    "question": "<p>Does the Fourth Amendment require police to obtain a search warrant before searching a vehicle which they have probable cause to believe contains illegal drugs?</p>\n",
+    "citation": {
+        "volume": "527",
+        "page": "465",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18611"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/527/465/",
+    "facts_of_the_case": "<p>Acting on a tip from a confidential informant and a subsequent investigation, sheriff's deputies stopped and searched Kevin Dyson's automobile. The deputies found 23 grams of crack cocaine in a duffel bag in the trunk. Dyson was convicted of conspiracy to possess cocaine with intent to distribute. In reversing, the Maryland Court of Special Appeals held that in order for the automobile exception to the warrant requirement under the Fourth Amendment to apply, there must be not only probable cause to believe that evidence of a crime is contained in the automobile, but also a separate finding of an exigency which precluded the police from obtaining a warrant. Although there was abundant probable cause, the court concluded that the search violated the Fourth Amendment because there was no exigency that prevented or even made it significantly difficult for the police to obtain a search warrant.</p>\n",
+    "conclusion": "<p>No. In a per curiam opinion, the Court held that the decision of the Maryland Court of Special Appeals rested upon an incorrect interpretation of the automobile exception to the warrant requirement of the Fourth Amendment. The Court reasoned that, because the automobile exception has no separate exigency requirement and where there is probable cause to search an automobile, a search is not unreasonable if based on facts that would justify the issuance of a warrant, even though a warrant is not actually obtained. Justice Stephen G. Breyer, joined by Justice John Paul Stevens, dissented.</p>\n"
+}

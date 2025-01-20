@@ -1,0 +1,42 @@
+{
+    "ID": 55796,
+    "name": "Borough of Duryea v. Guarnieri",
+    "href": "https://api.oyez.org/cases/2010/09-1476",
+    "view_count": 0,
+    "docket_number": "09-1476",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1286859600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40778"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1300770000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40779"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1308546000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40780"
+        }
+    ],
+    "question": "<p>May state and local government employees sue their employers for retaliation under the First Amendment's Petition Clause when they petition the government on matters of private concern?</p>\n",
+    "citation": {
+        "volume": "564",
+        "page": null,
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19718"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that state and local government employees may not sue their employers for retaliation under the First Amendment's Petition Clause when they petition the government on matters of private concern.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/564/379/",
+    "facts_of_the_case": "<p>In 2005, Duryea police chief Charles Guarnieri filed a discrimination lawsuit against the Pennsylvania borough, alleging that council members retaliated against him because he had successfully challenged a 2003 decision to fire him. Guarnieri had challenged his firing through arbitration and was reinstated to his position as chief in 2005. His suit alleged that council then issued 11 employment directives, which he claimed placed humiliating restrictions on him, to retaliate against him. He further alleged the borough improperly withheld overtime pay from him and had improperly delayed issuing health insurance benefits. A jury heard the case in April 2008 and awarded Guarnieri $45,358 in compensatory damages and $52,000 in punitive damages. The borough appealed, arguing the evidence did not support the verdict. In February 2010, the U.S. Court of Appeals for the Third Circuit upheld the overall verdict entered by a federal jury, but it overturned the panel's award of $52,000 in punitive damages. The ruling differs from decisions by all 10 other federal circuits and four state supreme courts.</p>\n",
+    "conclusion": "<p>The Supreme Court vacated and remanded the lower court order in an opinion by Justice Anthony Kennedy. \"A government employer's allegedly retaliatory actions against an employee do not give rise to liability under the Petition Clause unless the employee's petition relates to a matter of public concern,\" Kennedy wrote. \"The Third Circuit's conclusion that the public concern test does not limit public employees' Petition Clause claims is incorrect.\" Justice Clarence Thomas concurred in the judgment, writing: \"Even where a public employee petitions the government in its capacity as sovereign, I would balance the employee's right to petition the sovereign against the government's interest as an employer in the effective and efficient management of its internal affairs.\" Meanwhile, Justice Antonin Scalia dissented in part: \"I find the proposition that a lawsuit is a constitutionally protected 'Petition' quite doubtful.\"</p>\n"
+}

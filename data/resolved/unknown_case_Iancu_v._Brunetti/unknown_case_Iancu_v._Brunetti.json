@@ -1,0 +1,42 @@
+{
+    "ID": 63072,
+    "name": "Iancu v. Brunetti",
+    "href": "https://api.oyez.org/cases/2018/18-302",
+    "view_count": 0,
+    "docket_number": "18-302",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1546581600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54414"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1555304400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54498"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1561352400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54549"
+        }
+    ],
+    "question": "<p>Does Section 2(a) of the Lanham Act, which prohibits the federal registration of \u201cimmoral\u201d or \u201cscandalous\u201d marks, violate the Free Speech Clause of the First Amendment?</p>\n",
+    "citation": {
+        "volume": "588",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27645"
+    },
+    "term": "2018",
+    "description": "A case in which the Court held that the Lanham Act\u2019s prohibition on the federal registration of \u201cimmoral\u201d or \u201cscandalous\u201d marks, in Section 2(a), violates the Free Speech Clause of the First Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/588/18-302/",
+    "facts_of_the_case": "<p>Erik Brunetti owns the clothing brand \u201cfuct,\u201d founded in 1990. In 2011, two individuals filed an intent-to-use application for the <a href=\"https://trademarks.justia.com/853/10/fuct-85310960.html\">mark FUCT</a>, and the original applicants assigned the application to Brunetti. The examining attorney refused to register the mark under Section 2(a) of the Lanham Act, finding it comprised immoral or scandalous matter (the pronunciation of \u201cfuct\u201d sounds like a vulgar word) in violation of that section. Brunetti requested reconsideration and appealed to the Trademark Trial and Appeal Board, which affirmed the examining attorney\u2019s refusal to register the mark. The US Court of Appeals for the Federal Circuit found that while the Board did not err in concluding the mark should be excluded under Section 2(a) of the Lanham Act, that section\u2019s bar on registering immoral or scandalous marks is an unconstitutional restriction of free speech.</p>\n",
+    "conclusion": "<p>The Lanham Act prohibition on the registration of \u201cimmoral\u201d or \u201cscandalous\u201d trademarks infringes the First Amendment. Justice Elena Kagan delivered the opinion of the Court.</p>\n<p>In <a href=\"https://www.oyez.org/cases/2016/15-1293\"><em>Matal v. Tam</em>, 582 U.S. __ (2017)</a>, the Court held that a prohibition on registration of marks based on their viewpoint violates the First Amendment, and that a provision of the Lanham Act prohibiting registration of \u201cdisparaging\u201d marks was viewpoint based. A prohibition on the registration of marks that are \u201cimmoral\u201d or \u201cscandalous\u201d\u2014at issue in this case\u2014is similarly viewpoint based and therefore violates the First Amendment. The prohibition distinguishes between ideas aligned with conventional moral standards and those hostile to them, which is the epitome of viewpoint-based discrimination.</p>\n<p>The Court rejected the government\u2019s proposal that the statute is susceptible to a limiting construction that would remove its viewpoint bias. The language of the statute does not support such a reading and to interpret it as such would be to \u201cfashion a new one.\u201d</p>\n<p>Justice Samuel Alito joined the majority opinion in full and wrote a separate concurrence to highlight the importance of the Court continuing to affirm the principle that the First Amendment does not tolerate viewpoint discrimination. Justice Alito noted that Congress can adopt \u201ca more carefully focused statute\u201d that would prohibit the registration of \u201cvulgar\u201d marks without violating the First Amendment.</p>\n<p>Chief Justice John Roberts filed an opinion concurring in part and dissenting in part. The Chief Justice argued that while he agreed with the majority that the \u201cimmoral\u201d portion of the statute was not susceptible to a narrowing construction but agreed with Justice Sonia Sotomayor\u2019s argument in favor of such a construction with respect to the \u201cscandalous\u201d portion.</p>\n<p>Justice Stephen Breyer filed an opinion concurring in part and dissenting in part in which he agreed with the majority as to \u201cimmoral\u201d but disagreed as to \u201cscandalous.\u201d Justice Breyer advocated against the categorical approach to First Amendment speech issues and for an approach that considers \u201cwhether the regulation at issue works speech-related harm that is out of proportion to its justifications.\u201d\u00a0</p>\n<p>Justice Sonia Sotomayor filed an opinion concurring in part and dissenting in part, in which Justice Breyer joined. While Justice Sotomayor conceded that the majority\u2019s construction of the statute is a reasonable one, it is not the only reasonable one and erroneously treats \u201cimmoral and scandalous\u201d as a \u201cunified standard.\u201d She argued for a narrowing construction of the prohibition on \u201cscandalous\u201d marks to address only \u201cobscenity, vulgarity, and profanity.\u201d Such a construction would save the provision and avoid the \u201crush to register [vulgar, profine, and obscene] trademarks\u201d that the Court\u2019s decision makes probable.</p>\n"
+}

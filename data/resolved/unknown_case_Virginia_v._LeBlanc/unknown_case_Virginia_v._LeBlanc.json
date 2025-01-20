@@ -1,0 +1,35 @@
+{
+    "ID": 62858,
+    "name": "Virginia v. LeBlanc",
+    "href": "https://api.oyez.org/cases/2016/16-1177",
+    "view_count": 0,
+    "docket_number": "16-1177",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1497243600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54057"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1497243600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54058"
+        }
+    ],
+    "question": "<p>Was the determination that Virginia\u2019s geriatric release program satisfied Graham v. Florida\u2019s requirement that juvenile non-homicide offenders be afforded a meaningful opportunity to obtain release an unreasonable application of the Graham rule?</p>\n",
+    "citation": {
+        "volume": "582",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27523"
+    },
+    "term": "2016",
+    "description": "A case in which the Court held that the determination that Virginia\u2019s geriatric release program satisfied Graham v. Florida\u2019s requirement that juvenile non-homicide offenders be afforded a meaningful opportunity to obtain release was not an unreasonable application of the Graham rule.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/582/16-1177/",
+    "facts_of_the_case": "<p dir=\"ltr\">In 2003, Dennis LeBlanc was sentenced in Virginia state court to life imprisonment without possibility of parole for raping a woman when he was 16 years old. In 2010, the U.S. Supreme Court decided Graham v. Florida, which held that juvenile offenders cannot be sentenced to life without parole for non-homicide offenses. The Court noted that Graham did not require states to guarantee eventual freedom to juveniles convicted of non-homicide crimes, but they did have to allow for \u201csome meaningful opportunity to obtain release based on demonstrated maturity and rehabilitation.\u201d LeBlanc subsequently filed a motion in state trial court seeking to vacate his sentence under Graham. The trial court denied the motion based on a Virginia Supreme Court decision that held that the state\u2019s geriatric release program--that allows for conditional release for older inmates under some circumstances--satisfied the Graham requirements. Therefore, the state trial court held that LeBlanc\u2019s sentence did not violate the rule established in Graham.</p>\n<p>In 2012, LeBlanc filed a federal habeas petition. The magistrate judge recommended that the petition be dismissed, but the district court disagreed and granted the petition because it determined that the state court\u2019s decision was an unreasonable application of the law established in Graham. The U.S. Court of Appeals for the Fourth Circuit affirmed. </p>\n",
+    "conclusion": "<p>The determination that Virginia\u2019s geriatric release program satisfied Graham v. Florida\u2019s requirement that juvenile non-homicide offenders be afforded a meaningful opportunity to obtain release was not an unreasonable application of the Graham rule. In a per curiam opinion, the Court held that, for a state court\u2019s decision to be an unreasonable application of Supreme Court law, the decision must be so objectively unreasonable that there is no possibility for fairminded jurists to disagree. This standard is meant to be a difficult one to meet, and federal courts should generally defer to state courts\u2019 decisions. In this case, fairminded jurists could disagree about whether Virginia\u2019s geriatric release program met the requirements of Graham v. Florida, and therefore the state court\u2019s determination was not an unreasonable application of the law that Graham established.</p>\n"
+}

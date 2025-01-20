@@ -1,0 +1,42 @@
+{
+    "ID": 55275,
+    "name": "Cherokee Nation of Oklahoma v. Leavitt",
+    "href": "https://api.oyez.org/cases/2004/02-1472",
+    "view_count": 0,
+    "docket_number": "02-1472",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1079935200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39387"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1099980000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39388"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1109656800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39389"
+        }
+    ],
+    "question": "<p>Did the Indian Self-Determination and Education Assistance Act (ISDA) require the Secretary of Health and Human Services to pay \"contract support costs,\" even if the government contends funds were not available?</p>\n",
+    "citation": {
+        "volume": "543",
+        "page": "631",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19203"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/543/631/",
+    "facts_of_the_case": "<p>The Indian Self-Determination and Education Assistance Act (ISDA) allows tribes to administer health care programs previously run by the federal government. Tribes can opt to do this by entering into contracts with the Secretary of Health and Human Services, who is obligated to fund tribe-run health services as if they were still federally run. The Secretary must also fund \"contract support costs\" associated with carrying out the contract. However, ISDA requires the federal government to fund contract support costs only to the extent money is available. ISDA also does not require the federal government to reduce funding for some tribe programs to make funds available for other tribes. In two separate cases tribes claimed the federal government under-funded contract support costs. The Secretary argued the Omnibus Consolidated and Emergency Appropriations Act made it clear the government lacked the funds to pay the full contract support costs. In one case a federal appellate court ruled that the federal government did not adequately fund contract support costs and that funds were available. In another case a federal appellate court ruled for the federal government.</p>\n",
+    "conclusion": "<p>Yes. In an 8-0 opinion delivered by Justice Stephen Breyer, the Court held that the government was legally bound to pay the contract support costs. Only in a \"special\" instance could the government break its promise to pay the costs. In this case, the government had access to sufficient unrestricted funds appropriated by Congress. Moreover, nothing in the act's language suggested it was non-binding.</p>\n"
+}

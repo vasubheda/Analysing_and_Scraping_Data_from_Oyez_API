@@ -1,0 +1,42 @@
+{
+    "ID": 55166,
+    "name": "Missouri v. Seibert",
+    "href": "https://api.oyez.org/cases/2003/02-1371",
+    "view_count": 0,
+    "docket_number": "02-1371",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1053320400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39079"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1070949600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39080"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1088398800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39081"
+        }
+    ],
+    "question": "<p>Does the rule from Oregon v. Elstad that a defendant who has made an un-Mirandized confession may later waive her Miranda rights to make a second confession (admissible in court) still apply when the initial confession is the result of an intentional decision by a police officer to withhold her Miranda warnings?</p>\n",
+    "citation": {
+        "volume": "542",
+        "page": "600",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19094"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/542/600/",
+    "facts_of_the_case": "<p>Patrice Seibert was convicted of second degree murder for the death of 17 -year-old Donald Rector, who died in a fire set in the mobile home where he lived with Seibert. Several days after the fire, Seibert was interrogated by a police officer. The officer initially withheld her Miranda warnings, hoping to get a confession from her first. Once she had confessed, the officer took a short break from questioning, then read her her Miranda rights and resumed questioning her after she waived those rights. He prompted her to restate the confession that she had made earlier. Based on this second, Mirandized confession, Seibert was convicted.</p>\n<p>She appealed, charging that the officer's intentional use of an un-Mirandized interrogation to get the initial confession made the later confession, though it occurred after she had waived her Miranda rights, inadmissable. The prosecution cited Oregon v. Elstad to argue that an initial, un-Mirandized confession did not make a defendant incapable of voluntarily waiving her Miranda rights and confessing later.</p>\n<p>The Supreme Court of Missouri agreed with Seibert, overturning the conviction.</p>\n",
+    "conclusion": "<p>No. In a decision with no majority, a four-justice plurality found that the post-Miranda confession is only admissible - even if the two-stage interview was unintentional, as it was in Elstad - if the Miranda warning and accompanying break are sufficient to give the suspect the reasonable belief that she has the right not to speak with the police. Justice Anthony Kennedy, in a concurring opinion that provided the fifth vote, found that evaluating the warning and accompanying break was only necessary if the police used the two-stage interrogation intentionally. Justice Kennedy wrote, \"The admissibility of postwarning statements should continue to be governed by Elstad's principles unless the deliberate two-step strategy is employed. Then, the postwarning statements must be excluded unless curative measures are taken before they were made.\"</p>\n"
+}

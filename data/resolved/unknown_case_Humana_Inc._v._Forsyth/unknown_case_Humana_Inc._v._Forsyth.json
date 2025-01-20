@@ -1,0 +1,35 @@
+{
+    "ID": 54697,
+    "name": "Humana Inc. v. Forsyth",
+    "href": "https://api.oyez.org/cases/1998/97-303",
+    "view_count": 0,
+    "docket_number": "97-303",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                912405600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38162"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                916812000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38163"
+        }
+    ],
+    "question": "<p>May plaintiffs use the federal anti-racketeering law to sue their health insurers over alleged fraud?</p>\n",
+    "citation": {
+        "volume": "525",
+        "page": "299",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18626"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/525/299/",
+    "facts_of_the_case": "<p>Mary Forsyth, the beneficiary of a group health insurance policy issued by Humana Health Insurance of Nevada, Inc., received medical care at a hospital owned by Humana Inc. Humana Insurance agreed to pay 80 percent of Forsyth's hospital charges over a designated deductible. Forsyth bore responsibility for the remaining 20 percent of the charges. Forsyth complained that the hospital gave Human Insurance large discounts on their portion of the hospital charges. Thus, Humana Insurance paid the hospital significantly less than the actual 80 percent of the original bill and, in turn, Forsyth paid significantly more than her 20 percent of the hospital charges. Forsyth alleged that Humana Insurance and Humana Inc. had violated the federal Racketeer Influenced and Corrupt Organizations Act (RICO) through fraudulent activity. The District Court ruled in favor of Humana, citing the McCarran-Ferguson Act, which prevents acts of Congress from encroaching on state insurance law unless the act specifically relates to insurance. The Court of Appeals reversed and adopted a \"direct conflict\" test for determining when a federal law \"invalidate[s], impair[s], or supersede[s]\" a state insurance law. Under such a test, the McCarran-Ferguson Act did not bar Forsyth's suit because the Act does not preclude application of a federal statute prohibiting acts that are also prohibited under state insurance laws. The Act and Nevada law only provided for different damages to be collected.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous decision, announce by Justice Ruth Bader Ginsburg, the Court ruled that because RICO advances states' interests in preventing insurance fraud, and since RICO does not encroach on Nevada law, the McCarran- Ferguson Act did not block Forsyth's recourse to RICO in this case.</p>\n"
+}

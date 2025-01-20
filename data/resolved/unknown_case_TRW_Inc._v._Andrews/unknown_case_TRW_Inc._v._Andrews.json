@@ -1,0 +1,35 @@
+{
+    "ID": 54981,
+    "name": "TRW Inc. v. Andrews",
+    "href": "https://api.oyez.org/cases/2001/00-1045",
+    "view_count": 0,
+    "docket_number": "00-1045",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1002603600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38696"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1005631200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38697"
+        }
+    ],
+    "question": "<p>Does the Fair Credit Reporting Act's two-year statute of limitations governing actions to enforce any liability created by the act commence to run only upon a party's discovery of alleged violations of the act?</p>\n",
+    "citation": {
+        "volume": "534",
+        "page": "19",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18910"
+    },
+    "term": "2001",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/534/19/",
+    "facts_of_the_case": "<p>In 1993, while at a doctor's office in California, Adelaide Andrews filled out a form listing her name, Social Security number, and other basic information. An office receptionist named Andrea Andrews copied the data and later moved to Las Vegas, where she attempted to open credit accounts using Adelaide's Social Security number and her own last name and address. Thereafter, TRW Inc. furnished copies of Adelaide's credit report to companies from which Andrea sought credit. In 1996, Adelaide filed suit, alleging that TRW had violated the Fair Credit Reporting Act (FCRA) by failing to verify predisclosure of her credit report to third parties. TRW moved for partial summary judgment, arguing that the FCRA's statute of limitations had expired on Adelaide's claims stemming from TRW's first two disclosures because both occurred more than two years before she brought suit. Adelaide countered that the limitations period on those claims did not commence until she discovered the disclosures. The District Court held the two claims time-barred. In reversing, the Court of Appeals applied what it considered to be a general federal rule that a statute of limitations starts running when a party knows or has reason to know she was injured, unless Congress expressly legislates otherwise.</p>\n",
+    "conclusion": "<p>No. In an opinion delivered by Justice Ruth Bader Ginsburg, the Court held that a discovery rule does not govern section 1681p of FCRA, as that section explicitly delineated the exceptional case in which discovery triggered the two-year limitation and Adelaide's case does not fall within the exceptional category. The Court reasoned that it was not at liberty to make Congress' explicit exception the general rule. Justice Antonin Scalia filed an opinion concurring in the judgment, in which Justice Clarence Thomas joined.</p>\n"
+}

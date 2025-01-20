@@ -1,0 +1,42 @@
+{
+    "ID": 55549,
+    "name": "Fitzgerald v. Barnstable School Committee",
+    "href": "https://api.oyez.org/cases/2008/07-1125",
+    "view_count": 0,
+    "docket_number": "07-1125",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1212987600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40129"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1228197600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40130"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1232517600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40131"
+        }
+    ],
+    "question": "<p>Is Title IX's implied private remedy sufficiently comprehensive to preclude the use of 42 U.S.C. Section 1983 to advance sex discrimination claims against federally funded educational institutions?</p>\n",
+    "citation": {
+        "volume": "555",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20787"
+    },
+    "term": "2008",
+    "description": "A case in which the Court found that a claim filed under Title IX for violation of the Equal Protection Clause of the fourteenth Amendment does not preclude the use of 42 U.S.C. Section 1983 which protects against the deprivation of any rights guaranteed by the Constitution and federal law. ",
+    "justia_url": null,
+    "facts_of_the_case": "<p>In February 2001 Jacqueline Fitzgerald, a kindergarten student, told her parents that an older student on the school bus, on several occasions, bullied her into lifting up her skirt. Jacqueline's mother reported these allegations to the school but its immediate investigation into the matter, including interviewing the supposed perpetrator, the school bus driver, and many students on the bus, did not provide any further proof of the sexual harassment. After Jacqueline told her parents about further instances of mistreatment, the local police department began its own investigation but was unable to find sufficient evidence to bring criminal proceedings against the alleged harasser. Jacqueline reported other incidents throughout the year, and each was addressed by the school's principal as it occurred. In April of 2002 the Fitzgeralds brought suit against the school district in federal court alleging violations of both Title IX of the Education Act Amendments of 1972 and 42 U.S.C. 1983 (Section 1983). Title IX prohibits discrimination by any educational entity receiving federal funding, while Section 1983 protects against the deprivation of any rights guaranteed by the Constitution and federal laws. The district court granted the school district's motion to dismiss both counts and the Fitzgeralds appealed.</p>\n<p>The U.S. Court of Appeals for the First Circuit affirmed the district court's dismissal of both claims. First, discussing the Title IX claim, the court stated that five conditions must be met for a plaintiff to succeed: the student must prove that (1) the institution is a recipient of federal funding, (2) severe, pervasive, and objectively offensive harassment occurred, (3) the harassment denied the student of educational opportunities or benefits, (4) the institution had actual knowledge of the harassment, and (5) the institution's deliberate indifference caused the student to be subjected to the harassment. The First Circuit held that even if the first four factors were met in this case, the school's \"prompt\" and \"diligent\" investigation was not clearly unreasonable and therefore did not amount to deliberate indifference. Rather, the school looked into each allegation quickly and thoroughly. The court also affirmed the dismissal of the Fitzgeralds' Section 1983 claim, applying the so-called \"remedial\" exception prohibiting such claims when the allegedly violated federal law is itself specific enough to demonstrate Congress' intention to allow only those remedies referred to in the statute itself. According to the First Circuit, Title IX is one of these remedial statutes and therefore any alleged violations of the statute cannot be litigated under Section 1983.</p>\n",
+    "conclusion": "<p>No. In a unanimous decision authored by Justice Samuel A. Alito, the Supreme Court reversed the U.S. Court of Appeals for the First Circuit. It held that a claim filed under Title IX for violation of the Equal Protection Clause of the Fourteenth Amendment does not preclude the use of 42 U.S.C. Section 1983 to further constitutional claims. The Court reasoned that Title IX was not meant to be the exclusive tool for addressing gender discrimination in schools, or a substitute for actions filed under Section 1983 to enforce constitutional rights.</p>\n"
+}

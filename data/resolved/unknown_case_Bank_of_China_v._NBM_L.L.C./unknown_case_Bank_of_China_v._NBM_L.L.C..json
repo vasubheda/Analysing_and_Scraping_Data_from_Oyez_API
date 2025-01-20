@@ -1,0 +1,35 @@
+{
+    "ID": 55334,
+    "name": "Bank of China v. NBM L.L.C.",
+    "href": "https://api.oyez.org/cases/2005/03-1559",
+    "view_count": 0,
+    "docket_number": "03-1559",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1119848400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39545"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1132034400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39546"
+        }
+    ],
+    "question": "<p>Does a plaintiff in a civil suit alleging mail fraud and wire fraud in violation of the Racketeer Influenced and Corrupt Organizations Act (RICO) need to establish \"reasonable reliance\"?</p>\n",
+    "citation": {
+        "volume": "546",
+        "page": "1026",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/27371"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>Bank of China alleged that John Chou and Sherry Liu attempted to defraud the bank by borrowing large sums of money and misrepresenting them as debts owed by the bank to various independent businesses. Bank of China alleged that those businesses, such as NBM LLC, were actually just fronts set up for Chou and Liu's scheme. In addition to criminal charges, a civil suit was commenced against Chou, Liu, NBM LLC and other involved businesses, and Patrick Young, a bank employee accused of assisting with the fraudulent transactions. A jury found the defendants guilty of various charges, including mail fraud and wire fraud in violation of the conspiracy provision of the Racketeer Influenced and Corrupt Organizations Act (RICO), and it awarded the Bank large compensatory and punitive damages. On appeal, NBM argued that the District Court should have instructed the jury that in order to find a violation of RICO, they needed to determine that the Bank was justified in believing NBM's misrepresentations. In common-law fraud cases, this is known as \"reasonable reliance.\" Bank of China argued that the RICO statute does not require a demonstration of reasonable reliance, but the Second Circuit Court of Appeals accepted NBM's argument and reversed the jury verdict. The Circuit Court faulted the District Court for instructing the jury that the Bank could have been defrauded in violation of RICO even if some bank officials (such as Young) had known the true nature of the misrepresented sums. Instead, the Circuit Court said, the jury should have been instructed to determine whether Bank of China was justifiably misled by the misrepresentations.</p>\n",
+    "conclusion": "<p>Unanswered. On November 15, 2005, before the case was argued, the Supreme Court dismissed the case without explanation under rule 46.</p>\n"
+}

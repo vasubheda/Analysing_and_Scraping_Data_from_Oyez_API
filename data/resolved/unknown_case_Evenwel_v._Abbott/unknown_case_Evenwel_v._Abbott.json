@@ -1,0 +1,42 @@
+{
+    "ID": 62168,
+    "name": "Evenwel v. Abbott",
+    "href": "https://api.oyez.org/cases/2015/14-940",
+    "view_count": 0,
+    "docket_number": "14-940",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1432616400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51724"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1449554400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53290"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1459746000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53485"
+        }
+    ],
+    "question": "<p>Does the Equal Protection Clause of the Fourteenth Amendment require that districting take into account the number of people eligible to vote, rather than the total population?</p>\n",
+    "citation": {
+        "volume": "578",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/26961"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that the \u201cone person, one vote\u201d principle of the Equal Protection Clause allows a state to draw its legislative districts based on total population.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/578/14-940/",
+    "facts_of_the_case": "<p>The Texas Constitution requires that the state legislature reapportion its senate districts during the first regular session after every federal census. After the 2010 census, the legislature created a redistricting plan that was signed into law. However, a three-judge panel of the federal district court found that there was a substantial claim that this redistricting plan violated the Voting Rights Act and issued an interim plan for the 2012 primary elections that was subsequently adopted and signed into law.</p>\n<p>Plaintiffs Sue Evenwel and Edward Pfenniger are registered Texas voters who sued and claimed that the interim plan that was adopted and signed into law violated the Equal Protection Clause of the Fourteenth Amendment. They argued that the new districts do not adhere to the 'one person, one vote' principle, which the Supreme Court had previously held exists in the Equal Protection Clause of the Fourteenth Amendment, because they were apportioned based on total population rather than registered voter population, and while the new districts are relatively equal in terms of total population, they vary wildly in relation to total voter population. The district court granted the defendants\u2019 motion to dismiss and held that the plaintiffs failed to state a claim based on Equal Protection Clause jurisprudence, which allows total population to be the basis for district apportionment. The Supreme Court noted probable jurisdiction on the appeal.</p>\n",
+    "conclusion": "<p>The \u201cone person, one vote\u201d principle of the Equal Protection Clause allows a state to design its legislative districts based on total population. Justice Ruth Bader Ginsburg delivered the unanimous decision and the opinion for the six-justice majority. The Court held that constitutional history, judicial precedent, and consistent state practice all demonstrate that apportioning legislative districts based on total population is permissible under the Equal Protection Clause. Based on the wording of the Fourteenth Amendment and the legislative debates surrounding its adoption, the legislature at the time clearly intended for representation to be apportioned in the House based on total population, and it would be illogical to prohibit the states from doing the same within their own legislatures. In cases in which the Court has evaluated whether districting maps violate the Equal Protection Clause, the Court has consistently looked at total population figures to determine whether the maps impermissibly deviate from perfect population equality. Additionally, the total population approach has been used by all states and many local jurisdictions, and there is no reason to upset this accepted practice.</p>\n<p>In his opinion concurring in the judgment, Justice Clarence Thomas wrote that the Court\u2019s Equal Protection Clause jurisprudence has not established a single theory for how states should uphold the \u201cone person, one vote\u201d principle. Similarly, Justice Thomas argued that the Constitution does not prescribe a theory for states to use when apportioning representation. Although there is some preference for majoritarian rule, the Constitution also reflects concern about the tyranny of the majority by including counter-democratic checks. Given these conflicting theories present in the Constitution and the fact that the Constitution lets the states determine their own methods of apportioning representation, the Court should not impose a singular theory on the states. Because the total population method is a permissible method for states to use in creating legislative districts, Justice Thomas agreed with the majority, but noted that this was not the only permissible method. Justice Samuel A. Alito, Jr. wrote a separate opinion concurring in the judgment in which he argued that neither the text nor the legislative history of constitutional apportionment for legislative districts endorses one theory over another. Therefore, while the total population theory is permissible, it is not the only one. Justice Thomas joined in the concurrence in the judgment.</p>\n"
+}

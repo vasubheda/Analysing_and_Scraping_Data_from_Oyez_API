@@ -1,0 +1,42 @@
+{
+    "ID": 55609,
+    "name": "United States v. Navajo Nation",
+    "href": "https://api.oyez.org/cases/2008/07-1410",
+    "view_count": 0,
+    "docket_number": "07-1410",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1222837200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40300"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1235368800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40301"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1238994000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40302"
+        }
+    ],
+    "question": "<ol>\n<li>\n<p>Does the decision by the Supreme Court in <em>Navajo Nation I</em>, foreclose this most recent decision by the U.S. Court of Appeals for the Federal Circuit?</p>\n</li>\n<li>\n<p>If the decision was not foreclosed, did the U.S. Court of Appeals for the Federal Circuit properly hold that the United States was liable based on its interpretation of statutes that do not address royalty rates in tribal leases?</p>\n</li>\n</ol>\n",
+    "citation": {
+        "volume": "556",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20796"
+    },
+    "term": "2008",
+    "description": "A case in which the Court held that its decision in Navajo I did not terminate the defendant's claim, however, the defendant did not provide sufficient sources of law and therefore the suit should be dismissed.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>In 1964 the Navajo Nation entered into a contract with Sentry Royalty Company for the mining of coal on its land. The contract called for royalty payments to the Navajo Nation not to exceed 37.5 cents per ton of coal mined. However, the contract allowed for the Secretary of the Interior to adjust the royalty rate to a \"reasonable\" level after twenty years. At the end of twenty years, the Navajo Nation was being paid the equivalent of 2 percent of the proceeds from the mining operation. As stipulated by the contract, the Navajo Nation entered into discussions with Peabody Coal Company (formerly Sentry Royalty Company) to adjust the royalty rate. After discussions failed, the Navajo Nation asked the Secretary of the Interior to resolve the dispute. The Department of the Interior's Bureau of Indian Affairs reached an initial decision to set the royalty rate at 20 percent. This decision was delayed on the recommendation of the Secretary of the Interior. Unbeknownst to the Navajo Nation, the Secretary had been meeting with executives of the Peabody Coal Company who requested the delay. Facing dire economic circumstances, the Navajo Nation agreed to a royalty rate of 12.5 percent which was approved by the Secretary of the Interior.</p>\n<p>In 1993, the Navajo Nation brought suit against the United States for violations of its statutory and fiduciary duties to the Nation. It sought damages of $600 million. This latest decision by the U.S. Court of Appeals for the Federal Circuit represents the fifth chapter in the long running saga over the original dispute. Its decision comes in the wake of the U.S. Court of Federal Claims holding, on instructions from the Supreme Court, that the Navajo Nation did not provide sufficient evidence to seek damages from the United States.</p>\n<p>The Court of Appeals disagreed. It held that the Navajo Nation marshaled sufficient evidence to show that the United States \"controls the leasing of the [Navajo's] coal resources and that the government is responsible for the liabilities arising thereunder.\" It reasoned that the body of regulations and statutes that governed the Nation's resources were \"reasonably amenable\" to an interpretation that imposed liability on the part of the government for breach of its duties.</p>\n",
+    "conclusion": "<p>No and No. In a unanimous opinion written by Justice Antonin G. Scalia, the Court held that its decision in <em>Navajo I</em> had not definitively terminated the Nation's claim. In <em>Navajo I</em> it reasoned that the Nation's only avenue to sue the United States was by finding \"specific rights-creating or duty-imposing statutory or regulatory prescriptions.\" The Court reasoned that since only three statutes were analyzed, there might exist a relevant statute that could provide the Nation a basis for its lawsuit. However, the Supreme Court also held that none of the sources of law cited by the Nation provided such a basis and therefore its suit should be dismissed.</p>\n<p>Justice David H. Souter, joined by Justice John Paul Stevens, wrote a separate concurring opinion. He admitted regretting that his dissenting opinion in <em>Navajo I</em> was not controlling authority, but recognized the Court must abide its precedent.</p>\n"
+}

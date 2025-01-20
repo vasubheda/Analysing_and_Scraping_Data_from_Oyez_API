@@ -1,0 +1,35 @@
+{
+    "ID": 55071,
+    "name": "Immigration and Naturalization Service v. Ventura",
+    "href": "https://api.oyez.org/cases/2002/02-29",
+    "view_count": 0,
+    "docket_number": "02-29",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1036389600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38865"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                1036389600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53447"
+        }
+    ],
+    "question": "<p>Should an appellate court remand a case to an agency when additional investigation within the agency\u2019s area of expertise may be required?</p>\n",
+    "citation": {
+        "volume": "537",
+        "page": "12",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/19000"
+    },
+    "term": "2002",
+    "description": "A case in which the Court held that an appellate court should generally remand a case to an agency when the subject matter is one over which the agency has authority pursuant to a statute. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/537/12/",
+    "facts_of_the_case": "<p>Fredy Orlando Ventura illegally entered the United States in 1993. In 1998, an immigration judge heard Orlando Ventura\u2019s request for asylum in the United States; he claimed that his political views made him a target for guerilla armies in Guatemala. The judge denied Orlando Ventura\u2019s request, despite recognizing that Orlando Ventura\u2019s fears of prosecution may be legitimate, because the political climate in Guatemala had drastically changed since Orlando Ventura had arrived in the United States and therefore he was no longer in danger. The Board of Immigration Appeals (BIA) affirmed the judgment of the immigration judge, but the U.S. Court of Appeals for the Ninth Circuit was \u201ccompelled\u201d by Orlando Ventura\u2019s testimony to reverse the lower court\u2019s decision and subsequently denied remand to the BIA.</p>\n",
+    "conclusion": "<p>Generally, an appellate court should remand a case for further agency review when the matter to be reconsidered is one over which the agency has statutory authority and expertise. In a per curiam decision, the Court held that the U.S. Court of Appeals for the Ninth Circuit erred in not remanding the case for further consideration by the Board of Immigration Appeals (BIA). The Court found that the appellate court\u2019s decision to reverse the lower court\u2019s ruling was appropriate, but it should not have denied remand to the BIA because new evidence could have been presented in the case that could have affected Orlando Ventura\u2019s request for political asylum.</p>\n"
+}

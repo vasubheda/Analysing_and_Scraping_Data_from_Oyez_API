@@ -1,0 +1,42 @@
+{
+    "ID": 55883,
+    "name": "Caraco Pharmaceutical Laboratories, Ltd. v. Novo Nordisk A/S",
+    "href": "https://api.oyez.org/cases/2011/10-844",
+    "view_count": 0,
+    "docket_number": "10-844",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1309150800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41012"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1323064800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41013"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1334638800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41014"
+        }
+    ],
+    "question": "<p>(1) Does the counterclaim provision of the Hatch-Waxman Act only apply if Novo's Prandin patent does not claim any approved method of use?</p>\n<p>(2) Does Novo's use code for Prandin qualify as \"patent information submitted under subsections (b) and (c)\" for the purposes of the act?</p>\n",
+    "citation": {
+        "volume": "566",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19805"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that counterclaims that challenge unpatented uses of generic drugs, even if other approved uses are still under patent, are allowable under the Hatch-Waxman Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/566/399/",
+    "facts_of_the_case": "<p>Novo Nordisk sued Caraco Pharmaceutical Laboratories and Sun Pharmaceutical Industries Ltd. for infringement in the wake of Caraco filing an abbreviated new drug application (\"ANDA\") for a generic version of the Type 2 diabetes drug Prandin. Caraco and Sun promptly countersued. While the litigation was pending, Novo changed the FDA Orange Book's use code \u2014 a description of the scope of the patent \u2014undermining Caraco's argument that patent did not apply to the purpose for which the generic product would be marketed. Caraco filed a counterclaim requesting an order that would require Novo Nordisk to change back the use code.</p>\n<p>The Medicare Prescription Drug, Improvement and Modernization Act of 2003 authorized ANDA applicants to assert a counterclaim seeking an order requiring the brand to correct or delete submitted patent information on the grounds that the patent does not claim 1) the drug for which the brand's new drug application was approved or 2) an approved method of using the drug.</p>\n<p>The U.S. District Court for the Eastern District of Michigan granted the counterclaim and issued an injunction ordering Novo Nordisk to change the code. Novo appealed to the United States Court of Appeals for the Federal Circuit, arguing that the district court had abused its discretion. The Federal Circuit ruled in favor of Novo, holding that Caraco could only assert a counterclaim if Novo's patent did not claim <em>any</em> approved method of use.</p>\n",
+    "conclusion": "<p>Yes and yes. In a unanimous decision written by Justice Elena Kagan, the Court held that the Hatch-Waxman Act allows counterclaims to challenge unpatented uses of generic drugs even if other approved uses are still under patent. Justice Kagan looked to the language and purpose of the statute, focusing on the meaning of the phrase, \"the patent does <em>not</em> claim... <em>an</em> approved method of using the drug.\" While acknowledging that the words \"not an\" could be interpreted to mean \"not any,\" as Novo suggested, Justice Kagan rejected Novo's argument that the counterclaim right evaporates if Novo has a patent over another use not claimed or contested by Caraco and Sun. She argued that the act's counterclaim provision essentially allows a generic drug marketer to challenge a brand's assertion of rights over whichever use the generic drug marketer wishes to pursue. Justice Kagan noted that if Congress intended Novo's \"not any\" interpretation, it could have used that exact phrasing.</p>\n<p>Justice Kagan also held that Novo's use code was \"patent information submitted by the brand under subsection (b) or (c)\" for the purposes of the act. She pointed out that the use code describes the methods of use claimed in a patent, and must qualify as \"patent information\" under any ordinary understanding of that phrase. Looking to the Court's precedent, Justice Kagan determined that information \"submitted under\" a federal law suggests doing so in furtherance of or in compliance with a comprehensive scheme of regulation. Justice Kagan noted that subsections (b) and (c) provide the basis for the regulation requiring brands to submit use codes and dictate the form of those submissions; thus, a brand use code is \"submitted under\" sections (b) and (c). She rejected Novo's argument that congress only intended to allow generic drug marketers to correct improperly numbered or listed patents.</p>\n"
+}

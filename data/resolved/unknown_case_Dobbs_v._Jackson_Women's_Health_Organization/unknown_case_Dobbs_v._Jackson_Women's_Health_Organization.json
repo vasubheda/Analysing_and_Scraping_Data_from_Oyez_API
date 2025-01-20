@@ -1,0 +1,42 @@
+{
+    "ID": 63368,
+    "name": "Dobbs v. Jackson Women's Health Organization",
+    "href": "https://api.oyez.org/cases/2021/19-1392",
+    "view_count": 0,
+    "docket_number": "19-1392",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1621227600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54908"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1638338400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54974"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1656046800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55127"
+        }
+    ],
+    "question": "<p>Is Mississippi\u2019s law banning nearly all abortions after 15 weeks\u2019 gestational age unconstitutional?</p>\n",
+    "citation": {
+        "volume": "597",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27820"
+    },
+    "term": "2021",
+    "description": "A case in which the Court overruled Roe v. Wade and Planned Parenthood v. Casey, eliminating the constitutional right to abortion.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/597/19-1392/",
+    "facts_of_the_case": "<p>In 2018, Mississippi passed a law called the \u201cGestational Age Act,\u201d which prohibits all abortions, with few exceptions, after 15 weeks\u2019 gestational age. Jackson Women\u2019s Health Organization, the only licensed abortion facility in Mississippi, and one of its doctors filed a lawsuit in federal district court challenging the law and requesting an emergency temporary restraining order (TRO). After a hearing, the district court granted the TRO while the litigation proceeded to discovery. After discovery, the district court granted the clinic\u2019s motion for summary judgment and enjoined Mississippi from enforcing the law, finding that the state had not provided evidence that a fetus would be viable at 15 weeks, and Supreme Court precedent prohibits states from banning abortions prior to viability. The U.S. Court of Appeals for the Fifth Circuit affirmed.</p>\n",
+    "conclusion": "<p>The Constitution does not confer a right to abortion; Roe v. Wade, 410 U.S. 113, and Planned Parenthood of Southeastern Pa. v. Casey, 505 U.S. 833, are overruled. Justice Samuel Alito authored the majority opinion of the Court.</p>\n<p>The Constitution does not mention abortion. The right is neither deeply rooted in the nation\u2019s history nor an essential component of \u201cordered liberty.\u201d The five factors that should be considered in deciding whether a precedent should be overruled support overruling Roe v. Wade and Planned Parenthood v. Casey: (1) they \u201cshort-circuited the democratic process,\u201d (2) both lacked grounding in constitutional text, history, or precedent, (3) the tests they established were not \u201cworkable,\u201d (4) they caused distortion of law in other areas, and (5) overruling them would not upend concrete reliance interests.</p>\n<p>Justices Clarence Thomas and Brett Kavanaugh concurred.</p>\n<p>Chief Justice John Roberts concurred in the judgment.</p>\n<p>Justices Stephen Breyer, Sonia Sotomayor, and Elena Kagan dissented.</p>\n"
+}

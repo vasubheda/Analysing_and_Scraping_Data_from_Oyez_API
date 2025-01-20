@@ -1,0 +1,42 @@
+{
+    "ID": 63342,
+    "name": "Thompson v. Clark",
+    "href": "https://api.oyez.org/cases/2021/20-659",
+    "view_count": 0,
+    "docket_number": "20-659",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1615183200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54860"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1634014800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54958"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1649048400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55072"
+        }
+    ],
+    "question": "<p>Must a plaintiff who seeks to bring a Section 1983 action alleging unreasonable seizure pursuant to legal process show that the criminal proceeding against him \u201cformally ended in a manner not inconsistent with his innocence,\u201d or that the proceeding \u201cended in a manner that affirmatively indicates his innocence\u201d?</p>\n",
+    "citation": {
+        "volume": "596",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27806"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held that a plaintiff who seeks to bring a Section 1983 action alleging unreasonable seizure pursuant to legal process need only show, as a threshold matter, that the criminal proceeding against him ended without a conviction.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/596/20-659/",
+    "facts_of_the_case": "<p>Camille Watson was staying with her sister and her sister\u2019s husband, Larry Thompson, when she dialed 911 after seeing a diaper rash on the couple\u2019s infant daughter and mistaking the rash for signs of abuse. In response, two Emergency Medical Technicians (EMTs) arrived at Thompson\u2019s apartment building to investigate. The EMTs saw nothing amiss, and, unaware of Camille\u2019s 911 call, Thompson told the EMTs that no one in his home had called 911. He asked the EMTs to leave, and they did.</p>\n<p>Four police officers followed up to investigate the alleged child abuse and insisted on seeing Thompson\u2019s daughter. Thompson asked to speak to the officers\u2019 sergeant, and after being denied that request, asked whether the officers had a warrant (which they did not). Nevertheless, they physically tried to enter Thompson\u2019s home, and when Thompson attempted to block the doorway, the officers tackled and handcuffed him. He was arrested and taken to jail, where he spent two days. He was charged with resisting arrest and obstructing governmental administration, and about three months later, the prosecution dropped the charges against him, stating that \u201cPeople are dismissing the case in the interest of justice.\u201d</p>\n<p>Thompson filed a Section 1983 malicious prosecution claim against the police officers involved. A federal district court granted judgment as a matter of law in favor of the defendants on Thompson\u2019s malicious prosecution claim due to his failure to establish favorable termination of his criminal case, which is required under binding Second Circuit precedent. The appellate court affirmed.</p>\n",
+    "conclusion": "<p>A plaintiff wishing to bring a Section 1983 claim for malicious prosecution, need only show that his prosecution ended without a conviction. Justice Brett Kavanaugh authored the 6-3 majority opinion holding that Thompson satisfied that requirement and reversing the judgment of the lower court.</p>\n<p>To succeed on a claim of malicious prosecution under Section 1983, a plaintiff must show: (1) the suit or proceeding was instituted without probable cause, (2) the motive in instituting the suit was malicious\u2014that is, for a purpose other than bringing the defendant to justice, and (3) the prosecution terminated in the acquittal or discharge of the accused. The purposes of this third element\u2014favorable termination of the underlying criminal case\u2014are: (a) to avoid parallel civil and criminal litigation, (b) to prevent inconsistent civil and criminal judgments, and (c) to prevent civil suits from being improperly used as collateral attacks on criminal proceedings.</p>\n<p>Most American courts have considered a favorable termination to mean simply a prosecution that ends without conviction and cannot be revived. Thus, if the prosecutor abandons the case or the court dismisses the case without stating a reason, these satisfy the third element of a malicious prosecution claim. Acquittal of the defendant is not required. Respondents\u2019 claims to the contrary are not persuasive.</p>\n<p>Justice Samuel Alito authored a dissenting opinion, in which Justices Clarence Thomas and Neil Gorsuch joined. Justice Alito argued that the majority\u2019s analysis is cursory and erroneously relies on lower court cases \u201cheavily influenced by a mistaken reading of the plurality opinion in Albright v. Oliver, 510 U.S. 266 (1994).\u201d</p>\n"
+}

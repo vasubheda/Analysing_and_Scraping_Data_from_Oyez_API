@@ -1,0 +1,42 @@
+{
+    "ID": 56007,
+    "name": "Plumhoff v. Rickard",
+    "href": "https://api.oyez.org/cases/2013/12-1117",
+    "view_count": 0,
+    "docket_number": "12-1117",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1384495200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41341"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1393912800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52687"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1401166800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52688"
+        }
+    ],
+    "question": "<p>1. Did the Sixth Circuit err when it looked at whether subsequent case law supported the police's actions rather than determining if the police's actions were prohibited in 2004?</p>\n<p>2. Did the Sixth Circuit properly dismiss the police's qualified immunity defense by finding that the police acted unreasonably?</p>\n",
+    "citation": {
+        "volume": "572",
+        "page": "765",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/19929"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that police using deadly force to prevent a crime endangering the general public are granted qualified immunity.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/572/765/",
+    "facts_of_the_case": "<p>At midnight on July 18, 2004, West Memphis Police Officer Forthman pulled over Donald Rickard's vehicle because of an inoperable headlight. After Officer Forthman noticed damage on the vehicle and asked Rickard to step out of the car, Rickard sped away. Officer Forthman called for backup and pursued Rickard from West Memphis, Arkansas to Memphis, Tennessee. The police officers were ordered to continue the pursuit across the border and ultimately surrounded Rickard in a parking lot in Memphis, Tennessee. When Rickard again attempted to flee, the police fired shots into the vehicle, ultimately killing both Rickard and Kelley Allen, a woman who had been a passenger in the vehicle. The entire exchange was captured on police video.</p>\n<p>Rickard and Allen's families sued the police officers, the chief of police, and the mayor of West Memphis under federal and state law claims. The families argued that the police used excessive force when pursuing and ultimately killing Rickard and Allen and that using that force violated the Fourth Amendment. They also brought claims of assault, battery, malicious prosecution, intentional infliction of emotional distress, false imprisonment, and abuse of process. The government argued that, because the police acted in their official capacity, they were entitled to either absolute or qualified immunity from any lawsuit. The district court refused to dismiss the case against the government, and the U.S. Court of Appeals for the Sixth Circuit affirmed the decision of the trial court. The Court of Appeals held that qualified immunity only applies when officers are acting reasonably, and after reviewing subsequent cases, held that the police did not act reasonably in this case. Additionally, because the video evidence showed that the police fired on unarmed, fleeing drivers, a jury could determine that the police were not acting reasonably.</p>\n",
+    "conclusion": "<p>Yes and yes. Justice Samuel Alito delivered the opinion for the unanimous Court. The Court held that the requirement that a final decision be made by a district court prior to an appeal does not apply to motions for summary judgment when the motion is based on a claim of qualified immunity. Because the determination of qualified immunity is not merely a defense but actually immunity from the suit, it cannot be effectively reviewed after a final judgment at which point the protection from suit would have been \u201cirretrievably\u201d lost. The Court also held that the evidence showed that Rickard was still attempting to flee when the officers opened fire and that the officers reasonably could have believed that if the chase resumed Rickard would once again pose a deadly threat to others on the road. Furthermore, the total number of shots fired also did not qualify as excessive force. Therefore, if officers are justified in opening fire to end a threat to public safety, they are similarly justified in continuing to fire until the threat to public safety has ended.</p>\n"
+}

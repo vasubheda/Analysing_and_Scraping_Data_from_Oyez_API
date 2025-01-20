@@ -1,0 +1,42 @@
+{
+    "ID": 55170,
+    "name": "Rasul v. Bush",
+    "href": "https://api.oyez.org/cases/2003/03-334",
+    "view_count": 0,
+    "docket_number": "03-334",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1068444000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39091"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1082437200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39092"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1088398800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39093"
+        }
+    ],
+    "question": "<p>Do United States courts have jurisdiction to consider legal appeals filed on behalf of foreign citizens held by the United States military in Guantanamo Bay Naval Base, Cuba?</p>\n",
+    "citation": {
+        "volume": "542",
+        "page": "466",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19098"
+    },
+    "term": "2003",
+    "description": "A case in which the Court ruled that United States courts have jurisdiction to consider legal appeals filed on behalf of foreign citizens held by the United States military in Guantanamo Bay Naval Base, Cuba. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/542/466/",
+    "facts_of_the_case": "<p>Two Australians and 12 Kuwaitis were captured by the American military in Pakistan or Afghanistan during the United States' War on Terror. The captives were transported to the American military base in Guantanamo Bay, Cuba. When their families learned of the arrests, they filed suit in federal district court seeking a writ of habeas corpus that would declare the detention unconstitutional. They claimed that the government's decision to deny the men access to attorneys and to hold them indefinitely without access to a court violated the Fifth Amendment's Due Process Clause. The government countered that the federal courts had no jurisdiction to hear the case because the prisoners were not American citizens and were being held in territory over which the United States did not have sovereignty (the Guantanamo Bay base was leased from Cuba indefinitely in 1903, and Cuba retains \"ultimate sovereignty\").</p>\n<p>The district court agreed with the government, dismissing the case because it found that it did not have jurisdiction. The US Court of Appeals for the District of Columbia affirmed the district court's decision.</p>\n",
+    "conclusion": "<p>Yes. In a 6-3 opinion written by Justice John Paul Stevens, the Court found that the degree of control exercised by the United States over the Guantanamo Bay base was sufficient to trigger the application of habeas corpus rights. Stevens, using a list of precedents stretching back to mid-17th Century English Common Law cases, found that the right to habeas corpus can be exercised in \"all ... dominions under the sovereign's control.\" Because the United States exercised \"complete jurisdiction and control\" over the base, the fact that ultimate sovereignty remained with Cuba was irrelevant. Further, Stevens wrote that the right to habeas corpus is not dependent on citizenship status. The detainees were therefore free to bring suit challenging their detention as unconstitutional.</p>\n"
+}

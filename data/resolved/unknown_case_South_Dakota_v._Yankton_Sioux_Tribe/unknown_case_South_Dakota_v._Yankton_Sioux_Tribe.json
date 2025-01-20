@@ -1,0 +1,35 @@
+{
+    "ID": 54574,
+    "name": "South Dakota v. Yankton Sioux Tribe",
+    "href": "https://api.oyez.org/cases/1997/96-1581",
+    "view_count": 0,
+    "docket_number": "96-1581",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                881560800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37932"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                885794400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37933"
+        }
+    ],
+    "question": "<p>Did Congress diminish the boundaries of the Yankton Sioux Reservation in South Dakota in an 1894 statute that ratified an agreement pursuant to the Dawes Act, which permitted the Government to open reservation land to non-Indian settlement?</p>\n",
+    "citation": {
+        "volume": "522",
+        "page": "329",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18503"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/522/329/",
+    "facts_of_the_case": "<p>An 1858 Treaty between the United States and the Yankton Tribe established the Yankton Sioux Reservation in South Dakota. The 1887 Dawes Act permitted the Government to allot tracts of tribal land to individual Indians and, with tribal consent, to open the remaining holdings to non-Indian settlement. In 1892, pursuant to the Dawes Act, an agreement between the Tribe and the Government, ratified in 1894, provided that nothing \"shall be construed to abrogate the [1858] treaty.\" In 1992, the Southern Missouri Recycling and Waste Management District acquired land for a solid waste disposal facility that lies on unallotted, non-Indian fee land, but falls within the reservation's original 1858 boundaries. In 1994, the Tribe filed suit to enjoin construction. Ultimately, the District Court declined to enjoin construction of the landfill, but granted a declaratory judgment that the landfill lies within the Yankton Sioux Reservation, where federal environmental regulations apply. The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion delivered by Justice Sandra Day O'Connor, the Court held that the 1894 statute's operative language and the circumstances surrounding its passage demonstrate that Congress intended to diminish the Yankton Reservation and as a result the unallotted lands ceded did not retain reservation status. Consequently, because the unallotted lands included the landfill site, which no longer constituted Indian country as defined by 18 USCS 1151(a), South Dakota has primary jurisdiction over the lands. Noting the repudiation of allotment philosophy, Justice O'Connor wrote that, \"we must give effect to Congress' intent in passing the 1894 Act. Here... we believe that Congress spoke clearly, and although 'some might wish [it] had spoken differently... we cannot remake history.'\"</p>\n"
+}

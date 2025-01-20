@@ -1,0 +1,42 @@
+{
+    "ID": 63199,
+    "name": "Carney v. Adams",
+    "href": "https://api.oyez.org/cases/2020/19-309",
+    "view_count": 0,
+    "docket_number": "19-309",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1575612000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54621"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1601874000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54768"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1607580000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54808"
+        }
+    ],
+    "question": "<p>1. Does the plaintiff in this case have Article III standing to challenge Delaware\u2019s judicial service requirements?</p>\n<p>2. Does a state law that effectively limits judicial service to members of the Democratic and Republican parties violate the First Amendment?</p>\n",
+    "citation": {
+        "volume": "592",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27725"
+    },
+    "term": "2020",
+    "description": "A case in which the Court was asked to consider whether a state law that effectively limits state judicial service to members of the Democratic and Republican parties violates the First Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/592/19-309/",
+    "facts_of_the_case": "<p>James R. Adams is a resident of Delaware and member of that state\u2019s bar. Adams considered applying for a judicial position but ultimately decided not to because the state required the candidate to be a Republican, and Adams was neither a Republican nor a Democrat.</p>\n<p>Adams filed a lawsuit against the governor, challenging the provision of the Delaware Constitution that limits judicial service to members of the Democratic and Republican Parties. First, the district court held Adams had Article III (\u201cconstitutional\u201d) standing as to some, but not all of the provisions, but that because he had prudential standing to the other provisions, it would consider his challenge as to all of them. Turning to the merits, the district court noted that under the U.S. Supreme Court\u2019s precedent in <a href=\"https://www.oyez.org/cases/1975/74-1520\"><em>Elrod v. Burns</em></a> and <a href=\"https://www.oyez.org/cases/1975/74-1520\"><em>Branti v. Finkel</em></a>, a government employer may not make employment decisions based on political allegiance except with respect to policymakers. The court found that a judge\u2019s job is to apply, rather than create, the law, and thus that judges do not fall within the policymaking exception of Elrod and Burns. As such, the court found the provision unconstitutional in its entirety.</p>\n<p>On appeal, the U.S. Court of Appeals for the Third Circuit affirmed in part and reversed only as to the provisions for which Adams lacked Article III standing.</p>\n",
+    "conclusion": "<p>Because Adams had not shown that he was \u201cable and ready\u201d to apply for a judicial vacancy in the imminent future, he failed to demonstrate Article III standing to challenge the Delaware Constitution\u2019s political balance requirement for appointments to the State\u2019s major courts. Justice Stephen Breyer authored the unanimous (8-0) opinion of the Court.</p>\n<p>Article III standing requires that an \u201cinjury in fact\u201d be \u201cconcrete and particularized\u201d and \u201cactual or imminent.\u201d In this context, Adams needed to show that he was likely to apply to become a judge in the reasonably foreseeable future, which required a showing that he was \u201cable and ready\u201d to apply. He did not adequately make this showing, supporting his claim only with two statements he made that he wanted to be a judge without other supporting evidence of his intent to do so. As such, his grievance is generalized and does not meet the requirement for an \u201cinjury in fact.\u201d</p>\n<p>Justice Sonia Sotomayor authored a concurring opinion expressing her agreement that Adams did not demonstrate Article III standing. In anticipation that the constitutional questions raised in the case were likely to be raised again, she highlighted two considerations that \u201cmay inform their answers\u201d: the possibility of material difference between the \u201cmajor party\u201d requirement and the \u201cbare majority\u201d requirement, and a question of the severability of those two requirements.</p>\n<p>Justice Amy Coney Barrett took no part in the consideration or decision of this case.\u00a0</p>\n"
+}

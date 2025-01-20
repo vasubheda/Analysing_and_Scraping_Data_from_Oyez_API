@@ -1,0 +1,42 @@
+{
+    "ID": 55381,
+    "name": "Schriro v. Landrigan",
+    "href": "https://api.oyez.org/cases/2006/05-1575",
+    "view_count": 0,
+    "docket_number": "05-1575",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1159246800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39661"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1168322400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39662"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1179118800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39663"
+        }
+    ],
+    "question": "<p>1) Did the Ninth Circuit err by holding that the state court unreasonably determined the facts of the case when it found that Landrigan \"instructed his attorney not to present any mitigating evidence at the sentencing hearing\"?</p>\n<p>2) Was the Ninth Circuit correct to hold that counsel for Landrigan's failure to present mitigating evidence during the sentencing phase rendered him objectively ineffective, even though Landrigan had opposed the admission of the evidence?</p>\n",
+    "citation": {
+        "volume": "550",
+        "page": "465",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20666"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/550/465/",
+    "facts_of_the_case": "<p>Jeffrey Landrigan was convicted of first degree murder. During sentencing, Landrigan's counsel attempted to call witnesses to testify to Landrigan's disadvantaged upbringing and good character. However, Landrigan opposed his lawyer's decision to present this mitigating evidence, and the witnesses were never called. Landrigan was sentenced to death. He appealed, arguing that his counsel had been ineffective. Landrigan claimed that he had wanted the lawyer to present mitigating evidence showing Landrigan's genetic predisposition to violence.</p>\n<p>After state courts rejected the claim as frivolous, Landrigan filed a petition for habeas corpus in federal District Court. The District Court ruled against Landrigan, but he finally prevailed in the U.S. Court of Appeals for the Ninth Circuit. Despite the high degree of deference to state courts required by the Anti-Terrorism and Effective Death Penalty Act of 1996, the Ninth Circuit ruled that the state court had been unreasonable to uphold Landrigan's death sentence. Landrigan's lawyer should have presented the mitigating evidence, the Court ruled, and the omission had rendered counsel ineffective.</p>\n",
+    "conclusion": "<p>Yes and no. The Court reversed the Ninth Circuit and ruled that the District Court was within its discretion when it upheld Landrigan's sentence without granting him a new evidentiary hearing. The Justices split 5-4 with Justice Clarence Thomas writing the opinion for the majority. The Court rejected the Ninth's Circuit's holding that the District Court took out of context statements Landrigan made during his trial. Instead, the Court held that those statements clearly indicated that Landrigan had been aware of the mitigating evidence that could have been presented, but had simply chosen not to have it presented. The District Court could have reasonably concluded that Landrigan would refuse all mitigating evidence, rendering Landrigan's counsel's investigation ineffectual no matter how thorough it might have been. The dissenters noted that Landrigan's counsel's investigation had been inadequate, and argued that Landrigan might have agreed to present the evidence if his lawyer had investigated his case more thoroughly.</p>\n"
+}

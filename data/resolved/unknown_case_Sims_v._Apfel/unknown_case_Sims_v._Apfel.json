@@ -1,0 +1,35 @@
+{
+    "ID": 54831,
+    "name": "Sims v. Apfel",
+    "href": "https://api.oyez.org/cases/1999/98-9537",
+    "view_count": 0,
+    "docket_number": "98-9537",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                954223200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38408"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                960181200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38409"
+        }
+    ],
+    "question": "<p>Is a Social Security claimant barred from federal judicial review of issues he or she failed to raise during the administrative process?</p>\n",
+    "citation": {
+        "volume": "530",
+        "page": "103",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18760"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/530/103/",
+    "facts_of_the_case": "<p>After a state agency denied Juatassa Sims' application for Social Security disability and Supplemental Security Income benefits, she obtained a hearing before a Social Security Administrative Law Judge (ALJ). The ALJ also denied Sims' claims, concluding that, although she did have some medical impairments, she had not been and was not under a \"disability.\" Sims then sought review by the Social Security Appeals Council, which denied review. She next filed suit in the Federal District Court, contending that the ALJ erred in three ways by making selective use of the record, by posing defective questions to a vocational expert, and by failing to order a consultative examination. The District Court rejected her contentions. In affirming, the Court of Appeals concluding that it lacked jurisdiction over two of the contentions because they were not included in Sims' request for review by the Appeals Council.</p>\n",
+    "conclusion": "<p>No. In a plurality opinion delivered by Justice Clarence Thomas, the Court held, 5 to 4, that Social Security claimants who exhaust administrative remedies need not also exhaust issues administratively in order to preserve judicial review of those issues. Justice Thomas wrote that the issue-exhaustion requirement, usually required even in the absence of a statute or regulation, does not apply in a non-adversarial proceeding, as in Social Security cases. Justice O'Connor filed a separate opinion concurring in part and concurring in the judgment Justice Stephen G. Breyer filed a dissenting opinion joined by Chief Justice William H. Rehnquist and Justices Antonin Scalia and Anthony M. Kennedy.</p>\n"
+}

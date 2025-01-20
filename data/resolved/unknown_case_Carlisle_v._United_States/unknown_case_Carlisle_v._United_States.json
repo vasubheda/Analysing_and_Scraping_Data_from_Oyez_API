@@ -1,0 +1,35 @@
+{
+    "ID": 54383,
+    "name": "Carlisle v. United States",
+    "href": "https://api.oyez.org/cases/1995/94-9247",
+    "view_count": 0,
+    "docket_number": "94-9247",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                821772000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37584"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                830754000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37585"
+        }
+    ],
+    "question": "<p>Does a district court have the authority to grant a post-verdict motion for judgment of acquittal if the motion is filed beyond the seven-day deadline prescribed by Federal Rule of Criminal Procedure 29(c)?</p>\n",
+    "citation": {
+        "volume": "517",
+        "page": "416",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18312"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/517/416/",
+    "facts_of_the_case": "<p>At his trial on a federal marijuana charge, Charles Carlisle filed a motion for a judgment of acquittal under Federal Rule of Criminal Procedure 29(c) after the jury returned a guilty verdict. The District Court granted the motion even though it was filed one day outside the time limit prescribed by Rule 29(c), which provides that \"[i]f the jury returns a verdict of guilty..., a motion for judgment of acquittal may be made or renewed within 7 days after the jury is discharged or within such further time as the court may fix during the 7-day period.\" In reversing and remanding for reinstatement of the verdict and for sentencing, the Court of Appeals held that under Rule 29(c) a district court has no jurisdiction to grant an untimely motion for judgment of acquittal, or to enter such a judgment after submission of the case to the jury.</p>\n",
+    "conclusion": "<p>No. In an opinion authored by Justice Antonin Scalia, the Court held that the District Court had no authority to grant the petitioner's motion for judgment of acquittal filed one day outside the Rule 29(c) time limit. Judges may not stretch the deadline by even one day; Justice Scalia wrote for the court that, \"[t]here is simply no room...for the granting of an untimely post-verdict motion for judgment of acquittal, regardless of whether the motion is accompanied by a claim of actual innocence....\"</p>\n"
+}

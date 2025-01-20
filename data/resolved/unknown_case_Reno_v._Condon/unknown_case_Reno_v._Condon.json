@@ -1,0 +1,35 @@
+{
+    "ID": 54807,
+    "name": "Reno v. Condon",
+    "href": "https://api.oyez.org/cases/1999/98-1464",
+    "view_count": 0,
+    "docket_number": "98-1464",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                942213600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38363"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                947656800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38364"
+        }
+    ],
+    "question": "<p>Does the Driver's Privacy Protection Act of 1994 violate the constitutional principles of federalism?</p>\n",
+    "citation": {
+        "volume": "528",
+        "page": "141",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18736"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/528/141/",
+    "facts_of_the_case": "<p>State departments of motor vehicles (DMVs) require drivers and automobile owners to provide personal information, which may include a person's name, address, telephone number, Social Security number, and photograph, as a condition of obtaining a driver's license or registering an automobile. Congress enacted the Driver's Privacy Protection Act of 1994 (DPPA),which establishes a regulatory scheme that restricts the States' ability to disclose a driver's personal information without the driver's consent, after finding that many States sell such information. The DPPA conflicts with South Carolina law, under which information contained in the State's DMV records is available to any person or entity that fills out a form listing the requester's name and address and stating that the information will not be used for telephone solicitation. The Attorney General of South Carolina filed suit, alleging the DPPA violated the Tenth and Eleventh Amendments. The District Court concluded that the DPPA was incompatible with the principles of federalism, granted summary judgement for the State, and permanently enjoined the DPPA's enforcement against the State. In affirming, the Court of Appeals also concluded that the DPPA violated the constitutional principles of federalism.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Chief Justice William H. Rehnquist, the Court held that the DPPA is a proper exercise of Congress' regulation of interstate commerce under the Commerce Clause and doesn't run afoul of federalism principles. The law \"does not require the states in their sovereign capacity to regulate their own citizens,\" Chief Justice Rehnquist wrote for the Court. \"It does not require the South Carolina Legislature to enact any laws or regulations, and it does not require state officials to assist in the enforcement of federal statutes regulating private individuals,\" the Chief Justice added.</p>\n"
+}

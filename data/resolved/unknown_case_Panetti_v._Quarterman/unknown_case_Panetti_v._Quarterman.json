@@ -1,0 +1,42 @@
+{
+    "ID": 55410,
+    "name": "Panetti v. Quarterman",
+    "href": "https://api.oyez.org/cases/2006/06-6407",
+    "view_count": 0,
+    "docket_number": "06-6407",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1167976800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39743"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1176872400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39744"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1183006800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39745"
+        }
+    ],
+    "question": "<p>Does the Eighth Amendment permit the execution of an inmate who has a factual awareness of the State's stated reason for his execution, but who lacks, due to mental illness, a rational understanding of the State's justification?</p>\n",
+    "citation": {
+        "volume": "551",
+        "page": "930",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20712"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/551/930/",
+    "facts_of_the_case": "<p>Scott Louis Panetti was convicted of the murder of his wife's parents and sentenced to death. He petitioned for a writ of habeas corpus in federal District Court, claiming mental illness. The Supreme Court had ruled in <em>Ford v. Wainwright</em> that execution of the mentally ill is barred by the Eighth Amendment's prohibition on cruel and unusual punishment. A psychiatric evaluation found that Panetti believed that the State was \"in league with the forces of evil\" and was executing him in order to \"prevent him from preaching the Gospel.\" However, doctors also found Panetti to be aware of his crime, of the fact that he was to be executed, and of the State's stated reason for executing him. The District Court concluded that he was sufficiently sane to be executed.</p>\n<p>On appeal, the U.S. Court of Appeals for the Fifth Circuit affirmed the lower court. The Fifth Circuit rejected Panetti's argument that an inmate cannot be executed if he lacks a rational understanding of the State's motivation for the execution. The Court of Appeals instead relied on Justice Lewis Powell's concurrence in <em>Ford</em>, holding that an inmate need only have an awareness of the State's reason for execution, not necessarily a rational understanding of it.</p>\n",
+    "conclusion": "<p>Unanswered. In an opinion written by Justice Anthony Kennedy for a 5-4 majority, the Court held that the Fifth Circuit's analysis was too restrictive under <em>Ford v. Wainwright</em>, because it treated Panetti's mental condition as irrelevant as long as he had in some sense a factual awareness of the state's rationale. The Court rejected the state's arguments that the Court did not have jurisdiction and that the state court was entitled to deference under the Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA). In doing so, the Court held that a prisoner may sometimes bring a habeas petition claiming mental incompetency even if he did not raise the claim in his first petition and that state courts can be held to have unreasonably applied a legal principle even if the principle was addressed to somewhat different facts than those of the case at hand. The state court had unreasonably applied <em>Ford</em> by failing to give Panetti a fair hearing to fully present his psychiatric evidence. The Court also ruled that the Fifth Circuit \"rests on a flawed interpretation of <em>Ford</em>,\" because it failed to consider that Panetti's delusions may have prevented him from understanding the meaning of his punishment even though he professed to be aware of the facts. The Court did not undertake its own analysis of what kind of rational understanding the Eighth Amendment requires a death row inmate to have, saying, \"Although we reject the standard followed by the Court of Appeals, we do not attempt to set down a rule governing all competency determinations.\" The Court expressed the hope that expert psychiatric evidence would shed light on which delusions might distort an inmate's sense of reality so much as to render him incompetent to be executed.</p>\n"
+}

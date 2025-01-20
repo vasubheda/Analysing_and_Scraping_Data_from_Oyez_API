@@ -1,0 +1,42 @@
+{
+    "ID": 55231,
+    "name": "Tenet v. Doe",
+    "href": "https://api.oyez.org/cases/2004/03-1395",
+    "view_count": 0,
+    "docket_number": "03-1395",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1088398800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39259"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1105423200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39260"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1109743200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39261"
+        }
+    ],
+    "question": "<p>Does <em>Totten v. U.S.</em> prevent a district court from considering Jane and John Does' due process and tort claims that the CIA refused to keep its alleged promise to provide them with life-time financial assistance in exchange for their alleged espionage services to the CIA?</p>\n",
+    "citation": {
+        "volume": "544",
+        "page": "1",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19159"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/544/1/",
+    "facts_of_the_case": "<p>Jane and John Doe said they performed espionage activities abroad for the United States. The Does sued the CIA in federal district court for not paying financial support allegedly promised to the Does and for allegedly violating the Does' due process rights. The CIA argued the U.S. Supreme Court's decision in <em>Totten v. U.S.</em> (1875) prohibited the district court from hearing the case. In Totten the Court dismissed a spy's claim against the government for damages for breach of contract. Both the district court and the Ninth Circuit Court of Appeals ruled Totten did not prevent the district court from hearing the Does' case. The courts reasoned that the Does' case, unlike Totten's, was mainly about the denial of due process rights. The Ninth Circuit said the CIA could prohibit the district court from hearing the Does' case only if the CIA could show that state secrets would be in jeopardy were the case to proceed. The Ninth Circuit sent the case back to the district court for that court to determine the CIA's potential state secrets claim.</p>\n",
+    "conclusion": "<p>Yes. In a 9-0 decision delivered by Chief Justice William H. Rehnquist, the Court held that Totten barred the Does' suit. Totten, the Court ruled, prohibited judicial review in any case where success depended on the existence of a secret espionage relationship with the government. To risk revealing that relationship would endanger the essence of a spy's contract with the government - secrecy.</p>\n"
+}

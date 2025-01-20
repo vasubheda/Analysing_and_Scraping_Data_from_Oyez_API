@@ -1,0 +1,42 @@
+{
+    "ID": 55622,
+    "name": "Holland v. Florida",
+    "href": "https://api.oyez.org/cases/2009/09-5327",
+    "view_count": 0,
+    "docket_number": "09-5327",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1255410000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40335"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1267423200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40336"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1276491600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40337"
+        }
+    ],
+    "question": "<p>Can \"gross negligence\" by counsel that directly results in the late filing of a petition for habeas corpus relief qualify as a circumstance warranting equitable tolling?</p>\n",
+    "citation": {
+        "volume": "560",
+        "page": "631",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19545"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that a state prisoner who has exhausted their appeals process in their state has one year to file a writ of habeas corpus, with certain exceptions (including attorney misconduct) that may allow the courts to relax that deadline.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/560/631/",
+    "facts_of_the_case": "<p>A Florida state court convicted Albert Holland of first-degree murder, attempted first-degree murder, attempted sexual battery, and armed robbery, and sentenced him to death. After exhausting his state court remedies, Mr. Holland petitioned for federal habeas relief in a Florida federal district court. The district court denied the petition as untimely.</p>\n<p>On appeal, Mr. Holland argued that his attorney failed to communicate with him about the status of his case, then failed to file a timely federal habeas corpus petition, despite repeated instructions by Mr. Holland to do so. Therefore, Mr. Holland contended that he was entitled to equitable tolling of the statute of limitations. The United States Court of Appeals for the Eleventh Circuit disagreed, holding that absent an allegation and proof of bad faith, dishonesty, divided loyalty, or mental impairment on the attorney's part, no mere negligence of the attorney's rises to the level of egregious misconduct that would entitle a habeas corpus petitioner to equitable tolling.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court held that a state prisoner who has exhausted her state court appeals has one year within which to petition a federal court for a writ of habeas corpus. The court held that under certain \"extraordinary circumstances,\" a court may relax that deadline. Those circumstances may arise from an attorney's misconduct, even if the attorney did not act dishonestly or in bad faith.</p>\n<p>Justice Samuel J. Alito concurred in part and in the judgment, and Justice Antonin Scalia dissented, joined in part by Justice Clarence Thomas. In his dissent, Scalia criticized the court's statutory interpretation, stating that if Congress had intended for there to be equitable tolling in AEDPA, they would have explicitly stated so. He went on to criticize the court's application of the new standard</p>\n"
+}

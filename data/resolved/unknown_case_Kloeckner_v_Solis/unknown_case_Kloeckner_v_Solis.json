@@ -1,0 +1,42 @@
+{
+    "ID": 55922,
+    "name": "Kloeckner v Solis",
+    "href": "https://api.oyez.org/cases/2012/11-184",
+    "view_count": 0,
+    "docket_number": "11-184",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1326434400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41129"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1349154000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41130"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1355119200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41131"
+        }
+    ],
+    "question": "<p>Does a District Court or a Court of Appeals have jurisdiction over an employment discrimination claim that was dismissed by the Merit Systems Protection Board without ruling on the merits?</p>\n",
+    "citation": {
+        "volume": "568",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19844"
+    },
+    "term": "2012",
+    "description": "A case in which the Court found that the district court, rather than the Court of Appeals, has jurisdiction over \"mixed\" cases that have been dismissed by the Merit Systems Protection Board.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/568/41/",
+    "facts_of_the_case": "<p>Carolyn Kloeckner filed a complaint with the Equal Employment Opportunity Commission (EEOC) alleging hostile work environment as well as sex and age discrimination. When her employer charged her with being \"absent without leave,\" she amended her complaint to include retaliation. Kloeckner never returned to work, and eventually her employer terminated her. Kloeckner challenged the termination while her initial complaint was still pending, making it a \"mixed case.\" Kloeckner appealed the termination to the Merit Systems Protection Board (MSPB), but then requested a dismissal so she could amend her EEOC complaint. The MSPB granted the dismissal, giving her a set period to refile.</p>\n<p>When the EEOC found there had been no discrimination or retaliation, Kloeckner appealed the decision to the MSPB. While the appeal was within 30 days of the EEOC decision, it was 10 months after the refilling period set by the MSPB. The MSPB dismissed the case as untimely. Kloeckner filed an appeal in the District Court for the District of Columbia. The case was removed to the District Court for the Eastern District of Missouri, which held that the U.S. Court of Appeals for the Fifth Circuit had exclusive jurisdiction because the MSPB had not ruled on the merits of the case.</p>\n",
+    "conclusion": "<p>Yes, the district court has jurisdiction. Justice Elena Kagan delivered the opinion of the unanimous Court. The Court held that the two relevant sections of Civil Service Reform Act both direct mixed cases to the district court rather that the Court of Appeals for the Federal Circuit. There was no legislative history to support a reading of the statutes as creating a distinction between merits-based as opposed to procedural appeals. The Court also held that Kloeckner's appeal was timely because it was filed within 30 days of her received notice of a \"judicially reviewable action.\"</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 63275,
+    "name": "BP P.L.C. v. Mayor and City Council of Baltimore",
+    "href": "https://api.oyez.org/cases/2020/19-1189",
+    "view_count": 0,
+    "docket_number": "19-1189",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1601614800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54771"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1611036000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54835"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1621227600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54903"
+        }
+    ],
+    "question": "<p>Does federal law permit a court of appeals to review any issue included in a district court\u2019s order remanding a case to state court, or only the ground for removal?</p>\n",
+    "citation": {
+        "volume": "593",
+        "page": null,
+        "year": "2021",
+        "href": "https://api.oyez.org/case_citation/case_citation/27768"
+    },
+    "term": "2020",
+    "description": "A case in which the Court held that federal law permits a court of appeals to review any issue included in a district court\u2019s order sending a case to state court when the move to state court is based on two statutes, not just the ground for removal itself.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/593/19-1189/",
+    "facts_of_the_case": "<p>In July 2018, the Mayor and City of Baltimore filed suit in Maryland state court against 26 oil and gas companies that Maryland says are partly responsible for climate change. The complaint asserted eight causes of action, all founded on Maryland law, and sought monetary damages, civil penalties, and equitable relief. Two of the defendants removed the case to federal court, asserting eight grounds for removal. Baltimore then moved to remand the case back to state court. The district court rejected all eight grounds for removal and granted Baltimore\u2019s motion for remand back to state court.</p>\n<p>The defendants appealed the remand order, and the U.S. Court of Appeals for the Fourth Circuit affirmed the lower court, finding that 28 U.S.C. \u00a7 1442 does not provide a proper basis for removal of the suit.</p>\n",
+    "conclusion": "<p>A federal appellate court has jurisdiction to consider all of a defendant\u2019s grounds for removal under 28 U.S.C. \u00a7 1447(d). Justice Neil Gorsuch authored the 7-1 majority opinion of the Court.\u00a0</p>\n<p>Section 1447(d) provides that \u201can order remanding a case to the State court from which it was removed is not reviewable on appeal or otherwise, except that an order remanding a case to the State court from which it was removed pursuant to section 1442 or 1443 of this title shall be reviewable by appeal or otherwise.\u201d In this case, the defendants had relied on the federal officer removal statute in \u00a7 1442, which is precisely one of the situations in which \u00a7 1447(d) permits an appeal. While the Fourth Circuit interpreted the provision as authorizing only the part of the district court\u2019s order discussing \u00a7 1442, the ordinary meaning of \u00a7 1442\u2014particularly the use of the word \u201corder\u201d\u2014does not support that interpretation. Rather, \u00a7 1447(d) permits appellate review of the district court\u2019s remand order without qualification. This conclusion is consistent with the Court\u2019s most analogous precedent, <a href=\"https://www.oyez.org/cases/1995/94-1387\"><em>Yamaha Motor Corp., U.S.A., v. Calhoun</em>, 516 U.S. 199 (1996)</a>, in which it held that another provision, 28 U.S.C. \u00a7 1292(b), which allows a district court to certify \u201can order,\u201d is not tied to the particular question formulated by the district court. Finally, the Court found Baltimore\u2019s policy arguments \u201ccannot overcome a clear statutory directive.\u201d</p>\n<p>Justice Sonia Sotomayor authored a dissenting opinion, arguing that the Court\u2019s holding allows defendants to \u201csidestep\u201d \u00a7 1447(d)\u2019s bar on appellate review simply by \u201cshoehorning a \u00a7 1442 or \u00a7 1443 argument into their case for removal.\u201d This, Justice Sotomayor argued, \u201clets the exception swallow the rule.\u201d</p>\n<p>Justice Samuel Alito took no part in the consideration or decision of the case.</p>\n"
+}

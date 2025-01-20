@@ -1,0 +1,42 @@
+{
+    "ID": 55354,
+    "name": "Illinois Tool Works Inc. v. Independent Ink, Inc.",
+    "href": "https://api.oyez.org/cases/2005/04-1329",
+    "view_count": 0,
+    "docket_number": "04-1329",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1119243600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39601"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1133244000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39602"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1141192800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39603"
+        }
+    ],
+    "question": "<p>Under the Sherman Act, when the license to use a patented product is tied to a customer's agreement to use a separate non-patented product, is it assumed that the manufacturer of the patented product has the ability to raise prices above market rates?</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "28",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20587"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/547/28/",
+    "facts_of_the_case": "<p>Independent Ink manufactured printing ink that was compatible with the printheads manufactured by (and patented by) Trident, a company owned by Illinois Tool Works. Trident, however, required that anyone who used their printheads also use their ink, which was not patented. Independent Ink brought suit in federal district court under the Sherman Act, which forbids companies from tying a license to use one product (in this case Trident's printheads) to a customer's agreement to use another product (Trident's ink). The district court ruled in favor of Trident, finding that Independent Ink had failed to show that Trident's control of the printhead allowed them to raise prices above the competitive market rate. The United States Court of Appeals for the Federal Circuit reversed, however, finding that when the product for which a license is granted is under patent, the ability to raise prices of that product above market rates must be assumed, and the burden is on the defendant to show that such power did not exist.</p>\n",
+    "conclusion": "<p>No. The Supreme Court unanimously decided that the burden was on the party claiming an anti-trust violation to show that the defendant had the power to raise prices above market rates. Justice John Paul Stevens, who wrote the opinion, rejected the rule used in <em>International Salt Company v. United States</em>, 332 U.S. 392, that the assumption should be made that such power existed. Stevens wrote, \"The question presented to us today is whether the presumption of market power in a patented product should survive as a matter of antitrust law despite its demise in patent law. We conclude that the mere fact that a tying product is patented does not support such a presumption.\"</p>\n"
+}

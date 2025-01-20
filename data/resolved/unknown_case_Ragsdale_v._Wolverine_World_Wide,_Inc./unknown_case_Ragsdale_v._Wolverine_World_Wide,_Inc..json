@@ -1,0 +1,35 @@
+{
+    "ID": 55002,
+    "name": "Ragsdale v. Wolverine World Wide, Inc.",
+    "href": "https://api.oyez.org/cases/2001/00-6029",
+    "view_count": 0,
+    "docket_number": "00-6029",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1010383200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38733"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1016517600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38734"
+        }
+    ],
+    "question": "<p>Does Labor Department regulation 29 CFR section 825.700(a) require employers to grant an employee additional leave after granting more than 12 weeks of leave, if the employer failed to notify the employee that the original leave counted against the employee's Family and Medical Leave Act of 1993 entitlement?</p>\n",
+    "citation": {
+        "volume": "535",
+        "page": "81",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/18931"
+    },
+    "term": "2001",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/535/81/",
+    "facts_of_the_case": "<p>The Family and Medical Leave Act of 1993 (FMLA) guarantees qualifying employees 12 weeks of unpaid leave each year and encourages businesses to adopt more generous policies. In 1996, Wolverine World Wide, Inc. granted Tracy Ragsdale 30 weeks of medical leave after she was diagnosed with Hodgkin's disease. Wolverine did not notify Ragsdale that 12 weeks of the absence would count as her FMLA leave. After Ragsdale sought another 30-day extension, Wolverine refused her request and terminated her when she did not return to work. Ragsdale filed suit, alleging under Labor Department regulation 29 CFR section 825.700(a), which provides that if an employee takes medical leave \"and the employer does not designate the leave as FMLA leave, the leave taken does not count against an employee's FMLA entitlement,\" that Wolverine was required to grant her 12 additional weeks of leave. The District Court granted Wolverine summary judgment, finding that the regulation was in conflict with the statute and invalid because it required Wolverine to grant Ragsdale more than 12 weeks of FMLA-compliant leave in one year. The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>No. In a 5-4 opinion delivered by Justice Anthony M. Kennedy, the Court held that the regulation is contrary to the FMLA and beyond the Secretary of Labor's authority. Among other findings, Justice Kennedy reasoned that the regulation amended the FMLA's most fundamental substantive guarantee, the 12-week leave entitlement, and thus undermined Congress's balance of the needs of families and the interests of employers. Arguing that the regulation was incompatible with the regulation, Justice Kennedy wrote that, it \"imposes a high price for a good-faith but erroneous characterization of an absence as non-FMLA leave, and employers like Wolverine might well conclude that the simpler, less generous route is the preferable one.\" Justice O'Connor filed a dissenting opinion, joined by Justices David H. Souter, Ruth Bader Ginsburg and Stephen G. Breyer.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 62309,
+    "name": "Fisher v. University of Texas",
+    "href": "https://api.oyez.org/cases/2015/14-981",
+    "view_count": 0,
+    "docket_number": "14-981",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1435554000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52779"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1449640800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53291"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1466658000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53811"
+        }
+    ],
+    "question": "<p>Does the University of Texas\u2019 use of race as a consideration in the admissions process violate the Equal Protection Clause of the Fourteenth Amendment?</p>\n",
+    "citation": {
+        "volume": "579",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27111"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that the University of Texas\u2019 use of race as a consideration in the admissions process did not violate the Equal Protection Clause of the Fourteenth Amendment. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/579/14-981/",
+    "facts_of_the_case": "<p>Abigail Fisher, a white female, applied for admission to the University of Texas but was denied. She did not qualify for Texas' Top Ten Percent Plan, which guarantees admission to the top ten percent of every in-state graduating high school class. For the remaining spots, the university considers many factors, including race. Fisher sued the University and argued that the use of race as a consideration in the admissions process violated the Equal Protection Clause of the Fourteenth Amendment. The district court held that the University\u2019s admissions process was constitutional, and the U.S. Court of Appeals for the Fifth Circuit affirmed. The case went to the Supreme Court, which held that the appellate court erred by not applying the strict scrutiny standard to the University\u2019s admission policies. The case was remanded, and the appellate court reaffirmed the lower court\u2019s decision by holding that the University of Texas\u2019 use of race as a consideration in the admissions process was sufficiently narrowly tailored to the legitimate interest of promoting educational diversity and therefore satisfied strict scrutiny.</p>\n",
+    "conclusion": "<p>The University of Texas\u2019 use of race as a consideration in the admissions process did not violate the Equal Protection Clause of the Fourteenth Amendment. Justice Anthony M. Kennedy delivered the opinion for the 4-3 majority. The Court held that the University of Texas\u2019 use of race as a factor in the holistic review used to fill the spots remaining after the Top Ten Percent Plan was narrowly tailored to serve a compelling state interest. Previous precedent had established that educational diversity is a compelling interest as long as it is expressed as a concrete and precise goal that is neither a quota of minority students nor an amorphous idea of diversity. In this case, the Court determined that the University of Texas sufficiently expressed a series of concrete goals along with a reasoned explanation for its decision to pursue these goals along with a thoughtful consideration of why previous attempts to achieve the goals had not been successful. The University of Texas\u2019 plan is also narrowly tailored to serve this compelling interest because there are no other available and workable alternatives for doing so.</p>\n<p>Justice Clarence Thomas wrote a dissent in which he argued that the Equal Protection Clause of the Fourteenth Amendment categorically prohibits the use of race as a consideration in a higher education admissions process. In his separate dissent, Justice Samuel A. Alito, Jr. wrote that majority\u2019s decision was too deferential to the University of Texas\u2019 determination that its use of race in the admissions process was narrowly tailored to serve a compelling interest and that the majority failed to properly apply strict scrutiny. Because the Fourteenth Amendment\u2019s Equal Protection Clause was enacted at least in part to prevent the government from treating individuals as merely components of racial class, race-based classifications, regardless of their purpose must be subject to the strictest level of constitutional scrutiny. In this case, the University of Texas\u2019 use of race in its admissions policy cannot withstand strict scrutiny because the University\u2019s interest is not sufficiently clearly defined and therefore judicial review to determine whether the policy is narrowly tailored is impossible. Even if it were, the goal of demographic diversity could only feasibly be achieved using impermissible quotas for racial balancing that are based on stereotypes. Justice Alito also argued that the use of racial preferences is unnecessary to achieve the goal of diversity because the admissions process could use a race-neutral holistic review based on life experiences that would achieve the same effect. Chief Justice John G. Roberts, Jr. and Justice Clarence Thomas joined in the dissent.</p>\n<p>Justice Elena Kagan did not participate in the discussion or decision of the case.</p>\n"
+}

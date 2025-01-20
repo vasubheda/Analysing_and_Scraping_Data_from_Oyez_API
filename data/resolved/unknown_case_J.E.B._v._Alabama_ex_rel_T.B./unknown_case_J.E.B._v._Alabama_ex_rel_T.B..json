@@ -1,0 +1,35 @@
+{
+    "ID": 54280,
+    "name": "J.E.B. v. Alabama ex rel T.B.",
+    "href": "https://api.oyez.org/cases/1993/92-1239",
+    "view_count": 0,
+    "docket_number": "92-1239",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                752220000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37390"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                766731600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37391"
+        }
+    ],
+    "question": "<p>Was the use of peremptory challenges to exclude jurors solely because of their gender a violation of the equal protection clause of the Fourteenth Amendment?</p>\n",
+    "citation": {
+        "volume": "511",
+        "page": "127",
+        "year": "1994",
+        "href": "https://api.oyez.org/case_citation/case_citation/18209"
+    },
+    "term": "1993",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/511/127/",
+    "facts_of_the_case": "<p>Alabama, acting on behalf of T.B. (the mother), sought paternity and child support from J.E.B.(the putative father). A jury found for T.B. In forming the jury, Alabama used its peremptory strikes to eliminate nine of the ten men who were in the jury pool; J.E.B. use a peremptory challenge to strike a tenth man in the pool.</p>\n",
+    "conclusion": "<p>Yes. The Constitution's guarantee of equal protection bars the exclusion of potential jurors on the basis of their sex, just as it bars exclusion on the basis of race. \"[G]ender-based classifications,\" wrote Justice Harry Blackmun for the majority, \"require 'an exceedingly persuasive justification' in order to survive constitutional scrutiny.\" As a consequence, \"[P]arties still may remove jurors whom they feel might be less acceptable than others on the panel; gender simply may not serve as a proxy for bias.\"</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55520,
+    "name": "Irizarry v. United States",
+    "href": "https://api.oyez.org/cases/2007/06-7517",
+    "view_count": 0,
+    "docket_number": "06-7517",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1199426400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40047"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1208235600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40048"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1213246800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40049"
+        }
+    ],
+    "question": "<p>Is a judge required to give both parties advance notice before imposing a criminal sentence that departs from the Federal Sentencing Guidelines?</p>\n",
+    "citation": {
+        "volume": "553",
+        "page": "708",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20746"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/553/708/",
+    "facts_of_the_case": "<p>In 2004, Richard Irizarry pleaded guilty to threatening his ex-wife. The district court sentenced Irizarry to five years, the maximum sentence allowed by law. The court imposed this sentence, which is six months longer than the sentence prescribed by the Federal Sentencing Guidelines, because it felt Irizarry was likely to continue to threaten his ex-wife.</p>\n<p>Irizarry appealed, arguing that the district court violated Rule 32(h) of the Federal Rules of Criminal Procedure by not giving advance notice that it was considering a ground for departure not identified in the presentence report or a prehearing government submission. The U.S. Court of Appeals for the Eleventh Circuit rejected this claim, stating that the Supreme Court's 2005 decision in U.S. v. Booker had made the guidelines advisory as opposed to mandatory. In imposing a harsher sentence than that suggested by the federal guidelines, the Eleventh Circuit reasoned, the district judge had merely varied the federal rules, not departed from them.</p>\n",
+    "conclusion": "<p>No. Justice John Paul Stevens, writing for the five-justice majority, held that advance warning of a sentence departing from the Federal Sentencing Guidelines is unnecessary after <em>Booker</em>, which made the guidelines advisory. If the guidelines were still mandatory, Stevens argued, advance warning might be required. Justice Stephen J. Breyer, joined by three other Justices, dissented.</p>\n"
+}

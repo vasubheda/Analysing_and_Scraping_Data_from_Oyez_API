@@ -1,0 +1,42 @@
+{
+    "ID": 62785,
+    "name": "Impression Products, Inc. v. Lexmark International, Inc.",
+    "href": "https://api.oyez.org/cases/2016/15-1189",
+    "view_count": 0,
+    "docket_number": "15-1189",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1480658400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53937"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1490072400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53991"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1496120400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54044"
+        }
+    ],
+    "question": "<ol><li>Does a \u201cconditional sale\u201d that transfers title with post-sale restrictions on the use or resale of the item avoids the patent exhaustion doctrine and therefore permit the enforcement of the post-sale restrictions by suing for infringement?\u00a0</li>\n<li>\u00a0In light of Kirtsaeng v. John Wiley &amp; Sons, Inc., which held that copyrighted work lawfully made abroad is subject to the same post-sale restrictions as work made domestically, does the sale of a patented article abroad exhaust the U.S. patent rights in that article? </li>\n</ol>",
+    "citation": {
+        "volume": "581",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27485"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that a patentee\u2019s decision to sell an item exhausts all of its patent rights in that item, even if the e patentee purports to impose post-sale restrictions, and regardless of whether the sale occurs domestically or internationally.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/581/15-1189/",
+    "facts_of_the_case": "<p dir=\"ltr\">Lexmark International, Inc. (Lexmark) owns many patents for its printer toner cartridges. The customers who buy Lexmark\u2019s cartridges may choose a cartridge subject to a \u201cReturn Program,\u201d which is a combination single-use patent and contract license, and those who purchase the Return Program are given a discount on the cartridge in exchange for agreeing to use the cartridge once and then return the empty cartridge to Lexmark. Otherwise, customers may choose \u00a0a cartridge free of restrictions on its use. Some of Lexmark\u2019s cartridges sold abroad and all of the domestically-sold cartridges at issue were subject to both a discount and the Return Program. Impression Products, Inc. (Impression) acquired the cartridges at issue after a third party physically changed the cartridges to enable re-use in violation of the single-use Return Program. Then, Impression Products acquired the cartridges abroad and resold them in the United States. </p>\n<p>Lexmark sued Impression and alleged that Impression infringed on Lexmark\u2019s patents because Impression Products acted without authorization from Lexmark to resell and reuse the cartridges. Impression argued that, under the doctrine of exhaustion, Impression\u2019s resale of the cartridges is non-infringing because Lexmark, in transferring the title by selling the cartridges initially, granted the requisite authority. The district court granted Impression\u2019s motion to dismiss as it related to the domestically sold cartridges and held that the patent-holder\u2019s rights were exhausted when the initial sale was authorized and unrestricted. The motion was denied as it related to the foreign-sold cartridges, however. The U.S. Court of Appeals for the Federal Circuit affirmed in part and reversed in part by holding that Lexmark\u2019s sale did not \u201cconfer authority\u201d to Impression to resell without infringing on the patent. The appellate court also held that Lexmark\u2019s foreign sales did not confer authority to import, sell, or use the cartridges, and it did not waive Lexmark\u2019s rights to its patent.</p>\n",
+    "conclusion": "<p dir=\"ltr\">A patentee\u2019s decision to sell an item exhausts all of its patent rights in that item, even if the e patentee purports to impose post-sale restrictions, and regardless of whether the sale occurs domestically or internationally. Chief Justice John G. Roberts, Jr. delivered the opinion for the 7-1 majority. The Court held that the Patent Act had long recognized the common law doctrine of patent exhaustion as a way to limit patentees\u2019 power to exclude others from using their patented products. Under the doctrine, once a patentee sold an item, that item was the property of the buyer, and the buyer could act according to the rights and benefits that come with ownership. Therefore, even when a patentee sold an item with an express restriction on its later use, that restriction could not be enforced under patent law, though it might be enforceable under contract law. Such patent exhaustion was uniform and automatic, regardless of how the patentee attempted to create and enforce an express restriction. The Court also held that an authorized sale outside of the United States triggered the doctrine of exhaustion just as a sale within the United States did because the common law doctrine does not have a territorial limit. </p>\n<p dir=\"ltr\">Justice Ruth Bader Ginsburg wrote an opinion concurring in part and dissenting in part in which she argued that a foreign sale should not exhaust a U.S. inventor\u2019s patent rights because patent law is territorial. When a patentee had a U.S. patent that it wanted to exercise abroad, the patentee had to apply to each individual country in which it wanted to have an exclusive right to sell the product. Because U.S. patent law protection did not accompany a U.S. patentee\u2019s sales abroad, U.S. patent law consequences should also not follow such foreign sales.</p>\n<p>\u00a0</p>\n<p dir=\"ltr\">Justice Neil Gorsuch did not participate in the discussion or decision of this case. </p>\n"
+}

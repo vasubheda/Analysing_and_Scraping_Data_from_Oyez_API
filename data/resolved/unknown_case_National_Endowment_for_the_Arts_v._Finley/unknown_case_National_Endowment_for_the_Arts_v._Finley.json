@@ -1,0 +1,35 @@
+{
+    "ID": 54653,
+    "name": "National Endowment for the Arts v. Finley",
+    "href": "https://api.oyez.org/cases/1997/97-371",
+    "view_count": 0,
+    "docket_number": "97-371",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                891324000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38082"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                898750800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38083"
+        }
+    ],
+    "question": "<p>Are the statutory funding guidelines requiring the NEA to consider artistic excellence, merit, and general standards of \"decency and respect,\" overly vague and conducive of viewpoint discrimination in violation of the First Amendment's freedom of expression guarantees?</p>\n",
+    "citation": {
+        "volume": "524",
+        "page": "569",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18582"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/524/569/",
+    "facts_of_the_case": "<p>The National Foundation on the Arts and Humanities Act entrusts the National Endowment for the Arts (NEA) with discretion to award financial grants to the arts. The NEA's broad decision guidelines are: \"artistic and cultural significance,\" with emphasis on \"creativity and cultural diversity professional excellence,\" and the encouragement of \"public education and appreciation of the arts.\" In 1990, Congress amended the criteria by requiring the NEA to consider \"artistic excellence and artistic merit taking into consideration general standards of decency and respect for the diverse beliefs and values of the American public.\" After suffering a funding rejection, Karen Finley, along with three other performance artists and the National Association of Artists' Organizations, challenged the NEA's amended statutory review proceedings as unconstitutionally vague and discriminatory. After consecutive district and appellate court rulings in favor of Finley, the Supreme Court granted the NEA certiorari.</p>\n",
+    "conclusion": "<p>No. In an 8-to-1 opinion the Court held that, unlike direct sovereign regulation of speech, Congress enjoys wide latitude when setting spending priorities which may indirectly affect certain forms of expression. The funding of one activity believed to be in the public interest, to the exclusion of another, does not constitute viewpoint discrimination. Moreover, the statutory funding guidelines were not impermissibly vague since they involved selective subsidies rather than criminal or regulatory prohibitions. The Court noted that while the amended regulations may add some measure of imprecision to the existing guidelines, they do so to an already highly subjective selection process, made so by the inevitable nature of the subject matter with which it deals.</p>\n"
+}

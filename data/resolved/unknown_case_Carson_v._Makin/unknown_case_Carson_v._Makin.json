@@ -1,0 +1,42 @@
+{
+    "ID": 63381,
+    "name": "Carson v. Makin",
+    "href": "https://api.oyez.org/cases/2021/20-1088",
+    "view_count": 0,
+    "docket_number": "20-1088",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1625202000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54942"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1638943200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54979"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1655787600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55118"
+        }
+    ],
+    "question": "<p>Does a state law prohibiting students participating in an otherwise generally available student-aid program from choosing to use their aid to attend schools that provide religious, or \u201csectarian,\u201d instruction violate the Religion Clauses or Equal Protection Clause of the U.S. Constitution?</p>\n",
+    "citation": {
+        "volume": "596",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27833"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held that a state law prohibiting students participating in an otherwise generally available student-aid program from choosing to use their aid to attend schools that provide religious, or \u201csectarian,\u201d instruction violates the Free Exercise Clause of the First Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/596/20-1088/",
+    "facts_of_the_case": "<p>The State of Maine relies on local school administrative units (SAUs) to ensure that every school-age child in the state has access to a free education. Not every SAU operates its own public secondary school. To meet the state requirements, an SAU without its own public secondary school may either (1) contract with a secondary school to provide school privileges or (2) pay the tuition of a secondary school at which a particular student is accepted. In either circumstance, the secondary school must be either a public school or an \u201capproved\u201d private school.</p>\n<p>To be an \u201capproved\u201d school, a private school must meet the state\u2019s compulsory attendance requirements (which can be demonstrated by accreditation by a New England association of schools and colleges or by approval by the Maine Department of Education), and it must be \u201cnonsectarian in accordance with the First Amendment.\u201d</p>\n<p>The Carsons, Gillises, and Nelsons live in SAUs that do not operate a public secondary school of their own but instead provide tuition assistance to parents who send their children to an \u201capproved\u201d private school. The three families opted to send their children to private schools that are accredited but do not meet the nonsectarian requirement because they are religiously affiliated. Because the schools are not \u201capproved,\u201d they do not qualify for tuition assistance. The families filed a lawsuit in federal court arguing that the \u201cnonsectarian\u201d requirement violates the Constitution on its face and as applied. On cross-motions for summary judgment, the district court granted judgment to the State and denied judgment to the plaintiffs. The U.S. Court of Appeals for the First Circuit affirmed, noting that it had twice before rejected similar challenges, and even though the U.S. Supreme Court had decided two relevant cases in the interim, those cases do not produce a different outcome here.</p>\n",
+    "conclusion": "<p>Maine\u2019s \u201cnonsectarian\u201d requirement for otherwise generally available tuition assistance payments to parents who live in school districts that do not operate a secondary school of their own violates the Free Exercise Clause of the First Amendment. Chief Justice Jonh Roberts authored the majority opinion of the Court.</p>\n<p>Two cases resolve the dispute in this case. In Trinity Lutheran Church of Columbia, Inc. v. Comer, the Court held that the Free Exercise Clause did not permit Missouri to discriminate against otherwise eligible recipients by disqualifying them from a public benefit solely\u00a0because of their religious character. And in Espinoza v. Montana Department of Revenue, the Court held that a provision of the Montana Constitution barring government aid to any school \u201ccontrolled in whole or in part by any church, sect, or denomination\u201d violated the Free Exercise Clause because it prohibited families from using otherwise available scholarship funds at religious schools. Applying those precedents to this case, Maine may not choose to subsidize some private schools but not others on the basis of religious character.</p>\n<p>Justice Stephen Breyer authored a dissenting opinion, in which Justices Sonia Sotomayor and Elena Kagan joined, arguing that the majority gives \u201calmost exclusive\u201d attention to the Free Exercise Clause while paying \u201calmost no attention\u201d to the Establishment Clause. In Justice Breyer\u2019s view, Maine\u2019s nonsectarian requirement strikes the correct balance between the two clauses.</p>\n<p>Justice Sotomayor dissented separately, as well, to highlight the Court\u2019s \u201cincreasingly expansive view of the Free Exercise Clause\u201d that \u201crisks swallowing the space between the Religion Clauses.\u201d</p>\n"
+}

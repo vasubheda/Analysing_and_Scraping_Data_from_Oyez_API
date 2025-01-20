@@ -1,0 +1,42 @@
+{
+    "ID": 55955,
+    "name": "Boyer v. Louisiana",
+    "href": "https://api.oyez.org/cases/2012/11-9953",
+    "view_count": 0,
+    "docket_number": "11-9953",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1349413200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41225"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1358143200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41226"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1367211600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41227"
+        }
+    ],
+    "question": "<p>Should a state's failure to fund counsel for an indigent defendant for five years be weighed against the state for speedy trial purposes?</p>\n<p>Is a defendant's due process right to present a complete defense, to compulsory process, and to confront the witnesses against him violated when relevant and reliable expert testimony as to the psychology of interrogations and false confessions is excluded at trial?</p>\n",
+    "citation": {
+        "volume": "569",
+        "page": null,
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19877"
+    },
+    "term": "2012",
+    "description": "A case in which the Court was asked to decide whether a state's failure to fund counsel for an indigent defendant for five years should be weighed against the state in violation of the right to a speedy trial. ",
+    "justia_url": null,
+    "facts_of_the_case": "<p>In 2002, Jonathan Edward Boyer and his brother Anthony walked along a roadway in Sulphur, Louisiana. When Bradlee Marsh gave the brothers a ride, Boyer demanded money from Marsh. Marsh refused, and Boyer shot him in the head three times and took his money and a silver chain. Marsh died from his injuries.</p>\n<p>Boyer was indicted in Louisiana state court on second-degree murder and armed robbery with a firearm charges. The jury found Boyer guilty on both counts. Boyer filed a motion for a new trial, but was denied. He was sentenced to life in prison without parole for the second-degree murder charge, and 104 years without parole for the armed robbery charge. On appeal, Boyer argued that that the trial court erred in determining his mental competency, by sustaining the State's objection to Boyer's attempt to present testimony showing his brother - Anthony - had violent tendencies, and by giving Jonathan Boyer an excessively long sentence. The court of appeals affirmed the convictions, holding that the trial court did not abuse its discretion and did not prejudice Boyer.</p>\n",
+    "conclusion": "<p>In a per curiam opinion, the Supreme Court dismissed the case as improvidently granted.</p>\n<p>Justice Samuel A. Alito, Jr. concurred, writing that the majority of the delay in the trial was due to the defendant himself. The defendant even moved to delay a hearing to solve the funding issue multiple times. The record did not support a finding that lack of funding was a significant cause of the delay. Justice Antonin Scalia and Justice Clarence Thomas joined in the concurrence.</p>\n<p>Justice Sonia Sotomayor dissented, arguing that the Court should defer to the lower court's finding that the majority of the delay was caused by a lack of funding. If the Court had addressed the question presented, Justice Sotomayor would hold that a delay due to lack of funding weighs against the State when determining whether there was a Sixth Amendment violation. Justice Ruth Bader Ginsburg, Justice Stephen G. Breyer, and Justice Elena Kagan joined in the dissent.</p>\n"
+}

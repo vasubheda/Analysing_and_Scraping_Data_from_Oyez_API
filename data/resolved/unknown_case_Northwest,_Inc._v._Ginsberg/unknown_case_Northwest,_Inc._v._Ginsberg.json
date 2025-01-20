@@ -1,0 +1,42 @@
+{
+    "ID": 56034,
+    "name": "Northwest, Inc. v. Ginsberg",
+    "href": "https://api.oyez.org/cases/2013/12-462",
+    "view_count": 0,
+    "docket_number": "12-462",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1369026000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41383"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1386050400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41384"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1396414800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41572"
+        }
+    ],
+    "question": "<p>Are claims arising from a frequent flyer program contract preempted by the Airline Deregulation Act as dealing with the price, route, or service of an air carrier?</p>\n",
+    "citation": {
+        "volume": "572",
+        "page": "273",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20884"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that the Airline Deregulation Act preempts claims arising from a frequent flier complaint based on price, route, or air carrier service.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/572/273/",
+    "facts_of_the_case": "<p>S. Binyomin Ginsberg became a member of the Northwest Airlines frequent flyer program in 1999 and obtained Premium Elite Status in 2005. In 2008, his membership was terminated, as per the terms of the program that allow Northwest Airlines discretion over the removal of participants. In January 2009, Ginsberg sued Northwest Airlines and argued that, by terminating his membership in the frequent flyer program, the company breached both the contractual agreement and the implied doctrine of good faith and fair dealing under Minnesota law.</p>\n<p>At trial in district court, the defense argued that Ginsberg's claims were preempted by the Airline Deregulation Act of 1978 (ADA), which prohibits states from enacting or enforcing regulation over the price, route, or service of an air carrier. The district court found in favor of Northwest Airlines. The U.S. Court of Appeals for the Ninth Circuit reversed and held that the ADA did not preempt the claims because the claims were unrelated to the price, route, or services of the air carrier.</p>\n",
+    "conclusion": "<p>Yes, the Airline Deregulation Act pre-empts state law claims when such claims seek to enlarge the contractual obligations that the parties voluntarily adopted. Justice Samuel A. Alito, Jr. delivered the opinion for the unanimous Court. The Court held that exempting such claims from pre-emption would negate the ADA's goal of allowing market forces to establish aspects of air transportation without the interference of state laws. Additionally, since Minnesota state law does not allow parties to contract out of the covenant into which they voluntarily entered, a claim of a breach of covenant is pre-empted unless otherwise specified.</p>\n"
+}

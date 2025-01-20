@@ -1,0 +1,42 @@
+{
+    "ID": 55310,
+    "name": "Dixon v. United States",
+    "href": "https://api.oyez.org/cases/2005/05-7053",
+    "view_count": 0,
+    "docket_number": "05-7053",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1137132000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39481"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1145941200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39482"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1150952400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39483"
+        }
+    ],
+    "question": "<p>When a defendant raises a duress defense, is the burden of proof on the defendant to prove duress by a preponderance of the evidence, or on the government to prove beyond a reasonable doubt that duress is not applicable?</p>\n",
+    "citation": {
+        "volume": "548",
+        "page": "1",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20644"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/548/1/",
+    "facts_of_the_case": "<p>Keshia Dixon was arrested for illegally purchasing firearms. At her trial, Dixon raised a duress defense, claiming that her boyfriend abused her and that she feared he would harm or kill her or her daughters if she did not buy the firearms. Upon being convicted, Dixon appealed to the Fifth Circuit Court of Appeals, arguing that she should not bear the evidentiary burden of proving her duress claim. The Circuit Court rejected Dixon's argument, noting that the circuit's previous cases had clearly established that the duress defense requires the defendant to prove duress by a preponderance of evidence. This ruling conflicted with a ruling on a similar case in the Sixth Circuit Court of Appeals. Dixon appealed to the Supreme Court, which agreed to consider the narrow question of the burden of proof.</p>\n",
+    "conclusion": "<p>The burden of proof is on the defendant. In a 7-to-2 decision authored by Justice John Paul Stevens, the Supreme Court held that the government meets its evidentiary burden when it proves beyond a reasonable doubt that the defendant acted \"knowingly\" and \"willfully.\" Dixon had argued that duress would make it impossible for a defendant to act \"willfully\" (and that the government therefore had to prove she did <em>not</em> act under duress in order to prove she acted willfully). The Court rejected that argument, however, because under <em>Bryan v. United States</em>, 524 U.S. 184, acting \"willfully\" means simply that a defendant \"acted with knowledge that his conduct was unlawful.\"</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55523,
+    "name": "Watson v. United States",
+    "href": "https://api.oyez.org/cases/2007/06-571",
+    "view_count": 0,
+    "docket_number": "06-571",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1172469600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40056"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1191906000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40057"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1197266400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40058"
+        }
+    ],
+    "question": "<p>Does the receipt of an unloaded firearm as payment for drugs constitute \"use\" of a firearm during a drug trafficking offense for purposes of federal law?</p>\n",
+    "citation": {
+        "volume": "552",
+        "page": "74",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/19446"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/552/74/",
+    "facts_of_the_case": "<p>Michael Watson was arrested for trading illegal drugs for an unloaded semi-automatic pistol. He was convicted of drug trafficking and sentenced to 262 months in prison. Since Watson's crime involved a gun, his sentence included an additional 60 months. The extra jail time was imposed under 18 U.S.C. 924(c)(1)(A), which punishes any drug trafficker who \"uses or carries\" a firearm during a drug deal. In <em>Smith v. United States</em>, the Supreme Court had ruled that a defendant who trades a gun for drugs \"uses\" it for purposes of the statute. However, the Court clarified in <em>Bailey v. United States</em> that \"use\" means \"active employment\" of a firearm; mere possession of the firearm does not necessarily constitute use.</p>\n<p>On appeal, Watson argued that the firearm was not used in his case. He stressed that the gun was never loaded and was in his possession for only moments before he was arrested. The U.S. Court of Appeals for the Fifth Circuit rejected Watson's arguments and affirmed the lower court. Following Circuit precedents, it ruled that Watson had used the gun under the statute's meaning of \"use.\"</p>\n",
+    "conclusion": null
+}

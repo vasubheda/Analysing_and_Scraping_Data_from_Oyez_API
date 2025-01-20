@@ -1,0 +1,35 @@
+{
+    "ID": 55055,
+    "name": "Grutter v. Bollinger",
+    "href": "https://api.oyez.org/cases/2002/02-241",
+    "view_count": 0,
+    "docket_number": "02-241",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1049176800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38835"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1056344400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38836"
+        }
+    ],
+    "question": "<p>Does the University of Michigan Law School's use of racial preferences in student admissions violate the Equal Protection Clause of the Fourteenth Amendment or Title VI of the Civil Rights Act of 1964?</p>\n",
+    "citation": {
+        "volume": "539",
+        "page": "306",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/18984"
+    },
+    "term": "2002",
+    "description": "A case in which the Court held that the use of race in the University of Michigan's Law School admissions decisions did not violate the Equal Protection Clause of the Fourteenth Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/539/306/",
+    "facts_of_the_case": "<p>In 1997, Barbara Grutter, a white resident of Michigan, applied for admission to the University of Michigan Law School. Grutter applied with a 3.8 undergraduate GPA and an LSAT score of 161. She was denied admission. The Law School admits that it uses race as a factor in making admissions decisions because it serves a \"compelling interest in achieving diversity among its student body.\" The District Court concluded that the Law School's stated interest in achieving diversity in the student body was not a compelling one and enjoined its use of race in the admissions process. In reversing, the Court of Appeals held that Justice Powell's opinion in Regents of the University of California v. Bakke, 438 U.S. 265 (1978), constituted a binding precedent establishing diversity as a compelling governmental interest sufficient under strict scrutiny review to justify the use of racial preferences in admissions. The appellate court also rejected the district court's finding that the Law School's \"critical mass\" was the functional equivalent of a quota.</p>\n",
+    "conclusion": "<p>No. In a 5-4 opinion delivered by Justice Sandra Day O'Connor, the Court held that the Equal Protection Clause does not prohibit the Law School's narrowly tailored use of race in admissions decisions to further a compelling interest in obtaining the educational benefits that flow from a diverse student body. The Court reasoned that, because the Law School conducts highly individualized review of each applicant, no acceptance or rejection is based automatically on a variable such as race and that this process ensures that all factors that may contribute to diversity are meaningfully considered alongside race. Justice O'Connor wrote, \"in the context of its individualized inquiry into the possible diversity contributions of all applicants, the Law School's race-conscious admissions program does not unduly harm nonminority applicants.\"</p>\n"
+}

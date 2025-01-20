@@ -1,0 +1,42 @@
+{
+    "ID": 62732,
+    "name": "Venezuela v. Helmerich & Payne International Drilling Company",
+    "href": "https://api.oyez.org/cases/2016/15-423",
+    "view_count": 0,
+    "docket_number": "15-423",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1467090000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53860"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1478062800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53903"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1493614800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54033"
+        }
+    ],
+    "question": "<p>When determining whether a claim that alleges that a case falls under the expropriation exception to the Federal Sovereign Immunities Act should be dismissed, should a court only dismiss the claim if the allegations are determined to be \u201cinsubstantial\u201d or \u201cfrivolous\u201d?</p>\n",
+    "citation": {
+        "volume": "581",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27443"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that the \u201cfrivolous or insubstantial\u201d standard is not consistent with the text and purpose of the Foreign Sovereign Immunities Act (FSIA)",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/581/15-423/",
+    "facts_of_the_case": "<p>The Foreign Sovereign Immunities Act protects foreign sovereigns from suits in American courts unless one of a set of specifically enumerated exceptions applies. One of these exceptions is when the foreign sovereign takes U.S. property (the expropriation exception), and another is when the action of the foreign sovereign has direct effect on U.S. commercial activity (the commercial activity exception).</p>\n<p>Oklahoma-based company Helmerich &amp; Payne International Drilling Company owns a subsidiary that contracts with the Venezuelan state-owned corporation that controls the exploration, production, and exportation of oil in Venezuela. In 2007, the two companies executed contracts for the Venezuelan corporation to use Helmerich &amp; Payne\u2019s drilling rigs. By 2008, the unpaid debt from those contracts totaled more than $63 million, and when the debt was over $100 million in 2009, Helmerich &amp; Payne announced it would not be renewing the contract and packed up its drills. Employees of the Venezuelan corporation, assisted by members of the Venezuelan National Guard blockaded the yards in which Helmerich &amp; Payne was keeping its equipment, and then-President Hugo Chavez issued a Decree of Expropriation. Helmerich &amp; Payne sued Venezuela and its state-owned corporation in federal district court under the expropriation and commercial activity exceptions to the FSIA. Venezuela moved to dismiss, and the district court granted the motion with respect to the expropriation claim but denied it with respect to the commercial activity claim. The U.S. Court of Appeals for the District of Columbia Circuit reversed and held that, because the expropriation claim was neither insubstantial nor frivolous, the district court should not have granted the motion to dismiss that claim.</p>\n",
+    "conclusion": "<p dir=\"ltr\">The \u201cfrivolous or insubstantial\u201d standard is not consistent with the text and purpose of the Foreign Sovereign Immunities Act (FSIA). Justice Stephen G. Breyer delivered the opinion of the unanimous Court, which held that the expropriation exception to the FSIA was a threshold question of jurisdiction that did not require the court to delve into the merits of the case to determine whether the claim was frivolous or insubstantial. Although a court may take evidence to resolve factual questions, that should be limited to determining whether the allegations state a valid claim that the property at issue was taken in violation of international law. The Court held that this interpretation of the statute is consistent with its language and serves its purpose of preventing foreign sovereigns from being improperly entangled in court proceedings, which follows Supreme Court precedent and the relevant international law principles.</p>\n<p>Justice Gorsuch did not participate in the discussion or decision of this case.</p>\n"
+}

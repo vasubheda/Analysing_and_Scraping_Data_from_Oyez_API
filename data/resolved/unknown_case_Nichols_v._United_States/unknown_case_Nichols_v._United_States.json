@@ -1,0 +1,42 @@
+{
+    "ID": 62616,
+    "name": "Nichols v. United States",
+    "href": "https://api.oyez.org/cases/2015/15-5238",
+    "view_count": 0,
+    "docket_number": "15-5238",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1446789600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53312"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1456812000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53370"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1459746000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53486"
+        }
+    ],
+    "question": "<p>Is a convicted sexual offender required to update his residency under the Sex Offender Registration and Notification Act if he moves outside of U.S. jurisdiction?</p>\n",
+    "citation": {
+        "volume": "578",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27381"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that the Sexual Offender Registration and Notification Act does not require a sex offender who is moving to a country outside of U.S. jurisdiction to update his residence with the sexual offender registry.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/578/15-5238/",
+    "facts_of_the_case": "<p>In 2003, Lester Nichols was charged with intent to engage in sex with a minor. In 2006, the Sexual Offender Registration and Notification Act (SORNA) was passed, and the Attorney General issued a rule in 2007 that SORNA applied retroactively to convicted sex offenders. Under this rule, Nichols was required to register with SORNA and update his residency. In 2012, Nichols flew from Kansas to the Philippines without updating his location pursuant to SORNA. Authorities in the Philippines took Nichols into custody and returned him to the United States where he was charged with noncompliance with SORNA regulations regarding updating his residency. Nichols filed a motion to dismiss and argued that the Philippines are outside U.S. jurisdiction, so he was not required to update his location. The trial court dismissed his motion, and Nichols plead guilty. He then appealed to the U.S. Court of Appeals for the Tenth Circuit, which affirmed his conviction.</p>\n",
+    "conclusion": "<p>A convicted sexual offender is not required to notify the state under the Sex Offender Registration and Notification Act (SORNA) when he moves outside of U.S. jurisdiction. Justice Samuel A. Alito, Jr. wrote the opinion for the unanimous Court, which held that SORNA requires that sexual offenders notify states to which they move or reside. The Court interpreted the present tense of \u201creside\u201d in the statute to mean that an offender must currently be living in a U.S. jurisdiction for the requirement to take effect. Therefore, a registered sex offender does not violate SORNA by failing to update his registration when he moves from a U.S. jurisdiction to a non-U.S. jurisdiction.</p>\n"
+}

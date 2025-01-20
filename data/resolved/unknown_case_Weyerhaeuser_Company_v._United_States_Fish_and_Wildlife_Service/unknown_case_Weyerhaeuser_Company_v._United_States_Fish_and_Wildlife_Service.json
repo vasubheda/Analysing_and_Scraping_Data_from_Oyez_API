@@ -1,0 +1,42 @@
+{
+    "ID": 62955,
+    "name": "Weyerhaeuser Company v. United States Fish and Wildlife Service",
+    "href": "https://api.oyez.org/cases/2018/17-71",
+    "view_count": 0,
+    "docket_number": "17-71",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1516600800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54201"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1538370000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54360"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1543298400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54393"
+        }
+    ],
+    "question": "<ol><li>Does the Endangered Species Act prohibit designation of privately owned land as unoccupied critical habitat that is neither habitat nor essential to species conservation?</li>\n<li>Is an agency determination not to exclude an area from critical habitat due to the economic impact of designation subject to judicial review?</li>\n</ol>",
+    "citation": {
+        "volume": "586",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27578"
+    },
+    "term": "2018",
+    "description": "A case in which the Court held that (1) to be designated a \"critical habitat\" under the Endangered Species Act, the land must already be habitat for the species; and (2) an agency determination not to exclude an area from critical habitat due to the economic impact of designation is subject to judicial review.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/586/17-71/",
+    "facts_of_the_case": "<p>In 2010, the U.S. Fish and Wildlife Service (FWS) included a privately owned parcel of land (\u201cUnit 1\u201d) in Louisiana in an expanded designation of critical habitat for the dusky gopher frog. Though these endangered frogs had not inhabited Unit 1 for decades, the land contained historic breeding sites. Other necessary features would need to be restored however. The landowners, Weyerhaeuser Company and two other entities (collectively, the \u201cLandowners\u201d), intended to use the land for residential and commercial development, as well as timber operations. They brought suit against the FWS in federal district court, challenging Unit 1\u2019s designation as critical habitat and seeking injunctive and declaratory relief. All parties filed cross motions for summary judgment, and the district court ruled in favor of the agency on the merits.\u00a0</p>\n<p>A divided 5th Circuit affirmed the district court\u2019s ruling, upholding Unit 1\u2019s designation as critical habitat. The court rejected the Landowners\u2019 argument that the FWS had acted arbitrarily and capriciously in making this designation on the theory that Unit 1 was not presently habitable nor essential to species conservation. Explaining that land need not be habitable to be considered \u201cessential\u201d under 16 U.S.C. \u00a7 1532(5)(A)(ii) of the Endangered Species Act (ESA), the court deferred to the agency\u2019s interpretation of that term. The majority also held that the FWS had not acted unreasonably in interpreting the ESA to not contain a requirement that land be \u201ccurrently\u201d habitable by a species to be designated as critical habitat.</p>\n<p>The 5th Circuit also held that the FWS had not made an arbitrary and capricious decision under 16 U.S.C. \u00a7 1533(b)(2) in not excluding Unit 1 from the critical habitat based on economic impacts, and that this determination was not reviewable in federal court.\u00a0</p>\n",
+    "conclusion": "<p>In a unanimous (8\u20130) opinion authored by Chief Justice John Roberts, the Court held as to the first question presented that to be designated a \"critical habitat\" under the Endangered Species Act, the land must also be habitat for the species. The Court found unpersuasive FWS's argument that\u00a0habitat can include areas that, like Unit 1, would require\u00a0modification to support a\u00a0given species but which do not currently serve as habitat for the species. The statute provides that when the\u00a0Secretary lists a species as endangered he must also \"designate\u00a0any habitat of such species which is then considered\u00a0to be critical habitat.\" That language on its face requires that only \"habitat\" of an endangered\u00a0species is eligible for designation as \"critical habitat.\" Thus, even if\u00a0if an area otherwise meets the statutory definition of \"unoccupied critical habitat,\"\u00a0Section\u00a04(a)(3)(A)(i) does not authorize the agency to designate\u00a0the area as critical habitat unless it is also habitat for the\u00a0species.</p>\n<p>As to the second question, the Court held that the agency's determination is subject to judicial review. The Administrative Procedure Act creates a presumption that agency determinations are subject to judicial review that may be rebutted only\u00a0if the relevant statute precludes review or the action is specifically granted by law to the agency's discretion. Here, the Court found neither. Although the second sentence of Section 4(b)(2) states the Secretary \"may\" exclude an area from critical habitat, that section requires the Secretary to consider economic\u00a0impact and relative benefits before deciding whether\u00a0to exclude an area from critical habitat or to proceed\u00a0with designation. Because the statute articulates a meaningful standard against which to judge the Secretary's exercise of discretion, the agency's determination is not beyond judicial review.</p>\n<p>Justice Brett Kavanaugh took no part in the consideration or decision of the case.</p>\n"
+}

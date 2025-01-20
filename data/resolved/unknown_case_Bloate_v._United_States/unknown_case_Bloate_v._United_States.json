@@ -1,0 +1,42 @@
+{
+    "ID": 55626,
+    "name": "Bloate v. United States",
+    "href": "https://api.oyez.org/cases/2009/08-728",
+    "view_count": 0,
+    "docket_number": "08-728",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1240203600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40347"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1254805200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40348"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1268028000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40349"
+        }
+    ],
+    "question": "<p>Is time granted to prepare pretrial motions automatically excludable under 18 U.S.C. Section 3161(h)(1)?</p>\n",
+    "citation": {
+        "volume": "559",
+        "page": "196",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19549"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that the time granted to prepare pretrial motions is not automatically granted exclusion from the Speedy Trial Act's 70-day time limit.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/559/196/",
+    "facts_of_the_case": "<p>Taylor James Bloate was convicted in a Missouri federal district court on counts of being a felon in possession of a firearm and possessing cocaine with intent to distribute. In a pretrial motion, Mr. Bloate moved to dismiss arguing that there had been a Speedy Trial Act violation. It was denied. The Act requires that a defendant's trial begin within \"70 days after the indictment or the defendant's initial appearance, whichever is later.\" However, it excludes \"any period of delay resulting from other proceedings concerning the defendant.\" Following his conviction, Mr. Bloate appealed, arguing that his motion to dismiss was improperly denied as the court excluded too many days in its calculation.</p>\n<p>The U.S. Court of Appeals for the Eighth Circuit affirmed Mr. Bloate's conviction. It recognized that six circuits hold that \"pretrial motion preparation may be excluded, if the court specifically grants time for that purpose\" and that two do not. Here, the Eighth Circuit sided with the majority in holding that the district court properly excluded days from the time of Mr. Bloate's indictment to his trial and therefore there was no violation to the Speedy Trial Act.</p>\n",
+    "conclusion": "<p>No. The Supreme Court reversed the Eighth Circuit holding that the time granted to prepare pretrial motions is not automatically excludable from the 70-day limit under subsection (h)(1). Rather, with Justice Clarence Thomas writing for the majority, the Court stated that such time may be excluded only when a district court grants a continuance based on appropriate findings under subsection (h)(7). The Court reasoned that the period of time sought to be excluded by the government preceded the first day upon which Congress specified that such delay may be automatically excluded. Thus, in this case, the pretrial preparation time was not automatically excludable.</p>\n<p>Justice Ruth Bader Ginsburg wrote a separate concurring opinion. She highlighted that nothing in the majority decision prevents the Eight Circuit upon remand from considering the government's argument that Mr. Bloate's indictment and conviction remain valid. Justice Samuel A. Alito, joined by Justice Stephen G. Breyer, dissented. He argued that the neither the text nor legislative history of the Speedy Trial Act support the majority decision. Instead, he criticized the majority for creating a rule that would entitle Mr. Bloate to dismissal of his charge because his attorney persuaded a Magistrate Judge to give him more time to prepare pretrial motions.</p>\n"
+}

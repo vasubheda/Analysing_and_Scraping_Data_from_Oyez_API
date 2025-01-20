@@ -1,0 +1,42 @@
+{
+    "ID": 55924,
+    "name": "City of Arlington v. FCC",
+    "href": "https://api.oyez.org/cases/2012/11-1545",
+    "view_count": 0,
+    "docket_number": "11-1545",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1349413200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41135"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1358316000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41136"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1369026000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41137"
+        }
+    ],
+    "question": "<p>Should a court apply the Chevron doctrine and defer to an agency's interpretation of its jurisdiction under a particular law when that interpretation is called into question?</p>\n",
+    "citation": {
+        "volume": "569",
+        "page": "290",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19846"
+    },
+    "term": "2012",
+    "description": "A case in which the Court found that the courts must apply the Chevron doctrine and defer to an agency's interpretation of its jurisdiction when that jurisdiction is called into question.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/569/290/",
+    "facts_of_the_case": "<p>Generally, wireless phone service providers must obtain zoning approvals from state and local governments before building wireless towers or attaching wireless equipment to buildings. To speed up the process, Congress amended the 1934 Communications Act and required local governments to respond to zoning requests within a reasonable period of time. Despite this law, the zoning approval process still dragged on and severely delayed construction. In 2008, the Wireless Association petitioned the Federal Communications Commission (\"FCC\") to bring an end to these unreasonable delays. The Association recommended placing time limits on how long these zoning requests could take. The FCC agreed and in November 2009 set the following \"reasonable time\" limits for zoning requests: 90 days for attachments to current buildings and a 150 days for new structures.</p>\n<p>The local governments claimed that the FCC cannot set these limits because the FCC cannot determine its own power under the Communications Act. When Congress passed the Act, it granted a certain amount of power to the FCC to enforce and define the rules under the Act. Under the long-standing Chevron doctrine of interpretation, courts should always defer to an agency's interpretation of a particular act. However, the Supreme Court had never determined whether this applies to situations where the agency defines its own power under a particular law. The U.S. Court of Appeals for the Fifth Circuit nevertheless deferred to the FCC and affirmed the declaratory ruling. The local governments appealed to the Supreme Court, which granted certiorari exclusively to answer whether the Chevron doctrine applies in this situation.</p>\n",
+    "conclusion": "<p>Yes. Justice Antonin Scalia, writing himself and four other justices, held that courts must apply the <em>Chevron</em> doctrine and defer to an agency's interpretation of its jurisdiction when that jurisdiction is called into question. The <em>Chevron</em> doctrine is supported Congressional intent that an agency should determine its jurisdiction when there is ambiguity in a statute. The Court held that there was no significant difference between \"run-of-the-mill\" ambiguity and important, \"jurisdictional\" ambiguity. Instead, every new application of an ambiguous statutory term could be reframed as a jurisdictional issue concerning the <em>who, what, where,</em> or <em>when</em> questions of an agency's regulatory power. The test should look at whether the statute's language prevents the agency's assertion of authority. If the agency's assertion is based on a permissible interpretation of the statute, then the courts must defer to the agency.</p>\n<p>Justice Stephen G. Breyer concurred in part and concurred in the judgment. Although he agreed that courts should not get involved where Congress has deferred to an agency's judgment, he argued that the mere existence of ambiguity should not be considered conclusive evidence of Congress' intent to defer to that agency. Where Congressional intent is not clear, the courts should be permitted to interpret the statute accordingly.</p>\n<p>Chief Justice John Roberts dissented and argued that a court should not defer to an agency until that court decides, on its own, that the agency is entitled to deference. However, once a court has made such a determination, <em>Chevron</em> deference may be warranted. Justice Anthony M. Kennedy and Justice Samuel A. Alito, Jr. joined in the dissent.</p>\n"
+}

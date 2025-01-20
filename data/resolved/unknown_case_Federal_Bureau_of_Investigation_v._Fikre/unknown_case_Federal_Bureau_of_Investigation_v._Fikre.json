@@ -1,0 +1,42 @@
+{
+    "ID": 63605,
+    "name": "Federal Bureau of Investigation v. Fikre",
+    "href": "https://api.oyez.org/cases/2023/22-1178",
+    "view_count": 0,
+    "docket_number": "22-1178",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1695963600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55333"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1704693600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55382"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1710824400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55421"
+        }
+    ],
+    "question": "<p>Are respondent\u2019s claims challenging his placement on the No Fly List moot, given that he was removed from the No Fly List in 2016 and the government provided a sworn declaration stating that he \u201cwill not be placed on the No Fly List in the future based on the currently available information\u201d?</p>\n",
+    "citation": {
+        "volume": "601",
+        "page": null,
+        "year": "2024",
+        "href": "https://api.oyez.org/case_citation/case_citation/27975"
+    },
+    "term": "2023",
+    "description": "A case in which the Court held that respondent\u2019s claims challenging his placement on the No Fly List are not moot because the government's declaration stating that he \u201cwill not be placed on the No Fly List in the future based on the currently available information\u201d did not ensure that he would not be placed back on the list for engaging in the same or similar conduct in the future.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/601/22-1178/",
+    "facts_of_the_case": "<p>In 2010, Yonas Fikre, a U.S. citizen of Eritrean descent, was placed on the FBI\u2019s No Fly List while he was traveling to Sudan. FBI agents questioned him about his ties to a mosque in Portland, Oregon, and informed him he was a flight risk. Fikre was offered removal from the list in exchange for becoming an FBI informant, an offer he declined. Subsequently, Fikre was imprisoned and tortured in the United Arab Emirates, allegedly at the request of the FBI. Unable to return to the U.S., Fikre sought asylum in Sweden, but was ultimately denied and returned to Portland via private jet after his petition to be removed from the No Fly List was also denied. While still in Sweden, Fikre filed a lawsuit against the FBI, claiming violation of his Fifth Amendment right to due process. While the lawsuit was pending, the FBI removed him from the No Fly List.</p>\n<p>A federal district court in Oregon dismissed Fikre's case as moot, given that he had been removed from the No Fly List. The U.S. Court of Appeals for the Ninth Circuit reinstated the lawsuit, stating that under the voluntary cessation doctrine, it was not \u201cabsolutely clear\u201d that Fikre would not be placed back on the list for the same reasons. The case returned to the district court where an FBI official filed a declaration that Fikre would not be put back on the list based on current information. Despite this declaration, the court once again dismissed the case. On appeal, the Ninth Circuit again reversed, reasoning that the FBI\u2019s declaration did not indicate a change in the policies or procedures that put Fikre on the list in the first place.</p>\n",
+    "conclusion": "<p>The Government failed to meet its burden to demonstrate that Mr. Fikre\u2019s removal from the Government\u2019s No Fly List mooted his 42 U.S.C. \u00a71983 case because its declaration did not disclose the conduct that landed Mr. Fikre on the No Fly List and did not ensure that he would not be placed back on the list for engaging in the same or similar conduct in the future. Justice Neil Gorsuch authored the unanimous opinion of the Court.</p>\n<p>While a court with jurisdiction is obligated to hear cases properly before it, it must also dismiss cases that have become moot. However, a defendant\u2019s voluntary cessation of challenged conduct renders a case moot only if the defendant can show the conduct cannot reasonably be expected to recur. This burden applies equally to governmental and private defendants.</p>\n<p>Based on the uncontested factual allegations at this stage of litigation, the government\u2019s declaration that Fikre will not be relisted based on currently available information does not establish that he would not be relisted for engaging in the same or similar conduct in the future that allegedly led to his original placement on the No Fly List. What matters is not whether a defendant repudiates past actions, but what it can prove about its future conduct. Although this case is only in preliminary stages of the litigation, and relevant facts may emerge or change, under facts as alleged, the government failed to meet its burden of proving mootness.</p>\n<p>Justice Samuel Alito, joined by Justice Brett Kavanaugh, wrote a concurring opinion to clarify that the Court\u2019s opinion should not be understood as requiring the government to disclose classified information to prove mootness, as this could undermine significant national security interests. Rather, non-classified information or information obtained in discovery from the plaintiff in this and other cases may be sufficient to show that the allegedly unlawful listing is unlikely to recur, thereby proving mootness.</p>\n"
+}

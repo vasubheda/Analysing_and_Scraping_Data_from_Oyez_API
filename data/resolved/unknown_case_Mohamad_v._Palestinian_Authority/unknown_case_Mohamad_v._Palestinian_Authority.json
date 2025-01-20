@@ -1,0 +1,42 @@
+{
+    "ID": 55847,
+    "name": "Mohamad v. Palestinian Authority",
+    "href": "https://api.oyez.org/cases/2011/11-88",
+    "view_count": 0,
+    "docket_number": "11-88",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1318827600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40916"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1330408800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40917"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1334725200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40918"
+        }
+    ],
+    "question": "<p>Does the Torture Victim Protection Act, 28 U.S.C. \u00a7 1350, permit actions against defendants who are not natural persons?</p>\n",
+    "citation": {
+        "volume": "566",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19769"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that the word \"individual\" in the Torture Victim Protection Act means a natural person and does not impose any liability against organizations.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/566/449/",
+    "facts_of_the_case": "<p>In September of 1995, Azzam Rahim, an American citizen, was tortured and murdered while in the custody of Palestinian Authority intelligence officers in Jericho. The respondents, Jibril Rajoub, Amin Al-Hindi, Twfik Tirawi, the Palestinian Authority, and the Palestine Liberation Organization, never disputed liability for the torture and murder. The petitioners, Azzam Rahim's widow and children, filed suit against the respondents under the Torture Victim Protection Act.</p>\n<p>The district court dismissed the petitioners' action against the Palestinian Authority and the Palestine Liberation Organization on the grounds that the Torture Victim Protection Act permits actions against natural persons only. The United States Court of Appeals for the District of Columbia Circuit affirmed the district court's decision.</p>\n",
+    "conclusion": "<p>No. Justice Sonia Sotomayor delivered the opinion of the Court affirming the decision of the United States Court of Appeals. The Court held that the word \"individual\" in the Torture Victim Protection Act means a natural person and does not impose any liability against organizations. The Court ruled that a word in a statute will be given its everyday meaning unless Congress gives some indication that it intends the word to have a broader meaning. The Court further determined that legislative history supported its interpretation. Justice Antonin Scalia wrote no opinion but did not join the Court regarding its analysis of the legislative history.</p>\n<p>Justice Stephen G. Breyer filed a concurring opinion. He noted that the word \"individual\" is open to multiple interpretations and can mean natural persons, corporations, or other entities, making the word alone is insufficient to decide the case. Only the legislative history could make up for the interpretive inadequacies of considering language alone.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 54850,
+    "name": "Dickerson v. United States",
+    "href": "https://api.oyez.org/cases/1999/99-5525",
+    "view_count": 0,
+    "docket_number": "99-5525",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                956120400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38444"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                961995600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38445"
+        }
+    ],
+    "question": "<p>May Congress legislatively overrule Miranda v. Arizona and its warnings that govern the admissibility of statements made during custodial interrogation?</p>\n",
+    "citation": {
+        "volume": "530",
+        "page": "428",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18779"
+    },
+    "term": "1999",
+    "description": "A case in which the Court held that Congress cannot legislatively overrule Miranda v. Arizona.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/530/428/",
+    "facts_of_the_case": "<p>During questioning about a robbery he was connected to, Charles Dickerson made statements to authorities admitting that he was the getaway driver in a series of bank robberies. Dickerson was then placed under arrest. The timing of his statement is disputed. The FBI and local detectives testified that Dickerson was advised of his Miranda rights, established in <em>Miranda v. Arizona</em>, and waived them before he made his statement. Dickerson said he was not read his Miranda warnings until after he gave his statement. After his indictment for bank robbery, Dickerson filed a motion to suppress the statement that he made on the ground that he had not received Miranda warnings before being interrogated. The government argued that even if the Miranda warnings were not read, the statement was voluntary and therefore admissible under 18 USC Section 3501, which provides that \"a confession shall be admissible in evidence if it is voluntarily given.\" The District Court granted Dickerson's motion, finding that he had not been read his Miranda rights or signed a waiver until after he made his statement, but the court did not address section 3501. In reversing, the Court of Appeals acknowledged that Dickerson had not received Miranda warnings, but held that section 3501 was satisfied because his statement was voluntary. The court held that \"Congress enacted section 3501 with the express purpose of legislatively overruling Miranda and restoring voluntariness as the test for admitting confessions in federal court.\"</p>\n",
+    "conclusion": "<p>No. In a 7-2 opinion delivered by Chief Justice William H. Rehnquist, the Court held that Miranda governs the admissibility of statements made during custodial interrogation in both state and federal courts. \"Miranda has become embedded in routine police practice to the point where the warnings have become part of our national culture,\" wrote Rehnquist. \"Miranda announced a constitutional rule that Congress may not supersede legislatively. We decline to overrule Miranda ourselves,\" concluded the Chief Justice. Dissenting, Justice Antonin Scalia, joined by Justice Clarence Thomas, blasted the Court's ruling, writing that the majority opinion gave needless protection to \"foolish (but not compelled) confessions.\"</p>\n"
+}

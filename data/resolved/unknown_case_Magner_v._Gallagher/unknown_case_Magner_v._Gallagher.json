@@ -1,0 +1,35 @@
+{
+    "ID": 55862,
+    "name": "Magner v. Gallagher",
+    "href": "https://api.oyez.org/cases/2011/10-1032",
+    "view_count": 0,
+    "docket_number": "10-1032",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1320645600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40957"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1328853600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40958"
+        }
+    ],
+    "question": "<p>Are disparate impact claims permitted under the Fair Housing Act?</p>\n",
+    "citation": {
+        "volume": "567",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19784"
+    },
+    "term": "2011",
+    "description": "A case which was dismissed regarding whether or not disparate impact claims are permitted under the Fair Housing Act.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>Thomas J. Gallagher, along with other respondents, were owners of approximately 120 rental properties in the City of Saint Paul. All the rental properties were subject to the City's housing code. Failure to meet the City's housing code requirements led to aggressive housing code enforcement. Gallagher, and the other respondents, claimed that the aggressive code enforcement had a disparate impact on African-Americans. The respondents sought to prevent the aggressive selective enforcement of the City's housing code by asserting a disparate impact claim under the Fair Housing Act.</p>\n<p>Steve Magner and others moved for summary judgment under the disparate impact claim, and the District Court granted the motion because it did not find that the City's code enfocement had a disparate impact on African-Americans. Gallagher appealed, and the U.S. Court of Appeals for the Eighth Circuit Circuit reversed the decision finding that the Gallagher showed a disparate impact and showed that there were viable alternatives to the City's aggressive enforcement that would still satisfy the City's policy objectives. The Eighth Circuit denied Magner's request for a rehearing.</p>\n",
+    "conclusion": "<p>Unanswered. Prior to argument, both parties involved agreed to dismiss the case. Per Court rule 46, when both parties agree to do so, the case is automatically dismissed.</p>\n"
+}

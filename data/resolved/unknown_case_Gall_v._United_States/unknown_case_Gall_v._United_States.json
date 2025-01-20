@@ -1,0 +1,42 @@
+{
+    "ID": 55512,
+    "name": "Gall v. United States",
+    "href": "https://api.oyez.org/cases/2007/06-7949",
+    "view_count": 0,
+    "docket_number": "06-7949",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1181538000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40025"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1191301200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40026"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1197266400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40027"
+        }
+    ],
+    "question": "<p>May Courts of Appeals apply a presumption of unreasonableness to sentences that fall outside the range in the federal sentencing guidelines, so that district courts must justify below-guidelines sentences with a finding of extraordinary circumstances?</p>\n",
+    "citation": {
+        "volume": "552",
+        "page": "38",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20748"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/552/38/",
+    "facts_of_the_case": "<p>While a student at the University of Iowa, Brian Gall was involved in a drug ring distributing ecstasy (methylenedioxymethamphetamine, MDMA). He voluntarily left the drug conspiracy and moved to Arizona where he started his own business and led a crime-free life. When federal agents tracked him down, he turned himself in and pleaded guilty to conspiracy to distribute a controlled substance. The government argued for a sentence of 30 months in prison, which was the minimum sentence in the range recommended for the offense by the federal sentencing guidelines. Taking into account the mitigating circumstances in Gall's case, the judge instead decided to depart from the guidelines and impose a sentence of 36 months of probation. (The Supreme Court in <em>U.S. v. Booker</em> had declared the sentencing guidelines to be merely advisory, but the guidelines range is still among the factors a court must consider before handing down a reasonable sentence.)</p>\n<p>The U.S. Court of Appeals for the Eighth Circuit rejected the below-guidelines sentence as unreasonable. The Eighth Circuit held that while the guidelines are not mandatory, sentences that fall outside of the recommended sentencing range must overcome a presumption of unreasonableness. Sentences varying from the guidelines must be justified based on the circumstances of the case, and larger variances from the guidelines require correspondingly more compelling justifications. The Eighth Circuit ruled that the district court had erred by using Gall's youth as a mitigating factor, by overweighing his rehabilitation, and by underweighing the seriousness of the crime. Since the \"extraordinary variance\" was not justified by a finding of extraordinary circumstances, the Eighth Circuit ordered a new sentence.</p>\n",
+    "conclusion": "<p>The Supreme Court, in a 7-2 ruling, reversed the appellate court and held that, under <em>Booker</em>, federal courts have the authority to set any reasonable sentence as long as they explain their reasoning. The Court made clear that <em>Booker</em> had removed the Guidelines from their earlier status as the primary determinate of a defendant's punishment, reaffirming the Guidelines' advisory status. The opinion was penned by Justice Stevens, with Justices David Souter and Antonin Scalia filing opinions concurring in the judgment. Justices Clarence Thomas and Samuel Alito were the sole dissenters.</p>\n"
+}

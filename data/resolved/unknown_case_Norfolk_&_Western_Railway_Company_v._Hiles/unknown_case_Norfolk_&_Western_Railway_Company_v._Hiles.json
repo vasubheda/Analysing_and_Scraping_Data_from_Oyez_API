@@ -1,0 +1,35 @@
+{
+    "ID": 54418,
+    "name": "Norfolk & Western Railway Company v. Hiles",
+    "href": "https://api.oyez.org/cases/1995/95-6",
+    "view_count": 0,
+    "docket_number": "95-6",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                821080800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37646"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                825400800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37647"
+        }
+    ],
+    "question": "<p>Is a railroad liable, under the federal Safety Appliance Act, for injuries incurred by a railroad employee while trying to straighten a misaligned drawbar?</p>\n",
+    "citation": {
+        "volume": "516",
+        "page": "400",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18347"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/516/400/",
+    "facts_of_the_case": "<p>Railroad cars are connected by couplers consisting of knuckles - clamps that lock with their mates - joined to the ends of drawbars, which are fastened to housing mechanisms on the cars. Cars automatically couple when they come together and one car's open knuckle engages the other car's closed knuckle. The drawbar pivots in its housing, allowing the knuckled end some lateral play to prevent moving cars from derailing on a curved track. As a consequence of this lateral movement, drawbars may remain off-center when cars are uncoupled and must be realigned manually to ensure proper coupling. William J. Hiles injured his back while attempting to realign an off-center drawbar on a car at one of Norfolk &amp; Western Rail Company's yards. Hiles sued in Illinois state court, alleging that Norfolk &amp; Western had violated Section 2 of the federal Safety Appliance Act (SAA), which requires that cars be equipped with \"couplers coupling automatically by impact, and capable of being uncoupled, without the necessity of individuals going between the ends of the vehicles.\" The trial court granted Hiles a directed verdict on liability, and the state appellate court affirmed.</p>\n",
+    "conclusion": "<p>No. In a unanimous decision, authored by Justice Clarence Thomas, the Court held that Section 2 of the Safety Appliance Act does not make a railroad liable as a matter of law for injuries incurred by a railroad employee while trying to straighten a misaligned drawbar. \"We are understandably hesitant to adopt a reading...that would suggest that almost every railroad car in service for nearly a century has been in violation of the SAA,\" wrote Justice Thomas.</p>\n"
+}

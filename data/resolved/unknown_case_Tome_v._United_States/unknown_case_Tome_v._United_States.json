@@ -1,0 +1,35 @@
+{
+    "ID": 54346,
+    "name": "Tome v. United States",
+    "href": "https://api.oyez.org/cases/1994/93-6892",
+    "view_count": 0,
+    "docket_number": "93-6892",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                781333200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37511"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                789717600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37512"
+        }
+    ],
+    "question": "<p>Is a prior consistent statement made after a declarant's motive to fabricate arose admissible to rebut a charge of recent fabrication or improper influence or motive under Federal Rule of Evidence 801(d)(1)(B)?</p>\n",
+    "citation": {
+        "volume": "513",
+        "page": "150",
+        "year": "1995",
+        "href": "https://api.oyez.org/case_citation/case_citation/18275"
+    },
+    "term": "1994",
+    "description": "A case in which the Court held that Rule 801(d)(1)(B) requires that prior consistent statements be made before the motive to fabricate arose in order to be admissible. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/513/150/",
+    "facts_of_the_case": "<p>Matthew Wayne Tome was charged with sexually abusing his daughter, who was four years old at the time of the alleged crime. Tome and the child\u2019s mother were divorced and Tome had primary physical custody of the child, but the mother was awarded custody in 1990. The prosecution argued that the sexual abuse occurred while the child was with Tome, but was not discovered until the child spent vacation time with her mother. Tome argued that the allegations were fabricated to keep the child from being returned to him. The prosecution produced six witnesses who testified to verify the out of court statements made by the child. The out of court statements were all made after the motive to fabricate would have arisen. The district court admitted the statements into evidence under Federal Rule of Evidence 801(d)(1)(B), which state that prior statements of a witness are not hearsay is they are consistent with the witness\u2019 testimony and are offered to rebut a charge of \u201crecent fabrication or improper influence of motive.\u201d Tome was convicted. On appeal, the U.S. Court of Appeals for the 10th Circuit affirmed, holding that the proper test was to weigh the probative value against their prejudicial effect, not whether statements were made before or after the motive to fabricate arose.</p>\n",
+    "conclusion": "<p>No. Justice Anthony M. Kennedy, writing for a 5-4 majority, reversed and remanded. The Supreme Court held that, consistent with common law, Rule 801(d)(1)(B) requires that prior consistent statements be made before the motive to fabricate arose in order to be admissible. While hearsay evidence is often relevant, relevance is not the only criterion for determining admissibility. The Court held that the 10th Circuit\u2019s balancing approach involved too much judicial discretion, reduced predictability, and enhanced difficulties of trial preparation. The Court also noted that the Advisory Committee Notes to the Federal Rules of Civil Procedure confirm their analysis. Justice Antonin Scalia concurred in part and concurred in the judgment, writing that the Advisory Committee Notes should have no authoritative effect and the case could be resolved without resorting to the Notes.</p>\n<p>Justice Stephen G. Breyer dissented, arguing that the basic issue in the case was relevance, not hearsay. Rule 801(d)(1)(B) does not codify the common law, and it permits the district court to allow prior consistent statements made at any time when they are probative. Chief Justice William H. Rehnquist, Justice Sandra Day O\u2019Connor, and Justice Clarence Thomas joined in the dissent.</p>\n<p>\u00a0</p>\n"
+}

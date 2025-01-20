@@ -1,0 +1,9 @@
+requests
+aiohttp
+tqdm
+numpy
+torch
+sentence-transformers
+Pillow
+python-dotenv
+bs4

@@ -1,0 +1,42 @@
+{
+    "ID": 63259,
+    "name": "Nestl\u00e9 USA, Inc. v. Doe I",
+    "href": "https://api.oyez.org/cases/2020/19-416",
+    "view_count": 0,
+    "docket_number": "19-416",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1593666000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54757"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1606802400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54799"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1623906000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54920"
+        }
+    ],
+    "question": "<p>1. May an aiding and abetting claim against a domestic corporation brought under the Alien Tort Statute overcome the extraterritoriality bar where the claim is based on allegations of general corporate activity in the United States and where the plaintiffs cannot trace the alleged harms, which occurred abroad at the hands of unidentified foreign actors, to that activity?</p>\n<p>2. Does the judiciary have the authority under the Alien Tort Statute to impose liability on domestic corporations?</p>\n",
+    "citation": {
+        "volume": "593",
+        "page": null,
+        "year": "2021",
+        "href": "https://api.oyez.org/case_citation/case_citation/27764"
+    },
+    "term": "2020",
+    "description": "A case in which the Court will clarify the scope and reach of the Alien Tort Statute as to conduct by domestic corporations within the United States that may have caused harms abroad.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/593/19-416/",
+    "facts_of_the_case": "<p>The plaintiff/respondents in this case are former enslaved children who were kidnapped and forced to work on cocoa farms in the Ivory Coast for up to fourteen hours without pay. They filed a class-action lawsuit against large manufacturers, purchasers, processors, and retail sellers of cocoa beans, including petitioner Nestle USA (and Cargill Inc., petitioner in a consolidated case).</p>\n<p>Nestle USA, Inc., and Cargill, Inc., both domestic corporations, effectively control cocoa production in the Ivory Coast and operate \u201cwith the unilateral goal of finding the cheapest source of cocoa in the Ivory Coast,\u201d resulting in a \u201csystem built on child slavery to depress labor costs.\u201d The respondents allege that the defendants are aware that child slave labor is a problem in the Ivory Coast yet continue to provide financial support and technical farming aid to farmers who use forced child labor.</p>\n<p>The children filed a proposed class action in the U.S. District Court for the Central District of California, alleging that the defendant companies were liable under the Alien Tort Statute (ATS) for aiding and abetting child slavery in the Ivory Coast. The court granted the defendants' motion to dismiss based on its conclusion that corporations cannot be sued under the ATS, and that even if they could, the plaintiffs failed to allege the elements of a claim for aiding and abetting slave labor. The U.S. Court of Appeals for the Ninth Circuit reversed, holding that corporations are liable for aiding and abetting slavery, in part because it found that norms that are \u201cuniversal and absolute\u201d can provide the basis for an ATS claim against a corporation, and the prohibition of slavery is \u201cuniversal.\u201d It did not address the defendants\u2019 argument that the complaint sought an extraterritorial application of the ATS, which the U.S. Supreme Court had recently proscribed in <a href=\"https://www.oyez.org/cases/2011/10-1491\"><em>Kiobel v. Royal Dutch Petroleum Co.</em>, 569 U.S. 108 (2013)</a>. On remand, the district court dismissed the claims alleging aiding and abetting slave labor under the ATS, finding that the complaint sought an impermissible extraterritorial application of the ATS.</p>\n<p>In the interim, the U.S. Supreme Court decided <a href=\"https://www.oyez.org/cases/2017/16-499\"><em>Jesner v. Arab Bank, PLC</em>, 584 U.S. __ (2018)</a>, holding that foreign corporations cannot be sued under the ATS. Again the Ninth Circuit reversed, finding that the holding in <em>Jesner</em> does not disturb its prior holding as to the domestic defendants, Nestle USA, Inc., and Cargill, Inc., and that the specific domestic conduct alleged by the plaintiffs falls within the focus of the ATS and does not require extraterritorial application of that statute.</p>\n",
+    "conclusion": "<p>To plead facts sufficient to support a domestic application of the Alien Tort Statute (ATS), 28 U.S.C. \u00a7 1350, plaintiffs must allege more domestic conduct than general corporate activity; the Ninth Circuit\u2019s contrary holding is reversed, and the case is remanded. Justice Clarence Thomas authored an opinion in which a majority of the Court concluded that the respondents here improperly seek extraterritorial application of the ATS.</p>\n<p>The Court\u2019s precedents establish \u201ca two-step framework for analyzing extraterritoriality issues.\u201d First, a court must presume that a statute applies only domestically and ask \u201cwhether the statute gives a clear, affirmative indication\u201d that rebuts this presumption. Second, where the statute does not apply extraterritorially, plaintiffs must establish that \u201cthe conduct relevant to the statute\u2019s focus occurred in the United States.\u201d The ATS does not rebut the presumption, so the question is whether the relevant conduct occurred in the United States.</p>\n<p>Nearly all the conduct that the respondents describe as aiding and abetting forced labor\u2014providing training, fertilizer, tools, and cash to overseas farms\u2014occurred in Ivory Coast. As the Court made clear in Kiobel, \u201cmere corporate presence\u201d and activity are not sufficient to support domestic application of the ATS. As such, the respondents did not plead sufficient facts to support domestic application of the ATS.</p>\n<p>Joined only by Justices Neil Gorsuch and Brett Kavanaugh, Justice Thomas wrote that the respondents\u2019 suit fails for a separate reason: the Court cannot create a cause of action\u2014only Congress may do that.</p>\n<p>Justice Gorsuch authored a concurring opinion, which Justices Alito and Justice Kavanaugh joined in (different) parts. Justice Gorsuch, joined only by Justice Alito, argued that nothing in the ATS supports the notion that corporations are immune from suit. Then, joined only by Justice Kavanaugh, Justice Gorsuch argued that courts lack discretion to create new causes of action under the ATS and should stop doing so.</p>\n<p>Justice Sonia Sotomayor authored an opinion concurring in part and concurring in the judgment, which Justices Elena Kagan and Stephen Breyer joined. Justice Sotomayor argued that Justice Thomas\u2019s interpretation of ATS as limited to the three international law torts that were recognized in 1789 contravenes the Court\u2019s express holding in <a href=\"https://www.oyez.org/cases/2003/03-339\"><em>Sosa v. Alvarez-Machain</em>, 542 U.S. 692 (2004)</a>, as well as the text and history of the ATS.\u00a0</p>\n<p>Justice Alito wrote a dissenting opinion arguing that if a particular claim may be brought under the ATS against a natural person who is a United States citizen, a similar claim may be brought against a domestic corporation.\u00a0</p>\n"
+}

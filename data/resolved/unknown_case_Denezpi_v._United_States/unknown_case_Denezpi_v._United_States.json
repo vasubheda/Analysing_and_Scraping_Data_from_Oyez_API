@@ -1,0 +1,42 @@
+{
+    "ID": 63408,
+    "name": "Denezpi v. United States",
+    "href": "https://api.oyez.org/cases/2021/20-7622",
+    "view_count": 0,
+    "docket_number": "20-7622",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1634533200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54992"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1645509600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55029"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1655096400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55111"
+        }
+    ],
+    "question": "<p>Does a prosecution in the Court of Indian Offenses trigger the Constitution\u2019s Double Jeopardy Clause?</p>\n",
+    "citation": {
+        "volume": "596",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27850"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held that an individual can be prosecuted in the Court of Indian Offenses and also in federal court for the same offense without violating the Constitution\u2019s Double Jeopardy Clause.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/596/20-7622/",
+    "facts_of_the_case": "<p>Merle Denezpi, a member of the Navajo tribe, pleaded guilty to an assault charge in the Court of Indian Offenses. That court is a trial court that exercises jurisdiction over Native Americans where there are no tribal courts to do so. Six months later, a federal grand jury indicted Denezpi on a charge of aggravated sexual assault based on the same underlying events. He was found guilty and sentenced to 30 years\u2019 imprisonment.</p>\n<p>Denezpi challenged his prosecution in federal court, arguing that it violated the Constitution\u2019s Double Jeopardy Clause because the Court of Indian Offenses is a federal agency. The district court ruled against Denezpi, and the U.S. Court of Appeals for the Tenth Circuit affirmed.</p>\n",
+    "conclusion": "<p>The Double Jeopardy Clause does not bar successive prosecutions of distinct offenses arising from a single act, even if a single sovereign prosecutes them. Justice Amy Coney Barrett authored the majority opinion of the Court.</p>\n<p>The Double Jeopardy Clause does not prohibit prosecuting a person twice \u201cfor the same conduct or actions,\u201d but for the same \u201coffence.\u201d Under the dual-sovereignty principle, two offenses arising from the same act can therefore be separately prosecuted without offending the Double Jeopardy Clause, even if they have identical elements and could not be separately prosecuted if enacted by a single sovereign. Denezpi\u2019s single act constituted assault and battery under the Ute Mountain Ute Code and aggravated sexual abuse in Indian country under the U.S. Code. His prosecution for both crimes does not violate the Double Jeopardy Clause.</p>\n<p>Justice Neil Gorsuch authored a dissenting opinion in which Justices Sonia Sotomayor and Elena Kagan joined in part, arguing that the same prosecuting authority charged the same defendant twice for the same crime\u2014the very definition of double jeopardy proscribed by the U.S. Constitution.</p>\n"
+}

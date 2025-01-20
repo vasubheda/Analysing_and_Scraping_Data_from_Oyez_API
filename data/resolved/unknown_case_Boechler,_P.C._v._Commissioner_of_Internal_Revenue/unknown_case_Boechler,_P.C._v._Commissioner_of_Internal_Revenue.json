@@ -1,0 +1,42 @@
+{
+    "ID": 63404,
+    "name": "Boechler, P.C. v. Commissioner of Internal Revenue",
+    "href": "https://api.oyez.org/cases/2021/20-1472",
+    "view_count": 0,
+    "docket_number": "20-1472",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1632978000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54988"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1641967200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55013"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1650517200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55089"
+        }
+    ],
+    "question": "<p>Is the 30-day time limit to file a petition for review in the Tax Court of a notice of determination from the commissioner of internal revenue in 26 U.S.C. \u00a7 6330(d)(1) a jurisdictional requirement or a claim-processing rule subject to equitable tolling?</p>\n",
+    "citation": {
+        "volume": "596",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27846"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held that the 30-day time limit to file a petition for review in the Tax Court of a notice of determination from the commissioner of internal revenue in 26 U.S.C. \u00a7 6330(d)(1) is not a jurisdictional requirement and thus is subject to equitable tolling.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/596/20-1472/",
+    "facts_of_the_case": "<p>On June 5, 2015, the Internal Revenue Service sent Boechler, P.C., a letter noting a discrepancy between prior tax document submissions. After not receiving a response, the IRS imposed a 10% intentional disregard penalty, which Boechler did not pay. The IRS mailed Boechler a notice of intent to levy. Boechler timely responded but failed to establish grounds for relief. On July 28, 2017, the Office of Appeals mailed a determination sustaining the levy to Boechler's last known address in Fargo, North Dakota. The notice of determination, delivered on July 31, stated that Boechler had 30 days from the date of determination, i.e. until August 28, 2017, to submit a petition for review.</p>\n<p>Boechler mailed a petition for a CDP hearing on August 29, 2017, one day after the 30-day filing deadline had expired. The Tax Court received Boechler's untimely petition, and the IRS moved to dismiss for lack of jurisdiction. Boechler argued that the 30-day time limit in 26 U.S.C. \u00a7 6330(d)(1) is not jurisdictional, the time limit should be equitably tolled, and calculating the time limit from issuance rather than receipt violates due process. The tax court dismissed the petition for lack of jurisdiction, and Boechler appealed.</p>\n",
+    "conclusion": "<p>The 30-day time limit of 26 U.S.C. \u00a7 6330(d)(1) is a nonjurisdictional deadline subject to equitable tolling. Justice Amy Coney Barrett authored the opinion for a unanimous Court.</p>\n<p>A procedural requirement is jurisdictional only if Congress \u201cclearly states\u201d it is. Section 6330(d)(1) provides that a \u201cperson may, within 30 days of a determination under this section, petition the Tax Court for review of such determination (and the Tax Court shall have jurisdiction with respect to such matter).\u201d Thus, the meaning of this provision turns on the meaning of \u201csuch matter.\u201d Because the phrase \u201csuch matter\u201d in that sentence lacks a clear antecedent, the text does not \u201cclearly\u201d mandate a jurisdictional reading. Nonjurisdictional limitations periods are presumptively subject to equitable tolling, and nothing in the facts of this case rebuts that presumption.</p>\n"
+}

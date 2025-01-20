@@ -1,0 +1,42 @@
+{
+    "ID": 55362,
+    "name": "Woodford v. Ngo",
+    "href": "https://api.oyez.org/cases/2005/05-416",
+    "view_count": 0,
+    "docket_number": "05-416",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1131948000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39619"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1143007200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39620"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1150952400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39621"
+        }
+    ],
+    "question": "<p>Does a prisoner satisfy the Prison Litigation Reform Act of 1995's requirement that he exhaust all administrative remedies available to him before bringing suit in federal court by filing an untimely or otherwise procedurally defective administrative grievance which is rejected?</p>\n",
+    "citation": {
+        "volume": "548",
+        "page": "81",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20636"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/548/81/",
+    "facts_of_the_case": "<p>Under the Prison Litigation Reform Act of 1995 (PLRA), prisoners must exhaust any available administrative remedies for resolving disputes within the prison system before they can bring suit in federal court. Viet Mike Ngo filed a grievance with the California prison system, but it was dismissed because he had waited too long to file it. He then brought suit in federal district court. California objected, arguing that he had not exhausted his administrative remedies, and that the fact those remedies were no longer available to him because of his delay in filing was immaterial. The district court agreed, but the Ninth Circuit Court of Appeals reversed, finding that all of Ngo's administrative remedies were \"exhausted\" because they were no longer available to him.</p>\n",
+    "conclusion": "<p>No. In a 6-to-3 decision authored by Justice Samuel Alito, the Supreme Court held that a prisoner must <em>properly</em> exhaust any available administrative remedies before bringing suit in federal court. This understanding of the PLRA's exhaustion provision mirrors that of the traditional exhaustion provision in administrative law and is \"substantively similar\" to that of habeas corpus law. An alternative ruling, Justice Alito wrote, would allow prisoners to circumvent the obvious purpose of the act (channeling initial appeals through the administrative system rather than the courts) by simply waiting until their administrative appeals were no longer timely.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 63547,
+    "name": "Pugin v. Garland",
+    "href": "https://api.oyez.org/cases/2022/22-23",
+    "view_count": 0,
+    "docket_number": "22-23",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1673589600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55204"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1681707600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55247"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1687410000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55313"
+        }
+    ],
+    "question": "<p>Is Virginia\u2019s offense of accessory after the fact to a felony an \u201coffense relating to obstruction of justice\u201d under the Immigration and Nationality Act?</p>\n",
+    "citation": {
+        "volume": "599",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27932"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held that Virginia\u2019s offense of accessory after the fact to a felony is an offense relating to obstruction of justice under the Immigration and Nationality Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/599/22-23/",
+    "facts_of_the_case": "<p>Jean Francois Pugin is a citizen of Mauritius who has lived in the United States as a lawful permanent resident for nearly 40 years. The government began deportation proceedings against Pugin after he was found guilty of being an accessory after the fact to a felony. The Immigration and Nationality Act authorizes removal upon conviction for an \u201caggravated felony,\u201d including felonies relating to obstruction of justice.</p>\n<p>Despite Pugin\u2019s argument to the contrary, the Board of Immigration appeals concluded that Virginia\u2019s accessory after the fact to a felony constituted an offense relating to obstruction of justice, and the U.S. Court of Appeals for the Fourth Circuit affirmed.</p>\n",
+    "conclusion": "<p>Virginia\u2019s offense of accessory after the fact to a felony is an offense \u201crelating to\u201d obstruction of justice under the Immigration and Nationality Act\u2019s definition of an \u201caggravated felony.\u201d Justice Brett Kavanaugh authored the 6-3 majority opinion of the Court.</p>\n<p>An offense can be categorized as \u201crelating to obstruction of justice\u201d under \u00a71101(a)(43)(S) without a requirement for an ongoing investigation or proceeding. This understanding is supported by dictionary definitions, federal and state laws, and the Model Penal Code. Obstruction of justice can occur even if no formal investigation or proceeding is active. The phrase \u201crelating to\u201d in the statute further broadens its applicability, ensuring it encompasses offenses connected to obstruction of justice, irrespective of a pending investigation. Even if certain provisions might require a pending investigation or proceeding, \u00a71101(a)(43)(S) has a more expansive definition. Historical interpretations do not mandate a pending investigation for obstruction of justice. The rule of lenity, which favors defendants in ambiguous criminal laws, does not apply because traditional interpretation tools clearly defined the statute\u2019s intent.</p>\n<p>Justice Ketanji Brown Jackson joined the majority opinion in full but concurred separately to note that when Congress inserted the phrase \u201coffense relating to obstruction of justice\u201d into \u00a71101(a)(43)(S), it might well have been referencing a specific and previously designated category of offenses of obstruction, many of which do not have a pending-proceeding requirement.</p>\n<p>Justice Sonia Sotomayor authored a dissenting opinion, in which Justices Neil Gorsuch and Elena Kagan joined, arguing that the Court \u201csubverts\u201d the commonly understood meaning of \u201cobstruction of justice.\u201d</p>\n"
+}

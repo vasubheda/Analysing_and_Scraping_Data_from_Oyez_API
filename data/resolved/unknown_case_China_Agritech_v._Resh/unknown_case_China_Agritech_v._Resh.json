@@ -1,0 +1,42 @@
+{
+    "ID": 62934,
+    "name": "China Agritech v. Resh",
+    "href": "https://api.oyez.org/cases/2017/17-432",
+    "view_count": 0,
+    "docket_number": "17-432",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1512712800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54166"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1522040400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54223"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1528693200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54287"
+        }
+    ],
+    "question": "<p>Does the <em>American Pipe</em> tolling rule allow a previously unnamed plaintiff to bring a subsequent class action after the applicable limitations period has passed?</p>\n",
+    "citation": {
+        "volume": "584",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27562"
+    },
+    "term": "2017",
+    "description": "A case in which the Court decided that upon denial of class certification, a putative class member may not, in lieu of promptly joining an existing suit or promptly filing a individual action, commence a class action anew beyond the time allowed by the applicable statute of limitations.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/584/17-432/",
+    "facts_of_the_case": "<p>China Agritech is a holding company incorporated in Delaware, with a principal place of business in Beijing. The company represented that it manufactured and sold organic compound fertilizers and other agricultural products to farmers in over two dozen provinces throughout China. It listed its shares on NASDAQ in 2005, and in 2009 reported to the SEC a net revenue of triple the amount it had reported four years earlier. In 2011, company shareholders alleged fraudulent business practices by China Agritech. The company denied the allegations and announced that it would conduct an internal investigation, and subsequently dismissed its independent auditor. Later that year, NASDAQ halted trading in and initiated delisting proceedings against China Agritech\u2019s stock, and in 2012 the SEC revoked the stock\u2019s registration.</p>\n<p>Shareholders sued China Agritech in two successive putative class actions in 2011 and 2012, alleging various securities law violations against the company and several individual defendants. Class certification was denied in both cases.</p>\n<p>Shareholder Michael Resh brought a third putative class action against the company and individual defendants in 2014, alleging securities law violations arising from the same facts and circumstances as the first two cases. China Agritech moved to dismiss the complaint on the basis that it had been filed after the two year limitations period applicable under the Securities Exchange Act of 1934. Resh and the additional plaintiffs argued that under the <em>American Pipe &amp; Construction v. Utah</em> line of cases, the limitations period had been tolled on their claims during the pendency of the two prior class actions. The district court rejected this contention, finding that under <em>American Pipe</em> and its progeny, the limitations period was tolled as to individual class members, but that the Supreme Court had not decided whether an entirely new class action based on a substantially identical class was subject to the same rule. It ruled that the limitations period was therefore tolled as to the individual claims of the named plaintiffs in the instant case, but not as to the putative class.</p>\n<p>The Ninth Circuit reversed, with a three-judge panel finding that the plaintiffs\u2019 class action would not be time-barred where: (1) the named plaintiffs had been unnamed in the two prior suits, which were against many of the same defendants and involved the same underlying events; (2) the two prior cases were timely; (3) class certification was denied in the earlier actions; and (4) pursuant to the <em>American Pipe</em> line of cases, the named plaintiffs\u2019 individual claims were tolled during the pendency of the two prior class actions. The panel explained that permitting such claims to go forward was consistent with the policy goals of tolling in general. The panel further stated that in light of FRCP 23\u2019s requirements, as well as principles of comity and preclusion, the existing legal system contains sufficient safeguards to prevent litigants from filing repetitious actions in light of this ruling.</p>\n",
+    "conclusion": "<p>In a unanimous opinion authored by Justice Ginsburg, the Court reversed and remanded, holding that upon denial of class certification, a putative class member may not, in lieu of promptly joining an existing suit or promptly filing a individual action, commence a class action anew beyond the time allowed by the applicable statute of limitations.</p>\n<p>The Court explained that American Pipe and Crown, Cork &amp; Seal Co. v. Parker addressed only putative class members wishing to file individual suits after a class certification denial. The Court reasoned that the \u201cefficiency and economy of litigation\u201d that support tolling of individual claims under American Pipe do not support the commencement of untimely successive class claims, stating that any additional class claims should be filed early in relation to the first lawsuit seeking class certification. The economy of litigation does however favor delaying individual claims until class certification has been denied.\u00a0</p>\n<p>The Court explained that this interpretation is supported by FRCP 23, as well as the securities litigation statute governing the case, which evince a preference for resolving class certification questions and grouping class filings at the outset of the litigation. The Court stated that there is little reason to allow plaintiffs who passed up opportunities to take part in pending class claims to become involved several years later. The Court further explained that plaintiffs who commence class actions after the expiration of the limitation period are not likely to qualify as diligent in asserting claims and seeking relief, which is typically a requirement for equitable tolling. Further, the Respondents\u2019 proposed interpretation would allow the statute of limitations to be extended over and over again for a new lead plaintiff after each class certification denial, a result not envisioned by American Pipe.</p>\n<p>Justice Sotomayor filed an opinion concurring in the judgment.</p>\n"
+}

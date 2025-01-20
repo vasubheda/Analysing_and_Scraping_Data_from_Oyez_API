@@ -1,0 +1,42 @@
+{
+    "ID": 62759,
+    "name": "Ziglar v. Abbasi",
+    "href": "https://api.oyez.org/cases/2016/15-1358",
+    "view_count": 0,
+    "docket_number": "15-1358",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1476162000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53953"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1484719200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53954"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1497848400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54068"
+        }
+    ],
+    "question": "<ol><li>How broadly should \u201ccontext\u201d be defined for the purpose of determining whether claims arose in a \u201cnew context\u201d in regards to holding a government official as personally liable for committing a Constitutional violation?</li>\n<li>Are the government defendants in these cases entitled to qualified immunity from liability?</li>\n</ol>",
+    "citation": {
+        "volume": "582",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27464"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that, in suits against government officials for personally violating the Constitution, \u201ccontext\u201d should be defined narrowly for the purpose of determining whether a claim arose in a \u201cnew context,\u201d and the government officials in this case are entitled to qualified immunity. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/582/15-1358/",
+    "facts_of_the_case": "<p dir=\"ltr\">The respondents in this case are a group of male, non-U.S. citizens, most of whom are Muslim of Middle Eastern origin who were detained after the September 11, 2001 attacks and treated as \u201cof interest\u201d in the government\u2019s investigation of these events. In their original claims, the plaintiffs alleged that they were detained without notice of the charges against them or information about how they were determined to be \u201cof interest,\u201d that their access to counsel and the courts was interfered with, and that they were subjected to excessively harsh treatment during their detention. They also asserted that their race, ethnicity, and national origin played a determinative role in the decision to detain them. The plaintiffs sued a number of government officials and argued that the government used their status as non-citizens to detain them when the government\u2019s real purpose was to investigate whether they were terrorists and that the conditions of their confinement violated their Constitutional rights to due process and equal protection. After a series of motions to dismiss, the district court dismissed the claims regarding the length of confinement but allowed the Constitutional claims to proceed. Both the plaintiffs and defendants appealed various aspects of that ruling. </p>\n<p>While that appeal was pending, some of the plaintiffs settled their claims against the government and the U.S. Supreme Court decided Ashcroft v. Iqbal, which held that a complaint must allege sufficient facts to be plausible on its face and to allow a court to draw the reasonable inference that the defendant is liable for the claimed conduct. Based on these events, the U.S. Court of Appeals for the Second Circuit dismissed the length of confinement claims but remanded the conditions of confinement claims and allowed the plaintiffs to amend their complaint. The appellate court again dismissed some of the claims and allowed others to proceed.</p>\n",
+    "conclusion": "<p>\u00a0In suits against government officials for personally violating the Constitution, \u201ccontext\u201d should be defined narrowly for the purpose of determining whether a claim arose in a \u201cnew context,\u201d and the government officials in this case are entitled to qualified immunity. Justice Anthony M. Kennedy delivered the opinion for the 4-2 majority. The Court held that Bivens v. Six Unknown Named Agents established an implied right of action to sue a federal official for money damages when the official violated constitutional rights. However, the Court had declined to extend the Bivens precedent because Congress had not enacted a statute that allowed for this type of remedy. Therefore, in order to respect the separation of powers, the situations in which a court determined that there was an implied right of action for monetary damages against a federal official should be rare. If there were \u201cspecial factors counselling hesitation,\u201d a court should not determine that a Bivens remedy was available. Although the Court had not defined \u201cspecial factors,\u201d they must be present in cases in which is is doubtful that Congress intended to allow for money damages against federal officials. Based on this background, for the purposes of determining whether a Bivens claim arises in a \u201cnew context\u201d and must be subject to a special factors analysis, the term \u201ccontext\u201d should be defined narrowly. Because this case differed in a meaningful way from those that the Court has decided under Bivens previously, it arose in a new context and the special factors analysis should apply. The national security, policy, and separations of powers concerns here were all special factors that counseled against a determination that a Bivens implied right of action was appropriate in this case. The Court also determined that the government officials in this case were entitled to qualified immunity because reasonable officials in their positions would not have known that their conduct was unlawful under clearly established law regarding how a conspiracy applies to a governmental entity.</p>\n<p dir=\"ltr\">In his opinion concurring in part and concurring in the judgment, Justice Clarence Thomas wrote that he agreed with the majority that the Bivens precedent did not extend to this case. However, Justice Thomas argued that the qualified immunity analysis diverged from what Congress had intended. Instead of determining whether a reasonable official would have known that his actions violated clearly established law, qualified immunity for constitutional violations should be determined by what the common law historically would have covered. </p>\n<p dir=\"ltr\">Justice Stephen G. Breyer wrote a dissent in which he argued that the plaintiffs in this case pleaded facts that were well within the scope of established Bivens law, and therefore the claims should be allowed to proceed. A case did not fall under Bivens if it arose out of a new context, which meant that the case was fundamentally different from those that the Court had considered before. In this case, the harms the plaintiffs claim to have suffered were very similar to those that the Court addressed in Bivens, and Congress had not indicated that it intended to withdraw the Bivens remedy in such a situation. Even if this case arose in a new context, the Bivens remedy should still be available because there was no alternative, existing process for protecting their interests and vindicating the harms they already suffered. Justice Breyer also argued that the Bivens precedent included sufficient safeguards to prevent judicial overreach and therefore there were no \u201cspecial factors\u201d that counseled hesitation from the courts. Justice Ruth Bader Ginsburg joined in the dissent.</p>\n<p dir=\"ltr\">Justice Sonia Sotomayor, Justice Elena Kagan, and Justice Neil Gorsuch did not participate in the discussion or decision of this case. </p>\n<p>\u00a0</p>\n"
+}

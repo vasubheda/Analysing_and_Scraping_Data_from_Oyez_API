@@ -1,0 +1,35 @@
+{
+    "ID": 54598,
+    "name": "Monge v. California",
+    "href": "https://api.oyez.org/cases/1997/97-6146",
+    "view_count": 0,
+    "docket_number": "97-6146",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                893739600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37980"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                898837200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37981"
+        }
+    ],
+    "question": "<p>Does the Double Jeopardy Clause preclude retrial on a prior conviction allegation in noncapital sentencing proceedings?</p>\n",
+    "citation": {
+        "volume": "524",
+        "page": "721",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18527"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/524/721/",
+    "facts_of_the_case": "<p>Angel Jaime Monge was convicted on three counts of violating California's drug laws, all felonies. Under California's \"three-strikes\" law a convicted felon with one prior felony conviction will have his prison term doubled. The state sought to have Monge's sentence enhanced based on a previous assault conviction and the resulting prison term. Subsequently the California trial court doubled his sentence and added a one-year enhancement for the prior prison term. On appeal, the California Court of Appeal ruled that the evidence was insufficient to trigger the sentence enhancement because the prior conviction allegations were not proved beyond a reasonable doubt. Moreover, a retrial to substantiate the allegations would violate the Double Jeopardy Clause of the U.S. Constitution. The California Supreme Court reversed the double jeopardy ruling, holding that the Double Jeopardy Clause, though applicable in the capital sentencing context, does not extend to noncapital sentencing proceedings.</p>\n",
+    "conclusion": "<p>No. In a 5-4 decision, announced by Justice Sandra Day O'Connor, the Court held that the Double Jeopardy Clause does not protect convicted criminals from a second sentencing proceeding in noncapital cases. State prosecutors can try a second time to convince a court to impose an enhanced sentence under a state's \"three-strikes\" law.</p>\n"
+}

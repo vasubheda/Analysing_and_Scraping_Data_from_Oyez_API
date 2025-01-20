@@ -1,0 +1,42 @@
+{
+    "ID": 62652,
+    "name": "Kirtsaeng v. John Wiley & Sons",
+    "href": "https://api.oyez.org/cases/2015/15-375",
+    "view_count": 0,
+    "docket_number": "15-375",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1452837600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53394"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1461560400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53435"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1466053200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53779"
+        }
+    ],
+    "question": "<p>What constitutes the appropriate standard for awarding attorneys\u2019 fees to a prevailing party under Section 505 of the Copyright Act?</p>\n",
+    "citation": {
+        "volume": "579",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27400"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that, when deciding whether to grant attorney\u2019s fees under Section 505 of the Copyright Act, courts should give substantial weight to the objective reasonableness of the losing party\u2019s position, but that determination should not be the controlling factor.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/579/15-375/",
+    "facts_of_the_case": "<p>Academic textbook publisher John Wiley &amp; Sons, Inc. (Wiley) owns the American copyright for textbooks and often assigns its rights to its foreign subsidiaries to publish, print, and sell its textbooks abroad. Supap Kirtsaeng is a Thai citizen who came to the United States in 1997 to study mathematics. While he was in the United States, Kirtsaeng asked friends and family in Thailand to buy the English-language versions of his textbooks there, where they were cheaper, and mail them to him. Kirtsaeng would then sell the textbooks in America, where they were worth more, reimburse his friends and family, and make a profit.</p>\n<p>In 2008, Wiley sued Kirtsaeng for copyright infringement. The case went to the U.S. Supreme Court on the question of whether Kirtsaeng was barred from asserting an affirmative defense because the copyrighted works in question were manufactured abroad. The Court held that the affirmative defense was available to Kirtsaeng and remanded the case. Kirtsaeng won the case on remand and sought an award of attorneys' fees and reimbursement of litigation expenses pursuant to Section 505 of the Copyright Act. The district court held that Section 505 provides that the court may \u201cin its discretion\u201d award attorney\u2019s fees but is not bound to do so. Because Wiley\u2019s suit was not \u201cfrivolous\u201d or \u201cobjectively unreasonable,\u201d the district court held that awarding Kirtsaeng attorney\u2019s fees would \u201cnot promote the purposes of the Copyright Act.\u201d The U.S. Court of Appeals for the Second Circuit affirmed.</p>\n",
+    "conclusion": "<p>When deciding whether to grant attorney\u2019s fees under Section 505 of the Copyright Act, courts should give substantial weight to the objective reasonableness of the losing party\u2019s position, but that determination should not be the controlling factor. Justice Elena Kagan delivered the opinion for the unanimous Court, which held that, while the objective reasonableness of the losing party\u2019s position should be given substantial weight, the court retained discretion to consider that factor in light of other relevant considerations. While the language of Section 505 clearly granted a court discretion in awarding attorney\u2019s fees, the Supreme Court had created some restrictions that advanced the overall goals of the Copyright Act -- to encourage creation while allowing others to build on previous work. The objective reasonableness factor for determining fee awards furthered useful copyright litigation because it encouraged both parties to advance strong legal positions and deterred frivolous suits based on weak claims. However, any fee award analysis must take into account more than only this factor, as others were relevant to the court\u2019s determination.</p>\n"
+}

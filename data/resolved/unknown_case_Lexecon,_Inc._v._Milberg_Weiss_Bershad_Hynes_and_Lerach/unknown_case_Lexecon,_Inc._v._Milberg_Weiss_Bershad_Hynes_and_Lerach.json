@@ -1,0 +1,35 @@
+{
+    "ID": 54597,
+    "name": "Lexecon, Inc. v. Milberg Weiss Bershad Hynes and Lerach",
+    "href": "https://api.oyez.org/cases/1997/96-1482",
+    "view_count": 0,
+    "docket_number": "96-1482",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                879141600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37978"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                888904800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37979"
+        }
+    ],
+    "question": "<p>May a federal district court conducting \"pretrial proceedings\" under 28 USC section 1407(a) invoke section 1404(a) to assign a transferred case to itself for trial?</p>\n",
+    "citation": {
+        "volume": "523",
+        "page": "26",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18526"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/523/26/",
+    "facts_of_the_case": "<p>Lexecon Inc. was a defendant in a class action lawsuit. Under 28 USC section 1407(a), the lawsuit was transferred for pretrial proceedings to the District of Arizona. Section 1407(a) authorizes the Judicial Panel on Multidistrict Litigation to transfer civil actions with common issues of fact \"to any district for coordinated or consolidated pretrial proceedings,\" but provides that the Panel \"shall\" remand any such action to the original district \"at or before the conclusion of such pretrial proceedings.\" After claims against it were dismissed, Lexecon brought suit against Milberg Weiss Bershad Hynes &amp; Lerach and others (Milberg) in the class action lawsuit in the Northern District of Illinois. Ultimately, the Panel, under section 1407(a), ordered the case transferred to the District of Arizona. Afterwards, Lexecon moved for the Arizona District Court to remand the case to Illinois. Milberg filed a countermotion requesting the Arizona District Court to invoke section 1404(a) to \"transfer\" the case to itself for trial.Ultimately, the court assigned the case to itself and the Court of Appeals affirmed its judgment.</p>\n",
+    "conclusion": "<p>No. In an opinion delivered by Justice David H. Souter, the Court held that a district court conducting pretrial proceedings pursuant to section 1407(a) has no authority to invoke section 1404(a) to assign a transferred case to itself for trial. The Court noted that the Panel's section 1407(a) instructions are crouched in the word \"shall,\" which \"creates an obligation impervious to judicial discretion.\" Justice Souter wrote for the Court that, \"the straightforward language imposing the Panel's responsibility to remand... bars recognizing any self-assignment power in a transferee court.\" The opinion was unanimous except insofar as Justice Antonin Scalia did not join Part II-C.</p>\n"
+}

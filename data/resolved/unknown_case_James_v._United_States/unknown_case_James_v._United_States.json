@@ -1,0 +1,42 @@
+{
+    "ID": 55383,
+    "name": "James v. United States",
+    "href": "https://api.oyez.org/cases/2006/05-9264",
+    "view_count": 0,
+    "docket_number": "05-9264",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1150088400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39667"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1162879200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39668"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1176872400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39669"
+        }
+    ],
+    "question": "<p>Does a conviction for attempted burglary qualify as a \"violent felony\" under the Armed Career Criminal Act?</p>\n",
+    "citation": {
+        "volume": "550",
+        "page": "192",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20687"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/550/192/",
+    "facts_of_the_case": "<p>When Alphonso James was convicted of firearm possession after having been convicted of a felony, the government sought an enhanced sentence under the Armed Career Criminal Act (ACCA). The ACCA allows for a minimum 15-year sentence if the convicted criminal has three prior convictions for serious drug offenses or violent felonies. A \"violent felony\" under the ACCA includes burglary and \"conduct that presents a serious potential risk of physical injury to another.\" James had previously been convicted once for attempted burglary and twice for drug trafficking, so the government argued that he had the necessary three \"countable\" convictions for the increased sentence. James argued that one of his drug-related convictions did not count as a serious drug offense, and that attempted burglary did not count as a violent felony. A federal District Court held that attempted burglary was a violent felony, but also that James's drug offense was not serious. Therefore, James had only two countable offenses and could not be sentenced under the ACCA.</p>\n<p>On appeal, the Court of Appeals for the Eleventh Circuit reversed and held that James's drug-trafficking offense was serious. The Eleventh Circuit agreed with the District Court that attempted burglary counted as a violent felony, a ruling that put it at odds with other Circuits. The Circuit Court ruled that attempted burglary is a violent felony because it presents as much risk of violence as a successful burglary.</p>\n",
+    "conclusion": "<p>Yes. The Court ruled 5-3 that attempted burglary is a \"violent felony\" for purposes of the Armed Career Criminal Act. The opinion by Justice Samuel Alito held that attempted burglary, as defined by Florida law, is included in the residual provision of the ACCA governing \"conduct that presents a serious potential risk of physical injury to another.\" The Court rejected James's argument that attempted burglary should be excluded because the example crimes listed before the residual provision included only completed - as opposed to attempted - crimes. Instead, the Court held that the common element in the list was that \"these offenses, while not technically crimes against the person, nevertheless create significant risks of bodily injury or confrontation that might result in bodily injury.\" Since the risk associated with attempted burglary was comparable to the risks caused by the listed crimes of burglary, arson, extortion, and use of explosives, attempted burglary was included in the definition of \"violent felony.\"</p>\n"
+}

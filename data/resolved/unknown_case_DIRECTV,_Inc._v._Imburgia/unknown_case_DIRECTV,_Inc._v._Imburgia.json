@@ -1,0 +1,42 @@
+{
+    "ID": 56178,
+    "name": "DIRECTV, Inc. v. Imburgia",
+    "href": "https://api.oyez.org/cases/2015/14-462",
+    "view_count": 0,
+    "docket_number": "14-462",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1427086800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41779"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1444107600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52798"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1450072800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53359"
+        }
+    ],
+    "question": "<p>Did the California Court of Appeal err in holding that a reference to state law in an arbitration clause required the application of that state law despite its preemption by the Federal Arbitration Act?</p>\n",
+    "citation": {
+        "volume": "577",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20960"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that the Federal Arbitration Act preempted state law and required the enforcement of a contract\u2019s arbitration agreement.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/577/47/",
+    "facts_of_the_case": "<p>On September 7, 2008, Amy Imburgia filed a class action lawsuit against DIRECTV, Inc. (DIRECTV), and argued that DIRECTV had improperly charged early termination fees to its customers. In 2011, the U.S. Supreme Court decided <em>AT&amp;T Mobility LLC v. Concepcion</em>, in which the Court held that the Federal Arbitration Act preempted California precedent that had previously held that, in certain circumstances, arbitration clauses in customer agreements were unenforceable. Less than one month after that decision, DIRECTV moved to stay or dismiss the plaintiffs\u2019 case and compel arbitration, which DIRECTV argued it had not done previously because it thought the arbitration clause in its customer agreement was void under California precedent. The trial court denied the motion and the California Court of Appeal for the Second District affirmed by holding that the language of the customer agreement subjected the arbitration clause to state law.</p>\n",
+    "conclusion": "<p>The Federal Arbitration Act preempts state law, so the court has to enforce the arbitration agreement. Justice Stephen G. Breyer delivered the opinion of the 6-3 majority. The Court held that requiring contract enforcement under California state law that the Supreme Court had held was invalid under <em>AT&amp;T Mobility LLC v. Concepcion</em> would conflict with the Federal Arbitration Act. Absent any indication that the language of the contract is meant to refer to invalid state law, it should be construed as only referring to valid state law, which is consistent with California state law. The Court also noted that there was no indication that a California court would apply state law that has been held to be invalid because it conflicts with federal law to any other context. Even in the canon of cases that determine that ambiguous language in a contract should be construed against the party that drafted the language, there is no case that goes so far as to apply invalid state law.</p>\n<p>Justice Clarence Thomas wrote a dissent in which he argued that the Federal Arbitration Act did not apply to state courts and therefore did not require the court to order arbitration in this case. In her separate dissent, Justice Ruth Bader Ginsburg wrote that the provision should be construed against the drafting party so as to give the consumer the ability to pursue class-based litigation. Because the relevant question should be whether both parties agreed to be bound by relevant state law as framed by the state legislature without considering the preemptive effect of federal law, the California state court\u2019s decision should control this case. Although the Federal Arbitration Act contains a presumption in favor of arbitration, the presumption only applies when the express agreement to arbitrate was validly formed, which is not the case when consumers lack bargaining power in the creation of such contracts. Justice Sonia Sotomayor joined in the dissent.</p>\n"
+}

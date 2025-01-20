@@ -1,0 +1,42 @@
+{
+    "ID": 55973,
+    "name": "United States v. Apel",
+    "href": "https://api.oyez.org/cases/2013/12-1038",
+    "view_count": 0,
+    "docket_number": "12-1038",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1370235600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41275"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1386136800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41276"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1393394400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41555"
+        }
+    ],
+    "question": "<p>Can a federal statute be enforced on a portion of a military installation that is subject to a public roadway easement?</p>\n",
+    "citation": {
+        "volume": "571",
+        "page": "359",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/19895"
+    },
+    "term": "2013",
+    "description": "A case in which the Court ruled that a federal statute can be enforced on a portion of military land that is subject to a public roadway easement.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/571/359/",
+    "facts_of_the_case": "<p>The Department of the Air Force owns a section of land that Highway 1 crosses, and the Department has granted roadway easements to the State of California and Santa Barbara County. Highway 1 runs next to the main gate of Vandenberg Air Force Base (Vandenberg). Near the gate is a designated area for public protesting that falls under the Highway 1 easement.</p>\n<p>John D. Apel was barred from Vandenberg's property in 2007 for trespassing. In 2010, while the order barring him was still in effect, he entered the designated protest area three times and was asked to leave. On all three occasions the respondent failed to leave. In two separate trials, Apel was convicted of three violations of a federal statute prohibiting a person from reentering a military installation after a commanding officer has ordered him not to reenter. Apel appealed, arguing that the federal statute requires that the base has exclusive possession over the area. The district court affirmed the convictions by holding that, under the terms of the easement, the land is subject to base rules and regulations. The U.S. Court of Appeals for the Ninth Circuit reversed and held that, because the area is subject to an easement, the federal government does not have an exclusive right of possession, so the conviction cannot stand.</p>\n",
+    "conclusion": "<p>Yes. Chief Justice John G. Roberts delivered the opinion for the unanimous Court. The Court held that there has historically been a great deal of variation in the ownership status of U.S. military sites around the world, so there is no precedent to support the view that a statute does not apply on a base merely because the base does not have exclusive ownership of the land. Although the base granted the easement, it remained under the jurisdiction of the base commander, who remained in control of all points of access to the base.</p>\n<p>In her concurring opinion, Justice Ruth Bader Ginsburg wrote that, when the government creates specific protest places on its property, the First Amendment requires that the government only impose reasonable limitations that are content-neutral and tailored to serve a significant government interest. Although Apel's removal might not stand up to this constitutional review, the Court was correct in not reaching a decision on this issue. Justice Sonia Sotomayor joined in the concurrence. Justice Samuel A. Alito wrote a separate concurring opinion in which he argued that the Supreme Court did not address the constitutional issues in this case because they were not addressed by the Court of Appeals. The failure to address these issues does not indicate agreement or disagreement with the views outlined in Justice Ginsburg's concurrence.</p>\n"
+}

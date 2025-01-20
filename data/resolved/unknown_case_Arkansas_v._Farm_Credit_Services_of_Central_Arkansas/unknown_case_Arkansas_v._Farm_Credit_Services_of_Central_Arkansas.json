@@ -1,0 +1,35 @@
+{
+    "ID": 54489,
+    "name": "Arkansas v. Farm Credit Services of Central Arkansas",
+    "href": "https://api.oyez.org/cases/1996/95-1918",
+    "view_count": 0,
+    "docket_number": "95-1918",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                861598800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37778"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                865227600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37779"
+        }
+    ],
+    "question": "<p>Do Production Credit Associations fall within the exception in the Tax Injunction Act created by Department of Employment v. United States when they sue by themselves?</p>\n",
+    "citation": {
+        "volume": "520",
+        "page": "821",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18418"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/520/821/",
+    "facts_of_the_case": "<p>The Tax Injunction Act provides that federal \"district courts shall not enjoin, suspend or restrain the assessment, levy or collection of any tax under State law where a plain, speedy and efficient remedy may be had in the courts of such State.\" In Department of Employment v. United States, 385 U.S. 355, the U.S. Supreme Court held that the Act does not limit the power of federal courts if the U.S. sues to protect itself or its instrumentalities from state taxation. Four Production Credit Associations (PCA's), federally chartered corporate financial institutions organized by farmers primarily to make loans to farmers, sued, seeing a declaratory judgment and an injunction prohibiting Arkansas from levying sales and income taxes against them. The PCA's argued that they constituted instrumentalities of the U.S. and that they were not subject to the Act's provisions. The District Court granted the PCA's summary judgment and the Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Anthony M. Kennedy, the Court held that Production Credit Associations are not included within the judicial exception to the Act by virtue of their designation as instrumentalities of the United States alone. Therefore, the Court continued, PCA's may not sue in federal court for an injunction against state taxation without the United States as co-plaintiff. \"The Tax Injunction Act is grounded in the need of States to administer their fiscal affairs without undue interference from federal courts,\" wrote Justice Kennedy, \"[a]s all parties concede, respondents have a 'speedy, plain, and efficient remedy' in state court.\"</p>\n"
+}

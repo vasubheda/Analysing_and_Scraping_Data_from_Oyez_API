@@ -1,0 +1,35 @@
+{
+    "ID": 54695,
+    "name": "Grupo Mexicano de Desarrollo, S. A. v. Alliance Bond Fund, Inc.",
+    "href": "https://api.oyez.org/cases/1998/98-231",
+    "view_count": 0,
+    "docket_number": "98-231",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                922860000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38158"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                929595600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38159"
+        }
+    ],
+    "question": "<p>Does the District Court, in an action for monetary damages, have the authority to issue a preliminary injunction preventing the defendant from transferring assets in which no lien or equitable interest is claimed?</p>\n",
+    "citation": {
+        "volume": "527",
+        "page": "308",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18624"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/527/308/",
+    "facts_of_the_case": "<p>Alliance Bond Fund, Inc., an investment fund, purchased approximately $75 million in unsecured notes (Notes) from Grupo Mexicano de Desarrollo, S. A., (GMD) a Mexican holding company involved in a tool road construction program sponsored by the Government of Mexico. Four GMD subsidiaries guaranteed the Notes. After GMD fell into financial trouble and missed an interest payment on the Notes, Alliance accelerated the Notes' principal amount and filed suit for the amount due in Federal District Court. Alliance requested a preliminary injunction restraining GMD from transferring its assets alleging that GMD was at risk of insolvency, or already insolvent, that it was preferring its Mexican creditors by its planned allocation to them of its most valuable assets, and that these actions would frustrate any judgment that Alliance could obtain. Alliance sought monetary damages and no lien or equitable interest was claimed. The District Court issued the preliminary injunction and ordered GMD to post a $50,000 bond. The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>No. In an opinion delivered by Justice Antonin Scalia, the Court held that the District Court lacked the authority to issue a preliminary injunction preventing defendants being sued by creditors from disposing of their assets pending adjudication of the creditor's contract claim for monetary damages because such a remedy was historically unavailable from a court of equity. Allowing federal courts to grant creditors such injunctions \"could radically alter the balance between debtors' and creditors' rights,\" Justice Scalia wrote for the Court, and \"might induce creditors to engage in a race to the courthouse...which might prove financially fatal to the struggling debtor.\"</p>\n"
+}

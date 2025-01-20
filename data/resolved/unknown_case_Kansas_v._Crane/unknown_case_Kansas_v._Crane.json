@@ -1,0 +1,35 @@
+{
+    "ID": 54988,
+    "name": "Kansas v. Crane",
+    "href": "https://api.oyez.org/cases/2001/00-957",
+    "view_count": 0,
+    "docket_number": "00-957",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1004421600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38709"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1011679200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38710"
+        }
+    ],
+    "question": "<p>Did the Kansas Supreme Court interpret Kansas v. Hendricks in an overly restrictive manner by ruling that it requires a finding that a sexual offender, who has only an emotional or personality disorder, rather than a volitional impairment, has an inability to control dangerous behavior?</p>\n",
+    "citation": {
+        "volume": "534",
+        "page": "407",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/18917"
+    },
+    "term": "2001",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/534/407/",
+    "facts_of_the_case": "<p>In 1997, the U.S. Supreme Court upheld the constitutionality of the Kansas Sexually Violent Predator Act in Kansas v. Hendricks, 521 U.S. 346. In doing so, the Court characterized a dangerous sexual offender's confinement as civil rather than criminal and held that the confinement criterion embodied in the statute's words -- \"mental abnormality or personality disorder\" -- satisfied substantive due process. When the state of Kansas filed a petition in a Kansas district court to have Michael T. Crane, a previously convicted sexual offender, committed, the Kansas District Court ordered his civil commitment. In reversing, the State Supreme Court concluded that Hendricks requires a finding that the defendant cannot control his dangerous behavior even if, as provided by Kansas law, problems of emotional, and not volitional, capacity prove the source of behavior warranting commitment. The trial court had made no such finding.</p>\n",
+    "conclusion": "<p>Yes. In a 7-2 opinion delivered by Justice Stephen G. Breyer, the Court held that Hendricks set forth no requirement of total or complete lack of control, but that the Constitution does not permit commitment of the type of dangerous sexual offender considered in Hendricks without any lack-of-control determination. Such required proof, the Court continued, had to be sufficient to distinguish the dangerous sexual offender whose serious mental illness, abnormality, or disorder subjected the offender to civil commitment from the dangerous but typical recidivist convicted in an ordinary criminal case. The Court concluded that an absolute finding of lack of control since this approach would risk barring the civil commitment of some highly dangerous persons suffering severe mental abnormalities.</p>\n"
+}

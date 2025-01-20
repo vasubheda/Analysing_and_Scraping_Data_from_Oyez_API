@@ -1,0 +1,42 @@
+{
+    "ID": 55814,
+    "name": "Lafler v. Cooper",
+    "href": "https://api.oyez.org/cases/2011/10-209",
+    "view_count": 0,
+    "docket_number": "10-209",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1294380000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40825"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1320037200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40826"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1332306000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40827"
+        }
+    ],
+    "question": "<p>Is a state habeas petitioner entitled to relief when his counsel deficiently advises him to reject a favorable plea bargain but the defendant is later convicted and sentenced pursuant to a fair trial?</p>\n",
+    "citation": {
+        "volume": "566",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19736"
+    },
+    "term": "2011",
+    "description": "A case in which the Court found that the test to determine ineffective assistance of counsel, from Strickland v. Washington, was not properly applied in an aggravated assault case.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/566/156/",
+    "facts_of_the_case": "<p>Anthony Cooper was convicted of shooting a woman in the thigh and buttocks after missing a shot to her head. The U.S. Court of Appeals for the 6th Circuit overturned the conviction after Cooper claimed ineffective assistance of counsel. His lawyer told him not to take a plea offer, thinking that there could not be a finding that Cooper intended to murder his victim. But Cooper was convicted of assault with intent to murder and other charges. The appeals court said the incorrect advice equals unconstitutional ineffective assistance and ordered Cooper released. But Michigan officials argue that Cooper got a fair trial and that the verdict should not be thrown out because of his lawyer's mistake.</p>\n",
+    "conclusion": "<p>Yes. In a 5-4 decision, Justice Anthony M. Kennedy delivered the majority opinion, vacating the Sixth Circuit judgment and returning the case for reconsderation. The Court held that the Michigan court applied the wrong standard when it rejected Cooper's claim to ineffective assistance of counsel. The proper test under <em>Strickland v Washington</em> is whether, absent the ineffective counsel, a defendant would have accepted an offered plea that was less severe than his eventual sentence, and the trial court would have accepted the terms of that plea. The majority also held that the proper remedy is not specific performance of the original plea. On remand, the prosecution should re-offer the plea and, if the defendant accepts it, the trial court can decide how to amend the original sentence.</p>\n<p>Justice Antonin Scalia wrote a dissent, stating that there is no right to habeas relief when counsel's advice caused a defendant to have a full and fair trial. A criminal defendant has no right to a plea bargain, so rejecting the plea did not deprive Cooper of any procedural right. Justice Clarence Thomas joined in the Scalia dissent. Chief Justice John G. Roberts, Jr. joined in the dissent except for Justice Scalia's assertions that the majority's decision elevates the plea bargain to a constitutional right. Justice Samuel A. Alito wrote a separate dissent criticizing the majority's \"opaque discussion of the remedy....\"</p>\n"
+}

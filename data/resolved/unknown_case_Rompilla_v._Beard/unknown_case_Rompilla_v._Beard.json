@@ -1,0 +1,42 @@
+{
+    "ID": 55273,
+    "name": "Rompilla v. Beard",
+    "href": "https://api.oyez.org/cases/2004/04-5462",
+    "view_count": 0,
+    "docket_number": "04-5462",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1096347600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39381"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1106028000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39382"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1119243600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39383"
+        }
+    ],
+    "question": "<p>Did the Sixth Amendment right to effective counsel require counsel to try to obtain material counsel had known the prosecution would probably use at the trial's sentencing phase?</p>\n",
+    "citation": {
+        "volume": "545",
+        "page": "374",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/20555"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/545/374/",
+    "facts_of_the_case": "<p>A Pennsylvania court convicted Ronald Rompilla of murder. During the sentencing phase, the prosecution presented to the jury Rompilla's previous rape and assault conviction, as an aggravating factor to justify the death sentence. The jury sentenced Rompilla to death and the state supreme court affirmed. Rompilla's new lawyers filed an additional appeal, arguing that Rompilla's trial counsel had been ineffective for failing to present mitigating evidence about his various personal problems. The state courts found that Rompilla's counsel had sufficiently investigated mitigation possibilities. After Rompilla filed a federal habeas petition, a district court reversed the sentence and ruled the state supreme court had unreasonably applied the U.S. Supreme Court's 1984 decision in Strickland v. Washington. Had the state court followed that case, the district court ruled, the court would have found Rompilla's trial counsel ineffective for failing to investigate obvious signs of Rompilla's troubled childhood, mental illness and alcoholism. The Third Circuit reversed.</p>\n",
+    "conclusion": "<p>Yes. In a 5-4 opinion delivered by Justice David H. Souter, the Court held that Rompilla's trial counsel was ineffective for failing to make reasonable efforts to examine the file on Rompilla's prior conviction for rape and assault. Moreover, counsel had known the prosecution would probably present the prior conviction to the jury during sentencing. In that file counsel would have found mitigating evidence about Rompilla's troubled childhood and mental health.</p>\n"
+}

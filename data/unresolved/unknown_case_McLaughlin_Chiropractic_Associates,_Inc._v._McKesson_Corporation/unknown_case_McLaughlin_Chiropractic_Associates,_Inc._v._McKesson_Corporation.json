@@ -1,0 +1,33 @@
+{
+    "ID": 63709,
+    "name": "McLaughlin Chiropractic Associates, Inc. v. McKesson Corporation",
+    "href": "https://api.oyez.org/cases/2024/23-1226",
+    "view_count": 0,
+    "docket_number": "23-1226",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1728018000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55537"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1737439200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55559"
+        }
+    ],
+    "question": "<p>Does the Hobbs Act require a federal district court to accept the Federal Communication Commission\u2019s legal interpretation of the Telephone Consumer Protection Act?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28043"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether, under the Hobbs Act, a federal district court is bound by the Federal Communication Commission\u2019s legal interpretation of the Telephone Consumer Protection Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-1226/"
+}

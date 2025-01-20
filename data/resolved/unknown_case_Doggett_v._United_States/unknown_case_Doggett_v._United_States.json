@@ -1,0 +1,49 @@
+{
+    "ID": 54059,
+    "name": "Doggett v. United States",
+    "href": "https://api.oyez.org/cases/1991/90-857",
+    "view_count": 0,
+    "docket_number": "90-857",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                686984400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52204"
+        },
+        {
+            "event": "Reargued",
+            "dates": [
+                698911200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51862"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                709362000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52203"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                667461600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53611"
+        }
+    ],
+    "question": "<p>Should a mandatory requirement of actual prejudice be imposed in order for the accused to prevail on a claim that his right to a speedy trial has been violated?</p>\n<p>Has <i>Moore v. Arizona</i>, which holds that an affirmative demonstration of prejudice is not required, been reversed?</p>\n",
+    "citation": {
+        "volume": "505",
+        "page": "647",
+        "year": "1992",
+        "href": "https://api.oyez.org/case_citation/case_citation/17988"
+    },
+    "term": "1991",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/505/647/",
+    "facts_of_the_case": "<p>In 1980, Marc Gilbert Doggett was indicted in the U.S. District Court for the Middle District of Florida on federal drug charges.  When Drug Enforcement Administration (DEA) agents went to his home to arrest him, they found he had left for Colombia four days earlier.  The DEA later found out that Doggett was in custody in Panama on unrelated charges.  While the Panamanian government promised to expel Doggett back to the United States after the proceedings in Panama were over, Doggett was allowed to continue on to Colombia.  The DEA agent in charge did not follow up on the case and Doggett reentered the United States without issue in 1982 where he lived openly under his own name and in accordance with the law.  No one looked into Doggett\u2019s whereabouts, but in 1988 a random credit check of individuals with outstanding warrants revealed his place of residence.</p>\n<p>After being arrested, Doggett moved to dismiss the indictment, arguing that the government\u2019s failure to prosecute him earlier violated his Sixth Amendment right to a speedy trial.  A federal magistrate found that the length of time between indictment and arrest was presumptively prejudicial, but recommended dismissal of Doggett\u2019s motion because he did not show actual prejudice.  The district court followed the magistrate\u2019s recommendation.  Doggett then entered a conditional guilty plea, allowing him to appeal the subsequent conviction on the speedy trial claim.  The U.S. Court of Appeals for the 11th Circuit affirmed.</p>\n",
+    "conclusion": "<p>No, No.  Justice David H. Souter, writing for a 5-4 majority, reversed and remanded.  The Supreme Court held that the government\u2019s egregious failure to locate and prosecute Doggett warranted relief even without showing actual prejudice.  Doggett was unaware of the indictment prior to be arrested 8 \u00bd years later, so he could not be penalized for failing to raise the speedy trial defense earlier.</p>\n<p>Justice Sandra Day O\u2019Connor dissented, arguing that the possibility of prejudice is not enough to prove that the right to a speedy trial has been violated.  Justice Clarence Thomas also dissented, arguing that the right to a speedy trial was meant to prevent oppressive incarceration and the anxiety accompanying public accusation.  Because Doggett was never incarcerated and had no knowledge of the charges against him until his arrest, neither of those purposes were served by this decision.</p>\n"
+}

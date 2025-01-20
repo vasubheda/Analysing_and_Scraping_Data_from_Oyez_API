@@ -1,0 +1,42 @@
+{
+    "ID": 55186,
+    "name": "Nixon v. Missouri Municipal League",
+    "href": "https://api.oyez.org/cases/2003/02-1238",
+    "view_count": 0,
+    "docket_number": "02-1238",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1056344400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39137"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1073887200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39138"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1080108000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39139"
+        }
+    ],
+    "question": "<p>Under the Telecommunications Act of 1996, are states permitted to regulate the provision of telecommunications services by municipal governments?</p>\n",
+    "citation": {
+        "volume": "541",
+        "page": "125",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19114"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/541/125/",
+    "facts_of_the_case": "<p>The Telecommunications Act of 1996 allowed federal preemption of state and local regulations \"prohibiting the ability of any entity\" to provide telecommunications services. Based on this act, a group of local governments in Missouri (the Missouri Municipal League) asked the Federal Communications Commission (FCC) to nullify a state law that prevented municipalities from providing telecommunications services. Missouri argued that municipal governments were not separate entities but merely subsections of the state government and that the state could therefore restrict their authority. The FCC agreed with the state, refusing to nullify the law.</p>\n<p>The Municipal League appealed, and an Eighth Circuit Court of Appeals panel reversed the decision. The panel held the words \"any entity\" were intentionally broad and that a proper understanding of them would include municipal governments. The state could therefore not regulate attempts by municipalities to provide telecommunications services. The FCC, along with the state of Missouri and Southwestern Bell Telephone Company, appealed the decision to the Supreme Court.</p>\n",
+    "conclusion": "<p>Yes. In an 8-1 opinion delivered by Justice David Souter, the Court held that the act allows states to prevent municipalities from providing telecommunications services. The act only allows federal preemption of state and local efforts to prevent \"any private entity\" from providing telecommunications services. The Court concluded it would be \"unlikely\" and \"strange\" if Congress intended to free municipal governments from state regulations because municipal governments rely on state governments for authority to regulate.</p>\n"
+}

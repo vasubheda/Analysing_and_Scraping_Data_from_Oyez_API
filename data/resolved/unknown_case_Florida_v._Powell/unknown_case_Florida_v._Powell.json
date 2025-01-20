@@ -1,0 +1,42 @@
+{
+    "ID": 55645,
+    "name": "Florida v. Powell",
+    "href": "https://api.oyez.org/cases/2009/08-1175",
+    "view_count": 0,
+    "docket_number": "08-1175",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1245646800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40399"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1260165600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40400"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1266904800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40401"
+        }
+    ],
+    "question": "<p>1) Does the Supreme Court have jurisdiction over this case even though the Florida Supreme Court used, at least in part, its own Constitution in reaching its decision?</p>\n<p>2) Does the failure to provide explicit advice of right to presence of counsel during questioning invalidate <em>Miranda</em> warnings that advise both a) right to talk to a lawyer \"before questioning\" and b) the right to consult a lawyer \"at any time during the questioning?\"</p>\n",
+    "citation": {
+        "volume": "559",
+        "page": "50",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19568"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that a Florida police officer did not invalidate a convicted felon's Miranda rights during his arrest.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/559/50/",
+    "facts_of_the_case": "<p>Kevin D. Powell was convicted in a Florida state court of being a felon in possession of a firearm and sentenced to 10 years in prison. Mr. Powell appealed arguing that his <em>Miranda</em> warning was invalid because the written form used by the Tampa police at his arrest did not explicitly indicate that he had a right to an attorney at his questioning. The court of appeals agreed and reversed the conviction. On appeal, the Florida Supreme Court affirmed, holding that informing a defendant that he has the right to \"talk with an attorney\" is not sufficient to inform him of his right to have counsel present.</p>\n",
+    "conclusion": "<p>Yes. No. The Supreme Court held that it retained jurisdiction over the case. Justice Ruth Bader Ginsburg wrote for the majority, joined by Chief Justice John G. Roberts, and Justices Antonin G. Scalia, Anthony M. Kennedy, Clarence Thomas, Samuel Alito, and Sonia Sotamayor, and Justice Stephen G. Breyer as to Part II. Justice John Paul Stevens dissented joined in part by Justice Breyer. The majority recognized that the Florida Supreme Court relied in part on its own state Constitution in addition to <em>Miranda</em> in reaching its decision. However, Justice Ginsburg reasoned that when a state court decision fairly appears to rest on federal law, or is interwoven with federal law, and the adequacy and independence of the state-law ground is unclear from the opinion, as in this case, it is presumed that federal law controlled the state court's decision. Hence, the Supreme Court retained jurisdiction.</p>\n<p>The Supreme Court also reversed the Florida Supreme Court, holding that while <em>Miranda</em> requires that a suspect \"be warned prior to any questioning\" and \"that he has the right to the presence of an attorney, \"it does not dictate the words in which the essential information must be conveyed. Rather, to determine whether police warnings are satisfactory, the inquiry is simply whether the warnings reasonably conveyed to a suspect his rights as required by <em>Miranda</em>. Here, Mr. Powell received warnings that satisfied this standard.</p>\n<p>In his dissent, Justice Stevens argued that the Supreme Court's power to review the Florida Supreme Court's decision was at best doubtful and that the Florida court had a better view of the case on the merits. Justice Stevens counseled that the Supreme Court should limit applying the presumption that federal law controlled a state court's decision only in truly ambiguous cases. He reasoned that this was not such a case. Justice Stevens further argued that the warnings Mr. Powell received did not reasonably convey to him that he had the right to a lawyer during his interrogation.</p>\n"
+}

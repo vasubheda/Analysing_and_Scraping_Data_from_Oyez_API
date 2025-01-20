@@ -1,0 +1,42 @@
+{
+    "ID": 63315,
+    "name": "Sanchez v. Mayorkas",
+    "href": "https://api.oyez.org/cases/2020/20-315",
+    "view_count": 0,
+    "docket_number": "20-315",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1610085600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54824"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1618808400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54880"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1623042000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54915"
+        }
+    ],
+    "question": "<p>Does the conferral of Temporary Protected Status under 8 U.S.C. \u00a7 1254a constitute an \u201cadmission\u201d into the United States under 8 U.S.C. \u00a7 1255?</p>\n",
+    "citation": {
+        "volume": "593",
+        "page": null,
+        "year": "2021",
+        "href": "https://api.oyez.org/case_citation/case_citation/27790"
+    },
+    "term": "2020",
+    "description": "A case in which the Court held that under 8 U.S.C. \u00a7 1254a(f)(4), a grant of temporary protected status does not constitute an \u201cadmission\u201d into the United States and thus does not authorize eligible noncitizens to obtain lawful-permanent-resident status under 8 U.S.C. \u00a7 1255.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/593/20-315/",
+    "facts_of_the_case": "<p>Petitioners Jose Sanchez and his wife were citizens of El Salvador who entered the United States without inspection or admission in 1997 and again in 1998. Following a series of earthquakes in El Salvador in 2001, they applied for and received temporary protected status (TPS) and were subsequently permitted to remain in the United States due to periodic extensions of TPS eligibility for El Salvadoran nationals by the Attorney General.</p>\n<p>In 2014, Sanchez and his wife applied to become lawful permanent residents under 8 U.S.C. \u00a7 1255. The United States Citizenship and Immigration Services (USCIS) denied their applications, finding that Sanchez was \u201cstatutorily ineligible\u201d for adjustment of status because he had not been admitted into the United States. They challenged the denial in federal district court, and the district court granted their motion for summary judgment, holding a grant of TPS meets \u00a7 1255(a)\u2019s requirement that an alien must be \u201cinspected and admitted or paroled\u201d to be eligible for adjustment of status. The U.S. Court of Appeals for the Third Circuit reversed, finding\u00a0 no support in the text, context, structure, or purpose of the statutes for the claim that a grant of TPS may serve as an admission for those who entered the United States illegally.</p>\n",
+    "conclusion": "<p>The conferral of Temporary Protected Status under 8 U.S.C. \u00a7 1254a does not constitute an \u201cadmission\u201d into the United States under 8 U.S.C. \u00a7 1255, so recipients of such status are not eligible to become lawful permanent residents. Justice Elena Kagan authored the unanimous opinion of the Court.</p>\n<p>Section 1255 provides a way for a \u201cnonimmigrant\u201d\u2014that is, a foreign national who is lawfully present in the United States for a designated, temporary basis\u2014to become a lawful permanent resident (LPR). One requirement for eligibility is an \u201cadmission\u201d into the country, and \u201cadmission\u201d is defined as \u201cthe lawful entry of the alien into the United States after inspection and authorization by an immigration officer.\u201d</p>\n<p>Entering the country via a provision of humanitarian law that bypasses the inspection and authorization procedure does not meet the requirement for \u201cadmission,\u201d so those who are present in the country by that means are not eligible to become lawful permanent residents.</p>\n"
+}

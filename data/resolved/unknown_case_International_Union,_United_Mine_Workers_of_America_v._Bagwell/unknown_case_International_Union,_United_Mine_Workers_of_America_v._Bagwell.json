@@ -1,0 +1,35 @@
+{
+    "ID": 62281,
+    "name": "International Union, United Mine Workers of America v. Bagwell",
+    "href": "https://api.oyez.org/cases/1993/92-1625",
+    "view_count": 0,
+    "docket_number": "92-1625",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                754552800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52723"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                772952400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52724"
+        }
+    ],
+    "question": "<p>Were the fines assessed against the United Mine Workers of America union, amounting to more than $64 million, criminal or civil in nature?</p>\n",
+    "citation": {
+        "volume": "512",
+        "page": "821",
+        "year": "1994",
+        "href": "https://api.oyez.org/case_citation/case_citation/27084"
+    },
+    "term": "1993",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/512/821/",
+    "facts_of_the_case": "<p>A Virginia trial court warned the United Mine Workers of America union to refrain from certain unlawful strike-related activities. Over the course of the next few months, finding that the union had disregarded the warning more than 400 times, the court fined them more than $64 million in what it termed civil fines, payable to the state of Virginia. After the strike was settled the court refused to cancel the fines, despite the fact that the strike settlement had called for their cancellation. The Court ruled that the fines were payable to the state, not the mining company, and that the settlement could not therefore cancel them. The Virginia Court of Appeals reversed, canceling the fines in accordance with the settlement agreement, but on further appeal the Supreme Court of Virginia reinstated the fines. It held that the union had been warned in advance and could have avoided the fines, meaning that it controlled its own destiny. The fines were therefore not criminal (imposing criminal fines would have required a jury trial) but instead civil, as the trial court had argued, because they were intended to maintain order and respect for the courts by encouraging compliance with a court order.</p>\n",
+    "conclusion": "<p>The fines were criminal in nature. The Supreme Court unanimously held that they had been intended to punish the union, not merely to maintain order or respect for the judiciary, and that the union was therefore entitled to the heightened protections of a criminal proceeding, such as a jury trial. Justice Harry Blackmun in the opinion of the Court, wrote, \"The union's sanctionable conduct did not not occur in the court's presence or otherwise implicate the court's ability to maintain order and adjudicate the proceedings before it. ... Instead, the Virginia trial court levied contempt fines for widespread, ongoing, out-of-court violations of a complex injunction. In so doing, the court effectively policed petitioner's compliance with an entire code of conduct that the court itself had imposed. ... Under such circumstances, disinterested factfinding and evenhanded adjudication were essential, and petitioners were entitled to a criminal jury trial.\"</p>\n"
+}

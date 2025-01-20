@@ -1,0 +1,35 @@
+{
+    "ID": 55067,
+    "name": "Roell v. Withrow",
+    "href": "https://api.oyez.org/cases/2002/02-69",
+    "view_count": 0,
+    "docket_number": "02-69",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1046239200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38858"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1051592400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38859"
+        }
+    ],
+    "question": "<p>Can consent, under the Federal Magistrate Act of 1979, be inferred from a party's conduct during litigation?</p>\n",
+    "citation": {
+        "volume": "538",
+        "page": "580",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/18996"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/538/580/",
+    "facts_of_the_case": "<p>The Federal Magistrate Act of 1979 authorizes magistrate judges to conduct \"any or all proceedings in a jury or nonjury civil matter and order the entry of judgment in the case\" with \"the consent of the parties.\" When Jon Withrow, a state prisoner, brought suit against members of the prison's medical staff, he gave written consent for the magistrate judge to preside over the entire case. Only one of the three staff members gave written consent. The other two members voluntarily participated. When the medical staff won, Withrow appealed and the Court of Appeals sua sponte remanded the case to determine whether the parties had consented to proceed before the magistrate judge. Ultimately, the magistrate judge reported that she had lacked jurisdiction because such consent had to be expressly given. The District Court adopted the report and recommendation. In affirming, the Court of Appeals found that consent must be express and that the staffs' postjudgment consent was inadequate.</p>\n",
+    "conclusion": "<p>Yes. In a 5-4 opinion delivered by Justice David H. Souter, the Court held that consent to a magistrate judge's designation can be inferred from a party's conduct during litigation. Distinguishing between full and part-time magistrate judges, the Court reasoned that the \"unadorned references\" regarding the consent of the parties and full-time magistrate judges provided for jurisdiction as long as the parties voluntarily consented. \"[The two staff members'] general appearances before the Magistrate Judge, after they had been told of their right to be tried by a district judge, supply the consent necessary for the Magistrate Judge's 'civil jurisdiction,'\" wrote Justice Souter.</p>\n"
+}

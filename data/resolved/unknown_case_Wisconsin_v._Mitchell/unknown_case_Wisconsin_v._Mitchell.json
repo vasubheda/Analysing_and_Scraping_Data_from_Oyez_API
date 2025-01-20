@@ -1,0 +1,35 @@
+{
+    "ID": 54094,
+    "name": "Wisconsin v. Mitchell",
+    "href": "https://api.oyez.org/cases/1992/92-515",
+    "view_count": 0,
+    "docket_number": "92-515",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                735368400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37038"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                739774800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37039"
+        }
+    ],
+    "question": "<p>Did the increase in Mitchell's sentence based on his bigoted motives violate his First Amendment rights?</p>\n",
+    "citation": {
+        "volume": "508",
+        "page": "476",
+        "year": "1993",
+        "href": "https://api.oyez.org/case_citation/case_citation/18023"
+    },
+    "term": "1992",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/508/476/",
+    "facts_of_the_case": "<p>On October 7, 1989, Todd Mitchell, a young black man, instigated an attack against a young white boy. He was subsequently convicted of aggravated battery in the Circuit Court for Kenosha County. According to Wisconsin statute, Mitchell's sentence was increased, because the court found that he had selected his victim based on race. Mitchell challenged the constitutionality of the increase in his penalty, but the Wisconsin Court of Appeals rejected his claims. However, the Wisconsin Supreme Court reversed.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion authored by Justice William H. Rehnquist, the Court found that the Wisconsin statute paralleled antidiscrimination laws which had been found to comply with the First Amendment. It also determined that the consequences for the victim and the community tended to be more severe, when the victim of a crime was chosen on account of his or her race. Thus, when the Wisconsin statute increased the sentence for such crimes, it was not punishing the defendant for his or her bigoted beliefs or statements, but rather the predicted ramifications of his or her crime. Finally, the Court concluded that the Wisconsin statute did not violate the right to free speech because the occasion in which an average person's racist comments would be used against him or her in a court of law would arise so rarely that he or she would not feel forced to suppress them.</p>\n"
+}

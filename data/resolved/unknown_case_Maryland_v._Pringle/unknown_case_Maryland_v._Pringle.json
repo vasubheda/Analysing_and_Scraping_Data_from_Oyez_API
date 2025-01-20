@@ -1,0 +1,42 @@
+{
+    "ID": 55172,
+    "name": "Maryland v. Pringle",
+    "href": "https://api.oyez.org/cases/2003/02-809",
+    "view_count": 0,
+    "docket_number": "02-809",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1048485600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39097"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1067839200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39098"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1071468000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39099"
+        }
+    ],
+    "question": "<p>Does an arrest of a front-seat passenger in a car driven by its owner, after police find cocaine in the car's back armrest, lack probable cause and violate the Fourth Amendment's prohibition of unreasonable searches and seizures?</p>\n",
+    "citation": {
+        "volume": "540",
+        "page": "366",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/19100"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/540/366/",
+    "facts_of_the_case": "<p>A police officer stopped a car for speeding, searched the car, and seized money from the glove compartment and cocaine from behind the back-seat armrest. The officer arrested the car's three occupants after they denied ownership of the drugs and money. A state court sentenced Pringle, the front-seat passenger, for possessing and intending to distribute cocaine after he signed a written confession. The state appellate court reversed the conviction, holding that the mere finding of cocaine in the back armrest when Pringle was in the front-seat of a car being driven by its owner was insufficient to establish probable cause for arrest for possession.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Chief Justice William Rehnquist, the Court ruled that because the officer had probable cause to arrest Pringle, the arrest did not violate the Fourth Amendment. The Court reasoned that \"a reasonable officer could conclude that there was probable cause to believe that Pringle committed the crime of possession of cocaine.\"</p>\n"
+}

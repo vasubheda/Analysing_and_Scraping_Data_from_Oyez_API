@@ -1,0 +1,42 @@
+{
+    "ID": 55382,
+    "name": "Long Island Care at Home, Ltd. v. Coke",
+    "href": "https://api.oyez.org/cases/2006/06-593",
+    "view_count": 0,
+    "docket_number": "06-593",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1167976800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39664"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1176699600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39665"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1181538000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39666"
+        }
+    ],
+    "question": "<p>1) Is a regulation found under a subpart headed \"Interpretations\" still entitled to be given <em>Chevron</em> deference by the courts?</p>\n<p>2) Did the Second Circuit err in holding a Department of Labor regulation unpersuasive and thus undeserving of <em>Skidmore</em> deference?</p>\n",
+    "citation": {
+        "volume": "551",
+        "page": "158",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20710"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/551/158/",
+    "facts_of_the_case": "<p>Long Island Care at Home (Long Island) employed Evelyn Coke as a \"home healthcare attendant\" for the elderly. Coke sued her employer, claiming rights to overtime and minimum wage under the Fair Labor Standards Act (FLSA). The District Court ruled for Long Island, holding that Coke fell under the FLSA's exemption for employees engaged in \"companionship services.\" The court gave deference to the Department of Labor's regulation 29 CFR Section 552.109(a), which applies the exemption to employees in \"companionship services\" who are \"employed by an employer or agency other than the family or household using their services.\"</p>\n<p>The U.S. Court of Appeals for the Second Circuit reversed. It ruled that the regulation was a misinterpretation of the statute, and was therefore unenforceable. The Second Circuit declined to give the Department's regulation any of the judicial deference normally due to administrative regulations. No <em>Chevron</em> deference (\"strong deference\") was due, because the regulation was under a section titled \"Interpretations.\" Regulations that are interpretive rather than legislative are not entitled to <em>Chevron</em> deference. The Court of Appeals also ruled that the regulation was \"unpersuasive in the context of the entire statutory and regulatory scheme,\" and thus not entitled to <em>Skidmore</em> deference (\"weak deference\") either.</p>\n",
+    "conclusion": "<p>Yes and yes. A unanimous Court ruled that the Department of Labor's regulation was \"valid and binding\" and therefore entitled to all of the deference courts normally give to administrative regulations. The opinion by Justice Stephen Breyer considered the regulation a normal instance of an agency \"filling a statutory gap,\" and rejected each of the lower court's arguments that it was unlawful. The regulation was intended to be legally binding even though it was under a section titled \"Interpretations.\" This was evidenced by the importance of the regulation and the fact that the Department went through full public notice-and-comment procedures. The \"Interpretations\" heading may have simply referred to that section's more detailed focus, which interpreted the more general regulations of the previous section. Since the regulation was valid and proper, the Court held, the FLSA's \"companionship services\" exemption continues to apply to workers paid by third-party agencies.</p>\n"
+}

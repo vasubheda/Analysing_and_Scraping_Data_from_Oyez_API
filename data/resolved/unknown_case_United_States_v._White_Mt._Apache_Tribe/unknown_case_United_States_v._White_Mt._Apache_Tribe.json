@@ -1,0 +1,35 @@
+{
+    "ID": 55077,
+    "name": "United States v. White Mt. Apache Tribe",
+    "href": "https://api.oyez.org/cases/2002/01-1067",
+    "view_count": 0,
+    "docket_number": "01-1067",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1038808800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38876"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1046757600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38877"
+        }
+    ],
+    "question": "<p>Does the Court of Federal Claims, under the Indian Tucker Act, have jurisdiction over the White Mountain Apache Tribe's suit against the United States for breach of fiduciary duty to manage land and improvements held in trust for the Tribe but occupied by the federal government?</p>\n",
+    "citation": {
+        "volume": "537",
+        "page": "465",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/19006"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/537/465/",
+    "facts_of_the_case": "<p>Under Public Law 86-392, the former Fort Apache Military Reservation is held in trust for the White Mountain Apache Tribe. The Tribe sued the federal government to rehabilitate the property, alleging that the United States had breached a fiduciary duty to maintain, protect, repair, and preserve it. In its motion to dismiss, the federal government argued that jurisdiction was lacking here because no statute or regulation could be read to impose a legal obligation on it to maintain or restore the trust property, let alone authorize compensation for breach. The Court of Federal Claims agreed and dismissed the complaint. In reversing, the Court of Appeals for the Federal Circuit concluded that the federal government's property use triggered a common-law trustee's duty to act reasonably to preserve any property the Secretary of the Interior chose to utilize, which also supported a money damages claim.</p>\n",
+    "conclusion": "<p>Yes. In a 5-4 opinion delivered by Justice David H. Souter, the Court held that Public Law 86-392 gives rise to Indian Tucker Act jurisdiction in the Court of Federal Claims over the Tribe's suit. The Court reasoned that, although the statute providing for the land to be held in trust imposed no duties on the United States to maintain the land, the occupation of such land by the United States raised a duty to preserve trust assets and that it naturally followed that the United States was liable in damages for the breach of such duties. Justice Clarence Thomas, with whom Chief Justice William H. Rehnquist and Justice Antonin Scalia and Anthony M. Kennedy joined, dissented. Justice Thomas argued that the majority's opinion \"radically alters the relevant inquiry from one focused on the actual fiduciary duties created by statute or regulation to one divining fiduciary duties out of the use of the word 'trust' and notions of factual control.\"</p>\n"
+}

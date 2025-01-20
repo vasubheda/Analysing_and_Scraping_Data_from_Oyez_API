@@ -1,0 +1,42 @@
+{
+    "ID": 55399,
+    "name": "Marrama v. Citizens Bank of Massachusetts",
+    "href": "https://api.oyez.org/cases/2006/05-996",
+    "view_count": 0,
+    "docket_number": "05-996",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1150088400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39711"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1162792800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39712"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1172037600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39713"
+        }
+    ],
+    "question": "<p>Can the right in Section 706(a) of the Bankruptcy Code to convert a Chapter 7 bankruptcy to another chapter be denied because of bad faith?</p>\n",
+    "citation": {
+        "volume": "549",
+        "page": "365",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20689"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/549/365/",
+    "facts_of_the_case": "<p>Robert Marrama filed for Chapter 7 bankruptcy and agreed to turn over all of his non-exempt assets to a trustee for payment of his creditors. Trustees later accused Marrama of acting in bad faith by attempting to conceal two assets: a tax refund and some real estate. Marrama then moved to convert his bankruptcy petition from Chapter 7 to Chapter 13, which would allow him to keep more of his assets. Citizens Bank, one of Marrama's creditors, opposed the conversion. Citizens Bank argued that Marrama should not be able to convert to Chapter 13 due to his initial bad faith Chapter 7 petition. The bankruptcy court agreed and denied the conversion.</p>\n<p>The bankruptcy appeals panel affirmed the court's ruling. On appeal to the U.S. Court of Appeals for the First Circuit, Marrama argued that the plain language of Section 706(a) of the Bankruptcy Code supported his right to convert to Chapter 13, regardless of the circumstances. Section 706(a) states, \"The debtor may convert a case under [Chapter 7] to a case under Chapter 11, 12 or 13 of this title at any time [...]\" Citizens Bank countered that the word \"may\" indicates a privilege rather than a right. It also argued that the bankruptcy system could be abused if debtors were able to convert to Chapter 13 after filing bad faith Chapter 7 petitions. The First Circuit upheld the panel's ruling, denying Marrama his conversion.</p>\n",
+    "conclusion": "<p>Yes. In a 5-4 decision, the Court ruled that there is a \"bad faith\" exception to the right of conversion in Section 706(a). The opinion by Justice John Paul Stevens held that although the vast majority of Chapter 7 debtors can convert to Chapter 13, a Chapter 7 debtor who engages in bad faith conduct does not qualify as a \"debtor\" under Chapter 13 and thus cannot convert his petition. The majority also wrote that courts have the inherent power to deny the motions of litigants who act in bad faith. The Court concluded that \"Nothing in the text of [...] 706 [...] limits the authority of the court to take appropriate action in response to fraudulent conduct by the atypical litigant who has demonstrated that he is not entitled to the relief available to the typical debtor.\"</p>\n"
+}

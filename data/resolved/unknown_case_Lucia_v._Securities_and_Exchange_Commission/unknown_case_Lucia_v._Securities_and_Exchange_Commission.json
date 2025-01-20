@@ -1,0 +1,42 @@
+{
+    "ID": 62946,
+    "name": "Lucia v. Securities and Exchange Commission",
+    "href": "https://api.oyez.org/cases/2017/17-130",
+    "view_count": 0,
+    "docket_number": "17-130",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1515736800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54194"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1524459600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54234"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1529557200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54303"
+        }
+    ],
+    "question": "<p>Are administrative law judges of the Securities and Exchange Commission Officers of the United States within the meaning of the Appointments Clause?</p>\n",
+    "citation": {
+        "volume": "585",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27571"
+    },
+    "term": "2017",
+    "description": "A case in which the Court decided that administrative law judges of the Securities and Exchange Commission are \"officers of the United States\" subject to the Constitution's Appointments Clause.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/585/17-130/",
+    "facts_of_the_case": "<p>The Securities and Exchange Commission (\u201cCommission\u201d) commenced an administrative enforcement action against Raymond J. Lucia and Raymond J. Lucia Companies, Inc. (collectively \u201cPetitioners\u201d) for alleged anti-fraud violations of the Investment Advisers Act arising from the way they presented their retirement wealth management strategy to prospective clients. An administrative law judge (\u201cALJ\u201d) found liability and imposed sanctions including a lifetime industry bar against Petitioners. The Commission granted the parties\u2019 petitions for review, and found that Petitioners had committed anti-fraud violations and imposed the same sanctions as the ALJ. The Commission also rejected the argument that the administrative proceedings had been unconstitutional because the ALJ who handed down the initial decision was a constitutional Officer who had not been appointed pursuant to the Appointments Clause under Article II, Section 2, Clause 2 of the Constitution.\u00a0</p>\n<p>Petitioners asked the D.C. Circuit to vacate the Commission\u2019s decision and order under review on the grounds that the ALJ who made the administrative ruling was a constitutional Officer who had not been appointed in accordance with the Appointments Clause. The appeals court rejected this argument, explaining that Commission ALJs were not constitutional Officers within the meaning of the Appointments Clause, primarily because of their lack of authority to issue final decisions on behalf of the Commission pursuant to the agency\u2019s regulatory scheme.</p>\n",
+    "conclusion": "<p>In a 7-2 opinion, the Court reversed and remanded, holding that administrative law judges of the Securities and Exchange Commission are \u201cofficers of the United States\u201d subject to the Constitution\u2019s Appointments Clause.</p>\n<p>In an opinion authored by Justice Kagan, the Court began by stating that under its precedent, as established in <em>United States v. Germaine</em>, 99 U.S. 508 (1879), and <em>Buckley v. Valeo</em>, 424 U.S. 1 (1976), to be classified as an officer rather than an employee, a person needs to have a \u201ccontinuing\u201d position established by law, and must \u201cexercis[e] significant authority pursuant to the laws of the United States.\u201d It went on to explain that the factors in <em>Freytag v. Commissioner</em>, 501 U.S. 868 (1991), the case directly governing the instant matter, matched up almost exactly to the elements in Lucia\u2019s case.\u00a0</p>\n<p>In <em>Freytag</em>, the Court ruled that U.S. Tax Court \u201cspecial trial judges\u201d (STJs) were officers because they met the elements required under <em>Germaine</em> and <em>Buckley</em>, and because they had significant discretion in addition to considerable responsibilities in presiding over administrative proceedings. These responsibilities included \u201ctak[ing] testimony, conduct[ing] trials, rul[ing] on the admissibility of evidence, and hav[ing] the power to enforce compliance with discovery orders.\u201d The Court reasoned that the SEC\u2019s ALJs, like the STJs in <em>Freytag</em>, held a continuing office established by law, and exercised the same degree of discretion when carrying out the same functions as the STJs. But in contrast with the Tax Court STJs, whose decisions were always required to be reviewed by a regular Tax Court judge, the SEC ALJs\u2019 decisions were not always subject to review; if the SEC decided against review then the ALJ\u2019s decision would become final and be \u201cdeemed the action of the Commission.\u201d As such, the SEC ALJs were officers of the United States subject to the Appointments Clause.</p>\n<p>In light of this conclusion, because Lucia had made a timely challenge in his case to the constitutional validity of the ALJ\u2019s appointment, he was entitled to a new hearing before a properly appointed official.</p>\n<p>Justice Thomas filed a concurring opinion, in which Justice Gorsuch joined.</p>\n<p>Justice Breyer filed an opinion concurring in the judgment in part and dissenting in part, and was joined by Justices Ginsburg and Sotomayor as to Part III.</p>\n<p>Justice Sotomayor filed a dissenting opinion, in which Justice Ginsburg joined.</p>\n"
+}

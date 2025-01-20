@@ -1,0 +1,35 @@
+{
+    "ID": 56127,
+    "name": "Lopez v. Smith",
+    "href": "https://api.oyez.org/cases/2014/13-946",
+    "view_count": 0,
+    "docket_number": "13-946",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1412571600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41724"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1412571600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41725"
+        }
+    ],
+    "question": "<p>Did the U.S. Court of Appeals for the Ninth Circuit properly apply its own precedent in determining that Smith's habeas petition should be granted?</p>\n",
+    "citation": {
+        "volume": "574",
+        "page": "1",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20928"
+    },
+    "term": "2014",
+    "description": "A case in which the Court ruled that the U.S. Court of Appeals for the Ninth Circuit improperly applied its own precedent to create a habeas relief rule more specific than the rule established by Supreme Court decision.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/574/1/",
+    "facts_of_the_case": "<p>On December 15, 2005, Minnie Smith was found dead in the home she shared with her husband, Marvin Smith. Smith was charged with first-degree murder for the death of his wife. At the end of the trial, the prosecution asked for and received an aiding-and-abetting instruction, which would allow the jury to convict Smith even if they found that he had not delivered the fatal blow. The jury convicted Smith but did not specify which theory of guilt they adopted. The California Court of Appeal affirmed the conviction and rejected Smith's argument that he had not been given adequate notice of the possibility of the aiding-and-abetting instruction. The California Supreme Court denied Smith's petition for review.</p>\n<p>Smith filed a petition for habeas relief. The Magistrate Judge recommended granting the relief, and the district court agreed. The U.S. Court of Appeals for the Ninth Circuit affirmed and held that Smith should have been aware that the aiding-and-abetting instruction was possible because under California law aiding and abetting the crime is part of the same substantive offense as the commission of the crime itself. However, the appellate court held that Smith's Sixth Amendment right had been violated because the prosecution had tried the case on a single theory before adding the second instruction at the very end of the trial. In reaching this decision, the appellate court relied on its own precedent, which it claimed faithfully applied Supreme Court precedent.</p>\n",
+    "conclusion": "<p>No. In a per curiam decision, the Supreme Court held that the appellate court improperly used its own precedent to create a more specific rule than the one that Supreme Court precedent actually created. A federal court may only grant habeas relief if the state court's decision was contrary to established federal law as determined by the Supreme Court. Because the Supreme Court did not have a clearly established rule on this issue, the appellate court impermissibly relied on its own precedent to conclude that the federal law was clearly established.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55984,
+    "name": "Fernandez v. California",
+    "href": "https://api.oyez.org/cases/2013/12-7822",
+    "view_count": 0,
+    "docket_number": "12-7822",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1369026000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41296"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1384322400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41297"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1393308000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41584"
+        }
+    ],
+    "question": "<p>Does the Fourth Amendment prohibit warrantless searches when the defendant has previously objected but is no longer present and the co-tenant consents?</p>\n",
+    "citation": {
+        "volume": "571",
+        "page": "292",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20896"
+    },
+    "term": "2013",
+    "description": "A case in which the Court decided a warrantless search is lawful if one of two co-tenants consents to the search and the other tenant is not present.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/571/292/",
+    "facts_of_the_case": "<p>On October 12, 2009, Abel Lopez was attacked and robbed by a man he later identified as Walter Fernandez. Lopez managed to call 911, and a few minutes after the attack, police and paramedics arrived on the scene. Detectives investigated a nearby alley that was a known gang location where two witnesses told them that the suspect was in an apartment in a house just off the alley. The detectives knocked on the door of the indicated apartment, and Roxanne Rojas answered. The detectives requested to enter and conduct a search, at which point Walter Fernandez stepped forward and refused the detectives entry. They arrested Fernandez and took him into custody. Police officers secured the apartment, informed Rojas that Fernandez had been arrested in connection with a robbery, and requested to search the apartment. Rojas consented to the search verbally and in writing. During the search, officers found gang paraphernalia, a knife, and a gun.</p>\n<p>At trial, the defendant moved to suppress the evidence seized in the warrantless search, and the trial court denied the motion. The jury found Fernandez guilty on the robbery charge, and he did not contest the charges for possession of firearms and ammunition. On appeal, the defendant argued that the trial court improperly denied his motion to suppress. The California Court of Appeal for the Second District affirmed and held that the warrantless search was lawful because a co-tenant consented.</p>\n",
+    "conclusion": "<p>No. Justice Samuel A. Alito, Jr. delivered the opinion for the 6-3 majority. The Supreme Court held that, although a warrant is generally required for a search of a home, the ultimate touchstone of the Fourth Amendment is whether the search was reasonable. Although warrantless searches are unreasonable when two co-tenants are present and one objects to the search, the Court has held that the same search is reasonable when the objecting tenant leaves. In this case, because the objecting tenant was arrested and no longer present, the Court held that the search was reasonable because the consenting tenant had the authority to allow the police into her home.</p>\n<p>Justice Antonin Scalia wrote an opinion concurring in the judgment in which he refused the petitioner's argument that general property law should govern in this case. Specifically, he noted that a guest could not trespass on a property if one tenant allowed that guest to enter the property despite a co-tenant's objection. Therefore, he argued that the police could not have infringed on any property rights. In his separate opinion concurring in the judgment, Justice Clarence Thomas wrote that he disagreed with a prior holding regarding warrantless searches, <em> Georgia v. Randolph </em>. There, the Court held that, where two co-tenants are present and one tenant consents to a police search while the other refuses, the search is not constitutional. Instead, Thomas argued that a warrantless police search is constitutional if the police obtain voluntary consent from a person authorized to give that consent.</p>\n<p>In her dissent Justice Ruth Bader Ginsberg argued that the police, once they were aware of Fernandez' objection, should have gotten a warrant prior to searching the premises. Justices Sonia Sotomayor and Justice Elena Kagan joined in the dissent.</p>\n<p><em>Learn more about the Roberts Court and the Fourth Amendment in <a href=\"http://projects.oyez.org/shifting-scales/\">Shifting Scales</a>, a nonpartisan Oyez resource.</em></p>\n"
+}

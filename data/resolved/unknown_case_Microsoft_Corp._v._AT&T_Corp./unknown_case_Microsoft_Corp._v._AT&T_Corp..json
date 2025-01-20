@@ -1,0 +1,42 @@
+{
+    "ID": 55409,
+    "name": "Microsoft Corp. v. AT&T Corp.",
+    "href": "https://api.oyez.org/cases/2006/05-1056",
+    "view_count": 0,
+    "docket_number": "05-1056",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1161925200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39740"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1172037600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39741"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1177909200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39742"
+        }
+    ],
+    "question": "<p>1) Can software code be a component of a patented invention for purposes of the Patent Act?</p>\n<p>2) Are copies of software code \"supplied from the United States\" for purposes of the Patent Act when the copies are created overseas from a master version that is supplied from the United States?</p>\n",
+    "citation": {
+        "volume": "550",
+        "page": "437",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20648"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/550/437/",
+    "facts_of_the_case": "<p>AT&amp;T owned the patent for certain speech codecs (a type of software code) included in Microsoft's Windows operating system. When Microsoft sent master versions of the software overseas, copied them, and sold the copied software, AT&amp;T sued for patent infringement. A company is guilty of infringement under the Patent Act if it \"supplies...from the United States...components of a patented invention...in such manner as to actively induce the combination of such components.\" Microsoft argued that it was not liable because 1) software code is intangible and cannot not be considered a \"component\" of an invention and 2) no software had been \"supplied\" from the U.S. because the copies were made overseas.</p>\n<p>The District Court rejected both of Microsoft's arguments, and the U.S. Court of Appeals for the Federal Circuit affirmed. The Federal Circuit ruled that software code could be a component, because the Patent Act was not limited to physical structures. The Circuit Court also held that each overseas copy made of the U.S.-originated software code was \"supplied\" from the United States.</p>\n",
+    "conclusion": "<p>No and no. The Court ruled 7-1 that Microsoft was not liable for infringement of AT&amp;T's patent. The opinion by Justice Ruth Bader Ginsburg held that \"software code is an idea without physical embodiment\"; it cannot be a component of a patented invention. While leaving open the possibility that intangible things could be components in some cases, the opinion compared software code to a blueprint - something that can precisely describe the combination of the components, but is not itself a component. The majority held that Microsoft's Windows software does not become a component for purposes of AT&amp;T's patent until it is converted into copies that can be read by a computer. The Court acknowledged that the copying from the master versions was an easy step, but it was nonetheless \"essential.\" Since the crucial step occurred outside the United States, the copies were \"supplied from the United States\" under the meaning of the Patent Act. Instead, each functional copy was produced overseas from the master version of the software code. Justice Stevens's lone dissent disagreed with the Court's comparison of software code to a blueprint. He compared the exported master disk to a \"warehouse of components.\"</p>\n"
+}

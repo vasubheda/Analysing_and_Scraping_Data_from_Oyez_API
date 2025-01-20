@@ -1,0 +1,42 @@
+{
+    "ID": 55405,
+    "name": "Rockwell International Corp. v. United States",
+    "href": "https://api.oyez.org/cases/2006/05-1272",
+    "view_count": 0,
+    "docket_number": "05-1272",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1159246800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39728"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1165298400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39729"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1174971600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39730"
+        }
+    ],
+    "question": "<p>What kind of \"direct and independent\" knowledge must an employee bringing suit under the False Claims Act have in order to qualify as an \"original source\"?</p>\n",
+    "citation": {
+        "volume": "549",
+        "page": "457",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20657"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/549/457/",
+    "facts_of_the_case": "<p>Stone sued his employer, nuclear weapons plant operator Rockwell International, under the False Claims Act (FCA). He took advantage of the FCA's \"qui tam\" provision, which allows an individual to sue on behalf of the government. Stone alleged that Rockwell had made false claims about the environmental safety of \"pondcrete,\" a mixture of cement and sludge used for nuclear waste storage. In a qui tam action under the FCA, the person bringing the suit must be the \"original source\" of the information on which his claim is based. Rockwell argued that Stone was not an original source because he did not have \"direct and independent knowledge\" of the information at issue in the suit, as required by the FCA.</p>\n<p>The District Court ruled that Stone qualified as an original source, and a divided panel of the U.S. Circuit Court for the Tenth Circuit affirmed. The Supreme Court agreed to resolve the question of how much and what kind of knowledge an FCA qui tam plaintiff must have.</p>\n",
+    "conclusion": "<p>The Court ruled 6-2 that Stone did not qualify as an \"original source\" with \"direct and independent knowledge of the information on which the allegations are based\" for purposes of the False Claims Act. Justice Antonin Scalia's opinion interpreted the word \"information\" as referring to information on which the relator's (in this case Stone's) claim is based and not to any information underlying publicly disclosed allegations. The Court further pinpointed the meaning of the ambiguous statute by holding that \"allegations\" means the allegations in the relator's amended complaint and not just those in the original complaint. The Court concluded that \"[j]udged according to the principles set forth above, Stone's knowledge falls short.\" The government's investigation did turn up Rockwell's deceptions concerning the production of defective pondcrete, but the information provided by Stone was not directly related to the government's discoveries. In order for Stone to bring a qui tam action under the False Claims Act, he would have had to be the original source of information that was actually used to prosecute Rockwell. Since the claims involving Stone's information were ultimately dropped in the amended complaint, he could not bring the suit. The government, the Court ruled, would have to continue the action without Stone as co-plaintiff.</p>\n"
+}

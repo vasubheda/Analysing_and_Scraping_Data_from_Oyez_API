@@ -1,0 +1,42 @@
+{
+    "ID": 62701,
+    "name": "Shaw v. United States",
+    "href": "https://api.oyez.org/cases/2016/15-5991",
+    "view_count": 0,
+    "docket_number": "15-5991",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1461560400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53504"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1475557200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53868"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1481522400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54064"
+        }
+    ],
+    "question": "<p>In order to convict a defendant of defrauding a financial institution under the Bank Fraud Act of 1984, does the government have to prove not only that the defendant had an intent to deceive, but also that the target of that deception was a bank?</p>\n",
+    "citation": {
+        "volume": "580",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27422"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that, to convict a defendant of defrauding a financial institution under the Bank Fraud Act of 1984, the government does not need to prove that the target of the deception was a bank.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/580/15-5991/",
+    "facts_of_the_case": "<p>Stanley Hsu, a Taiwanese business man, opened a Bank of America bank account while working in the United States. When he returned to Taiwan, he arranged for the daughter of one of his employees to receive his mail and forward it to him in Taiwan. Lawrence Eugene Shaw lived with the daughter and regularly checked her mail. When the Bank of America statements arrived for Hsu\u2019s account, Shaw concocted a scheme in which he opened a PayPal account under Stanley Hsu\u2019s name and used it to convince banks that he was Hsu for the purpose of transferring money from Hsu\u2019s accounts to the PayPal account and from there to an account that Shaw controlled. Using this scheme, Shaw was able to transfer approximately $307,000 of Hsu\u2019s money to himself before the fraud was discovered. Bank of America returned approximately $131,000 to Hsu, and PayPal returned approximately $106,000. Hsu lost about $170,000 by not notifying the banks within 60 days of the fraudulent transactions, as standard banking procedures require.</p>\n<p>The government charged Shaw with violating the Bank Fraud Act of 1984, which criminalizes schemes \u201cto defraud a financial institution.\u201d Shaw requested a jury instruction that stated that the government had to prove that he intended not only to defraud the bank but also that he intended to target the bank as the principal financial victim. The district court refused to give the instruction and determined that the language of the Act required that the government prove only that the defendant intended to deceive the bank, not that he also intended the bank to bear the loss that resulted from the fraud. The jury convicted Shaw of 14 counts of bank fraud under the Act, and the U.S. Court of Appeals for the Ninth Circuit affirmed.</p>\n",
+    "conclusion": "<p>Justice Stephen G. Breyer delivered the opinion for the unanimous Court. The Court held that the statute at issue states deals specifically with property rights, and a bank has property rights in a bank account because the bank has the right to use the funds as a source of funds for loans that earn the bank interest. Therefore, any scheme that involves defrauding the funds from a bank account necessarily involves defrauding a bank. Although the statute requires that the government show there was a scheme to defraud, it does not require the government to show that the bank actually sustained a financial loss or that the intent of the scheme was to cause the bank to sustain a financial loss. Similarly, the defendant cannot argue that he didn\u2019t have actual knowledge that the bank would be harmed.</p>\n"
+}

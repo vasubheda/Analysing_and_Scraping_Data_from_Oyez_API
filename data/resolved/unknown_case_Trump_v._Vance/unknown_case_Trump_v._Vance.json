@@ -1,0 +1,42 @@
+{
+    "ID": 63207,
+    "name": "Trump v. Vance",
+    "href": "https://api.oyez.org/cases/2019/19-635",
+    "view_count": 0,
+    "docket_number": "19-635",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1576216800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54633"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1589259600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54707"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1594270800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54749"
+        }
+    ],
+    "question": "<p>Does the Constitution permit a county prosecutor to subpoena a third-party custodian for the financial and tax records of a sitting president, over which the president has no claim of executive privilege?</p>\n",
+    "citation": {
+        "volume": "591",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27728"
+    },
+    "term": "2019",
+    "description": "A case in which the Court held that Article II and the Supremacy Clause neither categorically preclude, nor require a heightened standard for, the issuance of a state criminal subpoena to a sitting President.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/591/19-635/",
+    "facts_of_the_case": "<p>The district attorney of New York County issued a grand jury subpoena to an accounting firm that possessed the financial records of President Donald Trump and one of his businesses. Trump asked a federal court to restrain enforcement of that subpoena, but the district court declined to exercise jurisdiction and dismissed the case based on Supreme Court precedent regarding federal intrusion into ongoing state criminal prosecutions. The court held, in the alternative, that there was no constitutional basis to temporarily restrain or preliminarily enjoin the subpoena at issue.</p>\n<p>The U.S. Court of Appeals for the Second Circuit affirmed the lower court with respect to the alternative holding, finding that any presidential immunity from state criminal process does not extend to investigative steps like the grand jury subpoena. However, it found that the Supreme Court precedent on which the lower court relied did not apply to the situation and vacated the judgment as to that issue and remanded the case to the lower court.</p>\n",
+    "conclusion": "<p>Article II and the Supremacy Clause neither categorically preclude, nor require a heightened standard for, the issuance of a state criminal subpoena to a sitting President.\u00a0All nine justices agreed that a President does not have absolute immunity from the issuance of a state criminal subpoena, but a seven-justice majority voted to affirm the decision of the Second Circuit below.</p>\n<p>Chief Justice John Roberts wrote the opinion of the Court. The Chief Justice noted from the outset that the Supreme Court has long held that the President is subject to subpoena in federal criminal proceedings. In this case, the question was whether the President has absolute immunity from state criminal subpoenas. The Court held in <em>Clinton v. Jones</em>, 520 U.S. 681 (1997), that federal criminal subpoenas do not rise to the level of constitutionally forbidden impairment of the Executive\u2019s ability to perform its constitutionally mandated functions, and here, it rejected the President\u2019s argument that state criminal subpoenas pose a unique and greater threat. A properly tailored state criminal subpoena will not hamper the performance of a President\u2019s constitutional duties, there is nothing inherently stigmatizing about a President performing a normal citizen\u2019s duty of furnishing information relevant to a criminal investigation, and the risk that subjecting sitting Presidents to state criminal subpoenas will make them targets for harassment is minimal given that federal law allows for a President to challenge allegedly unconstitutional influences. For these reasons, the Constitution does not categorically preclude the issuance of a state criminal subpoena to a sitting President.</p>\n<p>Next the Court turned to the question whether a state grand jury subpoena must satisfy a heightened need standard, finding that it does not, for three reasons. First, the Supreme Court in <em>Burr v. United States</em> (1807) made clear that a President \u201cstands in nearly the same situation with any other individual\u201d with respect to production of private papers. Second, the President in this case did not show that the protection of a heightened need standard is necessary to allow him to fulfill his Article II functions. Third, absent a need for protection, the public interest in fair and effective law enforcement weighs in favor of comprehensive access to evidence. Still, the President has multiple avenues to challenge the subpoena under state law if it is issued in bad faith or is unduly broad. Thus, the Constitution does not require a heightened need standard for a state grand jury subpoena.</p>\n<p>Justice Brett Kavanaugh authored an opinion concurring in the judgment, in which Justice Neil Gorsuch joined, noting that he would apply the standard articulated in <em>United States v. Nixon</em>, 418 U.S. 683 (1974)\u2014that the prosecutor demonstrate a specific need for the President\u2019s information.\u00a0</p>\n<p>Justice Clarence Thomas authored a dissenting opinion in which he looked to the text of the Constitution to find no support for the President\u2019s claim of absolute immunity from the issuance of a grand jury subpoena. However, he drew a distinction between immunity from issuance of the subpoena and relief against its enforcement. Based on this distinction, Justice Thomas would vacate and remand.</p>\n<p>Justice Samuel Alito authored a dissenting opinion in which he characterized the issue in the case as necessarily implicating the broader question whether the Constitution imposes restrictions on a State\u2019s deployment of its criminal law enforcement powers against a sitting President. Justice Alito would grant the President greater protection from state law enforcement powers than the majority\u2019s opinion does.</p>\n"
+}

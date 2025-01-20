@@ -1,0 +1,42 @@
+{
+    "ID": 55556,
+    "name": "Kansas v. Ventris",
+    "href": "https://api.oyez.org/cases/2008/07-1356",
+    "view_count": 0,
+    "docket_number": "07-1356",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1222837200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40150"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1232517600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40151"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1240981200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40152"
+        }
+    ],
+    "question": "<p>Are statements obtained in the absence of a knowing and voluntary waiver of the Sixth Amendment right to counsel admissible for the purposes of impeaching a defendant's testimony?</p>\n",
+    "citation": {
+        "volume": "556",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20794"
+    },
+    "term": "2008",
+    "description": "A case in which the Court found that statements obtained for the purpose of impeaching a defendant's testimony, in the absence of a knowing and voluntary waiver of the Sixth Amendment right to counsel, were admissible. ",
+    "justia_url": null,
+    "facts_of_the_case": "<p>In January 2003, Donnie Ventris and his girlfriend entered the apartment of Ernest Hicks who was subsequently robbed and killed. Mr. Ventris was convicted of aggravated robbery and aggravated battery by the District Court of Montgomery County in Kansas. To rebut the testimony of Mr. Ventris at trial, the State relied on the testimony of his former cell mate, Johnnie Doser. The government recruited Mr. Doser to keep his \"ear open\" and listen for incriminating statements made by Mr. Ventris. Mr. Ventris appealed claiming this testimony violated his Sixth Amendment right to counsel. The District Court's decision was affirmed by the Court of Appeals but reversed by the Supreme Court of Kansas.</p>\n<p>The court held that \"[w]ithout a knowing and voluntary waiver of the right to counsel, the admission of the defendant's uncounseled statements to an undercover informant who is secretly acting as a State agent violates the defendant's Sixth Amendment rights.\" It reasoned that the fact finding responsibilities of the trial court do not outweigh individuals' constitutional rights.</p>\n",
+    "conclusion": "<p>Yes. Mr. Ventris' statements, elicited in violation of the Sixth Amendment, were admissible to impeach his inconsistent testimony at trial. With Justice Antonin G. Scalia writing for the majority and joined by Chief Justice John G. Roberts, and Justices Anthony M. Kennedy, David H. Souter, Clarence Thomas, Stephen G. Breyer, and Samuel A. Alito, the Court reasoned that the interests protected by excluding \"tainted evidence\" are outweighed by the need to assure \"integrity of the trial process.\"</p>\n<p>Justice John Paul Stevens, joined by Justice Ruth Bader Ginsburg, dissented. He sharply criticized the majority for allowing the State to cut corners in criminal proceedings at the expense of criminal defendants' constitutional guarantees.</p>\n"
+}

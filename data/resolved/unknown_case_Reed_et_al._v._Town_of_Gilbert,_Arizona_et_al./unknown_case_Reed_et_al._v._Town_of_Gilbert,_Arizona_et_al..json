@@ -1,0 +1,42 @@
+{
+    "ID": 56091,
+    "name": "Reed et al. v. Town of Gilbert, Arizona et al.",
+    "href": "https://api.oyez.org/cases/2014/13-502",
+    "view_count": 0,
+    "docket_number": "13-502",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1404190800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41669"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1421042400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41670"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1434603600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52757"
+        }
+    ],
+    "question": "<p>Does an ordinance restricting the size, number, duration, and location of temporary directional signs violate the Free Speech Clause of the First Amendment or the Equal Protection Clause of the Fourteenth Amendment?</p>\n",
+    "citation": {
+        "volume": "576",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/27101"
+    },
+    "term": "2014",
+    "description": "A case in which the Court decided that extra restrictions placed on signs describing the location of nonprofit events do not survive strict scrutiny and are therefore unconstitutional.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/576/155/",
+    "facts_of_the_case": "<p>Clyde Reed, pastor of Good News Community Church (Good News), rented space at an elementary school in Gilbert, Arizona, and placed about 17 signs in the area announcing the time and location of Good News' services. Gilbert has an ordinance (Sign Code) that restricts the size, number, duration, and location of certain types of signs, including temporary directional ones, to prevent improper signage. After Good News received an advisory notice from Gilbert that it violated the Sign Code, Good News sued Gilbert and claimed that the Sign Code violated the Free Speech Clause of the First Amendment and the Equal Protection Clause of the Fourteenth Amendment.</p>\n<p>The district court found that the Sign Code was constitutional since it was content-neutral and was reasonable in light of the government interests. The U.S. Court of Appeals for the Ninth Circuit affirmed and held that, even though an official would have to read a sign to determine what provisions of the Sign Code applied, the restrictions were not based on the content of the signs, and the Sign Code left open other channels of communication.</p>\n",
+    "conclusion": "<p>Yes. Justice Clarence Thomas wrote the opinion for the 9-0 majority. The Court held that the restrictions were subject to strict scrutiny because they were content-based restrictions, or restrictions that were applied differently depending on the message of the sign. Because these restrictions were content-based on their face, the Court need not examine justifications or the government\u2019s motives in determining whether the restrictions are subject to strict scrutiny. Despite the Town of Gilbert\u2019s argument that the restrictions do not single out a specific nonprofit or church but restrict all, the Court stated that the First Amendment prohibits censorship of all speech on a whole topic. The Court also held that the restrictions cannot survive strict scrutiny because they had no compelling interest in adding restrictions to only a certain type of sign.</p>\n<p>In his concurring opinion, Justice Samuel A. Alito, Jr. wrote that this decision does not preclude towns from continuing to regulate signs, but it does stop them from restricting them in an unconstitutional manner. Justice Anthony M. Kennedy and Justice Sonia Sotomayor joined in the concurrence. Justice Stephen G. Breyer wrote a separate opinion concurring in the judgment in which he argued that content discrimination should have been the consideration and legal analysis, and that this case did not trigger strict scrutiny. The presumption against constitutionality is too strong to use automatically and was unnecessary in this case as there was another, more appropriate method of analysis available. In her separate opinion concurring in the judgment, Justice Elena Kagan wrote that constantly using strict scrutiny to judge government-regulated communication is too restrictive and would water down the meaning of strict scrutiny. The risk that the government will limit the public\u2019s ability to debate ideas with these regulations is very low and does not warrant strict scrutiny. In this case, the restrictions were not brought on by any reason or need, and so they did not pass any level of scrutiny. Justices Ruth Bader Ginsburg and Breyer joined in the concurrence in the judgment.</p>\n"
+}

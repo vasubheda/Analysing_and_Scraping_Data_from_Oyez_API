@@ -1,0 +1,35 @@
+{
+    "ID": 54618,
+    "name": "Stewart v. Martinez-Villareal",
+    "href": "https://api.oyez.org/cases/1997/97-300",
+    "view_count": 0,
+    "docket_number": "97-300",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                888386400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38018"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                895467600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38019"
+        }
+    ],
+    "question": "<p>May a state prison death row inmate who already has lost on one or more federal habeas corpus petitions file a subsequent petition to claim that he cannot be executed because he is incompetent?</p>\n",
+    "citation": {
+        "volume": "523",
+        "page": "637",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/20495"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/523/637/",
+    "facts_of_the_case": "<p>Ramon Martinez-Villareal was convicted of first-degree murder and sentenced to death in Arizona. His first three federal habeas corpus petitions were denied because he had not exhausted his state remedies. Martinez-Villareal claimed in his fourth habeas petition that he was incompetent to be executed. The District Court dismissed that claim as premature, but granted the writ on other grounds. The Court of Appeals reversed the writ. Martinez-Villareal moved to reopen his petition despite the fact that review of his incompetency claim might be prevented by the Antiterrorism and Effective Death Penalty Act (AEDPA). Under AEDPA, a prisoner must ask the Court of Appeals to direct the District Court to consider such a petition. By now Arizona had obtained a warrant for Martinez-Villareal's execution. Subsequently, he was found fit to be executed. The District Court denied another motion to reopen his incompetency claim, holding that it lacked jurisdiction under AEDPA. On appeal, the Court of Appeals held that the law did not apply to a petition that raises only a competency-to-be-executed claim and that Martinez-Villareal did not, therefore, need authorization to file his petition in the District Court.</p>\n",
+    "conclusion": "<p>Yes. In a 7-2 decision, announced by Chief Justice William H. Rehnquist, the Court ruled Martinez-Villareal cannot be barred from raising his incompetency claim in a successive petition because his claim was really amended. The ban imposed by the AEDPA only covers truly successive petitions. \"To hold otherwise,\" declared Rehnquist, \"would mean that a dismissal of a first habeas petition for technical procedural reasons would bar the prisoner from ever obtaining federal habeas review.\"</p>\n"
+}

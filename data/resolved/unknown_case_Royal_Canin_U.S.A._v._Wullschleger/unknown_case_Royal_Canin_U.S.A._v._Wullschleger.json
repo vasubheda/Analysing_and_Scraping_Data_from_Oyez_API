@@ -1,0 +1,42 @@
+{
+    "ID": 63680,
+    "name": "Royal Canin U.S.A. v. Wullschleger",
+    "href": "https://api.oyez.org/cases/2024/23-677",
+    "view_count": 0,
+    "docket_number": "23-677",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1714366800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55455"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1728277200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55521"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1736920800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55591"
+        }
+    ],
+    "question": "<p>Can a plaintiff whose state-court lawsuit has been removed by the defendants to federal court seek to have the case sent back to state court by amending the complaint to omit all references to federal law?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28014"
+    },
+    "term": "2024",
+    "description": "A case in which the Court held that a plaintiff whose state-court lawsuit was removed by the defendants to federal court can seek to have the case sent back to state court by amending the complaint to omit all references to federal law.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-677/",
+    "facts_of_the_case": "<p>Anastasia Wullschleger filed a class-action complaint in Missouri state court against Royal Canin and Nestle Purina, alleging that their requirement for a prescription for specialized dog food was misleading and led to higher prices. The defendants removed the case to federal court, which remanded it back to state court, and then they appealed to the U.S. Court of Appeals for the Eighth Circuit, which determined that the antitrust and unjust-enrichment claims raised substantial federal issues and belonged in federal court. Upon returning to the district court, Wullschleger amended her complaint to remove references to federal law, dropped the antitrust and unjust-enrichment claims, and added a civil-conspiracy claim. Despite these changes, the district court exercised federal-question jurisdiction and ultimately granted the manufacturers\u2019 motion to dismiss, leading to a second appeal. Reviewing the case de novo, the Eighth Circuit concluded that amending a complaint to eliminate the only federal questions destroys subject-matter jurisdiction and thus returned the case to state court.</p>\n",
+    "conclusion": "<p>When a plaintiff amends her complaint to delete the federal-law claims that enabled removal to federal court, leaving only state-law claims behind, the federal court loses supplemental jurisdiction over the state claims, and the case must be remanded to state court. Justice Elena Kagan authored the unanimous opinion of the Court.</p>\n<p>Federal jurisdiction is based on the operative complaint, which means that when a plaintiff amends their complaint, courts look to that amended version to determine jurisdiction. Federal courts can exercise supplemental jurisdiction over state law claims when they are part of the same case as federal claims. However, this supplemental jurisdiction flows from the existence of federal jurisdiction; when federal claims are eliminated, there is no longer any basis for supplemental jurisdiction over the state law claims.</p>\n<p>This principle applies equally to cases that were originally filed in federal court and those that were removed from state court, as the supplemental jurisdiction statute (28 U.S.C. \u00a7 1367) makes no distinction between the two situations. When Wullschleger amended her complaint to remove all federal claims after removal, the federal court lost its basis for federal question jurisdiction. Without any federal claims remaining, the court also lost supplemental jurisdiction over the state law claims. Therefore, the entire case had to be remanded to state court.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55907,
+    "name": "Amgen Inc. v. Connecticut Retirement Plans and Trust Funds",
+    "href": "https://api.oyez.org/cases/2012/11-1085",
+    "view_count": 0,
+    "docket_number": "11-1085",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1339390800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41084"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1352095200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41085"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1361944800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41086"
+        }
+    ],
+    "question": "<p>1. Must the district court require proof of materiality before certifying a class action based on the fraud-upon-the-market theory in a misrepresentation case?</p>\n<p>2. Must the district court allow Amgen, Inc. to present evidence rebutting the applicability of the fraud-upon-the-market theory before certifying the plaintiff class</p>\n",
+    "citation": {
+        "volume": "568",
+        "page": "455",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19829"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that during class certification, the court does not need proof of materiality and does not have to allow the defendant to present evidence to rebut the certification.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/568/455/",
+    "facts_of_the_case": "<p>Amgen, Inc. is an American pharmaceutical corporation. The Food and Drug Administration (FDA) approved two Amgen products that stimulate production of red blood cells and reduce the need for blood transfusions in anemic patients. Amgen allegedly made misrepresentations to the FDA about the safety of these products. Connecticut Retirement Plans &amp; Trust Funds brought an action against Amgen alleging four counts of misrepresentation. Connecticut Retirement Plans specifically alleged that Amgen misrepresented the nature of several FDA committee meetings to shareholders. It sought to certify a class of persons who purchased Amgen stock between April 22, 2004 and May 10, 2007, the dates when two of the meetings in question occurred. On May 10, 2007, Amgen's stock value dropped by more than nine percent.</p>\n<p>To certify a class under Rule 23 of the Federal Rules of Civil Procedure, a plaintiff must show that there are questions of law or fact common to the class, and that these questions predominate over questions affecting only individual members. Amgen opposed the class certification, arguing that the that the misrepresentations did not have any impact on the price of Amgen stock. The district court rejected Amgen's arguments and granted the class certification. The United States Court of Appeals, Ninth Circuit, affirmed, rejecting Amgen's argument that a plaintiff must give proof that the misrepresentations were material at the class certification stage.</p>\n",
+    "conclusion": "<p>No, no. Justice Ruth Bader Ginsburg delivered the opinion of the 6-3 majority. The Supreme Court held that the issue of materiality is dealt with when the case is decided on the merits, not during class certification. For a class to be certified, the members of the class must show only that the questions they have in common predominate over questions affecting solely individual members of the class. The Supreme Court also held that the district court ruled appropriately in preventing Amgen from bringing in rebuttal evidence to prevent class certification. Such evidence dealt with material issues of the case that would be decided when the case was considered on the merits, and thus did not relate to the issue of class certification.</p>\n<p>In his concurring opinion, Justice Samuel A. Alito, Jr. wrote that, while he joins the majority's opinion, recent economic evidence suggests that the fraud-on-the-market theory might rest on faulty economic presumptions that would be worth reexamining.</p>\n<p>Justice Antonin Scalia wrote a dissenting opinion in which he argued that a presumption of materiality was necessary for class certification in a fraud-on-the-market case. Because such a case is predicated on the idea that the members of the class relied on faulty information, there cannot be a suit without evidence that the faulty information was material.</p>\n<p>In his separate dissent, Justice Clarence Thomas argued that plaintiffs seeking to use the fraud-on-the-market theory must show evidence of all aspects of the theory, including materiality, to be certified as a class. Without proof of materiality along with the other elements, there is no evidence that the claim has class-wide relevance. Justice Anthony M. Kennedy and Justice Scalia joined in the dissent.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 56177,
+    "name": "Montgomery v. Louisiana",
+    "href": "https://api.oyez.org/cases/2015/14-280",
+    "view_count": 0,
+    "docket_number": "14-280",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1427086800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41778"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1444712400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52801"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1453701600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53400"
+        }
+    ],
+    "question": "<p>1) Does the U.S. Supreme Court\u2019s decision in <em>Miller v. Alabama</em>, which held that the Eighth Amendment prohibits mandatory sentencing schemes that require children convicted of homicide to be sentenced to life in prison without parole, apply retroactively?</p>\n<p>(2)Does the U.S. Supreme Court have the jurisdiction to review the Louisiana Supreme Court\u2019s determination that the <em>Miller</em> rule does not apply retroactively?</p>\n",
+    "citation": {
+        "volume": "577",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/20959"
+    },
+    "term": "2015",
+    "description": "A case in which the Court held that the Supreme Court\u2019s decision in Miller v. Alabama, which prohibits sentencing schemes that impose a punishment of mandatory life without parole for juvenile offenders convicted of homicide, applied retroactively.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/577/190/",
+    "facts_of_the_case": "<p>In 1963, Henry Montgomery was found guilty and received the death penalty for the murder of Charles Hunt, which Montgomery committed less than two weeks after he turned 17. He appealed to the Louisiana Supreme Court, and his conviction was overturned because of community prejudice. At his new trial, Montgomery was again convicted, but he was sentenced to life without parole.</p>\n<p>In 2012, the U.S. Supreme Court decided <em>Miller v. Alabama</em>, in which the Court held that mandatory sentencing schemes requiring children convicted of homicide to be sentenced to life imprisonment without parole violate the Eighth Amendment. In light of that decision, Montgomery filed a motion in state district court to correct what he argued was now an illegal sentence. The trial court denied Montgomery\u2019s motion, and the Louisiana Supreme Court denied Montgomery\u2019s application by holding that the decision in <em>Miller</em> does not apply retroactively.</p>\n",
+    "conclusion": "<p>The Supreme Court had jurisdiction to review the Louisiana Supreme Court\u2019s decision, and the Supreme Court\u2019s decision in <em>Miller v. Alabama</em>, which prohibits sentencing schemes that impose a punishment of mandatory life without parole for juvenile offenders convicted of homicide, applied retroactively. Justice Anthony M. Kennedy delivered the opinion for the 6-3 majority. The Court held that, when the Court establishes a substantive constitutional rule, that rule must apply retroactively because such a rule provides for constitutional rights that go beyond procedural guarantees. When a state court fails to give effect to a substantive rule, that decision is reviewable because failure to apply a substantive rule always results in the violation of a constitutional right, while failure to apply a procedural rule might or might not result in an illegitimate verdict. The Court held that <em>Miller</em> established a substantive rule because it prohibited the imposition of a sentence of life without parole for juvenile offenders. The Court\u2019s analysis in that case was based on precedent that established that the Constitution treats children as different from adults for the purposes of sentencing. Therefore, the rule the Court announced in <em>Miller</em> made life without parole an unconstitutional punishment for a class of defendants based on their status as juveniles, and such a rule is substantive rather than procedural.</p>\n<p>In his dissent, Justice Antonin Scalia wrote that the Court did not have jurisdiction to decide this case. Because Supreme Court precedent treated cases on collateral review from state court decisions differently from those on direct review from federal courts, the principle of finality of decisions dictates that whether new constitutional rule will be applied to a final state court conviction is entirely a matter of state choice. Therefore, a state court need only apply the constitutional rule that existed at the time of the conviction, and the Court does not have the jurisdiction to review that decision. Justice Scalia argued that the precedent the majority relied on for its \u00a0conclusion was not binding and did not directly apply to the case at hand. Additionally, the language of <em>Miller</em> itself stated that it did not create a substantive rule but instead established a process that required courts to consider a juvenile offender\u2019s age before imposing a particular penalty. Crucially, <em>Miller</em> still allowed for the imposition of life without parole on a juvenile offender if the crime(s) in question reflect \u201cpermanent incorrigibility.\u201d Justice Clarence Thomas and Justice Samuel A. Alito, Jr. joined in the dissent. Justice Thomas also wrote a separate dissent in which he argued that the Supreme Court did not have jurisdiction to decide this case. The question of whether a constitutional right is retroactive asks whether there is an appropriate remedy, not whether the right was violated in the first place. Because the Supreme Court cannot force state courts to apply constitutional rules that did not exist at the time of the conviction, there is no constitutional mechanism to provide a remedy that would make the constitutional right in question apply retroactively.</p>\n"
+}

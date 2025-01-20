@@ -1,0 +1,42 @@
+{
+    "ID": 55675,
+    "name": "Krupski v. Costa Crociere, S.p.A.",
+    "href": "https://api.oyez.org/cases/2009/09-337",
+    "view_count": 0,
+    "docket_number": "09-337",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1263535200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40475"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1271826000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40476"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1275886800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40477"
+        }
+    ],
+    "question": "<p>Does the Eleventh Circuit's construction of Federal Rule of Civil Procedure 15(c)(1)(C), which permits an amended complaint to relate back when the amendment corrects a \"mistake concerning the proper party's identity,\" undermine the purpose of the rule?</p>\n",
+    "citation": {
+        "volume": "560",
+        "page": "538",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19597"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that the Eleventh Circuit Court of Appeals' interpretation of Federal Rule of Civil Procedure 15(c)(1)(C), which permits an amended complaint to relate back to when the amendment corrects a \"mistake concerning the proper party's identity,\" undermined the fundamental purpose of the rule.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/560/538/",
+    "facts_of_the_case": "<p>In 2007, Wanda Krupski booked a trip with Costa Cruise Lines. On February 21 while on the trip, Ms. Krupski allegedly tripped over a loose cable and broker her femur. She filed suit in a Florida federal district court against Costa Cruise Lines. One year and four days after her alleged injury, Costa Cruise Lines informed Ms. Krupski that it was merely the North American sales and booking agent for the carrier, Costa Crociere. The district court allowed Ms. Krupski to amend her complaint to include Costa Crociere and dismissed the action against Costa Cruise Lines. Costa Crociere then moved for summary judgment arguing the ticket sold to Ms. Krupski stipulated that suits must be filed against it within one year of the alleged injury. Therefore, Ms. Krupski was out of time. The district court agreed and granted Costa Crociere's motion for summary judgment.</p>\n<p>On appeal, Ms. Krupski argued that her amended complaint against Costa Crociere related back to her original filing and thus should be considered timely filed against Costa Crociere. The U.S. Court of Appeals for the Eleventh Circuit disagreed and affirmed the district court. The court held that her amended complaint did not relate back to her original complaint. The court reasoned that Ms. Krupski was aware that Costa Crociere was the carrier all along. Thus, to relate her amended complaint back to the original complaint was not the sort of mistaken identity correction contemplated by Federal Rule of Civil Procedure15(c)(1)(C).</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court reversed the Eleventh Circuit, holding that relating back under Rule 15(c)(1)(C) depends on what the party to be added knew or should have known, not on the amending party's knowledge or timeliness in seeking to amend the pleading. With Justice Sonia Sotamayor writing for the majority, the Court reasoned that the text of Rule 15 asks what the prospective defendant \"knew or should have known\", not what the plaintiff \"knew or should have known\" as determined by the Eleventh Circuit. Here, the Court further reasoned that Cost Crociere should have known that Ms. Krupski's failure to name it as a defendant was due to a mistake concerning the proper party's identity. Thus, Ms. Krupski should be allowed to add Costa Crociere in her complaint.</p>\n<p>Justice Antonin Scalia wrote separately, concurring in part and concurring in the judgment. He noted that he did not support the majority's use of the Notes of the Advisory Committee to the Federal Rules of Civil Procedure in reaching its decision.</p>\n"
+}

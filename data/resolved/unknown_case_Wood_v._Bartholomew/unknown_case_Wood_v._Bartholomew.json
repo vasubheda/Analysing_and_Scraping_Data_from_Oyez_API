@@ -1,0 +1,28 @@
+{
+    "ID": 54461,
+    "name": "Wood v. Bartholomew",
+    "href": "https://api.oyez.org/cases/1995/94-1419",
+    "view_count": 0,
+    "docket_number": "94-1419",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                813301200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37727"
+        }
+    ],
+    "question": "<p>Did a Court of Appeals err in concluding, in habeas corpus proceedings, that the prosecution's failure to disclose to the accused the inadmissible results of a polygraph test of a witness violated due process?</p>\n",
+    "citation": {
+        "volume": "516",
+        "page": "1",
+        "year": "1995",
+        "href": "https://api.oyez.org/case_citation/case_citation/18390"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>Dwayne Bartholomew was convicted in a Washington state court of murder during a robbery. Bartholomew admitted the robbery, but claimed the victim was killed accidentally. At trial, Bartholomew's brother Rodney testified that Bartholomew had told them of his robbery plans and his intent to leave no witnesses. The prosecution never disclosed that Rodney's responses to questions about the robbery and murder weapon, during a pretrial polygraph examination, indicated deception. Bartholomew filed for federal habeas, claiming that because the polygraph results were material under Brady v. Maryland, 373 U.S. 83, which provides that under the due process clause of the Fourteenth Amendment a state prosecutor is required to disclose material evidence favorable to an accused, the prosecution's failure to disclose them justified setting aside the conviction. The District Court denied the writ. In reversing, the Court of Appeals concluded that the polygraph results, although inadmissible under Washington law, were material under Brady because they may have given Bartholomew's counsel known of the results a stronger reason to investigate Rodney's story.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion, the Court held that the Court of Appeals's decision was a misapplication of the Court's Brady jurisprudence. Because evidence is material under Brady and the failure to disclose it justifies setting aside a conviction, only where there exists a reasonable probability that had the evidence been disclosed the result at trial would have been different, the Court reasoned that the polygraph results were not evidence and their disclosure would have had no direct effect on the trial's outcome because Bartholomew could have made no mention of them. Justices John Paul Stevens, David H. Souter, Ruth Bader Ginsburg, and Stephen G. Breyer dissented from the summary disposition of the case.</p>\n"
+}

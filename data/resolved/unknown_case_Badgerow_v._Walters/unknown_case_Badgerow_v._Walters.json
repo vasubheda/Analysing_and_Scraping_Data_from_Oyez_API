@@ -1,0 +1,42 @@
+{
+    "ID": 63370,
+    "name": "Badgerow v. Walters",
+    "href": "https://api.oyez.org/cases/2021/20-1143",
+    "view_count": 0,
+    "docket_number": "20-1143",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1621227600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54910"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1635829200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54965"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1648702800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55071"
+        }
+    ],
+    "question": "<p>Do federal courts have subject-matter jurisdiction to confirm or vacate an arbitration award when the only basis for jurisdiction is that the underlying dispute involved a federal question?</p>\n",
+    "citation": {
+        "volume": "596",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27822"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held that federal courts do not have subject-matter jurisdiction to confirm or vacate an arbitration award under Sections 9 and 10 of the Federal Arbitration Act when the only basis for jurisdiction is that the underlying dispute involved a federal question.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/596/20-1143/",
+    "facts_of_the_case": "<p>Denise Badgerow was employed as an associate financial advisor with REJ Properties, Inc., a Louisiana corporation, from January 2014 until July 2016, when she was terminated. During her employment with REJ, Badgerow signed an agreement to arbitrate any disputes that may arise between her and the three principals of the corporation.</p>\n<p>After her termination, Badgerow initiated an arbitration proceeding against the three principals before an arbitration panel of the Financial Industry Regulatory Authority (FINRA), seeking damages for tortious interference of contract and for violation of Louisiana\u2019s whistleblower law. The panel dismissed all of her claims with prejudice.</p>\n<p>Badgerow then brought a new action in Louisiana state court, asking the court to vacate the dismissal because the whistleblower claim was obtained by fraud. The principals removed the action to federal court, and Badgerow filed a motion to remand for lack of subject-matter jurisdiction. The district court held that it had subject-matter jurisdiction over the petition to vacate and denied remand. On the merits, the court found no fraud and denied vacatur of the FINRA arbitration panel\u2019s dismissal. The U.S. Court of Appeals for the Fifth Circuit Circuit affirmed.</p>\n",
+    "conclusion": "<p>Federal courts do not have subject-matter jurisdiction to confirm or vacate an arbitration award because the \u201clook-through\u201d approach recognized in the context of Section 4 does not apply in the context of Sections 9 and 10. Justice Elena Kagan authored the 8-1 majority opinion.</p>\n<p>In Vaden v. Discover Bank, 556 U.S. 49 (2009), the Court recognized that in the context of Section 4 of the Federal Arbitration Act (FAA), a federal court may \u201clook through\u201d the petition for arbitration to the \u201cunderlying substantive controversy\u201d to decide whether it has jurisdiction. Its decision in that case relied on \u201cdistinctive\u201d language in Section 4 that directed the \u201clook through\u201d approach. Sections 9 and 10, at issue in this case, do not contain that same language, so the \u201clook through\u201d approach does not apply.</p>\n<p>Justice Stephen Breyer authored a dissenting opinion arguing that the majority\u2019s narrow focus on the statute\u2019s literal words \u201ccreates unnecessary complexity and confusion,\u201d while consideration of the statute\u2019s purposes would lead to a better and clearer outcome.</p>\n"
+}

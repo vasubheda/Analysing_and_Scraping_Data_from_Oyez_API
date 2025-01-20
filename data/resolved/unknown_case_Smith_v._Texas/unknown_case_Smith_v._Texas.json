@@ -1,0 +1,28 @@
+{
+    "ID": 55242,
+    "name": "Smith v. Texas",
+    "href": "https://api.oyez.org/cases/2004/04-5323",
+    "view_count": 0,
+    "docket_number": "04-5323",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1100498400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39290"
+        }
+    ],
+    "question": "<p>Was the Eighth Amendment violated by jury instructions that told jurors to give effect to mitigating evidence only by voting \"no\" on what would otherwise be affirmative responses to two special issues relating to deliberateness and future dangerousness?</p>\n",
+    "citation": {
+        "volume": "543",
+        "page": "37",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19170"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/543/37/",
+    "facts_of_the_case": "<p>Before the Texas jury in Smith's murder trial reached its sentence, the judge issued a \"nullification instruction.\" The judge told the jury to consider mitigating evidence when filling out the verdict form. That form consisted of two \"yes\" or \"no\" questions: whether Smith acted deliberately and whether he posed a future danger. The judge told jurors that even if they believed the state had proved that the answer to both questions was \"yes,\" jurors should answer \"no\" to at least one of them if they believed the death sentence should not be imposed because of the mitigating evidence. The jury answered \"yes\" to both questions and sentenced Smith to death. Smith lost his appeal in state court.</p>\n",
+    "conclusion": "<p>In a 7-2 per curiam opinion, the Court held that instructing the jury to return a false answer to a special issue to avoid a death sentence did not allow the jury to fully consider Smith's relevant mitigating circumstances. The Court cited its decision in Penny v. Johnson (2001), which held a similar instruction unconstitutional.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55428,
+    "name": "EC Term of Years Trust v. United States",
+    "href": "https://api.oyez.org/cases/2006/05-1541",
+    "view_count": 0,
+    "docket_number": "05-1541",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1161925200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39795"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1172469600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39796"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1177909200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39797"
+        }
+    ],
+    "question": "<p>Can a party challenge, under 28 U.S.C. 1346(a)(1), an Internal Revenue Service tax levy on its property intended to collect taxes owed by another party, even if the party could have sued under 26 U.S.C. 7426 but failed to file the suit before the time limit expired?</p>\n",
+    "citation": {
+        "volume": "550",
+        "page": "429",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20665"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/550/429/",
+    "facts_of_the_case": "<p>The Internal Revenue Service (IRS) contended that Elmer and Dorothy Cullers had established a trust for the purpose of evading taxes. The IRS filed tax liens against the trust, freezing the trustees' assets until the outstanding taxes were paid. The trustees disagreed with the IRS, but opened a bank account to settle the tax dispute. A month later, the IRS collected the outstanding taxes from the bank account. EC Term of Years Trust sued the IRS pursuant to 26 U.S.C. 7426, which entitles trustees to challenge wrongful IRS collections, and 28 U.S.C. 1346(a)(1), which entitles taxpayers to recover erroneously collected taxes. A district court decided that only 26 U.S.C. 7426 allowed third-party tax recoveries, so the court lacked jurisdiction under 28 U.S.C. 1346(a)(1), the general provision for tax recovery. The court dismissed the 26 U.S.C. 7426 claim because the nine-month filing time limit had expired. EC Trust claimed in a second suit that the Supreme Court's opinion in <em>United States v. Williams</em> meant that the possibility of a suit under 26 U.S.C. 7426 did not preclude suits under 28 U.S.C. 1346(a)(1). The District Court rejected the argument, and the U.S. Court of Appeals for the Fifth Circuit affirmed.</p>\n",
+    "conclusion": "<p>No. In a unanimous decision written by Justice David Souter, the Court ruled that \"Resisting the force of the better-fitted statute [28 U.S.C. 7426] requires a good countervailing reason, and none appears here.\" The Court held that Section 7426 is the exclusive legal vehicle for challenging a wrongful tax levy, so after having missed the deadline EC Term of Years Trust could not bring its suit as a tax refund claim under 1346(a)(1). The Court acknowledged that in <em>United States v. Williams</em> it had allowed liens to be challenged under 28 U.S.C. 1346(a)(1), but the Court held that the principle in <em>Williams</em> was limited to cases in which there is no other remedy available. The Justices ruled that it would not make sense to allow claims under 28 U.S.C. 1346(a)(1), which has a 9-month limitations period, to be duplicated under 26 U.S.C. 7426, which has a time limit of four years.</p>\n"
+}

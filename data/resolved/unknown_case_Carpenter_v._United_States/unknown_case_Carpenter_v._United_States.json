@@ -1,0 +1,42 @@
+{
+    "ID": 62849,
+    "name": "Carpenter v. United States",
+    "href": "https://api.oyez.org/cases/2017/16-402",
+    "view_count": 0,
+    "docket_number": "16-402",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1496638800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54045"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1511935200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54129"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1529643600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54308"
+        }
+    ],
+    "question": "<p>Does the warrantless search and seizure of cell phone records, which include the location and movements of cell phone users, violate the Fourth Amendment?</p>\n",
+    "citation": {
+        "volume": "585",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27520"
+    },
+    "term": "2017",
+    "description": "A case in which the Court held that the warrantless seizure and search of cell phone records revealing the location and movements of a cell phone user over the course of 127 days violates the Fourth Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/585/16-402/",
+    "facts_of_the_case": "<p>In April 2011, police arrested four men in connection with a series of armed robberies. One of the men confessed to the crimes and gave the FBI his cell phone number and the numbers of the other participants. The FBI used this information to apply for three orders from magistrate judges to obtain \"transactional records\" for each of the phone numbers, which the judges granted under the Stored Communications Act, 18 U.S.C. 2703(d). That Act provides that the government may require the disclosure of certain telecommunications records when \"specific and articulable facts show[] that there are reasonable grounds to believe that the contents of a wire or electronic communication, or the records or other information sought, are relevant and material to an ongoing criminal investigation.\" The transactional records obtained by the government include the date and time of calls, and the approximate location where calls began and ended based on their connections to cell towers\u2014\"cell site\" location information (CSLI).</p>\n<p>Based on the cell-site evidence, the government charged Timothy Carpenter with, among other offenses, aiding and abetting robbery that affected interstate commerce, in violation of the Hobbs Act, 18 U.S.C. 1951. Carpenter moved to suppress the government's cell-site evidence on Fourth Amendment grounds, arguing that the FBI needed a warrant based on probable cause to obtain the records. The district court denied the motion to suppress, and the Sixth Circuit affirmed.</p>\n",
+    "conclusion": "<p>The government's warrantless acquisition of Carpenter's cell-site records violated his Fourth Amendment right against unreasonable searches and seizures. Chief Justice John Roberts authored the opinion for the 5-4 majority. The majority first acknowledged that the Fourth Amendment protects not only property interests, but also reasonable expectations of privacy. Expectations of privacy in this age of digital data do not fit neatly into existing precedents, but tracking person's movements and location through extensive cell-site records is far more intrusive than the precedents might have anticipated. The Court declined to extend the \"third-party doctrine\"\u2014a doctrine where information disclosed to a third party carries no reasonable expectation of privacy\u2014to cell-site location information, which implicates even greater privacy concerns than GPS tracking does. One consideration in the development of the third-party doctrine was the \"nature of the particular documents sought,\" and the level of intrusiveness of extensive cell-site data weighs against application of the doctrine to this type of information. Additionally, the third-party doctrine applies to voluntary exposure, and while a user might be abstractly aware that his cell phone provider keeps logs, it happens without any affirmative act on the user's part. Thus, the Court held narrowly that the government generally will need a warrant to access cell-site location information.</p>\n<p>Justice Anthony Kennedy filed a dissenting opinion, in which Justices Clarence Thomas and Samuel Alito joined. Justice Kennedy would find that cell-site records are no different from the many other kinds of business records the government has a lawful right to obtain by compulsory process. Justice Kennedy would continue to limit the Fourth Amendment to its property-based origins.</p>\n<p>Justice Thomas filed a dissenting opinion, emphasizing the property-based approach to Fourth Amendment questions. In Justice Thomas's view, the case should not turn on whether a search occurred, but whose property was searched. By focusing on this latter question, Justice Thomas reasoned, the only logical conclusion would be that the information did not belong to Carpenter.</p>\n<p>Justice Alito filed a dissenting opinion, in which Justice Thomas joined. Justice Alito distinguishes between an actual search and an order \"merely requiring a party to look through its own records and produce specified documents\"\u2014with the former being far more intrusive than the latter. Justice Alito criticizes the majority for what he characterizes as \"allow[ing] a defendant to object to the search of a third party's property,\" a departure from long-standing Fourth Amendment doctrine.</p>\n<p>Justice Gorsuch filed a dissenting opinion in which he emphasizes the \"original understanding\" of the Fourth Amendment and laments the Court's departure from it.</p>\n"
+}

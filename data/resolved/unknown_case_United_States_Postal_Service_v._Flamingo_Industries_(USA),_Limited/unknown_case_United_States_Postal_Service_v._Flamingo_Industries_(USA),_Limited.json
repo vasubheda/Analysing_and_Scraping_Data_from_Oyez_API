@@ -1,0 +1,42 @@
+{
+    "ID": 55197,
+    "name": "United States Postal Service v. Flamingo Industries (USA), Limited",
+    "href": "https://api.oyez.org/cases/2003/02-1290",
+    "view_count": 0,
+    "docket_number": "02-1290",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1054011600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39167"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1070258400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39168"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1077688800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39169"
+        }
+    ],
+    "question": "<p>Can the U.S. Postal Service be sued under federal antitrust laws?</p>\n",
+    "citation": {
+        "volume": "540",
+        "page": "736",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19125"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/540/736/",
+    "facts_of_the_case": "<p>When the U.S. Postal Service ended its mail-sack contract with Flamingo Industries, Flamingo sued in U.S. district court. Flamingo claimed the Postal Service declared a \"fake emergency in the supply of mail sacks\" so it could give no-bid contracts to cheaper foreign manufacturers without allowing U.S. companies to compete for them. Flamingo claimed this violated federal antitrust laws (among other charges). The district court dismissed the antitrust claim reasoning that the federal government is protected by sovereign immunity. The Ninth Circuit Court of Appeals reversed on the antitrust immunity count. It ruled that the 1970 Postal Reorganization Act waived the Postal Service's sovereign immunity and that it could be sued under federal antitrust laws as a \"person.\"</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Anthony Kennedy, the Court held that the U.S. Postal Service cannot be sued under antitrust laws. The Court acknowledged the Postal Reorganization Act may waive the Postal Service's immunity from suit. However, federal antitrust laws (the Sherman Act, for example) do not allow the federal government - of which the Postal Service is a part - to be sued.</p>\n"
+}

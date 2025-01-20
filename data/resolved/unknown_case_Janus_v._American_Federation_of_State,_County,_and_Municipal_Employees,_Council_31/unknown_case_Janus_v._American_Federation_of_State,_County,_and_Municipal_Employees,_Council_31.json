@@ -1,0 +1,42 @@
+{
+    "ID": 62896,
+    "name": "Janus v. American Federation of State, County, and Municipal Employees, Council 31",
+    "href": "https://api.oyez.org/cases/2017/16-1466",
+    "view_count": 0,
+    "docket_number": "16-1466",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1506574800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54122"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1519624800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54182"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1530075600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54329"
+        }
+    ],
+    "question": "<p>Should the Court\u2019s decision in <em>Abood v. Detroit Board of Education</em>\u00a0be overturned so that public employees who do not belong to a union cannot be required to pay a fee to cover the union\u2019s costs to negotiate a contract that applies to all public employees, including those who are not union members?</p>\n",
+    "citation": {
+        "volume": "585",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27542"
+    },
+    "term": "2017",
+    "description": "A case in which the Court decided the State of Illinois\u2019 extraction of agency fees from nonconsenting public-sector employees violates the First Amendment; Abood v. Detroit Bd. of Ed., 431 U.S. 209 (1977), which held otherwise, was overruled.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/585/16-1466/",
+    "facts_of_the_case": "<p>In 1977, the Supreme Court, in <em>Abood v. Detroit Board of Education</em>, upheld against a First Amendment challenge a Michigan law that allowed a public employer whose employees were represented by a union to require those of its employees who did not join the union nevertheless to pay fees to it because they benefited from the union\u2019s collective bargaining agreement with the employer.</p>\n<p>Illinois has a law similar to that upheld in Michigan. The governor of Illinois brought a lawsuit challenging the law on the ground that the statute violates the First Amendment by compelling employees who disapprove of the union to contribute money to it. The district court dismissed the complaint on the grounds that the governor lacked standing to sue because he did not stand to suffer injury from the law, but two public employees intervened in the action to seek that Abood be overturned. Given that Abood is binding on lower courts, the district court dismissed the claim, and the Seventh Circuit affirmed dismissal for the same reason.</p>\n",
+    "conclusion": "<p>In a 5-4 vote, the Court reversed and remanded, holding that the State of Illinois\u2019 extraction of agency fees from nonconsenting public-sector employees violated the First Amendment, meaning that <em>Abood v. Detroit Bd. of Education</em>, which held otherwise, was overruled.</p>\n<p>In an opinion authored by Justice Alito, the Court began by stating that the district court had jurisdiction over Janus\u2019 suit, as he was undisputedly injured in fact by the state\u2019s agency fee system, and the harm he suffered could be redressed if he prevailed in court.</p>\n<p>Moving on to the merits, the Court concluded that the state\u2019s collection of agency fees from nonconsenting public employees was a violation of the First Amendment, and that <em>Abood</em> was incorrect in deciding otherwise. The Court stated that requiring individuals to endorse ideas they disagreed with runs counter to First Amendment principles, and that even under a more permissive standard than the \u201cexacting\u201d strict scrutiny that the Court had applied in evaluating the constitutionality of agency fees in the past, the Illinois scheme could not pass muster.</p>\n<p>The Court explained that neither of <em>Abood\u2019s</em> two justifications for agency fees, which were maintaining \u201clabor peace\u201d and eliminating the risk of \u201cfree riders,\u201d could survive under this standard, finding that both problems could be mitigated through less restrictive means than agency fees. The Court also rejected newer state interests that had been asserted, which were to support bargaining with a sufficiently funded agent and increasing workforce efficiency, stating that unions could be effective without agency fees.</p>\n<p>The Court further reasoned that <em>stare decisis</em> principles did not require deference to <em>Abood</em>, finding that <em>Abood</em> was poorly reasoned, lacked workability, and that over time it had become an \u201coutlier\u201d in the Court\u2019s First Amendment jurisprudence. It also stated that <em>Abood\u2019s</em> uncertain status, along with the short-term nature of collective bargaining agreements and unions\u2019 ability to protect themselves when agency-fee provisions were critical to their bargains all militated against giving <em>Abood</em> decisive weight.</p>\n<p>In light of these reasons, the Court concluded that the practice of states and public-sector unions collecting agency fees from nonconsenting employees was a violation of the First Amendment, and that no further agency fees or other forms of payment to a public-sector union could be collected, nor could attempts be made to collect such payments from employees without their consent.</p>\n<p>Justice Kagan filed a dissenting opinion, which was joined by Justices Sotomayor, Ginsburg, and Breyer. The dissent faulted the Majority for upsetting the balance that <em>Abood</em> brought to public-sector labor relations, and for disregarding <em>stare decisis</em> principles for no special reason. It also criticized the Majority for issuing its decision without considering the consequences it could have in light of the fact that over 20 states had elaborate statutory schemes built on the Abood decision, thousands of contracts involving millions of employees relied upon those laws, and the government services that these public-sector employees performed impacted the lives of tens of millions of Americans.</p>\n<p>Justice Sotomayor filed an additional dissenting opinion.</p>\n"
+}

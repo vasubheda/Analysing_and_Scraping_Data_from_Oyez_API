@@ -1,0 +1,35 @@
+{
+    "ID": 54738,
+    "name": "Bank of America v. 203 North LaSalle Partnership",
+    "href": "https://api.oyez.org/cases/1998/97-1418",
+    "view_count": 0,
+    "docket_number": "97-1418",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                909986400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38236"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                925707600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38237"
+        }
+    ],
+    "question": "<p>May a debtor's prebankruptcy equity holders contribute new capital and receive ownership in a reorganized entity when the creditor objected to the reorganization plan?</p>\n",
+    "citation": {
+        "volume": "526",
+        "page": "434",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18667"
+    },
+    "term": "1998",
+    "description": "A debtor's prebankruptcy equity holders may not contribute new capital and receive ownership in the debtor's reorganization entity ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/526/434/",
+    "facts_of_the_case": "<p>Bank of America National Trust and Savings Association issued a $93 million loan to 203 North LaSalle Street Partnership. The loan was secured by a mortgage on the debtor's principal asset, part of a Chicago office building. When the debtor defaulted on the loan, the bank began foreclosure. LaSalle filed a petition for relief under Chapter 11 of the federal Bankruptcy Code. The debtor's purposed reorganization plan called for only previous equity holders to contribute new capital in exchange for the debtor's entire ownership of the reorganized entity. The Bank of America objected. The bank's objection prevented confirmation of the plan. LaSalle resorted to a judicial \"cramdown\" process for imposing the plan on Bank of America. The cramdown process requires a reorganization plan to be fair and equitable with respect to the creditors so a judge will authorize it. Bank of America argued the plan violated the cramdown's \"absolute priority rule,\" which prevents debtor's equity holders from receiving ownership when claims will not be paid in full and, thus, the plan should have been denied. Nevertheless, the Bankruptcy Court approved the plan. The District Court and the Court of Appeals affirmed the decision.</p>\n",
+    "conclusion": "<p>No. In an 8-1 decision, announced by Justice David H. Souter, the Court ruled a debtor's prebankruptcy equity holders may not, over the objections of creditors, contribute new capital and receive ownership in the debtor's reorganized entity if no one else has been given a chance to come up with an alternative reorganization plan.</p>\n"
+}

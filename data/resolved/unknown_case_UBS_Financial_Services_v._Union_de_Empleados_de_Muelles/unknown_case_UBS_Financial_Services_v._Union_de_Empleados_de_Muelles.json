@@ -1,0 +1,35 @@
+{
+    "ID": 62718,
+    "name": "UBS Financial Services v. Union de Empleados de Muelles",
+    "href": "https://api.oyez.org/cases/2012/12-1208",
+    "view_count": 0,
+    "docket_number": "12-1208",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1372050000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53770"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1377493200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53771"
+        }
+    ],
+    "question": "<p>Should an appellate court review a district court\u2019s dismissal of a shareholder derivative action based on whether the facts of the case were sufficient to make a demand unnecessary?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/27434"
+    },
+    "term": "2012",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>In 2008, UBS Trust Company of Puerto Rico (UBS Trust) sold approximately $757 million worth of bonds to a group of investment funds (Funds) that it advises. The Funds suffered significant losses when the value of the bonds plummeted shortly after the sale. Union de Empleados de Muelles de Puerto Rico AP Welfare Plan (AP) and Union de Empleados de Muelles de Puerto Rico PRSSA Welfare Plan (PRSSA) are Puerto Rico pension plans that own shares in the Funds. In 2010, AP and PRSSA sued the investment funds\u2019 directors, UBS Trust, and UBS Financial Services Inc. in federal district court. The plaintiffs argued that the UBS defendants engaged in manipulative trading by using the Funds to artificially drive up the price of the bonds. Under corporate law, officers and directors are usually the only parties that litigate on behalf of a corporation. Shareholders like AP and PRSSA may file suit in behalf of the corporation (shareholder derivative action) if they satisfy certain procedural requirements that vary by jurisdiction. The Federal Rules of Procedure require a derivative action complaint to prove that a demand was presented to and refused by the defendants\u2019 Board of Directors or to list the reasons that such a demand would have been futile. The defendants moved to dismiss the claim because these requirements had not been met, and the district court granted the motion to dismiss. The U.S. Court of Appeals for the First Circuit reversed. Reviewing the merits of the motion to dismiss, the Court of Appeals determined that the majority of the Funds\u2019 Board members were too closely connected to the UBS defendants personally and financially to be able to exercise independent judgment in responding to a demand regarding the transaction in question.</p>\n",
+    "conclusion": "<p>Unanswered. Prior to oral argument, the case was dismissed under Rule 46.</p>\n"
+}

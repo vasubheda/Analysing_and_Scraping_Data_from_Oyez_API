@@ -1,0 +1,35 @@
+{
+    "ID": 54753,
+    "name": "El Al Israel Airlines, Ltd. v. Tsui Yuan Tseng",
+    "href": "https://api.oyez.org/cases/1998/97-475",
+    "view_count": 0,
+    "docket_number": "97-475",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                910677600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38265"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                916120800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38266"
+        }
+    ],
+    "question": "<p>Does the Warsaw Convention preclude international passengers from pursuing personal injury suits under local law?</p>\n",
+    "citation": {
+        "volume": "525",
+        "page": "155",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18682"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/525/155/",
+    "facts_of_the_case": "<p>In a New York State court, Tsui Yuan Tseng alleged El Al Israel Airlines subjected her to an intrusive security search resulting in assault and false imprisonment before a flight from New York to Tel Aviv. Tseng alleged that psychic or psychosomatic personal injuries followed the incident, but no bodily injury occurred. El Al moved the case to federal court. The District Court dismissed the case due to the Warsaw Convention treaty. Convention provisions describe air carrier liability for international transportation of persons, baggage, or goods. Bodily injury, baggage or goods destruction, loss, or damage, and damage caused by delay are compensable under the Convention. Psychic or psychosomatic injury is not covered. Thus, Tseng's claim was not justicible. Moreover, New York tort law prevents El Al from liability suits covered under the Convention. The Court of Appeals held, in reversing, that the Convention drafters did not intend to remove all liability from an airline carrier, that the Convention does not shield routine operating procedures from the laws of signatory nations, and that the Convention precludes recourse to local law only when an incident is not exclusively covered. The Court of Appeals rejected the argument that the Convention would create uniformity because doing so would supplant applicable laws.</p>\n",
+    "conclusion": "<p>Yes. In an 8-1 decision, announced by Justice Ruth Bader Ginsburg, the Court ruled that the Warsaw Convention precludes a passenger from maintaining an action for personal injury damages under local law when her claim does not satisfy the conditions for liability under the Convention. In her opinion, Justice Bader wrote, \"[w]e would be hard put to conclude that the delegates at Warsaw meant to subject air carriers to the distinct, non-uniform liability rules of the individual signatory nations.\"</p>\n"
+}

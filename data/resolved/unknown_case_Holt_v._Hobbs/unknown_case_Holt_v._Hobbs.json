@@ -1,0 +1,42 @@
+{
+    "ID": 56105,
+    "name": "Holt v. Hobbs",
+    "href": "https://api.oyez.org/cases/2014/13-6827",
+    "view_count": 0,
+    "docket_number": "13-6827",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1393826400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41690"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1412658000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41691"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1421733600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41692"
+        }
+    ],
+    "question": "<p>Does the Arkansas Department of Corrections grooming policy violate the Religious Land Use and Institutionalized Persons Act by preventing Holt from growing a one-half-inch beard in accordance with his religious beliefs?</p>\n",
+    "citation": {
+        "volume": "574",
+        "page": "352",
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20920"
+    },
+    "term": "2014",
+    "description": "A case in which the Court held that the Department of Corrections' grooming policy violated an inmate's right to religious exercise.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/574/352/",
+    "facts_of_the_case": "<p>Gregory Holt (also known as Abdul Maalik Muhammad) was an inmate of the Arkansas Department of Corrections and a practicing Salafi Muslim. He sought an injunction and temporary relief from the enforcement of the Arkansas Department of Corrections' grooming policy, which allowed trimmed mustaches and quarter-inch beards for diagnosed dermatological problems but otherwise no facial hair. Holt argued that growing a beard was a necessary part of the practice of his religion, that the grooming policy significantly burdened his ability to do so, and that the grooming policy was therefore a violation of the Religious Land Use and Institutionalized Persons Act (RLUIPA). Holt was willing to limit his beard to a length of one-half inch as a form of compromise with the policy.</p>\n<p>The district court granted temporary relief but then dismissed the complaint upon being presented with evidence of the other ways in which Holt was allowed to practice his religion and the extent to which the grooming policy was necessary to maintain prison security. The U.S. Court of Appeals for the Eighth Circuit affirmed.</p>\n",
+    "conclusion": "<p>Yes. Justice Samuel A. Alito, Jr. delivered the opinion for the 9-0 majority. The Court held that the Arkansas Department of Corrections policy on beards violates the Religious Land Use and Institutionalized Persons Act of 2000 (RLUIPA). The Court held that, while providing substantial protection of religious exercise, RLUIPA allows prison officials to test the sincerity of religious beliefs to prevent these from being used for illicit conduct. In this case, Holt met the standard for accommodation established in <em>Burwell v. Hobby Lobby Stores, Inc.</em> \u2014that an accommodation must be based on a sincerely held religious belief\u2014because he was neither slight nor idiosyncratic with the tenets of Islam. Further, the Court held that the district court erred in suggesting that Holt's other religious privileges demonstrated a reasonable accommodation of Holt's beliefs. The prison officials had the burden to prove that preventing inmates from growing beards furthered a compelling government interest and that this policy was the least restrictive means of interference, but the Court held that prison officials did not satisfy that burden in this case because other steps could be taken to ensure quick identification and an inability to hide contraband.</p>\n<p>In her concurring opinion, Justice Sonia Sotomayor wrote that, while RLUIPA does not require prison officials to refute every less restrictive means of furthering a compelling government interest, Arkansas officials responded inadequately to the Holt's objections. However, Justice Sotomayor disagreed with the majority opinion's dismissal of the explanations of the prison officials. Justice Ruth Bader Ginsburg wrote a concurring opinion in which she objected to the majority opinion's use of the <em>Hobby Lobby</em> decision, because in this case the requested accommodation would not affect the religious beliefs of others.</p>\n"
+}

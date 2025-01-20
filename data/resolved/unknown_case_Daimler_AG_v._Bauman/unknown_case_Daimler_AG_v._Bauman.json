@@ -1,0 +1,42 @@
+{
+    "ID": 55980,
+    "name": "Daimler AG v. Bauman",
+    "href": "https://api.oyez.org/cases/2013/11-965",
+    "view_count": 0,
+    "docket_number": "11-965",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1366606800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41289"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1381813200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41290"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1389679200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41553"
+        }
+    ],
+    "question": "<p>Can a court exercise jurisdiction over a foreign company based on the fact that a subsidiary of the company acts on its behalf in the forum state?</p>\n",
+    "citation": {
+        "volume": "571",
+        "page": "117",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20866"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held the judiciary did not have jurisdiction over DaimlerChrysler AG in California because the conduct in question was not in the state.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/571/117/",
+    "facts_of_the_case": "<p>The workers and relatives of workers in the Gonzalez-Catan plant of Mercedes Benz Argentina, a wholly owned subsidiary of German-based DaimlerChrysler AG (\"the company\"), sued the company for violations of the Torture Victims Protection Act of 1991. They argued that, during Argentina's \"Dirty War\" of 1976-1983, the company sought to punish plant workers suspected of being union agitators and worked with the Argentinean military and police to do so by passing along information and allowing the plant to be raided. The plaintiffs also argued that the company stood to gain from these actions as they ended strikes and allowed the plant to continue operating at maximum production levels.</p>\n<p>The plaintiffs sued the company in district court in California, where some of the company's major subsidiaries are located under the Alien Torts Act, and the company moved for dismissal based on a lack of personal jurisdiction. The district court granted the motion for dismissal and held that the company did not have enough contacts in California to warrant a California court exercising jurisdiction. The U.S. Court of Appeals for the Ninth Circuit reversed the decision and held that it is reasonable for a California court to have jurisdiction over a multinational company that is capable of litigating the case regardless of the location and has pervasive business contacts in the state.</p>\n",
+    "conclusion": "<p>No. Justice Ruth Bader Ginsburg delivered the opinion for the 9-0 majority. The Court held that the company's slim contacts in California, relative to its other national and international contacts, are not sufficient to render it \"at home\" in the state for the purpose of general jurisdiction. Because the company had so little connection to California and this suit had nothing to do with the company's conduct in the state, to allow the district court to adjudicate such a case would grant the courts essentially global reach as long as the foreign company in question did any business with the state. The Court also held that subjecting the company to this suit would not be in line with the \"fair play and substantial justice\" standard the Due Process Clause of the Fourteenth Amendment demands.</p>\n<p>In her opinion concurring in the judgment, Justice Sonia Sotomayor wrote that the majority opinion ignored due process and jurisdiction precedent by basing the decision on the company's contacts outside the state rather than inside. She argued that such a case should be decided based solely on whether a company has sufficient contacts within the state to establish jurisdiction, without considering those contacts in relation to a larger company presence. Because this case dealt with foreign plaintiffs suing a foreign company for actions committed abroad, California jurisdiction should be considered unreasonable without the analysis of the majority opinion.</p>\n"
+}

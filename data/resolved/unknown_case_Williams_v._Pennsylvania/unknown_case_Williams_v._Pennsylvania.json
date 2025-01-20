@@ -1,0 +1,42 @@
+{
+    "ID": 62596,
+    "name": "Williams v. Pennsylvania",
+    "href": "https://api.oyez.org/cases/2015/15-5040",
+    "view_count": 0,
+    "docket_number": "15-5040",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1443675600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53293"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1456725600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53369"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1465448400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53735"
+        }
+    ],
+    "question": "<p>Are the Eighth and Fourteenth Amendments violated when a state supreme court justice declines to recuse himself from a capital case in which he was the district attorney who approved the decision to seek the death penalty?</p>\n<p>Are the Eighth and Fourteenth Amendments violated by the participation of a potentially biased jurist in a multi-member tribunal in a capital case, regardless of whether that jurist\u2019s vote is ultimately decisive?</p>\n",
+    "citation": {
+        "volume": "579",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27369"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that the Eighth and Fourteenth Amendments are violated when a judge who was previously involved in the case as a prosecutor declines to recuse himself, regardless of whether that judge\u2019s decision as part of a multi-member tribunal was dispositive.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/579/15-5040/",
+    "facts_of_the_case": "<p>Terrance Williams was convicted and sentenced to death for the robbery and murder of Amos Norwood. The Supreme Court affirmed Williams\u2019 conviction and sentence, and he filed three petitions under the Post-Conviction Relief Act, all of which were denied and the denials affirmed by the Pennsylvania Supreme Court. Williams also petitioned for federal habeas relief, which was denied. On his fourth petition for relief under the Post-Conviction Relief Act, the state court determined that Williams had sufficiently demonstrated that there was governmental interference in his trial and granted the relief. The Pennsylvania Supreme Court reversed the lower court\u2019s decision and lifted the stay of execution.</p>\n<p>The Chief Justice of the Pennsylvania Supreme Court at that point was Ronald Castille, who had been the District Attorney for Philadelphia throughout Williams\u2019 trial, sentencing, and appeal, and who had personally authorized his office to seek the death penalty in this case. Prior to having his case heard by the Pennsylvania Supreme Court, Williams moved to have Chief Justice Castille recuse himself from this case. Chief Justice Castille refused to do so and ultimately joined the opinion that reversed the lower court\u2019s grant of habeas relief and lifted the stay of execution.</p>\n",
+    "conclusion": "<p>The Eighth and Fourteenth Amendments were violated when a judge who was previously involved in the case as a prosecutor declined to recuse himself, regardless of whether that judge\u2019s decision as part of a multi-member tribunal was dispositive. Justice Anthony M. Kennedy delivered the opinion of the 5-3 majority. The Court held that there was an impermissible of risk of bias that violated the Due Process Clause of the Fourteenth Amendment when a judge was previously involved in the case as a prosecutor who participated in crucial decisions about the case. Especially in the case of a former prosecutor, who likely made critical strategy decisions, the risk of improper, even if inadvertent, bias toward the position the prosecutor advocated for as a member of the adversarial process is so serious as to be unconstitutional. In this case, there is no doubt that the judge was involved in a critical decision as a prosecutor because he played a vital role in deciding to seek the death penalty, which is one of the most significant decisions a prosecutor can make. Additionally, because the deliberations of an appellate panel are confidential, it does not matter whether the potentially biased judge\u2019s decision was dispositive, because it can be assumed that it at the very least influenced the outcome. Even the appearance of such influence undermines the crucial neutrality of the tribunal.</p>\n<p>In his dissent, Chief Justice John G. Roberts wrote that the Due Process Clause is only violated when the judge is actually biased by his previous involvement in the case. In this case, there was no evidence that the judge in question had actually been involved in, or formed a decision on, the decision about whether the seek the death penalty, and therefore there was no \u201cobjective risk of actual bias\u201d such that it was fundamentally unfair for him to hear the case. Justice Samuel A. Alito, Jr. joined in the dissent.</p>\n<p>Justice Clarence Thomas wrote a separate dissent in which he argued that the rule in question should be less strict when the matter before the judge was different from what the judge worked on when he was involved in the case. In this case, the criminal conviction was not at issue; instead, the matter is a question of post-conviction relief, which is wholly different from what the judge was involved with as a prosecutor on the case. Justice Thomas argued that historical practice and precedent construe judicial disqualification narrowly and therefore did not require a judge who was involved in a criminal case to recuse himself from the post-conviction proceedings, which are a separate civil matter. Justice Thomas also noted that any concerns about potential bias should be addressed by state legislatures, not the Court.</p>\n"
+}

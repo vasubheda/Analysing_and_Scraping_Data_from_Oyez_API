@@ -1,0 +1,42 @@
+{
+    "ID": 55947,
+    "name": "Hillman v. Maretta",
+    "href": "https://api.oyez.org/cases/2012/11-1221",
+    "view_count": 0,
+    "docket_number": "11-1221",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1357884000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41202"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1366606800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41203"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1370235600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41204"
+        }
+    ],
+    "question": "<p>Does federal law preempt a Virginia state law that revokes a spouse's beneficiary designation in a Federal Employees' Group Life Insurance policy upon divorce?</p>\n",
+    "citation": {
+        "volume": "569",
+        "page": "483",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19869"
+    },
+    "term": "2012",
+    "description": "A case in which the Court found that the Federal Employees' Group Life Insurance Act preempts a Virginia state law regarding beneficiary designation upon divorce.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/569/483/",
+    "facts_of_the_case": "<p>In December 1996, Warren Hillman made his wife, Judy Maretta, the beneficiary of his Federal Employees' Group Life Insurance (\"FEGLI\") policy. In 1998, the two divorced and Mr. Hillman remarried. Despite the divorce, Mr. Hillman never changed the beneficiary designation on his policy to his new wife, Jacqueline Hillman. In 2008, Warren died and Jacqueline Hillman attempted to claim the death benefits under his policy. Her claim was denied because she was not the named beneficiary on her husband's policy; Ms Maretta received the death benefits instead. Mrs Hillman sued Ms Maretta for the full amount of death benefits under the policy.</p>\n<p>When a divorce is finalized in Virginia, state law revokes any beneficiary designations between former spouses. State law also creates a cause of action against anyone who wrongfully receives FEGLI policy proceeds. However, federal law under the Federal Employees' Group Life Insurance Act dictates that death benefits from FEGLI policies shall go to the designated beneficiary, regardless of state regulation to the contrary. The trial court applied state law and granted summary judgment to Mrs. Hillman, but Ms Maretta appealed. The Supreme Court of Virginia reversed the lower court's decision and held that federal law preempted the state law; therefore Mr. Hillman's beneficiary designation was not revoked. Mrs. Hillman appealed to the Supreme Court of the United States.</p>\n",
+    "conclusion": "<p>Yes. Justice Sonia Sotomayor delivered the opinion for the 9-0 majority. The Supreme Court held that the Federal Employees' Group Life Insurance Act (FEGLIA) preempts the Virginia law. By passing FEGLIA, Congress clearly intended that the insurance proceeds go to the named beneficiary. The state law, which allows a deceased employee's family to sue a designated beneficiary for the proceeds of a FEGLI life insurance policy, conflicts with Congress' intent.</p>\n<p>Justice Thomas filed an opinion concurring in the judgment. He stated that he cannot join with the majority's conclusion because the consideration is unnecessary. The Supremacy Clause effectively repeals state laws that directly conflict with federal law as the Virginia law does with FEGLIA. In his separate opinion concurring in the judgment, Justice Samuel A. Alito Jr. stated that one of the purposes of FEGLIA is to implement the expressed wishes of the insured. Since the Virginia law has the effect of overriding an insured's choice of beneficiary, FEGLIA preempts it.</p>\n"
+}

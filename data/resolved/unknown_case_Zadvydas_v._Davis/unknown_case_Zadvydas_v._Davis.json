@@ -1,0 +1,35 @@
+{
+    "ID": 54872,
+    "name": "Zadvydas v. Davis",
+    "href": "https://api.oyez.org/cases/2000/99-7791",
+    "view_count": 0,
+    "docket_number": "99-7791",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                982735200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38487"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                993704400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38488"
+        }
+    ],
+    "question": "<p>Does the post-removal-period statute authorize the Attorney General to detain a removable alien indefinitely beyond the 90-day removal period?</p>\n",
+    "citation": {
+        "volume": "533",
+        "page": "678",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18801"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/533/678/",
+    "facts_of_the_case": "<p>After a final removal order is entered, an alien ordered removed is held in custody during a 90-day removal period. If the alien is not removed in those 90 days, the post-removal-period detention statute authorizes further detention or supervised release. After being ordered deported based on is criminal record, efforts to deport Kestutis Zadvydas failed. When he remained in custody after the removal period expired, Zadvydas filed a habeas action. In granting the writ, the District Court reasoned that his confinement would be permanent and thus violate the Constitution. In reversing, the Court of Appeals concluded that Zadvydas' detention did not violate the Constitution because eventual deportation was not impossible. Conversely, in ordering Kim Ho Ma's release, the District Court held that the Constitution forbids post-removal-period detention unless there is a realistic chance that an alien will be removed, and that no such chance existed here because Cambodia has no repatriation treaty with the United States. In affirming, the Court of Appeals concluded that detention was not authorized for more than a reasonable time beyond the 90-day period.</p>\n",
+    "conclusion": "<p>No. In a 5-4 opinion delivered by Justice Stephen G. Breyer, the Court held that \"the statute, read in light of the Constitution's demands, limits an alien's post-removal-period detention to a period reasonably necessary to bring about that alien's removal from the United States\" and \"does not permit indefinite detention.\" \"Based on our conclusion that indefinite detention of aliens in the former category would raise serious constitutional concerns, we construe the statute to contain an implicit 'reasonable time' limitation, the application of which is subject to federal court review,\" wrote Justice Breyer.</p>\n"
+}

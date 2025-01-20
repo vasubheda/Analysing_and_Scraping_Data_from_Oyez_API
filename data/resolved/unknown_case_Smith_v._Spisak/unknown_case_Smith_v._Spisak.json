@@ -1,0 +1,42 @@
+{
+    "ID": 55656,
+    "name": "Smith v. Spisak",
+    "href": "https://api.oyez.org/cases/2009/08-724",
+    "view_count": 0,
+    "docket_number": "08-724",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1235368800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40427"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1255410000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40428"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1263276000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40429"
+        }
+    ],
+    "question": "<p>1) Did the Sixth Circuit disobey the directives of the Antiterrorism and Effective Death Penalty Act and the Supreme Court's decision in <em>Musladin</em> when it resolved questions in Mr. Spisak's favor that were not decided in <em>Musladin</em>?</p>\n<p>2) Did the Sixth Circuit exceed its authority when it presumed that Mr. Spisak suffered prejudice by allegedly deficient statements made by his counsel at sentencing and ignored the Ohio Supreme Court's standard for prejudice?</p>\n",
+    "citation": {
+        "volume": "558",
+        "page": "139",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19578"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that the 1983 conviction of a man for murder was not unconstitutional, because it did not require the jury to unanimously find the existence of any mitigating factor, which Mills v. Maryland forbids.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/558/139/",
+    "facts_of_the_case": "<p>Frank Spisak was convicted of murder in an Ohio state court and sentenced to death. Subsequently, he was granted partial habeas corpus relief by the U.S. Court of Appeals for the Sixth Circuit. The court held that Mr. Spisak received ineffective counsel at sentencing and the jury instructions at this phase unconstitutionally required the jury to be unanimous when finding mitigating evidence to his sentence. The court ordered a new sentencing trial. The Supreme Court granted certiorari, vacated the judgment, and remanded the case for reconsideration in light of <em>Musladin</em> and <em>Landrigan</em>.</p>\n<p>On remand, the Sixth Circuit reinstated its original holding. It reasoned that <em>Musladin</em> and <em>Landrigan</em> were readily distinguishable from Mr. Spisak's case and therefore he was still entitled to habeas corpus relief. Moreover, the court noted that although the Supreme Court had not ruled on a set of facts identical to those in Mr. Spisak's case, the court of appeals was not precluded from finding that the Ohio state court had unreasonably applied federal law.</p>\n",
+    "conclusion": "<p>Yes. Yes. With Justice Stephen G. Breyer writing for the majority and joined by Chief Justice John G. Roberts, and Justices Antonin G. Scalia, Anthony M. Kennedy, Clarence Thomas, Ruth Bader Ginsburg, Samuel A. Alito, and Sonia Sotamayor, and Justice John Paul Stevens in part, the Supreme Court reversed the Sixth Circuit. The Court held that the jury instructions in Mr. Spisak's trial were not \"contrary to\" and did not \"involve[] an unreasonable application of, clearly established Federal law.\" The Court further held that even though Mr. Spisak's counsel's closing argument was inadequate, it reasoned that there was no \"reasonable probability\" that a better closing argument would have made a significant difference in Mr. Spisak's sentence.</p>\n<p>Justice John Paul Stevens wrote a separate opinion, concurring in part and concurring in the judgment. He argued that the Sixth Circuit correctly concluded that errors occurred during Mr. Spisak's trial that violated clearly established federal law. However, Justice Stevens agreed that those errors did not entitle Mr. Spisak to relief as his own conduct \"alienated and ostracized the jury\" and \"his crimes were monstrous.\"</p>\n"
+}

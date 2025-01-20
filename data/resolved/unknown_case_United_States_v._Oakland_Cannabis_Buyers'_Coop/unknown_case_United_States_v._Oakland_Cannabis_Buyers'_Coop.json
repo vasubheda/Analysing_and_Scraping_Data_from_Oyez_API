@@ -1,0 +1,35 @@
+{
+    "ID": 54897,
+    "name": "United States v. Oakland Cannabis Buyers' Coop",
+    "href": "https://api.oyez.org/cases/2000/00-151",
+    "view_count": 0,
+    "docket_number": "00-151",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                985759200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38535"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                989816400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38536"
+        }
+    ],
+    "question": "<p>Does a medical necessity exception to the Controlled Substances Act's prohibition on the manufacture and distribution of various drugs, including marijuana, exist?</p>\n",
+    "citation": {
+        "volume": "532",
+        "page": "483",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18826"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/532/483/",
+    "facts_of_the_case": "<p>Under California's Compassionate Use Act of 1996, the Oakland Cannabis Buyers' Cooperative was organized to distribute marijuana to qualified patients for medical purposes. In 1998, the United States sued to enjoin the Cooperative and its executive director. The government argued that the Cooperative's activities violated the Controlled Substances Act's prohibitions on distributing, manufacturing, and possessing with the intent to distribute or manufacture a controlled substance. Although the District Court enjoined it, the Cooperative continued to distribute marijuana. Rejecting the Cooperative's medical necessity defense, the court found the Cooperative in contempt. On appeal, the Court of Appeals concluded that the medical necessity defense was a legally cognizable defense. On remand from the Court of Appeals, the District Court modified its injunction to incorporate a medical necessity defense, under which medically necessary distributions were to be permitted.</p>\n",
+    "conclusion": "<p>No. In an 8-0 opinion delivered by Justice Clarence Thomas, the Court held that there is no medical necessity exception to the Controlled Substances Act's prohibitions on manufacturing and distributing marijuana. \"The statute reflects a determination that marijuana has no medical benefits worthy of an exception, \" wrote Justice Thomas, therefore, \"medical necessity is not a defense to manufacturing and distributing marijuana.\" Justice John Paul Stevens' concurring opinion, which was joined by Justices David H. Souter and Ruth Bader Ginsburg, argued that \"[b]ecause necessity was raised in this case as a defense to distribution, the Court need not venture an opinion on whether the defense is available to anyone other than distributors.\" Justice Stephen G. Breyer took no part in the consideration or decision of the case.</p>\n"
+}

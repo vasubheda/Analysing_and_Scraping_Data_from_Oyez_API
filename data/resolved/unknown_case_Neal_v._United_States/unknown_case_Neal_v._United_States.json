@@ -1,0 +1,35 @@
+{
+    "ID": 54388,
+    "name": "Neal v. United States",
+    "href": "https://api.oyez.org/cases/1995/94-9088",
+    "view_count": 0,
+    "docket_number": "94-9088",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                818056800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37594"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                822290400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37595"
+        }
+    ],
+    "question": "<p>Does U.S. Sentencing Commission's Guidelines Manual's revised system for determining LSD amounts take precedence over 21 U.S.C. 841 in determining sentencing?</p>\n",
+    "citation": {
+        "volume": "516",
+        "page": "284",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18317"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/516/284/",
+    "facts_of_the_case": "<p>A federal District Court sentenced Meirl Gilbert Neal on two plea-bargained convictions involving possession of LSD with intent to distribute. The amount of LSD was determined, under both the federal statute directing minimum sentences and the U. S. Sentencing Commission's Guidelines Manual, by the whole weight of the blotter paper, or carrier medium, containing the drug. The combined weight of the blotter paper and LSD actually sold by Neal was 109.51 grams. Thus, the court ruled that Neal was subject to 21 U.S.C. 841(b) (1)(A)(v), which imposes a 10-year mandatory minimum sentence on anyone convicted of trafficking in more than 10 grams of \"a mixture or substance containing a detectable amount\" of LSD. After the Commission revised the Guidelines' calculation method by instructing courts to give each dose of LSD on a carrier medium a constructive or presumed weight, Neal filed a motion to modify his sentence, contending that the weight of the LSD attributable to him under the amended Guidelines was only 4.58 grams, well short of 841(b)(1)(A)(v)'s 10-gram requirement, and that the Guidelines' presumptive-weight method controlled the mandatory minimum calculation. The District Court held that the actual weight of the blotter paper, with its absorbed LSD, was determinative of whether Neal crossed the 10-gram threshold and that the 10-year mandatory minimum sentence still applied to him notwithstanding the Guidelines. In affirming, an en banc Court of Appeals agreed with the District Court that a dual system now prevails in calculating LSD weights.</p>\n",
+    "conclusion": "<p>No. In a unanimous decision, authored by Justice Anthony Kennedy, the Court held that Section 841(b)(1) directs a sentencing court to take into account the actual weight of the blotter paper with its absorbed LSD, even though the U. S. Sentencing Commission's Guidelines Manual requires a different method of calculating the weight of an LSD mixture or substance.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 54725,
+    "name": "City of West Covina v. Perkins",
+    "href": "https://api.oyez.org/cases/1998/97-1230",
+    "view_count": 0,
+    "docket_number": "97-1230",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                910072800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38213"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                916207200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38214"
+        }
+    ],
+    "question": "<p>Does the Due Process Clause of the Fourteenth Amendment require officers who seize someone's property lawfully to provide the owner with state procedures for the property's return?</p>\n",
+    "citation": {
+        "volume": "525",
+        "page": "234",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18654"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/525/234/",
+    "facts_of_the_case": "<p>Police officers of the city of West Covina lawfully seized Perkins Lawrence's personal property from his home. The officers left a notice form specifying the facts of the search, its date, the searching agency, the date of the warrent, the issuing judge and his court, the persons to be contacted for information, and an itemized list of the property seized. The officers did not leave the search warrant number. Lawrence filed suit after attempts to obtain the seized property failed. The District Court ultimately ruled in favor of the city. The Court of Appeals reversed the District Court. It held that the Due Process clause of the Fourteenth Amendment required that Lawrence be provided a detailed notice of state procedures for the return of seized property and the information to be able to invoke the procedures, along with the information he was already provided. This meant the search warrant number must be furnished or at least the method for obtaining it.</p>\n",
+    "conclusion": "<p>No. In a decision authored by Justice Anthony M. Kennedy, the Court ruled that the Fourteenth Amendment's Due Process clause does not require police officers to provide property owners with information on how to recover their property in a lawful seizure. The Due Process clause only requires that officers inform property owners that something they own has been seized. Justice Kennedy said the property owner could turn to public sources to learn about the procedures available.</p>\n"
+}

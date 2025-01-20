@@ -1,0 +1,42 @@
+{
+    "ID": 55604,
+    "name": "Vermont v. Brillon",
+    "href": "https://api.oyez.org/cases/2008/08-88",
+    "view_count": 0,
+    "docket_number": "08-88",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1222837200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40285"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1231826400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40286"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1236574800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40287"
+        }
+    ],
+    "question": "<p>1) Are delays that violate a defendant's right to speedy trial, caused largely by the defendant's assigned counsel, properly attributed to the state because it finances the office of the public defender?</p>\n<p>2) Should a defendant represented by publicly financed counsel be considered more prejudiced against when counsel is responsible for delays that infringe defendant's right to speedy trial than a defendant who retains private counsel?</p>\n",
+    "citation": {
+        "volume": "556",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20852"
+    },
+    "term": "2008",
+    "description": "A case in which the Court found that the lower court should not have categorized the defendant's assigned counsel as a state actor, and any delay caused by the assigned counsel should be charged against the defendant and not the state.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>In June 2004 after 3 years awaiting trial, Michael Brillon was convicted in a Vermont court for felony domestic assault. On appeal, he argued that the district court erred in denying his motion to dismiss the charges against him for lack of a speedy trial. The Supreme Court of Vermont agreed and remanded with instructions for the trial court to set aside Mr. Brillon's conviction and dismiss the charges against him.</p>\n<p>The court held that Mr. Brillon was not prosecuted within a time frame that satisfied his constitutional right to a speedy trial. It reasoned that the state was not relieved of its duty to provide Mr. Brillon with a speedy trial merely because the public defenders assigned him were mostly responsible for the delay. Rather, it considered the office of the public defender an arm of the state.</p>\n",
+    "conclusion": "<p>No and No. The Supreme Court held that the Vermont Supreme Court erred when it categorized assigned counsel as a state actor in the criminal justice system and that it was not justified in treating Mr. Brillon's speedy-trial claims differently than if he had retained private counsel. With Justice Ruth Bader Ginsburg writing for the majority and joined by Chief Justice John G. Roberts, Justice Antonin G. Scalia, Justice Anthony M. Kennedy, Justice David H. Souter, Justice Clarence Thomas, and Justice Samuel A. Alito, the Court reasoned that delay caused by a defendant's counsel is ordinarily charged against the defendant, as it should have been in this case.</p>\n<p>Justice Stephen G. Breyer, joined by Justice John Paul Stevens, dissented. He criticized the Court for granting certiorari here. However, as certiorari was granted, he would have affirmed the Vermont Supreme Court reasoning that it had authority to supervise the appointment of public defenders and therefore could determine when a defendant's delayed trial date should be properly attributed to them.</p>\n"
+}

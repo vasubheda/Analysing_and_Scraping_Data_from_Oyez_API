@@ -1,0 +1,35 @@
+{
+    "ID": 62709,
+    "name": "Kernan v. Hinojosa",
+    "href": "https://api.oyez.org/cases/2015/15-833",
+    "view_count": 0,
+    "docket_number": "15-833",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1463374800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53630"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1463374800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53631"
+        }
+    ],
+    "question": "<p>Does the Antiterrorism and Effective Death Penalty Act\u2019s deferential standard of review of state habeas decisions apply when the decision to deny habeas in state court was not made on the merits of the case?</p>\n",
+    "citation": {
+        "volume": "578",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27426"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that that the Antiterrorism and Effective Death Penalty Act\u2019s deferential standard of review applies when the initial state court\u2019s denial of habeas is affirmed by higher state courts, even in the form of denying consideration of the petition.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/578/15-833/",
+    "facts_of_the_case": "<p>In 2009, while Antonio Hinojosa was serving a 16-year sentence for armed robbery and related crimes, prison officials determined that he was a prison-gang associate and placed him in a secured housing unit. At that time, California law allowed prisoners placed in a secured housing unit solely because of prison-gang affiliation could continue to accrue good-time credits. In 2010, the California Legislature amended the law so that, while prisoners in secured housing units could retain whatever good-time credits they had upon entry, they could no longer accrue good-time credits while in the unit. Hinojosa filed a state habeas petition and argued that the amended law\u2019s application to him violated the ex post facto clause of the U.S. Constitution. The state court denied the claim because Hinojosa did not file it in the court for the county in which he was incarcerated. Hinojosa sought review by the appellate court and then the state supreme court, both of which denied his petition. Hinojosa then sought federal habeas relief. The district court denied relief under the Antiterrorism and Effective Death Penalty Act (AEDPA), which establishes a deferential standard of review of state denials of habeas, but the U.S. Court of Appeals for the Ninth Circuit reversed. The appellate court held that, because the initial state court denial was not based on the merits, the AEDPA did not apply.</p>\n",
+    "conclusion": "<p>In a per curiam opinion, the 6-2 majority held that the Antiterrorism and Effective Death Penalty Act\u2019s deferential standard of review applies when the initial state court\u2019s denial of habeas is affirmed by higher state courts, even in the form of denying consideration of the petition. In this case, although the initial state court\u2019s determination was based on the fact that the petition was filed in an improper venue, the higher court\u2019s decision not to hear the case could not have been based on the same grounds (in the case of the California Supreme Court, there is only one venue). Therefore, these later decisions are presumed to be on the merits of the case and subject to the deferential standard of review of state habeas decisions.</p>\n<p>Justice Sonia Sotomayor wrote a dissenting opinion in which she argued that there is no reason to presume that the California Supreme Court\u2019s unexplained order denying the petition for a writ of habeas corpus disagreed with the lower court\u2019s ruling. The California Supreme Court could have easily denied the petition because it was originally filed in the wrong venue. Therefore, the majority opinion should not reverse the ruling of the U.S. Court of Appeals for the Ninth Circuit. Justice Ruth Bader Ginsburg joined in the dissent.</p>\n"
+}

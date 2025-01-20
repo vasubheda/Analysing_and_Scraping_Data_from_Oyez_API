@@ -1,0 +1,42 @@
+{
+    "ID": 62988,
+    "name": "Bucklew v. Precythe",
+    "href": "https://api.oyez.org/cases/2018/17-8151",
+    "view_count": 0,
+    "docket_number": "17-8151",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1525064400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54259"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1541484000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54363"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1554094800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54483"
+        }
+    ],
+    "question": "<ol><li>Does the Eighth Amendment require an inmate with a unique and severe medical condition to prove an adequate alternative method of execution when raising an as-applied challenge to the state-authorized method of execution?</li>\n<li>What evidence is required for a court to determine whether an inmate\u2019s proposed alternative method of execution significantly reduces the risk of severe pain as compared to the state\u2019s method?</li>\n<li>May a court evaluating an as-applied challenge to a state\u2019s method of execution assume that medical personnel on the execution team are competent to manage the inmate\u2019s condition?</li>\n<li>Did the petitioner meet his burden in proposing an alternative execution method under <em>Glossip v. Gross</em>?</li>\n</ol>",
+    "citation": {
+        "volume": "587",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27589"
+    },
+    "term": "2018",
+    "description": "A case in which the Court clarified the evidentiary burden for a death-row prisoner seeking an alternative method of execution and held that the prisoner in this case failed to meet that burden.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/587/17-8151/",
+    "facts_of_the_case": "<p>Russell Bucklew was convicted by a state court jury of murder, kidnapping, and rape, and was sentenced to death. After exhausting the state appeals process, Bucklew was scheduled to be executed on May 21, 2014. He then filed an action in federal district court alleging that execution by Missouri\u2019s lethal injection protocol would constitute cruel and unusual punishment in violation of the Eighth Amendment as applied to him because of a unique congenital medical condition from which he suffers. According to Bucklew, lethal injection would likely cause him to hemorrhage during the execution, potentially choking on his own blood.\u201d As an alternative method, Bucklew proposed execution by nitrogen hypoxia. He also requested discovery of the qualifications of two members of the lethal injection team, alleging that they might not be qualified for the positions for which they are hired.</p>\n<p>The district court granted summary judgment to the state, finding that Bucklew failed to show that the state\u2019s execution method \u201cpresents a risk that is sure or very likely to cause serious illness and needless suffering, and give rise to sufficiently imminent dangers,\u201d and failed to propose \u201can alternative that is feasible, readily implemented, and in fact significantly reduces a substantial risk of severe pain,\u201d both of which steps are required by US Supreme Court precedent. Additionally, the district court denied Bucklew\u2019s request for discovery, finding that it was inappropriate to \u201cassume that Missouri employs personnel who are incompetent or unqualified to perform their assigned duties.\u201d Reviewing the district court\u2019s findings <em>de novo</em>, the US Court of Appeals for the Eighth Circuit affirmed the lower court.</p>\n",
+    "conclusion": "<p>A death-row inmate alleging that the state\u2019s method of execution constitutes cruel and unusual punishment in violation of the Eighth Amendment, either on its face or as applied to that inmate, must show (1) a feasible and readily implemented alternative method that would significantly reduce a substantial risk of severe pain and (2) that the state refused to adopt the method without a legitimate penological reason. In a 5\u20134 opinion authored by Justice Neil Gorsuch, the Court held that Bucklew did not meet his burden.</p>\n<p>The Court first considered the proper test for challenges to lethal injection protocols as applied to a particular inmate. In <a href=\"https://www.oyez.org/cases/2007/07-5439\"><em>Baze v. Rees</em>, 553 U.S. 35 (2008)</a>, a plurality of the Court held that a state\u2019s refusal to alter its lethal injection protocol could violate the Eighth Amendment only if an inmate first identified a \u201cfeasible, readily implemented\u201d alternative procedure that would \u201csignificantly reduce a substantial risk of severe pain.\u201d Subsequently, in <a href=\"https://www.oyez.org/cases/2014/14-7955\"><em>Glossip v. Gross</em>, 576 U.S. __ (2015)</a>, a majority of the Court clarified that the plurality opinion in <em>Baze</em> was controlling. The Eighth Amendment does not guarantee a painless death\u2014only punishments that \u201cintensif[y] the sentence of death\u201d with a \u201csuperaddition of terror, pain, or disgrace.\u201d Anyone bringing an Eighth Amendment challenge must therefore satisfy the <em>Baze-Glossip</em> test. The Court rejected Bucklew\u2019s argument that methods posing a substantial risk of suffering when applied to a particular inmate should be considered \u201ccategorically\u201d cruel. Bucklew failed to show that Missouri\u2019s lethal injection protocol would \u201csuperadd\u201d to his death sentence.</p>\n<p>The Court then considered whether Bucklew satisfied the test, finding he had not. The majority identified two reasons Bucklew failed to show his proposed alternative\u2014nitrogen hypoxia\u2014was viable. First, he did not produce adequate evidence that nitrogen hypoxia could be \u201creadily implemented,\u201d and second, he failed to show that the state lacked a legitimate reason for declining to switch from its current method of execution to one that is \u201cuntried and untested.\u201d Finally, the Court found that even if Bucklew had satisfied his burden of showing a viable alternative, he failed to show that the alternative would significantly reduce a substantial risk of severe pain.</p>\n<p>Justice Clarence Thomas joined the majority opinion in full but authored a concurring opinion reiterating the position he expressed in his concurring opinion in <em>Baze</em> that \u201ca method of execution violates the Eighth Amendment only if it is deliberately designed to inflict pain.\u201d</p>\n<p>Justice Brett Kavanaugh wrote a separate concurrence joining the majority in full but also underscoring the Court\u2019s additional holding that the alternative method of execution need not be authorized under current state law.</p>\n<p>Justice Stephen Breyer authored a dissenting opinion, in which Justices Ruth Bader Ginsburg, Sonia Sotomayor, and Elena Kagan joined as to all but Part III. First, Justice Breyer argued that Bucklew had provided sufficient evidence by which a fact finder could conclude execution by lethal injection would subject him to impermissible suffering. Because a genuine issue exists as to this material fact, summary judgment for the state was inappropriate. Second, even accepting that the <em>Glossip</em> majority opinion governs, Justice Breyer argued that the substantially different circumstances of the present case rendered the reasoning in <em>Glossip</em> inapplicable and that the majority\u2019s holding unconstitutionally places a high burden on the prisoner to describe in detail an alternative method of execution. Finally, Justice Breyer expresses general concern that an expedient death penalty may be mutually exclusive of a reliable and fair death penalty.</p>\n<p>Justice Sotomayor filed a separate dissenting opinion, as well, to criticize and clarify as \u201ctroubling dicta\u201d the majority\u2019s \u201clament[ation]\u201d of \u201clate-arising death penalty litigation.\u201d</p>\n"
+}

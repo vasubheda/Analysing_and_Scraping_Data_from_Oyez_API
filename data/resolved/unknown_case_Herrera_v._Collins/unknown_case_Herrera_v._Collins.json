@@ -1,0 +1,35 @@
+{
+    "ID": 54104,
+    "name": "Herrera v. Collins",
+    "href": "https://api.oyez.org/cases/1992/91-7328",
+    "view_count": 0,
+    "docket_number": "91-7328",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                718434000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51863"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                727941600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52205"
+        }
+    ],
+    "question": "<p>Was an individual sentenced to death for murder, Leonel Herrera, entitled to federal habeas corpus relief under the Eighth and Fourteenth Amendments when his petition was based on a claim of actual innocence without an accompanying federal constitutional violation?</p>\n",
+    "citation": {
+        "volume": "506",
+        "page": "390",
+        "year": "1993",
+        "href": "https://api.oyez.org/case_citation/case_citation/18033"
+    },
+    "term": "1992",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/506/390/",
+    "facts_of_the_case": "<p>On September 29, 1981, Officers Enrique Carrisalez and David Rucker were shot within several minutes of each other in a rural part of Texas along the Mexico border known as \u201cthe Valley.\u201d Enrique Hernandez, who was riding along in Officer Carrisalez\u2019s squad car, was an eyewitness to Carrisalez\u2019s shooting. The shootings led to a massive hunt for the killer across the Valley. The police arrested Leonel Herrera on October 4, 1981 near Edinburg and took him to the police station. During a heated exchange, Herrera struck a police officer and was restrained. When defense counsel arrived several hours later, Herrera was badly beaten, unconscious, and partly paralyzed; he was subsequently transported to a hospital emergency room. Officer Carrisalez died soon thereafter.</p>\n<p>The police discovered evidence at the scene of arrest implicating Herrera in both murders. The car pulled over by Carrisalez was registered in the name of Herrera\u2019s live-in girlfriend, and Herrera had a set of keys to that car when he was arrested. The police found drops of Type A blood on jeans recovered from a laundry room and in Herrera\u2019s wallet. They also found a letter in Herrera\u2019s pocket with Herrera\u2019s fingerprints; the letter contained apparent confessions to both murders. Hernandez could not specifically identify Herrera from an array of six photographs, but later identified him as the shooter when presented with a mug shot. Herrera was convicted of the murder of Officer Carrisalez, and pleaded guilty to the murder of Trooper Rucker.</p>\n<p>Herrera filed a petition for a writ of habeas corpus under the Eighth and Fourteenth Amendments, claiming actual innocence and alleging that various Valley police officials were involved in the drug trade and were working with the person actually responsible for the murders, Raul Herrera. The trial court denied relief. Herrera filed another petition, presenting the affidavit of Raul Herrera\u2019s son that he witnessed the killings and that Herrera did not commit them. The district court dismissed most of Herrera\u2019s claims, but granted a stay of execution as to his claim of innocence. The Court of Appeals, Fifth Circuit, vacated the stay of execution, agreeing with Texas that innocence was irrelevant to Herrera\u2019s petition.</p>\n",
+    "conclusion": "<p>No. In a 6-3 opinion written by Chief Justice William Rehnquist, the Court held that the rejection of Herrera\u2019s petition did not constitute cruel and unusual punishment under the Eighth Amendment. Chief Justice Rehnquist concluded that evidence of Herrera\u2019s actual innocence was not relevant to his petition for a writ of habeas corpus absent some constitutional violation by the state of Texas. This rule was grounded in the principle that federal habeas courts existed to ensure that individuals were not unconstitutionally imprisoned, not to correct errors of fact. Chief Justice Rehnquist acknowledged that the Court sometimes examined the sufficiency of evidence in death penalty cases, but only to determine whether there was an independent constitutional violation.</p>\n<p>Chief Justice Rehnquist also rejected Herrera\u2019s argument that the federal courts\u2019 failure to accept Herrera\u2019s petition violated his right to due process under the Fourteenth Amendment. Chief Justice Rehnquist outlined the history of American principles of justice in criminal trials, determining that Texas\u2019 refusal to entertain Herrera\u2019s newly discovered evidence did not violate traditional notions of fundamental fairness. Moreover, Herrera could still avail himself of Texas\u2019 procedures for requesting clemency. Chief Justice Rehnquist also questioned the evidentiary value of Herrera\u2019s affidavits.</p>\n<p>Justice Sandra Day O\u2019Connor concurred, joined by Justice Anthony Kennedy. She rejected the notion that the question before the Court was whether a state may constitutionally execute an innocent person, and emphasized that the evidence strongly suggested Herrera\u2019s guilt.</p>\n<p>Justice Antonin Scalia concurred, joined by Justice Clarence Thomas. He argued that there was no basis in text, tradition, or contemporary practice for finding a constitutional right to demand consideration of new evidence of innocence.</p>\n<p>Justice Byron White concurred, arguing that Herrera would only be entitled to relief if he proved that no rational trier of fact could find proof of guilt beyond a reasonable doubt.</p>\n<p>Justice Harry Blackmun dissented, joined by Justices John Paul Stevens and David Souter. He wrote that executing an innocent person was contrary to contemporary standards of decency. Justice Blackmun argued that Herrera should have been granted relief if he showed both a reasonable doubt about his guilt and that he was actually innocent. He also expressed doubts about the constitutionality of the death penalty.</p>\n"
+}

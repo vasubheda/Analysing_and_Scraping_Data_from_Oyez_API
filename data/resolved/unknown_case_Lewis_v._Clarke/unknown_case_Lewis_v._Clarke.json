@@ -1,0 +1,42 @@
+{
+    "ID": 62768,
+    "name": "Lewis v. Clarke",
+    "href": "https://api.oyez.org/cases/2016/15-1500",
+    "view_count": 0,
+    "docket_number": "15-1500",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1475125200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53902"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1483941600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53948"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1493096400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54024"
+        }
+    ],
+    "question": "<p>Does the doctrine of sovereign immunity of an Indian tribe bar individual-capacity damages against tribal employees for torts committed within the scope of their employment? </p>\n",
+    "citation": {
+        "volume": "581",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27470"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that tribal sovereign immunity is not implicated in a suit against a tribal employee in his individual capacity, and an indemnification provision cannot extend tribal sovereign immunity to conduct that it would not otherwise cover.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/581/15-1500/",
+    "facts_of_the_case": "<p>On October 22, 2011, Brian Lewis was driving southbound on Interstate 95 in Norwalk, Connecticut, when William Clarke crashed into him while driving a limousine owned by the Mohegan Tribal Gaming Authority. Lewis sued Clarke, claiming that he was injured as a result of Clarke\u2019s negligent and careless driving. Clarke filed a motion to dismiss the complaint and argued that, because he was driving the limousine as an employee of the Mohegan Tribal Gaming Authority, the trial court lacked subject matter jurisdiction because he was entitled to tribal sovereign immunity. The trial court denied the motion and held that it did not lack subject matter jurisdiction under the doctrine of tribal sovereign immunity because Lewis sought damages from Clarke personally, not from the Mohegan Tribal Gaming Authority. The Connecticut Supreme Court reversed and held that tribal sovereign immunity extended to Clarke as a member of the tribe acting within the scope of his employment as a limousine driver with the Mohegan Tribal Gaming Authority. </p>\n",
+    "conclusion": "<p dir=\"ltr\">Tribal sovereign immunity is not implicated in a suit against a tribal employee in his individual capacity, and an indemnification provision cannot extend tribal sovereign immunity to conduct that it would not otherwise cover. Justice Sonia Sotomayor delivered the opinion of the 8-0 majority. The Court held that the fact that an employee was acting within the scope of his employment for the tribe when the tort was committed was not sufficient to give rise to tribal sovereign immunity. In deciding whether sovereign immunity applies, courts traditionally look at whether the relief sought is actually from the sovereign. Because an individual-capacity lawsuit is only against that individual, the sovereign is not a real party in interest and the individual cannot assert sovereign immunity. These principles apply equally to tribal sovereign immunity cases. The Court also held that an indemnification provision does not alter who is the real party in interest and cannot extend tribal sovereign immunity to conduct that it would not otherwise cover. </p>\n<p dir=\"ltr\">Justice Clarence Thomas wrote an opinion concurring in the judgment in which he argued that tribal sovereign immunity does not extend to suits arising out of commercial activity conducted off of the tribal territory. In her separate opinion concurring in the judgment, Justice Ruth Bader Ginsburg wrote that tribes interacting with non-tribal members outside of the tribal territory should be subject to general non-discriminatory state laws.</p>\n<p>Justice Neil M. Gorsuch did not participate in the discussion or decision of this case.</p>\n"
+}

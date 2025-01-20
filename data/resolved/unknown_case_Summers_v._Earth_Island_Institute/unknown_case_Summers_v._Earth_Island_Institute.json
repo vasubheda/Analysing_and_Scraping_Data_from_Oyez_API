@@ -1,0 +1,42 @@
+{
+    "ID": 55593,
+    "name": "Summers v. Earth Island Institute",
+    "href": "https://api.oyez.org/cases/2008/07-463",
+    "view_count": 0,
+    "docket_number": "07-463",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1200636000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40253"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1223442000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40254"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1236060000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40255"
+        }
+    ],
+    "question": "<p>1) Does Earth Island Institute have standing to challenge regulations of the U.S. Forest Service in the absence of a live dispute over the application of those regulations?</p>\n<p>2) Did Earth Island Institute's challenge to U.S. Forest Service regulations remain ripe for review after timber sale to which those regulations were applied was withdrawn and Earth Island's challenge to that sale was dismissed after a settlement was reached between the parties?</p>\n",
+    "citation": {
+        "volume": "555",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20800"
+    },
+    "term": "2008",
+    "description": "A case in which the Court held that the defendants did not have standing to challenge regulations of the U.S. Forest Service in the absence of a live dispute over the application of those regulations.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>Earth Island Institute, along with several other environmental groups, filed suit against the United States Forest Service in the U.S. District Court for the Eastern District of California alleging that certain Forest Service regulations violated the Forest Service Decision Making and Appeals Reform Act (ARA). The ARA requires the Forest Service to establish an administrative appeals process providing an opportunity for notice and comment. Earth Island brought this claim when, in 2003, the Forest Service issued new regulations greatly limiting notice, appeals and public comment on certain categorically excluded activities. The district court found for the plaintiffs and issued a nationwide injunction against the Forest Service.</p>\n<p>The U.S. Court of Appeals for the Ninth Circuit affirmed the district court's ruling, holding that if Congress intended to allow the Forest Service to limit notice, appeals and comment for categorically excluded activities (as the regulations did) it would not have enacted the ARA in the first place. In seeking certiorari, the Forest Service argued that the Ninth Circuit had overstepped its bounds in invalidating the regulations and that the plaintiffs lacked standing to bring the suit because the case was not yet ripe for judicial review.</p>\n",
+    "conclusion": "<p>No and not answered. The Supreme Court held that Earth Island lacked standing to challenge regulations of the U.S. Forest Service because Article III of the Constitution limits judicial power to extend only to cases and controversies that imminently threaten injury to persons caused by violation of law. With Justice Antonin G. Scalia writing for the majority and joined by Chief Justice John G. Roberts, Justice Anthony M. Kennedy, Justice Clarence Thomas, and Justice Samuel A. Alito, the Court reasoned that Earth Island identified no application of the challenged Forest Service regulations that threatened imminent and concrete harm to its members' interests. As testament to this, the Court noted that Earth Island had voluntarily settled a portion of the lawsuit pertaining to any alleged members' interests and that it failed to show any of its members planned to visit sites where the challenged regulations were being applied in a manner that would harm a particular member's interests. Therefore, Earth Island lacked standing to bring its suit in the first place.</p>\n<p>Justice Anthony M. Kennedy wrote a separate concurring opinion, agreeing that a procedural injury must also \"impair a separate concrete interest\" in order to grant a party standing. Justice Stephen G. Breyer dissented and was joined by Justice John Paul Stevens, Justice David H. Souter, and Justice Ruth Bader Ginsburg. He disagreed with the majority's findings that Earth Island failed to show it suffered \"concrete injury\" by the challenged Forest Service regulations.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55910,
+    "name": "Arizona v. Inter Tribal Council of Arizona",
+    "href": "https://api.oyez.org/cases/2012/12-71",
+    "view_count": 0,
+    "docket_number": "12-71",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1350277200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41093"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1363582800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41094"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1371445200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41095"
+        }
+    ],
+    "question": "<p>Did the United States Court of Appeals err by creating a new test of preemption?</p>\n<p>If so, does the National Voter Registration Act of 1993 preempt other voter registration requirements?</p>\n",
+    "citation": {
+        "volume": "570",
+        "page": "1",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19832"
+    },
+    "term": "2012",
+    "description": "A case in which the Court found the National Voter Registration Act preempted other voter registration requirements.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/570/1/",
+    "facts_of_the_case": "<p>On November 2, 2004, Arizona passed Proposition 200, which required voters to provide proof of citizenship when registering to vote or casting a ballot. Shortly after the Proposition passed, a group of plaintiffs, including the Inter Tribal Council of Arizona sued the state. They argued that Proposition 200 violated the Voting Rights Act of 1965, is unconstitutional under the Fourteenth and Twenty-fourth Amendments, and is inconsistent with the National Voter Registration Act of 1993 (NVRA). The district court denied a preliminary injunction, and the plaintiffs appealed.</p>\n<p>The U. S. Court of Appeals for the Ninth Circuit granted an emergency injunction to allow the case to proceed without allowing Proposition 200 to affect the 2006 election. The Supreme Court vacated the emergency injunction and remanded the case for consideration on the merits. The Court of Appeals affirmed the district court's denial of the preliminary injunction and held that the Proposition was not an unconstitutional poll tax and did not violate the NVRA. On remand, the district court granted summary judgment for Arizona. The U.S. Court of Appeals for the Ninth Circuit affirmed in part and reversed in part by holding that the Proposition was not an unconstitutional poll tax and did not violate the NVRA, but that the NVRA preempts the Proposition's requirements.</p>\n",
+    "conclusion": "<p>No, yes. Justice Antonin Scalia delivered the opinion for the 7-2 majority. The Supreme Court held that NVRA preempts other voter registration requirements. To allow states to impose additional requirements would allow them to reject voter registrations applicants who met the federal requirements to vote, which would defeat the purpose of the Act. However, the Court also held that Arizona may petition to have more requirements added to the federal standard.</p>\n<p>In his opinion concurring in part and dissenting in part, Justice Anthony M. Kennedy wrote that there is no judicial basis for the majority's opinion that sometimes federal law preempts state law and sometimes it does not. However, he also argued that a presumption against preemption was not necessarily the best formulation of the relationship between state laws and federal ones. In this case, Kennedy agreed with the majority's opinion regarding the NVRA preempting the Arizona statute but not regarding the presumption of preemption.</p>\n<p>Justice Clarence Thomas wrote a dissenting opinion in which he argued that the states have the right to determine voter qualifications for federal elections. He also argued that the NVRA only requires the states to use the federal requirements as part of the state's voter registration process. In his separate dissent, Justice Samuel A. Alito, Jr. argued that the Constitution grants the power to decide voter qualifications in federal elections to the states. He wrote that the NVRA does not require the states to treat the federal requirements as the sole requirements for voter registration. He also argued that the majority's opinion should have applied the presumption against preemption to this case because states have a vested interest in preserving the integrity of the election process.</p>\n"
+}

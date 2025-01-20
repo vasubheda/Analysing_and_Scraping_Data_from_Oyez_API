@@ -1,0 +1,35 @@
+{
+    "ID": 55118,
+    "name": "City of Cuyahoga Falls v. Buckeye Community Hope",
+    "href": "https://api.oyez.org/cases/2002/01-1269",
+    "view_count": 0,
+    "docket_number": "01-1269",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1043128800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38952"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1048572000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38953"
+        }
+    ],
+    "question": "<p>Did the Court of Appeals err in holding that a low-income housing foundation's suit against a city for violations of the Equal Protection and Due Process Clauses of the Fourteenth Amendment and the Fair Housing Act could proceed to trial?</p>\n",
+    "citation": {
+        "volume": "538",
+        "page": "188",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/19047"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/538/188/",
+    "facts_of_the_case": "<p>After the City Council of Cuyahoga Falls, Ohio passed an ordinance authorizing construction of a low-income housing complex by the Buckeye Community Hope Foundation, a group of citizens filed a formal petition requesting that the ordinance be repealed or submitted to a popular vote. The voters passed the referendum repealing the ordinance. The Foundation filed suit, claiming that by submitting the site plan to voters, the City violated the Equal Protection and Due Process Clauses of the Fourteenth Amendment and the Fair Housing Act. After the Ohio Supreme Court declared the referendum invalid under Ohio's Constitution, the District Court granted the City summary judgment. In reversing, the Court of Appeals found that the Foundation had stated a valid Fair Housing Act claim and that a genuine issue of material fact existed as to whether the City had engaged in arbitrary and irrational government conduct in violation of substantive due process.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion delivered by Justice Sandra Day O'Connor, the Court reversed the Court of Appeals with regard to the Foundation's equal protection and substantive due process claims and vacated the appellate court's Fair Housing Act holding. Noting that the Foundation claimed injury from the referendum petitioning process and not from the referendum itself, the Court reasoned that statements made by private individuals during a citizen-driven petition drive do not, in and of themselves, constitute state action for Fourteenth Amendment purposes. Justice Antonin Scalia filed a concurring opinion, in which Justice Clarence Thomas joined.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 55078,
+    "name": "Jinks v. Richland County, South Carolina",
+    "href": "https://api.oyez.org/cases/2002/02-258",
+    "view_count": 0,
+    "docket_number": "02-258",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1046844000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52653"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1050987600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38879"
+        }
+    ],
+    "question": "<p>Is 28 USC section 1367(d), which requires state statute of limitations to be tolled for the period during which a plaintiff's cause of action had previously been pending in federal court, constitutional as applied to lawsuits brought against a State's political subdivisions?</p>\n",
+    "citation": {
+        "volume": "53",
+        "page": "456",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/20516"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>If a federal court with jurisdiction over a civil action declines to exercise supplement jurisdiction over other related claims, the claims will be dismissed and must be refiled in state court. To prevent the limitations period on those claims from expiring, 28 USC section 1367(d) requires state courts to toll the period while a supplemental claim is pending in federal court. In 1994, Susan Jinks filed a federal-court action against Richland County, South Carolina. The District Court granted the county summary judgment and declined to exercise jurisdiction over Jinks's state-law claims. Jinks then filed the supplemental claims in state court and won. In reversing, the Supreme Court of South Carolina found the state-law claims time-barred. Although they would not have been barred under section 1367(d)'s tolling rule, the court held section 1367(d) unconstitutional as applied to claims brought in state court against a State's political subdivisions.</p>\n",
+    "conclusion": "<p>\u00a0</p>\n<p>Yes. In a unanimous opinion delivered by Justice Antonin Scalia, the Court held that section 1367(d)'s application to claims brought against a State's political subdivisions is constitutional. The Court reasoned that section 1367(d) is necessary and proper for carrying into execution Congress's power \"to constitute Tribunals inferior to the supreme Court\" under Article 1, Section 8 of the Constitution, as it provides a straightforward tolling rule, which promotes fair and efficient operation of the federal courts and is therefore conducive to the administration of justice. The Court also reiterated that, while Congress lacks Article I authority to override a State's immunity from suit in its own courts, it may subject a municipality to suit in state court if that is done pursuant to a valid exercise of its enumerated powers. Justice David H. Souter filed a concurring opinion, noting that he did not shift from his dissent in Alden v. Maine, 527 U.S. 706.</p>\n<p>\u00a0</p>\n"
+}

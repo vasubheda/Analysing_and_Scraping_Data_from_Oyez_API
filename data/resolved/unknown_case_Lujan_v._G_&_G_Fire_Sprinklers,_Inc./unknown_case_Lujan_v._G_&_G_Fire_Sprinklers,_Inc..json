@@ -1,0 +1,35 @@
+{
+    "ID": 54894,
+    "name": "Lujan v. G & G Fire Sprinklers, Inc.",
+    "href": "https://api.oyez.org/cases/2000/00-152",
+    "view_count": 0,
+    "docket_number": "00-152",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                983167200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38529"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                987483600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38530"
+        }
+    ],
+    "question": "<p>Must states provide contractors and subcontractors a hearing to challenge a decision to withhold wage payments from contractors and subcontractors who fail to pay prevailing wages to satisfy due process?</p>\n",
+    "citation": {
+        "volume": "532",
+        "page": "189",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18823"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/532/189/",
+    "facts_of_the_case": "<p>The California Labor Code requires that contractors and subcontractors on public works project pay their workers a prevailing wage that is determined by the state. The Code authorizes the state to withhold payments from contractors who fail to pay the prevailing wage. The contractor can, in turn, withhold payments to subcontractors who fail to pay the wage. To recover the wages or penalties withheld, the Code permits the contractor to sue for breach of contract. After the State Division of Labor Standards Enforcement (DLSE) determined that G &amp; G Fire Sprinklers, Inc., a public works subcontractor, had violated the Code, it withheld from the contractors an amount equal to the wages and penalties forfeited due to G &amp; G's violations. After its payment was withheld, G &amp; G filed suit against DLSE, claiming that the lacking of a hearing deprived it of property without due process in violation of the Fourteenth Amendment. Granting G &amp; G summary judgment, the District Court declared the relevant Code sections unconstitutional. Ultimately, the Court of Appeals affirmed. The court reasoned that G &amp; G's rights were violated not because it was deprived of immediate payment, but because the state statutory scheme afforded no hearing at all.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Chief Justice William H. Rehnquist, the Court held that because California state law affords G &amp; G sufficient opportunity to pursue its claim for payment under its contracts in state court, the statutory scheme does not deprive it of due process. A contractor's claim for payment is \"an interest...that can be fully protected by an ordinary breach-of-contract suit,\" wrote Chief Justice Rehnquist wrote for the Court. The Chief Justice continued that \"if California makes ordinary judicial process available to [G &amp; G] for resolving its contractual dispute, that process is due process.\"</p>\n"
+}

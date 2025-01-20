@@ -1,0 +1,42 @@
+{
+    "ID": 56148,
+    "name": "Michigan v. Environmental Protection Agency",
+    "href": "https://api.oyez.org/cases/2014/14-46",
+    "view_count": 0,
+    "docket_number": "14-46",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1416895200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41755"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1427259600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41756"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1435554000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52772"
+        }
+    ],
+    "question": "<p>Did the Environmental Protection Agency unreasonably refuse to consider costs in determining whether it was appropriate to regulate electric utility steam generating units?</p>\n",
+    "citation": {
+        "volume": "576",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20938"
+    },
+    "term": "2014",
+    "description": "A case in which the Court determined that the Environmental Protection Agency (EPA) unreasonably interpreted the Clean Air Act by not considering costs to power plants in deciding that regulation was \u201cappropriate and necessary.\u201d",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/576/743/",
+    "facts_of_the_case": "<p>The 1990 amendments to the Clean Air Act require that the Environmental Protection Agency (EPA) regulate electric utility steam generating units (EGUs) if it finds that such regulation was \"appropriate and necessary\" after conducting a utility study. In December 2000, the EPA issued a notice that such regulation was necessary based on the results of the utility study, which showed that the mercury emissions from EGUs were a threat to public health. In 2005, the EPA reversed its findings and determined that it was not \"appropriate and necessary\" to regulate coal-and oil-fired EGUs. States and other groups petitioned for review, and the U.S. Court of Appeals for the District of Columbia Circuit held that the EPA's attempt to reverse its findings was unlawful because it could not remove pollutant sources from the regulation list once they were on it. In 2012, the EPA confirmed that EGU regulation was necessary and promulgated emission standards. State, industry, and labor groups petitioned the appellate court for review of the EPA's interpretation of the \"appropriate and necessary\" requirement with respect to these regulations. The appellate court denied the petition.</p>\n",
+    "conclusion": "<p>Yes. Justice Antonin Scalia delivered the opinion of the 5-4 majority. The Court held that federal administrative agencies must engage in \u201creasoned decisionmaking,\u201d which requires the agency to consider all relevant factors. Because the cost to power plants is certainly a relevant factor when deciding whether to regulate electric utility steam generating units (EGUs), the Environmental Protection Agency (EPA), should have considered the cost to power plants in making its decision. The EPA erred in interpreting the \u201cappropriate and necessary\u201d requirement of the Clean Air Act because it was unreasonable to interpret the phrase as not requiring the EPA to consider all relevant factors, including cost to power plants.</p>\n<p>In his concurring opinion, Justice Clarence Thomas wrote that, although precedent established that the courts grant agencies a great deal of deference when agencies interpret statutes that Congress left ambiguous, such deference might result in courts allowing an unconstitutional delegation of legislative power.</p>\n<p>Justice Elena Kagan wrote a dissent in which she argued that the EPA\u2019s decision was reasonable because it fully intended to consider the cost-benefit analysis at a later stage in its decisionmaking process and in fact did so. Therefore, the majority opinion essentially finds the EPA\u2019s decision unreasonable because the EPA did not conduct a thorough cost-benefit analysis as the initial step of its decisionmaking. Because it is reasonable for the EPA to decide to consider costs after determining that regulation was \u201cappropriate and necessary,\u201d the courts cannot interfere in the agency\u2019s regulatory decisions. Justices Ruth Bader Ginsburg, Stephen G. Breyer, and Sonia Sotomayor joined in the dissent.</p>\n"
+}

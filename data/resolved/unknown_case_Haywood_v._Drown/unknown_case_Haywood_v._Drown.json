@@ -1,0 +1,42 @@
+{
+    "ID": 55612,
+    "name": "Haywood v. Drown",
+    "href": "https://api.oyez.org/cases/2008/07-10374",
+    "view_count": 0,
+    "docket_number": "07-10374",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1213592400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40309"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1228284000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40310"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1243314000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40311"
+        }
+    ],
+    "question": "<p>Does a state law barring civil claims against corrections officers violate the Supremacy Clause of the United States Constitution when it prohibits an inmate from bringing a claim for a violation of his civil rights under 42 U.S.C. 1983?</p>\n",
+    "citation": {
+        "volume": "556",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20780"
+    },
+    "term": "2008",
+    "description": "A case in which the Court found that prohibiting civil claims against correction officers in their official capacities violated the Supremacy Clause of the Constitution.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>Keith Haywood, while incarcerated at the Attica Correctional Facility in Attica, New York, was charged with several misbehavior reports in 2003 and 2004, including assaulting a corrections officer, failing a urinalysis test, and improperly soliciting mail. After being found guilty of these charges, Haywood commenced actions in state court against two of the corrections officers responsible for reviewing the claims under 42 U.S.C. 1983 (Section 1983), a federal statute protecting civil rights. He asserted that the guilty verdicts had been handed down without sufficient evidence, that the officers had tampered with the urinalysis test, and that they had conspired to fabricate the facts set forth in the misbehavior reports. The defendants moved to dismiss Haywood's claims, basing their argument on a New York law prohibiting civil claims such as Haywood's brought against corrections officers in their official capacities. Haywood responded by arguing that when Congress created Section 1983 it intended the statute to supersede any state laws contradicting it. Because Section 1983 allowed these claims, Haywood argued, the New York law prohibiting them violated the Supremacy Clause of the U.S. Constitution. The Supreme Court of New York (the state's lowest-level court) agreed with the defendants and dismissed Haywood's claim based on the New York law.</p>\n<p>The Court of Appeals of New York affirmed the Supreme Court's decision, finding that the Supremacy Clause permits states to deny enforcement of a federal right in a case where a state court lacks jurisdiction due to a neutral state rule regarding the courts' administration. Because Haywood's claim would be barred if brought under either Section 1983 or an applicable state law, the New York law barring the claim was valid and neutral and did not violate the Supremacy Clause.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court held that New York's Correction Law Section 24, prohibiting civil claims brought against corrections officers in their official capacities, as applied in Mr. Haywood's case, violated the Supremacy Clause and thus was unconstitutional. With Justice John Paul Stevens writing for the majority and joined by Justices Anthony M. Kennedy, David H. Souter, Ruth Bader Ginsburg, and Stephen G. Breyer, the Court noted that New York had passed Section 24 after determining most damages suits filed by prisoners against state corrections officers were frivolous. However, the Court reasoned that states may not relieve whole categories of federal claims from their courts merely to avoid congestion.</p>\n<p>Justice Clarence Thomas dissented and was joined in part by Chief Justice John G. Roberts, and Justices Antonin G. Scalia, and Samuel A. Alito. He argued that neither the Constitution nor Supreme Court precedent requires that states open their courts to Section 1983 claims. Thus, New York's law was not unconstitutional.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 62691,
+    "name": "Caetano v. Massachusetts",
+    "href": "https://api.oyez.org/cases/2015/14-10078",
+    "view_count": 0,
+    "docket_number": "14-10078",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1458536400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53464"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1458536400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53465"
+        }
+    ],
+    "question": "<p>Does the Second Amendment protect the right to possess a stun gun for self-defense?</p>\n",
+    "citation": {
+        "volume": "577",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27416"
+    },
+    "term": "2015",
+    "description": "A case in which the Court held the lower court erred in concluding that stun guns are not afforded Second Amendment protections.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/577/411/",
+    "facts_of_the_case": "<p>Jamie Caetano was convicted of possession of a stun gun in Massachusetts state court. Caetano appealed and claimed her conviction violated her Second Amendment right to possess a stun gun in public for the purpose of self-defense, which was necessary to protect herself from her abusive ex-boyfriend. The Supreme Judicial Court of Massachusetts affirmed Caetano\u2019s conviction and held that a stun gun is not eligible for Second Amendment protection.</p>\n",
+    "conclusion": "<p>In a per curiam opinion, the Court held that, although stun guns are unusual in nature and were not common during the enactment of the Second Amendment, they are included in the Second Amendment\u2019s protections. To hold otherwise would be inconsistent with the Supreme Court\u2019s decision in <em>District of Columbia v. Heller</em>, which held that Second Amendment protections extend to arms that were not in existence at the time of the founding.</p>\n<p>Justice Samuel A. Alito, Jr. filed a concurring opinion in which he reiterated the importance of access to self-defense and the rights afforded by the Second Amendment. Justice Clarence Thomas joined in the concurring opinion.</p>\n"
+}

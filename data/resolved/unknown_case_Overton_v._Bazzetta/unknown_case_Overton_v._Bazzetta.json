@@ -1,0 +1,35 @@
+{
+    "ID": 55117,
+    "name": "Overton v. Bazzetta",
+    "href": "https://api.oyez.org/cases/2002/02-94",
+    "view_count": 0,
+    "docket_number": "02-94",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1048658400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38950"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1055739600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38951"
+        }
+    ],
+    "question": "<p>Did the Department of Corrections ban on visits by minors violate the Due Process Clause of the Fourteenth Amendment, the Cruel and Unusual Punishment Clause of the Eighth Amendment and the freedom of association of the First Amendment?</p>\n",
+    "citation": {
+        "volume": "539",
+        "page": "126",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/19046"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/539/126/",
+    "facts_of_the_case": "<p>In 1995, after the Michigan Department of Corrections (MDOC) banned visits to inmates by little brothers and sisters, nieces, nephews and other minors, a group of prisoners sued. They claimed that the ban violated the Due Process Clause of the Fourteenth Amendment and the Cruel and Unusual Punishment Clause of the Eighth Amendment, and that it restricted their First Amendment right to association. The district court agreed, ruling against the ban. On appeal, the 6th Circuit Court of Appeals unanimously affirmed the district court's ruling.</p>\n",
+    "conclusion": "<p>No. In a 9-0 opinion delivered by Justice Anthony M. Kennedy, the Court held that the MDOC's regulations were valid. The Court reasoned that the fact that the regulations bear a rational relation to legitimate penological interests suffices to sustain them regardless of whether the prisoners have a constitutional right of association that has survived incarceration. The Court also concluded that the visitation restriction for inmates with two substance-abuse violations is not a cruel and unusual confinement condition violating the Eighth Amendment. The Court reasoned that withdrawing visitation privileges for a limited period is not a dramatic departure from accepted standards for confinement conditions. Justice Clarence Thomas, joined by Justice Antonin Scalia, filed an opinion concurring in the judgment.</p>\n"
+}

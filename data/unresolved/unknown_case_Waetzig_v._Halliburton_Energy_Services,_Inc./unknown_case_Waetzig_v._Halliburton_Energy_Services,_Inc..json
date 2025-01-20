@@ -1,0 +1,33 @@
+{
+    "ID": 63702,
+    "name": "Waetzig v. Halliburton Energy Services, Inc.",
+    "href": "https://api.oyez.org/cases/2024/23-971",
+    "view_count": 0,
+    "docket_number": "23-971",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1728018000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55530"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1736834400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55556"
+        }
+    ],
+    "question": "<p>Is a voluntary dismissal without prejudice under Federal Rule of Civil Procedure 41 a \u201cfinal judgment, order, or proceeding\u201d under Federal Rule 60(b)?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28036"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether a voluntary dismissal without prejudice under Federal Rule of Civil Procedure 41 is a \u201cfinal judgment, order, or proceeding\u201d under Federal Rule of Civil Procedure 60(b).",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-971/"
+}

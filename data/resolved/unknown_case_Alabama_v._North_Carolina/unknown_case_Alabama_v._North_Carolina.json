@@ -1,0 +1,42 @@
+{
+    "ID": 55652,
+    "name": "Alabama v. North Carolina",
+    "href": "https://api.oyez.org/cases/2009/132-orig",
+    "view_count": 0,
+    "docket_number": "132-orig",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1055739600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40418"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1263189600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40419"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1275368400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40420"
+        }
+    ],
+    "question": "<p>1) Do sovereign immunity principles require the dismissal of the commission as a plaintiff in this original action brought jointly by the commission and four states against North Carolina?</p>\n<p>2) Does the compact authorize the commission to impose monetary sanctions against North Carolina in response to North Carolina's alleged breach of its obligations?</p>\n",
+    "citation": {
+        "volume": "560",
+        "page": "330",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19575"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that Alabama did not have the power to impose monetary sanctions against North Carolina for violating a multi-state waste cleanup compact.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>Several states belonging to the Southeast Interstate Low-Level Radioactive Waste Management Compact (\"Compact\") and the commission created by the compact (\"Commission\") filed suit against North Carolina. The plaintiffs allege that North Carolina was designated as a host state for a waste management facility, accepted $80 million to build the facility, but then declined to fund, license, build, and operate it. The plaintiffs seek to recover the $80 million, a $10 million sanction, and attorneys' fees.</p>\n<p>The Supreme Court assigned the case to a Special Master who conducted proceedings and filed two reports. The Preliminary Report recommended denying North Carolina's motion to dismiss on sovereign immunity grounds; denying plaintiffs' motion for summary judgment as to Count I which sought enforcement of sanctions against North Carolina; granting North Carolina's motion to dismiss Count I; and denying North Carolina's motion to dismiss Counts II-V. The Special Master's Second Report recommended denying Plaintiffs' motion for summary judgment and granting North Carolina's motion for summary judgment on Count II; and denying North Carolina's motion for summary judgment on Counts III-V. The parties then filed a total of nine exceptions to the Special Master's Reports.</p>\n",
+    "conclusion": "<p>The Supreme Court held that the plaintiffs' seven exceptions are overruled. With Justice Antonin Scalia writing for the majority, the Court reasoned that the Compact does not authorize the Commission to impose monetary sanctions against North Carolina. Moreover, the Court reasoned that North Carolina did not breach its contractual obligation. The Court further held that North Carolina's two exceptions are overruled. The Court reasoned that the Special Master acted reasonably in denying North Carolina's motion for summary judgment with respect to Counts III-V.</p>\n<p>Justice Anthony M. Kennedy, joined by Justice Sonia Sotamayor, concurred in part and concurred in the judgment. He stated that, despite some reservations, the majority was correct to reject the plaintiffs' final exception to the Special Master's Reports. Chief Justice John G. Roberts, joined by Justice Clarence Thomas, concurred in part and dissented in part. He argued that <em>Arizona v. California</em>, relied on heavily by the majority, was a case \"built on sand,\" and thus, not sufficient to support the majority's conclusions. Justice Stephen G. Breyer, joined by Chief Justice Roberts, concurred in part and dissented in part. He argued that North Carolina did breach the Compact when it suspended its efforts to build a waste disposal facility.</p>\n"
+}

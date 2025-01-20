@@ -1,0 +1,35 @@
+{
+    "ID": 62269,
+    "name": "Williams v. Johnson",
+    "href": "https://api.oyez.org/cases/2013/13-9085",
+    "view_count": 0,
+    "docket_number": "13-9085",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1404190800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52640"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1404190800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52641"
+        }
+    ],
+    "question": "<p>(1) Did the Supreme Court's decision to reverse and remand the case bar further review of Williams' Sixth Amendment claim?</p>\n<p>(2) Did the Court's decision not to hear arguments on the second question in Williams' petition, regarding the Sixth Amendment issue, and not address the question in the opinion allow that question to be remanded for consideration by a lower court by default?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/27370"
+    },
+    "term": "2013",
+    "description": "A case which the Court remanded concerning whether or not a court violated a woman's Sixth Amendment rights after a juror was dismissed for not agreeing with other jurors during her capital murder trial.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>In October 1993, Tara Williams drove two of her friends to a liquor store in Long Beach, California, with the intent to commit a robbery. Williams waited in the car to serve as the getaway driver while her friends stole the cash from the liquor store and fatally shot the store's owner. Five years later, Williams was apprehended and charged with first-degree murder. At trial, the judge discharged a juror for bias and replaced that juror with an alternate, after which the jury convicted Williams for first-degree murder. The California Court of Appeal affirmed the conviction. While Williams' petition to the California Supreme Court was pending, that court decided a case that held that a court abused its discretion when it dismissed a juror who seemed to disagree with the other jurors. Based on that decision, the California Supreme Court remanded Williams' case, and the California Court of Appeal issued a revised opinion holding that the lower court had not abused its discretion by dismissing the juror.</p>\n<p>Williams filed a federal habeas corpus petition, but the district court denied relief under the Antiterrorism and Effective Death Penalty Act of 1996, which restricts federal habeas relief to cases that have already been adjudicated on their merits in state court. The U.S. Court of Appeals for the Ninth Circuit reversed and held that the California Court of Appeal had disregarded Williams' argument that dismissal of the juror in question violated the Sixth Amendment. In a unanimous decision, the U.S. Supreme Court reversed and held that the California court had adjudicated the case on the merits, even if the Sixth Amendment claim was not explicitly addressed. On remand, the Court of Appeals affirmed the lower court's denial of habeas relief.</p>\n",
+    "conclusion": "<p>Unanswered, unanswered. In a per curiam opinion, the Court reversed the judgment of the U.S. Court of Appeals for the Ninth Circuit and remanded the case for consideration of Williams' Sixth Amendment claim.</p>\n"
+}

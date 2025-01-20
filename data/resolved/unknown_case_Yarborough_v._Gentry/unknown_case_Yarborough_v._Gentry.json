@@ -1,0 +1,28 @@
+{
+    "ID": 55159,
+    "name": "Yarborough v. Gentry",
+    "href": "https://api.oyez.org/cases/2003/02-1597",
+    "view_count": 0,
+    "docket_number": "02-1597",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1066626000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39060"
+        }
+    ],
+    "question": "<p>Was a federal appellate court correct in determining that a state appellate court was \"objectively unreasonable\" for ruling that Gentry's Sixth Amendment right to effective counsel was not violated?</p>\n",
+    "citation": {
+        "volume": "540",
+        "page": "1",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/19087"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/540/1/",
+    "facts_of_the_case": "<p>A jury convicted Gentry in state court for stabbing his girlfriend. Gentry appealed, arguing his lawyer's closing argument deprived him of his federal Sixth Amendment right to effective assistance of counsel. While Gentry's appeal lost in state courts, the U.S. Ninth Circuit Court of Appeals reversed Gentry's conviction.</p>\n",
+    "conclusion": "<p>No. In a unanimous per curiam opinion, the Court ruled that the state appellate court was not \"objectively unreasonable\" in determining that Gentry's effective-counsel right was not violated. If a state court rejects an ineffective-assistance claim, a federal court may reverse this only if the decision was \"objectively unreasonable.\" The right to effective assistance of counsel \"is denied when a defense attorney's performance falls below an objective standard of reasonableness.\" While Gentry's lawyer \"was no Aristotle,\" the federal judiciary must respect the state court's reasonable conclusion that the lawyer was sufficient.</p>\n"
+}

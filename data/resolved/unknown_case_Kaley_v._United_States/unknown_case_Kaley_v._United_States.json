@@ -1,0 +1,42 @@
+{
+    "ID": 56011,
+    "name": "Kaley v. United States",
+    "href": "https://api.oyez.org/cases/2013/12-464",
+    "view_count": 0,
+    "docket_number": "12-464",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1363582800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41346"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1381899600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41347"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1393308000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41573"
+        }
+    ],
+    "question": "<p>Do the Fifth and Sixth Amendments require a district court to allow a criminal defendant to challenge the evidence behind her charges in a pretrial hearing when a protective order freezes the assets necessary for the defendant to hire her attorney?</p>\n",
+    "citation": {
+        "volume": "571",
+        "page": "320",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20885"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that the Fifth and Sixth Amendments do not allow an individual to use funds obtained illegally to pay for an attorney.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/571/320/",
+    "facts_of_the_case": "<p>In 2005, a grand jury began investigating Kerri Kaley and her husband Brian Kaley for stealing prescription medical devices from hospitals. In February 2007, the grand jury indicted the Kaleys on seven criminal counts. One of these counts was a criminal forfeiture count, which would require the Kaleys to forfeit all property that could be traced to their offenses. This property included a certificate of deposit for $500,000, which the Kaleys intended to use to pay their defense attorneys.</p>\n<p>Following the indictment, the district court issued a protective order preventing the Kaleys from transferring or disposing of any property in the forfeiture count. The Kaleys moved to vacate the order because it prevented them from hiring their attorneys in violation of their right to counsel protected by the Sixth Amendment to the U.S. Constitution. The district court denied their motion without granting a pretrial evidentiary hearing. The Kaleys appealed to the United States Court of Appeals for the Eleventh Circuit, which reversed and remanded.</p>\n<p>On remand, the district court granted a pretrial hearing, but limited it to the question of whether the property in the forfeiture count was traceable to the Kaleys' offenses. When the Kaleys failed to present evidence regarding traceability, the district court refused to vacate the protective order. The Kaleys appealed again, arguing that they should have been allowed to challenge the validity of the indictment in the pretrial hearing. The appellate court disagreed and affirmed the lower court's decision.</p>\n",
+    "conclusion": "<p>No. Justice Elena Kagan delivered the opinion for the 6-3 majority. The Court held that the Fifth and Sixth Amendments do not allow a defendant to use ill-gotten gains to pay an attorney. The Court also held that, since the government had the power to restrain persons given probable cause that they committed a crime, it follows that the government can constitutionally restrain property as well. Similarly, because the criminal justice system entrusts to the grand jury the determination of whether there is probable cause to restrain a defendant prior to trial, there is not reason to use another method to determine whether there is probable cause to restrain a defendant's property. The Court also held that the alternative ruling, which would allow a judge to overrule a grand jury's finding of probable cause, could have destructive impacts on the criminal justice system as a whole. Previous precedent has maintained that there is no need for an adversarial hearing to determine probable cause because it is such a relatively low standard of proof, and the Court found no reason to depart from that precedent in this case.</p>\n<p>In his dissent, Chief Justice John G. Roberts, Jr. wrote that, while the Sixth Amendment right to counsel does not equate to an absolute right to choice of counsel, the right cannot be denied based on the discretion of the prosecutor. Chief Justice Roberts argued that the issue of the forfeiture of assets is entirely separate from the issue of indictment for a crime and requires different evidence. Therefore, a hearing to determine whether the Kaleys' assets were forfeitable would not be relitigating a decided issue but rather allowing a judge to determine whether the government met its burden. Chief Justice Roberts also argued that the majority opinion essentially allows the government to deprive defendants of the counsel of their choice, which is fundamentally at odds with the ideals of the criminal justice system. While the government does have a legitimate interest in ensuring that ill-gotten assets are available to be returned if the defendant is convicted, there are other ways to protect the assets that do not require the defendant to forfeit his right to the counsel of his choice. Justice Stephen G. Breyer and Justice Sonia Sotomayor joined in the dissent.</p>\n"
+}

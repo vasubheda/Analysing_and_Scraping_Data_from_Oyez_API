@@ -1,0 +1,35 @@
+{
+    "ID": 54466,
+    "name": "Cooper v. Oklahoma",
+    "href": "https://api.oyez.org/cases/1995/95-5207",
+    "view_count": 0,
+    "docket_number": "95-5207",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                821858400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37735"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                829630800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37736"
+        }
+    ],
+    "question": "<p>May state law presume that defendants are competent to stand trial unless they prove their incompetence by clear and convincing evidence without violating the Due Process Clause of the Fourteenth Amendment?</p>\n",
+    "citation": {
+        "volume": "517",
+        "page": "348",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18395"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/517/348/",
+    "facts_of_the_case": "<p>Byron Keith Cooper was charged with the murder of an 86-year-old man in the course of a burglary. After an Oklahoma jury found him guilty of first-degree murder and recommended punishment by death, the trial court imposed the death penalty. Cooper's competence was considered on five separate occasions, whether he had the ability to understand the charges against him and to assist defense counsel. Oklahoma law presumes that a criminal defendant is competent to stand trial unless he proves his incompetence by clear and convincing evidence. Despite Cooper's bizarre behavior and conflicting expert testimony, he was found competent on separate occasions before and during his trial. In affirming the conviction and sentence, the Oklahoma Court of Criminal Appeals rejected Cooper's argument that the State's presumption of competence, combined with its clear and convincing evidence standard, placed such an onerous burden on him as to violate due process under the Fourteenth Amendment.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice John Paul Stevens, the Court held that because Oklahoma's procedural rule allows the State to try a defendant who is more likely than not incompetent, it violates due process. Justice Stevens wrote for the court that the stringent standard is \"incompatible with the dictates of due process,\" and that criminal defendants must be allowed to avoid trial if they prove incompetence by a \"preponderance of the evidence.\"</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55658,
+    "name": "Padilla v. Kentucky",
+    "href": "https://api.oyez.org/cases/2009/08-651",
+    "view_count": 0,
+    "docket_number": "08-651",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1235368800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40433"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1255410000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40434"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1270011600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40435"
+        }
+    ],
+    "question": "<p>1) Is the mandatory deportation that results from a guilty plea to trafficking in marijuana a \"collateral consequence\" that relieves counsel of an affirmative duty to advise his client per the guarantees of the Sixth Amendment?</p>\n<p>2) Assuming deportation is a \"collateral consequence\", can counsel's gross misadvice about deportation constitute a ground for setting aside a guilty plea that is induced by that advice?</p>\n",
+    "citation": {
+        "volume": "559",
+        "page": "356",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19580"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that counsel must inform a client whether or not his plea carries a risk of deportation under the Sixth Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/559/356/",
+    "facts_of_the_case": "<p>Jose Padilla was indicted by a Kentucky grand jury on counts of trafficking in marijuana, possession of marijuana, possession of drug paraphernalia, and operating a tractor/trailer without a weight and distance tax number. On advice from his lawyer, he entered a guilty plea with respect to the three drug charges in exchange for dismissal on the final charge. He subsequently filed for post-conviction relief arguing that he was misadvised about the potential for deportation as a consequence of his guilty plea. The Kentucky Court of Appeals reversed Mr. Padilla's conviction and remanded the case for an evidentiary hearing.</p>\n<p>On appeal to the Kentucky Supreme Court, the court, relying on its decision in <em>Commonwealth v. Fuartado</em>, reversed the court of appeals. It held that collateral consequences of advice by counsel is outside the scope of the guarantee of the Sixth Amendment's right to counsel. It reasoned that counsel's advice on the consequences of a plea with respect to immigration is not required and therefore cannot constitute ineffectiveness.</p>\n",
+    "conclusion": "<p>No. Not answered. The Supreme Court held that counsel must inform a client whether his plea carries a risk of deportation. With Justice John Paul Stevens writing for the majority, the Court reasoned that counsel's advice with respect to deportation is not categorically removed from the scope of the Sixth Amendment. Here, Mr. Padilla's Sixth Amendment right to counsel was violated because counsel could have easily determined that a guilty plea would make Mr. Padilla eligible for deportation. The Court did not address whether Mr. Padilla was prejudiced by his counsel's deficiency and entitled to relief. The Court then remanded the case to the Supreme Court of Kentucky for proceedings consistent with the opinion.</p>\n<p>Justice Samuel A. Alito, joined by Chief Justice John G. Roberts, wrote separately, concurring. He criticized the Court for adopting a halfway standard where defense counsel must advise a client on immigration law when it is \"succinct and straightforward\" but not necessarily in other situations. He predicted that this instruction would lead to confusion and needless litigation. Justice Antonin Scalia, joined by Justice Clarence Thomas, also wrote separately, dissenting. He criticized the majority for expanding the text of the Sixth Amendment beyond merely providing the defendant counsel to providing him \"sound advice about the collateral consequences of conviction.\" He mused that the Constitution is not an \"all-purpose tool\" to create a perfect world.</p>\n"
+}

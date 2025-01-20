@@ -1,0 +1,42 @@
+{
+    "ID": 55908,
+    "name": "Evans v. Michigan",
+    "href": "https://api.oyez.org/cases/2012/11-1327",
+    "view_count": 0,
+    "docket_number": "11-1327",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1339390800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41087"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1352181600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41088"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1361340000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41089"
+        }
+    ],
+    "question": "<p>Does the Double Jeopardy Clause bar retrial after the trial judge wrongly holds a particular fact to be an element of the offense and then grants a directed verdict of acquittal because the prosecution failed to prove that fact?</p>\n",
+    "citation": {
+        "volume": "568",
+        "page": "313",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19830"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that the Double Jeopardy clause bars a second trial even if the acquittal of the first trial was done in error.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/568/313/",
+    "facts_of_the_case": "<p>Lamar Evans was accused of burning a vacant house in Detroit, Michigan. He was charged with \"burning other real property.\" The trial court required the prosecution to prove that the building was not a dwelling, although that is not an element of the crime under Michigan law. As a result of this extra element, the court granted Evans' motion for a directed verdict of acquittal. The Court of Appeals of Michigan reversed the trial court decision and remanded for further proceedings. The court held that Double Jeopardy did not bar a retrial because the trial court did not resolve any factual element of the case. The directed verdict was based only on the prosecution's failure to prove an element that is not part of the crime. The Supreme Court of Michigan affirmed.</p>\n",
+    "conclusion": "<p>Yes. Justice Sonia Sotomayor, in an 8-1 opinion, reversed the lower court's decision and held that the Double Jeopardy Clause under the Fifth Amendment of the U.S. Constitution bars Evans' retrial. Even though the trial judge arrived at his ruling by erroneously adding a statutory element, Evans was acquitted for double jeopardy purposes. In general, any ruling based on the prosecution's failure to establish criminal liability will result in an acquittal. However, the Court distinguishes between an acquittal granted for substantive purposes and one granted for procedural purposes. When determining whether double jeopardy applies, only an acquittal based on the culpability of the defendant will conclude the proceedings entirely. If the acquittal is merely procedural and unrelated to the factual guilt or innocence of the defendant, there is no expectation that double jeopardy will bar further proceedings. The Court held that the trial court's acquittal factually resolved whether Evans was guilty or not; therefore it would be unfair to prosecute him again for the same crime.</p>\n<p>Justice Samuel A. Alito Jr. filed a dissenting opinion, arguing that the majority's ruling goes beyond the original intent of the Double Jeopardy Clause. The Double Jeopardy Clause is intended to protect people from prosecutors' repeat attempts to convict an individual for the same offense. Since Evans moved for the directed verdict himself, the typical fear of repeat prosecution by the State does not arise. Despite the trial judge's error, the State was entitled to one complete opportunity to convict the defendant.</p>\n"
+}

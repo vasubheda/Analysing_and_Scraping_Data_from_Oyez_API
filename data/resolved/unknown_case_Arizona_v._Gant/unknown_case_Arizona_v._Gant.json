@@ -1,0 +1,35 @@
+{
+    "ID": 55121,
+    "name": "Arizona v. Gant",
+    "href": "https://api.oyez.org/cases/2003/02-1019",
+    "view_count": 0,
+    "docket_number": "02-1019",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1050901200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38955"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1066626000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38956"
+        }
+    ],
+    "question": "<p>When police arrest the recent occupant of a vehicle who got out voluntarily, can they search the vehicle without a warrant?</p>\n",
+    "citation": {
+        "volume": "540",
+        "page": "963",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/19050"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>Arizona police went to the home of Rodney Gant in search of drugs and to arrest him for failing to appear in court. When they arrived at the house, Gant was not there (though two other people were in his home, one of whom was in possession of a crack pipe) but while the police were still at the house Gant pulled into the driveway. While Gant was still in his car, an officer shined a flashlight into the vehicle, but the police made no other contact with him until he stepped out of the car. After he was out of the car, the police searched it and found drugs and a handgun. Gant was arrested and charged with possession of drugs and drug paraphernalia.</p>\n<p>Before trial, Gant asked the judge to rule the evidence found in the car unconstitutional because the search had been conducted without a warrant in violation of the Fourth Amendment's prohibition of unreasonable searches and seizures. The trial judge denied the motion, ruling that the search was a direct result of Gant's lawful arrest and therefore an exception to the general Fourth Amendment warrant requirement under New York v. Belton (1981). Gant was convicted and sentenced to three years in prison.</p>\n<p>Gant appealed, and the Arizona Court of Appeals reversed the conviction, ruling the search unconstitutional. The court found that exceptions to the Fourth Amendment warrant requirement must be justified by concerns for officer safety or evidence preservation. The court ruled that these justifications did not apply in Gant's case because he had left the vehicle voluntarily without being stopped by police or asked to get out of the car. The search of the vehicle was therefore not directly connected to the arrest and, without that justification, clearly violated the Fourth Amendment.</p>\n",
+    "conclusion": "<p>On October 20, 2003, without issuing a decision in the case, the Court sent it back to Arizona state court for further consideration in light of the Arizona case State v. Dean. The issue raised in this case, however, was decided by the U.S. Supreme Court later in the same term. On May 24, 2004, the Court issued a decision in the case of Thornton v. U.S., finding that police could constitutionally search a vehicle even after its occupant has left it voluntarily.</p>\n"
+}

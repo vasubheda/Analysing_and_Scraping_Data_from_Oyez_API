@@ -1,0 +1,42 @@
+{
+    "ID": 55782,
+    "name": "Fox v. Vice",
+    "href": "https://api.oyez.org/cases/2010/10-114",
+    "view_count": 0,
+    "docket_number": "10-114",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1288587600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40745"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1300770000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40746"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1307336400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40747"
+        }
+    ],
+    "question": "<p>Can a court award attorneys' fees to civil rights defendants based on a dismissal of a claim when the plaintiff has asserted other nonfrivolous claims?</p>\n",
+    "citation": {
+        "volume": "563",
+        "page": "826",
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19704"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that a court may award attorney's fees to civil rights defendants when the plaintiff's suit involves frivolous and non-frivolous claims, but only for the costs incurred due to the frivolous claims. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/563/826/",
+    "facts_of_the_case": "<p>In January 2005, Vinton, Louisiana Police Chief Billy Ray Vice, who was seeking re-election to his post, sent fellow candidate Ricky Fox an \"anonymous\" letter trying to blackmail him into dropping out of the race. A month later, someone accused Fox of uttering a racial slur and, at Vice's instigation, filed a false police report regarding Fox's alleged use of the term. Fox brought a civil rights suit against Vice and the town in state court in December 2005, asserting both state and federal claims, and the case was removed to federal court in January 2006. Separately, in April 2007, Vice was tried and found guilty of extortion in state criminal court for the anonymous letter. In 2007, in response to a motion filed by the defendants, Fox admitted that he had failed to properly present any federal cause of action, so the district court dismissed Fox's federal claims with prejudice and remanded the remaining state law claims to state court. The district court then granted the defendants' motion for attorneys' fees, finding that Fox's federal claims were frivolous, unreasonable and without foundation. Fox appealed the fee award to the U.S. Court of Appeals for the Fifth Circuit, and in a split decision the appeals court affirmed the district court's order.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court vacated and remanded the lower court order in a unanimous opinion by Justice Elena Kagan. \"When a plaintiff's suit involves both frivolous and non-frivolous claims, a court may grant reasonable fees to the defendant, but only for costs that the defendant would not have incurred but for the frivolous claims,\" Kagan wrote.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 63449,
+    "name": "George v. McDonough",
+    "href": "https://api.oyez.org/cases/2021/21-234",
+    "view_count": 0,
+    "docket_number": "21-234",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1642140000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55033"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1650344400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55077"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1655269200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55117"
+        }
+    ],
+    "question": "<p>When the Department of Veterans Affairs denies a veteran\u2019s claim for benefits in reliance on an agency interpretation later deemed invalid under the plain text of the statutory provisions in effect at the time of the denial, is that the kind of \u201cclear and unmistakable error\u201d that the veteran may invoke to challenge the VA\u2019s decision?</p>\n",
+    "citation": {
+        "volume": "596",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27874"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held that \u201cclear and unmistakable error,\u201d in the context of a veteran\u2019s challenge of a denial of benefits by the Department of Veterans Affairs, does not include the invalidation of a VA regulation.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/596/21-234/",
+    "facts_of_the_case": "<p>Kevin R. George and Michael B. Martin are both military veterans who sought and were denied disability benefits several decades ago based on the straightforward application of a regulation. Since then, the regulation was overturned, so George and Martin sought revision of those denial decisions based on the \u201cclear and unmistakable error\u201d (CUE) by the VA.</p>\n<p>The Board of Veterans\u2019 Appeals denied the motions, holding that it was not clear and unmistakable error to faithfully apply a regulation that existed at the time. The U.S. Court of Appeals for the Federal Circuit affirmed.</p>\n",
+    "conclusion": "<p>The invalidation of a Department of Veterans Affairs regulation after a veteran\u2019s benefits decision becomes final cannot support a claim for collateral relief permitting revision of that decision based on \u201cclear and unmistakable error.\u201d Justice Amy Coney Barrett authored the majority opinion of the Court.</p>\n<p>The \u201cclean and unmistakable error\u201d doctrine evolved over several decades. Its history reveals that this category of error does not encompass a subsequent change in law or in interpretation of law. Because the invalidation of a prior regulation constitutes a \u201cchange in interpretation of law,\u201d this type of error does not encompass a claim like George\u2019s.</p>\n<p>Justice Sonia Sotomayor authored a dissenting opinion, arguing that the history of \u201cclear and unmistakable error\u201d is not so clear as the majority suggests.</p>\n<p>Justice Neil Gorsuch authored a dissenting opinion, in which Justices Stephen Breyer and Sonia Sotomayor joined. Justice Gorsuch argued that the Court erroneously excuses an agency\u2019s departure from its statutory commands.</p>\n<p>\u00a0</p>\n"
+}

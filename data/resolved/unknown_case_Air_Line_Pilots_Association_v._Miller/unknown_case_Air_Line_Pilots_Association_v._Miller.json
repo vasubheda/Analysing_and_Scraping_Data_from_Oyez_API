@@ -1,0 +1,35 @@
+{
+    "ID": 54660,
+    "name": "Air Line Pilots Association v. Miller",
+    "href": "https://api.oyez.org/cases/1997/97-428",
+    "view_count": 0,
+    "docket_number": "97-428",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                890632800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38096"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                896158800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38097"
+        }
+    ],
+    "question": "<p>Must the nonunion pilots go through arbitration before going to court to challenge the fees they are required to pay to the union under the \"agency-shop\" agreement?</p>\n",
+    "citation": {
+        "volume": "523",
+        "page": "866",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18589"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/523/866/",
+    "facts_of_the_case": "<p>The Air Line Pilots Association (ALPA), a private-sector labor organization, represents pilots employed by Delta Air Lines. The collective-bargaining agreement between ALPA and Delta includes an \"agency shop\" clause that requires nonunion Delta pilots to pay ALPA a monthly service charge for representing them. 153 Delta pilots challenged in federal-court action the manner in which ALPA calculated agency fees. Under ALPA policy pilots who object to the fee calculation may request arbitration proceedings. When 174 Delta pilots filed objections to the agency-fee calculation, the ALPA treated the objections as requests for arbitration. The arbitrator sustained ALPA's calculation. The District Court concluded that the pilots seeking to challenge the fee calculation must exhaust arbitral remedies before proceeding in court. The Court of Appeals reversed the District Court. It found no legal basis for requiring objectors to arbitrate agency-fee challenges when they had not agreed to do so.</p>\n",
+    "conclusion": "<p>No. In a 7-2 decision, announced by Justice Ruth Bader Ginsburg, the Court ruled the nonunion pilots cannot be forced to go through arbitration. \"Unless they agree to the procedure, agency-fee objectors may not be required to exhaust an arbitration remedy before bringing their claims in federal court,\" wrote Ginsburg.</p>\n"
+}

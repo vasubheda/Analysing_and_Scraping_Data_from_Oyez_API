@@ -1,0 +1,35 @@
+{
+    "ID": 54502,
+    "name": "Lindh v. Murphy",
+    "href": "https://api.oyez.org/cases/1996/96-6298",
+    "view_count": 0,
+    "docket_number": "96-6298",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                860994000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37803"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                867042000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37804"
+        }
+    ],
+    "question": "<p>Does the Antiterrorism and Effective Death Penalty Act of 1996, which amended the previous federal habeas statute, govern habeas applications in non-capital cases that were pending when the Act was enacted?</p>\n",
+    "citation": {
+        "volume": "521",
+        "page": "320",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18431"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/521/320/",
+    "facts_of_the_case": "<p>Aaron Lindh was convicted on multiple charges of murder and attempted murder in Wisconsin. Arguing that the Confrontation Clause was violated when the trial court barred him from questioning the motives of the State's psychiatrist, Lindh was denied relief on direct appeal. Lindh's subsequent federal habeas corpus application was also denied. After Lindh appealed again, the Antiterrorism and Effective Death Penalty Act of 1996 amended the federal habeas statute. Following an en banc rehearing to consider the Act's impact, the Court of Appeals held that applying the new version of the law to pending cases would not have a retroactive effect because it would not attach new legal consequences to events preceding the Act's enactment.</p>\n",
+    "conclusion": "<p>No. In a 5-4 opinion delivered by Justice David H. Souter, the Court held that the 1996 version of the federal habeas statute, as to standards affecting the entitlement of state prisoners to federal habeas corpus relief, does not to apply to non-capital habeas corpus cases that were pending when the Act was enacted. The Court reasoned that the statute's retroactive application was improper because new legal consequences attached. Chief Justice William H. Rehnquist wrote a dissenting opinion, in which Justices Antonin Scalia, Anthony M. Kennedy and Clarence Thomas joined.</p>\n"
+}

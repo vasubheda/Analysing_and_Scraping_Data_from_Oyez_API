@@ -1,0 +1,33 @@
+{
+    "ID": 63653,
+    "name": "Glossip v. Oklahoma",
+    "href": "https://api.oyez.org/cases/2024/22-7466",
+    "view_count": 0,
+    "docket_number": "22-7466",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1705903200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55398"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1728450000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55514"
+        }
+    ],
+    "question": "<p>May Oklahoma carry out the execution of Richard Glossip in light of the prosecutorial misconduct and other errors that affected his conviction and sentencing?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28006"
+    },
+    "term": "2024",
+    "description": "A capital case in which the Court will decide whether to allow Oklahoma to execute Petitioner Richard Glossip after numerous instances of prosecutorial misconduct and other errors, where even the state no longer defends the capital sentence.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/22-7466/"
+}

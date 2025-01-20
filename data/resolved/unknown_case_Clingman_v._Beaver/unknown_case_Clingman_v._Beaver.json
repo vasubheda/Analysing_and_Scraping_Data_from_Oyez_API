@@ -1,0 +1,42 @@
+{
+    "ID": 55237,
+    "name": "Clingman v. Beaver",
+    "href": "https://api.oyez.org/cases/2004/04-37",
+    "view_count": 0,
+    "docket_number": "04-37",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1096347600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39275"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1106114400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39276"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1116824400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39277"
+        }
+    ],
+    "question": "<p>Do state election laws that restrict the voters a party may invite to vote in its primary election violate the First Amendment rights to freedom of expression and association?</p>\n",
+    "citation": {
+        "volume": "544",
+        "page": "581",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19165"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/544/581/",
+    "facts_of_the_case": "<p>Oklahoma's election laws created a primary system in which a party could invite only its own members and Independents to vote in its primary. The Libertarian Party and voters registered in other parties argued the laws violated the First Amendment freedoms of expression and association by preventing the Libertarian Party from inviting members of other parties to vote in its primary elections. The district court ruled for Oklahoma. The Tenth Circuit Court of Appeals reversed and ruled Oklahoma's election laws violated the First Amendment.</p>\n",
+    "conclusion": "<p>No. In a 6-3 opinion delivered by Justice Clarence Thomas, the Court held that Oklahoma's semiclosed primary system did not violate the right to freedom of association and that any burden it imposed was minor and justified by legitimate state interests. The Court noted that not every electoral law burdening associational rights was subject to strict scrutiny. Requiring voters to register with a party before participating in its primary minimally burdened voters' associational rights. Moreover, Oklahoma's primary advanced a number of state interests, including the preservation of parties as viable and identifiable interest groups.</p>\n"
+}

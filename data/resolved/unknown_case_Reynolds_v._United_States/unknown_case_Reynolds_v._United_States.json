@@ -1,0 +1,42 @@
+{
+    "ID": 55872,
+    "name": "Reynolds v. United States",
+    "href": "https://api.oyez.org/cases/2011/10-6549",
+    "view_count": 0,
+    "docket_number": "10-6549",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1295848800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40983"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1317618000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40984"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1327298400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40985"
+        }
+    ],
+    "question": "<p>1. Does Reynolds have standing under SORNA to raise claims concerning the Attorney General's Interim Rule?</p>\n<p>2. Is review by the Court necessary to resolve a split among the circuit courts?</p>\n",
+    "citation": {
+        "volume": "565",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19794"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that under the Sex Offender Registration and Notification Act, pre-Act offenders are not obligated to register without affirmative action of the Attorney General.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/565/432/",
+    "facts_of_the_case": "<p>Billy Joe Reynolds pleaded guilty to one count of knowingly failing to register and update a registration, in violation of the Sex Offender Registration and Notification Act (SORNA). On appeal, he challenged the constitutionality of SORNA and the legality of the Interim Rule implementing that law. He also argued that his guilty plea should be invalidated because he is \"actually innocent\" of violating SORNA's registration requirements. The United States Court of Appeals for the Third Circuit rejected his arguments and affirmed the conviction.</p>\n",
+    "conclusion": "<p>Yes and yes. In a 7-2 decision written by Justice Stephen Breyer, the Court held that without an affirmative action by the Attorney General, pre-act offenders would not be obligated to register under SORNA. Hence, the Interim Rule must be valid for Reynolds to fall within SORNA's authority and there remains a justiciable question. Breyer looked to the relevant text of SORNA, which mandates that sex offenders register with the state and keep their registration current when moving to a different state. The act also stated, however, that the Attorney General has the authority to specify the applicability of SORNA with respect to sex offenders convicted prior to SORNA's enactment. He noted Congress' use of the word \"applicability\" as opposed to \"nonapplicability\", inferring that Congress wanted to give the Attorney General the discretion to apply SORNA to pre-act offenders, not the authority to make exceptions to SORNA. He reasoned, in part, that Congress wished to give the Justice Department some leeway with SORNA's applicability, given that the Justice Department is tasked with the act's enforcement. The Court therefore reversed the Third Circuit's decision and remanded the case to determine if the Attorney General's Interim Rule is a valid specification.</p>\n"
+}

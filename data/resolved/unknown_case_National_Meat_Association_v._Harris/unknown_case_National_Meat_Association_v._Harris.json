@@ -1,0 +1,42 @@
+{
+    "ID": 55892,
+    "name": "National Meat Association v. Harris",
+    "href": "https://api.oyez.org/cases/2011/10-224",
+    "view_count": 0,
+    "docket_number": "10-224",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1309150800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41039"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1320818400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41040"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1327298400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41041"
+        }
+    ],
+    "question": "<p>Is a California law requiring slaughterhouses to \"immediately euthanize\" any nonambulatory animal on its premises preempted by the Federal Meat Inspection Act?</p>\n",
+    "citation": {
+        "volume": "565",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19814"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that a California law requiring slaughterhouses to \"immediately euthanize\" any nonambulatory animal on its premises is preempted by the Federal Meat Inspection Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/565/452/",
+    "facts_of_the_case": "<p>The National Meat Association contends that the Federal Meat Inspection Act prevents California from imposing its requirements on federally inspected slaughterhouses. In 2008, the state enacted the law after the Humane Society of the United States released a video of so-called downer cows being kicked, electrocuted, dragged with chains and rammed with a forklift at a slaughterhouse. The California law bans slaughterhouses from buying or selling downer cows and from butchering them for human consumption. The measure also requires humane handling of the animals.</p>\n<p>The U.S. Court of Appeals for the Ninth Circuit refused to grant a preliminary injunction blocking the law. Although the court said the humane-handling provision probably was pre-empted by federal law, the three-judge panel declined to block it, saying the trade group hadn't shown its members would suffer \"irreparable injury.\"</p>\n",
+    "conclusion": "<p>Yes. In a unanimous decision authored by Justice Elena Kagan, Court reversed the lower court, holding that the Federal Meat Inspection Act's preemption clause applied broadly to any additional or different regulations a state imposes on slaughterhouses. The act prevails even where state law does not conflict with the federal act. The Court rejected arguments that the Act did not apply to animals rendered non-ambulatory before reaching the slaughterhouse. The Court also held that the criminal penalties imposed by the state law were more than a mere incentive to improve humane animal slaughter practices.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 63041,
+    "name": "Manhattan Community Access Corp. v. Halleck",
+    "href": "https://api.oyez.org/cases/2018/17-1702",
+    "view_count": 0,
+    "docket_number": "17-1702",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1539320400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54373"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1551074400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54440"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1560747600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54533"
+        }
+    ],
+    "question": "<p>Are private operators of public access channels state actors subject to constitutional liability?</p>\n",
+    "citation": {
+        "volume": "587",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27632"
+    },
+    "term": "2018",
+    "description": "A case in which the Court held that Manhattan Community Access Corp, which operates public access channels, is not a state actor subject to constitutional liability.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/587/17-1702/",
+    "facts_of_the_case": "<p>A New York regulation requires cable-TV networks with 36 or more channels to provide \u201cat least one full-time activated channel for public-access use.\u201d This channel must be open to the \u201cpublic on a first-come, first-served, non-discriminatory basis.\u201d New York City awarded cable franchises for Manhattan to Time Warner, provided that Time Warner provide four public-access channels, which are designated to be overseen by the Manhattan Community Access Corporation (MCAC), known as the Manhattan Neighborhood Network (MNN).</p>\n<p>Petitioners DeeDee Halleck and Jesus Papoleto Melendez have had a contentious relationship with MNN since 2011, and their feud culminated in August 2013 with MNN suspending both Melendez and Halleck from all MNN services and facilities. They filed a lawsuit against MCAC, several employees, and the City of New York, alleging violations of their First Amendment rights.</p>\n<p>Generally, private actors cannot violate the constitutional rights of individuals; a finding of a constitutional violation requires \u201cstate action.\u201d However, when the government creates a private entity by special law and retains authority to appoint a majority of directors, the actions of that private entity can sometimes be regarded as governmental action. Finding that the government retained authority to appoint only two of the thirteen members of MCAC\u2019s board, the district court held that MCAC, its employees, and the City of New York did not create a public forum within the First Amendment and dismissed the First Amendment claim for lack of state action. A majority of a three-judge panel of the US Court of Appeals for the Second Circuit affirmed as to the City of New York but reversed as to MCAC and its employees, relying on the Supreme Court\u2019s decision in <a href=\"https://www.oyez.org/cases/1995/95-124\"><em>Denver Area Educational Telecommunications Consortium v. FCC</em></a> to find that New York City had \u201cdelegated to MNN the traditionally public function of administering and regulating speech in the public forum\u201d of public-access cable television. Thus, MNN creates a public forum and functions as a state actor.</p>\n",
+    "conclusion": "<p>Private operators of public access channels are not state actors and therefore are not subject to constitutional liability. Justice Brett Kavanaugh authored the opinion for the 5-4 majority.</p>\n<p>The Free Speech Clause prohibits the government from abridging a person\u2019s speech, and the Court\u2019s state-action doctrine determines whether an actor is the government, subject to the First Amendment, or a private entity, who is not. Under established doctrine, a private entity may qualify as a state actor if it exercises \u201cpowers traditionally exclusively reserved to the State,\u201d but admittedly \u201cvery few\u201d functions fall into that category. Operating public access channels on a cable system is not a power \u201ctraditionally exclusively reserved to the State.\u201d</p>\n<p>The Court rejected the argument that \u201coperating public access channels\u201d is too narrow a characterization and that the activity is actually providing a traditional exclusive public forum. The provision of a forum for speech does not automatically make the provider a state actor. The Court also rejected the argument that because the state regulates MNN with respect to the public access channels, MNN is a state actor. The Court instead described the city\u2019s regulation as analogous to a government license, which would also not convert a private entity into a state actor. Nor does the city own the channels; nothing in the agreements suggests that the city possesses any property interest in the cable system or its public access channels.</p>\n<p>Thus, MNN does not qualify as a state actor and thus is not subject to the First Amendment\u2019s restrictions on government.</p>\n<p>Justice Sonia Sotomayor filed a dissenting opinion in which Justices Ruth Bader Ginsburg, Stephen Breyer, and Elena Kagan joined. The dissent criticized the majority for creating and addressing a case that was not before the Court. The dissent argued that New York City secured a property interest in public-access television channels when it granted a cable franchise to a cable company. The state regulations that require the public-access channels to be made open to the public make those channels a constitutional public forum. By entering into a contract with the City to administer that forum, MNN\u2014which would have otherwise been a private actor\u2014becomes a state actor subject to the First Amendment.</p>\n"
+}

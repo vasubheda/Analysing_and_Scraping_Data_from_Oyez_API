@@ -1,0 +1,35 @@
+{
+    "ID": 55015,
+    "name": "Lapides v. Board of Regents of University System of Georgia",
+    "href": "https://api.oyez.org/cases/2001/01-298",
+    "view_count": 0,
+    "docket_number": "01-298",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1014616800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38758"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1021266000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38759"
+        }
+    ],
+    "question": "<p>Does a State's act of removing a lawsuit from state court to federal court waive the State's Eleventh Amendment immunity from suit in federal court by citizens of other States?</p>\n",
+    "citation": {
+        "volume": "535",
+        "page": "613",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/18944"
+    },
+    "term": "2001",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/535/613/",
+    "facts_of_the_case": "<p>Paul Lapides, a professor employed by the Georgia state university system, filed a state-court lawsuit against the system?s board of regents and other university officials, alleging that the officials had violated state tort law and 42 USC section 1983 when they placed sexual harassment allegations in his personnel files. The defendants removed the case to Federal District Court and then sought a dismissal. Conceding that a state statute had waived Georgia's sovereign immunity from state-law suits in state court, the State claimed Eleventh Amendment immunity from suit in the federal court. The District Court held that Georgia had waived such immunity when it removed the case to federal court. In reversing, the Court of Appeals found that, because state law was unclear as to whether the state attorney general had the legal authority to waive Georgia's Eleventh Amendment immunity, the State retained the legal right to assert immunity, even after the removal.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion delivered by Justice Stephen G. Breyer, the Court held that a State waives its Eleventh Amendment immunity when it removes a case from state court to federal court. The Court concluded that that the university officials' voluntary removal of the action expressly invoked the jurisdiction of the federal courts and thus constituted a waiver of sovereign immunity with regard to state law claims for which immunity was waived in state court. Under the general principle that a State's voluntary appearance in federal court amounts to a waiver of its Eleventh Amendment immunity, the Court reasoned that Georgia was brought involuntarily into the case as a defendant in state court, but it then voluntarily removed the case to federal court, thus voluntarily invoking that court's jurisdiction.</p>\n"
+}

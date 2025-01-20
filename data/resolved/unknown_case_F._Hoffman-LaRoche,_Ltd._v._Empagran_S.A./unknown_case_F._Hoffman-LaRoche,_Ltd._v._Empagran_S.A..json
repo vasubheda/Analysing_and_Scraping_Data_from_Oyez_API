@@ -1,0 +1,42 @@
+{
+    "ID": 55161,
+    "name": "F. Hoffman-LaRoche, Ltd. v. Empagran S.A.",
+    "href": "https://api.oyez.org/cases/2003/03-724",
+    "view_count": 0,
+    "docket_number": "03-724",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1071468000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39064"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1082955600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39065"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1087189200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39066"
+        }
+    ],
+    "question": "<p>Under the Foreign Trade Antitrust Improvements Act of 1982, do Sherman Act claims apply to the effects of foreign price-fixing schemes if those schemes do not have domestic effects?</p>\n",
+    "citation": {
+        "volume": "542",
+        "page": "155",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19089"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/542/155/",
+    "facts_of_the_case": "<p>Under the Foreign Trade Antitrust Improvements Act of 1982 (FTAIA), the Sherman Act (which regulates monopolies and attempts to unfairly raise prices) does not apply to foreign commerce unless that commerce significantly harms domestic commerce, American imports, or American exporters. In this case, several companies that purchase and resell vitamins sued several vitamin manufacturers for illegal attempts to raise prices, both within the United States and in foreign countries. The manufacturers asked the district judge to dismiss several of the vitamin purchasers from the case because they only did business in other countries and, the manufacturers argued, could therefore not bring claims under the Sherman Act. The purchasers countered that the foreign price-fixing attempts were linked to the domestic attempts and could therefore be heard under the exception to the FTAIA. The district court sided with the manufacturers. On appeal, a D.C. Circuit Court of Appeals panel reversed, finding that the price fixing schemes were independent of each other but that Congress' intent had been to prevent price-fixing both at home and abroad, and that even the foreign claims could therefore be brought under the exception to the FTAIA.</p>\n",
+    "conclusion": "<p>No. The Court unanimously ruled that Congress' intent in passing the FTAIA was to prevent American courts from interfering in foreign commerce. Congress made an exception for foreign commerce that affected domestic commerce, but the exception should not be read as a general prohibition against price-fixing in all parts of the world. In the majority opinion (Justices Clarence Thomas and Antonin Scalia filed a separate opinion concurring in judgment), Justice Stephen G. Breyer wrote, \"Why should American law supplant, for example, Canada's or Great Britain's or Japan's own determination about how best to protect (their own) customers from anticompetitive conduct engaged in\" by their own companies?</p>\n"
+}

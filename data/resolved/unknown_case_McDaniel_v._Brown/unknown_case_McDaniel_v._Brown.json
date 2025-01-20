@@ -1,0 +1,35 @@
+{
+    "ID": 55688,
+    "name": "McDaniel v. Brown",
+    "href": "https://api.oyez.org/cases/2009/08-559",
+    "view_count": 0,
+    "docket_number": "08-559",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1232949600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40504"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1263189600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52745"
+        }
+    ],
+    "question": "<p>Did the U.S. Court of Appeals, Ninth Circuit, properly apply the <em>Jackson</em> analysis in determining whether or not Brown's conviction was rational? May the district court consider the Mueller report as part of a <em>Jackson</em> analysis?</p>\n",
+    "citation": {
+        "volume": "558",
+        "page": "120",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19610"
+    },
+    "term": "2009",
+    "description": "A case, regarding the rape of a nine-year-old girl and the subsequent conviction of the suspected rapist, in which the Court held that a federal court did not have the authority to make a ruling based on a DNA report submitted on appeal, rather than to the original trial court, based on the habeas corpus review standard established in Jackson v. Virginia.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/558/120/",
+    "facts_of_the_case": "<p>On January 29, 1994, around 1:00 a.m., nine-year-old Jane Doe was raped in the bedroom of her trailer in Carlin, Nevada. Troy Brown and his brother Travis lived in the same trailer park as Jane Doe. Their brother Trent and his wife lived in a trailer across the street from Jane Doe's trailer. Both Troy and Trent were acquainted with Jane Doe's family, but Jane did not know Travis.</p>\n<p>That night, Troy drank at least ten shots of vodka followed by beer chasers; he was so drunk that he vomited on himself after leaving a bar at 12:15 a.m. Two witnesses saw a man stumbling between the Browns' trailer and that of Jane Doe's family around 1:00 a.m. Jane Doe called her mother to report the rape at approximately 1:00 a.m.; according to Troy, he returned to his trailer from the bar at approximately 1:30 a.m, theoretically giving him enough time to assault Jane Doe.</p>\n<p>Troy Brown was arrested and charged with two counts of sexual assault on a child, attempted murder, and abuse and neglect of a child resulting in substantial mental harm.</p>\n<p>There was a large amount of conflicting evidence drawn from Jane Doe's testimony and from the crime scene itself. Most relevantly, the state's expert tested semen taken from Jane Doe's underwear. She determined that the DNA matched Troy's and testified that the probability it belonged to another person from the general population was 1 in 3,000,000. Troy Brown's family tested the semen independently and found a random match probability of 1 in 10,000, but this was not introduced into evidence at trial. The jury found Troy Brown guilty of sexual assault and abuse and neglect of a child and sentenced him to life in prison with the possibility of parole after 10 years.</p>\n<p>On appeal, Brown argued that double jeopardy barred the duplication of sexual assault charges, that the DNA evidence was improperly admitted, and that the evidence was insufficient to sustain his conviction. The Nevada Supreme Court vacated the charge for abuse and neglect and remanded to the trial court for sentencing. The trial court again sentenced Brown to life in prison. His petition for post-conviction relief was denied.</p>\n<p>On appeal to the district court, Brown claimed that the state's evidence was legally insufficient to prove his guilt beyond a reasonable doubt, using the habeas corpus review developed by the Court in <em>Jackson v. Virginia</em>. Brown submitted a report prepared by Laurence Mueller, a professor in ecology and evolutionary biology (\"Mueller report\"). The Mueller Report suggested that the prosecution's random match probability gave an improper impression that the likelihood of Troy Brown's innocence was also 1 in 3,000,000. It also questioned the state expert's testimony on the probability that one of Troy Brown's brothers would match the DNA sample, arguing that the likelihood of a match to one of Troy's brothers was as high as 1 in 66. The district court supplemented the record with the Mueller Report, as it was not presented to any state court.</p>\n<p>The district court then set aside the state's DNA testimony as unreliable and held that no rational jury could find guilt beyond a reasonable doubt. The U.S. Court of Appeals, Ninth Circuit, affirmed the district court's ruling in a divided decision. It held that the district court did not abuse its discretion by supplementing the record with the Mueller report and that the admission of the state's DNA evidence was a due process violation and a violation of federal law.</p>\n",
+    "conclusion": "<p>No and no. In a <em>per curiam</em> opinion with two justices concurring, the Court held that the Mueller report could not be considered as part of a <em>Jackson</em> analysis. The Court noted that the respondent no longer argued that it was proper to admit the Mueller report as a supplement. Moreover, the Mueller report did not contest that the DNA matched Troy Brown, although it did suggest that the state's expert overstated the DNA evidence's value. The Court pointed to other evidence placing Troy Brown's brothers away from the scene of the crime, and argued that the jury could have rationally inferred from the evidence that Troy was at the scene of the crime at the time of the assault. It reasoned that the Ninth Circuit failed to take this circumstantial evidence into account. The Court declined to decide whether or not the DNA evidence was improperly admitted under federal law because the respondent did not properly raise the question.</p>\n<p>Justice Clarence Thomas, joined by Justice Antonin Scalia, concurred. He wrote that the Ninth Circuit's judgment was incorrect because it took into consideration evidence that was not admitted at trial. According to Justice Thomas, this was sufficient to show that the Ninth Circuit's <em>Jackson</em> analysis was not proper.</p>\n"
+}

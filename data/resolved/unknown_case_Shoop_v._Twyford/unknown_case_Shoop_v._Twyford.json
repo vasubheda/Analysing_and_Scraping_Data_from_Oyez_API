@@ -1,0 +1,42 @@
+{
+    "ID": 63452,
+    "name": "Shoop v. Twyford",
+    "href": "https://api.oyez.org/cases/2021/21-511",
+    "view_count": 0,
+    "docket_number": "21-511",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1642140000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55036"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1650949200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55084"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1655787600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55119"
+        }
+    ],
+    "question": "<p>May a federal district court order the transportation of a state prisoner to help him develop evidence for his habeas petition, even before determining the admissibility of the evidence?</p>\n",
+    "citation": {
+        "volume": "596",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27877"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held a transportation order that allows a prisoner to search for new evidence is not \u201cnecessary or appropriate in aid of\u201d a federal court\u2019s adjudication of a habeas corpus action when the prisoner has not shown that the desired evidence would be admissible in connection with a particular claim for relief.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/596/21-511/",
+    "facts_of_the_case": "<p>In 1993, an Ohio jury convicted Raymond Twyford of aggravated murder and sentenced him to death. Twyford unsuccessfully pursued direct appeals and also filed a federal habeas petition. In November 2018, Twyford asked the federal district court to allow him to undergo neurological imaging to substantiate allegations of neurological problems due to childhood abuse, neglect, and injuries. The district court granted Twyford\u2019s motion and ordered the prison warden to transport Twyford for his neurological imaging because the results might assist the court in exercising its habeas review. The warden appealed the order, and the U.S. Court of Appeals for the Sixth Circuit affirmed.</p>\n",
+    "conclusion": "<p>A transportation order that allows a prisoner to search for new evidence is not \u201cnecessary or appropriate in aid of\u201d a federal court\u2019s adjudication of a habeas corpus action when the prisoner has not shown that the desired evidence would be admissible in connection with a particular claim for relief. Chief Justice John Roberts authored the majority opinion of the Court.</p>\n<p>A federal court may never needlessly prolong a habeas case. For that reason, before a federal court may admit new evidence, either the claim must rely on a new and previously unavailable rule of constitutional law made retroactively available by the Supreme Court, or it must rely on a factual predicate that could not have been discovered through the exercise of due diligence.</p>\n<p>In this case, the court granted Twyford\u2019s request for transportation under the All Writs Act. But the All Writs Act cannot be used to circumvent binding procedural rules. The Antiterrorism and Effective Death Penalty Act (AEDPA) is the source of binding rules and limits review to the record that was before the state court. The district court\u2019s failure to determine how Twyford\u2019s request for transportation would aid the adjudication of his habeas petition before granting the request was thus erroneous.</p>\n<p>Justice Stephen Breyer authored a dissenting opinion, in which Justices Sonia Sotomayor and Elena Kagan joined, arguing that the court of appeals lacked jurisdiction to hear the state\u2019s interlocutory appeal.</p>\n<p>Justice Neil Gorsuch authored a dissenting opinion stating that he would dismiss the case as improvidently granted.</p>\n"
+}

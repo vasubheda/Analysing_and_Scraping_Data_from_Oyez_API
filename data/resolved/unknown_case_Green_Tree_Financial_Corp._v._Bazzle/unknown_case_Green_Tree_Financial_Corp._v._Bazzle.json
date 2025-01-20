@@ -1,0 +1,35 @@
+{
+    "ID": 55109,
+    "name": "Green Tree Financial Corp. v. Bazzle",
+    "href": "https://api.oyez.org/cases/2002/02-634",
+    "view_count": 0,
+    "docket_number": "02-634",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1050987600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52661"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1056344400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52662"
+        }
+    ],
+    "question": "<p>Does the Federal Arbitration Act permit class-wide arbitration hearings?</p>\n",
+    "citation": {
+        "volume": "539",
+        "page": "444",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/20519"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/539/444/",
+    "facts_of_the_case": "<p>In an attempt to solve a contract dispute, Lynn and Burt Bazzle filed suit against Green Tree Financial Corporation. After they filed the suit, the Bazzles learned that other Green Tree customers were dealing with the same sort of dispute. As a result, they asked for and received permission to file a class action suit. However, Green Tree contracts had a clause requiring that any contract disputes be settled by an arbitrator. Green Tree asked the court to revoke the class certification because the Federal Arbitration Act, it argued, did not permit class-wide arbitration. Instead, the arbitration would have to be conducted on a case-by-case basis. The South Carolina Supreme Court disagreed, ruling that, unless specifically banned in the contract, class-wide arbitration could be permitted by the courts.</p>\n",
+    "conclusion": "<p>Justice Stephen G. Breyer, joined by Justices Antonin Scalia, David H. Souter, and Ruth Bader Ginsburg, delivered an opinion concluding that an arbitrator must determine whether the contracts forbid class arbitration. Justice Breyer reasoned that, because the question of what kind of arbitration proceeding the parties agreed to did not concern a state statute or judicial procedure, was well suited to be answered by an arbitrators, and was situated in sweeping language, the matter of contract interpretation should be for an arbitrator, not the courts, to decide. Justice John Paul Stevens filed an opinion concurring in the judgment and dissenting in part in order to establish a controlling judgment. Chief Justice William H. Rehnquist, joined by Justices Sandra Day O'Connor and Anthony M. Kennedy, dissented.</p>\n"
+}

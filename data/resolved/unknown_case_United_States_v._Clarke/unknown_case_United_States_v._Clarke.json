@@ -1,0 +1,42 @@
+{
+    "ID": 62262,
+    "name": "United States v. Clarke",
+    "href": "https://api.oyez.org/cases/2013/13-301",
+    "view_count": 0,
+    "docket_number": "13-301",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1389333600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52622"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1398229200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52623"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1403154000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52624"
+        }
+    ],
+    "question": "<p>Does an allegation that the Internal Revenue Service (IRS) issued a summons for an improper purpose entitle an opponent of the summons to a hearing to question IRS officials about their reasons for issuing the summons before the court allows the summonses to be enforced?</p>\n",
+    "citation": {
+        "volume": "573",
+        "page": "248",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/27058"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that an allegation of improper purpose was not sufficient to entitle a taxpayer to examine IRS officials.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/573/248/",
+    "facts_of_the_case": "<p>The Internal Revenue Service (IRS) served five summonses to top officers of the Dynamo Holdings Limited Partnership (Dynamo) during its investigation into the company's tax liabilities. The United States District Court for the Southern District of Florida granted enforcement of the summonses. Dynamo opposed the summonses by arguing that it was entitled to a hearing to determine whether the summonses were proper. On appeal, the U.S. Court of Appeals for the Eleventh Circuit vacated the decision that allowed the summonses to be enforced and remanded the case back to the district court for a hearing on whether the investigation was launched under an improper purpose, which would render enforcement of the summonses unlawful.</p>\n",
+    "conclusion": "<p>No. Justice Elena Kagan delivered the opinion for the unanimous Court. The Court held that a simple allegation of improper purpose was not sufficient to entitle a taxpayer to examine IRS officials; however, the taxpayer does have the right to such an examination if the taxpayer can point to specific facts or circumstances that could plausibly result from bad faith on the part of the IRS. Because the summons stage is necessarily a preliminary one, the taxpayer does not need to present a fully fleshed-out case, but neither should a summons dispute turn into a search for wrongdoing.</p>\n"
+}

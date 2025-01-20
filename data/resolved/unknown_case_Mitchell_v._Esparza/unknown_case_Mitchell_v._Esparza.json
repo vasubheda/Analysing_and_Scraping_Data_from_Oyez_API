@@ -1,0 +1,28 @@
+{
+    "ID": 55195,
+    "name": "Mitchell v. Esparza",
+    "href": "https://api.oyez.org/cases/2003/02-1369",
+    "view_count": 0,
+    "docket_number": "02-1369",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1067839200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39164"
+        }
+    ],
+    "question": "<p>Did the Ohio Appeals Court violate \"clearly established Federal law\" by deciding that the prosecution's failure to charge Esparza as the \"principle offender\" in a murder was harmless and therefore not grounds for overturning his death sentence?</p>\n",
+    "citation": {
+        "volume": "540",
+        "page": "12",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/19123"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/540/12/",
+    "facts_of_the_case": "<p>Gregory Esparza murdered a store clerk during a robbery in Ohio. He was convicted and sentenced to death for the murder. He appealed the death sentence, arguing that the prosecutors had failed to charge him as the \"principle offender\" in the murder and that he was therefore ineligible for the death penalty under Ohio law. The Ohio Court of Appeals rejected this argument, holding that, because Esparza had been the only person charged in the crime, it would have been redundant (and therefore unnecessary) to charge him as the \"principle offender.\"</p>\n<p>Esparza then filed a second appeal before the Court of Appeals, this time arguing that he had received ineffective assistance of counsel during his first appeal. He specifically cited his attorney's failure to argue that the state had violated the Eighth Amendment's prohibition on cruel and unusual punishment by not following the \"letter of the law\" in its sentencing. The court again rejected Esparza's argument, referring back to its first decision and holding that the prosecutor's error had been harmless and was therefore not grounds for overturning the sentence. The defense attorney's failure to raise Eighth Amendment objections to the prosecutor's error, therefore, was also harmless.</p>\n<p>Esparza then filed a petition for a writ of habeas corpus in federal district court, raising the same ineffective assistance of counsel claim. In response, Ohio argued that the Ohio Appeals Court's decision had not violated \"clearly established Federal law\" and that the district court therefore could not overturn the sentence. The court sided with Esparza, however, holding that the state's failure to follow its sentencing laws violated the Eighth Amendment. The attorney's failure to raise the Eighth Amendment claim in the first appeal, therefore, was not harmless and could serve as grounds for overturning the sentence. A Sixth Circuit Court of Appeals panel affirmed the federal district court's opinion.</p>\n",
+    "conclusion": "<p>No. In a per curiam decision, the Supreme Court held that the Ohio Appeals Court had not acted unreasonably or violated \"clearly established Federal law\" when it decided that the prosecutor's error was harmless. The federal courts, therefore, did not have authority to overturn the death sentence.</p>\n"
+}

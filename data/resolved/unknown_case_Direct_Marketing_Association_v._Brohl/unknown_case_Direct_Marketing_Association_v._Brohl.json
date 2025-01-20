@@ -1,0 +1,42 @@
+{
+    "ID": 56048,
+    "name": "Direct Marketing Association v. Brohl",
+    "href": "https://api.oyez.org/cases/2014/13-1032",
+    "view_count": 0,
+    "docket_number": "13-1032",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1404190800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41612"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1418018400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41613"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1425362400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41614"
+        }
+    ],
+    "question": "<p>Does the Tax Injunction Act bar federal court jurisdiction over a suit brought by non-taxpayers to enjoin the enforcement of notice-and-reporting requirements of state tax law that neither impose nor require the collection of a tax?</p>\n",
+    "citation": {
+        "volume": "575",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20912"
+    },
+    "term": "2014",
+    "description": "A case in which the Court held that the Tax Injunction Act does not prevent federal court review of state tax laws, unless such review could restrict the ability of the state to assess or collect its own taxes. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/575/1/",
+    "facts_of_the_case": "<p>Colorado imposes a 2.9% tax on the sale of tangible goods in the state, which retailers with a physical presence in the state are required to collect from purchasers and remit to the state. If a Colorado purchaser has not paid the sales tax on tangible goods, as occurs in some online and mail-order transactions in which the businesses have no physical presence in Colorado, the purchaser must pay a 2.9% use tax and is responsible for reporting and paying the tax to the state. To increase the rate of collection of the use tax, in 2010, Colorado implemented regulations for non-collecting retailers whose gross sales in Colorado exceed $100,000. These retailers must provide transactional notices to Colorado purchasers, send annual purchase summaries to Colorado customers, and annually report Colorado purchaser information to the Colorado Department of Revenue. Retailers that do not comply with these regulations are subject to penalties.</p>\n<p>In June 2010, Direct Marketing Association (DMA)\u2014a group of businesses and organizations that market products via catalogs, advertisements, broadcast media, and the Internet\u2014sued the Colorado Department of Revenue's executive director and argued that the regulations violated the Commerce Clause by discriminating against interstate commerce. The district court granted DMA's request for an injunction and later granted summary judgment in favor of DMA. The U.S. Court of Appeals for the Tenth Circuit did not reach a decision on the merits of the appeal and instead held that the Tax Injunction Act deprived the district court of jurisdiction to enjoin Colorado's tax collection effort.</p>\n",
+    "conclusion": "<p>No. Justice Clarence Thomas delivered the opinion of the unanimous Court. The Court held that the requested relief would not \"enjoin, suspend or restrain the assessment, levy or collection of any tax,\" and therefore the Tax Injunction Act (TIA) did not prevent a federal district court from exercising jurisdiction to hear the case. Because the requested relief was an injunction, which would constitute the type of action the TIA bars, the question was whether the notice and reporting requirements constitute the assessment, levying, or collection of a tax. The Court held that the notice and reporting requirements are a preliminary part of the tax administration process that occur before assessment, levying, or collection, and therefore do not fit into any of those categories. Because the requested relief would not affect any of the categories the TIA protects, the federal district court could hear the case.</p>\n<p>In his concurring opinion, Justice Anthony M. Kennedy wrote that outdated precedents preventing states from collecting use taxes from businesses that do not have a physical presence within the state should be reexamined in light of modern economic realities. However, Justice Kennedy also noted that this case did not present that question to the Court. Justice Ruth Bader Ginsburg wrote a separate concurring opinion in which she noted that this case did not implicate Congress' intent in enacting the TIA, which was to prevent taxpayers from avoiding their liability by pursuing an alternate legal challenge route, and was consistent with previous jurisprudence on the TIA. Justice Stephen G. Breyer joined in the concurrence and Justice Sonia Sotomayor joined the concurrence in part.</p>\n"
+}

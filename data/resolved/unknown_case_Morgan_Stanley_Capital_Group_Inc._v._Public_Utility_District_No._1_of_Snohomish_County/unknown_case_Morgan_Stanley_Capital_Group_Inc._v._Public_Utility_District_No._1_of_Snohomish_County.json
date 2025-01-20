@@ -1,0 +1,42 @@
+{
+    "ID": 55532,
+    "name": "Morgan Stanley Capital Group Inc. v. Public Utility District No. 1 of Snohomish County",
+    "href": "https://api.oyez.org/cases/2007/06-1457",
+    "view_count": 0,
+    "docket_number": "06-1457",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1190696400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40081"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1203400800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40082"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1214456400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40083"
+        }
+    ],
+    "question": "<p>May the government permit utility companies to renegotiate long-term contracts with wholesale energy suppliers and, if so, what circumstances justify renegotiation?</p>\n",
+    "citation": {
+        "volume": "554",
+        "page": "527",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20732"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/554/527/",
+    "facts_of_the_case": "<p>The California Legislature deregulated the power industry in 1996, establishing a so-called \"spot market\" in which utilities purchased electricity on the day it was needed. Four years later, during an exceptionally hot summer, wholesale electricity prices skyrocketed. In response, several utilities on the Western power grid determined that they could no longer afford the spot market, and instead negotiated less expensive but still inflated long-term contracts with power suppliers. Once the crisis passed, the utilities asked the government to let them change the contracts to reflect newly lowered electricity prices. The government refused, citing a longstanding Supreme Court doctrine presuming that utilities' contracts are reasonable. The Ninth Circuit ultimately ordered the government to permit the changes.</p>\n",
+    "conclusion": "<p>Renegotiation is allowed only if the contract poses \"serious harm to the public interest.\" In this case, the Court decided 5-2 (Justices John G. Roberts and Stephen Breyer took no part in the decision) that the Federal Energy Regulatory Commission had failed to make sufficient factual findings in order to determine whether such serious harm could in fact occur. Therefore, the Court sent the case back down to the Ninth Circuit in order to provide an opportunity to revisit these factual findings. Justice Ruth Bader Ginsburg wrote a concurring opinion stating that she believed the Court should have waited to hear the case until all the facts had been uncovered. However, because the case was heard when it was, she felt obliged to agree with the majority's reasoning. Justice John Paul Stevens, joined by Justice David Souter, dissented, arguing that Congress, not the courts, should set the standards regarding the reasonableness of public contracts.</p>\n"
+}

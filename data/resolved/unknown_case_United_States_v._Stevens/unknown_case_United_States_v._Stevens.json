@@ -1,0 +1,42 @@
+{
+    "ID": 55666,
+    "name": "United States v. Stevens",
+    "href": "https://api.oyez.org/cases/2009/08-769",
+    "view_count": 0,
+    "docket_number": "08-769",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1240203600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40456"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1254805200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40457"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1271739600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40458"
+        }
+    ],
+    "question": "<p>Is 18 U.S.C. Section 48, on its face, unconstitutional under the Free Speech Clause of the First Amendment?</p>\n",
+    "citation": {
+        "volume": "559",
+        "page": "460",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19588"
+    },
+    "term": "2009",
+    "description": "A case in which the Court ruled that 18 U.S.C. Section 48 was unconstitutional under the Free Speech Clause of the First Amendment. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/559/460/",
+    "facts_of_the_case": "<p>Robert Stevens was convicted under 18 U.S.C. Section 48 in a Pennsylvania federal district court for \"knowingly selling depictions of animal cruelty with the intention of placing those depictions in interstate commerce for commercial gain.\" His conviction stems from an investigation into the selling of videos related to illegal dog fighting. Mr. Stevens appealed his conviction arguing that 18 U.S.C. Section 48, on its face, was unconstitutional because it violated the Free Speech Clause of the First Amendment</p>\n<p>The U.S. Court of Appeals for the Third Circuit agreed with Mr. Stevens and reversed his conviction, holding unconstitutional 18 U.S.C. Section 48. The court reasoned that the dog fighting videos he sold were protected speech and that 18 U.S.C. Section 48 did not serve a compelling governmental interest.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court held that 18 U.S.C. \u00a7 48 is substantially overbroad, and therefore invalid under the First Amendment. With Chief Justice John G. Roberts writing for the majority, the Court reasoned that depictions of animal cruelty are not categorically unprotected by the First Amendment. The Court further reasoned that because a \"substantial number\" of \u00a7 48's applications are unconstitutional, the law is overbroad and, thus, invalid.</p>\n<p>Justice Samuel A. Alito dissented. He disagreed with the majority opinion arguing that \u00a7 48 was not intended to suppress speech, but rather to \"prevent horrific acts of animal cruelty.\" He was concerned that the majority holding will practically legalize the sale of such videos and spur the resumption of their production.</p>\n"
+}

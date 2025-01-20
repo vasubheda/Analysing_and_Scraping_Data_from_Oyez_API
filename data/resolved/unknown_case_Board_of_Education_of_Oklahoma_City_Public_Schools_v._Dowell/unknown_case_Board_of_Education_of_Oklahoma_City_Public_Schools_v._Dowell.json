@@ -1,0 +1,35 @@
+{
+    "ID": 53835,
+    "name": "Board of Education of Oklahoma City Public Schools v. Dowell",
+    "href": "https://api.oyez.org/cases/1990/89-1080",
+    "view_count": 0,
+    "docket_number": "89-1080",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                654843600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36550"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                663919200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36551"
+        }
+    ],
+    "question": "<p>If a federal court deems that an injunction to desegregate schools has achieved its goals, can that court permanently dissolve the injunction?</p>\n",
+    "citation": {
+        "volume": "498",
+        "page": "237",
+        "year": "1991",
+        "href": "https://api.oyez.org/case_citation/case_citation/17764"
+    },
+    "term": "1990",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/498/237/",
+    "facts_of_the_case": "<p>In 1972, a federal district court issued an injunction ordering the Board of Education of Oklahoma City to implement the \"Finger Plan,\" which bused black students to white schools. In 1977, the district court withdrew its enforcement of the plan, declaring that the Board had complied with the plan and reached \"unitary\" racial composition. In 1984, the Board passed the Student Reassignment Plan (SRP), which lessened busing in an effort to reduce travel time for black students. The group that originally protested segregation sought to restore the court-ordered desegregation, claiming that the school system again became segregated. The district court declined, but on appeal the United States Court of Appeals for the Tenth Circuit ruled that the injunction was never formally removed. On reconsideration, the district court again declined to restore the injunction because it found the original \"Finger Plan\" unworkable. The Court of Appeals reversed.</p>\n",
+    "conclusion": "<p>Yes. Chief Justice William Rehnquist delivered the opinion for a 5-3 court. The Court held that the \"federal supervision of local school systems [has always] been intended as a temporary measure to remedy past discrimination.\" Once a school system demonstrates earnest compliance with an injunction, the federal court can consider removing it. The district court's finding in 1977 that the plan had achieved its goal of racially \"unitary\" schools was not sufficiently clear to dissolve the 1972 injunction. Instead, the district court could remove the injunction upon finding that \"that the school system was being operated in compliance with the Equal Protection Clause, and that it was unlikely that the Board would return to its former ways.\" If the Board satisfied these goals, the district court could remove the injunction and consider the SRP separately and on its own merits.</p>\n"
+}

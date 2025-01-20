@@ -1,0 +1,42 @@
+{
+    "ID": 55519,
+    "name": "Stoneridge Investment Partners, LLC v. Scientific-Atlanta, Inc.",
+    "href": "https://api.oyez.org/cases/2007/06-43",
+    "view_count": 0,
+    "docket_number": "06-43",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1174885200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40044"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1191906000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40045"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1200376800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40046"
+        }
+    ],
+    "question": "<p>Are claims for deceptive conduct under Section 10(b) of the Securities Exchange Act of 1934 barred by the Court's decision in <em>Central Bank v. First International Bank</em> when the defendant engaged in fraudulent transactions designed to inflate a corporation's financial statements, but made no public statements concerning those transactions?</p>\n",
+    "citation": {
+        "volume": "552",
+        "page": "148",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20738"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/552/148/",
+    "facts_of_the_case": "<p>Stoneridge Investment Partners alleged that the cable company Charter Communications had fraudulently inflated the price of its stock. The alleged scheme involved a \"sham transaction\" in which Charter gave its equipment vendor, Scientific-Atlanta, above-normal payments for T.V. set-top boxes and the vendor then gave back the extra payments as advertising fees. Charter then fraudulently accounted the returned payments as revenue. Stoneridge sued both Charter and Scientific-Atlanta under Section 10(b) of the Securities Exchange Act of 1934, but the district court threw out the claim against Scientific- Atlanta. The court ruled that Stoneridge's claim against the vendor was only a claim for aiding and abetting fraud.</p>\n<p>The Supreme Court had ruled in <em>Central Bank of Denver v. First International Bank of Denver</em> that Section 10(b) punishes only deceptive conduct itself, not aiding and abetting such conduct. However, the Court that secondary actors such as banks, lawyers, and accountants can be considered violators of Section 10(b) if they engage in deceptive conduct along with the primary actor. On appeal, Stoneridge argued that Scientific-Atlanta qualified as a primary violator of Section 10(b). Scientific-Atlanta countered that it had not participated in Charter's fraudulent accounting practices, and, in contrast to Charter, it had made no false public statements. The U.S. Court of Appeals for the Eighth Circuit ruled for Scientific Atlanta. The Circuit Court held that the vendor could at most be accused of aiding and abetting Charter's deception, and such claims are not allowed under Section 10(b) according to the Supreme Court's decision in <em>Central Bank</em>.</p>\n",
+    "conclusion": "<p>The Court held that, under <em>Central Bank</em> and Section 10(b), securities fraud plaintiffs cannot sue \"aiders and abettors\" like Scientific-Atlanta. The Court noted Congress' subsequent failure to create a right of private action against aiders and abettors in the Private Securities Litigation Reform Act for support of its position that no such right should be allowed in the present case. Justice Anthony Kennedy wrote the majority opinion, joined by Chief Justice Roberts and Justices Antonin Scalia, Clarence Thomas, and Samuel A. Alito, Jr. Justice John Paul Stevens, joined by Justices David Souter and Ruth Bader Ginsburg, dissented, reading <em>Central Bank</em> as allowing the claim against Scientific-Atlanta because, in this case, it had actually undertaken plainly deceptive acts.</p>\n"
+}

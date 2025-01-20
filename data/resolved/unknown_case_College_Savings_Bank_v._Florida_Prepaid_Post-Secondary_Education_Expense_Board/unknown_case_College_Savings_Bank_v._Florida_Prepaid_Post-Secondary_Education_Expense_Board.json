@@ -1,0 +1,35 @@
+{
+    "ID": 54696,
+    "name": "College Savings Bank v. Florida Prepaid Post-Secondary Education Expense Board",
+    "href": "https://api.oyez.org/cases/1998/98-149",
+    "view_count": 0,
+    "docket_number": "98-149",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                924584400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38160"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                930114000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38161"
+        }
+    ],
+    "question": "<p>Does the Trademark Remedy Clarification Act (TRCA) permit suits against states for alleged misrepresentations of their own products by providing a constitutionally permissible abrogation of state sovereign immunity? Does the TRCA permit suits against states for alleged misrepresentations of their own products by operating as a waiver of sovereign immunity when a state engages in activities regulated by the Lanham Act?</p>\n",
+    "citation": {
+        "volume": "527",
+        "page": "666",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18625"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/527/666/",
+    "facts_of_the_case": "<p>This case is the second tier of a patent infringement action. College Savings Bank, a New Jersey chartered bank, markets and sells certificates of deposit designed to finance college costs. Florida Prepaid Postsecondary Education Expense Board (Florida Prepaid), a Florida state entity, administers a tuition prepayment program. In addition to its original patent infringement action, College Savings filed an action alleging that Florida Prepaid violated section 43 of the Lanham Act by making misstatements about its tuition savings plans in its brochures and annual reports. The Trademark Remedy Clarification Act (TRCA) subjects states to suits brought under section 43(a) of the Lanham Act for false and misleading advertising. The District Court granted Florida Prepaid's motion to dismiss on sovereign immunity grounds. The court rejected arguments from College Savings and the United States that Florida Prepaid had waived its sovereign immunity by engaging in interstate marketing and administration of its program after the TRCA made clear that such activity would subject it to suit; and that Congress's abrogation of sovereign immunity in the TRCA was effective, since it was enacted to enforce the Fourteenth Amendment's Due Process Clause. The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>No and no. In a 5-4 opinion delivered by Justice Antonin Scalia, the Court held that \"the federal courts are without jurisdiction to entertain this suit against an arm of the State of Florida.\" Justice Scalia concluded that \"the sovereign immunity of the State of Florida was neither validly abrogated by the Trademark Remedy Clarification Act, nor voluntarily waived by the State's activities in interstate commerce.\" Writing for the dissenting minority, Justice Stephen G. Breyer expressed the view that Congress possesses the authority to abrogate a state's sovereign immunity where necessary and proper to the exercise of a congressional power under the Constitution's Article I. Justice John Paul Stevens filed his own dissenting opinion and joined that of Justice Breyer.</p>\n"
+}

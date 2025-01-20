@@ -1,0 +1,35 @@
+{
+    "ID": 55080,
+    "name": "Los Angeles v. David",
+    "href": "https://api.oyez.org/cases/2002/02-1212",
+    "view_count": 0,
+    "docket_number": "02-1212",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1053320400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38880"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                1053320400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53444"
+        }
+    ],
+    "question": "<p>Does a 27-day delay before a hearing violate the Due Process Clause of the Fourteenth Amendment by denying an individual the opportunity to be heard \u201cat a meaningful time and in an meaningful manner\u201d?</p>\n",
+    "citation": {
+        "volume": "538",
+        "page": "715",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/19009"
+    },
+    "term": "2002",
+    "description": "A case in which the Court held that a 27-day wait for a hearing disputing a parking ticket did not violate the Due Process Clause of the Fourteenth Amendment. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/538/715/",
+    "facts_of_the_case": "<p>On August 13, 1998, Edwin David\u2019s car was towed because he was improperly parked in a spot where parking was prohibited. He claimed he could not see the \u201cno parking\u201d sign because there were trees blocking it from view. David paid the fees to recover his car, but he also submitted a request for a hearing to challenge the ticket and recover his money. The hearing was held 27 days after the car was towed, and David\u2019s claim was dismissed. David then sued the City of Los Angeles under 42 U.S.C. 1983 and claimed that the 27-day wait for the hearing denied him due process under the law as guaranteed by the Fourteenth Amendment. The district court granted summary judgment for the City, but the U.S. Court of Appeals for the Ninth Circuit reversed and held that the Due Process Clause required that the city hold a hearing at least within five days.</p>\n",
+    "conclusion": "<p>A 27-day delay before a hearing does not violate the Due Process Clause. In a per curiam decision, the Court held that such a delay was a routine one that was \u201csubstantially required by administrative needs.\u201d In this case, the delay was justified because the City of Los Angeles hears thousands of parking and traffic-related hearing each year. The Court found there was no more than a routine delay, which the Due Process Clause did not prohibit.</p>\n"
+}

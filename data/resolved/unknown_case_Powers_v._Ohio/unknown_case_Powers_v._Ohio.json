@@ -1,0 +1,35 @@
+{
+    "ID": 53935,
+    "name": "Powers v. Ohio",
+    "href": "https://api.oyez.org/cases/1990/89-5011",
+    "view_count": 0,
+    "docket_number": "89-5011",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                655448400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36735"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                670485600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36736"
+        }
+    ],
+    "question": "<p>Does the Equal Protection Clause of the Fourteenth Amendment of the United States Constitution and Article 1 sections 10 and 16 of the Ohio Constitution allow a criminal defendant to make objections to race-based exclusions of jurors by the State during the jury selection process if the defendant and the jurors are of different races?</p>\n",
+    "citation": {
+        "volume": "499",
+        "page": "400",
+        "year": "1991",
+        "href": "https://api.oyez.org/case_citation/case_citation/17864"
+    },
+    "term": "1990",
+    "description": "A case in which the Court that the prosecution is prohibited from excluding an unbiased and qualified juror based on the person\u2019s race regardless of the race of the defendant. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/499/400/",
+    "facts_of_the_case": "<p>Larry Joe Powers, a white male, was indicted on the charges of two counts of aggravated murder and one count of attempted aggravated murder. He pleaded not guilty, and invoked his right to a jury trial. During the jury selection process, Powers objected when the prosecution excluded a black individual from the jury without explanation. The court denied the request for explanation. The prosecution struck nine more possible jurors, of which six were black. Powers objected each time, but the court overruled his objection. The jury convicted Powers on all charges. Powers appealed his conviction and argued that the prosecution\u2019s discriminatory selection of jurors violated the Equal Protection Clause of the Ohio Constitution, and that his own race was irrelevant to the right to object. The Ohio Court of Appeals affirmed his conviction and the Supreme Court of Ohio dismissed the appeal. The petitioner sought review before the Supreme Court.</p>\n",
+    "conclusion": "<p>Yes. Justice Anthony M. Kennedy delivered the opinion of the 7-2 majority. Under the Equal Protection Clause of the Fourteenth Amendment of the United States Constitution, the prosecution is prohibited from excluding an unbiased and qualified juror based on the person\u2019s race regardless of the race of the defendant. Although an individual does not have the right to sit on a jury, every citizen has the right not to be deprived of the opportunity to participate in this aspect of civil life. The Court also held that a criminal defendant has the right to raise objections on racial discrimination when excluding certain potential jurors because it could cause potential injury to the defendant. The defendant must feel that he is receiving a fair trial and that the integrity of the judicial system is upheld. Therefore the defendant, as well as the juror, has the right to eliminate racial discrimination in the courtroom and the color of his skin is irrelevant to these objections of racial discrimination.</p>\n"
+}

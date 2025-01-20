@@ -1,0 +1,42 @@
+{
+    "ID": 55465,
+    "name": "Ali v. Federal Bureau of Prisons",
+    "href": "https://api.oyez.org/cases/2007/06-9130",
+    "view_count": 0,
+    "docket_number": "06-9130",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1180414800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39898"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1193634000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39899"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1200981600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39900"
+        }
+    ],
+    "question": "<p>In the detention of goods exception to the waiver of sovereign immunity in the Federal Tort Claims Act, is the phrase \"other law enforcement officer\" limited to officers acting in a tax, excise, or customs capacity?</p>\n",
+    "citation": {
+        "volume": "552",
+        "page": "214",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20750"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/552/214/",
+    "facts_of_the_case": "<p>Before his transfer to a new prison, prisoner Abdus-Shahid M. S. Ali temporarily left his two bags of possessions with a police officer. When the bags arrived, Ali noticed that several items were missing. He filed an administrative tort claim with the Bureau of Prisons seeking to recover the items. After the claim was denied, he brought his case to U.S. District Court. The court dismissed the case for lack of jurisdiction, ruling that the government had immunity from the lawsuit under the Federal Tort Claims Act (FTCA). The FTCA establishes a general waiver of sovereign immunity for tort claims against the government, but it also makes several exceptions to the waiver. One exception is for \"[a]ny claim arising in respect of [...] the detention of any goods, merchandise, or other property by any officer of customs or excise or any other law enforcement officer.\" Ali argued that in context the phrase \"other law enforcement officer\" referred only to officers working in customs and related activities, but the court applied the exception to any detention of goods by any law enforcement officer.</p>\n<p>The U.S. Court of Appeals for the Eleventh Circuit affirmed the dismissal of Ali's claim. It ruled that the phrase \"any other law enforcement officer\" in the FTCA was not merely a supplementary catch-all relating to the government's immunity in tax collection and customs situations. Rather, it was itself a broad grant of sovereign immunity covering any instance of detention of goods by law enforcement officers.</p>\n",
+    "conclusion": "<p>The Court agreed with the 11th Circuit and, in a 5-4 majority opinion written by Justice Clarence Thomas, held that the use of the word \"any\" should be given its normal interpretation, encompassing all federal officers whether or not they were involved in enforcing customs or excise laws. Justices Antonin Scalia, Ruth Bader Ginsburg and Samuel A. Alito, along with Chief Justice John G. Roberts, Jr., joined in the opinion.</p>\n<p>Justice Anthony Kennedy, joined by Justices John Paul Stevens, David H. Souter, and Stephen G. Breyer, dissented in the judgment, arguing that if Congress intended to include officials other than customs or excise officials it would have listed them in the law. Justice Breyer wrote a separate dissent, jointed by Justice Stevens, suggesting that the context of the statute made clear that Congress intended it only to refer to federal officials likely to deal with property loss or damage, a group that, according to Breyer, did not include police officers.</p>\n"
+}

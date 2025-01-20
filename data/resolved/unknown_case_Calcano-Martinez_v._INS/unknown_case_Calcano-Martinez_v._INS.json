@@ -1,0 +1,35 @@
+{
+    "ID": 54866,
+    "name": "Calcano-Martinez v. INS",
+    "href": "https://api.oyez.org/cases/2000/00-1011",
+    "view_count": 0,
+    "docket_number": "00-1011",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                988088400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38475"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                993445200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38476"
+        }
+    ],
+    "question": "<p>Does the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 remove the jurisdiction of federal appellate courts to review direct appeals of final deportation orders, but preserve federal district courts' habeas jurisdiction over challenges to those orders?</p>\n",
+    "citation": {
+        "volume": "533",
+        "page": "348",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18795"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/533/348/",
+    "facts_of_the_case": "<p>The Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (IIRIRA) expressly precludes courts of appeals from exercising \"jurisdiction to review any final order of removal against any alien who is removable by reason of \"a conviction for certain criminal offenses, including any aggravated felony.\" Deboris Calcano-Martinez, Sergio Madrid, and Fazila Khan are all lawful permanent residents of the United States subject to administratively final orders of removal because they were convicted of aggravated felonies. Each filed a petition for review in the Court of Appeals and a habeas corpus petition in the District Court to challenge the Board of Immigration Appeals' determination that they were ineligible to apply for a discretionary waiver of deportation under former section 212(c) of the Immigration and Nationality Act. The Court of Appeals dismissed the petitions for lack of jurisdiction. The court also held that they could pursue their claims in a District Court habeas action.</p>\n",
+    "conclusion": "<p>Yes. In a 5-4 opinion delivered by Justice John Paul Stevens, the Court held that the Court of Appeals lacked jurisdiction to hear the petitions for direct but petitioners can proceed with their habeas petitions if they wish to obtain relief. \"As petitioners in this case were convicted of 'aggravated felonies' within the meaning of the relevant statutes,\" wrote Justice Stevens, \"the plain language of [IIRIRA] fairly explicitly strips the courts of appeals of jurisdiction to hear their claims on petitions for direct review.\" Justice Stevens continued that \"Congress has not spoken with sufficient clarity to strip the district courts of jurisdiction to hear habeas petitions raising identical claims.\"</p>\n"
+}

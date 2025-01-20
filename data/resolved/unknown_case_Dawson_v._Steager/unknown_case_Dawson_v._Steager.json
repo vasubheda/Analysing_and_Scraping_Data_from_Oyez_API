@@ -1,0 +1,42 @@
+{
+    "ID": 63009,
+    "name": "Dawson v. Steager",
+    "href": "https://api.oyez.org/cases/2018/17-419",
+    "view_count": 0,
+    "docket_number": "17-419",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1529902800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54320"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1543816800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54384"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1550642400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54447"
+        }
+    ],
+    "question": "<p>Does the provision of the West Virginia Code that exempts from state taxation the retirement income of many state and local firefighters and law enforcement officers, but not federal marshals, violate 4 U.S.C. \u00a7 111?</p>\n",
+    "citation": {
+        "volume": "586",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27610"
+    },
+    "term": "2018",
+    "description": "A case in which the Court held that a provision of the West Virginia Code that exempts from state taxation the retirement income of many state and local firefighters and law enforcement officers, but not federal marshals, violates 4 U.S.C. \u00a7 111 by discriminating \u201cbecause of the source of the pay or compensation.\u201d",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/586/17-419/",
+    "facts_of_the_case": "<p>West Virginia Code 11-21-12(c)(6) (\u201cSection 12(c)(6)\u201d) exempts from state taxation the retirement income of many state and local firefighters and law enforcement officers, but not federal marshals. Plaintiffs James and Elaine Dawson allege that this differential treatment is proscribed by 4 U.S.C. \u00a7 111, which allows for state taxes on federal retirement benefits only if \u201cthe taxation does not discriminate...because of the source of the pay or compensation.\u201d James Dawson spent most of his career with the US Marshal Service and retired in 2008. Dawson and his wife sought to exempt Dawson\u2019s federal retirement income from his state income tax, but the tax commissioner refused to allow the exemption.</p>\n<p>The Office of Tax Appeals affirmed the tax commissioner\u2019s denial of the Dawsons\u2019 12(c)(6) exemption, and the Dawsons timely appealed. The Circuit Court of Mercer County found that the tax scheme does violated 4 U.S.C. \u00a7 111 and reversed the Office of Tax Appeals. The tax commissioner appealed the circuit court\u2019s decision, and on appeal, the state supreme court reversed.</p>\n",
+    "conclusion": "<p>The West Virginia law that taxes the retirement income of federal marshal but exempts from taxation state and local law enforcement officers unlawfully discriminates against federal employees, in violation of 4 U.S.C. \u00a7 111. In a unanimous opinion authored by Justice Neil Gorsuch, the Court found that the state law confers a benefit to state and local retirees that federal retirees cannot receive and that there are no \u201csignificant differences between the two classes\u201d of employees that justify differential treatment. The Court found unpersuasive the state\u2019s arguments that the law affects too few people to meaningfully interfere with federal government operations and that the statute is not intended to harm federal retirees. The prohibition on discrimination, 4 U.S.C. \u00a7 111, applies to any state tax, not only those that are cumbersome, and the state\u2019s purpose in adopting the discriminatory tax is irrelevant. With no meaningful distinction between retired federal marshals and state law enforcement retirees, the state cannot treat the two classes of retirees differently for purposes of taxation.</p>\n"
+}

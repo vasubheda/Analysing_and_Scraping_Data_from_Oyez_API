@@ -1,0 +1,42 @@
+{
+    "ID": 56136,
+    "name": "King v. Burwell",
+    "href": "https://api.oyez.org/cases/2014/14-114",
+    "view_count": 0,
+    "docket_number": "14-114",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1415340000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41735"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1425448800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41736"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1435208400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52768"
+        }
+    ],
+    "question": "<p>Did the Internal Revenue Service permissibly create a regulation that extended the tax credits the Affordable Care Act authorized to federal exchanges as well as those created by the states?</p>\n",
+    "citation": {
+        "volume": "576",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/27096"
+    },
+    "term": "2014",
+    "description": "A case in which the Court determined that the plain language of the Affordable Care Act extended tax credits to federally-created exchanges as well as those the states created.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/576/473/",
+    "facts_of_the_case": "<p>In 2010, Congress passed the Affordable Care Act (ACA) to increase the number of Americans covered by health insurance and decrease the cost of health care. The ACA required each state to establish an \"exchange\" through which people could purchase health care coverage, and if a state elected not to do so, the federal government would establish one through the Secretary of Health and Human Services. The ACA also required people to obtain the minimum essential coverage or pay a tax penalty unless they fell within an unaffordability exemption for low-income individuals. To limit the number of people that would fall into such an exemption, the ACA provided for tax credits that are calculated based on the health plan in which an individual enrolls through the exchange. Although the legislative language of the ACA pertaining to the tax credits only referred to the exchanges established by the states, the Internal Revenue Service (IRS) created a regulation that made the tax credits available to those enrolled in plans through federal as well as state exchanges.</p>\n<p>Virginia declined to establish a state-run exchange and has one operated by the federal government. The plaintiffs are a group of Virginia residents who, without the tax credits, would fall under the unaffordability exception and be exempt from having to purchase health insurance. They sued and argued that the IRS regulation exceeded the agency's statutory authority, is arbitrary and capricious, and is contrary to the law in violation of the Administrative Procedure Act. The district court granted the defendants' motion to dismiss, and the U.S. Court of Appeals for the Fourth Circuit affirmed.</p>\n",
+    "conclusion": "<p>Yes. Chief Justice John G. Roberts, Jr. delivered the opinion for the 6-3 majority. The Court held that Congress did not delegate the authority to determine whether the tax credits are available through both state-created and federally created exchanges to the Internal Revenue Service, but the language of the statute clearly indicates that Congress intended the tax credits to be available through both types of exchanges. When the plain language of the section in question is considered in the context of the statute as a whole, it is evident that the federally-created exchanges are not meaningfully different from those the states created, and therefore federally-created exchanges are not excluded from the language referring to exchanges created by the states. This reading is also in line with the Congressional intent of covering as many qualified individuals as possible, as the alternative would mean that federally-created exchanges do not contain qualified individuals and operate entirely differently from the state-created ones.</p>\n<p>Justice Antonin Scalia wrote a dissent in which he argued that that the plain language of the statute clearly limits the tax credits to state-created exchanges. The majority opinion\u2019s attempt to use context to justify a more expansive reading that is at odds with the clear meaning of the text distorts statutory interpretation and amounts to rewriting the statute. Justice Scalia also argued that reading the language of the section in question to refer to both state-created and federally-created exchanges fails to give effect to the times when Congress explicitly chose to conflate the two types of exchanges as opposed to the times it did not. The reading that some parts of the statute refer to both types of exchanges and other parts do not is more consistent with the statute as a whole and gives better effect to Congress\u2019 intent in enacting it. The majority opinion\u2019s use of Congressional intent to support its holding errs by focusing only on one of the goals of the legislation to the exclusion of others, and in doing so oversteps the bounds of its judicial authority. Justice Clarence Thomas and Justice Samuel A. Alito, Jr. joined in the dissent.</p>\n"
+}

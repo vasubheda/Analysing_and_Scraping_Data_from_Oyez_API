@@ -1,0 +1,35 @@
+{
+    "ID": 54532,
+    "name": "Regents of University of California v. Doe",
+    "href": "https://api.oyez.org/cases/1996/95-1694",
+    "view_count": 0,
+    "docket_number": "95-1694",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                849506400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37857"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                856332000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37858"
+        }
+    ],
+    "question": "<p>Does the Eleventh Amendment shield state-run schools from being sued unwillingly in federal court even though any award of monetary damages would not come from the state?</p>\n",
+    "citation": {
+        "volume": "519",
+        "page": "425",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18461"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/519/425/",
+    "facts_of_the_case": "<p>John Doe sued the University of California alleging that it had agreed to employ him at a laboratory it operated pursuant to a contract with the federal Department of Energy (DOE), and that it had wrongfully breached its agreement upon determining that he could not obtain a required security clearance. The university argued that it was immune from liability under the Eleventh Amendment. Mr. Doe asserted that the Eleventh Amendment did not apply to the case because any damages awarded would be paid by the DOE. The District Court held that the university was an arm of the state and therefore the Eleventh Amendment prohibited Mr. Doe from maintaining his breach-of-contract claim in federal court. The Court of Appeals reversed the decision citing the university's agreement with the DOE, under which the department was liable for any judgments rendered against the university, not the state.</p>\n",
+    "conclusion": "<p>Yes. Justice John Paul Stevens, writing for a unanimous Court, stated that the California university could not be sued by Doe regardless of his claim that the job offer was illegally withdrawn and despite the fact the federal government would be responsible for the judgment. Stevens declared that the Eleventh Amendment shields the state from \"the risk of adverse judgments even though the state may be indemnified by a third party.\"</p>\n"
+}

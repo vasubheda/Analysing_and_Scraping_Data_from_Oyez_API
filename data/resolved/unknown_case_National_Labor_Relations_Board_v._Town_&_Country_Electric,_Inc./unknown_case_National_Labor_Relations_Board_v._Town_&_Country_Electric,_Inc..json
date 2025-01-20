@@ -1,0 +1,35 @@
+{
+    "ID": 54395,
+    "name": "National Labor Relations Board v. Town & Country Electric, Inc.",
+    "href": "https://api.oyez.org/cases/1995/94-947",
+    "view_count": 0,
+    "docket_number": "94-947",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                813301200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37606"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                817538400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37607"
+        }
+    ],
+    "question": "<p>Does a worker qualify as an \"employee\" under the National Labor Relations Act if, while he is working, he is simultaneously paid by a union to help the union organize a company?</p>\n",
+    "citation": {
+        "volume": "516",
+        "page": "85",
+        "year": "1995",
+        "href": "https://api.oyez.org/case_citation/case_citation/18324"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/516/85/",
+    "facts_of_the_case": "<p>Town &amp; County Electric, Inc., a non-union company, sought to fill several positions for a construction job in Minnesota. Town &amp; Country received applications from union staff, but refused to interview any of the applicants except one, who was eventually hired and fired soon thereafter. These individuals applied with the intention to organize Town &amp; Country and were to remain on Union payroll during their time of employment. The union, the International Brotherhood of Electrical Workers, filed a complaint with the National Labor Relations Board claiming that Town &amp; Country had refused to interview and retain the workers because of their union affiliation, a violation of the National Labor Relations Act. The Board held that the 11 individuals met the definition of employees under the Act and rejected Town &amp; Country's claims that the individuals had been refused for other reasons.</p>\n<p>The U.S. Court of Appeals for the Eighth Circuit reversed on the ground that the term \"employee\" does not include those individuals who remain on Union payroll during their time of employment with another company.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous decision written by Justice Stephen Breyer, the Supreme Court ruled for the Board and held that individuals can meet the definition of employee even if they are paid by a union to organize a non-union company while on company payroll. The Court found this result consistent with the language and purpose of the Act as well as the dictionary definition of \"employee.\" The Court also reasoned that the language of the Act seemed to specifically take into account the possibility of workers who are paid union organizers.</p>\n"
+}

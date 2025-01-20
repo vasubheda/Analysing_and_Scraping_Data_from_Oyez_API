@@ -1,0 +1,42 @@
+{
+    "ID": 63457,
+    "name": "Arellano v. McDonough",
+    "href": "https://api.oyez.org/cases/2022/21-432",
+    "view_count": 0,
+    "docket_number": "21-432",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1645509600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55046"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1664859600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55160"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1674453600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55214"
+        }
+    ],
+    "question": "<p>Can the one-year filing deadline for veterans to submit disability claims after they are discharged be extended under principles of equitable tolling?</p>\n",
+    "citation": {
+        "volume": "598",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27882"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held the one-year filing deadline for veterans to submit disability claims after they are discharged is not subject to principles of equitable tolling, meaning that missing the filing deadline forfeits retroactive disability benefits.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/598/21-432/",
+    "facts_of_the_case": "<p>Adolfo R. Arellano served honorably in the Navy from November 1977 to October 1981. On June 3, 2011\u2014more than 30 years after he was discharged\u2014he applied for disability benefits on the basis of psychiatric disorders that rendered him 100% disabled. He sought retroactive benefits from the day after his discharge, arguing that the one-year filing deadline to submit disability claims should be extended in his case because his mental illness had prevented him from filing his claim earlier.</p>\n<p>The VA Regional Office granted his claim, but only from the date the claim was received. The Board of Appeals rejected his argument, and the Veterans Court affirmed that decision, concluding that Mr. Arellano's claim was \u201csquarely foreclosed by binding precedent\u201d in Andrews v. Principi, 351 F.3d 1134 (Fed. Cir. 2003), which held that principles of equitable tolling are not applicable to the time period in 38 U.S.C. \u00a7 5110(b)(1).</p>\n",
+    "conclusion": "<p>The one-year filing deadline for veterans to submit disability claims after they are discharged cannot be extended under principles of equitable tolling. Justice Amy Coney Barret authored the unanimous opinion of the Court holding that the effective date of Arellano\u2019s award of disability compensation was the day the VA received his claim.</p>\n<p>Equitable tolling can extend a deadline when a litigant diligently pursues their rights but is nonetheless prevented from bringing a timely action due to extraordinary circumstances. Courts presume that equitable tolling applies, but that presumption is rebuttable by evidence that it is inconsistent with the statutory scheme. The default rule of 38 U.S.C. \u00a7 5110(a)(1) establishes that the day VA receives a claim is the effective date, subject to the limited exception in \u00a7 5110(b)(1), which states that \u201cthe effective date of an award . . . shall be fixed in accordance with the facts found, but shall not be earlier than the date of receipt of application therefor.\u201d Moreover, the structure of \u00a7 5110, which sets out 16 exceptions that explain when each type of benefits qualifies for an effective date earlier than the default, suggests Congress intended only certain enumerated exceptions to the default date. This statutory language and structure indicate Congress\u2019s intent that principles of equitable tolling not apply.</p>\n"
+}

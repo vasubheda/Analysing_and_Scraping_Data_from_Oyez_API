@@ -1,0 +1,35 @@
+{
+    "ID": 54885,
+    "name": "New York Times Company, Inc. v. Tasini",
+    "href": "https://api.oyez.org/cases/2000/00-201",
+    "view_count": 0,
+    "docket_number": "00-201",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                985759200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51873"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                993445200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52217"
+        }
+    ],
+    "question": "<p>Do print and electronic publishers violate the copyrights of freelance authors when they include the freelancers' already-published articles in computer databases without the author's permission?</p>\n",
+    "citation": {
+        "volume": "533",
+        "page": "483",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18814"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/533/483/",
+    "facts_of_the_case": "<p>Various freelance authors wrote articles for various print publishers. The publishers treated the authors as independent contractors under contracts. The publishers each licensed rights to copy and sell articles to LEXIS/NEXIS, owner and operator of a computerized database containing articles in text-only format. NEXIS does not reproduce the print publication's formatting. The authors filed suit alleging that their copyrights were infringed when the print publishers placed their articles in the electronic publishers' databases, such as LEXIS/NEXIS. In response, the print and electronic publishers raised the privilege accorded collective work copyright owners by section 201(c) of the Copyright Act. In granting the publishers summary judgment, the District Court held that the electronic databases reproduced and distributed the authors' works, under section 201(c), \"as part of...[a] revision of that collective work\" to which the authors had first contributed. In reversing, the Court of Appeals found that the databases were not among the collective works covered by section 201(c), and specifically, were not \"revisions\" of the periodicals in which the Articles first appeared.</p>\n",
+    "conclusion": "<p>Yes. In a 7-2 opinion delivered by Justice Ruth Bader Ginsburg, the Court held that section 201(c) does not authorize the copying at issue. \"The publishers are not sheltered by [section 201(c)], we conclude, because the databases reproduce and distribute articles standing alone and not in context, not 'as part of that particular collective work' to which the author contributed, 'as part of...any revision' thereof, or 'as part of...any later collective work in the same series.' Both the print publishers and the electronic publishers, we rule, have infringed the copyrights of the freelance authors,\" wrote Justice Ginsburg. Dissenting, Justice John Paul Stevens, joined by Justice Stephen G. Breyer, argued that \"[e]ach individual file still reminds the reader that he is viewing 'part of' a particular collective work. And the entire editorial content of that work still exists at the reader's fingertips.\"</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 54468,
+    "name": "Clinton v. Jones",
+    "href": "https://api.oyez.org/cases/1996/95-1853",
+    "view_count": 0,
+    "docket_number": "95-1853",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                853135200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37739"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                864709200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37740"
+        }
+    ],
+    "question": "<p>Is a serving President, for separation of powers reasons, entitled to absolute immunity from civil litigation arising out of events which transpired prior to his taking office?</p>\n",
+    "citation": {
+        "volume": "520",
+        "page": "681",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18397"
+    },
+    "term": "1996",
+    "description": "A case in which the Court found that the President did not have immunity from civil litigation.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/520/681/",
+    "facts_of_the_case": "<p>Paula Corbin Jones sued President Bill Clinton. She alleged that while she was an Arkansas state employee, she suffered several \"abhorrent\" sexual advances from then Arkansas Governor Clinton. Jones claimed that her continued rejection of Clinton's advances ultimately resulted in punishment by her state supervisors. Following a District Court's grant of Clinton's request that all matters relating to the suit be suspended, pending a ruling on his prior request to have the suit dismissed on grounds of presidential immunity, Clinton sought to invoke his immunity to completely dismiss the Jones suit against him. While the District Judge denied Clinton's immunity request, the judge ordered the stay of any trial in the matter until after Clinton's Presidency. On appeal, the Eighth Circuit affirmed the dismissal denial but reversed the trial deferment ruling since it would be a \"functional equivalent\" to an unlawful grant of temporary presidential immunity.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion, the Court held that the Constitution does not grant a sitting President immunity from civil litigation except under highly unusual circumstances. After noting the great respect and dignity owed to the Executive office, the Court held that neither separation of powers nor the need for confidentiality of high-level information can justify an unqualified Presidential immunity from judicial process. While the independence of our government's branches must be protected under the doctrine of separation of powers, the Constitution does not prohibit these branches from exercising any control over one another. This, the Court added, is true despite the procedural burdens which Article III jurisdiction may impose on the time, attention, and resources of the Chief Executive.</p>\n"
+}

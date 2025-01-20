@@ -1,0 +1,42 @@
+{
+    "ID": 63313,
+    "name": "Greer v. United States",
+    "href": "https://api.oyez.org/cases/2020/19-8709",
+    "view_count": 0,
+    "docket_number": "19-8709",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1610085600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54822"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1618894800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54881"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1623646800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54930"
+        }
+    ],
+    "question": "<p>May a federal appellate court reviewing the decision of a lower court for plain error review matters outside the trial record to determine whether the error affected a defendant\u2019s substantial rights or impacted the fairness, integrity, or public reputation of the trial.</p>\n",
+    "citation": {
+        "volume": "593",
+        "page": null,
+        "year": "2021",
+        "href": "https://api.oyez.org/case_citation/case_citation/27788"
+    },
+    "term": "2020",
+    "description": "A case in which the Court held that under 18 U.S. C. \u00a7922(g)(1), to obtain plain-error relief, a defendant must make a sufficient argument or representation on appeal that he would have presented evidence at trial that he did not know he was a felon.\r\n",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/593/19-8709/",
+    "facts_of_the_case": "<p>In 2007, Tracy A. Greer pleaded guilty to one count of being a felon in possession of a firearm, in violation of 18 U.S.C. \u00a7 922(g), along with numerous other charges not directly relevant to this case. In the plea agreement, the parties agreed that Greer was \u201cpunishable as an Armed Career Criminal\u201d based on his five prior convictions for aggravated burglary under Ohio law. The district court agreed and sentenced Greer to 272 months\u2019 imprisonment.</p>\n<p>In 2015, the U.S. Supreme Court invalidated the \u201cresidual clause\u201d of the Armed Career Criminal Act (ACCA), and in 2016 it made that invalidation retroactive on collateral review. Greer moved to vacate his sentence, but the district court denied his motion, holding that his convictions qualified under the ACCA\u2019s enumerated-offenses clause, not the residual clause. The U.S. Court of Appeals for the Eleventh Circuit affirmed.</p>\n<p>In 2019, the U.S. Supreme Court decided <em>Rehaif v. United States</em>, which held that when a person is charged with possessing a gun while prohibited from doing so under 18 U.S.C. \u00a7 922, the prosecution must prove both that the accused knew that they possessed a gun and that they knew they held the relevant status. The Court granted Greer\u2019s petition for writ of certiorari, vacated the judgment affirming his conviction, and remanded for reconsideration in light of Rehaif.</p>\n<p>On remand, Greer requested that the Eleventh Circuit vacate his conviction or, in the alternative, grant him a new trial, because the prosecution did not prove, nor was the jury instructed to find, that he knew he was a felon when he possessed the firearm.</p>\n<p>The Eleventh Circuit concluded that although Greer had shown plain error, he could not prove that he was prejudiced by the errors or that they affected the fairness, integrity, or public reputation of his trial. To reach this conclusion, the court looked at the entire trial record and Greer\u2019s previous convictions, not merely the evidence submitted to the jury. Greer again petitioned the Supreme Court for review.</p>\n",
+    "conclusion": "<p>A federal appellate court reviewing the decision of a lower court for plain error may review matters outside the trial record to determine whether the error affected a defendant\u2019s substantial rights, and an error under <em>Rehaif v. United States</em>, is not a basis for plain-error relief unless the defendant first makes a sufficient argument or representation on appeal that he would have presented evidence at trial that he did not in fact know he was a felon. Justice Brett Kavanaugh authored the majority opinion.</p>\n<p>Rule 51(b) of the Federal Rules of Criminal Procedure provides that a defendant can preserve a claim of error \u201cby informing the court\u201d of the claimed error when the relevant \u201ccourt ruling or order is made or sought.\u201d Rule 52(b) allows an appellate court to review for \u201cplain error\u201d \u201ceven though it was not brought to the court\u2019s attention\u201d if it \u201caffects substantial rights.\u201d Thus, the defendant must show that, if</p>\n<p>the district court had correctly instructed the jury on the mental culpability element of a felon-in-possession offense, there is a \u201creasonable probability\u201d that he would have been acquitted. If the defendant does not dispute the fact of his prior convictions, he has not met this burden. Such is the case here. Further, the Supreme Court has repeatedly held that an appellate court conducting plain-error review may consider the entire record\u2014not just the record from the particular proceeding where the error occurred.</p>\n<p>Justice Sonia Sotomayor authored an opinion concurring in part and dissenting in part. Justice Sotomayor noted that the Court\u2019s analysis does not extend to harmless-error review and that the knowledge-of-status element is an element just like any other, which the government must prove it beyond a reasonable doubt, while\u00a0defendants seeking relief based on Rehaif errors bear must prove only plain error. She joined the majority as to Greer\u2019s case but as to Gary in the consolidated case would vacate the judgment below and remand so the Fourth Circuit below could address the question whether Gary can prove that the error affected his substantial rights.</p>\n"
+}

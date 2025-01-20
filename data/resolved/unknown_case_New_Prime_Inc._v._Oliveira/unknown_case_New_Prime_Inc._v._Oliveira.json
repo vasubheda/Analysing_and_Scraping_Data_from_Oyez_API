@@ -1,0 +1,42 @@
+{
+    "ID": 62989,
+    "name": "New Prime Inc. v. Oliveira",
+    "href": "https://api.oyez.org/cases/2018/17-340",
+    "view_count": 0,
+    "docket_number": "17-340",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1519624800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54260"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1538542800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54356"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1547532000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54429"
+        }
+    ],
+    "question": "<ol><li>In a dispute over the whether a contract falls within the exemptions in Section 1 of the Federal Arbitration Act (FAA), must a court determine whether the FAA applies, or is that for the arbitrator to decide?</li>\n<li>Does the Section 1 of the FAA, which exempts \u201ccontracts of employment\u201d in certain industries, apply to agreements that purport to establish an independent-contractor relationship?</li>\n</ol>",
+    "citation": {
+        "volume": "586",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27590"
+    },
+    "term": "2018",
+    "description": "A case in which the Court held that (1) a court, not an arbitrator, must determine the applicability of Section 1 of the Federal Arbitration Act, and (2) under that provision, the term \u201ccontracts of employment\u201d includes independent contractor agreements.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/586/17-340/",
+    "facts_of_the_case": "<p>Dominic Oliveira completed an apprenticeship program offered by New Prime Inc. (Prime), an interstate trucking company. After Oliveira graduated from the program, Prime representatives advised Oliveira to set up a limited liability company and work for Prime as an independent contractor, as manifested by an independent contractor operating agreement signed by Oliveira on behalf of his new LLC. Oliveira alleges that Prime exercised significant control over his work, inconsistent with his status as an independent contractor. Oliveira terminated his contractor relationship with Prime and began working as an employee of Prime, where his job responsibilities were \u201csubstantially identical\u201d to those he had as an independent contractor.</p>\n<p>Oliveira then brought a class-action lawsuit against Prime, alleging violations of the Fair Labor Standards Act (FLSA), a state minimum-wage statute, among other claims. Prime filed a motion to compel arbitration under the Federal Arbitration Act (FAA), which Oliveira opposed on the grounds that the contract is exempted under Section 1 of the FAA and that anyway, the question of applicability of the Section 1 exemption was one for the court to decide.</p>\n<p>The district court concluded that the question of applicability of Section 1 of the FAA was for the court to decide, and it then held that \u201ccontracts of employment of transportation workers\u201d does not extend to independent contractors. Having reached this conclusion, the district court ordered additional discovery on the issue of whether Oliveira was an employee or an independent contractor in order to be able to decide whether the contract was a contract of employment under Section 1. The district court thus denied Prime\u2019s motion to compel arbitration.</p>\n<p>The US Court of Appeals for the First Circuit affirmed the district court\u2019s order denying the motion to compel arbitration, finding that the applicability of the FAA is a threshold question for the court to determine. The appellate court then held that Section 1 does apply to agreements that purport to establish an independent-contractor relationship.</p>\n",
+    "conclusion": "<p>In a unanimous (8\u20130) opinion authored by Justice Neil Gorsuch, the Court held that a court should determine whether the FAA applies and that \u201ccontracts of employment\u201d include those that purport to establish an independent-contractor relationship. Looking to the language and structure of the FAA, the Court reasoned that courts may compel arbitration only in arbitration agreements involving commerce or maritime transactions. Thus, a court must make the threshold determination whether the FAA applies to the contract at issue, notwithstanding any delegation clause.</p>\n<p>As to the meaning of \u201ccontracts of employment,\u201d the Court looked to the original meaning and evolution of the phrase, finding that it was not a term of art that referred only to contracts that created an employer-employee relationship, but instead broadly meant \u201cwork agreements.\u201d Using this definition of \u201ccontracts of employment,\u201d the Court held that Oliveira\u2019s agreement with New Prime falls within Section 1\u2019s exception.</p>\n<p>Justice Brett Kavanaugh took no part in the consideration or decision of the case.</p>\n<p>Justice Ruth Bader Ginsburg filed a concurring opinion to clarify that while she would reach the same outcome, the meanings of terms or phrases can and do sometimes evolve, and courts must interpret them flexibly.</p>\n"
+}

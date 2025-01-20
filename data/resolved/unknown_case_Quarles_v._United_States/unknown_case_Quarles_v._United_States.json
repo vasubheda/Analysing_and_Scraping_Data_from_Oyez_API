@@ -1,0 +1,42 @@
+{
+    "ID": 63077,
+    "name": "Quarles v. United States",
+    "href": "https://api.oyez.org/cases/2018/17-778",
+    "view_count": 0,
+    "docket_number": "17-778",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1547186400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54419"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1556082000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54496"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1560142800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54530"
+        }
+    ],
+    "question": "<p>Does the generic definition of burglary, established by the US Supreme Court in <a href=\"https://www.oyez.org/cases/2015/14-6166\"><em>Taylor v. United States</em>, 495 U.S. 575 (1990)</a>, require proof that intent to commit a crime was present at the time of unlawful entry or first unlawful remaining, or only that the defendant formed such intent while \u201cremaining in\u201d the building or structure?</p>\n",
+    "citation": {
+        "volume": "587",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27650"
+    },
+    "term": "2018",
+    "description": "A case in which the Court held that Michigan\u2019s third-degree home-invasion statute substantially corresponds to or is narrower than generic burglary for purposes of qualifying for enhanced sentencing under the Armed Career Criminal Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/587/17-778/",
+    "facts_of_the_case": "<p>Jamar Quarles was charged with being a felon in possession of a firearm, in violation of 18 U.S.C \u00a7 922(g). At his original sentencing, the district court held that Quarles\u2019s conviction for third-degree home invasion was a violent felony under the residual clause of the Armed Career Criminal Act (\u201cACCA\u201d) but declined to rule whether the offense constituted generic burglary. Finding the felon-in-possession conviction to be a third offense under the ACCA, the court sentenced Quarles to 204 months in prison. In light of the US Supreme Court\u2019s decision in <a href=\"https://www.oyez.org/cases/2014/13-7120\"><em>Johnson v. United States</em>, 576 U.S. __ (2015)</a>, in which it held unconstitutionally vague the residual clause of the ACCA, the US Court of Appeals for the Sixth Circuit remanded the case for resentencing. The district court found that Michigan\u2019s crime of third-degree home invasion constituted a \u201cviolent felony\u201d under the ACCA and resentenced Quarles to 204 months\u2019 incarceration.</p>\n<p>Under federal law, a generic burglary is \u201can unlawful or unprivileged entry into, or remaining in, a building or other structure, with intent to commit a crime.\u201d\u00a0Michigan law defines the crime of third-degree home invasion as breaking and entering a dwelling with intent to commit a misdemeanor in the dwelling, entering the dwelling without permission with intent to commit a misdemeanor in the dwelling, or breaking and entering a dwelling and while entering or present in the dwelling, committing a misdemeanor. This third option of intent is the subject of the present dispute. Both the district court and the Sixth Circuit found unpersuasive Quarles\u2019s argument that the Michigan crime lacks the intent-upon-entry element that is required under generic burglary. Under binding Sixth Circuit precedent, generic burglary does not require intent at entry, so the Michigan crime of third-degree home invasion is not broader than the crime of generic burglary.</p>\n",
+    "conclusion": "<p>The generic definition of burglary in 18 U.S.C. \u00a7 924(e) includes, if state law permits it, any unlawful \u201cremaining in\u201d presence in a building or structure \u201cwhen the defendant forms the intent to commit a crime at any time.\u201d Justice Brett Kavanaugh authored the opinion for a unanimous Court.</p>\n<p>The Court first looked to the ordinary usage of the phrase \u201cremaining in,\u201d finding that it refers to a continuous activity. Additionally, a majority of state burglary statutes encompassed the \u201cremaining in\u201d concept at the time the Armed Career Criminal Act (\u201cACCA\u201d) was passed, and all five of the state appellate courts that had addressed the question of timing had embraced the \u201cat any time\u201d position. Finally, the Court considered the purpose of the ACCA\u2014to require enhanced imprisonment terms for repeat \u201carmed career criminals\u201d\u2014would be frustrated if the Court adopted the narrower interpretation requiring intent to be present at the time of the unlawful entry.</p>\n<p>Justice Clarence Thomas joined the majority opinion in full but wrote a separate concurrence to reiterate his view that the Court should revisit its \u201ccategorical approach\u201d to the enumerated-offenses clause of the ACCA.</p>\n"
+}

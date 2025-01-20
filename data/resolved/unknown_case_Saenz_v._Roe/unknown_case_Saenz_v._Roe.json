@@ -1,0 +1,35 @@
+{
+    "ID": 54739,
+    "name": "Saenz v. Roe",
+    "href": "https://api.oyez.org/cases/1998/98-97",
+    "view_count": 0,
+    "docket_number": "98-97",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                916207200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38238"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                926917200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38239"
+        }
+    ],
+    "question": "<p>Does a state statute, authorizing states receiving Temporary Assistance to Needy Families to pay the benefit amount of another State's TANF to its first year residents, violate the Fourteenth Amendment's right-to-travel protections?</p>\n",
+    "citation": {
+        "volume": "526",
+        "page": "489",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18668"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/526/489/",
+    "facts_of_the_case": "<p>Under the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (PRWORA), states receiving Temporary Assistance to Needy Families (TANF) can pay the benefit amount of another State's TANF program to residents who have lived in the State for less than 12 months. When California announced it would enforce this option, Brenda Roe brought this class action, on behalf of other first year residents, challenging the constitutionality of the durational residency requirement. On appeal from successive adverse rulings in the lower courts, the Supreme Court granted Rita Saenz, the Director of California's Department of Social Services, certiorari.</p>\n",
+    "conclusion": "<p>Yes. In a 7-to-2 decision, the Court held that the Fourteenth Amendment protects the right to travel in three ways by: allowing citizens to move freely between states, securing the right to be treated equally in all states when visiting, and securing the rights of new citizens to be treated like long-time citizens of a state. The Court explained that by paying first-year residents the same TNF benefits they received in their state of origin, states treated new residents differently than others who have lived in their borders for over one year. As such, enforcement of the PRWORA power unconstitutionally discriminated among residents.</p>\n"
+}

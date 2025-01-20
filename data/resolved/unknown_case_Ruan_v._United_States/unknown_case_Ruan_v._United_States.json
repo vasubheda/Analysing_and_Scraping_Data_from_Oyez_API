@@ -1,0 +1,42 @@
+{
+    "ID": 63417,
+    "name": "Ruan v. United States",
+    "href": "https://api.oyez.org/cases/2021/20-1410",
+    "view_count": 0,
+    "docket_number": "20-1410",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1636088400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54997"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1646114400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55049"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1656306000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55144"
+        }
+    ],
+    "question": "<p>May a physician alleged to have prescribed controlled substances outside the usual course of professional practice be convicted of unlawful distribution under 21 U.S.C. \u00a7 841(a)(1) regardless of whether he \u201creasonably believed\u201d or \u201csubjectively intended\u201d that his prescriptions fall within that course of professional practice?</p>\n",
+    "citation": {
+        "volume": "597",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27853"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held that a physician may be convicted of unlawful distribution under 21 U.S.C. \u00a7 841(a)(1) only if he knowingly or intentionally acted without authorization.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/597/20-1410/",
+    "facts_of_the_case": "<p>A federal jury in Alabama convicted Xiulu Ruan and several other pain management physicians of running a medical practice constituting a racketeering enterprise in violation of several federal statutes, including provisions of the Controlled Substances Act. Ruan allegedly prescribed medicines, including Schedule II drugs (many of which are opioids), outside the standard of care for his practice. At trial, prosecutors showed that Ruan and other physicians in his practice prescribed medications for their own financial gain rather than for the benefit of their patients. Ruan and other defendants challenged their convictions, and the U.S. Court of Appeals for the Eleventh Circuit affirmed.</p>\n",
+    "conclusion": "<p>The crime of prescribing controlled substances outside the usual course of professional practice, in violation of 21 U.S.C. \u00a7 841, requires that the defendant \u201cknowingly or intentionally\u201d acted in an unauthorized manner. Justice Stephen Breyer authored the majority opinion of the Court.</p>\n<p>In general, criminal law seeks to punish conscious wrongdoing. Thus, when a criminal statute is silent as to the mental state required, courts infer a requirement of knowledge or intent. When it is not silent, the general mental state provision applies to each term of the provision. Thus, the \u201cknowingly or intentionally\u201d requirement of 21 U.S.C. \u00a7 841 applies to the phrase \u201cexcept as authorized.\u201d As such, once the defendant proves their conduct was \u201cauthorized,\u201d the prosecution must prove beyond a reasonable doubt that the defendant acted in an unauthorized manner.</p>\n<p>Justice Samuel Alito authored an opinion concurring in the judgment, in which Justices Clarence Thomas and Amy Coney Barrett joined. Justice Alito looked to the Harrison Act, which preceded the Controlled Substances Act (CSA). Regarding the Harrison Act, the Court held that a registered physician acts \u201cin the course of his professional practice\u201d when the physician writes prescriptions \u201cin good faith.\u201d Justice Alito would thus hold that this rule applies under the CSA and vacate the judgments below and remand for further proceedings.</p>\n"
+}

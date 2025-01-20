@@ -1,0 +1,35 @@
+{
+    "ID": 54283,
+    "name": "Rubin v. Coors Brewing Company",
+    "href": "https://api.oyez.org/cases/1994/93-1631",
+    "view_count": 0,
+    "docket_number": "93-1631",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                786175200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37396"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                798267600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37397"
+        }
+    ],
+    "question": "<p>Does the Federal Alcohol Administration Act\u2019s prohibition of displaying alcohol content on beer labels violate the First Amendment\u2019s protection of commercial speech?</p>\n<p>\u00a0</p>\n",
+    "citation": {
+        "volume": "514",
+        "page": "476",
+        "year": "1995",
+        "href": "https://api.oyez.org/case_citation/case_citation/18212"
+    },
+    "term": "1994",
+    "description": "a case in which the Court held that for the government to regulate commercial speech, the government must have a substantial interest that the regulation directly affects. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/514/476/",
+    "facts_of_the_case": "<p>Coors Brewing Co. (Coors) applied to the Bureau of Alcohol, Tobacco and Firearms for an approval of proposed labels. The approval was rejected because it violated the Federal Alcohol Administration Act\u2019s (FAAA) prohibition of disclosing the alcohol content on beer labels or advertisements. Coors filed a claim arguing the regulation violated the First Amendment\u2019s protection of commercial speech. The government argued the regulation was necessary to prevent \u201cstrength wars\u201d among brewers, which in this case, refers to breweries competing on the basis of the potency of their alcohol.</p>\n<p>The district court found in favor of Coors, but the U.S. Court of Appeals for the Tenth Circuit reversed the judgment and remanded the case back to the district court. The district court subsequently upheld the ban of alcohol content in advertising, but not on labels. The government appealed, and the court of appeals affirmed the judgment of the lower court by concluding that the label ban did not prevent strength wars.</p>\n",
+    "conclusion": "<p>Yes. Justice Clarence Thomas delivered the opinion for the 9-0 majority. The Court held that for the government to regulate commercial speech, the government must have a substantial interest that the regulation directly affects. In this case, the interest the government intended to protect by banning the display of alcohol content on beer labels was to limit the \u201cstrength wars\u201d of competing beer companies, which could lead to greater alcoholism. However, the Court concluded that this interest was not substantial enough, since there was no reason to believe that banning the alcoholic content on beer labels would prevent such social harms. The regulation also does not directly advance the suppression of strength wars, especially since other provisions of the FAAA directly counteract its effects. Finally, the Court held the regulation was more extensive than necessary, since there were available and effective alternatives that would not violate the First Amendment.</p>\n<p>Justice John Paul Stevens delivered a concurring opinion emphasizing the regulation is unconstitutionality of the regulation because it did not increase consumer awareness, but instead blinded the public to the truth of the alcohol content.</p>\n"
+}

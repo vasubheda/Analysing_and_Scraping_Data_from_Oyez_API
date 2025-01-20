@@ -1,0 +1,35 @@
+{
+    "ID": 54720,
+    "name": "Florida v. White",
+    "href": "https://api.oyez.org/cases/1998/98-223",
+    "view_count": 0,
+    "docket_number": "98-223",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                922168800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38204"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                926917200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38205"
+        }
+    ],
+    "question": "<p>Does the Fourth Amendment require the police to obtain a warrant before seizing an automobile from a public place when they have probable cause to believe that it is forfeitable contraband under the Florida Contraband Forfeiture Act?</p>\n",
+    "citation": {
+        "volume": "526",
+        "page": "559",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18649"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/526/559/",
+    "facts_of_the_case": "<p>Two months after officers observed Tyvessel Tyvorus White using his car to deliver cocaine, he was arrested at his workplace on unrelated charges. At the same time, the arresting officers seized his car, without securing a warrant, because they believed that it was subject to forfeiture under the Florida Contraband Forfeiture Act. During a subsequent inventory search, the police discovered cocaine in the car. White was then charged with possession of a controlled substance in violation of Florida law. At White's trial on the drug charge, he moved to suppress the evidence discovered during the search, arguing that the car's warrantless seizure violated the Fourth Amendment, thereby making the cocaine the \"fruit of the poisonous tree.\" After the jury returned a guilty verdict, the court denied the motion. On appeal, the Florida First District Court of Appeal affirmed. The court also certified to the Florida Supreme Court the question whether, absent exigent circumstances, a warrantless seizure of an automobile under the Act violated the Fourth Amendment. The Florida Supreme Court answered that the warrantless seizure did violate the Fourth Amendment, quashed the lower court opinion, and remanded. The court reasoned that although the police developed probable cause to believe a violation of the Act had occurred, this alone did not justify a warrantless seizure.</p>\n",
+    "conclusion": "<p>No. In a 7-2 opinion delivered by Justice Clarence Thomas, the Court held that the Fourth Amendment does not require the police to obtain a warrant before seizing an automobile from a public place when they have probable cause to believe that it is forfeitable contraband. Thomas wrote: \"Although the police here lacked probable cause to believe that [White's] car contained contraband, they had probable cause to believe that the vehicle itself was contraband under Florida law. ... [T]he need to seize readily movable contraband before it is spirited away...is equally weighty when the automobile, as opposed to its contents, is the contraband that the police seek to secure.\" In dissenting, Justices John Paul Stevens and Ruth Bader Ginsburg concluded that the seizure was not reasonable without a warrant.</p>\n"
+}

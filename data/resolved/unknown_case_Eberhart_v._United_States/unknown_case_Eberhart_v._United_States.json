@@ -1,0 +1,35 @@
+{
+    "ID": 55287,
+    "name": "Eberhart v. United States",
+    "href": "https://api.oyez.org/cases/2005/04-9949",
+    "view_count": 0,
+    "docket_number": "04-9949",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1130738400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39420"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                1130738400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53378"
+        }
+    ],
+    "question": "<p>Does Federal Rule of Criminal Procedure 33, which creates a seven-day limit for filing a motion for a new trial that is not based on newly discovered evidence, create a jurisdictional bar that prevents a district court from granting a new trial?</p>\n",
+    "citation": {
+        "volume": "546",
+        "page": "12",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19215"
+    },
+    "term": "2005",
+    "description": "A case in which the Court held that Federal Rule of Criminal Procedure 33, which creates a seven-day limit for filing a motion for a new trial that is not based on newly discovered evidence, was not a jurisdictional rule but rather a claim-processing one.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/546/12/",
+    "facts_of_the_case": "<p>Ivan Eberhart was convicted of conspiring to distribute cocaine. He filed a motion for judgment of acquittal or for a new trial on the last day available for post-trial motions. Eberhart claimed that a flaw in the transcript published to the jury provided the basis for his motion. Six months later, he filed a \u201csupplemental memorandum\u201d alleging two additional grounds for his motion: the admission of potential hearsay testimony into evidence, and the district court\u2019s failure to give a \u201cbuyer-seller instruction\u201d to the jury. The district court granted Eberhart\u2019s motion for a new trial. However, the U.S. Court of Appeals for the Seventh Circuit reversed and held that the district court did not have jurisdiction to grant a new trial under Federal Rule of Criminal Procedure 33, which states that a motion for a new trial that is not based on new evidence must be filed within seven days of the verdict. Because Eberhart filed after the seven-day deadline, a new trial could not be granted.</p>\n",
+    "conclusion": "<p>Federal Rule of Criminal Procedure 33 creates an inflexible claim-processing rule, not a jurisdictional one. In a per curiam opinion, the unanimous Court held that the U.S. Court of Appeals for the Seventh Circuit erred in claiming that Federal Rule of Criminal Procedure 33 created a jurisdictional bar that prevented the district court from granting Eberhart\u2019s motion. Further, the Court held that the government forfeited the defense of untimeliness because it was raised after the district court reached its decision on merits.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55909,
+    "name": "Salinas v. Texas",
+    "href": "https://api.oyez.org/cases/2012/12-246",
+    "view_count": 0,
+    "docket_number": "12-246",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1357884000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41090"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1366174800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41091"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1371445200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41092"
+        }
+    ],
+    "question": "<p>Does the Fifth Amendment's Self-Incrimination Clause protects a defendant's refusal to answer questions asked by law enforcement before he has been arrested or read his Miranda rights?</p>\n",
+    "citation": {
+        "volume": "570",
+        "page": "178",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19831"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that the Fifth Amendment's Self-Incrimination clause does not protect individuals that have not been arrested.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/570/178/",
+    "facts_of_the_case": "<p>In 1992, Houston police officers found two homicide victims. The investigation led officers to Genovevo Salinas. Salinas agreed to accompany the officers to the police station where he was questioned for about one hour. Salinas was not under arrest at this time and had not been read his Miranda rights. Salinas answered every question until an officer asked whether the shotgun shells found at the scene of the crime would match the gun found in Salinas' home. According to the officer, Salinas remained silent and demonstrated signs of deception. A ballistics analysis later matched Salinas' gun with the casings at the scene. Police also found a witness who said Salinas admitted to killing the victims. In 1993, Salinas was charged with the murders, but could not be located.</p>\n<p>15 years later, Salinas was finally captured. The first trial ended in a mistrial. At the second trial, the prosecution attempted to introduce evidence of Salinas' silence about the gun casings. Salinas objected, arguing that he could invoke his Fifth Amendment protection against self-incrimination whether he was in custody or not. The trial court admitted the evidence and Salinas was found guilty and sentenced to 20 years in prison and a $5,000 fine. The Fourteenth Court of Appeals, Harris County, Texas affirmed, noting that the courts that have addressed this issue are divided. The Court of Criminal Appeals of Texas affirmed.</p>\n",
+    "conclusion": "<p>No. Justice Samuel A. Alito announced the judgment for a divided Court. Justice Alito, joined by Chief Justice Roberts and Justice Kennedy concluded that the Fifth Amendment's privilege against self-incrimination does not extend to defendants who simply decide to remain mute during questioning. Long-standing judicial precedent has held that any witness who desires protection against self-incrimination must explicitly claim that protection. This requirement ensures that the government is put on notice when a defendant intends to claim this privilege and allows the government to either argue that the testimony is not self-incriminating or offer immunity. The plurality reiterated two exceptions to this principle: 1) that a criminal defendant does not need to take the stand at trial in order to explicitly claim this privilege; and 2) that failure to claim this privilege must be excused when that failure was due to government coercion. The opinion declined to extend these exceptions to the situation in this case. Notwithstanding popular misconceptions, the Court held that the Fifth Amendment does not establish a complete right to remain silent but only guarantees that criminal defendant may not be forced to testify against themselves. Therefore, as long as police do not deprive defendants of the opportunity to claim a Fifth Amendment privilege, there is no Constitutional violation.</p>\n<p>In a separate opinion, Justice Clarence Thomas wrote that Salinas' Fifth Amendment privilege would not have been applicable even if invoked because the prosecutor's testimony regarding his silence did not compel Salinas to give self-incriminating testimony. Justice Antonin Scalia joined in the opinion.</p>\n<p>Justice Stephen G. Breyer wrote a dissent in which he argued that Salinas' silence was enough to claim the Fifth Amendment privilege and that the majority's decision raised clear problems for uneducated defendants who may not know the explicit language necessary to protect their rights. Justice Ruth Bader Ginsburg, Justice Sonia Sotomayor, and Justice Elena Kagan joined in the dissent.</p>\n"
+}

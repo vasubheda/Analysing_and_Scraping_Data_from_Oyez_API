@@ -1,0 +1,42 @@
+{
+    "ID": 56146,
+    "name": "McFadden v. United States",
+    "href": "https://api.oyez.org/cases/2014/14-378",
+    "view_count": 0,
+    "docket_number": "14-378",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1421388000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41751"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1429592400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41752"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1434603600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52758"
+        }
+    ],
+    "question": "<p>To convict someone under the Controlled Substances Analogue Act, does the government need to prove that the defendant knew the substance was an analogue to a controlled substance?</p>\n",
+    "citation": {
+        "volume": "576",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20968"
+    },
+    "term": "2014",
+    "description": "A case in which the Court decided that in order to fulfill the intent element of The Controlled Substance Analogue Enforcement Act of 1986, a person must either know that the substance is a controlled substance or be aware of what the substance is without knowing that it is controlled.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/576/186/",
+    "facts_of_the_case": "<p>Stephen McFadden sold overstocked products on the Internet to augment his income. In 2011, McFadden noticed that a lot of businesses where he lived were selling a product known as \"bath salts,\" an aromatherapy product that emits a stimulating vapor when burned. After confirming that bath salts were not illegal, McFadden began selling them like his other products. He continued to sell them until he learned they had been placed on the list of substances that the Controlled Substances Act (CSA) prohibited.</p>\n<p>The government prosecuted McFadden under the Controlled Substances Analogue Enforcement Act of 1986, which allows substances not listed as \"controlled\" to be treated as illegal if the analogue has effects and a chemical make-up that are \"substantially similar\" to those listed in the CSA. At trial, McFadden argued that the state needed to prove that he was aware, or actively resisted finding out, that the bath salts were substantially similar to a controlled substance and constituted an analogue. Instead, the district court held that the state only needed to prove that the petitioner knew \"the products were intended for human consumption.\" The U.S. Court of Appeals for the Fourth Circuit affirmed.</p>\n",
+    "conclusion": "<p>Yes. Justice Clarence Thomas delivered the opinion of the 9-0 majority. The Court held that, in order to fulfill the intent element, the defendant may either know that the substance in question is a controlled substance without knowing what the substance is, or may know what the substance is but not know that it is controlled. In either scenario, the defendant is aware of all he needs to know to fulfill the knowledge element. A complete and thorough knowledge of the law surrounding controlled substances is not necessary to fulfill the knowledge requirement, and even in a case where the defendant does not know of the Analogue Act, he may be found guilty because ignorance of the law is no excuse.</p>\n<p>Chief Justice John G. Roberts, Jr., wrote an opinion concurring in part and concurring in the judgment in which he argued that knowledge of the identity of the substance fell short of satisfying the knowledge element. In this instance, ignorance of the law could be a defense because the individual could lack knowledge of the legal element: the fact that the substance is controlled.\u00a0</p>\n"
+}

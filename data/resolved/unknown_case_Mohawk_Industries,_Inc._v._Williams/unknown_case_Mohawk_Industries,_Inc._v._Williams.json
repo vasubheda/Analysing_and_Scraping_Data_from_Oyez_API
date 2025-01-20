@@ -1,0 +1,42 @@
+{
+    "ID": 55321,
+    "name": "Mohawk Industries, Inc. v. Williams",
+    "href": "https://api.oyez.org/cases/2005/05-465",
+    "view_count": 0,
+    "docket_number": "05-465",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1134367200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39511"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1146027600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39512"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1149483600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39513"
+        }
+    ],
+    "question": "<p>May a corporation be held liable under the Racketeer Influenced and Corrupt Organizations Act for actions in which only it and its non-employee agents were involved?</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "516",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20637"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/547/516/",
+    "facts_of_the_case": "<p>A group of current and former employees of Mohawk Industries brought suit against Mohawk in federal district court under the Racketeer Influenced and Corrupt Organizations Act (RICO). They claimed that Mohawk had conspired with third-party employment recruiters to bring illegal immigrants into Georgia to work for the company, and that the resulting competition for jobs hurt the legal workers. Mohawk asked the court to dismiss the case because, it argued, the plaintiffs had not shown that there were two distinct entities involved in the illegal activity as required under RICO. The only parties involved were the Mohawk corporation and the third-party recruiters, which were acting as its \"agents.\" Mohawk argued that, because the recruiters were working on behalf of the corporation rather than in cooperation with (but distinct from) it, they should not be considered separate entities. The Eleventh Circuit Court of Appeals disagreed, ruling that the recruiters and the corporation were distinct and that RICO could therefore apply.</p>\n",
+    "conclusion": "<p>Not answered. In a <em>per curiam</em> opinion, the Supreme Court dismissed the case as improvidently granted. They sent it back to the Eleventh Circuit to be considered in light of <em>Anza v. Ideal Steel Corporation</em>, another RICO case decided while <em>Mohawk</em> was pending before the Court.</p>\n"
+}

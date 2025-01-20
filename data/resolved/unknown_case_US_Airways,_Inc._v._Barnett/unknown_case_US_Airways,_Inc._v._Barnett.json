@@ -1,0 +1,35 @@
+{
+    "ID": 54948,
+    "name": "US Airways, Inc. v. Barnett",
+    "href": "https://api.oyez.org/cases/2001/00-1250",
+    "view_count": 0,
+    "docket_number": "00-1250",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1007445600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38633"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1020056400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38634"
+        }
+    ],
+    "question": "<p>Does the Americans with Disabilities Act of 1990 require an employer to reassign a disabled employee to a position as a reasonable accommodation even though another employee is entitled to hold the position under the employer's seniority system?</p>\n",
+    "citation": {
+        "volume": "535",
+        "page": "391",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/18877"
+    },
+    "term": "2001",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/535/391/",
+    "facts_of_the_case": "<p>In 1990, Robert Barnett injured his back while working in a cargo-handling position at US Airways. Invoking his seniority rights, Barnett transferred to a less physically demanding position in the mailroom. Subsequently, Barnett's new position became open to seniority-based employee bidding under US Airways' seniority system and, ultimately, he lost his job. Barnett then filed suit under the Americans with Disabilities Act of 1990 (ADA), which prohibits an employer from discriminating against \"an individual with a disability\" who with \"reasonable accommodation\" can perform a job's essential functions unless the employer \"can demonstrate that the accommodation would impose an undue hardship on the operation of [its] business.\" In granting US Airways summary judgment, the District Court found that altering a seniority system would result in an \"undue hardship\" to both US Airways and its nondisabled employees. In reversing, the Court of Appeals held that the seniority system was merely a factor in the undue hardship analysis and that a case-by-case, fact intensive analysis is required to determine whether any particular assignment would constitute an undue hardship.</p>\n",
+    "conclusion": "<p>No. In a 5-4 opinion delivered by Justice Stephen G. Breyer, the Court held that the ADA did not require the employer to assign the employee to the mailroom position in violation of the established seniority system. The Court reasoned that an employer's showing that a requested accommodation conflicts with seniority rules is ordinarily sufficient to show that an accommodation is not reasonable. However, the Court added, an employee remains free to present evidence of special circumstances that makes a seniority rule exception reasonable in the particular case. Justice Antonin Scalia, in a dissent joined by Justice Clarence Thomas, argued that the accommodation provision of the ADA requires the suspension, within reason, of employment rules and practices that an employee's disability prevents him from observing. Also dissenting, Justice David H. Souter, joined by Justice Ruth Bader Ginsburg, argued that US Airways failed to establish any burden brought on by accommodating Barnett.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55959,
+    "name": "Comcast v. Behrend",
+    "href": "https://api.oyez.org/cases/2012/11-864",
+    "view_count": 0,
+    "docket_number": "11-864",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1340600400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41237"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1352095200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41238"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1364360400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41239"
+        }
+    ],
+    "question": "<p>Is a district court allowed to certify a class without adequate admissible evidence that damages may be measured and quantified on a class-wide basis?</p>\n",
+    "citation": {
+        "volume": "569",
+        "page": "27",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19881"
+    },
+    "term": "2012",
+    "description": "A case in which the Court found that district courts cannot certify a class without adequate admissible evidence that damages may be measured and quantified on a class-wide basis.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/569/27/",
+    "facts_of_the_case": "<p>In 2003, Caroline Behrend, along with Stanford Glaberson, Joan Evanchuk-Kind, and Eric Brislawn, brought an antitrust class action suit against Comcast Corporation. The petitioners were all Comcast cable customers, alleging that the company obtained a monopoly on the cable market in violation of the Sherman Antitrust Act. By contracting with competitors to swap customers and subsume the regional cable markets, the company excluded and prevented competition amongst cable providers in the Philadelphia area. The proposed class of plaintiffs included all cable television customers in the Philadelphia area who subscribe or subscribed to Comcast's video programming services since December 1999.</p>\n<p>In May 2007, the US District Court for the Eastern District of Pennsylvania certified the class, allowing the case to move forward. In light of a new antitrust decision in 2008 on class certification from the U.S. Court of Appeals for the Third Circuit, the District Court reconsidered its certification decision. The court held evidentiary hearings in October 2009, which consisted of dozens of expert testimonies and depositions. Following the hearings, the District Court recertified the class, finding sufficient evidence of a common impact amongst class members and a common methodology available to measure damages on a class-wide basis. Comcast subsequently appealed and the Court of Appeals affirmed the lower court decision.</p>\n",
+    "conclusion": "<p>No. In a 5-4 majority opinion, Justice Antonin Scalia, joined by Chief Justice Roberts and Justices Alito, Thomas, and Kennedy, held that the plaintiff\u2019s class action was improperly certified under Federal Rule of Civil Procedure 23(b)(3) because the lower courts failed to entertain competing arguments against the plaintiff\u2019s claim for damages. Specifically, Justice Scalia noted that the lower courts only required that the plaintiffs provide a method to measure and quantify damages for the class without deciding whether such a method was a just and reasonable inference or if it was based on speculation. Because the lower courts failed to adequately establish the economic impact Comcast\u2019s actions had on the plaintiffs, the lower courts were reversed.</p>\n<p>Justice Ruth Bader Ginsburg and Justice Stephen Breyer wrote a joint dissent joined by Justices Sotomayor and Kagan. They argued that the Supreme Court did not actually decide the issue granted in the writ of certiorari. Instead, they argued that the court addressed the \u201cmerits arguments\u201d present in Federal Rule of Civil Procedure 23. Because the question was reformed, it was inadequately addressed and the Court should not have issued a ruling.</p>\n"
+}

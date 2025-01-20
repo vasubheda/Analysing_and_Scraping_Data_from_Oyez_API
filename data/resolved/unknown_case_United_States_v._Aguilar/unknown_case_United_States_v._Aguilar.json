@@ -1,0 +1,35 @@
+{
+    "ID": 54317,
+    "name": "United States v. Aguilar",
+    "href": "https://api.oyez.org/cases/1994/94-270",
+    "view_count": 0,
+    "docket_number": "94-270",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                795679200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37456"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                803710800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37457"
+        }
+    ],
+    "question": "<p>(1) Can an individual who endeavors to obstruct a grand jury proceeding by making false and misleading statements to prospective witnesses be prosecuted for obstruction of justice?</p>\n<p>(2) Can an individual who knows of a wiretap and discloses it to a target in order to obstruct the interception of the target's conversations be found guilty, regardless of whether the authorization had expired by the time the disclosure was made?</p>\n",
+    "citation": {
+        "volume": "515",
+        "page": "593",
+        "year": "1995",
+        "href": "https://api.oyez.org/case_citation/case_citation/18246"
+    },
+    "term": "1994",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/515/593/",
+    "facts_of_the_case": "<p>In 1986 and 1987, the FBI investigated Michael Rudy Tham and Abe Chapman as part of a nationwide investigation into healthcare provider fraud.  The judge on the case authorized a wiretap of Tham and Chapman\u2019s phones.  He kept these wiretaps secret. Chapman was distantly related to U.S. District Court Judge Robert P. Aguilar.  When Chapman asked Aguilar for help in the case, Aguilar talked to the judge on the case and learned about the wiretap.  Though the wiretap order had expired, Aguilar told Chapman about it.  When FBI agents questioned Aguilar on the matter, he lied about his knowledge and participation in the case.  Aguilar was tried and convicted in the U.S. District Court for the Northern District of California for disclosing a wiretap and endeavoring to obstruct the due administration of justice.  The U.S. Court of Appeals for the Ninth Circuit reversed the convictions, holding that disclosing an expired wiretap does not violate the law, and Aguilar did not obstruct justice because the grand jury investigating the case did not order the FBI investigation.</p>\n",
+    "conclusion": "<p>No, Yes.  Chief Justice William H. Rehnquist delivered the opinion of the court, affirming in part and reversing in part.  The Supreme Court held that making false statements to an FBI agent who may or may not testify at trial is not sufficient to support a conviction for obstruction of justice.  Aguilar\u2019s conviction for disclosing a wiretap was proper, however, because the statute does not require that the wiretap is currently in force.  The First Amendment did not require excluding expired wiretaps from the statute either.</p>\n<p>Justice John Paul Stevens concurred in part and dissented in part, agreeing that Aguilar\u2019s conviction for obstructing justice should be overturned, but arguing that the wiretapping conviction should be overturned as well.  There was no way Aguilar could interfere with a wiretap that no longer existed.</p>\n<p>Justice Antonin Scalia also concurred in part and dissented in part, agreeing to affirm the disclosure of wiretapping conviction, but arguing that the obstruction of justice should be affirmed as well.</p>\n"
+}

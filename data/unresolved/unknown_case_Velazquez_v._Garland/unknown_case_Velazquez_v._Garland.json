@@ -1,0 +1,33 @@
+{
+    "ID": 63698,
+    "name": "Velazquez v. Garland",
+    "href": "https://api.oyez.org/cases/2024/23-929",
+    "view_count": 0,
+    "docket_number": "23-929",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1719896400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55518"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1731391200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55519"
+        }
+    ],
+    "question": "<p>When a noncitizen\u2019s voluntary-departure period ends on a weekend or public holiday, is a motion to reopen filed the next business day sufficient to avoid the penalties for failure to depart under 8 U.S.C. \u00a7 1229c(d)(1)?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28032"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether, when a noncitizen's voluntary-departure period ends on a weekend or public holiday, a motion to reopen filed the next business day is sufficient to avoid the penalties for failure to depart under 8 U.S.C. \u00a7 1229c(d)(1).",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-929/"
+}

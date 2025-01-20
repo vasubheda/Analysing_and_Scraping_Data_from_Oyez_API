@@ -1,0 +1,35 @@
+{
+    "ID": 54179,
+    "name": "Campbell v. Acuff-Rose Music, Inc.",
+    "href": "https://api.oyez.org/cases/1993/92-1292",
+    "view_count": 0,
+    "docket_number": "92-1292",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                752824800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37204"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                763020000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37205"
+        }
+    ],
+    "question": "<p>May 2 Live Crew's commercial parody of Roy Orbison's \"Oh, Pretty Woman\" be a fair use within the meaning of the Copyright Act of 1976?</p>\n",
+    "citation": {
+        "volume": "510",
+        "page": "569",
+        "year": "1994",
+        "href": "https://api.oyez.org/case_citation/case_citation/18108"
+    },
+    "term": "1993",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/510/569/",
+    "facts_of_the_case": "<p>Acuff-Rose Music, Inc. sued 2 Live Crew and their record company, claiming that 2 Live Crew's song \"Pretty Woman\" infringed Acuff-Rose's copyright in Roy Orbison's \"Oh, Pretty Woman.\" The District Court granted summary judgment for 2 Live Crew, holding that its song was a parody that made fair use of the original song. In reversing, the Court of Appeals held that the commercial nature of the parody rendered it presumptively unfair.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion delivered by Justice David H. Souter, the Court held that a parody's commercial character is only one element to be weighed in a fair use enquiry and that insufficient consideration was given to the nature of parody in weighing the degree of copying. The Court found that the Court of Appeals erred in applying the presumption that the commercial nature of the parody rendered it presumptively unfair, as no such evidentiary presumption was available to address either the character and purpose of the use or the market harm. Justice Souter wrote that the appellate court \"erred in holding that 2 Live Crew had necessarily copied excessively from the Orbison original, considering the parodic purpose of the use.\" Justice Anthony M. Kennedy filed a concurring opinion.</p>\n"
+}

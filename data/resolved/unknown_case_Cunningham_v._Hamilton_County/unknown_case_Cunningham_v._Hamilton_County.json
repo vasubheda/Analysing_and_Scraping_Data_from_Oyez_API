@@ -1,0 +1,35 @@
+{
+    "ID": 54761,
+    "name": "Cunningham v. Hamilton County",
+    "href": "https://api.oyez.org/cases/1998/98-727",
+    "view_count": 0,
+    "docket_number": "98-727",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                924498000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38281"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                929336400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38282"
+        }
+    ],
+    "question": "<p>Is an order imposing sanctions on an attorney, pursuant to Federal Rule of Civil Procedure 37(a)(4), a final decision and, thus, immediately appealable?</p>\n",
+    "citation": {
+        "volume": "527",
+        "page": "198",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18690"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/527/198/",
+    "facts_of_the_case": "<p>Teresa L. Cunningham, an attorney representing a plaintiff, was served with a request for interrogatories and documents with responses due within 30 days after service. Cunningham failed to comply with those discovery orders, and a Magistrate Judge granted Hamilton County's motion for sanctions against her under Federal Rule of Civil Procedure 37(a)(4). The District Court affirmed the Magistrate Judge's order for sanctions. The court also disqualified Cunningham as counsel. Although the District Court proceedings were ongoing, Cunningham immediately appealed the order affirming the sanctions award. The Court of Appeals dismissed the case for lack of jurisdiction because federal appellate court jurisdiction is ordinarily limited to appeals from \"final decisions of the district courts.\" The court also held that the sanctions order was not immediately appealable under the collateral order doctrine, which provides that certain orders may be appealed, notwithstanding the absence of final judgment, because Cunningham's appeal was not completely separate from the merits of the case.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Clarence Thomas, the Court held that an order imposing sanctions on an attorney pursuant to Rule 37(a)(4) is not a \"final decision,\" even where the attorney no longer represents a party in the case. \"To permit an immediate appeal from such a sanctions order would undermine the very purposes of Rule 37(a), which was designed to protect courts and opposing parties from delaying or harassing tactics during the discovery process,\" Justice Thomas wrote for the Court. The Court concluded that piecemeal appeals and concomitant delays would preclude final judgement if such immediate appeals were possible. Justice Anthony M. Kennedy wrote a concurring opinion.</p>\n"
+}

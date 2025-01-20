@@ -1,0 +1,42 @@
+{
+    "ID": 55443,
+    "name": "Philip Morris USA v. Williams",
+    "href": "https://api.oyez.org/cases/2006/05-1256",
+    "view_count": 0,
+    "docket_number": "05-1256",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1148965200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39834"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1162274400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39835"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1171951200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39836"
+        }
+    ],
+    "question": "<p>1) Can a court's determination that a defendant's conduct was highly reprehensible and analogous to crime override the constitutional requirement that punitive damages must be reasonably related to the harm to the plaintiff?</p>\n<p>2) Does due process permit a jury to punish a defendant for the effects of its conduct on non-parties?</p>\n",
+    "citation": {
+        "volume": "549",
+        "page": "346",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20656"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/549/346/",
+    "facts_of_the_case": "<p>Jesse Williams died of lung cancer at age 67 after a life spent smoking three packs of Marlboro cigarettes per day. His widow sued Phillip Morris, the maker of Marlboro cigarettes, alleging that the company had engaged in a deliberate, wide-spread campaign of misinformation on the dangers of smoking. The jury found for Williams and awarded her $821,485.50 in compensatory damages and $79.5 million in punitive damages. However, the trial judge found the punitive damages excessive and reduced them to $32 million.</p>\n<p>Under the Supreme Court's decision <em>BMW v. Gore</em>, punitive damages must be reasonably related to the harm done to the plaintiff, but larger punitive damage awards may be appropriate if the defendant displayed reprehensible conduct. Citing <em>Gore</em>, the Oregon Court of Appeals reinstated the $79.5 million award, holding that Phillip Morris's conduct was reprehensible enough to warrant the large amount.</p>\n<p>The Oregon Supreme Court declined to take the case. However, the U.S. Supreme Court sent the case back for consideration in light of <em>State Farm v. Campbell</em>, which held that punitive damages can normally only be as much as nine times greater than compensatory damages. The Oregon Court of Appeals again affirmed the $79.5 million award, ruling that the reprehensibility of Phillip Morris's conduct justified the larger ratio. The Oregon Supreme Court upheld the decision.</p>\n<p>Phillip Morris appealed to the Supreme Court, arguing that the court had unreasonably exceeded federal guidelines on punitive damages. Phillip Morris also argued that it was unfair to punish the company for its actions toward other smokers who were not parties to the suit.</p>\n",
+    "conclusion": "<p>1) Unconsidered and 2) no. The Court ruled 5-4 that \"the Constitution's Due Process Clause forbids a State to use a punitive damages award to punish a defendant for injury that it inflicts upon nonparties.\" The opinion by Justice Stephen Breyer held that it would be unfair to allow courts to award punitive damages for harm done to \"strangers to the litigation,\" because defendants cannot defend themselves against such limitless and arbitrary charges. The Court did note that \"risk of harm to the general public\" can be taken into account as a component of the reprehensibility of the defendant's actions. Highly reprehensible actions may warrant a larger award of punitive damages, but the award cannot be increased as a direct result of harms inflicted on non-parties. The Court decided not to rule on the question of whether the $79.5 million award was excessive.</p>\n"
+}

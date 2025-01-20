@@ -1,0 +1,35 @@
+{
+    "ID": 55099,
+    "name": "Norfolk & Western Railway Company v. Ayers",
+    "href": "https://api.oyez.org/cases/2002/01-963",
+    "view_count": 0,
+    "docket_number": "01-963",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1036562400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38916"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1047276000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38917"
+        }
+    ],
+    "question": "<p>Can an employer be held liable for pain and suffering caused by a disease that has not yet been contracted? And are railroad companies liable for full damages under FELA even if the actions or negligence of other parties contributed to the damage inflicted?</p>\n",
+    "citation": {
+        "volume": "538",
+        "page": "135",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/19028"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/538/135/",
+    "facts_of_the_case": "<p>Six employees of the Norfolk and Western Railroad Company contracted asbestosis, a disease caused by exposure to asbestos. The employees brought suit under the Federal Employers' Liability Act (FELA), including a damages request for pain and suffering caused by a fear of cancer (which they had not yet contracted). The district court ruled for the plaintiffs. The court of appeals denied discretionary review.</p>\n",
+    "conclusion": "<p>Yes and yes. The court ruled that an employee who has developed asbestosis as a result of the actions or negligence of his employer has a reasonable fear of cancer and may collect damages for the emotional distress caused by this fear. Furthermore, under FELA the railroad is liable for damage caused \"in whole or in part\" by its negligence. It is the responsibility of the railroad to seek contribution from other parties involved in causing the damage.</p>\n"
+}

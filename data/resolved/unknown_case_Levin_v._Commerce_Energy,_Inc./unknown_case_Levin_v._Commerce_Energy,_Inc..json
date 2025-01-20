@@ -1,0 +1,42 @@
+{
+    "ID": 55643,
+    "name": "Levin v. Commerce Energy, Inc.",
+    "href": "https://api.oyez.org/cases/2009/09-223",
+    "view_count": 0,
+    "docket_number": "09-223",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1257141600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40393"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1269234000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40394"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1275368400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40395"
+        }
+    ],
+    "question": "<p>1) Did <em>Hibbs v. Winn</em> eliminate or narrow the doctrine of comity applied in <em>Fair Assessment in Real Estate Association v. McNary</em>, which broadly prevents federal court jurisdiction over cases that intrude on the administration of state taxation?</p>\n<p>2) Do comity principles or the Tax Injunction Act prevent federal court jurisdiction over a case in which taxpayers allege, on equal protection and dormant commerce clause grounds, that their tax assessments are discriminatory relative to other taxpayers assessments?</p>\n",
+    "citation": {
+        "volume": "560",
+        "page": "413",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19566"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that a taxpayer's complaint of allegedly discriminatory state taxation must proceed originally in state court.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/560/413/",
+    "facts_of_the_case": "<p>In-state and out-of-state retail natural gas suppliers sued Ohio's Tax Commissioner in an Ohio federal district court alleging that Ohio's tax scheme was unconstitutional. The plaintiffs argued that because four local natural gas distribution companies benefited from certain tax exemptions that did not benefit the plaintiffs, despite their similar circumstances, the tax scheme violated the Commerce Clause and Equal Protection Clause. The district court dismissed the case for lack of jurisdiction, but the U.S. Court of Appeals for the Sixth Circuit reversed.</p>\n<p>The Sixth Circuit held that federal comity concerns do not bar an action that challenges the tax benefits provided to just four specific entities, but not others similarly situated. The court recognized a circuit split over whether federal comity concerns prevent federal court jurisdiction over a matter. In reaching its conclusion, the Sixth Circuit sided with the Seventh and Ninth Circuits which have interpreted <em>Hibbs v. Winn</em> to mean that comity prevents federal court jurisdiction only when state taxpayers seek federal court orders allowing them to avoid paying state taxes. This was not at issue in this case, and the plaintiffs' success would not significantly intrude upon traditional matters of state taxation in Ohio; thus, the federal court had jurisdiction. The Sixth Circuit remanded the case in order for it to proceed.</p>\n",
+    "conclusion": "<p>No. Yes. The Supreme Court reversed the Sixth Circuit, holding that under the comity doctrine, a taxpayer's complaint of allegedly discriminatory state taxation must proceed originally in state court. With Justice Ruth Bader Ginsburg writing for the majority, the Court reasoned that its decision in <em>Hibbs</em> did not narrow the comity doctrine. Moreover, the Court reasoned that the Ohio courts are better positioned to determine whether Ohio's taxation scheme is unconstitutional.</p>\n<p>Justice Anthony M. Kennedy wrote separately, concurring. He noted that he joined the majority position with the understanding it did not expand the holding in <em>Hibbs</em>. Justice Clarence Thomas, joined by Justice Antonin G. Scalia, concurred in the judgment. He also noted his skepticism of <em>Hibbs</em>. Moreover, Justice Thomas argued that this case should have been dismissed for lack of jurisdiction.</p>\n"
+}

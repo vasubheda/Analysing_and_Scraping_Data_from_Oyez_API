@@ -1,0 +1,35 @@
+{
+    "ID": 55853,
+    "name": "Bobby v. Dixon",
+    "href": "https://api.oyez.org/cases/2011/10-1540",
+    "view_count": 0,
+    "docket_number": "10-1540",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1320645600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40932"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1320645600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40933"
+        }
+    ],
+    "question": "<p>Did the Toledo police violate Dixon's constitutional rights by failing to read his Miranda rights during the forgery questioning?</p>\n<p>Did the police violate the constitution by delaying the reading of Dixon's Miranda rights until the second session of his interrogation for murder?</p>\n<p>Were Dixon's relevant confessions and statements voluntary?</p>\n",
+    "citation": {
+        "volume": "565",
+        "page": null,
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19775"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that a man was not in custody while answering police questions, and thus did not have his Miranda rights violated when they were not recited to him.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/565/23/",
+    "facts_of_the_case": "<p>On September 22nd, 1993, Archie Dixon and Timothy Hoffner arrived at the Toledo home of Kirsten Wilkerson. Christopher Hammer was staying at Wilkerson's house. Upon arriving at Wilkerson's house, Dixon and Hoffner beat up Hammer, tied him to a bed, and robbed him. After restraining Hammer, Dixon and Hoffner proceeded to kill Hammer by burying him alive.</p>\n<p>After burying Hammer alive, Dixon used Hammer's birth certificate and social security card to obtain a state identification card in Hammer's name. He used the new ID to obtain a duplicate auto title to Hammer's car. He then sold Hammer's car to a dealer for $2,800.</p>\n<p>On November 4th, a police detective spoke with Dixon at a local police station in a chance encounter. The detective issued Miranda warnings to Dixon and asked to talk to him about Hammers disappearance; Dixon declined to discuss the disappearance. In the course of the investigation into Hammer's disappearance, the police discovered that Dixon had sold Hammer's car and forged Hammer's signature when cashing the check he received in the sale. On November 9th, the police detained Dixon and charged him with forgery.</p>\n<p>The police questioned Dixon without reading him his Miranda rights. The focus of the questioning was Hammer's disappearance and not Dixon's alleged act of forgery. Dixon asserted his right to have an attorney present, but the police continued to question Dixon without an attorney. Dixon admitted to the auto title forgery but said that he had no knowledge of Hammer's disappearance. Later that day, Hoffner led the police to Hammer's body. The police interviewed Dixon again. They did not inform Dixon of his Miranda rights until the second session because they feared Dixon would request counsel. Dixon confessed to the kidnapping, robbery, and murder.</p>\n<p>At trial, Dixon was convicted and sentenced to death for murder, robbery and kidnapping. The Appellate Court and the Supreme Court of Ohio affirmed the conviction. Dixon appealed to the Court of Appeals of the Sixth Circuit, and Judge Gilbert Merritt, writing for the majority, held that the police should have terminated the forgery interrogation when Dixon requested counsel. The court also held that the police's planned refusal to read Dixon his Miranda rights during the first session of his interrogation for murder was unconstitutional. It further held that Dixon's were not \"voluntary\".</p>\n",
+    "conclusion": "<p>No, no and yes. In a <em>per curiam</em> decision, the Court rejected the Sixth Circuit's ruling. The Court noted that Dixon was not in custody when he asserted his right to an attorney, and denied his ability to assert this right before he was in formal custody. The Court reasoned that the police's failure to give Dixon his Miranda rights during the forgery interrogation was acceptable under the constitution because his later confession to murder was properly warned and voluntary.</p>\n<p>The Court rejected the Sixth Circuit's description of the police's technique as \"question first, warn later\" mainly because Dixon did not repeat a vital earlier admission during the murder interrogation; in other words, the first, unwarned interrogation did not directly enable a confession during the second session. The Court held, generally, that this \"two-step interrogation process\" did not unconstitutionally interfere with the effectiveness of the Miranda warnings given to Dixon.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 55036,
+    "name": "Pierce County v. Guillen",
+    "href": "https://api.oyez.org/cases/2002/01-1229",
+    "view_count": 0,
+    "docket_number": "01-1229",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1036389600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38798"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1042524000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38799"
+        }
+    ],
+    "question": "<p>Does the Hazard Elimination Program exceed Congress's authority under the Commerce Clause?</p>\n",
+    "citation": {
+        "volume": "537",
+        "page": "129",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/18965"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/537/129/",
+    "facts_of_the_case": "<p>The Hazard Elimination Program provides state governments with funding to improve the most dangerous sections of their roads. To be eligible for funding, a state must undertake a thorough evaluation of its public roads. This led to concerns that the absence of confidentiality would increase the liability risk for accidents that took place at hazardous locations before improvements could be made. Ultimately, Congress provided that materials \"compiled or collected\" for purposes of the program \"shall not be subject to discovery or admitted into evidence in a Federal or State court proceeding.\" In 1996, Ignacio Guillen's wife died in an automobile accident in a Pierce County, Washington intersection. While Washington had previously been denied funding for the intersection where the accident occurred, its second request was granted after the accident. Guillen first sought information on the intersection and then asserted that the state had been negligent in failing to install proper traffic controls. Washington sought to protect itself under the Program. The Washington Supreme Court held that the Program exceeded Congress's power under the Constitution.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Clarence Thomas, the Court held that both the original program and its subsequent amendments fall within Congress's Commerce Clause power to \"'regulate the use of the channels of interstate commerce'\" and \"'to regulate and protect the instrumentalities of interstate commerce.'\" The Court concluded that, because Congress could reasonably believe that adopting a measure eliminating an unforeseen side effect of the Program's information-gathering requirement would result in greater safety on the nation's roads, the legislation was aimed at improving safety in the channels of commerce and increasing protections for the instrumentalities of interstate commerce.</p>\n"
+}

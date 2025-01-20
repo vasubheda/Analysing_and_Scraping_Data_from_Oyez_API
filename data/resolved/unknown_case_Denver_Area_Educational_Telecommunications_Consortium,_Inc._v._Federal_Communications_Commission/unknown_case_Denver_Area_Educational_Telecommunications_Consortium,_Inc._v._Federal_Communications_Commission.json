@@ -1,0 +1,35 @@
+{
+    "ID": 54462,
+    "name": "Denver Area Educational Telecommunications Consortium, Inc. v. Federal Communications Commission",
+    "href": "https://api.oyez.org/cases/1995/95-124",
+    "view_count": 0,
+    "docket_number": "95-124",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                824882400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37728"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                835938000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37729"
+        }
+    ],
+    "question": "<p>Do the Television Consumer Protection and Competition Act's empowerments and restrictions violate the petitioner's First Amendment right to freedom of speech?</p>\n",
+    "citation": {
+        "volume": "518",
+        "page": "727",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18391"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/518/727/",
+    "facts_of_the_case": "<p>Sections 10(a) and 10(c) of the 1992 Cable Television Consumer Protection and Competition Act (the Act) empower leased access channel cable operators to control programming that they believe is indecent and obscene. Section 10(b) of the Act requires public access channel cable operators to restrict \"patently offensive\" programming to a single channel, access to which must be restricted to those subscribers who submit written requests. Petitioners, television access programmers and cable television viewers, filed suit alleging that the Act's empowerments and restrictions violated their First Amendment right to freedom of speech. This case was consolidated with Alliance for Community Media v. FCC.</p>\n",
+    "conclusion": "<p>No and yes. In a 6-to-3 decision, The Court held that the Act's grant of authority to leased channel cable operators under 10(a) - allowing them to restrict the transmission of \"patently offensive\" or indecent programming - is consistent with the First Amendment. The authority's discretionary nature and ultimate objective of protecting young viewers from offensive programming, is a constitutionally permissible method of restoring editorial authority to cable operators. By contrast, the Court found provision 10(c), permitting cable operators to ban offensive or indecent programming on public access channels, to be unconstitutional. Public access channels are already supervised by both private and public elements and have never been edited by cable operators in the past. Furthermore, a \"cable operator's veto\" is likely to ban many programs that should have been aired, and the volume of \"patently offensive\" programming on public access channels has never been so high as to warrant severe restrictions on its content. Finally, with respect to Section 10(b), the Court held that its \"segregate and block\" requirements for public access channels is also unconstitutional. Section 10(b), by enabling cable operators to take as many as 30 days to respond to a consumer's request to unlock their restricted channel, is overly restrictive. Also, by blocking out an entire channel, 10(b) does not permit viewers or operators to discern between offensive and \"patently offensive\" programming.</p>\n"
+}

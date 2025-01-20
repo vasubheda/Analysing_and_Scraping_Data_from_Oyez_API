@@ -1,0 +1,42 @@
+{
+    "ID": 62261,
+    "name": "Clark v. Rameker",
+    "href": "https://api.oyez.org/cases/2013/13-299",
+    "view_count": 0,
+    "docket_number": "13-299",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1385445600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52619"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1395637200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52620"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1402549200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52621"
+        }
+    ],
+    "question": "<p>Does the U.S. Bankruptcy Code exempt an inherited IRA from a debtor's estate in bankruptcy?</p>\n",
+    "citation": {
+        "volume": "573",
+        "page": "122",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/27057"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that the U.S. Bankruptcy Code does not exempt inherited retirement accounts from a debtor's estate in bankruptcy proceedings.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/573/122/",
+    "facts_of_the_case": "<p>In 2001, Heidi Heffron-Clark inherited a $300,000 individual retirement account (IRA) from her mother's estate. The U.S. tax code provides special rules for IRAs that are inherited by someone other than the spouse of the deceased. These rules prohibit additional contributions to the inherited account and require the beneficiary to withdraw, and pay taxes on, a minimum amount from the account each year. Heidi and her husband (the \"Clarks\"), filed for bankruptcy in 2010 and claimed the inherited IRA was exempt from creditor claims. A bankruptcy judge ruled that retirement funds must be held for the current owner's retirement in order to qualify as an exempt retirement fund under Section 522 of the U.S. Bankruptcy Code. Because the Clarks were required to withdraw money from the inherited IRA before their retirement, the judge held that the account was subject to creditor claims in the bankruptcy proceeding. The federal district court reversed and held that Heidi's inheritance of the IRA did not change its status as a protected retirement fund. The U.S. Court of Appeals for the Seventh Circuit reversed.</p>\n",
+    "conclusion": "<p>No. Justice Sonia Sotomayor delivered the opinion for the unanimous Court. The Court held that an inherited IRA account did not qualify as a retirement fund for the purposes of exemption under the U.S. Bankruptcy Code. Since the Bankruptcy Code does not explicitly define the term \"retirement fund,\" the Court held that it should retain its ordinary meaning\u2014a fund that is set aside for an individual's retirement. Inherited IRAs do not fit this definition because the individual cannot invest more money in the account and is required to draw money from the account regardless of how far the individual is from retirement. The Court held that allowing an inherited IRA to be exempt from creditor claims would undermine the purpose of the Bankruptcy Code.</p>\n"
+}

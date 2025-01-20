@@ -1,0 +1,42 @@
+{
+    "ID": 55992,
+    "name": "Sprint Communications Co. v. Jacobs",
+    "href": "https://api.oyez.org/cases/2013/12-815",
+    "view_count": 0,
+    "docket_number": "12-815",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1366002000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41312"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1383631200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41313"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1386655200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41588"
+        }
+    ],
+    "question": "<p>Should a federal court abstain under the <em>Younger</em> doctrine when there is no related coercive or enforcement action by the State interfering with the federal proceeding?</p>\n",
+    "citation": {
+        "volume": "571",
+        "page": "69",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/20899"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that a federal court does not need to abstain from deciding a case only because there is a case in state court that deals with the same subject matter.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/571/69/",
+    "facts_of_the_case": "<p>In January 2010, Sprint Communications Co. filed a complaint with the Iowa Utilities Board (\"IUB\") asking for a declaration that it was proper to withhold certain VoIP call access charges from Windstream (formerly Iowa Telecom). Before IUB addressed the complaint, Sprint settled the dispute with Windstream and withdrew its complaint. However, IUB continued the proceeding so that it could decide a greater underlying issue of how VoIP communications should be classified under federal law. In February 2011, IUB issued an order with its own interpretation of VoIP's classification under federal law along with a determination that Sprint was liable to Windstream for the access charges.</p>\n<p>Sprint challenged IUB's order by filing a complaint in both state court and federal district court, alleging that federal law preempts the IUB's decision. In order to proceed with the federal complaint first, Sprint filed a motion to stay the state case until resolution of the federal case. In turn, the IUB filed a motion asking the federal court to abstain and dismiss the case under the doctrine of <em>Younger v. Harris</em>. Generally, this doctrine states that a federal court shall abstain from hearing a case if there is a threat of interference with a state court proceeding involving important state interests. The district court granted IUB's motion and dismissed Sprint's federal complaint. Sprint appealed to the United States Court of Appeals for the Eighth Circuit, which upheld the district court's abstention, but determined that a stay on the federal proceedings was more appropriate than dismissal.</p>\n",
+    "conclusion": "<p>No. Justice Ruth Bader Ginsburg delivered the opinion for a unanimous Court. The Court held that a federal court is not required to abstain from deciding a case simply because there is a case in state court that deals with the same subject matter. Because the <em>Younger</em> doctrine only required a court to abstain when there are parallel criminal cases in federal and state courts or when there are certain civil proceedings that are very similar to criminal ones, it is meant only for exceptional cases. The proceeding in question is civil, not criminal, and does not affect a state court's ability to perform its judicial function, so none of the <em>Younger</em> exceptions are triggered in this case.</p>\n"
+}

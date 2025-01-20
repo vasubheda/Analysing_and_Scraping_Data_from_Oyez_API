@@ -1,0 +1,42 @@
+{
+    "ID": 55663,
+    "name": "United States v. Marcus",
+    "href": "https://api.oyez.org/cases/2009/08-1341",
+    "view_count": 0,
+    "docket_number": "08-1341",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1255410000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40447"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1266991200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40448"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1274677200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40449"
+        }
+    ],
+    "question": "<p>Did the Second Circuit depart from the Supreme Court's interpretation of Federal Rule of Criminal Procedure 52(b) by adopting the \"plain-error\" standard of review for an asserted Ex Post Facto violation?</p>\n",
+    "citation": {
+        "volume": "560",
+        "page": "258",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19585"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that an appellate court may correct an error not raised at trial only when the appellant demonstrates that: (1) there is an error; (2) the error is clear and obvious; (3) the error affected the appellant's substantial rights; and (4) the error seriously affects the fairness, integrity, or public reputation of judicial proceedings.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/560/258/",
+    "facts_of_the_case": "<p>A New York federal district court convicted Glenn Marcus of violating sex trafficking and forced labor provisions of the Trafficking Victims Protection Act (\"TVPA\"). The TVPA was enacted after Mr. Marcus engaged in some of the behavior for which he was charged. Yet, the jury was not instructed as to the date when the TVPA was enacted in relation to Mr. Marcus' allegedly illegal behavior. On appeal, he argued that the TVPA was applied retroactively, and, thus, violated the Ex Post Facto Clause of the Constitution. The United States Court of Appeals for the Second Circuit agreed and reversed the district court. Applying a \"plain-error\" standard of review, the court held that Mr. Marcus was entitled to a new trial on Ex Post Facto grounds. The court reasoned that if it was possible for the jury, who had not been given instructions regarding the date of the TVPA's enactment, to convict exclusively on the defendant's pre-enactment conduct, then the conviction violates the Ex Post Facto clause.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court reversed, holding that the Second Circuit's plain-error standard stands in conflict with the Court's own interpretation of the plain-error rule. Writing for the majority, Justice Stephen G. Breyer stated that an appellate court may, in its discretion, correct an error not raised at trial only when the appellant demonstrates that: (1) there is an error; (2) the error is clear and obvious; (3) the error affected the appellant's substantial rights; and (4) the error seriously affects the fairness, integrity, or public reputation of judicial proceedings. Here, the Second Circuit's standard conflicted with the third and fourth of these criteria.</p>\n<p>Justice John Paul Stevens dissented. He noted that while the Second Circuit reached its decision in an unusual manner, he agreed with its conclusion. Justice Stevens thought the Second Circuit properly exercised its discretion to remedy an error by ordering a retrial.</p>\n"
+}

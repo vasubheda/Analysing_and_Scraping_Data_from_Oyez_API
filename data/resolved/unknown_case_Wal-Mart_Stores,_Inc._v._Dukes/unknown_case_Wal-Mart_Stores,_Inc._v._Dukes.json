@@ -1,0 +1,42 @@
+{
+    "ID": 55788,
+    "name": "Wal-Mart Stores, Inc. v. Dukes",
+    "href": "https://api.oyez.org/cases/2010/10-277",
+    "view_count": 0,
+    "docket_number": "10-277",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1291615200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40760"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1301374800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40761"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1308546000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40762"
+        }
+    ],
+    "question": "<p>Can the small group of women who began the case represent a gigantic class of women?</p>\n",
+    "citation": {
+        "volume": "564",
+        "page": null,
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19710"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that the small group who initiated a lawsuit could not represent all of Wal-Mart's female employees, and therefore could not bring a class action lawsuit against Wal-Mart.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/564/338/",
+    "facts_of_the_case": "<p>Betty Dukes, a Wal-Mart \"greeter\" at a Pittsburg, Calif., store, and five other women filed a class action lawsuit in which they alleged that the company's nationwide policies resulted in lower pay for women than men in comparable positions and longer wait for management promotions than men. The certified class, which in 2001 was estimated to comprise more than 1.5 million women, includes all women employed by Wal-Mart nationwide at any time after December 26, 1998, making this the largest class action lawsuit in U.S. history. Wal-Mart has argued that the court should require employees to file on an individual basis, contending that class actions of this size \u2013 formed under Rule 23(b) of the federal rules of civil procedure \u2014 are inherently unmanageable and unduly costly. The U.S. Court of Appeals for the Ninth Circuit has three times upheld the class certification.</p>\n",
+    "conclusion": "<p>No. The Supreme Court reversed the lower court order in a unanimous opinion by Justice Antonin Scalia. \"Here, proof of commonality necessarily overlaps with respondents' merits contention that Wal-Mart engages in a pattern or practice of discrimination. The crux of a Title VII inquiry is 'the reason for a particular employment decision,' and respondents wish to sue for millions of employment decisions at once,\" Scalia wrote. \"Without some glue holding together the alleged reasons for those decisions, it will be impossible to say that examination of all the class members' claims will produce a common answer to the crucial discrimination question.\" Justice Ruth Bader Ginsburg concurred in part and dissented in part, joined by Justices Stephen Breyer, Sonia Sotomayor and Elena Kagan. \"Whether the class the plaintiffs describe meets the specific requirements of Rule 23(b)(3) is not before the Court, and I would reserve that matter for consideration and decision on remand,\" Ginsburg wrote.</p>\n"
+}

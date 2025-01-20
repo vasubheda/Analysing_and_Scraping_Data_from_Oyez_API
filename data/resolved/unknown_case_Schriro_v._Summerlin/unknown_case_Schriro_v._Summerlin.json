@@ -1,0 +1,42 @@
+{
+    "ID": 55198,
+    "name": "Schriro v. Summerlin",
+    "href": "https://api.oyez.org/cases/2003/03-526",
+    "view_count": 0,
+    "docket_number": "03-526",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1070258400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39170"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1082350800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39171"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1088053200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39172"
+        }
+    ],
+    "question": "<p>Was the change announced by the Supreme Court in Ring v. Arizona substantive in nature and therefore retroactively applicable?</p>\n",
+    "citation": {
+        "volume": "542",
+        "page": "348",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19126"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/542/348/",
+    "facts_of_the_case": "<p>Warren Summerlin killed a loan collector with a hatchet in 1982 and was subsequently convicted of murder. He was sentenced to death by a state trial judge because of the heinous nature of the crime and his previous criminal history. He appealed the sentence, arguing that his attorney's romantic relationship with the prosecutor and the trial judge's proven use of marijuana had prevented him from receiving a fair trial, but the Arizona state courts rejected his appeals.</p>\n<p>In June 2002, however, the U.S. Supreme Court issued its decision in Ring v. Arizona. The decision found that the Sixth Amendment right to jury trial meant that only juries, not judges, could sentence someone to death. The Ring decision gave Summerlin new hope. He appealed his conviction, arguing that the decision changed the substance of the law rather than just the procedure used to apply it, and that it should therefore be applied retroactively. The state countered that the change dealt only with who did the actual sentencing, not with the burden of proof, and was therefore only procedural. Because procedural changes are not applied retroactively under the Supreme Court's 1989 decision in Teague v. Lane, the state argued that Summerlin's sentence should be upheld. A divided Ninth Circuit Court of Appeals disagreed, siding instead with Summerlin and ordering the state to reopen his trial for re-sentencing.</p>\n",
+    "conclusion": "<p>No. In a 5-to-4 decision written by Justice Antonin Scalia, the Court held that the changed announced in Ring v. Arizona was merely procedural and therefore not retroactively applicable. Justice Scalia wrote, \"[W]e give retroactive effect to only a small set of 'watershed rules of criminal procedure implementing the fundamental fairness and accuracy of the criminal proceeding.' That a new procedural rule is 'fundamental' in some abstract sense is not enough; the rule must be one 'without which the likelihood of an accurate conviction is <em>seriously</em> diminished.\" (Italics Scalia's, citation omitted). Because the Court could not confidently say that fact-finding by a judge rather than a jury seriously diminished accuracy, it could not apply its Ring ruling retroactively.</p>\n"
+}

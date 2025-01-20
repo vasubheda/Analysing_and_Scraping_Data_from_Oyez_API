@@ -1,0 +1,42 @@
+{
+    "ID": 55811,
+    "name": "AT&T Mobility LLC v. Concepcion",
+    "href": "https://api.oyez.org/cases/2010/09-893",
+    "view_count": 0,
+    "docket_number": "09-893",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1274677200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40816"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1289282400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40817"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1303880400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40818"
+        }
+    ],
+    "question": "<p>Does the FAA preempt states from conditioning the enforcement of an arbitration agreement on the availability of class-wide arbitration procedures?</p>\n",
+    "citation": {
+        "volume": "563",
+        "page": "333",
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19733"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held the Federal Arbitration Act preempts state laws that \"stand as obstacles to the FAA's objectives.\"",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/563/333/",
+    "facts_of_the_case": "<p>Customers brought a class action lawsuit against AT&amp;T Mobility LLC in a California federal district court. They alleged that the company's offer of a free phone to anyone who signed up for its service was fraudulent to the extent the company charged the new subscriber sales tax on the retail value of each free phone. AT&amp;T moved to compel arbitration based on the arbitration clause contained within its contract of service. The district court denied the motion.</p>\n<p>On appeal, the U.S. Court of Appeals for the Ninth Circuit held that (1) the arbitration clause was unconscionable and unenforceable under California law and (2) the Federal Arbitration Act (\"FAA\") did not expressly or impliedly preempt California law governing unconcionability.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court reversed the lower court order in a decision by Justice Antonin Scalia. The 5-4 majority held that the Federal Arbitration Act preempts \"state-law rules that stand as an obstacle to the accomplishment of the FAA's objectives.\" Justice Stephen Breyer filed a dissenting opinion, which was joined by Justices Ruth Bader Ginsburg, Sonia Sotomayor and Elena Kagan. \"The Court is wrong to hold that the federal Act pre-empts the rule of state law,\" wrote Breyer.</p>\n"
+}

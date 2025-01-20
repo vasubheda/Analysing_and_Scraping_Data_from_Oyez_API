@@ -1,0 +1,35 @@
+{
+    "ID": 54922,
+    "name": "The Wharf (Holdings) Ltd. v. United International Holdings",
+    "href": "https://api.oyez.org/cases/2000/00-347",
+    "view_count": 0,
+    "docket_number": "00-347",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                985154400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38584"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                990421200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38585"
+        }
+    ],
+    "question": "<p>Does an oral agreement to grant an option to buy stock, while secretly intending not to honor the option, violate the Securities Exchange Act of 1934?</p>\n",
+    "citation": {
+        "volume": "532",
+        "page": "588",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18851"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/532/588/",
+    "facts_of_the_case": "<p>In return for United International Holdings, Inc.'s assistance in preparing its application, contracts, system, and financing for a cable television system in Hong Kong, Wharf Holdings Ltd. orally granted United an option to buy 10% of stock in the system. The parties never reduced the agreement to writing. Ultimately, Wharf refused to allow United to exercise its option. United then sued Wharf in Federal District Court, claiming that Wharf violated the Securities Exchange Act of 1934, which prohibits using \"any manipulative or deceptive device or contrivance...in connection with the purchase or sale of any security.\" Wharf's internal documents, which suggested that Wharf never intended to carry out its promise, supported United's claim. A jury found in United's favor. The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion delivered by Justice Stephen G. Breyer, the Court held that an oral agreement to give an option to buy stock while secretly intending never to honor that option violates the Securities Exchange Act of 1934's prohibition of deceptive devices. Justice Breyer wrote for the Court that there was no \"convincing reason to interpret the Act to exclude oral contracts as a class. The Act itself says that it applies to 'any contract' for the purchase or sale of a security.\"</p>\n"
+}

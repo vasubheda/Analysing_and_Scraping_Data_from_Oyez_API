@@ -1,0 +1,35 @@
+{
+    "ID": 54824,
+    "name": "Gutierrez v. Ada",
+    "href": "https://api.oyez.org/cases/1999/99-51",
+    "view_count": 0,
+    "docket_number": "99-51",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                944460000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38396"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                948261600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38397"
+        }
+    ],
+    "question": "<p>Does the Organic Act of Guam require a runoff election when a candidate slate has received a majority of the votes cast for Governor and Lieutenant Governor, but not a majority of the number of ballots cast in the simultaneous general election?</p>\n",
+    "citation": {
+        "volume": "528",
+        "page": "250",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18753"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/528/250/",
+    "facts_of_the_case": "<p>The Organic Act of Guam provides that that \"if no [slate of] candidates [for Governor and Lieutenant Governor of Guam] receives a majority of the votes cast in any election...a runoff election shall be held.\" The Election Commission certified that the Democratic slate of Carl T.C. Gutierrez for governor and Madeleine Z. Bordallo for lieutenant governor had defeated the Republican slate, Joseph F. Ada and Felix P. Camacho. Gutierrez and Bordallo had received a majority of the votes cast for gubernatorial slates in the 1998 Guam general election, but did not receive a majority of the total number of ballots that voters cast due to voters selecting write-in candidates, people voting for both slates, and blank ballots. The opposing Republican slate sought a writ of mandamus ordering a runoff election. According to Ada and Camacho, the phrase \"in any election\" means the majority as measured by the votes cast in the entire election, not simply in the race for governor. Gutierrez responded that \"votes cast\" meant actual votes cast for governor and lieutenant governor, rather than ballots in which the governor's contest is left blank. The District Court issued the writ and the Court of Appeals ultimately affirmed, interpreting the statutory phrase \"majority of the votes cast in any election\" to require that a slate receive a majority of the total number of ballots cast in the general election.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice David H. Souter, the Court held that \"[t]he Guam Organic Act does not require a runoff election when a candidate slate has received a majority of the votes cast for Governor and Lieutenant Governor of the Territory, but not a majority of the number of ballots cast in the simultaneous general election.\" Justice Souter wrote for the Court that an \"obvious reading\" of the law requires only a majority of votes cast in that one specific race, \"Congress did not shift its attention when it used 'any election' unadorned by a gubernatorial reference or other definite modifier.\"</p>\n"
+}

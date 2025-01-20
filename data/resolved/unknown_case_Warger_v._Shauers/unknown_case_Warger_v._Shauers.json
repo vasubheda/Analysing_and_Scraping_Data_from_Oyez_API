@@ -1,0 +1,42 @@
+{
+    "ID": 56092,
+    "name": "Warger v. Shauers",
+    "href": "https://api.oyez.org/cases/2014/13-517",
+    "view_count": 0,
+    "docket_number": "13-517",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1393826400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41671"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1412744400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41672"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1418104800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41673"
+        }
+    ],
+    "question": "<p>Does Federal Rule of Evidence 606(b) bar the testimony of a juror regarding statements made during deliberations for the purpose of showing alleged dishonesty by a prospective juror during jury selection?</p>\n",
+    "citation": {
+        "volume": "574",
+        "page": "40",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20917"
+    },
+    "term": "2014",
+    "description": "A case in which the Court held that the Federal Rule of Evidence 606(b) bars the testimony of a juror regarding statements made during deliberations for the purpose of showing alleged dishonesty by a prospective juror during jury selection.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/574/40/",
+    "facts_of_the_case": "<p>In 2006, Gregory Warger was involved in an automobile collision with another car driven by Randy Shauers. Warger filed suit against Shauers for damages resulting from the crash, and Shauers filed a counter-suit. After an initial mistrial, a jury found for Shauers. Warger appealed on the basis that, following the verdict, Warger's attorney had been contacted by a jury member who expressed concern that the jury foreperson had improperly gained the sympathy of the other jurors by informing them all that her daughter had been in a similar type of automobile accident and that the verdict would have had a negative impact on her life had she been found responsible. Warger claimed that the foreperson's alleged misconduct should result in a new trial because it was improper outside influence, which tainted the jury's verdict, and because it was evidence that the foreperson had lied during jury selection.</p>\n<p>The district court ruled that the concerned jury member's statement was inadmissible based on Federal Rule of Evidence 606(b), which bars the testimony of a juror concerning any statements made during the jury's deliberations for purposes determining the validity of a verdict, with an exception for testimony regarding whether an improper outside influence was used to persuade any juror. Specifically, the court ruled that the past life experiences of the foreperson did not constitute improper outside influence. While 606(b) does not explicitly bar juror testimony for the purposes of proving dishonesty by a potential juror during jury selection, in this case the evidence was barred by 606(b) because it was based on statements the foreperson made during the jury's deliberations. The U.S. Court of Appeals for the Eighth Circuit affirmed.</p>\n",
+    "conclusion": "<p>Yes. Justice Sonia Sotomayor delivered the opinion for the unanimous Court, which held that a plain reading of Rule 606(b) precludes the use of juror testimony when a party is seeking a new trial on the basis of juror dishonesty during voir dire. Prior to Congress' enactment of the rule, judicial precedent had established the inadmissibility of testimony of jury misconduct for the purpose of impeaching a verdict, and the legislative history of Rule 606(b) indicates that Congress intended the rule to apply broadly. The Court also held that the rule did not raise any issue of constitutionality because juror impartiality continued to be assured by either party's ability to bring forward evidence of juror bias at any time before the verdict is rendered.</p>\n"
+}

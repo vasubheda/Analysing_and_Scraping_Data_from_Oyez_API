@@ -1,0 +1,35 @@
+{
+    "ID": 62790,
+    "name": "White v. Pauly",
+    "href": "https://api.oyez.org/cases/2016/16-67",
+    "view_count": 0,
+    "docket_number": "16-67",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1483941600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53942"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1483941600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53943"
+        }
+    ],
+    "question": "<p>Does an officer\u2019s failure to shout a warning before firing--when that officer joined an ongoing confrontation--constitute a violation of a clearly established Fourth Amendment right to be free from excessive use of force?</p>\n",
+    "citation": {
+        "volume": "580",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27490"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that an officer\u2019s failure to shout a warning before firing in an ongoing confrontation does not constitute a violation of a clearly established Fourth Amendment right to be free from the excessive use of force.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/580/16-67/",
+    "facts_of_the_case": "<p dir=\"ltr\">Officer Kevin Truesdale responded to a report of a drunk driver and interviewed the two women who called 911. They gave him the license plate of the car that they observed driving recklessly, and the officer ran a search that showed the car was registered to the address of Daniel and Samuel Pauly. Officer White and Officer Mariscal joined Officer Truesdale, and they determined that there was probable cause to arrest the driver and wanted to speak with him. Officer White stayed behind, and the other two officers proceeded to the address. They found two residences at the addresses and approached the one with lights and in which they saw people moving. They yelled to the occupants to open the door or they were coming in. The Pauly brothers heard people yelling but claimed that the voices never identified themselves as police officers. The Pauly brothers yelled back that they had guns, and Daniel Pauly fired out the door. Officer White arrived on the scene as this was happening. He took cover, then fired at Samuel, who was leaning out the door and pointing his gun in Officer White\u2019s direction. Officer White\u2019s shot killed Samuel.</p>\n<p>Daniel and Samuel\u2019s estate sued the officers and argued that the officers violated the brothers\u2019 Fourth Amendment right to be free from excessive use of force. The officers moved for summary judgment and argued that they were entitled to qualified immunity because their actions did not violate a clearly established constitutional right of which a reasonable person would have known. The district court denied the motion, and the U.S. Court of Appeals for the Tenth Circuit affirmed. The appellate court held that reasonable officers should have known that their conduct would cause the Pauly brothers to defend their home in a manner that required the police to respond with deadly force. Especially in the case of Officer White, who arrived later to the scene, the court determined that a reasonable officer would have determined that a warning was required before firing. The appellate court also held that these rules were clearly established at the time of the incident.</p>\n",
+    "conclusion": "<p dir=\"ltr\">An officer\u2019s failure to shout a warning before firing in an ongoing confrontation does not constitute a violation of a clearly established Fourth Amendment right to be free from the excessive use of force. In a per curiam opinion, the Court held that, for the purpose of qualified immunity, the clearly established right at issue must be particular to the facts of the case. The lower court erred by relying on overly broad statements of law regarding the excessive use of force. In this case, there is no clearly established Fourth Amendment right that requires officers to shout warnings before firing when that officer joined an ongoing confrontation and could reasonably assume that proper procedures, such as police identification, were followed. </p>\n<p>In her concurring opinion, Justice Ruth Bader Ginsburg wrote that the majority opinion does not foreclose the denial of Truesdale and Mariscal\u2019s motions for summary judgment, especially since there are questions of fact regarding whether they identified themselves as police officers. Similarly, the majority opinion does not foreclose the denial of White\u2019s motion for summary judgment because the record indicates that there may be questions of fact regarding when he arrived on the scene and what he observed. </p>\n"
+}

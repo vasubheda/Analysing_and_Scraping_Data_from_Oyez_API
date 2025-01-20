@@ -1,0 +1,35 @@
+{
+    "ID": 54445,
+    "name": "Varity Corporation v. Howe",
+    "href": "https://api.oyez.org/cases/1995/94-1471",
+    "view_count": 0,
+    "docket_number": "94-1471",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                815205600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37696"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                827215200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37697"
+        }
+    ],
+    "question": "<p>Did the Varity Corporation and Massey-Ferguson, Inc. act their capacity as an Employee Retirement Income Security Act of 1974fiduciary when they significantly and deliberately misled the beneficiaries? By doing so, did Varity and Massey-Ferguson violate the fiduciary obligations that ERISA imposes upon plan administrators? Does ERISA authorize a lawsuit in such cases?</p>\n",
+    "citation": {
+        "volume": "516",
+        "page": "489",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18374"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/516/489/",
+    "facts_of_the_case": "<p>Charles Howe and others used to work for Massey-Ferguson, Inc., a farm equipment manufacturer, and a wholly owned subsidiary of the Varity Corporation. These employees all were participants in, and beneficiaries of, Massey-Ferguson's self-funded employee welfare benefit plan, an Employee Retirement Income Security Act of 1974 (ERISA protected plan that Massey- Ferguson administered itself. When certain divisions in Massey-Ferguson stared losing money, Varity decided to transfer them to a separately incorporated subsidiary, Massey Combines. Varity also persuaded the employees of the failing divisions to change employers and benefit plans, conveying the message that employees' benefits would remain secure when they transferred. Ultimately, the employees lost their nonpension benefits. The employees filed an action under ERISA, claim that Varity, through trickery, had led them to withdraw from their old plan and forfeit their benefits. The District Court found that Varity and Massey-Ferguson, acting as ERISA fiduciaries, had harmed plan beneficiaries through deliberate deception, which gave the employees to right to relief, including the reinstatement to the old plan. The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>Yes, yes, and yes. In a 6-3 opinion delivered by Justice Stephen G. Breyer, the Court held that, under the specific factual circumstances, Varity and Massey-Ferguson acted in their capacity as an ERISA fiduciary when they significantly and deliberately misled the plan's beneficiaries, thereby violating their fiduciary obligations imposed by ERISA. Finding that ERISA's general purpose of protecting beneficiaries' interests also favors a reading that provides a remedy, Justice Breyer said that Varity and Massey-Ferguson violated the fiduciary obligations imposed upon the plan's administrator by ERISA, by knowingly and significantly deceiving the employees as to the financial viability of the new entity and the future of the new entity's benefits plan, in order to save the employer money at the expense of the beneficiaries and that they could thus be sued for equitable relief by the individual beneficiaries. Justice Clarence Thomas filed a dissenting opinion, in which Justices Sandra Day O'Connor and Antonin Scalia joined.</p>\n"
+}

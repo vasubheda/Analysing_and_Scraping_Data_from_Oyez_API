@@ -1,0 +1,35 @@
+{
+    "ID": 55282,
+    "name": "Alaska v. United States",
+    "href": "https://api.oyez.org/cases/2004/128-orig",
+    "view_count": 0,
+    "docket_number": "128-orig",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1105336800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39408"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1118034000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39409"
+        }
+    ],
+    "question": "<p>Do specific submerged lands underlying the Alexander Archipelago and Glacier Bay belong to Alaska or the federal government?</p>\n",
+    "citation": {
+        "volume": "545",
+        "page": null,
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/20563"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>Alaska and the United States disputed ownership of two areas of submerged lands - enclaves under the Alexander Archipelago, which are more than three miles from the coast of Alaska or any island, and lands beneath the inland waters of Glacier Bay. Alaska claimed the archipelago waters under the Submerged Lands Act, which entitled states to submerged lands three miles seaward of their coastline and to land beneath inland navigable waters. The dispute over the submerged lands under Glacier Bay centered on the United States' claim that, at the time Alaska gained statehood, those lands were intended for a national monument. A Special Master appointed to deal with the conflict, recommended to the U.S. Supreme Court that the Court side with the United States with respect to both areas. Alaska appealed that decision.</p>\n",
+    "conclusion": "<p>In an opinion delivered by Justice Anthony Kennedy, the Court unanimously concluded that the Alexander Archipelago waters were not inland waters and thus belonged to the federal government. The Court reasoned that the archipelago waters were neither historic inland waters nor inland waters under the juridical bay theory (the theory would work only if the islands formed a peninsula from the mainland that divided the archipelago's waters in two). Kennedy also delivered the Court's 6-3 opinion holding that the underlying waters of Glacier Bay National Park belong to the federal government. The majority wrote that, at the time Alaska gained statehood, the government intended those lands to be part of a national monument.</p>\n<p>On January 23, 2006, the Court issued its final decree. On the issues of Alexander Archipelago and Glacier Bay, the Court declared: \"judgment is granted to the United States, and the State of Alaska shall take nothing.\" Alaska's additional motion for judgment on the submerged lands within the Tongass National Forest was dismissed as moot (meaning \"previously settled\"), because the federal government had already disclaimed any interest in the lands. The newly appointed Chief Justice John Roberts took no part in the case.</p>\n"
+}

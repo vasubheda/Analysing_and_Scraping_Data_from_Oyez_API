@@ -1,0 +1,42 @@
+{
+    "ID": 55816,
+    "name": "Salazar v. Ramah Navajo Chapter",
+    "href": "https://api.oyez.org/cases/2011/11-551",
+    "view_count": 0,
+    "docket_number": "11-551",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1325829600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40831"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1334725200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40832"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1339995600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40833"
+        }
+    ],
+    "question": "<p>Under the Indian Self-Determination and Education Assistance Act, is the government required to pay all of the contract support costs incurred by a tribal contractor, as mandated by the Act, if payment of those costs would exceed the express statutory cap on the appropriations available to pay such costs?</p>\n",
+    "citation": {
+        "volume": "567",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19738"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that, under the Indian Self-Determination and Education Assistance Act, the government is required to pay all of the contract support costs incurred by a tribal contractor if payment of those costs would exceed the statutory cap on the appropriations available to pay them.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/567/182/",
+    "facts_of_the_case": "<p>In 1975, the Indian Self-Determination and Educational Assistance Act (ISDA) became law. Among other things, the ISDA directs the Secretary of the Interior, at the request of any Indian tribe, to enter into contracts which permit tribal organization to administer federal programs that would otherwise be directly administered by the Secretary. The ISDA further requires the Secretary to pay the tribe's reasonable contract support costs, or the costs that the tribe would incur operating the program that the Secretary would not incur. The payment of these costs was made subject to the availability of appropriations, and Congress had imposed a statutory cap on the appropriations available to pay such costs.</p>\n<p>Ramah Navajo Chapter entered into multiple ISDA contracts for the administration a number of federally funded programs. The Ramah Navajo Chapter originally filed suit against the Secretary in 1990 on behalf of all BIA tribal contractors under the ISDA to challenge the methodology that Interior's Office of the Inspector General used to set indirect cost rates. In 1999 the district court granted the plaintiffs leave to add a new claim for the alleged underpayment of contract support costs due to insufficient appropriations. Both parties moved for summary judgment. The district court eventually granted summary judgment for the government, rejecting tribal demands for contract support costs in excess of the express statutory caps on the funds available to pay such costs.</p>\n<p>The tribes appealed, and the United States Court of Appeals for the 10th Circuit reversed. The appeals court held that the government could be required to pay all of the contract support costs requested by every tribal contractor, even in excess of the statutory cap, because Congress appropriated sufficient funds to satisfy the demands of any single contractor considered in isolation. The government appealed the appellate court's decision.</p>\n",
+    "conclusion": "<p>Yes. In a 5-4 majority opinion, Justice Sonia Sotomayor affirmed the Tenth Circuit decision. Despite the statutory cap within the ISDA, the government must pay each tribe's support costs in full. The Court stressed that the government's contractual obligation under the ISDA should be treated like any other contract. Even if a particular agency exhausts legally available funds that were originally appropriated to satisfy a particular contract, the government is still obligated to fulfill its entire financial obligation within the contract. The tribe was entitled to rely on the government's promise of payment, rather than run the risk that the ISDA lump-sum appropriation may not cover the full cost of all contracts.</p>\n<p>Chief Justice John G. Roberts, Jr. dissented, focusing on the current restrictions on governmental payment of support costs. Once the allocated funds were appropriated to the specific ISDA contracts, the money in the broader pool of funds became unavailable, relieving the government of any further contractual obligation. Since the situation in this case is hardly a typical government contracts case, it should not be resolved using typical contract principles. Justice Stephen G. Breyer, Justice Ruth Bader Ginsburg, and Justice Samuel A. Alito, Jr. joined in the dissent.</p>\n"
+}

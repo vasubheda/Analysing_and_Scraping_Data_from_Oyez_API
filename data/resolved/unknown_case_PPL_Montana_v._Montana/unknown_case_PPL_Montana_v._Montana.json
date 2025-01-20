@@ -1,0 +1,42 @@
+{
+    "ID": 55838,
+    "name": "PPL Montana v. Montana",
+    "href": "https://api.oyez.org/cases/2011/10-218",
+    "view_count": 0,
+    "docket_number": "10-218",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1308546000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40891"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1323237600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40892"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1329890400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40893"
+        }
+    ],
+    "question": "<p>Does the constitutional test for determining whether a section of a river is navigable for title purposes require a trial court to determine whether the relevant stretch of the river was navigable at the time of statehood?</p>\n",
+    "citation": {
+        "volume": "565",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19760"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that the constitutional test for determining whether a section of a river is navigable for title purposes requires a trial court to determine whether the relevant stretch of the river was navigable at the time of statehood.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/565/576/",
+    "facts_of_the_case": "<p>In 2003, parents of Montana schoolchildren sued the owner of federally licensed hydroelectric dams on the Missouri, Madison and Clark Fork rivers within the state. The parents claimed that the owner, PPL, owed the state compensation because the riverbeds underlying its dams were part of Montana's \"school trust lands.\" The State of Montana joined the suit in 2004, asserting that PPL also owed the state compensation pursuant to Montana's Hydroelectric Resources Act.</p>\n<p>The federal district court eventually dismissed the action for lack of diversity, and PPL filed suit in state court. The state countersued, arguing that it obtained title to the relevant streambeds at the time of statehood pursuant to the \"equal footing doctrine.\" The trial court dismissed PPL's affirmative defenses, held that the State obtained title to the riverbeds at issue because those rivers were navigable at the time of statehood and concluded that the state was entitled to retroactive lease payments under the HRA. Following a bench trial to determine damages, the court imposed approximately $40 million in back lease payments, as well as future lease payments imposed by the state.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion written by Justice Anthony M. Kennedy, the Court held that the trial court must consider whether the relevant stretches of the Missouri, Madison, and Clark Fork rivers were navigable when the United States granted Missouri statehood, but it also determined that those stretches were not navigable at that time. While acknowledging that the equal footing doctrine grants a state title to navigable waters upon statehood, Justice Kennedy explained that navigability in fact is based on the \"natural and ordinary condition\" of the water.</p>\n<p>Consequently, Justice Kennedy held that the Montana Supreme Court erred in its treatment of the question of river segments and overland portage. He noted that the Court considers the navigability of rivers on a segment-by-segment basis, rejecting the Montana Supreme Court's ruling that this approach does not apply to short interruptions of navigability. He also pointed to the physical characteristics of some of the segments in question, noting that the Great Falls reach, a seventeen mile long stretch with distinct drops also included five waterfalls and continuous rapids in between. Justice Kennedy rejected the Montana Supreme Court's reliance on the evidence of present-day, primarily recreational use of the Madison River. Evidence that initial explorers successfully portaged between segments was also not persuasive.</p>\n"
+}

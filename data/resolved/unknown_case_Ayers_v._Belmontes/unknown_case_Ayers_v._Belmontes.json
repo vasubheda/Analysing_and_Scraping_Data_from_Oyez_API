@@ -1,0 +1,42 @@
+{
+    "ID": 55389,
+    "name": "Ayers v. Belmontes",
+    "href": "https://api.oyez.org/cases/2006/05-493",
+    "view_count": 0,
+    "docket_number": "05-493",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1146459600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39683"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1159851600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39684"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1163397600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39685"
+        }
+    ],
+    "question": "<p>1) Is an \"unadorned\" factor (k) instruction sufficient to inform a jury that it must consider any mitigating evidence that a defendant may present concerning his probability of rehabilitation and good behavior as a prisoner?</p>\n<p>2) Is the Ninth Circuit's ruling that factor (k) is constitutionally inadequate a \"new constitutional rule of criminal procedure,\" in which case it would not be applied retroactively to other defendants whose cases are already final?</p>\n",
+    "citation": {
+        "volume": "549",
+        "page": "7",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20671"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/549/7/",
+    "facts_of_the_case": "<p>In 1981, Fernando Belmontes Jr. was convicted of the first-degree murder of Steacy McConnell. During the sentencing phase of the trial, prosecutors sought the death penalty. Belmontes's defense lawyers argued for a life term in prison, and presented evidence of his history as a victim of abuse and poverty as well as his capacity for rehabilitation as mitigating factors. Before sentencing, the California trial judge instructed the jury to consider 11 possible mitigating factors, labeled (a) through (k), which jurors are required by California law to consider. The judge read factor (k), a catch-all factor, verbatim from the statute, telling jurors to consider \"[a]ny other circumstance which extenuates the gravity of the crime even though it is not a legal excuse for the crime.\"</p>\n<p>After the jury sentenced Belmontes to death, he appealed to the California Supreme Court, arguing that the jury had misunderstood the ambiguous factor (k) instruction to mean that they should not consider non-crime-related mitigating factors. Since the Supreme Court has ruled that jurors must consider all mitigating evidence offered by a defendant in a capital case, this would render the conviction unconstitutional. The California Supreme Court upheld the conviction, relying on <em>Boyde v. California</em>, in which the Supreme Court affirmed that factor (k) is constitutional unless there is a \"reasonable likelihood\" that jurors misunderstood it. Belmondes appealed to the Court of Appeals for the Ninth Circuit, where his death sentence was finally overturned in 2003. The Circuit Court ruled that jurors had been confused by the factor (k) instruction, which caused them to fail to consider the mitigating evidence of Belmondes's capacity for rehabilitation.</p>\n<p>After the Supreme Court remanded the case back to the Ninth Circuit for reconsideration, the Circuit Court reaffirmed its decision in 2005. The Circuit Court held that the verbatim or \"unadorned\" reading of the factor (k) instruction would have misled a reasonable juror. The Supreme Court agreed to consider the constitutional sufficiency of factor (k), as well as the possible retroactive applicability of the Circuit Court's holding.</p>\n",
+    "conclusion": "<p>Yes and unanswered. In a 5-4 decision, the Court reversed the Ninth Circuit and upheld the factor (k) instruction, allowing Belmontes's death sentence to go forward. The opinion by Justice Anthony Kennedy held that \"The factor (k) instruction is consistent with the constitutional right to present mitigating evidence in capital sentencing proceedings.\" Following the analysis in <em>Boyde v. California</em>, the Justices ruled that there was no reasonable likelihood that the jury had misunderstood the instruction. The Court held that the jurors had interpreted factor (k) as a broad catch-all under which they could consider forward-looking mitigating factors such as the possibility of rehabilitation. Since the jury had considered all of Belmontes's mitigating evidence before his sentencing, the sentence was constitutional.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 54861,
+    "name": "C. & L. Enterprises, Inc. v. Citizen Band Potawatomi Indian Tribe of Oklahoma",
+    "href": "https://api.oyez.org/cases/2000/00-292",
+    "view_count": 0,
+    "docket_number": "00-292",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                984981600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38466"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                988606800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38467"
+        }
+    ],
+    "question": "<p>Does a federally recognized tribe waives its immunity from suit in state court when it expressly agrees to arbitrate disputes relating to a contract, to the governance of state law, and to the enforcement of arbitral awards in any court with proper jurisdiction?</p>\n",
+    "citation": {
+        "volume": "532",
+        "page": "411",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18790"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/532/411/",
+    "facts_of_the_case": "<p>The Citizen Band Potawatomi Indian Tribe of Oklahoma, a federally recognized Tribe, entered into a contract with C &amp; L Enterprises, Inc., for the installation of a roof on a Tribe-owned building in Oklahoma. The property rests outside the Tribe's reservation and is not held in trust by the Federal Government for the Tribe. The contract contains clauses requiring disputes arising out of the contract to be decided by arbitration and a choice-of-law clause that reads: \"The contract shall be governed by the law of the place where the Project is located.\" Thus, Oklahoma law governed the contract. After the contract was executed, but before performance commenced, the Tribe retained another company to install the roof. C &amp; L then submitted an arbitration demand. The Tribe asserted sovereign immunity. The arbitrator awarded C &amp; L a monetary award. Ultimately, the Oklahoma Court of Civil Appeals held that the Tribe was immune from suit. The court noted that the contract seemed to indicate the Tribe's willingness to expose itself to suit on the contract, but concluded that the Tribe had not waived its suit immunity with the requisite clarity.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion delivered by Justice Ruth Bader Ginsburg, the Court held that \"under the agreement the Tribe proposed and signed, the Tribe clearly consented to arbitration and to the enforcement of arbitral awards in Oklahoma state court; the Tribe thereby waived its sovereign immunity from C &amp; L's suit.\" Justice Ginsburg wrote for the Court that \"the Tribe agreed, by express contract, to adhere to certain dispute resolution procedures.\"</p>\n"
+}

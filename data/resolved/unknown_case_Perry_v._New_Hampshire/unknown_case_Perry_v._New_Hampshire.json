@@ -1,0 +1,42 @@
+{
+    "ID": 55846,
+    "name": "Perry v. New Hampshire",
+    "href": "https://api.oyez.org/cases/2011/10-8974",
+    "view_count": 0,
+    "docket_number": "10-8974",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1306818000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40913"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1320210000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40914"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1326261600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40915"
+        }
+    ],
+    "question": "<p>Do the Due Process protections against unreliable identification evidence apply to all identifications made under suggestive circumstances?</p>\n",
+    "citation": {
+        "volume": "565",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19768"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that the Due Process Clause does not require a preliminary inquiry into the reliability of an eyewitness' identification unless the ID was brought about under unnecessarily suggestive circumstances.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/565/228/",
+    "facts_of_the_case": "<p>Barion Perry is in prison for breaking into a car in 2008. Nubia Blandon told Nashua, N.H., police that she observed Perry from her apartment window taking things out of a parked car. She identified Perry at the scene but later could not pick him out of a photo lineup or describe him to police. A second witness identified Perry from the photo lineup. Perry filed a motion to suppress the photo identification because it was \"unnecessarily suggestive\" that he was a criminal. The New Hampshire Supreme Court upheld his conviction.</p>\n",
+    "conclusion": "<p>No. With Justice Ruth Bader Ginsburg writing for the majority, the Supreme Court held that the due process clause does not require a preliminary judicial inquiry into the reliability of an eyewitness' identification unless the identification was procured under unnecessarily suggestive circumstances, arranged by law enforcement. The Court further stated that the Constitution does not protect a defendant against a conviction based on questionable evidence by not prohibiting introduction of the evidence, but by allowing a defendant to persuade the jury that the evidence should not be believed. Therefore, Due Process will only prohibit the introduction of evidence when inclusion of the evidence is so extremely unfair that its inclusion would violate fundamental concepts of justice. The Court also rejected Perry's argument that eyewitnesses are uniquely unreliable, and emphasized that the fallibility of eyewitness identification does not warrant a due process ruling requiring a trial court to screen evidence for reliability, unless there was improper state conduct.</p>\n<p>Justice Clarence Thomas filed a concurring opinion. Justice Thomas wrote separately because he would not have extended Stovall v. Denno, and subsequent related case law, which premised substantive due process rights on notions of fundamental fairness. Instead he believed that the Due Process Clause is not a general guarantee against unfairness but rather only a guarantee of process before a person is deprived of life, liberty, or property.</p>\n<p>Justice Sonia Sotomayor filed a dissenting opinion. She stated that it is not merely the act of suggestion, which creates a due process problem, but rather the effect of an act of suggestion on the reliability of a resulting identification. She maintained that the court's ruling would draw a distinction between intentionally suggestive conduct and inadvertently suggestive conduct, either of which could lead to the same unfair result.</p>\n"
+}

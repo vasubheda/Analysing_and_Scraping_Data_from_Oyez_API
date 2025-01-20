@@ -1,0 +1,35 @@
+{
+    "ID": 54473,
+    "name": "Young v. Harper",
+    "href": "https://api.oyez.org/cases/1996/95-1598",
+    "view_count": 0,
+    "docket_number": "95-1598",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                850111200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37748"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                858664800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37749"
+        }
+    ],
+    "question": "<p>Is Oklahoma's Preparole Conditional Supervision Program sufficiently like parole that participants are entitled to procedural protections, such as the due process safeguards set forth in the Fourteenth Amendment?</p>\n",
+    "citation": {
+        "volume": "520",
+        "page": "143",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18402"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/520/143/",
+    "facts_of_the_case": "<p>Oklahoma's Preparole Conditional Supervision Program took effect whenever the state prisons became overcrowded and authorized the conditional release of prisoners before their sentences expired. The Pardon and Parole Board determined who could participate in it, and an inmate could be placed on preparole after serving 15% of his sentence. An inmate was eligible for parole only after one third of his sentence had elapsed, and the Governor, based on the Board's recommendation, decided to grant parole. Program participants and parolees were released subject to similar constraints. Upon reviewing Leroy L. Young's criminal record and prison conduct, the Board recommended him for parole and released him under the Program. At that time, he had served 15 years of a life sentence. After he spent five months outside the penitentiary, the Governor denied him parole, whereupon he was ordered to, and did, report back to prison. Despite his claim that his summary reincarceration deprived him of liberty without due process in violation of the Fourteenth Amendment, he was denied habeas relief by the state trial court, the Oklahoma Court of Criminal Appeals, and the Federal District Court. The Court of Appeals reversed. It held that preparole was sufficiently like parole that a Program participant was entitled to procedural protections.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous decision, authored by Justice Clarence Thomas, the Court ruled that Oklahoma's Preparole Conditional Supervision Program, as it existed when Leroy L. Young was released, was equivalent to parole and therefore he was entitle to procedural due process safeguards.</p>\n"
+}

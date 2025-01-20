@@ -1,0 +1,42 @@
+{
+    "ID": 63079,
+    "name": "Parker Drilling Management Services, Ltd. v. Newton",
+    "href": "https://api.oyez.org/cases/2018/18-389",
+    "view_count": 0,
+    "docket_number": "18-389",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1547186400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54421"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1555390800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54487"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1560142800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54532"
+        }
+    ],
+    "question": "<p>Does the Outer Continental Shelf Lands Act permit the application of state law only when there is a gap in the coverage of federal law, or whenever state law pertains to the subject matter of the lawsuit and is not preempted by inconsistent federal law?</p>\n",
+    "citation": {
+        "volume": "587",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27652"
+    },
+    "term": "2018",
+    "description": "A case in which the Court held that because the Outer Continental Shelf Lands Act establishes the federal government's exclusive control over outer continental shelf, state law may be adopted as the rule of decision only if there is a gap in federal law.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/587/18-389/",
+    "facts_of_the_case": "<p>Respondent Brian Newton worked for Parker Drilling Management Services on a drilling platform fixed on the outer Continental Shelf, off the coast of Santa Barbara, California. His shifts lasted fourteen days, and he regularly worked twelve hours per day. He alleges that he usually took fifteen to thirty minutes during his shifts to eat without clocking out and that Parker did not provide 30-minute meal periods for each five hours worked, as required under California law. After Parker terminated him, Newton sued in state court for wage and hour violations under California law. Parker removed the case to federal court and filed a motion for judgment on the pleadings. The district court granted the motion, finding that under the Outer Continental Shelf Lands Act, the federal Fair Labor Standards Act (FLSA) is a comprehensive statutory scheme that leaves no room for state law to address wage and hour grievances arising on the Outer Continental Shelf. The district court recognized that the FLSA contains a clause that expressly allows for more protective state wage and overtime laws but held nonetheless that California\u2019s laws offered Newton no protections.</p>\n<p>A panel of the Ninth Circuit vacated the district court\u2019s dismissal on the pleadings, finding that the Outer Continental Shelf Lands Act allows the laws of adjacent states to apply to drilling platforms as long as state law is \u201capplicable\u201d and \u201cnot inconsistent\u201d with federal law. California\u2019s wage and hour laws are not inconsistent with the FLSA, so the district court erred in dismissing the claims.</p>\n",
+    "conclusion": "<p>The Outer Continental Shelf Lands Act (OCSLA) permits the application of state law only when there is a gap in the coverage of federal law; if federal law addresses the issue, state law is inapplicable. Justice Clarence Thomas authored the unanimous opinion of the Court.</p>\n<p>The OCSLA extends \u201cthe Constitution and laws and civil and political jurisdiction of the United States\u201d to the Outer Continental Shelf (OCS) \u201cto the same extent as if\u201d the OCS were \u201can area of exclusive Federal jurisdiction located within a State.\u201d Further, the OCSLA commands that state laws be adopted as federal law on the OCS \u201cto the extent that they are applicable and not inconsistent with\u201d other federal law. Newton argued, and the Ninth Circuit agreed, that state law is \u201capplicable\u201d whenever it pertains to the subject matter at issue, and it is \u201cinconsistent\u201d only if it is incompatible with the federal scheme\u2014that is, only if it would be preempted under the Court\u2019s ordinary preemption principles.</p>\n<p>The Court found this argument unpersuasive, favoring instead Parker\u2019s argument that state law is \u201capplicable\u201d only if there is a gap in federal law that needs to be filled and that state law may be \u201cinconsistent\u201d with federal law even if it is possible for a party to satisfy both sets of laws. For example, although the Fair Labor Standards Act (FLSA) generally gives way to more protective state wage-and-hour laws, such state laws are inconsistent with the FLSA when adopting them as surrogate federal law would produce two different standards. The Court found this approach to preemption more persuasive because the two terms \u201capplicable\u201d and \u201cnot inconsistent\u201d must be read together and interpreted \u201cin light of the entire statute.\u201d</p>\n<p>Under this standard, some of Newton\u2019s claims fail for relying on California law rather than federal law. The Court remanded the remaining claims for further consideration in light of this standard.</p>\n"
+}

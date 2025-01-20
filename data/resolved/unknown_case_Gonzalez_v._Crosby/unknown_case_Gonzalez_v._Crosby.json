@@ -1,0 +1,42 @@
+{
+    "ID": 55243,
+    "name": "Gonzalez v. Crosby",
+    "href": "https://api.oyez.org/cases/2004/04-6432",
+    "view_count": 0,
+    "docket_number": "04-6432",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1105682400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39291"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1114405200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39292"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1119502800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39293"
+        }
+    ],
+    "question": "<p>Did Gonzalez's Rule 60(b) motion constitute a second or successive habeas petition?</p>\n",
+    "citation": {
+        "volume": "545",
+        "page": "",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/20559"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>In Artuz v. Bennett (2000) the U.S. Supreme Court held that state petitions for postconviction relief could toll the federal statute of limitations even if those petitions were ultimately dismissed as procedurally barred. Gonzalez, whose federal habeas petition had been dismissed as time barred, filed a new petition (a Rule 60[b] petition) in light of the Artuz ruling. The district court denied Gonzalez's new motion. The 11th Circuit affirmed the denial, holding that Gonzalez's latest motion amounted to a second or succcessive habeas petition which could not be filed without precertification by the court of appeals.</p>\n",
+    "conclusion": "<p>No. In 7-2 opinion delivered by Justice Antonin Scalia, the Court held that Gonzalez's Rule 60(b) motion challenged only the district court's previous ruling on the federal statute of limitations. That motion was therefore not the equivalent of a successive habeas petition and could be ruled on by the district court without the 11th Circuit's precertification.</p>\n"
+}

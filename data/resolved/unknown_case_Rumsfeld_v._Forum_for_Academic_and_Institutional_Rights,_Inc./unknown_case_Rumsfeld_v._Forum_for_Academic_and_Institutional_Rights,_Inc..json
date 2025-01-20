@@ -1,0 +1,42 @@
+{
+    "ID": 55342,
+    "name": "Rumsfeld v. Forum for Academic and Institutional Rights, Inc.",
+    "href": "https://api.oyez.org/cases/2005/04-1152",
+    "view_count": 0,
+    "docket_number": "04-1152",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1115010000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39568"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1133848800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39569"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1141624800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39570"
+        }
+    ],
+    "question": "<p>Does the Solomon Amendment, which witholds certain federal funds from colleges and universities that restrict the access of military recruiters to students, violate the First Amendment?</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "47",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20579"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/547/47/",
+    "facts_of_the_case": "<p>The Solomon Amendment, 10 U.S.C. 983(b)(1), withholds some federal funding from colleges and universities that deny U.S. military recruiters the same access to students that other employers are given. The Forum for Academic and Institutional Rights challenged the law, arguing that it violated the schools' First Amendment rights to expressive association by requiring them to assist in military recruitment. The district court rejected the suit, but a Third Court of Appeals panel reversed. It held that, while the schools still had the right to forfeit funds so as to avoid unwanted endorsement of military policy under the amendment, forcing the schools to make such a decision was unconstitutional. Congress could not require them to forfeit a constitutional right in order to receive federal funds.</p>\n",
+    "conclusion": "<p>No. The Supreme Court, in a unanimous opinion written by Chief Justice John Roberts, held that the Solomon Amendment regulated conduct, not speech, and was therefore constitutional. Including military recruiters in receptions and interviews does not necessarily indicate university endorsement of the recruiters, so requiring their inclusion does not constitute compelled speech in violation of the First Amendment. This would be true even if Congress had decided to make the requirement direct, rather than making it indirect as a condition for receiving federal funds. Roberts wrote, \"Because the First Amendment would not prevent Congress from directly imposing the Solomon Amendment's access requirement, the statute does not place an unconstitutional condition on the receipt of federal funds.\"</p>\n"
+}

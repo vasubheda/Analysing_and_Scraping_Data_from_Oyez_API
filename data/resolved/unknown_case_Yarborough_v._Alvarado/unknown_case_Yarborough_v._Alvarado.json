@@ -1,0 +1,42 @@
+{
+    "ID": 55163,
+    "name": "Yarborough v. Alvarado",
+    "href": "https://api.oyez.org/cases/2003/02-1684",
+    "view_count": 0,
+    "docket_number": "02-1684",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1064898000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52648"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1078120800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52649"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1086066000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52650"
+        }
+    ],
+    "question": "<p>When deciding whether a suspect is \"in custody\" and therefore entitled to his Miranda warnings, must an officer consider the suspect's age and previous history with law enforcement?</p>\n",
+    "citation": {
+        "volume": "541",
+        "page": "652",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/20537"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/541/652/",
+    "facts_of_the_case": "<p>Police interviewed Michael Alvarado, 17, without his parents at a police station about his involvement in a crime. Police neither arrested nor Mirandized Alvarado. During the interview, Alvarado confessed involvement. Based, in part, on these statements, Alvarado was convicted of second-degree murder and attempted robbery. After failed appeals in the California courts, Alvarado unsuccessfully sought a writ of habeas corpus in federal district court in California. The Ninth Circuit Court of Appeals reversed. Recognizing the \"in custody\" standard to be whether a reasonable person would feel free to end interrogation, the appeals court held that a juvenile is more likely to feel he is in custody. Because Alvarado was \"in custody,\" the Fifth Amendment required that his rights under Miranda v. Arizona (1966) be read to him.</p>\n",
+    "conclusion": "<p>No. In a 5-to-4 decision written by Justice Anthony Kennedy, the Court ruled that the purpose of the Court's Miranda decision was to provide an objective rule readily understandable by police officers: when interrogating a suspect who is \"in custody,\" an officer must first read the suspect his Miranda rights. Determining whether a suspect is actually in custody has always been based on objective criterion like whether he had been brought to the police station by police or had come of his own accord. Requiring officers to consider individual characteristics of a suspect when determining whether he is \"in custody,\" such as the suspect's age or previous history with law enforcement, would make the test a subjective one that would be more difficult for officers to understand and abide by. Justice Kennedy wrote that the Miranda decision \"states an objective rule designed to give clear guidance to the police, while consideration of a suspect's individual characteristics - including his age - could be viewed as creating a subjective inquiry.\"</p>\n"
+}

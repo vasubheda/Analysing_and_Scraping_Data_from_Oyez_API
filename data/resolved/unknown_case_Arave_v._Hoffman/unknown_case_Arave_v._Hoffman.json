@@ -1,0 +1,28 @@
+{
+    "ID": 55530,
+    "name": "Arave v. Hoffman",
+    "href": "https://api.oyez.org/cases/2007/07-110",
+    "view_count": 0,
+    "docket_number": "07-110",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1199685600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40077"
+        }
+    ],
+    "question": "<p>Has an attorney provided ineffective assistance of counsel if he advises a client to turn down a guilty plea based on erroneous legal analysis, and if so, what is the appropriate remedy?</p>\n",
+    "citation": {
+        "volume": "552",
+        "page": "117",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20754"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/552/117/",
+    "facts_of_the_case": "<p>Maxwell Hoffman was charged with first-degree murder after he and another man severely injured a drug informant, fatally pelted her with boulders, and left her for dead. Hoffman's assigned lawyer, who had never handled a capital case, advised him to reject a plea bargain deal in which he would be spared Idaho's death penalty in exchange for a guilty plea. The attorney told Hoffman that because a federal appeals court had recently stricken Arizona's identical death scheme, the Idaho law would soon be defunct and therefore could not be applied to him. Hoffman agreed to go to trial, where he was convicted and sentenced to death. However, despite the attorney's prediction, the Idaho Supreme Court upheld the death sentence. Hoffman eventually filed a habeas corpus petition alleging, among other things, that his lawyer provided ineffective assistance of counsel by advising him to go to trial based on a faulty legal prediction. The Ninth Circuit agreed and ordered that Hoffman be freed unless the state renewed its plea bargain offer.</p>\n",
+    "conclusion": "<p>After the Court granted certiorari, Hoffman filed a motion to vacate the Ninth Circuit's decision and dismiss the case, abandoning his claim for ineffective assistance during plea bargaining. Hoffman no longer sought the relief ordered by the Ninth Circuit and instead wished to proceed with the resentencing ordered by the district court. The Court, in a per curiam opinion, granted Hoffman's motion and remanded the case to the Ninth Circuit with the instructions that the district court should dismiss the ineffective assistance of counsel during plea bargaining claim with prejudice.</p>\n"
+}

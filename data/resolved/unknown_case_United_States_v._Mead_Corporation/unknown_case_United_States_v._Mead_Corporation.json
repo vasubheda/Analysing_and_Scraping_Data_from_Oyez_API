@@ -1,0 +1,35 @@
+{
+    "ID": 54856,
+    "name": "United States v. Mead Corporation",
+    "href": "https://api.oyez.org/cases/2000/99-1434",
+    "view_count": 0,
+    "docket_number": "99-1434",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                973663200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38456"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                992840400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38457"
+        }
+    ],
+    "question": "<p>Does a tariff classification ruling by the United States Customs Service deserve judicial deference?</p>\n",
+    "citation": {
+        "volume": "533",
+        "page": "218",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18785"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/533/218/",
+    "facts_of_the_case": "<p>Under the Harmonized Tariff Schedule of the United States, the United States Customs Service is authorized to classify and fix the rate of duty on imports under rules and regulations issued by the Secretary of the Treasury. Under the Secretary's regulations, any port-of-entry Customs office and the Customs Headquarters Office may issue \"ruling letters\" setting tariff classifications for particular imports. The Mead Corporation's imported \"day planners,\" were classified as duty-free until the Customs Headquarters issued a ruling letter classifying them as bound diaries subject to tariff. Subsequently, Mead filed suit in the Court of International Trade. The court granted the Government summary judgment. In reversing, the Court of Appeals found that ruling letters should not be treated like Customs regulations, which receive the highest level of deference, because they are not preceded by notice and comment as under the Administrative Procedure Act, do not carry the force of law, and are not intended to clarify importers's rights and obligations beyond the specific case. The court gave no deference at all to the ruling letter at issue.</p>\n",
+    "conclusion": "<p>No. In an 8-1 opinion delivered by Justice David H. Souter, the Court held that the \"administrative implementation of a particular statutory provision qualifies for [the greatest level of deference accorded under Chevron U.S.A. Inc. v. Natural Resources Defense Council] when it appears that Congress delegated authority to the agency generally to make rules carrying the force of law, and that the agency interpretation claiming deference was promulgated in the exercise of that authority.\" Justice Souter wrote that \"a tariff classification has no claim to judicial deference under Chevron, there being no indication that Congress intended such a ruling to carry the force of law, but we hold that under Skidmore v. Swift &amp; Co., the ruling is eligible to claim respect according to its persuasiveness.\"</p>\n"
+}

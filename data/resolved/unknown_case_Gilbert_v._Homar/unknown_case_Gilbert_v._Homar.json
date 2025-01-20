@@ -1,0 +1,35 @@
+{
+    "ID": 54481,
+    "name": "Gilbert v. Homar",
+    "href": "https://api.oyez.org/cases/1996/96-651",
+    "view_count": 0,
+    "docket_number": "96-651",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                859183200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37763"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                865832400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37764"
+        }
+    ],
+    "question": "<p>Does a state institution violate the Due Process Clause of the Fourteenth Amendment by suspending a tenured employee without pay before holding a hearing in which the employee can voice objections?</p>\n",
+    "citation": {
+        "volume": "520",
+        "page": "924",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18410"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/520/924/",
+    "facts_of_the_case": "<p>Richard J. Homar, a tenured policeman for East Stroudsburg University (ESU), was arrested for possession of illegal drugs. ESU, a Pennsylvania state institution, immediately suspended him without pay until his culpability could be determined. State police dropped the charges but the suspension continued. At a later hearing ESU demoted Homar to groundskeeper, relying on his confession to police. Homar argued that ESU president James Gilbert had violated the Due Process Clause of the Fourteenth Amendment by failing to provide him with notice and an opportunity to be heard before the suspension. A district court granted summary judgment to ESU. The U.S. Court of Appeals for the Third Circuit reversed the decision, holding that it was illegal to withhold pay without first providing a hearing.</p>\n",
+    "conclusion": "<p>No. The Court ruled unanimously that a pre-suspension hearing is not necessary to protect the rights of a tenured employee who is suspended without pay. The opinion by Justice Antonin Scalia balanced three factors relevant to constitutional due process: 1) the weight of the private interest of the accused; 2) the chance of wrongfully depriving the private interest; and 3) the weight of the government's interest. The Court held that \"[s]o long as the suspended employee receives a sufficiently prompt post suspension hearing, the lost income is relatively insubstantial.\"</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 56035,
+    "name": "Sandifer v. United States Steel Corporation",
+    "href": "https://api.oyez.org/cases/2013/12-417",
+    "view_count": 0,
+    "docket_number": "12-417",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1361253600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41385"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1383544800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41386"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1390802400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41571"
+        }
+    ],
+    "question": "<p>Does changing into required safety gear constitute \"changing clothes\" under the Fair Labor Standards Act?</p>\n",
+    "citation": {
+        "volume": "571",
+        "page": "220",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20883"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that putting on safety garments constitutes \"changing clothes\" under the Fair Labor Standards Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/571/220/",
+    "facts_of_the_case": "<p>Workers at the United Steel Corporation brought a class action suit against the company arguing that the Fair Labor Standards Act required the company to compensate them for time spent changing into and out of work clothes and the transit time from the locker room to their work stations. The Act states that an employer does not need to compensate employees for time spent \"changing clothes.\" United States Steel Corporation moved for summary judgment. The district court granted the motion as it relates to compensation for changing clothes but not in relation to compensation for transit time.</p>\n<p>The company appealed, and the U.S. Court of Appeals for the Seventh Circuit held that Act did not require the company to compensate the employees for either the time spent changing or the time spent in transit between the locker room and the work stations.</p>\n",
+    "conclusion": "<p>Yes. Justice Antonin Scalia delivered the opinion of the 9-0 majority. The Court held that safety gear falls within the parameters of \"clothes\" for the purposes of the Fair Labor Standards Act and therefore is subject to the separate collective bargaining agreement that does not provide compensation for changing into and out of safety gear. Because the statutory context makes it clear that the concept of \"clothes\" refers to items that are necessary for job performance, there is no need to construe the term more strictly. Additionally, since \"changing\" clothes does not require the substitution of one outfit for another, the act of donning or doffing safety can be considered \"changing clothes\" for the purposes of the Act.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55745,
+    "name": "United States  v. Tinklenberg",
+    "href": "https://api.oyez.org/cases/2010/09-1498",
+    "view_count": 0,
+    "docket_number": "09-1498",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1285650000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40642"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1298354400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40643"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1306386000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40644"
+        }
+    ],
+    "question": "<p>Is the time between the filing of a pretrial motion and its disposition automatically excluded from the deadline for commencing trial under the Speedy Trial Act?</p>\n",
+    "citation": {
+        "volume": "563",
+        "page": "647",
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19667"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that the time between the filing of a pretrial motion and its disposition is excluded from the deadline for commencing trial under the Speedy Trial Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/563/647/",
+    "facts_of_the_case": "<p>Following a jury trial in the U.S. District Court for the Western District of Michigan, Jason Louis Tinklenberg was convicted of possessing firearms after having been convicted of a felony and possessing materials used to manufacture methamphetamine. He was sentenced to 33 months of imprisonment, to be followed by three years of supervised release.</p>\n<p>Before trial, the district court had denied Tinklenberg's motion to dismiss the indictment for a violation of the STA. On appeal following Tinklenberg's conviction, the U.S. Court of Appeals for the Sixth Circuit held that the trial court had indeed violated the act and remanded the case with instructions to dismiss the indictment with prejudice.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court affirmed the lower court order in an opinion by Justice Stephen Breyer. The Speedy Trial Act \"contains no requirement that the filing of a pretrial motion actually caused, or was expected to cause, delay of a trial,\" Breyer wrote for the unanimous court. Justice Antonin Scalia filed an opinion concurring in part and concurring in the judgment in which Chief Justice John Roberts and Justice Clarence Thomas joined. Justice Elena Kagan took no part in consideration of the case. \" I agree with the judgment of the Court in Part II that a pretrial motion need not actually postpone a trial, or create an expectation of postponement, in order for its pendency to be excluded under the Speedy Trial Act\u2026. But I think that conclusion is entirely clear from the text of the Speedy Trial Act, and see no need to look beyond the text,\" Scalia argued.</p>\n"
+}

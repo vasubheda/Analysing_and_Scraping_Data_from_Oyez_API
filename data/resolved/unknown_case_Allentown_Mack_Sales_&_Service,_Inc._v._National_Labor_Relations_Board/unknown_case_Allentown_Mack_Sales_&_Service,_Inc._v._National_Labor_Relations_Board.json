@@ -1,0 +1,35 @@
+{
+    "ID": 54584,
+    "name": "Allentown Mack Sales & Service, Inc. v. National Labor Relations Board",
+    "href": "https://api.oyez.org/cases/1997/96-795",
+    "view_count": 0,
+    "docket_number": "96-795",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                876891600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37952"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                885794400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37953"
+        }
+    ],
+    "question": "<p>Is the National Labor Relations Board's \"good-faith reasonable doubt\" standard for polling employees on union support rational and consistent with the National Labor Relations Act? Is the NLRB's factual determination that Allentown Mack Sales, Inc. lacked such doubt supported by substantial evidence in the record?</p>\n",
+    "citation": {
+        "volume": "522",
+        "page": "359",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18513"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/522/359/",
+    "facts_of_the_case": "<p>In 1990, Mack Trucks, Inc., sold its Allentown, Pennsylvania, branch to Allentown Mack Sales, Inc. A number of Mack employees made statement to the new owners suggesting that Local Lodge 724 of the International Association of Machinists and Aerospace Workers, AFL-CIO, had lost the support of bargaining-unit members generally. Subsequently, Allentown refused Local 724's request for recognition and commencement of collective-bargaining negotiations. Allentown, under a National Labor Relations Board (NLRB) precedent, claimed a good-faith reasonable doubt as to the union's support in order to conduct an internal poll of employee support for the union. The employees voted 19 to 13 against the union. Local 724 then filed an unfair-labor-practice charge with the NLRB. Ultimately, an Administrative Law Judge held that Allentown's poll was conducted in compliance with procedural standards, but that Allentown did not have an \"objective reasonable doubt\" about the majority status of the union. The Court of Appeals enforced the NLRB's order for Allentown to recognize and bargain with Local 724.</p>\n",
+    "conclusion": "<p>Yes and no. In a 5-4 opinion delivered by Justice Antonin Scalia, the Court held that \"the Board's 'reasonable doubt' test for employer polls is facially rational and consistent with the Act.\" However, in a separate 5-4 split, the Court held that \"the Board's factual finding that Allentown Mack Sales lacked such a doubt is not supported by substantial evidence on the record as a whole.\" Justice Scalia wrote, \"the Board must be required to apply in fact the clearly understood legal standards that it enunciates in principle, such as good-faith reasonable doubt....Reviewing courts are entitled to take those standards to mean what they say, and to conduct substantial-evidence review on that basis. Even the most consistent and hence predictable Board departure from proper application of those standards will not alter the legal rule by which the agency's factfinding is to be judged.\"</p>\n"
+}

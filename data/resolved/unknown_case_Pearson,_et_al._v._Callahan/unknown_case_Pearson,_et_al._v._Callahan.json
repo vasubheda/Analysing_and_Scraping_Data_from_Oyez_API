@@ -1,0 +1,42 @@
+{
+    "ID": 55537,
+    "name": "Pearson, et al. v. Callahan",
+    "href": "https://api.oyez.org/cases/2008/07-751",
+    "view_count": 0,
+    "docket_number": "07-751",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1206334800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40096"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1223960400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40097"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1232517600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40098"
+        }
+    ],
+    "question": "<p>1)Does a police entry following an informant's signal of probable cause violate the Fourth Amendment under the consent once removed doctrine?</p>\n<p>2)Was it clearly established at the time of entry in this case that the consent once removed doctrine violated the Fourth Amendment?</p>\n<p>3)Should the Supreme Court's decision in <em>Saucier v. Katz</em> be overturned?</p>\n",
+    "citation": {
+        "volume": "555",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20820"
+    },
+    "term": "2008",
+    "description": "A case in which the Court overturned its previous decision in Saucier v. Katz, which prescribed a rigid test for government qualified immunity claims, and held that inquiries should be at the discretion of the lower courts.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>This case stems from a search of Utah resident Afton Callahan's home by the Central Utah Narcotics Task Force. The Task Force, based on evidence that Callahan was a methamphetamine dealer, had sent an informant to his home to make a purchase. After receiving a signal from the informant that the sale had taken place, the Task Force entered the home and conducted a protective sweep of the house without a warrant but after getting Callahan's consent. At trial, Callahan was convicted of possessing and distributing methamphetamines based on evidence discovered during the search, however the Utah Court of Appeals held the evidence inadmissible and reversed Callahan's conviction.</p>\n<p>Subsequently, Callahan filed this action in federal court against the Task Force and individual officers alleging that the search violated his civil rights under the Fourth Amendment. The U.S. District Court for the District of Utah dismissed his claim, holding in part that the \"consent once removed\" doctrine applied to the search. Under the doctrine, an undercover officer may summon backup officers into a home after that officer has been invited with consent. However the U.S. Court of Appeals for the Tenth Circuit disagreed, holding that the doctrine does not apply when the officers are summoned by a police informant. Therefore, according to the Tenth Circuit, Callahan had established a violation of his Fourth Amendment protection against unreasonable searches and seizures.</p>\n",
+    "conclusion": "<p>Not addressed, no, and yes. In a unanimous decision written by Justice Samuel A. Alito, the Supreme Court held that it was not clearly established at the time of police entry that the consent once removed doctrine violated the Fourth Amendment and therefore that the Central Utah Narcotics Task Force was qualifiedly immune in its search of Mr. Callahan's home. The Court also overturned its prior decision in <em>Saucier v. Katz</em>, which prescribed a rigid two-part inquiry into government officials' qualified immunity claims: \"1) whether the facts alleged or shown make out a violation of a constitutional right, and 2) if so, whether that right was clearly established at the time of the defendant's alleged misconduct.\" Rather, the Court held that this inquiry should be utilized at the discretion of the lower courts. It reasoned that substantial judicial resources were often expended in determining difficult constitutional claims that ultimately had little to do with the outcome of the case.</p>\n"
+}

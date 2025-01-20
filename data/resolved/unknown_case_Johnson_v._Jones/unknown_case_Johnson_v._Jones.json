@@ -1,0 +1,35 @@
+{
+    "ID": 54360,
+    "name": "Johnson v. Jones",
+    "href": "https://api.oyez.org/cases/1994/94-455",
+    "view_count": 0,
+    "docket_number": "94-455",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                798181200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37539"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                802933200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37540"
+        }
+    ],
+    "question": "<p>Is a Federal District Court's determination, in denying a summary judgment motion of police officers entitled to assert a qualified immunity defense, that the record raised a factual issue an appealable final decision?</p>\n",
+    "citation": {
+        "volume": "515",
+        "page": "304",
+        "year": "1995",
+        "href": "https://api.oyez.org/case_citation/case_citation/18289"
+    },
+    "term": "1994",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/515/304/",
+    "facts_of_the_case": "<p>Police officers found Houston Jones, a diabetic, on the street while he was having an insulin seizure. The officers arrested Jones because he appeared drunk. Later, Jones found himself with several broken ribs. Jones brought a constitutional tort action against the officers, claiming that they used excessive force when they arrested him and that they beat him at the police station. As government officials, the officers were entitled to assert a qualified immunity defense. Three of the officers moved for summary judgment arguing that he could point to no evidence that these three had beaten him or had been present during beatings. Holding that there was sufficient circumstantial evidence supporting Jones's theory of the case, the District Court denied the motion. The officers sought an immediate appeal, arguing that the denial was wrong because the evidence in the pretrial record was not sufficient to show a genuine issue of fact for trial. The Court of Appeals held that it lacked appellate jurisdiction and dismissed the appeal.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Stephen G. Breyer, the Court held that a defendant, who is entitled to invoke a qualified immunity defense, may not appeal a District Court's summary judgment order insofar as that order determines whether or not the pretrial record sets forth a genuine issue of fact for trial. The Court reasoned, in part, that the competing considerations underlying questions of finality, including the inconvenience and costs of piecemeal review, the danger of denying justice by delay, the comparative expertise of trial and appellate courts, and the wise use of appellate resources, argue against allowing immediate appeals of orders of the kind in question and in favor of limiting interlocutory appeals of qualified immunity matters to cases presenting more abstract issues of law.</p>\n"
+}

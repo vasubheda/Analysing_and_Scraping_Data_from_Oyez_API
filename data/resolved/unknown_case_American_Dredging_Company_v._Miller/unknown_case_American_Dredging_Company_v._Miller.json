@@ -1,0 +1,35 @@
+{
+    "ID": 54279,
+    "name": "American Dredging Company v. Miller",
+    "href": "https://api.oyez.org/cases/1993/91-1950",
+    "view_count": 0,
+    "docket_number": "91-1950",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                752824800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37388"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                761983200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37389"
+        }
+    ],
+    "question": "<p>Does the Constitutional grant of federal jurisdiction over maritime law (found in Article III Section 2) prevent states from prohibiting (in maritime cases) \"forum non conveniens\" claims that, under federal law, would be permitted?</p>\n",
+    "citation": {
+        "volume": "510",
+        "page": "443",
+        "year": "1994",
+        "href": "https://api.oyez.org/case_citation/case_citation/18208"
+    },
+    "term": "1993",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/510/443/",
+    "facts_of_the_case": "<p>Robert Miller, a Mississippi resident who had moved north to find work, was injured while working as a seaman for American Dredging Company, a Pennsylvania corporation with its principal place of business in New Jersey. Miller returned home to Mississippi, and filed a suit against the company in the Civil District Court for the Parish of Orleans, Louisiana. The suit was filed under the Jones Act, a federal law that allows a seaman to sue his employer in either federal or state court when he suffers personal injury.</p>\n<p>American Dredging moved to dismiss the case under the doctrine of \"forum non conveniens,\" which allows a court to dismiss a case if it is filed in a place that is unnecessarily and significantly inconvenient to the defendant. The trial court agreed, holding that a Louisiana law making the doctrine of \"forum non conveniens\" inapplicable in Jones Act cases was superseded by federal maritime law (law that deals with oceanic commerce). An appeals court affirmed the decision, but the Louisiana Supreme Court overturned it, holding that the Louisiana law was not superseded by federal maritime law.</p>\n",
+    "conclusion": "<p>No. The Court decided that \"forum non conveniens\" claims were only procedural, not substantive, and that national uniformity was therefore not required by the Constitution. Writing for the seven-member majority, Justice Antonin Scalia stated \"venue is a matter that goes to process rather than substantive rights -- determining which among various competent courts will decide the case. Uniformity of process (beyond the rudimentary elements of procedural fairness) is assuredly not what the law of admiralty seeks to achieve, since it is supposed to apply in all the courts of the world.\" Further, Scalia wrote that the amount of discretion left to the trial court by the forum non conveniens doctrine necessarily meant that, even if it was embraced by every state, it would still not result in uniformity.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55685,
+    "name": "Conkright v. Frommert",
+    "href": "https://api.oyez.org/cases/2009/08-810",
+    "view_count": 0,
+    "docket_number": "08-810",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1246251600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40496"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1263967200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40497"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1271826000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40498"
+        }
+    ],
+    "question": "<p>1) Did the Second Circuit err in instructing the district court that it had no obligation to defer to the ERISA plan administrator's reasonable interpretation of the terms of the plan if the administrator reached its interpretation outside the context of an administrative claim for benefits?</p>\n<p>2) Did the Second Circuit err in holding that the district court had \"allowable discretion\" to adopt any \"reasonable\" interpretation of the terms of the ERISA plan when the interpretation issue arose in the course of calculating additional benefits due as a result of ERISA violations?</p>\n",
+    "citation": {
+        "volume": "559",
+        "page": "506",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19607"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that the Second Circuit Court of Appeals erred when they did not hold a claim of unfair pension distribution by employees of the Xerox Corporation to a deferential standard of review.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/559/506/",
+    "facts_of_the_case": "<p>Current and former employees of Xerox Corp. sued the company in a New York federal district court under the Employee Retirement Income Security Act (\"ERISA\"). Plaintiffs had left the employer, been paid a lump sum, and after rehire had alleged Xerox improperly calculated their benefits. Xerox argued that release forms signed by some of the plaintiffs barred their ERISA claims. The district court disagreed and then crafted a remedy to compensate the plaintiffs for their lost benefits.</p>\n<p>On appeal, the U.S. Court of Appeals for the Second Circuit held that the district court crafted an appropriate remedy, but erred in finding that the release forms signed by some plaintiffs were unenforceable. Rather, the court reasoned that the release forms were signed knowingly and voluntarily, making them enforceable.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court held that the district court should have applied a deferential standard of review to the Plan Administrator's interpretation of the pension plan. With Chief Justice John G. Roberts writing for the majority, the Court reasoned that its decision in <em>Firestone Tire &amp; Rubber Co. v. Bruch</em> established that when a trust instrument, like the pension plan, gives the trustee the \"power to construe disputed or doubtful terms,\" the trustee's interpretation will not be disturbed \"if reasonable.\" Here, the Second Circuit carved out an exception to the rule holding that a court need not apply a deferential standard when the trustee's previous construction of the same terms was found to violate ERISA. The Second Circuit erred in doing so.</p>\n<p>Justice Stephen G. Breyer, joined by Justices John Paul Stephens and Ruth Bader Ginsburg, dissented. He noted several mistakes made by Xerox, the district court, and the majority of the Court. With respect to the majority opinion, Justice Breyer disagreed that trust law imposes no such inflexible requirement that a court give deference to a plan administrator, as the majority held in this case.</p>\n"
+}

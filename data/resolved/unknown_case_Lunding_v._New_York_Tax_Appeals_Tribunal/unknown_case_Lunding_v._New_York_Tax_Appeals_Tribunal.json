@@ -1,0 +1,35 @@
+{
+    "ID": 54652,
+    "name": "Lunding v. New York Tax Appeals Tribunal",
+    "href": "https://api.oyez.org/cases/1997/96-1462",
+    "view_count": 0,
+    "docket_number": "96-1462",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                878709600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38080"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                885362400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38081"
+        }
+    ],
+    "question": "<p>Does New York Tax Law section 631(b)(6), which effectively denies only nonresident taxpayers a state income tax deduction for alimony paid, violate the Privileges and Immunities Clause of the Constitution?</p>\n",
+    "citation": {
+        "volume": "522",
+        "page": "287",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18581"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/522/287/",
+    "facts_of_the_case": "<p>New York Tax Law section 631(b)(6) denies only nonresident taxpayers a state income tax deduction for alimony paid. In 1990, Christopher Lunding and his wife, residents of Connecticut, were required to pay higher taxes on their New York income when the State denied their attempted deduction of a pro rata portion of the alimony Lunding paid a previous spouse. Lunding commenced suit, asserting that section 631(b)(6) discriminates against New York nonresidents in violation of the Privileges and Immunities, Equal Protection, and Commerce Clauses of the Federal Constitution. Ultimately, the New York Court of Appeals held that section 631(b)(6) was adequately justified because New York residents who are subject to taxation on all of their income regardless of source should be entitled to the benefit of full deduction of expenses, while personal expenses of a nonresident taxpayer are more appropriately allocated to the State of residence.</p>\n",
+    "conclusion": "<p>Yes. In a 6-3 opinion delivered by Justice Sandra Day O'Connor, the Court held that, in the absence of a substantial reason for the difference in treatment of nonresidents, section 631(b)(6) violates the Privileges and Immunities Clause by denying only nonresidents an income tax deduction for alimony payments. \"The alimony obligation may be of a 'personal' nature, but it cannot be viewed as geographically fixed in the manner that other expenses, such as business losses, mortgage interest payments, or real estate taxes, might be,\" wrote Justice O'Connor. Justice Ruth Bader Ginsburg wrote a dissenting opinion, in which Chief Justice William H. Rehnquist and Justice Anthony M. Kennedy joined.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 55856,
+    "name": "Parker v. Matthews",
+    "href": "https://api.oyez.org/cases/2011/11-845",
+    "view_count": 0,
+    "docket_number": "11-845",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1339390800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40940"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1339390800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40941"
+        }
+    ],
+    "question": "<p>1. Did the Sixth Circuit err in rejecting the Kentucky Supreme Court's interpretation of extreme emotional disturbance in Kentucky's murder statute?</p>\n<p>2. Did the Sixth Circuit err by rejecting the Kentucky Supreme Court's finding of sufficient evidence to support two murder convictions in light of the factual findings?</p>\n<p>3. Did the Sixth Circuit err by concluding that the prosecutor's guilt-phase closing argument violated the Due Process Clause and by rejecting the Kentucky Supreme Court's ruling?</p>\n",
+    "citation": {
+        "volume": "567",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/20861"
+    },
+    "term": "2011",
+    "description": "A case in which the Court found that the Sixth Circuit improperly used its own precedent in deciding an appeal from a murder conviction, and that circuit precedent does not constitute clearly established federal law, so it cannot form the basis for habeas relief.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/567/37/",
+    "facts_of_the_case": "<p>In 1981, David Eugene Matthews broke into the home he once shared with his estranged wife, Marlene. Matthews found Marlene's mother asleep in bed and shot her in the head at point blank range. Matthews went to the next room and found Marlene, who he raped and then shot twice. Marlene died instantly and her mother died later that day. Police found Matthews at his mother's house attempting to wash the clothes he wore during the shootings. Police found the murder weapon hidden under the floorboards of a shed in the backyard. At the police station, Matthews made a tape recorded statement denying responsibility for the murders. A grand jury indicted Matthews for both murders and burglary.</p>\n<p>At trial, Matthews did not contest the fact that he committed the murders. Instead, he tried to argue that he suffered an \"extreme emotional disturbance\", which reduces a murder to first-degree manslaughter under Kentucky law. Matthews claimed the Marlene abused him throughout their relationship, which lead to his extreme behavior. The jury convicted Matthews and sentenced him to death. The Kentucky Supreme Court affirmed and rejected Matthews claim that the jury erred in finding that the evidence was insufficient to prove an extreme emotional disturbance. Matthews filed a petition for writ of habeas corpus in federal district court. The district court denied relief, but the U.S. Court of Appeals for the Sixth Circuit reversed, holding that the Kentucky Supreme Court violated clearly established federal law in denying his claims of error.</p>\n",
+    "conclusion": "<p>Yes, Yes, Yes. In a per curiam opinion, the Supreme Court reversed the Sixth Circuit. The Court held that a federal court may only overturn a state court decision when it is objectively unreasonable. The Sixth Circuit improperly drew its own conclusions from the evidence, instead of deferring to the findings of the jury. The Sixth Circuit also followed its own precedent when granting relief, instead of that of the Supreme Court. Circuit precedent does not constitute clearly established federal law, so it cannot form the basis for habeas relief. The case was remanded for further proceedings.</p>\n"
+}

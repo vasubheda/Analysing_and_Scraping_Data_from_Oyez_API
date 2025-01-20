@@ -1,0 +1,42 @@
+{
+    "ID": 55207,
+    "name": "Leocal v. Ashcroft",
+    "href": "https://api.oyez.org/cases/2004/03-583",
+    "view_count": 0,
+    "docket_number": "03-583",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1077516000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39197"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1097557200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39198"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1099980000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39199"
+        }
+    ],
+    "question": "<p>Is a conviction of driving under the influence and causing serious bodily injury a \"crime of violence\" under federal immigration law that allows the person to be deported as an aggravated felon?</p>\n",
+    "citation": {
+        "volume": "543",
+        "page": "1",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19135"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/543/1/",
+    "facts_of_the_case": "<p>A Florida court convicted Vietnam citizen Duan Le for driving under the influence and causing serious bodily injury. The Immigration and Naturalization Service (INS) charged in federal immigration court that Le should be deported. The INS argued Le committed a crime of violence that was an aggravated felony under federal immigration laws - a deportable crime. The immigration court and an appellate immigration court ruled Le could be deported. The 11th Circuit Court of Appeals agreed.</p>\n",
+    "conclusion": "<p>No. In a unanimous decision delivered by Chief Justice William Rhenquist, the Court held that state DUI offenses, except when involving purposeful intent, are accidental and not crimes of violence under federal law. Le therefore did not commit an aggravated felony for which he could be deported.</p>\n"
+}

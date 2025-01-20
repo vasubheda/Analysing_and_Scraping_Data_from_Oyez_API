@@ -1,0 +1,42 @@
+{
+    "ID": 62659,
+    "name": "Trinity Lutheran Church of Columbia, Inc. v. Comer",
+    "href": "https://api.oyez.org/cases/2016/15-577",
+    "view_count": 0,
+    "docket_number": "15-577",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1452837600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53405"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1492578000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54014"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1498453200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54078"
+        }
+    ],
+    "question": "<p>Does the exclusion of churches from an otherwise neutral and secular aid program violate the First Amendment\u2019s guarantee of free exercise of religion and the Fourteenth Amendment's Equal Protection Clause?</p>\n",
+    "citation": {
+        "volume": "582",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27407"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that the exclusion of churches from an otherwise neutral and secular aid program violates the First Amendment\u2019s guarantee of free exercise of religion.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/582/15-577/",
+    "facts_of_the_case": "<p>Trinity Lutheran Church of Columbia, Inc. (Trinity) operates a licensed preschool and daycare called The Learning Center that was initially opened as a non-profit corporation but merged with Trinity in 1985. The Learning Center has an open admissions policy and incorporates daily religious instruction into its programs. The Missouri Department of Natural Resources (DNR) offers Playground Scrap Tire Surface Material Grants that provide funds for qualifying organizations to purchase recycled tires to resurface playgrounds. Trinity applied for such a grant but was denied because Article I, Section 7 of the Missouri Constitution states, \u201cno money shall ever be taken from the public treasury, directly or indirectly, in aid of any church, section or denomination of religion.\u201d Trinity sued and argued that the denial of its application violated the Equal Protection Clause of the Fourteenth Amendment as well as the First Amendment\u2019s protections of freedom of religion and speech. The district court granted Missouri DNR Director Pauley\u2019s motion to dismiss for failure to state a claim, and Trinity moved for reconsideration and to amend its complaint to include allegations that such grants had previously been given to religious organizations. The district court denied the motions, and the U.S. Court of Appeals for the Eighth Circuit affirmed the dismissal and the denial of the motions to reconsider and amend the complaint.</p>\n",
+    "conclusion": "<p dir=\"ltr\">The exclusion of churches from an otherwise neutral and secular aid program violates the First Amendment\u2019s guarantee of free exercise of religion. Chief Justice John G. Roberts, Jr. delivered the opinion of the 7-2 majority. The Court held that the Free Exercise Clause of the First Amendment protected the freedom to practice religion and subjects laws that burden religious practice to strict scrutiny. First Amendment precedent had established that laws that deny an otherwise generally available benefit because of religious status are unconstitutional, though laws that are neutral and generally applicable may be upheld even if they hamper religion. The distinction was whether the law in question discriminates against some or all religious beliefs. In this case, the Missouri Department of Natural Resources\u2019 policy of denying religious organizations from its Playground Scrap Tire Surface Material Grants violated the First Amendment\u2019s Free Exercise Clause because it discriminated against otherwise eligible organizations based solely on their religious character. The law did not need to prevent the religious organization from practicing its religious; it was sufficient that the law denied a religious organization the same opportunity to compete for a benefit that is otherwise available to all secular organizations. Because the state\u2019s interest in using this policy was simply to draw a wide berth around religious establishment concerns, it was not a sufficiently compelling interest. </p>\n<p dir=\"ltr\">In his opinion concurring in part, Justice Clarence Thomas wrote that the Free Exercise Clause of the First Amendment clearly prohibited laws that facially discriminate against religion. To the extent that precedent suggested that a state may \u201cdisfavor\u201d religion by placing minor burdens on religion in order to avoid state entanglement with religion, that precedent should be construed narrowly and did not apply in this case. Justice Neil Gorsuch joined in the opinion concurring in part. Justice Gorsuch wrote a separate opinion concurring in part in which he argued that the majority opinion\u2019s suggested distinction between laws that discriminate based on religious status and those that do so based on religious use was untenable and unsupported by the Free Exercise Clause. Additionally, the majority opinion\u2019s footnote that limited the opinion to addressing \u201cexpress discrimination based on religious identity with respect to playground resurfacing\u201d risked making the opinion too case-specific and not based on general principles. Justice Thomas joined in the opinion concurring in part. In his separate opinion concurring in the judgment, Justice Stephen G. Breyer wrote that the First Amendment was clearly not meant to prevent religious organizations from accessing government-provided benefits such as police and fire services. The benefit here was for the health and safety of children and therefore was in the same class of government-provided services that religious organizations should be able to access. </p>\n<p>\u00a0</p>\n<p dir=\"ltr\">Justice Sonia Sotomayor wrote a dissent in which she argued that this case raised serious Establishment Clause concerns. The majority opinion required a state to directly fund a religious organization in a manner that assisted the spread of its religious message and views. This was precisely the sort of direct connection between church and state that the Establishment Clause was intended to prevent, as shown by extensive history of state disestablishment. Therefore, a prophylactic rule to prevent state funding of religious organizations was permissible, and many states had one. The majority opinion erroneously called this decision discriminatory, when it was actually a legitimate choice for states to make to avoid entanglement with religion. Even under the Free Exercise Clause, the doctrine allowed states to make exceptions to generally applicable laws based on an organization\u2019s status as religious. Justice Ruth Bader Ginsburg joined in the dissent. </p>\n"
+}

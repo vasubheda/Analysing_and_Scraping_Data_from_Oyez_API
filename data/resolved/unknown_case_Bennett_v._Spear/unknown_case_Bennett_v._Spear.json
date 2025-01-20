@@ -1,0 +1,35 @@
+{
+    "ID": 54514,
+    "name": "Bennett v. Spear",
+    "href": "https://api.oyez.org/cases/1996/95-813",
+    "view_count": 0,
+    "docket_number": "95-813",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                847864800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37823"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                858751200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37824"
+        }
+    ],
+    "question": "<p>Can private parties who claim they have suffered economic harm from enforcement of the Endangered Species Act sue to reverse regulation?</p>\n",
+    "citation": {
+        "volume": "520",
+        "page": "154",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18443"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/520/154/",
+    "facts_of_the_case": "<p>When the Fish and Wildlife Service was notified that the operation of the Klamath Irrigation Project might affect two endangered species of fish, it concluded that the proposed long-term operation of the project was likely to jeopardize the species and decided to maintain minimum levels of water in certain reservoirs. The petitioners, irrigation districts receiving project water and operators of ranches in those districts, filed suit against the Service's director, regional directors, and the Secretary, claiming the determination and imposition of minimum water levels violated the Endangered Species Act's requirement that the designated area's economic impact be considered. The District Court dismissed the compliant because it lacked standing; economic interests were not enough to constitute a lawsuit in this matter. The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>Yes. In the unanimous decision, announced by Justice Antonin Scalia, the Court ruled that the petitioners had standing to ask for judicial review of the minimum water level setting under the Endangered Species Act. The Act explicitly allows \"any person\" to sue the government over an alleged violation. Justice Scalia asserted this applies to the Secretary's actions over enforcement.</p>\n"
+}

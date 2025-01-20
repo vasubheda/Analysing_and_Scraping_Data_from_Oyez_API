@@ -1,0 +1,35 @@
+{
+    "ID": 63582,
+    "name": "Calcutt v. Federal Deposit Insurance Corporation",
+    "href": "https://api.oyez.org/cases/2022/22-714",
+    "view_count": 0,
+    "docket_number": "22-714",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1684731600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55270"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1684731600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55271"
+        }
+    ],
+    "question": "<p>When an agency commits legal errors may the reviewing court apply the correct legal rules to the record in the first instance?</p>\n",
+    "citation": {
+        "volume": "598",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27952"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held that the Sixth Circuit erred by conducting its own review of the record and affirming the FDIC\u2019s sanctions against petitioner based on a legal rationale different from the one adopted by the FDIC.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/598/22-714/",
+    "facts_of_the_case": "<p>Harry C. Calcutt, III, served as CEO of Northwestern Bank from 2000 to 2013. In 2009, under Calcutt\u2019s watch, the bank\u2019s largest lending relationship\u2014with Nielsen Entities, a group of 19 family-owned businesses in real estate and oil industries\u2014deteriorated to the point that, in 2011, the entire group of businesses defaulted on their loans.</p>\n<p>In 2012, the Federal Deposit Insurance Corporation (FDIC) opened an investigation into the Nielsen matter, which concluded the following year. The FDIC determined that Calcutt and other officers of the bank had mishandled the Nielsen lending relationship in multiple ways. An administrative law judge conducted an evidentiary hearing into Calcutt\u2019s conduct, and recommended that Calcutt be prohibited from further participation in the banking industry, and be assessed a $125,000 civil penalty. On review, the FDIC board found the ALJ\u2019s findings were well supported and imposed the recommended penalties.</p>\n<p>Calcutt appealed to the U.S. Court of Appeals for the Sixth Circuit, which determined that the FDIC had made two legal errors in adjudicating the case. It then conducted its own review of the record and concluded substantial evidence supported the FDIC\u2019s decision.</p>\n",
+    "conclusion": "<p>In a per curiam (unsigned) opinion, the Court held that when an agency commits legal errors, the reviewing court must remand the case to the agency, not conduct its own review of the factual record.\u00a0</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 63362,
+    "name": "New York State Rifle & Pistol Association Inc. v. Bruen",
+    "href": "https://api.oyez.org/cases/2021/20-843",
+    "view_count": 0,
+    "docket_number": "20-843",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1619413200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54898"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1635915600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54966"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1655960400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55123"
+        }
+    ],
+    "question": "<p>Does New York's law requiring that applicants for unrestricted concealed-carry licenses demonstrate a special need for self-defense violate the Second Amendment?</p>\n",
+    "citation": {
+        "volume": "597",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27819"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held that New York's law requiring applications for concealed-carry licenses to show a special need for self-protection violates their rights under the Second Amendment and Fourteenth Amendments.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/597/20-843/",
+    "facts_of_the_case": "<p>The state of New York requires a person to show a special need for self-protection to receive an unrestricted license to carry a concealed firearm outside the home. Robert Nash and Brandon Koch challenged the law after New York rejected their concealed-carry applications based on failure to show \u201cproper cause.\u201d A district court dismissed their claims, and the U.S. Court of Appeals for the Second Circuit affirmed.</p>\n",
+    "conclusion": "<p>New York\u2019s proper-cause requirement violates the Fourteenth Amendment by preventing law-abiding citizens with ordinary self-defense needs from exercising their Second Amendment right to keep and bear arms in public for self-defense.</p>\n<p>The right to carry a firearm in public for self-defense is deeply rooted in history, and no other constitutional right requires a showing of \u201cspecial need\u201d to exercise it. While some \u201csensitive places\u201d restrictions might be appropriate, Manhattan is not a \u201csensitive place.\u201d Gun restrictions are constitutional only if there is a tradition of such regulation in U.S. history.</p>\n<p>Justice Samuel Alito authored a concurring opinion arguing that the effect of guns on American society is irrelevant to the issue.</p>\n<p>Justice Brett Kavanaugh authored a concurring opinion, in which Chief Justice John Roberts joined, noting that many state restrictions requiring background checks, firearms training, a check of mental health records, and fingerprinting, are still permissible because they are objective, in contrast to the discretionary nature of New York\u2019s law.</p>\n<p>Justice Amy Coney Barrett authored a concurring opinion noting two methodological points the Court did not resolve.</p>\n<p>Justice Stephen Breyer authored a dissenting opinion, in which Justices Sonia Sotomayor and Elena Kagan joined. Justice Breyer argued that states should be able to pass restrictions in an effort to curb the number of deaths caused by gun violence, and the Court\u2019s decision \u201cseverely burdens the States\u2019 efforts to do so.\u201d</p>\n"
+}

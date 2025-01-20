@@ -1,0 +1,35 @@
+{
+    "ID": 55000,
+    "name": "Owasso Independent School District No. I-011 v. Falvo",
+    "href": "https://api.oyez.org/cases/2001/00-1073",
+    "view_count": 0,
+    "docket_number": "00-1073",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1006840800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38729"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1014098400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38730"
+        }
+    ],
+    "question": "<p>Does the practice of peer grading violate the Family Educational Rights and Privacy Act of 1974?</p>\n",
+    "citation": {
+        "volume": "534",
+        "page": "426",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/18929"
+    },
+    "term": "2001",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/534/426/",
+    "facts_of_the_case": "<p>Kristja J. Falvo asked the Owasso Independent School District to ban peer grading, or the practice of allowing students to score each other's tests, papers, and assignments as the teachers explain the correct answers to the entire class, because it embarrassed her children. When the school district declined, Falvo filed an action against the school district, claming that such peer grading violates the Family Educational Rights and Privacy Act of 1974 (FERPA). FERPA authorizes federal funds to be withheld from school districts that permit students' \"education records (or personally identifiable information contained therein)\" to be released without their parents' written consent and defines education records as \"records, files, documents, and other materials\" containing information directly related to a student, which \"are maintained by an educational agency or institution or by a person acting for such agency or institution.\" Disagreeing with Falvo, the District Court held that grades put on papers by another student are not \"education records.\" In reversing, the Court of Appeals found that grades marked by students on each other's work are \"education records,\" such that the very act of grading is an impermissible release of information to the student grader.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Anthony M. Kennedy, the Court held that Peer grading does not violate FERPA. The Court reasoned that peer-graded items did not constitute education records protected by FERPA until a teacher collected the grades on the students' papers or other items and recorded the grades in the teacher's grade book. In reaching its conclusion, the Court noted that peer-graded items were not \"maintained\" within in the meaning of FERPA, as the student graders only handled the items for a few moments. Moreover, the Court stated that each student grader, by grading assignments, did not constitute a person acting for an educational institution within FERPA.</p>\n"
+}

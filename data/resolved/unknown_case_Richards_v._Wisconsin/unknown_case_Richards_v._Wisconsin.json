@@ -1,0 +1,35 @@
+{
+    "ID": 54511,
+    "name": "Richards v. Wisconsin",
+    "href": "https://api.oyez.org/cases/1996/96-5955",
+    "view_count": 0,
+    "docket_number": "96-5955",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                859183200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37818"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                862203600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37819"
+        }
+    ],
+    "question": "<p>Did the officers' use of deception and force, in order to gain entry into Richards' hotel room, violate the Fourth Amendment's protection against illegal search and seizures?</p>\n",
+    "citation": {
+        "volume": "520",
+        "page": "385",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18440"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/520/385/",
+    "facts_of_the_case": "<p>Police in Madison, Wisconsin, suspected Steiney Richards of drug possession, but failed to receive a magistrate's authorization for a \"no-knock\" entry into his hotel room. Instead, they obtained a conventional search warrant requiring them to knock on Richards' door and identify themselves as officers prior to resorting to forcible entry. After arriving on the scene, an officer knocked on Richards' door identifying himself as a hotel custodian. When Richards opened the door, he saw a uniformed officer and quickly slammed it shut. The officers broke through the door, grabbed Richards while trying to escape, and found cocaine and cash in his bathroom. At trial, Richards challenged the constitutionality of the officer's search but was denied. On appeal, Wisconsin's Supreme Court affirmed and the Supreme Court granted certiorari.</p>\n",
+    "conclusion": "<p>No. After noting the general importance of following conventional \"knock-and-announce\" procedures, the Court held that in those circumstances when police have good reason to suspect that announcing their presence and intentions may be dangerous, futile, or result in the destruction of evidence, a \"no-knock\" entry is justified. The Court added that by immediately closing the door after witnessing the officers outside it, Richards gave police sufficient justification for breaking into his room - especially considering the disposable nature of the substances they were seeking.</p>\n"
+}

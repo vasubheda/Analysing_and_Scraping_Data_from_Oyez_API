@@ -1,0 +1,35 @@
+{
+    "ID": 62862,
+    "name": "Pavan v. Smith",
+    "href": "https://api.oyez.org/cases/2016/16-992",
+    "view_count": 0,
+    "docket_number": "16-992",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1498453200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54083"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1498453200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54082"
+        }
+    ],
+    "question": "<p>Is it unconstitutional for a state to preclude a same-sex couple from being listed as the two parents on their child's birth certificate?</p>\n",
+    "citation": {
+        "volume": "582",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27526"
+    },
+    "term": "2016",
+    "description": "A case in which the Court decided the constitutionality of an Arkansas statute that by its language precludes both names of a same-sex married couple from being listed as parents on a child's birth certificate, in light of the Court's decision in Obergefell v. Hodges.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/582/16-992/",
+    "facts_of_the_case": "<p>Leigh and Jana Jacobs, and Terrah and Marisa Pavan\u2014both same-sex couples\u2014were married in Iowa in 2010, and in New Hampshire in 2011, respectively. Leigh and Terrah each gave birth to a child in Arkansas in 2015, and each couple completed the requisite paperwork for birth certificates for the newborns listing both spouses as parents\u2014Leigh and Jana in one case, and Terrah and Marisa in the other. Citing a provision of Arkansas law, Ark. Code 20-18-401, the Arkansas Department of Health issue certificates bearing only the birth mother's name.</p>\n<p>The Jacobses and Pavans filed a lawsuit in Arkansas state court against the director of the Arkansas Department of Health seeking a declaration that the State's birth-certificate law violates the constitution. The trial court agreed with the couples, holding that the state statute is inconsistent with the Supreme Court's decision in Obergefell v. Hodges. The Arkansas Supreme Court reversed the trial court.</p>\n",
+    "conclusion": "<p dir=\"ltr\">A state rule that requires a child\u2019s birth certificate to list the non-biological father if he is married to the biological mother but that does not allow both same-sex spouses to be listed as parents is unconstitutional discrimination that violates Obergefell v. Hodges. In a per curiam opinion, the Court held that the rule functionally deprives married same-sex couples the same rights to be listed on their children\u2019s birth certificates as married opposite-sex couples have. Not being listed on a child\u2019s birth certificate can significantly affect a parent\u2019s ability to participate in transactions that require showing proof of parentage. Therefore, this rule unconstitutionally discriminates against married same-sex couples by denying them access to the same rights, responsibilities, and benefits that married opposite-sex couples have. </p>\n<p>Justice Neil Gorsuch wrote a dissent in which he argued that the Obergefell precedent was limited to recognition of same-sex marriage and did not extend to the constitutionality of biology-based birth certificate rules, like the one at issue in this case. Because the rule was challenged in its entirety rather than the specific part relating to artificial insemination, the Court\u2019s per curiam opinion was improperly broad. Justice Clarence Thomas and Justice Samuel A. Alito, Jr. joined in the dissent.</p>\n"
+}

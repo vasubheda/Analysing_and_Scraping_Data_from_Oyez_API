@@ -1,0 +1,35 @@
+{
+    "ID": 54703,
+    "name": "Mitchell v. United States",
+    "href": "https://api.oyez.org/cases/1998/97-7541",
+    "view_count": 0,
+    "docket_number": "97-7541",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                913183200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38172"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                923288400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38173"
+        }
+    ],
+    "question": "<p>Does a guilty plea in federal court waive a defendant's Fifth Amendment privilege against self-incrimination during sentencing? When a defendant invokes his or her Fifth Amendment privilege during sentencing, may a trial court draw an adverse inference from the defendant's silence?</p>\n",
+    "citation": {
+        "volume": "526",
+        "page": "314",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18632"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/526/314/",
+    "facts_of_the_case": "<p>Amanda Mitchell and others were indicted for offenses arising from a conspiracy to distribute cocaine. Mitchell was charged with one count of conspiring to distribute five or more kilograms of cocaine. Mitchell pleaded guilty, but reserved the right to contest the drug quantity attributable to her under the conspiracy count during her sentencing hearing. Before accepting her plea, the District Court told Mitchell that she faced a mandatory minimum of 1 year in prison for distributing cocaine and a 10-year minimum for conspiracy if the government could show the required 5 kilograms. The court also explained to Mitchell that by pleading guilty she would be waiving her right \"at trial to remain silent.\" At Mitchell's sentencing hearing, the District Court found, after hearing testimony that included some of Mitchell's codefendants, that Mitchell's alleged drug sales of 1 1/2 to 2 ounces of cocaine twice a week for year and a half put her over the 5-kilogram threshold. Mitchell did not testify to rebut the Government's evidence about drug quantity; however, her counsel argued the quantity of cocaine attributable to her for sentencing purposes. The District Court ruled that as a consequence of Mitchell's guilty plea, she had no right to remain silent about her crime's details; found that the codefendants' testimony put her over the 5-kilogram threshold, thus mandating the 10-year minimum; and noted that her failure to testify was a factor in persuading the court to rely on the codefendants' testimony. The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>No and no. In a 5-4 opinion delivered by Justice Anthony M. Kennedy, the Court held that in the federal criminal system, a guilty plea does not waive the self-incrimination privilege at sentencing and that a sentencing court may not draw an adverse inference from a defendant's silence in determining facts relating to the circumstances and details of the crime. \"Treating a guilty plea as a waiver of the privilege at sentencing would be a grave encroachment on the rights of defendants,\" wrote Justice Kennedy for the Court. Justice Kennedy continued that \"by holding [Mitchell's] silence against her in determining the facts of the offense at the sentencing hearing, the District Court imposed an impermissible burden on the exercise of the constitutional right against compelled self-incrimination.\" Justice Antonin Scalia, writing for the dissenting minority, expressed the view that, while the Court properly held Mitchell did not waive her privilege, she \"did not have the right to have the sentencer abstain from making the adverse inferences that reasonably flow from her failure to testify.\"</p>\n"
+}

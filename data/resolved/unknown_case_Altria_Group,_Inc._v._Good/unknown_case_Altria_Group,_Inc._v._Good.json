@@ -1,0 +1,42 @@
+{
+    "ID": 55602,
+    "name": "Altria Group, Inc. v. Good",
+    "href": "https://api.oyez.org/cases/2008/07-562",
+    "view_count": 0,
+    "docket_number": "07-562",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1200636000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40279"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1223269200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40280"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1229320800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40281"
+        }
+    ],
+    "question": "<p>Does federal preemption of the Maine Unfair Trade Practices Act hinge on the express or implied nature of the allegedly fraudulent misrepresentations?</p>\n",
+    "citation": {
+        "volume": "555",
+        "page": "70",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20808"
+    },
+    "term": "2008",
+    "description": "A case in which the Court held that the Federal Cigarette Labeling and Advertising Act did not preempt all claims related to \"smoking and health\" under the Maine Unfair Trade Practices Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/555/70/",
+    "facts_of_the_case": "<p>A group of cigarette smokers brought this claim against Altria, the cigarette manufacturer, in federal court in Maine. The smokers asserted that Altria's advertisement claiming that its product was \"light\" and had \"lowered tar and nicotine\" constituted misrepresentations under the Maine Unfair Trade Practices Act. The United States District Court for the District of Maine granted summary judgment in favor of Altria on the claim.</p>\n<p>The U.S. Court of Appeals for the First Circuit, however, reversed the lower court and found in favor of the plaintiff smokers. The court held that the Maine Act was not preempted, either explicitly or implicitly, by a similar federal act, the Federal Cigarette Labeling and Advertising Act, and that Altria's assertions did in fact constitute misrepresentations under the Maine Act.</p>\n",
+    "conclusion": "<p>No. In a 5-4 decision, the Supreme Court affirmed the United States Court of Appeals for the First Circuit. Justice John Paul Stevens writing for the majority held that the Federal Cigarette Labeling and Advertising Act (FCLAA) did not expressly or impliedly preempt all claims related to \"smoking and health\" under the Maine Unfair Trade Practices Act (MUTPA). Adopting the reasoning it used in <em>Cipollone</em>, the court found that claims based on a common law legal duty (\"predicate-duty\" approach), like a manufacturer's duty not to misrepresent its products, were not preempted simply because they related to cigarette manufacturers and the labeling of its products.</p>\n<p>Justice Clarence Thomas joined by Chief Justice John G. Roberts, Justice Antonin G. Scalia, and Justice Samuel A. Alito Jr. dissented. Justice Thomas disagreed with the majority's adoption of the \"predicate-duty\" approach from <em>Cipollone</em> arguing it was confusing and unworkable. Rather, he argued that the Court should adopt a clear test that expressly pre-empts any state law claim that \"imposes an obligation\u2026because of the effect of smoking upon health.\"</p>\n"
+}

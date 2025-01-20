@@ -1,0 +1,42 @@
+{
+    "ID": 55577,
+    "name": "Philip Morris USA Inc. v. Williams",
+    "href": "https://api.oyez.org/cases/2008/07-1216",
+    "view_count": 0,
+    "docket_number": "07-1216",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1212987600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40207"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1228284000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40208"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1238475600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40209"
+        }
+    ],
+    "question": "<p>Can a state court, after the U.S. Supreme Court has remanded a case back to it with instructions to apply the correct constitutional standard, raise a state-law procedural bar for the first time?</p>\n",
+    "citation": {
+        "volume": "556",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20789"
+    },
+    "term": "2008",
+    "description": "A case which the Court dismissed as improvidently granted.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>Mayola Williams sued the tobacco giant, Philip Morris, in Oregon state court following her husband's death from lung cancer in 1997. Ms. Williams claimed that her husband had been convinced by Philip Morris' advertisements and representations that smoking did not pose any significant health risks and had refused to quit smoking despite his family's pleas. She alleged that Philip Morris' fraud and negligence in this regard had caused her husband's death.</p>\n<p>At trial, a jury found in favor of Ms. Williams and awarded her $79.5 million in punitive damages, which the trial court reduced to $32 million. On appeal, Philip Morris argued that the trial court had committed an error when it failed to give a proposed jury instruction stating, in part, that the jury should not \"punish the defendant for the impact of its alleged misconduct on other persons.\" The case eventually wound up before the Oregon Supreme Court (\"OSC\"), which ruled that the proposed jury instruction incorrectly stated the federal requirements of due process of law, and the trial court was therefore correct to exclude it. The OSC found it unnecessary to rule, at that time, on whether the jury instruction was flawed for its description of state-law requirements. Philip Morris sought and was granted certiorari to the U.S. Supreme Court. The Court reversed the OSC, stating that due process did not necessarily require exclusion of the instruction, and remanded the case so that the OSC could apply the correct standard.</p>\n<p>On remand, the OSC stated that the U.S. Supreme Court's new constitutional standard was only triggered \"upon request,\" which obligated it to determine whether Philip Morris's request was valid under state law. The OSC held that the proposed instruction misstated Oregon's statutory punitive damages criteria and therefore was not \"clear and correct in all respects,\" as it must be to be considered error. The U.S. Supreme Court, which will now hear the case for the second time after granting Philip Morris' certiorari petition, must determine whether the OSC is permitted to insert these state law issues at such a late stage in the game.</p>\n",
+    "conclusion": "<p>The Supreme Court dismissed the writ of certiorari as improvidently granted.</p>\n"
+}

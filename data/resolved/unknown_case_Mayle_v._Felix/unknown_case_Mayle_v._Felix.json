@@ -1,0 +1,42 @@
+{
+    "ID": 55213,
+    "name": "Mayle v. Felix",
+    "href": "https://api.oyez.org/cases/2004/04-563",
+    "view_count": 0,
+    "docket_number": "04-563",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1105077600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39215"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1113886800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39216"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1119502800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39217"
+        }
+    ],
+    "question": "<p>Federal habeas law allowed an amended petition to relate back to the filing date of the original petition if both arose out out of the same \"conduct, transaction or occurrence\" the original set forth. Did the trial and conviction qualify as a \"conduct, transaction or occurrence?\"</p>\n",
+    "citation": {
+        "volume": "545",
+        "page": null,
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/20556"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>A California state court sentenced Felix to life in prison for murder. Felix's conviction became final on August 12, 1997. Federal habeas law gave Felix one year to file a habeas petition in federal court. On May 8, 1998, Felix filed a habeas petition and asserted a Sixth Amendment challenge to the admission into his trial of videotaped prosecution witness testimony. On January 28, 1999, more than five months after the one-year habeas time limit, Felix filed an amended petition arguing that the admission into his trial of pretrial statements had violated the Fifth Amendment. Felix argued that the one-year limit did not bar this amended petition, citing the rule under federal habeas law that amended petitions relate back to the filing date of the original petition if both arise out of the original's \"conduct, transaction or occurrence.\" Because his Fifth and Sixth Amendment claims challenged the same criminal conviction, Felix argued, they arose out of the same \"conduct, transaction, or occurrence.\" The district court disagreed and ruled the amended petition time barred; the court rejected the Sixth Amendment claim on its merits. The Ninth Circuit affirmed the Sixth Amendment ruling, but agreed with Felix that his amended petition was not time barred because they both arose out of the same trial and conviction.</p>\n",
+    "conclusion": "<p>No. In a 7-2 opinion delivered by Justice Ruth Bader Ginsburg, the Court rejected the argument that the trial itself was the \"transaction\" or \"occurrence\" under federal habeas law. The Court said that such a definition would have allowed virtually any new claim introduced in an amended petition to relate back, gutting the one-year time limit on petitions. Felix's amended habeas petition thus did not relate back because the issue of his pretrial statements differed in time and type from the videotaped witness testimony.</p>\n"
+}

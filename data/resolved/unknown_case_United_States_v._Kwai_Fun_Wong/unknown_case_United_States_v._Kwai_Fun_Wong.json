@@ -1,0 +1,42 @@
+{
+    "ID": 56053,
+    "name": "United States v. Kwai Fun Wong",
+    "href": "https://api.oyez.org/cases/2014/13-1074",
+    "view_count": 0,
+    "docket_number": "13-1074",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1404104400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41622"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1418191200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41623"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1429678800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41789"
+        }
+    ],
+    "question": "<p>Are the Federal Tort Claims Act\u2019s statute of limitations provisions subject to equitable tolling?</p>\n",
+    "citation": {
+        "volume": "575",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20976"
+    },
+    "term": "2014",
+    "description": "A case in which the Court held that the statutes of limitations provisions of the Federal Tort Claims Act are subject to equitable tolling.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/575/402/",
+    "facts_of_the_case": "<p>Kwai Fun Wong, a citizen of Hong Kong and leader of the Wu Wei Tien Tao religious organization, was arrested and deported by the United States Immigration and Naturalization Service (INS) for unlawful entry into the U.S. Prior to her deportation, Wong was briefly detained by the INS, during which she claimed to have been treated negligently by the INS. Under the Federal Tort Claims Act (FTCA), no civil suit may be filed against the United States unless the claimant has first filed a claim with the relevant federal agency and that claim has been denied.</p>\n<p>Following denial, a claimant has six months to file suit or the suit is permanently barred. Wong filed a claim with the INS and, following the denial of that claim, sought leave from the district court to add a civil claim against the U.S. to her already outstanding suit against a number of federal officials. For unexplained reasons, the district court did not allow Wong to amend her complaint until seven months later, after the six-month deadline had passed. The district court then dismissed Wong\u2019s federal civil complaint and held that the six-month deadline was \u201cjurisdictional\u201d and thus not subject to equitable tolling, or\u00a0delaying the time at which a statute of limitations begins to run. The U.S. Court of Appeals for the Ninth Circuit reversed and found that equitable tolling could be applied to the six-month deadline.</p>\n<p>This case was consolidated with\u00a0<em>United States v. June</em>, a case in which the conservator (financial manager) of an estate argued that the two-year statute of limitations for filing suit under the FTCA should not have begun to run until she had access to the depositions of federal employees without which she could not have been aware of her claim against the federal government. As in\u00a0<em>Wong</em>, the federal government claimed that this statute of limitations was \u201cjurisdictional,\u201d and thus not subject to equitable tolling. The district court agreed with the federal government and dismissed the suit. The U.S. Court of Appeals for the Ninth Circuit reversed and held that equitable tolling was appropriate based on its earlier opinion in<em>Wong v. Beebe</em>.</p>\n",
+    "conclusion": "<p>Yes. Justice Elena Kagan delivered the opinion for the 5-4 majority. The Court held that, as in suits between private parties, there is presumption that equitable tolling is available for suits against the federal government. That presumption may be rebutted by evidence that the statute of limitations is jurisdictional, as the government attempted to show in these cases. Because such a determination would completely deprive a court of the authority to hear a case, the Court will only find that the time limitation is jurisdictional if Congress has clearly intended that result. The Court held that the Federal Tort Claims Act (FTCA) does not provide any such clear statement that Congress intended the statute of limitations provisions to be jurisdictional.</p>\n<p>Justice Samuel A. Alito, Jr. wrote a dissenting opinion in which he argued that the history of the FTCA and its statutory language indicate that the statute of limitation provisions are not subject to equitable tolling. Because the FTCA waived the federal government\u2019s sovereign immunity, Congress placed strict limits on situations in which the federal government might be subject to liability. The statute of limitations provisions at issue in these cases are examples of such protections against extensive governmental liability and have been interpreted as such. Even if the statute of limitations provisions are not jurisdictional, Justice Alito argued that they should still be interpreted as inflexible based on the statutory language and therefore not subject to equitable tolling. Chief Justice John G. Roberts, Jr., Justice Antonin Scalia, and Justice Clarence Thomas joined in the dissent.</p>\n"
+}

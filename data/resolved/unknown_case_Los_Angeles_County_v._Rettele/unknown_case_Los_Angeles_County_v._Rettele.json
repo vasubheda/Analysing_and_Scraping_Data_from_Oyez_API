@@ -1,0 +1,35 @@
+{
+    "ID": 55378,
+    "name": "Los Angeles County v. Rettele",
+    "href": "https://api.oyez.org/cases/2006/06-605",
+    "view_count": 0,
+    "docket_number": "06-605",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1179723600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39657"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                1161925200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53339"
+        }
+    ],
+    "question": "<p>Were an individual's Fourth Amendment rights violated when the police temporarily detained him in his home despite the fact that his race differed from the race of the suspect identified in the search warrant?</p>\n",
+    "citation": {
+        "volume": "550",
+        "page": "609",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/19303"
+    },
+    "term": "2006",
+    "description": "A case in which the Court decided that a search conducted on a home when the race of the occupants does not match the race of the supposed occupants identified in the search warrant does not violate the occupant\u2019s Fourth Amendment rights.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/550/609/",
+    "facts_of_the_case": "<p>The Los Angeles County Sheriff\u2019s Department obtained a warrant to search a residence connected with a fraud and identity-theft crime ring. Unbeknownst to the police, the residence had been sold three months prior to the search, and there was no longer a suspect living there. The suspect the police thought lived in the residence for which the warrant was obtained was African American. When the police arrived at the house to conduct the search, the family living there was Caucasian. Max Rettele and his girlfriend were ordered out of bed and detained while the police secured the premises, but the police realized their mistake and quickly left. Rettele sued Los Angeles County for violating his Fourth Amendment right to be free from illegal searches and seizures. The trial court held that the police were not liable for violating Rettele\u2019s Fourth Amendment rights. The U.S. Court of Appeals for the Ninth Circuit overturned the lower court\u2019s decision and held that, since the race of Rettele and his girlfriend did not match the race of the suspect identified in the search warrant, the police violated Rettele\u2019s Fourth Amendment rights.</p>\n",
+    "conclusion": "<p>In a per curiam opinion, the unanimous Court held that, because the police had only detained Rettele and his girlfriend for a short period of time while they began to secure the premises for a search, his Fourth Amendment rights were not violated. The Court further held that the fact that Rettele\u2019s race differed from the race of the individual listed on the search warrant did not mean the police were mistaken in beginning their search of the property. The fact that Rettele was clearly Caucasian did not rule out the possibility that there were individuals in the home who matched the description in the search warrant, and therefore the search was lawful. In his concurring opinion, Justice John Paul Stevens wrote that the U.S. Court of Appeals for the Ninth Circuit should have published the decision in this case. Justice Stevens also argued that the appellate court preemptively decided a question of constitutional law that it should not have addressed. Justice Ruth Bader Ginsburg joined in the concurring opinion.</p>\n"
+}

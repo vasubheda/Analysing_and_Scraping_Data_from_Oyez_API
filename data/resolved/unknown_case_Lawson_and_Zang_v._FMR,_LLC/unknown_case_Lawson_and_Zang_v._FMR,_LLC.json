@@ -1,0 +1,42 @@
+{
+    "ID": 56027,
+    "name": "Lawson and Zang v. FMR, LLC",
+    "href": "https://api.oyez.org/cases/2013/12-3",
+    "view_count": 0,
+    "docket_number": "12-3",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1369026000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41371"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1384236000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41372"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1393912800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41568"
+        }
+    ],
+    "question": "<p>Is an employee of a privately held contractor or subcontractor of a public company protected from retaliation under the whistleblower-protection provision of the Sarbanes-Oxley Act?</p>\n",
+    "citation": {
+        "volume": "571",
+        "page": "429",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20880"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that the whistleblower-protection section of the Sarbanes-Oxley Act applies to privately-employed individuals.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/571/429/",
+    "facts_of_the_case": "<p>The plaintiffs, Jackie Lawson and Jonathan Zang, brought a lawsuit against their former employer, FMR LLC, a subcontractor of Fidelity Investments (Fidelity), alleging that the company unlawfully fired them in retaliation for filing complaints. Both Lawson and Zang told the Occupational Health and Safety Administration (OSHA) that they believed that Fidelity had violated certain rules and regulations set forth by both the Security and Exchange Commission (SEC) and federal laws relating to fraud against shareholders. Sometime after filing these complaints, Zang was terminated for unsatisfactory performance. Lawson filed several retaliation claims against her employer with OSHA, and resigned in 2007, claiming that she had been constructively discharged.</p>\n<p>Zang and Lawson each filed separate actions against their former employers in district court. They alleged that the defendants violated \"whistleblower\" protection sections of the Sarbanes-Oakley Act by taking retaliatory actions against them. The district court found in favor of the plaintiffs and held that the whistleblower provisions extended to employees of private agents, contractors, and subcontractors to public companies and that the plaintiffs had engaged in protected activity under the statute. The defendants appealed to the U.S. Court of Appeals for the First Circuit, which reversed the decision. Looking at both Congressional intent and the plain meaning of the statute, the Court of Appeals held that the plaintiffs were not protected employees under the act.</p>\n",
+    "conclusion": "<p>Yes. Justice Ruth Bader Ginsburg delivered the opinion of the 6-3 majority. The Supreme Court held that whistleblower-protection provision of the Sarbanes-Oxley Act protects employees of private contractors and subcontractors just as it does employees of the public company served by the private contractors and subcontractors. Because there was no language in the Act that specifically limited the covered employees to those working for the public company, the Court held that Congress must not have intended the Act to have such a limited scope. The legislative record supports the view that Congress was aware of the role that outside contractors can play in recognizing and reporting fraud, and that fear of retaliation can prevent them from fulfilling that role.</p>\n<p>In his opinion concurring in principal part and concurring in the judgment, Justice Antonin Scalia wrote that, while he agreed with the judgment of the majority opinion, the majority opinion's reliance on legislative history is an ineffective measure of proof because it cannot accurately reflect Congressional intent. Justice Clarence Thomas joined in the concurrence in principal part and in the judgment.</p>\n<p>Justice Sonia Sotomayor wrote a dissent in which she argued that the majority opinion was an over-broad interpretation of the Sarbanes-Oxley Act. There are several key indicators that support a narrower reading of that Act, not the least of which is the fact that the relevant section is entitled \"Protection for Employees of Publically Traded Companies Who Provide Evidence of Fraud.\" Beyond the evidence of the Act's context that support a narrow reading, Justice Sotomayor also argued that the majority opinion's interpretation would result in opportunities for litigation any time any employee claims to be harassed for providing information regarding any offense; it is not plausible that Congress would have intended to place such burdens on the courts. Justice Anthony M. Kennedy and Justice Samuel A. Alito, Jr. joined in the dissent.</p>\n"
+}

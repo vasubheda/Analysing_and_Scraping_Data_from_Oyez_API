@@ -1,0 +1,42 @@
+{
+    "ID": 55800,
+    "name": "Davis v. United States",
+    "href": "https://api.oyez.org/cases/2010/09-11328",
+    "view_count": 0,
+    "docket_number": "09-11328",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1288587600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40787"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1300683600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40788"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1308200400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40789"
+        }
+    ],
+    "question": "<p>Does the good-faith exception to the exclusionary rule apply to a search that was authorized by precedent at the time of the search but is subsequently ruled unconstitutional?</p>\n",
+    "citation": {
+        "volume": "564",
+        "page": null,
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19722"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that the good-faith exception to the exclusionary rule applies to a search that was authorized by precedent at the time of the search, but was subsequently ruled unconstitutional.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/564/229/",
+    "facts_of_the_case": "<p>Police arrested Willie Gene Davis after a traffic stop. He subsequently gave a false name to the officers. After discovering his real name, the officers arrested him, handcuffed him and put him in the police car for giving false information to a police officer. Then they searched the vehicle and found a gun in his jacket. He was charged and convicted for possession of an illegal weapon. Following a jury trial, Davis was convicted and sentenced to 220 months in prison. But the U.S. Court of Appeals for the Eleventh Circuit found that while the search was illegal the evidence found in the vehicle was still admissible.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court affirmed the lower court order in an opinion by Justice Samuel Alito. \"Searches conducted in objectively reasonable reliance on binding appellate precedent are not subject to the exclusionary rule,\" Alito wrote. Justice Sonia Sotomayor joined in the judgment only. Meanwhile, Justice Stephen Breyer dissented, joined by Justice Ruth Bader Ginsburg. \"The Court finds a new 'good faith' exception which prevents application of the normal remedy for a Fourth Amendment violation, namely, suppression of the illegally seized evidence,\" Breyer notes, adding: \"At this point I can no longer agree with the Court. A new 'good faith' exception and this Court's retroactivity decisions are incompatible.\"</p>\n"
+}

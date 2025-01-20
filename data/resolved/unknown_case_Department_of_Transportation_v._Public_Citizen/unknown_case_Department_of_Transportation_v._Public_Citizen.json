@@ -1,0 +1,42 @@
+{
+    "ID": 55128,
+    "name": "Department of Transportation v. Public Citizen",
+    "href": "https://api.oyez.org/cases/2003/03-358",
+    "view_count": 0,
+    "docket_number": "03-358",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1071468000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38975"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1082523600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38976"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1086584400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38977"
+        }
+    ],
+    "question": "<p>Should the Federal Motor Carrier Safety Administration, knowing that its passage of certain regulations would cause Congress and the President to lift a ban on Mexican motor carriers, have considered the environmental impact of the motor carriers when determining whether to perform an Environmental Impact Study of its regulations?</p>\n",
+    "citation": {
+        "volume": "541",
+        "page": "752",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19057"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/541/752/",
+    "facts_of_the_case": "<p>In 2001, President Bush announced that he planned to lift a temporary ban on Mexican trucking companies in the United States once new regulations were prepared by the Federal Motor Carrier Safety Administration (FMCSA) to regulate safety inspections and applications to transport materials. Congress specified certain standards that those regulations would have to meet before it would appropriate money to register the new carriers.</p>\n<p>When the FMCSA formulated its regulations, it performed an Environmental Assessment (EA) to examine their effects on the environment. Under the National Environmental Policy Act of 1969 (NEPA), federal agencies must perform an Environmental Impact Study (EIS) of policies that are likely to have significant environmental effects. If an agency feels that its policies will not have significant effects, however, it may perform a more limited Environmental Assessment (EA) - which is what FMCSA chose to do. Public Citizen, a watchdog group that monitors government actions, challenged this decision in federal court. It argued that, because FMCSA knew that a large number of Mexican trucks would be admitted into the United States once it issued its regulations, it should have considered the environmental impact of the increased number of trucks in addition to the more limited impact of the safety inspections. The impact of the trucks would have been significant enough to warrant an EIS, so Public Citizen argued that FMCSA had violated NEPA by not conducting the more stringent study. The district court side with the FMCSA, holding that, while the passage of the regulations was necessary before the trucks could be admitted, the FMCSA nevertheless did not have control of those trucks and therefore did not have to account for them in its Environmental Assessment; a Ninth Circuit Court of Appeals panel reversed.</p>\n",
+    "conclusion": "<p>No. In a unanimous decision written by Justice Clarence Thomas, the Court held that the FMCSA had no control of the trucks once the regulations were passed, and would therefore be unable to act on the findings of an EIS even if it did conduct one. Further, the Court found that the passage of the regulations was not sufficiently responsible for the increased pollution caused by the trucks to warrant an EIS.</p>\n"
+}

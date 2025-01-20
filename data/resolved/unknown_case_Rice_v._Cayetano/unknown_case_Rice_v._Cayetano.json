@@ -1,0 +1,35 @@
+{
+    "ID": 54793,
+    "name": "Rice v. Cayetano",
+    "href": "https://api.oyez.org/cases/1999/98-818",
+    "view_count": 0,
+    "docket_number": "98-818",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                939186000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38336"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                951285600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38337"
+        }
+    ],
+    "question": "<p>Does the Hawaiian Constitutional provision, which limits the right to for the trustees of the Office of Hawaiian Affairs to qualified \"Hawaiians,\" violate the Fifteenth Amendment by creating a race-based voting qualification?</p>\n",
+    "citation": {
+        "volume": "528",
+        "page": "495",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18722"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/528/495/",
+    "facts_of_the_case": "<p>The Hawaiian Constitution limits the right to vote for the nine trustees of the state agency known as the Office of Hawaiian Affairs (OHA). The agency administers programs designed for the benefit of two subclasses of Hawaiian citizenry, \"native Hawaiians,\" defined as descendants of not less than one-half part of the races inhabiting the Islands before 1778, and \"Hawaiians,\" defined as descendants of the peoples inhabiting the Hawaiian Islands in 1778. Only \"Hawaiians\" may vote in the statewide election for the trustees. Harold Rice, born in Hawaii and a Hawaiian citizen, does not have the requisite ancestry to be a \"Hawaiian\" under state law. However, Rice applied to vote in OHA trustee elections. After Rice's application was denied, he sued Hawaiian Governor Benjamin J. Cayetano, claiming that the voting exclusion was invalid under the Fourteenth and Fifteenth Amendments. The Federal District Court granted the state summary judgment. The court examined the voting qualifications with the latitude applied to legislation passed pursuant to Congress' power over Indian affairs, and found that the electoral scheme was rationally related to the state's responsibility to utilize a part of the proceeds from certain public lands for the native Hawaiians' benefit. In affirming, the Court of Appeals found that Hawaii \"may rationally conclude that Hawaiians, being the group to whom trust obligations run and to whom OHA trustees owe a duty of loyalty, should be the group to decide who the trustees ought to be.\"</p>\n",
+    "conclusion": "<p>Yes. In a 7-2 opinion delivered by Justice Anthony M. Kennedy, the Court held that \"Hawaii's denial of Rice's right to vote in OHA trustee elections violates the Fifteenth Amendment,\" in creating a race-based voting qualification. \"A state may not deny or abridge the right to vote on account of race, and this law does so,\" Justice Kennedy wrote for the Court. The court rejected the state's argument that the voting limitation was one based on ancestry, not race. In dissent, Justice John Paul Stevens wrote for himself and Ruth Bader Ginsburg that the majority's decision \"rests largely on the repetition of glittering generalities that have little, if any, application to the compelling history of the state of Hawaii.\"</p>\n"
+}

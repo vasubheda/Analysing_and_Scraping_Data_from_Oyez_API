@@ -1,0 +1,42 @@
+{
+    "ID": 62258,
+    "name": "Riley v. California",
+    "href": "https://api.oyez.org/cases/2013/13-132",
+    "view_count": 0,
+    "docket_number": "13-132",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1389938400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52610"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1398747600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52611"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1403672400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52612"
+        }
+    ],
+    "question": "<p>Was the evidence admitted at trial from Riley's cell phone discovered through a search that violated his Fourth Amendment right to be free from unreasonable searches?</p>\n",
+    "citation": {
+        "volume": "573",
+        "page": "373",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/27054"
+    },
+    "term": "2013",
+    "description": "A case in which the Court found that the San Diego Police Department's search of an arrested gang member's cell phone pictures without a warrant violated the Fourth Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/573/373/",
+    "facts_of_the_case": "<p>David Leon Riley belonged to the Lincoln Park gang of San Diego, California. On August 2, 2009, he and others opened fire on a rival gang member driving past them. The shooters then got into Riley's Oldsmobile and drove away. On August 22, 2009, the police pulled Riley over driving a different car; he was driving on expired license registration tags. Because Riley's driver's license was suspended, police policy required that the car be impounded. Before a car is impounded, police are required to perform an inventory search to confirm that the vehicle has all its components at the time of seizure, to protect against liability claims in the future, and to discover hidden contraband. During the search, police located two guns and subsequently arrested Riley for possession of the firearms. Riley had his cell phone in his pocket when he was arrested, so a gang unit detective analyzed videos and photographs of Riley making gang signs and other gang indicia that were stored on the phone to determine whether Riley was gang affiliated. Riley was subsequently tied to the shooting on August 2 via ballistics tests, and separate charges were brought to include shooting at an occupied vehicle, attempted murder, and assault with a semi-automatic firearm.</p>\n<p>Before trial, Riley moved to suppress the evidence regarding his gang affiliation that had been acquired through his cell phone. His motion was denied. At trial, a gang expert testified to Riley's membership in the Lincoln Park gang, the rivalry between the gangs involved, and why the shooting could have been gang-related. The jury convicted Riley on all three counts and sentenced to fifteen years to life in prison. The California Court of Appeal, Fourth District, Division 1, affirmed.</p>\n",
+    "conclusion": "<p>Yes. Chief Justice John G. Roberts, Jr. wrote the opinion for the unanimous Court. The Court held that the warrantless search exception following an arrest exists for the purposes of protecting officer safety and preserving evidence, neither of which is at issue in the search of digital data. The digital data cannot be used as a weapon to harm an arresting officer, and police officers have the ability to preserve evidence while awaiting a warrant by disconnecting the phone from the network and placing the phone in a \"Faraday bag.\" The Court characterized cell phones as minicomputers filled with massive amounts of private information, which distinguished them from the traditional items that can be seized from an arrestee's person, such as a wallet. The Court also held that information accessible via the phone but stored using \"cloud computing\" is not even \"on the arrestee's person.\" Nonetheless, the Court held that some warrantless searches of cell phones might be permitted in an emergency: when the government's interests are so compelling that a search would be reasonable.</p>\n<p>Justice Samuel A. Alito, Jr. wrote an opinion concurring in part and concurring in the judgment in which he expressed doubt that the warrantless search exception following an arrest exists for the sole or primary purposes of protecting officer safety and preserving evidence. In light of the privacy interests at stake, however, he agreed that the majority's conclusion was the best solution. Justice Alito also suggested that the legislature enact laws that draw reasonable distinctions regarding when and what information within a phone can be reasonably searched following an arrest.</p>\n<p><em>Learn more about the Roberts Court and the Fourth Amendment in <a href=\"http://projects.oyez.org/shifting-scales/\">Shifting Scales</a>, a nonpartisan Oyez resource.</em></p>\n"
+}

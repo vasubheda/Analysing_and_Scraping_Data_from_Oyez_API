@@ -1,0 +1,42 @@
+{
+    "ID": 63648,
+    "name": "City of Grants Pass v. Johnson",
+    "href": "https://api.oyez.org/cases/2023/23-175",
+    "view_count": 0,
+    "docket_number": "23-175",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1705039200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55389"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1713762000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55445"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1719550800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55506"
+        }
+    ],
+    "question": "<p>Does a city\u2019s enforcement of public camping against involuntarily homeless people violate the Eighth Amendment\u2019s protection against cruel and unusual punishment?</p>\n",
+    "citation": {
+        "volume": "603",
+        "page": null,
+        "year": "2024",
+        "href": "https://api.oyez.org/case_citation/case_citation/28002"
+    },
+    "term": "2023",
+    "description": "A case in which the Court held that the Eighth Amendment\u2019s protection against cruel and unusual punishment does not prevent a city from enforcing a ban on public camping against homeless individuals.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/603/23-175/",
+    "facts_of_the_case": "<p>The city of Grants Pass in southern Oregon has a population of approximately 38,000, and of that population, somewhere between 50 and 600 persons are unhoused. Whatever the exact number of unhoused persons, however, it exceeds the number of available shelter beds, requiring that at least some of them sleep on the streets or in parks. However, several provisions of the Grants Pass Municipal Code prohibit them from doing so, including an \u201canti-sleeping\u201d ordinance, two \u201canti-camping\u201d ordinances, a \u201cpark exclusion\u201d ordinance, and a \u201cpark exclusion appeals\u201d ordinance.</p>\n<p>In September 2018, a three-judge panel of the U.S. Court of Appeals for the Ninth Circuit decided Martin v. City of Boise, holding that \u201cthe Eighth Amendment prohibits the imposition of criminal penalties for sitting, sleeping, or lying outside on public property for homeless individuals who cannot obtain shelter.\u201d While the Grants Pass Municipal Code provisions impose only civil penalties, they still can mature into criminal penalties.</p>\n<p>A district court certified a class of plaintiffs of involuntarily unhoused persons living in Grants Pass and concluded that, based on the unavailability of shelter beds, the City\u2019s enforcement of its anti-camping and anti-sleeping ordinances violated the Cruel and Unusual Punishment Clause. A panel of the Ninth Circuit affirmed, and the Ninth Circuit denied rehearing en banc.</p>\n",
+    "conclusion": "<p>The enforcement of generally applicable laws regulating camping on public property does not constitute \u201ccruel and unusual punishment\u201d prohibited by the Eighth Amendment. Justice Neil Gorsuch authored the 6-3 majority opinion of the Court.</p>\n<p>The Eighth Amendment\u2019s Cruel and Unusual Punishments Clause has historically focused on what punishments may follow a criminal conviction, not on what behaviors a government may criminalize. Although, in Robinson v. California, the Court prohibited criminalizing the mere status of drug addiction, that case is distinguishable from laws that prohibit specific conduct like public camping. The Court has previously declined to extend Robinson to cover \u201cinvoluntary\u201d acts resulting from a particular status. For example, in Powell v. Texas, the Court declined to prohibit punishing public drunkenness by alcoholics, even though their conduct might be considered involuntary.</p>\n<p>Expanding Robinson\u2019s narrow holding would risk turning the judiciary into the ultimate arbiter of criminal responsibility across diverse areas of law, a role for which the Eighth Amendment provides no guidance. Such an expansion would lead to practical difficulties, as demonstrated by the Ninth Circuit's attempt to implement this approach in Martin v. City of Boise. Cities have faced numerous challenges in determining who qualifies as \"involuntarily\" homeless and what constitutes \"adequate\" shelter under Martin. These judicially created standards have proven unworkable and have interfered with local efforts to address homelessness, ultimately undermining the democratic process and federalism principles.</p>\n<p>Justice Clarence Thomas authored a concurring opinion.</p>\n<p>Justice Sonia Sotomayor authored a dissenting opinion, in which Justices Elena Kagan and Ketanji Brown Jackson joined.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 56130,
+    "name": "Elonis v. United States",
+    "href": "https://api.oyez.org/cases/2014/13-983",
+    "view_count": 0,
+    "docket_number": "13-983",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1402894800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41729"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1417413600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41730"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1433134800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51721"
+        }
+    ],
+    "question": "<p>Does a conviction of threatening another person under 18 U. S. C. \u00a7875(c) require proof of the defendant's subjective intent to threaten?</p>\n",
+    "citation": {
+        "volume": "575",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/26958"
+    },
+    "term": "2014",
+    "description": "A case in which the Court found that in order to violate the transmission of threats provision, the threat requires both an objective and subjective intent.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/575/723/",
+    "facts_of_the_case": "<p>Anthony Elonis was convicted under 18 U. S. C. \u00a7875(c), which criminalizes the transmission of threats in interstate commerce, for posting threats to injure his coworkers, his wife, the police, a kindergarten class, and a Federal Bureau of Investigation agent on Facebook. The district court instructed the jury that a \"true threat,\" which falls outside the scope of First Amendment speech protections, requires an objective intent to threaten. Elonis appealed and argued that \"true threats\" require a subjective intent to threaten. The U.S. Court of Appeals for the Third Circuit affirmed Elonis' conviction and held that a subjective intent standard would fail to protect individuals from the fear of violence which the \"true threat\" exception was created to prevent.</p>\n",
+    "conclusion": "<p>Yes. Chief Justice John G. Roberts, Jr. delivered the opinion for the 8-1 majority. The Court held that the prosecution needed to show that Elonis intended the posts to be threats, and therefore that there was a subjective intent to threaten . An objective reasonable person standard does not go far enough to separate innocent, accidental conduct from purposeful, wrongful acts. The Court held that, in this case, an objective standard would risk punishing an innocent actor because the crucial element that makes this behavior criminal is the threat, not merely the posting.</p>\n<p>Justice Samuel A. Alito, Jr. wrote an opinion concurring in part and dissenting in part in which he agreed that the prosecution only needed to prove negligence, but he argued that the majority opinion should have addressed what the proper instruction should be. By leaving out what the prosecution did need to show, attorneys and judges are left to guess whether knowledge or recklessness is the appropriate standard. Justice Alito also argued that recklessness should be the standard because a higher standard would effectively change the law rather than clarify it.</p>\n<p>Justice Clarence Thomas wrote a dissent in which he argued that nine of the eleven circuit courts of appeals had already addressed this issue and resolved it with a general intent standard. The majority opinion not only overturns their rulings but also leaves the courts uncertain as to whether an intent to threaten is required or whether recklessness will suffice. Justice Thomas also argued that knowledge of posting the relevant threats is enough to establish the intent element because knowledge of those facts is required to make the actions illegal; ignorance of those actions being illegal should not provide shelter from the law.</p>\n"
+}

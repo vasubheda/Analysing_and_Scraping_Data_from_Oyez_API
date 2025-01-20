@@ -1,0 +1,42 @@
+{
+    "ID": 55860,
+    "name": "Kurns v. Railroad Friction Products Corp.",
+    "href": "https://api.oyez.org/cases/2011/10-879",
+    "view_count": 0,
+    "docket_number": "10-879",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1307336400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40951"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1320818400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40952"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1330495200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40953"
+        }
+    ],
+    "question": "<p>Did Congress intend the federal railroad safety acts to preempt state-law-based tort lawsuits?</p>\n",
+    "citation": {
+        "volume": "565",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19782"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that the Locomotive Inspection Act preempts state law design defect claims and state law failure to warn claims.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/565/625/",
+    "facts_of_the_case": "<p>Gloria Gail Kurns and Freida E. Jung Corson brought suit on behalf of the decedent, George M. Corson, asserting a number of state law causes of action related to his alleged exposure to asbestos during his years employed by a railroad company. From 1947 to 1994, George M. Corson worked as a welder, machinist, and supervisor for the Chicago, Milwaukee, St. Paul, &amp; Pacific Railroad. He was employed at different facilities in Montana and South Dakota. Much of his job involved removing insulation from locomotive boilers and putting brake shoes on the locomotives.</p>\n<p>Kurns, the executor of his state, and Jung Corson, the widow, claim that throughout this time period, George Corson was repeatedly exposed to asbestos from the insulation and the brake shoes. After his retirement, he was diagnosed with malignant mesothelioma, the only known cause of which is exposure to asbestos. He passed away after the initiation of this litigation, and is represented by both Kurns and Jung Corson. Together they brought claims against multiple defendants including, the Railroad Friction Products Corp. over brake pads they manufactured containing asbestos.</p>\n<p>The United States District Court for the Eastern District of Pennsylvania rejected the claims, contending that they were barred by the Locomotive Inspection Act, which provides that a railroad carrier may only use a locomotive that is in proper condition and safe to operate without unnecessary danger of personal injury. The United States Court of Appeals for the Third Circuit affirmed.</p>\n",
+    "conclusion": "<p>Yes. Justice Clarence Thomas delivered the opinion of the Court affirming the lower court's decision. The Court held that the Locomotive Inspection Act preempted the state law design defect claims and the state law failure to warn claims. The Court emphasized that state law must yield to a Congressional Act, to the extent of any conflict with federal statute, even if there is no express preemption. The Court further determined that the Federal Railroad Safety Act did not change the scope of the Locomotive Inspection Act.</p>\n<p>Justice Elena Kagan filed a concurring opinion. Justice Kagan agreed with the result, but emphasized that the notion, established in earlier case law, that Congress intended to occupy the entire field of locomotive equipment regulation was inaccurate.</p>\n<p>Justice Sonia Sotomayor filed an opinion concurring in part and dissenting in part, in which Justice Ruth Bader Ginsburg and Justice Stephen G. Breyer joined. Justice Sotomayor agreed with the Court's holding that the Locomotive Inspection Act preempted the claims for defective design. However, she did not think that the Locomotive Inspection Act preempted the claims for failure to warn because those claims were not based on any product's physical compensation, but on a failure to provide adequate instructions or warning.</p>\n"
+}

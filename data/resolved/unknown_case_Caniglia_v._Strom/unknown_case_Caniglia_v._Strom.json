@@ -1,0 +1,42 @@
+{
+    "ID": 63297,
+    "name": "Caniglia v. Strom",
+    "href": "https://api.oyez.org/cases/2020/20-157",
+    "view_count": 0,
+    "docket_number": "20-157",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1605852000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54798"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1616562000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54859"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1621227600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54901"
+        }
+    ],
+    "question": "<p>Does the \u201ccommunity caretaking\u201d exception to the Fourth Amendment\u2019s warrant requirement extend to the home?</p>\n",
+    "citation": {
+        "volume": "593",
+        "page": null,
+        "year": "2021",
+        "href": "https://api.oyez.org/case_citation/case_citation/27781"
+    },
+    "term": "2020",
+    "description": "A case in which the Court held that the \u201ccommunity caretaking\u201d exception to the Fourth Amendment\u2019s warrant requirement does not extend to the home.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/593/20-157/",
+    "facts_of_the_case": "<p>Edward Caniglia and his wife Kim got into a heated argument, during which Caniglia displayed a gun and told Kim something to the effect of \u201cshoot me now.\u201d Fearing for her husband\u2019s state of mind, Kim decided to vacate the premises for the night. The next morning, she asked an officer from the Cranston Police Department to accompany her back to the house because she was worried that her husband might have committed suicide or otherwise harmed himself.</p>\n<p>Kim and several police officers went to the house, and while the encounter was non-confrontational, the ranking officer on the scene determined that Caniglia was imminently dangerous to himself and others and asked him to go to the hospital for a psychiatric evaluation, which Caniglia agreed to. While Caniglia was at the hospital, the ranking officer (with telephone approval from a superior officer) seized two of Caniglia\u2019s guns, despite knowing that Caniglia did not consent to their seizure.</p>\n<p>Caniglia was evaluated but not admitted as an inpatient. In October of 2015, after several unsuccessful attempts to retrieve his firearms from the police, Caniglia\u2019s attorney formally requested their return, and they were returned in December. Subsequently he filed a lawsuit under Section 1983 alleging the seizure of his firearms constituted a violation of his rights under the Second and Fourth Amendments. The district court granted summary judgment to the defendants, and the Caniglia appealed. Although the U.S. Supreme Court has recognized \u201ccommunity caretaking\u201d as an exception to the Fourth Amendment\u2019s warrant requirement in the context of a vehicle search, whether that concept applies in the context of a private home was a matter of first impression within the First Circuit. The appellate court held that the doctrine does apply in the context of a private home and affirmed the lower court\u2019s decision.</p>\n",
+    "conclusion": "<p>The \u201ccommunity caretaking\u201d exception to the Fourth Amendment\u2019s warrant requirement, described in <a href=\"https://www.oyez.org/cases/1972/72-586\"><em>Cady v. Dombrowski</em>, 413 U.S. 433 (1973)</a>, does not extend to the home. Justice Clarence Thomas authored the unanimous opinion, holding that police officers\u2019 seizure of the petitioner\u2019s guns from his home violated his Fourth Amendment right against warrantless searches and seizures.</p>\n<p>The lower court\u2019s conclusion that the \u201ccommunity caretaking\u201d exception permitted the officers to seize the petitioner\u2019s guns relied on an extension of Cady, which held that a warrantless search of an impounded vehicle for an unsecured firearm did not violate the Fourth Amendment. The Court\u2019s jurisprudence makes clear that vehicle searches are different in kind from home searches, the latter of which are subject to the highest level of protection the Constitution affords. The Court has repeatedly declined to expand the scope or number of exceptions to the warrant requirement to permit warrantless entry into the home, and it declined to do so here.</p>\n<p>Chief Justice John Roberts authored a concurring opinion, which Justice Stephen Breyer joined, to clarify that the Court\u2019s decision does not disturb the Court\u2019s holding in <a href=\"https://www.oyez.org/cases/2005/05-502\"><em>Brigham City v. Stuart</em>, 547 U.S. 398 (2006)</a>, that a peace officer does not need a warrant to enter a home in situations where there is a \u201cneed to assist persons who are seriously injured or threatened with such injury.\u201d</p>\n<p>Justice Samuel Alito authored a concurring opinion to note that while he agrees with the Court\u2019s opinion, there are certain related questions the Court did not decide.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55961,
+    "name": "Moncrieffe v. Holder",
+    "href": "https://api.oyez.org/cases/2012/11-702",
+    "view_count": 0,
+    "docket_number": "11-702",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1333342800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41243"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1349845200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41244"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1366693200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41245"
+        }
+    ],
+    "question": "<p>Does conviction under a provision of state law for distribution of a small mount of marijuana constitute an aggravated felony, regardless of whether the conduct would constitute a federal felony?</p>\n",
+    "citation": {
+        "volume": "569",
+        "page": "184",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19883"
+    },
+    "term": "2012",
+    "description": "A case in which the Court found that distribution of small amounts of marijuana does not constitute an aggravated felony and thus, does not require deportation of the distributor.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/569/184/",
+    "facts_of_the_case": "<p>Adrian Moncrieffe, a native of Jamaica, was admitted to the United States as a lawful permanent resident in 1984. In 2008, police arrested Moncrieffe while he was in possession of 1.3 grams of marijuana. Moncrieffe pleaded guilty in a Georgia court to possession of marijuana with intent to distribute.</p>\n<p>In 2010, the department of Homeland Security started removal proceedings against Moncrieffe for being an alien convicted of an aggravated felony and as an alien convicted of a controlled substance offense. Moncrieffe did not dispute his conviction but argued that that the conviction was not an \"aggravated felony\" and did not make him removable.</p>\n<p>An immigration judge ruled that Moncrieffe was removable, holding that the petitioner's conviction was an aggravated felony because Moncrieffe was convicted under a state law which was similar to a federal law which made possession of marijuana with intent to distribute a felony. Moncrieffe appealed and argued that possession of such a small amount of marijuana would not be a felony under federal law, but rather a misdemeanor. The Board of Immigration Appeals rejected Moncrieffe's argument and dismissed the appeal. The United State Court of Appeals for the Fifth Circuit upheld the deportation order.</p>\n",
+    "conclusion": "<p>No. Justice Sonia Sotomayor delivered the opinion of the 7-2 majority. The Court held that a categorical approach must be used to determine whether a state offense is comparable to one listed in a federal statute. Because the Controlled Substances Act contains provisions for the conviction of the possession of marijuana as both a felony and a misdemeanor, it is unclear which one aligns with a conviction for the possession of marijuana under the Georgia state statute. Under the categorical approach, it is not possible to tell whether Moncrieffe's conviction under the Georgia state statute would constitute an aggravated felony. The Court held that if a noncitizen's conviction for possession of a controlled substance fails to establish whether remuneration or more than a small amount of marijuana, it cannot be considered an aggravated felony.</p>\n<p>Justice Clarence Thomas wrote a dissenting opinion in which he argued that, because the Georgia state statute punishes Moncrieffe's offense as a felony, and it is punishable as a felony under the Controlled Substances Act, the conviction should be considered an aggravated felony. He also argued that the majority's opinion allows state felonies to be treated as federal misdemeanors, which runs counter to existing precedent. In his separate dissent, Justice Samuel A. Alito, Jr. wrote that the majority's decision allows the leeway for convicted drug traffickers to remain in the country, which runs counter to the government's interest and existing precedent. Rather than following a purely categorical approach, the majority's decision creates a great deal of variation in the consequences for the conviction of the possession of a controlled substance based on the different state laws. He also argued that, because Moncrieffe did not prove that his offense falls under the definition of a misdemeanor, the deportation decision should be upheld.</p>\n"
+}

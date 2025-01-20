@@ -1,0 +1,42 @@
+{
+    "ID": 62783,
+    "name": "Advocate Health Care Network v. Stapleton",
+    "href": "https://api.oyez.org/cases/2016/16-74",
+    "view_count": 0,
+    "docket_number": "16-74",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1480658400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53934"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1490590800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54005"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1496638800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54051"
+        }
+    ],
+    "question": "<p>Does the exemption to the Employee Retirement Income Security Act of 1974 (ERISA) for church plans apply when the plan is maintained by an otherwise qualifying church-affiliated organization even though a church did not establish the plan?</p>\n",
+    "citation": {
+        "volume": "581",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27483"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that the \u201cchurch plan\u201d exemption of the Employee Retirement Income Security Act of 1974 (ERISA) applies to plans that are maintained by a qualifying church-affiliated organization, even if that organization did not originally establish the plan.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/581/16-74/",
+    "facts_of_the_case": "<p dir=\"ltr\">The Employee Retirement Income Security Act of 1974 (ERISA) protects employees from unexpected losses in their retirement plans by putting in place required safeguards on plans that qualify for ERISA protections. Church plans are exempted from the Act and its protections to prevent excessive entanglement of the government with religion through regulation. </p>\n<p>Maria Stapleton and the other plaintiffs in this case are a group of employees who work for Advocate Health Care Network (Advocate), which operates hospitals, inpatient, and outpatient treatment centers through northern Illinois, and are members of Advocate\u2019s retirement plan. Advocate formed in 1995 as the result of a merger between two religiously affiliated hospital systems (though neither system was owned or financially operated by the church with which it was affiliated). Advocate is also affiliated with a church, and though it is not owned or financially operated by the church, it maintains contracts with the church and \u201caffirms [the church\u2019s] ministry.\u201d The plaintiffs in this case sued Advocate and argued that the Advocate retirement plan is subject to ERISA, and therefore Advocate has breached its fiduciary duty by failing to adhere to ERISA\u2019s requirements. The defendants moved for summary judgment because the Advocate plan fell under the ERISA exemption for church plans. The district court denied the motion because it determined that a plan established and maintained by a church-affiliated organization was not a church plan within the meaning of the statutory language. The U.S. Court of Appeals for the Seventh Circuit affirmed, and this case was consolidated with two other ones presenting the same issue before the Supreme Court.</p>\n",
+    "conclusion": "<p dir=\"ltr\">The \u201cchurch plan\u201d exemption of the Employee Retirement Income Security Act of 1974 (ERISA) applies to plans that are maintained by a qualifying church-affiliated organization, even if that organization did not originally establish the plan. Justice Elena Kagan delivered the opinion for the 8-0 majority. The Court held that the clear language of the statute stated that a church plan \u201cincludes\u201d a plan maintained by a church-affiliated organization in the exemption. The plain meaning of that language was therefore that a plan maintained by a church-affiliated organization qualified for the exemption, regardless of whether that organization established it. This reading gave full effect to the language Congress chose and was supported by legislative history. </p>\n<p dir=\"ltr\">In her concurring opinion, Justice Sonia Sotomayor wrote that, while she agreed with the interpretation of the statutory text, the outcome was troubling because it resulted in employees of large healthcare organizations that in nearly all respects function as secular organizations being denied ERISA\u2019s protections. Since so many \u201cchurch-affiliated\u201d organizations bear little resemblance to the organizations that Congress was originally considering when it enacted the statutory language, Congress might choose to take a different path. </p>\n<p>\u00a0</p>\n<p dir=\"ltr\">Justice Neil \u00a0Gorsuch did not participate in the discussion or decision of this case.</p>\n"
+}

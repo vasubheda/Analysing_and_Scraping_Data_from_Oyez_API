@@ -1,0 +1,42 @@
+{
+    "ID": 55423,
+    "name": "Travelers Casualty & Surety Co. of America v. Pacific Gas & Electric Co.",
+    "href": "https://api.oyez.org/cases/2006/05-1429",
+    "view_count": 0,
+    "docket_number": "05-1429",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1160110800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39780"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1168927200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39781"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1174366800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39782"
+        }
+    ],
+    "question": "<p>Can a litigant in a bankruptcy case involving federal bankruptcy law collect attorneys' fees that are granted by a contract or a state law?</p>\n",
+    "citation": {
+        "volume": "549",
+        "page": "443",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20662"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/549/443/",
+    "facts_of_the_case": "<p>Prior to declaring bankruptcy, Pacific Gas &amp; Electric company (PG &amp; E) purchased surety bonds from Travelers Casualty and Surety Company of America (Travelers). These bonds obliged Travelers to settle debts PG &amp; E couldn't repay. When PG &amp; E went bankrupt, Travelers hired attorneys to protect its interests. State law mandated that PG &amp; E cover all attorney fees incurred by Travelers during state bankruptcy proceedings. The litigation later moved to federal court. PG &amp; E refused to pay for Travelers's expenditures in federal court, claiming responsibility only for fees incurred during state proceedings.</p>\n<p>The Bankruptcy Court denied Travelers's request for reimbursement because the precedents of the U.S. Court of Appeals for the Ninth Circuit held that only federal laws could ensure payment for federal litigation. PG &amp; E was only under contractual and legal obligation to pay for state-court attorney fees. The District Court and the Ninth Circuit denied Travelers's claim on the same grounds. Travelers appealed to the Supreme Court, citing inconsistent rulings among the Circuit Courts of Appeals.</p>\n",
+    "conclusion": "<p>Yes. Justice Samuel Alito issued the unanimous opinion, which found that the Bankruptcy Code did not expressly waive the contractual obligation to reimburse attorney fees even if incurred in federal litigation. Because the Bankruptcy Code \"says nothing about unsecured claims for contractual attorney's fees incurred while litigating issues of bankruptcy law,\" the Court could \"presume that claims enforceable under applicable state law will be allowed in bankruptcy unless they are expressly disallowed.\" Since none of the nine exemptions waiving contractual obligation to reimburse attorney fees set forth in 11 U.S.C. Section 502(b) applied to Travelers, nothing undermined the debtor's contractual or state-law obligation to pay.</p>\n"
+}

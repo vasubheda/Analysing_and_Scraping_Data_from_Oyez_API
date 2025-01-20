@@ -1,0 +1,35 @@
+{
+    "ID": 54812,
+    "name": "Miller v. French",
+    "href": "https://api.oyez.org/cases/1999/99-224",
+    "view_count": 0,
+    "docket_number": "99-224",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                956034000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38373"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                961390800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38374"
+        }
+    ],
+    "question": "<p>Does the Prison Litigation Reform Act of 1995's \"automatic stay\" provision preclude courts from exercising their equitable powers to enjoin such a stay? Does the provision violate the constitutional separation-of-powers doctrine?</p>\n",
+    "citation": {
+        "volume": "530",
+        "page": "327",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18741"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/530/327/",
+    "facts_of_the_case": "<p>In 1975, inmates at the Pendleton Correctional Facility filed a class action lawsuit, which ultimately led the District Court to issue an injunction to remedy Eighth Amendment violations regarding conditions of confinement. In 1996, Congress enacted the Prison Litigation Reform Act of 1995 (PLRA), which sets a standard for the entry and termination of prospective relief in civil actions challenging prison conditions. The PLRA provides that a motion to terminate such relief \"shall operate as a stay\" of that relief beginning 30 days after the motion is filed and ending when the court rules on the motion. In 1997, the State of Indiana filed a motion to terminate the remedial order against the correctional facility. Under the PLRA, the motion stayed the court's original remedial order. The prisoners of Pendleton moved to enjoin the operation of the automatic stay, arguing that the automatic stay provision of the PLRA violated due process and the separation of powers doctrine. The District Court enjoined the stay. In affirming, the Court of Appeals found that the provision precluded courts from exercising their equitable powers to enjoin the stay, but concluded that the statute was unconstitutional on separation of powers grounds.</p>\n",
+    "conclusion": "<p>Yes and no. In a 5-4 opinion delivered by Justice Sandra Day O'Connor, the Court held that Congress clearly intended to make operation of the PLRA's automatic stay provision mandatory, precluding courts from exercising their equitable power to enjoin the stay and that the PLRA does not violate separation of powers principles. Thus, Congress lawfully imposed deadlines for federal judges to review states officials' motions to discontinue court monitoring and supervision of state prison conditions. Justice O'Connor, in addressing whether the PLRA violated the separation of powers, remarked in a footnote that, \"[t]he PLRA does not deprive courts of their adjudicatory role, but merely provides a new legal standard for relief and encourages courts to apply that standard promptly.\" Justices David H. Souter, Ruth Bader Ginsburg, Stephen G. Breyer and John Paul Stevens dissented.</p>\n"
+}

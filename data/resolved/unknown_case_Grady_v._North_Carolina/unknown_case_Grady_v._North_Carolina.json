@@ -1,0 +1,28 @@
+{
+    "ID": 56175,
+    "name": "Grady v. North Carolina",
+    "href": "https://api.oyez.org/cases/2014/14-593",
+    "view_count": 0,
+    "docket_number": "14-593",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1427691600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52572"
+        }
+    ],
+    "question": "<p>Does wearing a GPS monitor constitute a search under the Fourth Amendment?</p>\n<p>&nbsp;</p>\n",
+    "citation": {
+        "volume": "575",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20956"
+    },
+    "term": "2014",
+    "description": "A case in which the Court held that wearing a GPS monitoring bracelet amounts to a search under the Fourth Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/575/306/",
+    "facts_of_the_case": "<p>Between 1997 and 2006, Torrey Grady was convicted of two sexual offenses. After being released for the second time, a trial court civilly committed Grady to take part in North Carolina\u2019s satellite-based monitoring program for the duration of his life. The program required participants to wear a GPS monitoring bracelet so that authorities can make sure that participants are complying with prescriptive schedule and location requirements. Grady challenged the constitutionality of the program and argued that the constant tracking amounted to an unreasonable search that was prohibited under the Fourth Amendment. Both the trial court and the North Carolina Court of Appeals held that wearing a GPS monitor did not amount to a search.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion, the Court held that the trial court and appellate court both failed to apply the correct law based on the Court\u2019s decision in&nbsp;<em>United States v. Jones</em>, which held that placing a GPS tracker on the bottom of a vehicle constituted a search under the Fourth Amendment. The Court held that participation in the North Carolina program amounted to a search because requiring someone to wear a bracelet that tracks the person\u2019s whereabouts constitutes what the&nbsp;<em>Jones</em>&nbsp;decision termed a \u201cphysical occup[ation of] private property for the purpose of obtaining information.\u201d The Court remanded the case back to the trial court for a determination of whether or not this \u201csearch\u201d was unreasonable under the Fourth Amendment.</p>\n"
+}

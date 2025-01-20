@@ -1,0 +1,42 @@
+{
+    "ID": 63336,
+    "name": "Wooden v. United States",
+    "href": "https://api.oyez.org/cases/2021/20-5279",
+    "view_count": 0,
+    "docket_number": "20-5279",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1613973600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54850"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1633323600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54952"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1646632800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55070"
+        }
+    ],
+    "question": "<p>Are offenses committed as part of a single criminal spree but sequentially in time \u201ccommitted on occasions different from one another\u201d for purposes of a sentencing enhancement under the Armed Career Criminal Act?</p>\n",
+    "citation": {
+        "volume": "595",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27803"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held that, under the Armed Career Criminal Act, offenses that were committed as part of a single criminal spree but sequentially in time were not \u201ccommitted on occasions different from one another\u201d for purposes of a sentencing enhancement.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/595/20-5279/",
+    "facts_of_the_case": "<p>In 1997, William Wooden broke into a mini-storage facility in Georgia and stole from 10 different units, resulting in 10 counts of burglary, to which he pled guilty. Then, in 2014, a plainclothes officer went to Wooden\u2019s home, where he witnessed Wooden in possession of a rifle. Wooden was arrested and charged in state court with being a felon in possession of a firearm, but the case was dismissed when the district attorney noted that there was no probable cause for Wooden\u2019s arrest. Wooden was subsequently charged by federal indictment with being a felon in possession of a firearm and ammunition, in violation of 18 U.S.C. \u00a7 922(g)(1) and 924(e). After Wooden was found guilty, the district court found during his sentencing hearing that Wooden qualified as an armed career criminal under 18 U.S.C. \u00a7 924(e), based on his conviction for the 10 counts of burglary, and sentenced him to 15 years\u2019 imprisonment accordingly. The U.S. Court of Appeals for the Sixth Circuit affirmed, finding that Wooden\u2019s prior burglaries were separate from each other, despite occurring as part of a single criminal spree.</p>\n",
+    "conclusion": "<p>Offenses committed as part of a single criminal episode did not occur on different \u201coccasions\u201d and thus count as only one offense for purposes of the Armed Career Criminal Act. Justice Elena Kagan authored the majority opinion that was unanimous in the judgment to reverse the lower court.</p>\n<p>The ordinary meaning of the word \u201coccasion\u201d does not require occurrence at precisely one moment in time. For example, an ordinary person would describe Wooden as burglarizing ten units \u201con one occasion\u201d but would not say \u201con ten occasions, Wooden burglarized a unit in the facility.\u201d And indeed \u201cWooden committed his burglaries on a single night, in a single uninterrupted course of conduct.\u201d The history of the ACCA confirms this understanding, as Congress added an \u201coccasions clause,\u201d which requires that prior crimes occur on \u201coccasions different from one another.\u201d This interpretation is also consistent with the purpose of the ACCA, which is to address the \u201cspecial danger\u201d posed by the \u201carmed career criminal\u201d\u2014a concern not presented by the situation of a single criminal episode.</p>\n<p>Justice Sonia Sotomayor authored a concurrence noting that on the facts, she agreed with the majority that Wooden\u2019s prior convictions did not take place on \u201coccasions different from one another\u201d but also with Justice Neil Gorsuch\u2019s point that the rule of lenity provides an independent basis for ruling in favor of a defendant in a closer case.</p>\n<p>Justice Brett Kavanaugh authored a concurrence explaining why the rule of lenity has played a limited role in the Court\u2019s criminal case law and why the presumption of mens rea addresses Justice Gorsuch\u2019s concern about fair notice.</p>\n<p>Justice Amy Coney Barrett, joined by Justice Clarence Thomas, concurred in part and concurred in the judgment. Justice Barrett agreed with the majority about the ordinary meaning of the word \u201coccasion\u201d but disagreed with the majority\u2019s interpretation of the statutory history.</p>\n<p>Justice Gorsuch authored an opinion concurring in the judgment, which Justice Sotomayor joined in part. Justice Gorsuch argued that the rule of lenity provides a definitive rule of decision in these types of cases, in contrast to a list of factors to consider, which could lead to inconsistent outcomes in cases where the facts are less clear.</p>\n"
+}

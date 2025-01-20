@@ -1,0 +1,42 @@
+{
+    "ID": 62655,
+    "name": "Microsoft v. Baker",
+    "href": "https://api.oyez.org/cases/2016/15-457",
+    "view_count": 0,
+    "docket_number": "15-457",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1452837600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53401"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1490072400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53990"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1497243600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54056"
+        }
+    ],
+    "question": "<p>Does a federal court of appeals have the jurisdiction to review a class action suit for certification after the plaintiffs voluntarily dismiss their individual claims with prejudice?</p>\n",
+    "citation": {
+        "volume": "582",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27403"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that the federal courts of appeals lack jurisdiction to review an order denying class certification after the named plaintiffs have voluntarily dismissed their claims with prejudice.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/582/15-457/",
+    "facts_of_the_case": "<p>The plaintiffs brought a class action suit against Microsoft Corporation (Microsoft) and alleged that, during regular game play on the Xbox 360, the discs would come loose due to vibrations and scratch against internal components of the gaming system, which rendered them permanently broken. Because only 0.4% of consoles caused this issue with regular players, the district court determined that a class action suit could not be certified and individuals in the suit would have to come forward on their own. The parties then stipulated a dismissal with prejudice. The district court granted the dismissal, and the plaintiffs appealed to the U.S. Court of Appeals for the Ninth Circuit. The appellate court reversed and held that the district court had misapplied applicable law and, therefore, abused its discretion in striking the class action allegations.</p>\n",
+    "conclusion": "<p dir=\"ltr\">Federal courts of appeals lack jurisdiction to review an order denying class certification after the named plaintiffs have voluntarily dismissed their claims with prejudice. Justice Ruth Bader Ginsburg delivered the opinion of the 8-0 majority. The Court held that a voluntary dismissal of individual claims with prejudice did not count as a final judgment that allowed for denial of class certification to be reviewed even after the court of appeals denied interlocutory appeal on the issue. Generally, federal courts of appeals may only review final judgments from district courts, and denial of class certification was not considered a final judgment. However, Federal Rule of Civil Procedure 23(f) allowed for an appeal of the denial of class certification with the permission of the court of appeals. If the court of appeals denied the appeal, the plaintiffs may continue to litigate their individual claims. Their options at that point were that the district court may reverse its denial of class certification at any point prior to final judgment on those claims, or the plaintiffs could appeal the denial of class certification after the final judgment. In this case, the individual plaintiffs voluntarily dismissed their claims with prejudice, which subverted the procedure laid out in Rule 23(f). The plaintiffs\u2019 proposed approach would allow indiscriminate appellate review of interlocutory orders, which both the final judgment rule and Rule 23(f) were intended to prevent. </p>\n<p dir=\"ltr\">In his opinion concurring in the judgment, Justice Clarence Thomas wrote that the federal courts of appeals lack jurisdiction to review an order denying class certification after the named plaintiffs had voluntarily dismissed their claims with prejudice because there was no longer a case or controversy as Article III required. Article III denied federal courts the ability to adjudicate cases that did not affect the actual rights of the litigants before them. Therefore, federal courts did not have jurisdiction over cases like the one in question here, in which the parties were no longer adverse to one another on any of their claims. Chief Justice John G. Roberts, Jr. and Justice Samuel A. Alito, Jr. joined in the opinion concurring in the judgment.</p>\n<p>\u00a0</p>\n<p dir=\"ltr\">Justice Neil Gorsuch did not participate in the discussion or decision of this case.</p>\n"
+}

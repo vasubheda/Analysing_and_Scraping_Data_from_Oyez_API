@@ -1,0 +1,42 @@
+{
+    "ID": 56082,
+    "name": "Oneok, Inc. et al. v. Learjet, Inc. et al.",
+    "href": "https://api.oyez.org/cases/2014/13-271",
+    "view_count": 0,
+    "docket_number": "13-271",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1404190800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41658"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1421042400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41659"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1429592400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41788"
+        }
+    ],
+    "question": "<p>Does the Natural Gas Act pre-empt state-law claims challenging industry practices that directly affect the wholesale natural gas market when those claims are asserted by litigants who purchased gas in retail transactions?</p>\n",
+    "citation": {
+        "volume": "575",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20975"
+    },
+    "term": "2014",
+    "description": "A case in which the Court held that the Natural Gas Act does not pre-empt state law claims brought by litigants who purchased gas in retail transactions.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/575/373/",
+    "facts_of_the_case": "<p>Learjet, Inc. and other retail buyers of natural gas (Learjet) sued Oneok, Inc. and other energy trading companies (Oneok) for artificially increasing energy prices during the 2000\u20132002 energy crisis in violation of several states' antitrust laws. Learjet claimed that Oneok reported false data and engaged in \"wash sales,\" which are prearranged sales in which traders execute a trade on an electronic trading platform, and then immediately offset that trade by executing an equal and opposite trade. Oneok moved to dismiss Learjet's claims and argued that the claims were pre-empted by the federal Natural Gas Act (NGA). The Natural Gas Act regulates interstate, wholesale natural gas trade, but it does not apply to retail sales of natural gas. The district court granted Oneok's motion to dismiss and held that Learjet's claims were pre-empted by the NGA because Oneok's actions affected wholesale prices as well as retail prices. The U.S. Court of Appeals for the Ninth Circuit reversed and held that, because Learjet suffered harm in retail transactions, which the NGA does not regulate, Learjet's claims were not pre-empted.</p>\n",
+    "conclusion": "<p>No. Justice Stephen G. Breyer delivered the opinion for the 7-2 majority. The Court held that, because the Natural Gas Act (NGA) was carefully drawn so as not to dilute state power, the courts can only find that the NGA pre-empts a claim when that claim falls within a pre-empted field as enumerated by judicial precedent. In this case, because the state laws at issue are directed at practices affecting the retail rates of natural gas prices, and those are the claims the respondents raised, the state laws control and the NGA did not pre-empt the claims. Because the petitioners in this case did not argue that the state laws conflict with the NGA, the Court did not address the question of conflict pre-emption.</p>\n<p>In his opinion concurring in part and dissenting in part, Justice Clarence Thomas wrote that the Supremacy Clause of the Constitution only allows federal laws to pre-empt state ones when the federal law falls within one of Congress\u2019 enumerated powers. Therefore, the potential pre-emptive scope of the NGA may be impermissibly broad, though the majority opinion in this case stayed within the limits prescribed by precedent.</p>\n<p>Justice Antonin Scalia wrote a dissenting opinion in which he argued that the majority opinion unnecessarily introduced uncertainty into precedent that has interpreted the NGA as pre-empting state law claims on issues that the federal government already exclusively regulates. Additionally, the majority opinion lacked any precedential support for its view that there are situations in which state regulation of federally regulated activity is acceptable and could not justify the sort of case-by-case analysis that it espouses. Chief Justice John G. Roberts, Jr. joined in the dissent.</p>\n"
+}

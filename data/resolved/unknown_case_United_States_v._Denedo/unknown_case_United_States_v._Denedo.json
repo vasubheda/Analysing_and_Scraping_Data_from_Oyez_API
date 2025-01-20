@@ -1,0 +1,42 @@
+{
+    "ID": 55616,
+    "name": "United States v. Denedo",
+    "href": "https://api.oyez.org/cases/2008/08-267",
+    "view_count": 0,
+    "docket_number": "08-267",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1227592800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40321"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1237957200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40322"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1244437200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40323"
+        }
+    ],
+    "question": "<p>Does the Navy-Marine Corps Court of Criminal Appeals retain jurisdiction under 28 U.S.C. Section 1651, the All Writs Act, to consider a writ of error <em>coram nobis</em> sought by a former service member?</p>\n",
+    "citation": {
+        "volume": "556",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20835"
+    },
+    "term": "2008",
+    "description": "A case in which the Court held that the Navy-Marine Corps Court of Criminal Appeals (NMCCA) retained jurisdiction under the All Writs Act to consider coram nobis petitions that alleged a prior judgment of conviction was fundamentally flawed.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>In July 1998, a United States Navy court-martial tried Jacob Denedo on counts of conspiracy, larceny, and forgery. In exchange for his guilty plea, Mr. Denedo was offered a reduced sentence that included three months of confinement, a demotion, and a bad-conduct discharge. Eight years later, United States Citizenship and Immigration Services began proceedings to deport Mr. Denedo, a Nigerian immigrant and lawful permanent resident of the United States, based on his court-martial conviction. In light of these developments, Mr. Denedo filed a petition with the Navy-Marine Corps Court of Criminal Appeals for extraordinary relief and requested review of his court-martial and a writ of error coram nobis in order to achieve his pre-conviction state. He argued that his counsel at the court-martial was ineffective because he had specifically stated during the proceeding that \"his primary concern and objective\" was \"to avoid the risk of deportation\" and was less concerned about the amount of time he spent in prison. At the Navy-Marine Corps Court of Criminal Appeals, the government motioned to dismiss Mr. Denedo's petition on the grounds that the court lacked jurisdiction over the matter. The court disagreed and found it had jurisdiction as provided by 28 U.S.C. Section 1651 - the All Writs Act. It then denied Mr. Denedo's petition. On appeal, the United States Court of Appeals for the Armed Forces agreed that the Court of Criminal Appeals had jurisdiction to review the petition, but remanded the matter to the Court of Criminal Appeals for further fact finding in order to determine whether Mr. Denedo's counsel was deficient.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court held that Article I courts, like the Navy-Marine Corps Court of Criminal Appeals (NMCCA), retain jurisdiction under the All Writs Act to consider <em>coram nobis</em> petitions that allege a prior judgment of conviction was fundamentally flawed. With Anthony M. Kennedy writing for the majority and joined by Justices John Paul Stevens, David H. Souter, Ruth Bader Ginsburg, and Stephen G. Breyer, the Court reasoned that since Mr. Denedo's <em>coram nobis</em> petition was simply a further step in his criminal appeal, the NMCCA retained jurisdiction to issue the writ, as the petition challenged the validity of the court's original ruling.</p>\n<p>Chief Justice John G. Roberts dissented, oined by Justices Antonin G. Scalia, Clarence Thomas, and Samuel A. Alito. Roberts disagreed with the majority that Article I courts have jurisdiction to consider <em>coram nobis</em> petitions. Rather, he argued that military courts are severely restricted in their jurisdiction, which cannot extend beyond the precise limits granted them by Congress.</p>\n"
+}

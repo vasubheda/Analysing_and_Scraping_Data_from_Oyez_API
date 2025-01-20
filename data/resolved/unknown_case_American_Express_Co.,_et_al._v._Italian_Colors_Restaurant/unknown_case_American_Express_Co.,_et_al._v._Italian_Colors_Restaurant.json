@@ -1,0 +1,42 @@
+{
+    "ID": 55957,
+    "name": "American Express Co., et al. v. Italian Colors Restaurant",
+    "href": "https://api.oyez.org/cases/2012/12-133",
+    "view_count": 0,
+    "docket_number": "12-133",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1352440800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41231"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1361944800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41232"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1371704400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41233"
+        }
+    ],
+    "question": "<p>Is American Express Company's arbitration clause prohibiting class action suits enforceable, even though it would compel arbitration of antitrust claims?</p>\n",
+    "citation": {
+        "volume": "570",
+        "page": "228",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19879"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that a clause prohibiting class action suits was enforceable even though it would cause costly arbitration.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/570/228/",
+    "facts_of_the_case": "<p>American Express Company provides charge card services to supermarkets and other merchants throughout the United States. When a store decides to accept American Express cards, it must enter into a Card Acceptance Agreement. This standard form contract outlines the basic relationship between American Express and the merchant. A clause within the agreement requires arbitration of all claims brought against American Express and prohibits merchants from bringing any class action claims.</p>\n<p>Several merchants, including Italian Colors Restaurant, brought individual lawsuits against American Express, claiming that the Card Acceptance Agreement violates U.S. antitrust laws. The United States District Court for the Southern District of New York consolidated the cases and American Express moved to dismiss in order to force the merchants to arbitrate. The district court enforced the arbitration clause and dismissed the case. The merchants appealed and the United States Court of Appeals for the Second Circuit held that the arbitration clause, in particular the class action waiver, is unenforceable because it would essentially protect American Express from antitrust suits. American Express further appealed and the United States Supreme Court granted certiorari. The Court vacated the ruling and remanded for further proceedings in light of its decision in <em>Stolt-Nielsen v. Animalfeeds International</em>. The appellate court reevaluated its decision and still found the class action waiver to be unenforceable. The Supreme Court granted certiorari again to resolve this issue.</p>\n",
+    "conclusion": "<p>Yes. Justice Antonin Scalia delivered the opinion for the 5-3 majority. The Court held that the prohibitively high cost of arbitration is not a sufficient reason for a court to overrule an arbitration clause that forbids class action suits. Federal law does not guarantee that a claim will be resolved affordably. The fact that it can be more expensive to litigate individual arbitrations than they are worth does not negate the right to pursue a statutory remedy. Therefore, no exception to the Federal Arbitration Act (FAA) can be applied.</p>\n<p>Justice Elena Kagan wrote a dissent in which she argued that the purpose of the FAA is to resolve disputes and facilitate compensation of injuries. By barring any means of sharing or shrinking arbitration costs, the arbitration clause in the American Express form contract functions to confer immunity from potentially meritorious federal claims, which runs counter to the purpose of the FAA. The contract also violates the Sherman Act by depriving parties of a chance to challenge allegedly monopolistic conduct. Justices Ruth Bader Ginsburg and Stephen G. Breyer joined in the dissent.</p>\n<p>Justice Sonia Sotomayor did not participate in the discussion or decision of the case.</p>\n"
+}

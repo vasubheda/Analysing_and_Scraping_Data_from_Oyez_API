@@ -1,0 +1,42 @@
+{
+    "ID": 55916,
+    "name": "United States v. Windsor",
+    "href": "https://api.oyez.org/cases/2012/12-307",
+    "view_count": 0,
+    "docket_number": "12-307",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1354860000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41111"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1364360400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41112"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1372222800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41113"
+        }
+    ],
+    "question": "<p>Does the executive branch's agreement with the lower court that the act is unconstitutional deprive the Supreme Court of jurisdiction to decide the case?</p>\n<p>Does the Bipartisan Legal Advisory Group of the House of Representatives have standing in the case?</p>\n<p>Does the Defense of Marriage Act, which defines the term \"marriage\" under federal law as a \"legal union between one man and one woman\" deprive same-sex couples who are legally married under state laws of their Fifth Amendment rights to equal protection under federal law?</p>\n",
+    "citation": {
+        "volume": "570",
+        "page": "744",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19838"
+    },
+    "term": "2012",
+    "description": "A case in which the Court found that the Defense of Marriage Act (DOMA) was unconstitutional under the equal protection clause of the Fifth Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/570/744/",
+    "facts_of_the_case": "<p>The Defense of Marriage Act (DOMA), enacted in 1996, states that, for the purposes of federal law, the words \"marriage\" and \"spouse\" refer to legal unions between one man and one woman. Since that time, some states have authorized same-sex marriage. In other cases regarding the DOMA, federal courts have ruled it unconstitutional under the Fifth Amendment, but the courts have disagreed on the rationale.</p>\n<p>Edith Windsor is the widow and sole executor of the estate of her late spouse, Thea Clara Spyer, who died in 2009. The two were married in Toronto, Canada, in 2007, and their marriage was recognized by New York state law. Thea Spyer left her estate to her spouse, and because their marriage was not recognized by federal law, the government imposed $363,000 in taxes. Had their marriage been recognized, the estate would have qualified for a marital exemption, and no taxes would have been imposed.</p>\n<p>On November 9, 2010 Windsor filed suit in district court seeking a declaration that the Defense of Marriage Act was unconstitutional. At the time the suit was filed, the government's position was that DOMA must be defended. On February 23, 2011, the President and the Attorney General announced that they would not defend DOMA. On April 18, 2011, the Bipartisan Legal Advisory Group of the House of Representatives filed a petition to intervene in defense of DOMA and motioned to dismiss the case. The district court denied the motion, and later held that DOMA was unconstitutional. The U.S. Court of Appeals for the Second Circuit affirmed.</p>\n",
+    "conclusion": "<p>No, unanswered, yes. Justice Anthony M. Kennedy delivered the opinion of the 5-4 majority. The Supreme Court held that the United States Government, despite the executive branch's agreement regarding DOMA's unconstitutionality, retains a significant enough stake in the issue to support Supreme Court's jurisdiction. Because the judgment in question orders the U.S. Treasury to refund tax money, the Government stands to suffer a real economic injury and therefore maintains standing in the case. The Bipartisan Legal Advisory Group (BLAG) presented substantial arguments for the constitutionality of DOMA that reflected an actual controversy under Article III, which allowed the Supreme Court to address the case without needing to decide whether BLAG would have had standing before a lower court. The Court also held that states have the authority to define marital relationships and that DOMA goes against legislative and historical precedent by undermining that authority. The result is that DOMA denies same-sex couples the rights that come from federal recognition of marriage, which are available to other couples with legal marriages under state law. The Court held that the purpose and effect of DOMA is to impose a \"disadvantage, a separate status, and so a stigma\" on same-sex couples in violation of the Fifth Amendment's guarantee of equal protection.</p>\n<p>Chief Justice John G. Roberts wrote a dissent in which he argued that the Court lacked the jurisdiction to review the case and that interests in uniformity and stability justified Congress' enactment of DOMA. He also argued that the majority's opinion did not address the issue of state definitions of marriage affecting same-sex couples. In his separate dissent, Justice Antonin Scalia wrote that the Supreme Court had neither the jurisdiction to review the case nor the power to invalidate democratically enacted legislation. He argued that the majority's opinion wrongly asserted the supremacy of the Supreme Court as the final arbiter of government. However, the majority opinion did not address the issue of whether or not the Equal Protection Clause required laws restricting the definition of marriage to be reviewed under a rational basis or strict scrutiny standard. He also argued that the majority misconstrued DOMA's insidious intent and should not rule based on that presumption. Justice Clarence Thomas and Chief Justice Roberts joined in the dissent. Justice Samuel A. Alito, Jr. also wrote a separate dissent in which he argued that the United States Government did not have standing in the case because the executive branch declined to defend the statute, but that BLAG did have standing because it chose to defend the otherwise undefended statute. He also argued that the Constitution does not guarantee the right to enter into a same-sex marriage because that right is not \"deeply rooted in this Nation's history and tradition.\" Instead, the issue of the definition of marriage is left to the people to decide, a decision in which DOMA does not interfere. Justice Clarence Thomas partially joined in the dissent.</p>\n"
+}

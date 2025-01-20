@@ -1,0 +1,42 @@
+{
+    "ID": 63344,
+    "name": "United States v. Vaello-Madero",
+    "href": "https://api.oyez.org/cases/2021/20-303",
+    "view_count": 0,
+    "docket_number": "20-303",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1614578400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54862"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1636437600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54969"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1650517200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55086"
+        }
+    ],
+    "question": "<p>Did Congress violate the Fifth Amendment by establishing the Supplemental Security Income program in the 50 states, the District of Columbia, and the Northern Mariana Islands, but not in Puerto Rico?</p>\n",
+    "citation": {
+        "volume": "596",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27808"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held that the Constitution does not require Congress to make Supplemental Security Income benefits available to the residents of Puerto Rico.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/596/20-303/",
+    "facts_of_the_case": "<p>Congress established the Supplemental Security Income program in 1972 to provide cash benefits to low-income people who are 65 or older and have disabilities. The program extends to residents of the 50 states, the District of Columbia, and the unincorporated territory of the Northern Mariana Islands, but not to those living in Puerto Rico.</p>\n<p>Jose Luis Vaello-Madero was born in Puerto Rico in 1954 and moved to New York in 1985. In 2012, he started receiving SSI payments after he experienced severe health problems, and in 2013, he moved back to Puerto Rico to help care for his wife. In 2016, the Social Security Administration (SSA) informed Vaello-Madero that because he had moved back to Puerto Rico, it was terminating his SSI benefits. Moreover, the federal government filed a lawsuit in federal court in Puerto Rico to recover over $28,000 in benefits it had paid Vaello-Madero between 2013 and 2016 when he was living in Puerto Rico. The district court ruled for Vaello-Madero, finding, among other things, that the exclusion of Puerto Rico violated the equal-protection component of the Due Process Clause of the Fifth Amendment. The U.S. Court of Appeals for the First Circuit affirmed.</p>\n",
+    "conclusion": "<p>The Constitution does not require Congress to make Supplemental Security Income benefits available to the residents of Puerto Rico. Justice Brett Kavanaugh authored the 8-1 majority opinion of the Court reversing the lower court.</p>\n<p>Two precedents dictate the answer to the question presented in this case. In <em>Califano v. Torres</em>, 435 U.S. 1 (1978), the Court held that Congress\u2019s decision not to extend Supplemental Security Income (SSI) to Puerto Rico did not violate the constitutional right to interstate travel because Congress had a rational basis for that decision (that residents of Puerto Rico were exempt from paying federal taxes). And in <em>Harris v. Rosario</em>, 446 U.S. 651 (1980), the Court held that Congress\u2019s differential treatment of Puerto Rico did not violate the equal protection component of the Fifth Amendment\u2019s Due Process Clause because it had the same rational basis for doing so. Applying these two precedents to the present case, the Court concluded that because Congress had a rational basis for the differential treatment, it was not required to extend SSI benefits to the residents of Puerto Rico.</p>\n<p>Justice Clarence Thomas authored a concurring opinion to suggest that the Fourteenth Amendment\u2019s Citizenship Clause is a better basis for prohibiting the federal government from discriminating on the basis of race than the so-called equal protection component of the Fifth Amendment\u2019s Due Process Clause.</p>\n<p>Justice Neil Gorsuch authored a concurring opinion noting that although no party asked the Court to overrule the Insular Cases, in which the Court held that the federal government could rule Puerto Rico and other territories without regard to the Constitution, those cases are based on racial stereotypes and \u201cdeserve no place in our law.\u201d</p>\n<p>Justice Sonia Sotomayor authored a dissenting opinion, arguing that there is no rational basis for treating needy citizens living within a territory of the United States so differently from others.</p>\n"
+}

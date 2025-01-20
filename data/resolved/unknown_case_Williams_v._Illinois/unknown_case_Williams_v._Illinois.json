@@ -1,0 +1,42 @@
+{
+    "ID": 55844,
+    "name": "Williams v. Illinois",
+    "href": "https://api.oyez.org/cases/2011/10-8505",
+    "view_count": 0,
+    "docket_number": "10-8505",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1309237200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40907"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1323151200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40908"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1339995600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40909"
+        }
+    ],
+    "question": "<p>Can an expert witness be called as a stand-in for a lab analyst who actually did a test on criminal evidence, but did not appear at the trial?</p>\n",
+    "citation": {
+        "volume": "567",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/20860"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that testimony of an expert witness that is based on a test an expert did not personally perform is admissible and does not violate a defendant's Sixth Amendment Confrontation Clause rights.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/567/50/",
+    "facts_of_the_case": "<p>Sandy Williams was convicted of two counts of aggravated criminal sexual assault and one count each of aggravated kidnapping and aggravated robbery. Illinois' appellate court affirmed Williams' conviction but reversed the trial court's imposition of a consecutive sentence. On appeal to the Illinois Supreme Court, the defendant argued that the testimony of an Illinois State Police forensic analyst, who relied upon a DNA report prepared by a nontestifying third-party analyst, lacked a sufficient evidentiary foundation. Alternatively, Williams argued that this testimony concerning the report was hearsay presented for the truth of the matter asserted and violated the defendant's Sixth Amendment Confrontation Clause right. The state's high court affirmed in part and reversed in part, finding that Williams' Sixth Amendment rights weren't violated.</p>\n",
+    "conclusion": "<p>Yes. Justice Samuel A. Alito, Jr., writing for a four-justice plurality, announced the judgment of the Court. The Court affirmed that the testimony of an expert witness that is based on a test the expert did not personally perform is admissible and does not violate the defendant's Sixth Amendment Confrontation Clause right. The Court held that, because the evidence of the third-party test was not produced to prove the truth of the matter asserted, but merely to provide a basis for the conclusions that the expert reached, the prosecution had not infringed on the defendant's rights. The important issue was the conclusion that the expert reached, and that the expert was available to the defendant for cross-examination. Additionally, such a test does not fall within the bounds of the Confrontation Clause because the results were not directed to prove the guilt of the defendant. Williams was not even a suspect at the time the test was conducted.</p>\n<p>Justice Stephen G. Breyer concurred and found that such DNA tests and their results fall outside the scope of the Confrontation Clause so long as the lab procedures are reliable, and the defendant still retains the right to call employees of the lab as witnesses. If the premise of a lab report's accuracy were shown to be untrue, then the testimony of the expert would fall under the Confrontation Clause. Justice Clarence Thomas also concurred on the basis that the evidence of the test was not \"testimonial,\" as it must to be governed by the Confrontation Clause.</p>\n<p>Justice Elena Kagan dissented and found this case to be in the same vein as others where the Court found that, in order to satisfy the requirements of the Confrontation Clause, the defendant must have the opportunity to cross-examine an analyst who performed the test. Without such an opportunity, an unreliable report is assumed to be true. Justice Antonin Scalia, Justice Ruth Bader Ginsburg, and Justice Sonia Sotomayor joined in the dissent.</p>\n"
+}

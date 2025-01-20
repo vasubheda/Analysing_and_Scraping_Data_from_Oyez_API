@@ -1,0 +1,42 @@
+{
+    "ID": 55263,
+    "name": "Shepard v. United States",
+    "href": "https://api.oyez.org/cases/2004/03-9168",
+    "view_count": 0,
+    "docket_number": "03-9168",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1087794000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52663"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1099893600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52664"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1110175200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52665"
+        }
+    ],
+    "question": "<p>May a court sentencing under the Armed Career Criminal Act look to police reports or complaint applications to determine whether an earlier guilty plea necessarily admitted, and supported a conviction for, generic burglary?</p>\n",
+    "citation": {
+        "volume": "544",
+        "page": "13",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/20567"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/544/13/",
+    "facts_of_the_case": "<p>Reginald Shepard pled guilty to violating the federal statute prohibiting a felon from possessing a gun. The government argued Shepard's sentence should be enhanced under the Armed Career Criminal Act (ACCA). The act added at least a 15-year sentence for any felon with three or more \"violent felony\" convictions who then possessed a gun. The government argued at least five of the 11 breaking and entering convictions on Shepard's record were violent felonies. The ACCA listed \"burglary\" as a violent felony and in Taylor v. U.S.(1990) the U.S. Supreme Court said the act meant \"generic burglary\" of a \"building or other structure.\" However the Massachusetts burglary law Shepard pled guilty to breaking gave burglary a nongeneric definition - including entry into non-structures like cars. Shepard argued he had not pled guilty to generic robbery. The federal district court refused to sentence Shepard under the ACCA. The First Circuit Court of Appeals reversed and said the district court must consider evidence that showed it was obvious to Shepard that he pled guilty to generic robbery. The district court refused. The First Circuit reversed and sentenced Shepard under the ACCA.</p>\n",
+    "conclusion": "<p>No. In a 5-3 opinion delivered by Justice David H. Souter, the Court held that while a guilty plea could qualify as a predicate offense under the ACCA, courts may only look to the following when determining if that plea admitted to generic burglary: the terms of the charging document, the terms of a plea agreement, or a judicial record in which the defendant confirmed the factual basis for the plea (such as conversation between defendant and judge).</p>\n"
+}

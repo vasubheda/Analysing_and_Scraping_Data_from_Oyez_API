@@ -1,0 +1,42 @@
+{
+    "ID": 63495,
+    "name": "Bittner v. United States",
+    "href": "https://api.oyez.org/cases/2022/21-1195",
+    "view_count": 0,
+    "docket_number": "21-1195",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1655787600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55133"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1667365200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55168"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1677564000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55230"
+        }
+    ],
+    "question": "<p>Is a \u201cviolation\u201d under the Bank Secrecy Act the failure to file an annual Report of Foreign Bank and Financial Accounts (no matter the number of foreign accounts), or is there a separate violation for each individual account that was not properly reported?</p>\n",
+    "citation": {
+        "volume": "598",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27899"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held that a \u201cviolation\u201d under the Bank Secrecy Act is the failure to file an annual Report of Foreign Bank and Financial Accounts (no matter the number of foreign accounts), notwithstanding the number of individual accounts that were not properly reported.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/598/21-1195/",
+    "facts_of_the_case": "<p>Alexandru Bittner erroneously failed to report his interests in foreign bank accounts on annual FBAR forms, as required by the Bank Secrecy Act of 1970 (BSA). The government fined him $2.72 million\u2014$10,000 for each unreported account each year from 2007 to 2011. Bittner challenged the fine, and the district court reduced the assessment to $50,000, holding that the $10,000 maximum penalty attaches to each failure to file an annual FBAR, not to each failure to report an account. The U.S. Court of Appeals for the Fifth Circuit reversed on this issue, holding that each failure to report a qualifying foreign account constitutes a separate reporting violation subject to penalty.</p>\n",
+    "conclusion": "<p>The Bank Secrecy Act\u2019s $10,000 maximum penalty for the nonwillful failure to file a compliant report accrues on a per-report, not a per-account, basis. Justice Neil Gorsuch authored the 5-4 majority opinion holding that Bittner was subject to a fine only for each report he failed to file, not for each account he failed to report over that five-year period.</p>\n<p>The plain language of Section 5321 addresses the legal duty to file reports, not of individual accounts or their number. The penalty the statute prescribes for nonwillful violations must therefore be based on the number of reports, not on the number of accounts. In contrast, for willful violations, the statute expressly considers a penalty on a per-account basis. The government\u2019s guidance as to these provisions, as well as the drafting history, further support this understanding.</p>\n<p>Justice Amy Coney Barrett authored a dissenting opinion, in which Justices Clarence Thomas, Sonia Sotomayor, and Elena Kagan joined, arguing that \u201cthe most natural reading of the statute establishes that each failure to report a qualifying foreign account constitutes a separate reporting violation.\u201d</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55162,
+    "name": "Olympic Airways v. Husain",
+    "href": "https://api.oyez.org/cases/2003/02-1348",
+    "view_count": 0,
+    "docket_number": "02-1348",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1054011600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39067"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1068616800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39068"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1077602400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39069"
+        }
+    ],
+    "question": "<p>If a passenger's pre-existing medical condition is aggravated by exposure to normal airplane conditions, is this an \"accident\" under the Warsaw Convention's Article 17 (for which the airline is responsible)?</p>\n",
+    "citation": {
+        "volume": "540",
+        "page": "644",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19090"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/540/644/",
+    "facts_of_the_case": "<p>Abid Hanson was allergic to second-hand smoke. On an Olympic Airways flight, he and his wife, Rubina Husain, sat in non-smoking seats. However, because the seats were close to the smoking section, Mrs. Husain requested she and her husband be moved. Her request was denied twice, even after the smoke began bothering Hanson. Hanson died during the flight. Husain filed suit in California federal district court. She sought damages under Article 17 of the Warsaw Convention, which allows damages recovery for international air travelers for accidents on airplanes. The district court agreed that Hanson's death was an \"accident\" as defined by the convention and awarded Husain $1.4 million. The 9th Circuit Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>Yes. Justice Clarence Thomas delivered the Court's 6-2 opinion that the events on the airplane were an \"accident\" under the Warsaw Convention's Article 17. The Court cited its 1985 decision in Air France v. Saks, in which it decided any \"injury is the product of a chain of causes\" and that an accident occurs when \"some link in the chain was an unusual or unexpected event external to the passenger.\" The Court rejected Olympic Airways' argument that only the cigarette smoke was relevant and that no \"accident\" took place because the flight attended simply did not act. The flight attendant's refusal three times to reseat Husain was a \"link in the chain\" of causes leading to his death and the attendant's rejection of an explicit request for assistance was an \"event.\"</p>\n"
+}

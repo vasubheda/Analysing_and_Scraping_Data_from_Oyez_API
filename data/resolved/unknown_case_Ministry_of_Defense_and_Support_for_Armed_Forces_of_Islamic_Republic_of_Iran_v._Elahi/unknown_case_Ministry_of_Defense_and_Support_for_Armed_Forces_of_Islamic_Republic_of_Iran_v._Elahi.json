@@ -1,0 +1,42 @@
+{
+    "ID": 55578,
+    "name": "Ministry of Defense and Support for Armed Forces of Islamic Republic of Iran v. Elahi",
+    "href": "https://api.oyez.org/cases/2008/07-615",
+    "view_count": 0,
+    "docket_number": "07-615",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1214197200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40210"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1231740000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40211"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1240290000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40212"
+        }
+    ],
+    "question": "<p>Does the Terrorism Risk Insurance Act of 2002 allow a judgment creditor in a wrongful death action against the Iranian government to attach damages recovered by Iran in an unrelated contract dispute as the \"blocked assets of [a] terrorist party?\"</p>\n",
+    "citation": {
+        "volume": "556",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20815"
+    },
+    "term": "2008",
+    "description": "A case in which the Court held that the defendant's assets in question were not \"blocked\" under the Terrorism Risk Insurance Act of 2002 and therefore could not be attached to satisfy his judgment against Iran.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>In 1977, the Iranian Ministry of Defense entered into an agreement with an American defense contractor for the purchase of military equipment to be used by the Iranian Air Force. After the Iranian Revolution of 1979, the American company breached its contract with Iran and sold the equipment elsewhere. Iran requested arbitration before the International Chamber of Commerce (ICC) and received $2.8 million in damages for breach of contract. Iran then reduced the award to a judgment in the U.S. District Court for the Southern District of California.</p>\n<p>Dariush Elahi, brought a wrongful death claim against the Iranian government alleging that Iranian agents had assassinated his brother in Paris in 1990. Elahi was awarded over $300 million in damages by the U.S. District Court for the District of Columbia. He attempted to satisfy this judgment in part by attaching the damages Iran had recovered from the previous contract dispute. Iran argued that the previous recovery was immune from attachment. The U.S. District Court for the Southern District of California held that Iran had waived its immunity from attachment by submitting to the jurisdiction of the ICC and the district court in its prior contract dispute.</p>\n<p>The U.S. Court of Appeals for the Ninth Circuit agreed with the district court's ruling but on different grounds. The court held that Elahi could attach the Iranian judgment under Section 201(a) of the Terrorism Risk Insurance Act of 2002, which allows creditors such as Elahi to attach \"the blocked assets of [a] terrorist party.\" Eschewing the jurisdiction argument relied on by the district court, the Ninth Circuit characterized Iran as a \"terrorist party\" and held that the contract judgment was a \"blocked asset\" subject to attachment.</p>\n",
+    "conclusion": "<p>Not answered. With Justice Stephen G. Breyer writing for the majority and joined by Chief Justice Roberts, and Justices John Paul Stevens, Antonin G. Scalia, Clarence Thomas, and Samuel A. Alito, the Supreme Court held that the assets in question in Mr. Elahi's case were not \"blocked\" under the Terrorism Risk Insurance Act of 2002 at the time of the Ninth Circuit's decision and therefore could not be attached to satisfy his judgment against Iran. The Court then declined to determine whether a 2005 Executive Order issued by the President blocked the assets, holding that Mr. Elahi had waived his rights to attach. The Court reasoned that when Mr. Elahi accepted payment under a federal statute that offered compensation for those \"holding terrorism related judgments against Iran\", he relinquished his right to attach those assets.</p>\n<p>Justice Anthony M. Kennedy concurred in part and dissented in part, and was joined by Justices David H. Souter and Ruth Bader Ginsburg. He agreed that the assets in question were not \"blocked\" at the time of the Ninth Circuit's decision. However, he disagreed that Mr. Elahi had waived his right to attach those assets. He reasoned that the majority departed from the \"plain meaning\" and \"purpose\" of the federal statute that awarded compensation to Mr. Elahi when it inhibited his ability to collect the award granted him against Iran for the murder of his brother.</p>\n"
+}

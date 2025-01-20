@@ -1,0 +1,42 @@
+{
+    "ID": 55471,
+    "name": "Kentucky Retirement Systems v. EEOC",
+    "href": "https://api.oyez.org/cases/2007/06-1037",
+    "view_count": 0,
+    "docket_number": "06-1037",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1190696400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39915"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1199858400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39916"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1213851600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39917"
+        }
+    ],
+    "question": "<p>Is the use of age as a factor in a retirement plan \"arbitrary\" rendering the plan discriminatory on its face in violation of the Age Discrimination in Employment Act?</p>\n",
+    "citation": {
+        "volume": "554",
+        "page": "135",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/19394"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/554/135/",
+    "facts_of_the_case": "<p>Charles Lickteig is a deputy sheriff in Kentucky. Because he is a hazardous duty worker, he is eligible to retire at age 55. Kentucky Retirement Systems offers a two-tier calculation of so-called \"disability retirement benefits.\" If hazardous duty workers like Lickteig opt to keep working and then become disabled, they receive only their scheduled retirement benefits. In contrast, workers who become disabled before reaching age 55 receive payments that reflect not only their actual years of service but the number of years remaining until they would have reached 55. In effect, if two workers were otherwise identical, the one who retired on disability before 55 would always get benefits equal to or greater than those of the post-55 retiree.</p>\n<p>Lickteig decided against retirement at 55. Six years later, he became disabled because of \"a deteriorating vertebra, arthritis, nerve damage, and Parkinson's disease,\" and stopped working. When he applied for disability retirement benefits, he received word that he was eligible only for standard retirement.</p>\n<p>The Equal Employment Opportunity Commission argued unsuccessfully in federal district court that the two-tier system violated the Age Discrimination in Employment Act (ADEA). The U.S. Court of Appeals for the Sixth Circuit affirmed. The appellate court reheard the case <em>en banc</em> and reversed, holding that the simple act of treating younger disabled retirees better than older ones was sufficient to make out a prima facie ADEA violation.</p>\n",
+    "conclusion": "<p>No. Writing for a slim 5-4 majority, Justice Stephen Breyer held that the Kentucky system does not discriminate against workers who become disabled after becoming eligible for retirement based on age. According to Breyer, the circumstances of the case indicated that differences in treatment were not \"actually motivated\" by age but rather by pension status. He also noted that the ADEA treats system-wide rules involving pensions more flexibly than individual employment decisions. Justice Anthony Kennedy authored a dissenting opinion, arguing that age is in fact the deciding factor in determining disability benefits and that, therefore, the Kentucky plan violates the ADEA.</p>\n"
+}

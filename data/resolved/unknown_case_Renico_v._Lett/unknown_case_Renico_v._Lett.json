@@ -1,0 +1,42 @@
+{
+    "ID": 55709,
+    "name": "Renico v. Lett",
+    "href": "https://api.oyez.org/cases/2009/09-338",
+    "view_count": 0,
+    "docket_number": "09-338",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1259560800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40557"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1269838800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40558"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1272862800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40559"
+        }
+    ],
+    "question": "<p>Did the Sixth Circuit err in holding that the Michigan Supreme Court failed to apply clearly established U.S. Supreme Court precedent when it denied relief on double jeopardy grounds after a state trial court declared a mistrial?</p>\n",
+    "citation": {
+        "volume": "559",
+        "page": "766",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19631"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that a Michigan trial court did not properly apply established Supreme Court precedent in a murder trial.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/559/766/",
+    "facts_of_the_case": "<p>On the second day of jury deliberations in Reginald Lett's murder trial in a Michigan state court, the trial judge declared a mistrial because a juror asked what would happen if the jury did not agree. Mr. Lett was subsequently retried and convicted of second-degree murder and possession of a firearm during the commission of a felony. After exhausting his state court remedies, including an appeal to the Michigan Supreme Court, Mr. Lett petitioned for a writ of habeas corpus in a Michigan federal district court arguing that his retrial violated the Constitution's Double Jeopardy Clause. The federal district court granted the petition.</p>\n<p>On appeal, the U.S. Court of Appeals for the Sixth Circuit affirmed. The court recognized that a \"court may not force a defendant to undergo retrial on a matter that concluded without a conviction or acquittal unless there was a 'manifest necessity' for declaring a mistrial.\" While the court further recognized that a jury deadlock is a manifest necessity for declaring a mistrial, a trial judge's decision may only be upheld if it was based on an exercise of \"sound discretion.\" Here, the court concluded that the Michigan Supreme Court erred in finding that the trial judge had exercised sound discretion.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court held that the Michigan Supreme Court's decision in this case was not unreasonable; thus, the Sixth Circuit erred in granting Mr. Lett's habeas petition. With Chief Justice John G. Roberts writing for the majority, the Court reasoned that while the trial judge in this case should have been more thorough before declaring a mistrial, the trial judge did not unreasonably apply clearly established federal law.</p>\n<p>Justice John Paul Stevens, joined by Justice Sonia Sotamayor and in part by Justice Stephen G. Breyer, dissented. Stevens argued that the trial judge's reasons for declaring a mistrial were insufficient and unreasonably complied with clearly established federal law. Therefore, the Sixth Circuit's decision should have been affirmed.</p>\n"
+}

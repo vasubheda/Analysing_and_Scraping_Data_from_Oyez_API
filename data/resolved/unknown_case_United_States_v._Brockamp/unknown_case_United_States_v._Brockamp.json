@@ -1,0 +1,35 @@
+{
+    "ID": 54484,
+    "name": "United States v. Brockamp",
+    "href": "https://api.oyez.org/cases/1996/95-1225",
+    "view_count": 0,
+    "docket_number": "95-1225",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                849592800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37768"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                856245600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37769"
+        }
+    ],
+    "question": "<p>May courts toll, for nonstatutory reasons, the statutory time limitations for filing tax refund claims set forth in the Internal Revenue Code of 1986?</p>\n",
+    "citation": {
+        "volume": "519",
+        "page": "347",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18413"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/519/347/",
+    "facts_of_the_case": "<p>Stanley B. McGill, whose estate is administrated by Marion Brockamp, paid the Internal Revenue Service money he did not owe. McGill, or his representative, submitted an administrative refund claim several years past the end of the applicable filing period set forth in the Internal Revenue Code of 1986. McGill asked the court to extend the statutory period for an \"equitable\" reason, namely that he had a mental disability that caused the delay. Although such a reason is not mentioned in the Internal Revenue Code, the Court of Appeals read the statute as if it contained an implied \"equitable tolling\" exception, which the court found justified, and therefore permitted the actions to proceed.</p>\n",
+    "conclusion": "<p>No. In a unanimous decision authored by Justice Stephen G. Breyer, the Court ruled that Congress did not intend the \"equitable tolling\" doctrine to apply to the Internal Revenue Code of 1986's time limitations for filing tax refund claims. Justice Breyer wrote that allowing such exceptions to the filing deadline \"could create serious administrative problems by forcing the IRS to respond to, and perhaps litigate, large numbers of late claims.\"</p>\n"
+}

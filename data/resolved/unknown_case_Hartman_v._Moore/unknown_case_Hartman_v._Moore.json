@@ -1,0 +1,42 @@
+{
+    "ID": 55360,
+    "name": "Hartman v. Moore",
+    "href": "https://api.oyez.org/cases/2005/04-1495",
+    "view_count": 0,
+    "docket_number": "04-1495",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1119848400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39613"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1136872800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39614"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1146027600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39615"
+        }
+    ],
+    "question": "<p>Are law enforcement agents liable for retaliatory prosecution in violation of a defendant's First Amendment free speech rights when the prosecution was supported by probable cause?</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "250",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20594"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/547/250/",
+    "facts_of_the_case": "<p>William Moore sued six postal inspectors in federal court, alleging that they had brought criminal charges against him in retaliation for lobbying efforts he undertook on behalf of his company. The inspectors claimed that they had qualified immunity (that is, because they filed the charges in their official capacity on good faith, they could not be sued) and also that the case should be dismissed because they had probable cause to charge Moore. The district court sided with Moore, and the Court of Appeals for the District of Columbia agreed, finding that, even with probable cause, they must show that that the prosecution was not motivated by a desire for retaliation.</p>\n",
+    "conclusion": "<p>No. In a 5-2 decision, the Court ruled in favor of the postal inspectors, overruling the Court of Appeals. The opinion by Justice David Souter held that plaintiffs alleging retaliatory prosecution must prove that the law enforcement agents lacked probable cause. Probable cause, the Court ruled, is a crucial component of the \"chain of causation\" needed to evaluate retaliatory prosecution charges. Justice Ginsburg wrote a dissent, which Justice Breyer joined. Chief Justice Roberts and Justice Alito took no part in the decision.</p>\n"
+}

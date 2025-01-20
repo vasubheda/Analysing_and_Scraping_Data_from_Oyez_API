@@ -1,0 +1,42 @@
+{
+    "ID": 55279,
+    "name": "Kowalski v. Tesmer",
+    "href": "https://api.oyez.org/cases/2004/03-407",
+    "view_count": 0,
+    "docket_number": "03-407",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1074578400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39399"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1096866000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39400"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1102917600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39401"
+        }
+    ],
+    "question": "<p>(1) Does the 14th Amendment guarantee an indigent criminal defendant convicted by a guilty plea the right to an appointed appellate attorney in a discretionary first appeal? (2) Do attorneys have third-party standing on behalf of potential indigent defendants to make a constitutional challenge to a state statute prohibiting appointment of appellate counsel in discretionary first appeals following convictions by guilty pleas?</p>\n",
+    "citation": {
+        "volume": "543",
+        "page": "125",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19207"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/543/125/",
+    "facts_of_the_case": "<p>A 1994 amendment to the Michigan constitution said criminal defendants who pled guilty had no right to appeal and could appeal only with the permission of a state appellate court. Michigan then enacted a law that said in most cases judges could not appoint appellate lawyers for indigent defendants who pled guilty. Two criminal attorneys and three indigent defendants who were denied appointed appellate lawyers filed a single suit alleging the state law violated the 14th Amendment's due process and equal protection clauses. The district court ruled that the indigents had standing to sue and that the lawyers who sued with them had the right to sue as third-party representatives of the rights of indigents. A federal appellate court agreed the statute was unconstitutional, but based this only on the lawyers' claims. The court said the U.S. Supreme Court's 1971 decision in Younger v. Harris required it to abstain from hearing the indigents' claims because the indigents were involved in related proceedings in state court.</p>\n",
+    "conclusion": "<p>In a 6-3 opinion delivered by Chief Justice William H. Rehnquist, the Court held that the attorneys lacked third-party standing to sue on behalf of the Michigan indigent defendants. The attorneys did not have close relationships with the indigent defendants, nor was there a hindrance to these defendants' ability to advance their own constitutional rights against the Michigan scheme. In addition, under Younger, the indigents should have only turned to the federal courts after pursuing their claims in state court.</p>\n"
+}

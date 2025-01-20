@@ -1,0 +1,35 @@
+{
+    "ID": 54952,
+    "name": "Adams v. Florida Power Corp.",
+    "href": "https://api.oyez.org/cases/2001/01-584",
+    "view_count": 0,
+    "docket_number": "01-584",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1016604000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38641"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1017640800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38642"
+        }
+    ],
+    "question": "<p>May disparate impact claims be brought under the Age Discrimination in Employment Act of 1967?</p>\n",
+    "citation": {
+        "volume": "535",
+        "page": "228",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/18881"
+    },
+    "term": "2001",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>The Florida Power Corporation (FPC) operated as a publicly-regulated electric utility monopoly until 1992, when Congress opened the industry to competition through the Energy Policy Act of 1992. Between 1992 and 1996, FPR terminated Wanda Adams and others during a series of reorganizations the company stated were necessary to maintain its competitiveness. Members of the Adams class sued FPC, claiming that FPC discriminated against them because of their age, in violation of the Age Discrimination in Employment Act of 1967 (ADEA). In 1996, the District Court conditionally certified a class of former FPC employees claiming age discrimination. In 1999, the court decertified the class and ruled as a matter of law that a disparate impact theory of liability is not available to plaintiffs bringing suit under the ADEA.</p>\n",
+    "conclusion": "<p>The Court did not answer the question. In a per curiam opinion, the Court dismissed the writ of certiorari as improvidently granted.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55686,
+    "name": "Graham County Soil and Water Conservation District v. United States",
+    "href": "https://api.oyez.org/cases/2009/08-304",
+    "view_count": 0,
+    "docket_number": "08-304",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1245646800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40499"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1259560800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40500"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1269925200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40501"
+        }
+    ],
+    "question": "<p>Does an audit performed by a state or its political subdivisions constitute an administrative report within the meaning of the public disclosure jurisdictional bar of the False Claims Act?</p>\n",
+    "citation": {
+        "volume": "559",
+        "page": "280",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19608"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that an audit performed by a state or its political subdivisions constitutes an administrative report within the False Claims Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/559/280/",
+    "facts_of_the_case": "<p>In 1995, a storm hit parts of western North Carolina causing extensive flooding and erosion. Graham and Cherokee Counties applied for assistance under the Emergency Watershed Protection Program (\"EWPP\"). Under the program, the counties would perform or hire to perform the necessary cleanup and repair work, paying for 25% of the costs, while the United States Department of Agriculture paid for the rest. During the cleanup, Karen Wilson, a secretary for the Graham Conservation District, raised concerns that she had about the legality of the awarded contracts. She filed suit in a North Carolina federal district court against Graham and Cherokee Counties, among others, under the False Claims Act. She alleged a conspiracy that tainted the execution of the EWPP contracts and rendered the claims for reimbursement false within the meaning of the False Claims Act. The defendants moved for summary judgment, arguing that the information underlying Ms. Wilson's claim was public disclosure and thus barred the court jurisdiction over the case. The court agreed and dismissed.</p>\n<p>On appeal, the U.S. Court of Appeals for the Fourth Circuit reversed. It held that the audit reports that underlied Ms. Wilson's claim was not public disclosure for the purpose of the False Claim Act, and thus the district court was not barred from hearing her case.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court reversed the Fourth Circuit, holding that the reference to \"administrative\" reports, audits, and investigations within the FCA encompasses disclosures made in state and local sources as well as federal sources \u2013 like at issue in this case. With Justice John Paul Stevens writing for the majority, the Court reasoned that the FCA's plain language did not limit \"administrative\" to federal sources, nor did it preclude the inclusion of state sources. Moreover, the Court looked at the legislative history of the FCA and found it inconclusive.</p>\n<p>Justice Antonin G. Scalia wrote separately, concurring in part and concurring in the judgment. He emphasized that the legislative history of a statute is not relevant in analyzing what a statute means. Justice Sonia Sotamayor joined by Justice Stephen G. Breyer also wrote separately, dissenting. She disagreed with the majority opinion in that it did not give sufficient weight to contextual and historical evidence of Congress' purpose in enacting the FCA. Under her analysis, she would hold that \"administrative\" refers only to federal sources.</p>\n"
+}

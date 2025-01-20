@@ -1,0 +1,35 @@
+{
+    "ID": 54525,
+    "name": "Babbitt v. Youpee",
+    "href": "https://api.oyez.org/cases/1996/95-1595",
+    "view_count": 0,
+    "docket_number": "95-1595",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                849506400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37843"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                853826400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37844"
+        }
+    ],
+    "question": "<p>Does amended Section 207 of the Indian Land Consolidation Act violate the Fifth Amendment's Just Compensation Clause?</p>\n",
+    "citation": {
+        "volume": "519",
+        "page": "234",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18454"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/519/234/",
+    "facts_of_the_case": "<p>A late nineteenth century congressional Indian land program resulted in the extreme fractionation of Indian lands as allottees passed their undivided interests on to multiple heirs. In 1983, Congress adopted the Indian Land Consolidation Act to reduce the fractionated ownership of allotted lands. Section 207 of the Act--the \"escheat\" provision--prohibited the descent of fractional interests that constituted 2 percent or less of the total acreage in an allotted tract and earned less than $100 in the preceding year. The interests described in Section 207 would escheat to the tribe, thereby consolidating the ownership of Indian lands. Section 207 made no provision for the payment of compensation to those who held such fractional interests. The U.S. Supreme Court invalidated the original version of Section 207 on the ground that it was a taking of private property without just compensation, in violation of the Fifth Amendment. Congress then amended Section 207. which looks back five years instead of one year to determine the income produced from a small interest. The will of William Youpee, an enrolled member of the Sioux and Assiniboine Tribes, devised to the respondents, all of them enrolled tribal members, his several undivided interests in allotted lands on reservations. An administrative law judge found that interests devised to each of the respondents fell within amended Section 207 and should therefore escheat to the relevant tribal governments. The respondents, asserting the unconstitutionality of amended Section 207, appealed the order to the Board of Indian Appeals, which dismissed the appeal. The respondents then filed a suit against the Secretary of the Interior, alleging that amended Section 207 violates the Just Compensation Clause of the Fifth Amendment. The District Court agreed with respondents. The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>Yes. In an 8-1 decision, authored by Justice Ruth Bader Ginsburg, The Court ruled that the amended Section 207 of the Indian Land Consolidation Act does not cure the constitutional deficiency The Court identified in the original version of Section 207, which amounted to a taking of private property without just compensation, in violation of the Fifth Amendment. Justice Ginsburg wrote Section 207 is unconstitutional because it \"severely restricts the right of an individual to direct the descent of his property.\"</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 63421,
+    "name": "Berger v. North Carolina State Conference of the NAACP",
+    "href": "https://api.oyez.org/cases/2021/21-248",
+    "view_count": 0,
+    "docket_number": "21-248",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1637733600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55001"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1647838800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55058"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1655960400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55126"
+        }
+    ],
+    "question": "<p>Do the two North Carolina legislators have a right to intervene in this case to defend a state voter-ID law?</p>\n",
+    "citation": {
+        "volume": "597",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27857"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held that North Carolina legislators have a right to intervene in a lawsuit to defend a state voter-ID law.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/597/21-248/",
+    "facts_of_the_case": "<p>The North Carolina chapter of the NAACP challenged a North Carolina voter-ID law, arguing that it violates the Constitution and the federal Voting Rights Act. Although the state attorney general, a Democrat, is already is representing the State's interest in the validity of that law, defending its constitutionality in both state and federal court, Republicans Phil Berger, president pro tempore of the state senate, and Tim Moore, speaker of the state house representatives, sought to intervene to also represent the interests of the State.</p>\n<p>The district court twice rejected their requests to intervene, and the full (en banc) U.S. Court of Appeals for the Fourth Circuit also rejected their request.</p>\n",
+    "conclusion": "<p>North Carolina\u2019s legislative leaders are entitled to intervene in this litigation. Justice Neil Gorsuch authored the majority opinion of the Court.</p>\n<p>Federal Rule of Civil Procedure 24(a)(2) provides, in relevant part, that one has a right to intervene in litigation if they have an interest relating to the property or transaction that is the subject of the action, and are \u201cso situated that disposing of the action may as a practical matter impair or impede\u201d their ability to protect their interest, unless existing parties adequately represent that interest.</p>\n<p>When a State chooses to divide its sovereign authority among different officials and authorize their participation in a\u00a0suit challenging state law, full consideration of the state\u2019s interests may require the involvement of various officials. Intervention by the legislators neither violates the North Carolina Constitution nor gives them authority beyond what the law already provides them. The existing parties do not adequately represent the legislators\u2019 interest, as the presumption of adequate representation applies only in cases where interests fully overlap, which is not the case here. Thus, the legislators have a right to intervene in the litigation.</p>\n<p>Justice Sonia Sotomayor dissented, arguing that the Court erroneously presumed that a State is inadequately represented in federal court unless whomever state law designates as a\u00a0State\u2019s representative is allowed to intervene and incorrectly implied that the attorney general\u2019s defense of the constitutionality of the voting law at issue here fell below a minimal standard of adequacy.</p>\n"
+}

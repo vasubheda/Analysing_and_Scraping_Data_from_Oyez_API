@@ -1,0 +1,42 @@
+{
+    "ID": 55164,
+    "name": "Norton v. Southern Utah Wilderness Alliance",
+    "href": "https://api.oyez.org/cases/2003/03-101",
+    "view_count": 0,
+    "docket_number": "03-101",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1067839200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52658"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1080540000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52659"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1087189200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52660"
+        }
+    ],
+    "question": "<p>Does section 706 (1) of the Administrative Procedure Act authorize federal courts to review the management of public lands under statutory standards and the land use plans of the Bureau of Land Management?</p>\n",
+    "citation": {
+        "volume": "542",
+        "page": "55",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/20534"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/542/55/",
+    "facts_of_the_case": "<p>The federal Bureau of Land Management (BLM) designated 2.5 million acres of land in Utah as \"Wilderness Study Areas\" under the Federal Land Policy and Management Act of 1976 (FLPMA). Under the Act, the BLM is required to manage this land \"so as not to impair the suitability of such areas for preservation as wilderness.\"</p>\n<p>The Southern Utah Wilderness Alliance (SUWA) and several other environmentalist groups brought suit in federal district court under section 706 (1) of the Administrative Procedure Act (APA), which allows federal courts to compel government action when an agency has failed to meet its legal duties. SUWA claimed that the BLM had failed to take a \"hard look,\" as required by the National Environmental Policy Act of 1969, at the effects of off-road vehicles on the Wilderness Study Areas. It also claimed that the permitted off-road vehicle use was in fact damaging the study areas in violation of the agency's FLPMA obligations.</p>\n<p>The district court dismissed the case, holding that SUWA's charge that the bureau had failed to adequately protect the study areas was not specific enough for the court to hear under the Administrative Procedure Act. On appeal, a divided panel of the 10th Circuit Court of Appeals reversed the decision. It held that the bureau's discretion was limited to deciding how to implement the act, not if to implement it, and that SUWA could therefore bring suit to force it at least to take a \"hard look\" at the effects of the off-road vehicle policy.</p>\n",
+    "conclusion": "<p>Yes, but only to a limited extent. In a unanimous opinion written by Justice Antonin Scalia, the Court ruled that the APA only allows courts to examine government agencies' failures to meet specific statutory requirements. A general complaint based on policy differences - like SUWA's view that the off- road vehicles made the Wilderness Study Areas unsuitable for preservation as wilderness - could not be heard under the APA. Justice Scalia wrote, \"If courts were empowered to enter general orders compelling compliance with broad statutory mandates ... it would ultimately become the task of the supervising court, rather than the agency, to work out compliance with the broad statutory mandate, injecting the judge into day-to-day agency management.\"</p>\n"
+}

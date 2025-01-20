@@ -1,0 +1,35 @@
+{
+    "ID": 55385,
+    "name": "Purcell v. Gonzalez",
+    "href": "https://api.oyez.org/cases/2006/06-532",
+    "view_count": 0,
+    "docket_number": "06-532",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1161320400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39673"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                1161320400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53333"
+        }
+    ],
+    "question": "<p>Did the U.S. Court of Appeals for the Ninth Circuit err in granting an emergency injunction regarding Proposition 200 close to election time?</p>\n",
+    "citation": {
+        "volume": "549",
+        "page": "1",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/19310"
+    },
+    "term": "2006",
+    "description": "A case in which the Court decided that the U.S. Court of Appeals for the Ninth Circuit improperly granted an emergency injunction against the enforcement of Proposition 200. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/549/1/",
+    "facts_of_the_case": "<p>In 2002, Arizona passed Proposition 200, which required a photo ID for voter registration. The Election Assistance Commission (EAC) notified Arizona\u2019s Secretary of State that Proposition 200 conflicted with the National Voter Registration Act (NVRA) regarding the need for photo ID as proof of citizenship for mailed voter registration forms. Shortly thereafter, the plaintiffs \u2014 Arizona residents, Indian tribes, and community organizations \u2014 filed a restraining order to prevent the state of Arizona from enforcing the new rules for voter registration. The petition for a restraining order was denied by the district court. The plaintiffs appealed to the U.S. Court of Appeals for the Ninth Circuit and argued that it should grant an emergency injunction based on the fact that elections were about to begin. The appellate court granted the injunction to stop the enforcement of Proposition 200.</p>\n",
+    "conclusion": "<p>In a <em>per curiam</em> decision, the Court held that the U.S. Court of Appeals for the Ninth Circuit erred in granting an injunction against the enforcement of Proposition 200. Because the lower court\u2019s decision lacked any information regarding how it came to its conclusion, the Supreme Court could not properly assess this decision, so it ordered that the case be remanded.</p>\n<p>Justice John Paul Stevens wrote a concurring opinion in which he agreed because there was no discussion of the rationale for requiring identification for voter registration.</p>\n"
+}

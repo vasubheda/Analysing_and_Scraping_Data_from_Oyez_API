@@ -1,0 +1,35 @@
+{
+    "ID": 54409,
+    "name": "Gasperini v. Center for Humanities Inc.",
+    "href": "https://api.oyez.org/cases/1995/95-719",
+    "view_count": 0,
+    "docket_number": "95-719",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                829630800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37631"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                835592400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37632"
+        }
+    ],
+    "question": "<p>Does New York's law that empowers appellate courts to review the size of jury's awards conflict with the Seventh Amendment's guarantee of jury trials in civil cases?</p>\n",
+    "citation": {
+        "volume": "518",
+        "page": "415",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18338"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/518/415/",
+    "facts_of_the_case": "<p>William Gasperini, a journalist and photographer, loaned 300 original slide transparencies to the Center for Humanities, Inc. When the Center lost the transparencies, Gasperini commenced suit in the District Court. The Center conceded liability. A jury awarded Gasperini $1,500 per transparency, the asserted \"industry standard\" of compensation for a lost transparency. The Center moved for a new trial contending that the verdict was excessive. The District Court denied the motion. The Court of Appeals observed that New York law governed the controversy in this diversity case. Under New York law appellate courts are empowered to review the size of jury verdicts and to order new trials when the jury's award \"deviates materially from what would be reasonable compensation.\" Contrarily, under the Seventh Amendment, \"the right of trial by jury shall be preserved, and no fact tried by a jury, shall be otherwise re-examined in any Court of the United States, than according to the rules of the common law.\" Guided by New York Appellate Division decisions reviewing damage awards for lost transparencies, the court held that the $450,000 verdict \"materially deviates from what is reasonable compensation.\" The court vacated the judgment entered on the jury verdict and ordered a new trial, unless Gasperini agreed to an award of $100,000.</p>\n",
+    "conclusion": "<p>No. In a split majority decision, authored by Justice Ruth Bader Ginsburg, the Court ruled that New York's law controlling compensation awards for excessiveness or inadequacy can be given effect, without detriment to the Seventh Amendment, if the review standard is applied by the federal trial court judge, with appellate control of the trial court's ruling confined to \"abuse of discretion.\" Justice John Paul Stevens dissented regarding the judgment of the Court but agreed with most of the majority's reasoning. Justice Antonin Scalia dissented joined by Chief Justice William H. Rehnquist and Justice Clarence Thomas.</p>\n"
+}

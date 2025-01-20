@@ -1,0 +1,42 @@
+{
+    "ID": 63216,
+    "name": "Barr v. American Association of Political Consultants Inc.",
+    "href": "https://api.oyez.org/cases/2019/19-631",
+    "view_count": 0,
+    "docket_number": "19-631",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1578636000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54641"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1588741200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54702"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1594011600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54742"
+        }
+    ],
+    "question": "<p>1. Does a provision of the Telephone Consumer Protection Act of 1991 exempting government debt collection calls from the ban on automated calls violate the First Amendment?</p>\n<p>2. If so, is that provision severable from the rest of the Act?</p>\n",
+    "citation": {
+        "volume": "591",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27736"
+    },
+    "term": "2019",
+    "description": "A case in which the Court held that a provision of the Telephone Consumer Protection Act of 1991 creating an exception to the prohibition on automated calls for government debt collection calls violates the First Amendment but is severable from the remainder of the statute.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/591/19-631/",
+    "facts_of_the_case": "<p>Congress enacted the Telephone Consumer Protection Act of 1991 to address intrusive and unwanted phone calls to Americans. One provision of that Act\u2014the automatic call ban\u2014prohibits phone calls to cell phones that use \u201cany automatic telephone dialing system or an artificial or prerecorded voice.\u201d As passed, the Act recognized two exceptions to the ban: automated calls \u201cfor emergency purposes\u201d and those made to a cell phone with \u201cthe prior express consent of the called party.\u201d In 2015, Congress amended the Act to add a third exception for calls made to cell phones \u201cto collect a debt owed to or guaranteed by the United States.\u201d Moreover, automated calls made by the federal government itself are not barred by the automated call ban.</p>\n<p>The American Association of Political Consultants, Inc. challenged this third provision of the Act, alleging that it violates the Free Speech Clause of the First Amendment by imposing a content-based restriction on speech. The district court granted summary judgment to the government, finding unpersuasive the free speech argument. The district court applied strict scrutiny review (testing whether the government had demonstrated the law is necessary to a \"compelling state interest,\"\u00a0that the law is \"narrowly tailored\" to achieving this compelling purpose,\u00a0and that the law uses the \"least restrictive means\" to achieve that purpose) to the debt-collection exemption and ruled that it does not violate the Free Speech Clause. On appeal the U.S. Court of Appeals for the Fourth Circuit agreed with the lower court that strict scrutiny review applied but concluded that the debt-collection exemption does not satisfy that level of review. Finding that the provision was severable from the Act, the Fourth Circuit struck down only that provision.</p>\n",
+    "conclusion": "<p>The Fourth Circuit\u2019s judgment\u2014that the robocall restriction\u2019s government-debt exception in 47 U.S.C. \u00a7 227(b)(1)(A)(iii) violates the First Amendment but is severable from the remainder of the statute\u2014is affirmed.</p>\n<p>A majority of the justices\u2014Chief Justice John Roberts and Justices Clarence Thomas, Samuel Alito, Neil Gorsuch, and Brett Kavanaugh\u2014believed that the statute at issue regulated speech based on its content and was thus subject to strict scrutiny. In their view, the law is a content-based restriction because it favors speech made for the purpose of collecting government debt over political and other speech. Under strict scrutiny, a law must be \u201cnecessary\u201d to achieve a \u201ccompelling\u201d state interest and must be \u201cnarrowly tailored\u201d to achieve that interest. Justice Kavanaugh authored an opinion applying strict scrutiny and concluding that the government-debt exception fails this level of scrutiny because the Government did not sufficiently justify the differentiation between government-debt collection speech and other categories of robocall speech, such as political speech, issue advocacy, etc.</p>\n<p>Justices Ruth Bader Ginsburg, Stephen Breyer, Sonia Sotomayor, and Elena Kagan argued in multiple opinions that the speech at issue in this case was commercial speech and thus restrictions on such speech were subject only intermediate scrutiny. Under this test, the restriction must only be \u201cnarrowly tailored to serve a significant governmental interest.\u201d Justice Sotomayor concurred in the judgment because, in her view, the provision at issue failed intermediate scrutiny. She argued that the government did not adequately explain \u201chow a debt-collection robocall about a government-backed debt is any less intrusive or could be any less harassing than a debt-collection robocall about a privately backed debt.\u201d In contrast, Justice Breyer\u2019s partial dissent argued that the provision at issue does satisfy intermediate scrutiny, noting that the effect of the law is to disadvantage non-governmental debt collectors, who are already subject to substantial regulation, and the law is narrowly tailored to protect \u201cthe public fisc\u201d\u2014an important government interest.</p>\n<p>A majority of the Court\u2014Chief Justice Roberts and Justices Ginsburg, Breyer, Alito, Sotomayor, Kagan, and Kavanaugh\u2014found the provision severable from the rest of the Act. Justices Thomas and Gorsuch dissented from this conclusion, arguing that the doctrine of severability amounts to rewriting legislation.</p>\n"
+}

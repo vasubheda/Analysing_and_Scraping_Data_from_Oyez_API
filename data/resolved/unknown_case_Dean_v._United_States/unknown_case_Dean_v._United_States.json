@@ -1,0 +1,42 @@
+{
+    "ID": 62766,
+    "name": "Dean v. United States",
+    "href": "https://api.oyez.org/cases/2016/15-9260",
+    "view_count": 0,
+    "docket_number": "15-9260",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1477630800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53900"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1488261600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53978"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1491195600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54063"
+        }
+    ],
+    "question": "<p>Does the Supreme Court\u2019s decision in Pepper v. United States\u2015holding that a judge can adjust sentencing guidelines downward if the defendant is rehabilitated after his initial sentencing\u2015overrule United States v. Hatcher and other Eighth Circuit opinions that limit the district court\u2019s discretion in determining the appropriate sentence for the felony serving as the basis for a conviction for possessing a firearm in furtherance of a violent crime under 18 U.S.C. \u00a7924(c)?</p>\n",
+    "citation": {
+        "volume": "581",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27468"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that 18 U.S.C. \u00a7924(c) does not prevent a sentencing court from using its discretion to consider the other mandatory minimum sentences a defendant might be facing when calculating an overall appropriate sentence.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/581/15-9260/",
+    "facts_of_the_case": "<p dir=\"ltr\">Levon Dean, Jr. and Jamal Dean were brothers who agreed to participate in a robbery of a local drug dealer known as J.R. with Jessica Cabbell and Sarah Berg. On April 15, 2013, Levon and Jamal accompanied Berg to the Palmer House Motel in Sioux City, Iowa, to confront J.R. Jamal pulled a gun on J.R. and hit him on the head with the firearm. Berg, Jamal, and Levon fled the scene with J.R.\u2019s car, cell phone, and methamphetamines. Later that month, Levon and Jamal robbed another methamphetamine dealer, C.B., at gunpoint in his home. In a similar manner, Jamal hit C.B. with his gun and fled the scene in C.B.\u2019s car with $300, methamphetamines, and other electronics. During this robbery, the Deans ordered Hope Marsh who was living at the residence to come with and live with them. The Deans were eventually arrested in May of 2013. </p>\n<p>The Deans were convicted of multiple crimes including robbery in violation of the Hobbs Act, which requires that a crime \u00a0\u201cobstruct, delay, or affect commerce.\u201d Levon Dean, Jr. was sentenced to 400 months, including a 360-month mandatory minimum consecutive sentence pursuant to the sentence for possession of a firearm in furtherance of a violent crime under 18 U.S.C. \u00a7924(c). \u00a0Without the mandatory minimum, Levon\u2019s sentence guideline would have been 84-105 months. On appeal, Levon Dean challenged the sufficiency the evidence to establish a nexus to interstate commerce as the Hobbs Act requires, the sufficiency of evidence for his firearm convictions, and the reasonableness of his sentence. The U.S. Court of Appeals for the Eighth Circuit upheld the district court\u2019s decision to follow the precedent it established in United States v. Hatcher, which held that the district court did not have discretion to reconsider mandatory minimums in sentences. The appellate court held that the district court\u2019s sentence of 40-months to be served consecutively with the 360-month sentence was \u201csubstantively reasonable and not an abuse of the district court\u2019s discretion.\u201d</p>\n",
+    "conclusion": "<p>A sentencing court may use its discretion when calculating an appropriate sentence for a felony serving as the basis for a conviction under 18 U.S.C. \u00a7924(c). Chief Justice John G. Roberts, Jr., delivered the opinion for the unanimous Court, which held that \u00a7924(c) did not prevent sentencing courts from exercising the discretion that they have traditionally enjoyed when tasked with evaluating factors of a case. Although the government argued that sentencing should be calculated purely for each individual offense under \u00a7924(c), which made it a separate offense in a drug trafficking crime to use or possess a firearm, without considering the sentences the defendant might be facing on other counts, the Court determined that the law did not require such an approach. Therefore, a sentencing court could consider the other sentences, and their mandatory minimums, that a defendant might be facing in determining an overall appropriate sentence under 18 U.S.C. \u00a7924(c).</p>\n"
+}

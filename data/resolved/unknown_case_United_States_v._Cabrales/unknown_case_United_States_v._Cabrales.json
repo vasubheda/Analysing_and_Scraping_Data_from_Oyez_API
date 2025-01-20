@@ -1,0 +1,35 @@
+{
+    "ID": 54638,
+    "name": "United States v. Cabrales",
+    "href": "https://api.oyez.org/cases/1997/97-643",
+    "view_count": 0,
+    "docket_number": "97-643",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                893826000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38055"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                896677200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38056"
+        }
+    ],
+    "question": "<p>May a defendant in a federal money-laundering case in which all the transactions occurred in one state be prosecuted in a second state?</p>\n",
+    "citation": {
+        "volume": "524",
+        "page": "1",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18567"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/524/1/",
+    "facts_of_the_case": "<p>An indictment returned in the U.S. District Court for the Western District of Missouri charged Vickie S. Cabrales with various charges of money laundering. The incident alleged that Cabrales deposited $40,000 with the AmSouth Bank of Florida, of which she later withdrew $38,000. The money was traceable to illegal cocaine sales in Missouri. Cabrales moved to dismiss the indictment for improper venue. Because the money-laundering activity occurred entirely in Florida, the court dismissed two of the three counts against Cabrales. In affirming, the Court of Appeals noted that Article III, the Sixth Amendment of the Constitution, and Federal Rule of Criminal Procedure 18 required that a person be tried where the charged offense was committed. The court also noted that laundering alleged in the indictment occurred entirely in Florida and that the Government did not assert that Cabrales transported the money from Missouri to Florida.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Ruth Bader Ginsburg, the Court held that Missouri is not a place of proper venue for the money-laundering offenses with which Cabrales is charged. Rejecting the Government's \"continuing offense\" argument, under which Cabrales would have been triable in more than one place, the Court noted that the laundering transactions occurred only in Florida, making venue in Missouri improper. The Court also reasoned that if the Government could link Cabrales to the drug-trafficking activity, then she could be prosecuted for those violations in Missouri with her money laundering in Florida shown as overt acts in furtherance of the conspiracy.</p>\n"
+}

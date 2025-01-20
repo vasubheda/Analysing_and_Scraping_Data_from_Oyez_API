@@ -1,0 +1,42 @@
+{
+    "ID": 55547,
+    "name": "Corley v. United States",
+    "href": "https://api.oyez.org/cases/2008/07-10441",
+    "view_count": 0,
+    "docket_number": "07-10441",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1222837200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40123"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1232517600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40124"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1238994000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40125"
+        }
+    ],
+    "question": "<p>Does 18 U.S.C. Section 3501 supplant Supreme Court precedent and make admissible voluntary confessions that are taken more than six hours after arrest and before that person has been presented before judicial officers?</p>\n",
+    "citation": {
+        "volume": "556",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20781"
+    },
+    "term": "2008",
+    "description": "A case in which the Court found that voluntary confessions made more than six hours after arrest before the person has been presented before judicial officers are inadmissible.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>In September 2004, Johnnie Corley was convicted on counts of armed bank robbery and the use and carrying of a firearm in furtherance of a crime of violence. Before trial, he filed a motion to suppress his oral and written confessions. The federal district court dismissed the motion. After his conviction, Mr. Corley appealed arguing his motion was improperly dismissed. The United States Court of Appeals for the Third Circuit affirmed the district court's ruling.</p>\n<p>The court recognized that federal statutes require federal officials to bring persons they arrest before judicial officers without unnecessary delay. Confessions received after such delays and before the arrested person is presented before a federal magistrate should be suppressed. Mr. Corley's confessions fell under these guidelines. However, the court reasoned that the voluntariness of a confession was an overriding factor in determining admissibility. Mr. Corley voluntarily confessed. Therefore, his confessions were admissible.</p>\n",
+    "conclusion": "<p>No. With Justice David H. Souter writing for the majority and joined by Justices John Paul Stevens, Anthony M. Kennedy, Ruth Bader Ginsburg, and Stephen G. Breyer, the Supreme Court held that its decisions in <em>McNabb</em> and <em>Mallory</em> were not supplanted by 18 U.S.C. Section 3501. Therefore, confessions made during periods of detention that violate the prompt presentment requirement of Rule 5(a) of the Federal Rules of Criminal Procedure remain generally inadmissible -- even voluntary ones.</p>\n<p>Justice Samuel A. Alito wrote a separate dissenting opinion and was joined by Chief Justice John G. Roberts and Justices Antonin G. Scalia and Clarence Thomas. He argued that 18 U.S.C. Section 3501 is unambiguous in stating, \"[i]n any criminal prosecution brought by the United States\u2026a confession\u2026shall be admissible in evidence if it is given voluntarily.\" Therefore, Mr. Corley's voluntary confession should not be suppressed.</p>\n"
+}

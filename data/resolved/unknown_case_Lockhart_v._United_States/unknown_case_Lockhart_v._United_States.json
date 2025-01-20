@@ -1,0 +1,42 @@
+{
+    "ID": 62317,
+    "name": "Lockhart v. United States",
+    "href": "https://api.oyez.org/cases/2015/14-8358",
+    "view_count": 0,
+    "docket_number": "14-8358",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1432616400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52786"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1446530400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52807"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1456812000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53429"
+        }
+    ],
+    "question": "<p>Does the mandatory minimum for a child pornography sentence apply when the defendant has previously been convicted of \u201caggravated sexual abuse\u201d or \u201csexual abuse,\u201d even when the previous conviction does not involve a minor?</p>\n",
+    "citation": {
+        "volume": "577",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27117"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that a prior conviction of \u201caggravated sexual abuse\u201d or \u201csexual abuse\u201d may trigger a mandatory minimum sentence, even when the prior conviction did not involve a minor.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/577/347/",
+    "facts_of_the_case": "<p>In June 2010, undercover federal agents conducted an operation in which Avondale Lockhart ordered a number of videos containing child pornography. When the agents ostensibly delivered the ordered videos, they executed a search warrant and discovered over 15,000 images and at least nine videos depicting child pornography on Lockhart\u2019s computer. Lockhart was subsequently charged with possession of child pornography, and he pled guilty. Lockhart had previously been convicted in state court of first-degree sexual abuse due to an incident involving his adult girlfriend. Based on this previous conviction, the pre-sentencing report for Lockhart\u2019s child pornography sentencing recommended that Lockhart be subject to a mandatory minimum sentence. Lockhart argued that the mandatory minimum did not apply to him because the previous sexual offense did not involve a minor. The district court rejected Lockhart\u2019s argument and held that the mandatory minimum sentence applied. The U.S. Court of Appeals for the Second Circuit affirmed the lower court\u2019s decision.</p>\n",
+    "conclusion": "<p>A prior conviction of \u201caggravated sexual abuse\u201d or \u201csexual abuse\u201d may trigger a mandatory minimum sentence even when the prior conviction did not involve a minor. Justice Sonia Sotomayor delivered the opinion for the 6-2 majority. The Court held that the \u201clast antecedent rule\u201d of statutory interpretation dictates that a limiting clause following a list of terms or phrases only modifies the one that directly precedes it. Although that presumption may be overcome, there is no indication that the presumption is meant to be overcome in this case. The context of the mandatory minimum sentencing section indicates that Congress intended to mirror the language of Chapter 109A of the Federal Criminal Code, the subdivisions of which map onto the language in question with only the third of the group being limited to sexual abuse involving a minor. Additionally, when ambiguity can be resolved through basic grammatical analysis, there is no reason to apply other canons of statutory construction.</p>\n<p>Justice Elena Kagan wrote a dissent in which she argued that an ordinary understanding of language dictates that, unless the elements of a series are so disparate that the modifier would not make sense if applied to all of them, a modifier of a series should be applied to all parts of the series. Because there is a \u201cstraightforward, parallel construction\u201d that neatly encompasses all parts of the sentence and comports with common usage, that interpretation should override the last antecedent rule. Justice Kagan also argued that the legislative history supported the reading of the text as being limited to sexual abuse involving minors, and even if there were no clear indications of what Congress intended, the rule of lenity states that the Court should side with the defendant when the canons of construction do not resolve the ambiguity. Justice Stephen G. Breyer joined in the dissent.</p>\n"
+}

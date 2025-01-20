@@ -1,0 +1,35 @@
+{
+    "ID": 55053,
+    "name": "National Park Hospitality Assn. v. Dept. of the Interior",
+    "href": "https://api.oyez.org/cases/2002/02-196",
+    "view_count": 0,
+    "docket_number": "02-196",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1046757600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38831"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1054011600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38832"
+        }
+    ],
+    "question": "<p>Does the Contract Disputes Act of 1978 apply to contracts between the National Park Service and concessioners in the national parks?</p>\n",
+    "citation": {
+        "volume": "538",
+        "page": "803",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/18982"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/538/803/",
+    "facts_of_the_case": "<p>The Contract Disputes Act of 1978 (CDA) established rules governing disputes arising out of certain federal government contracts. After Congress enacted the National Parks Omnibus Management Act of 1998, which established a comprehensive concession management program for national parks, the National Park Service (NPS) issued 36 CFR section 51.3, which purported to render the CDA inapplicable to concession contracts. The National Park Hospitality Association challenged 51.3's validity. Upholding the regulation, the District Court concluded that the CDA is ambiguous as to whether it applies to concession contracts and found the NPS's interpretation reasonable. In affirming, the Court of Appeals for the District of Columbia Circuit found the NPS's reading of the CDA consistent with both the CDA and the National Parks Omnibus Management Act of 1998.</p>\n",
+    "conclusion": "<p>The Court did not answer the question. In a 7-2 opinion delivered by Justice Clarence Thomas, the Court held that the controversy was not yet ripe for judicial resolution. The Court reasoned that, because the NPS has no delegated rulemaking authority under the CDA, 51.3 is nothing more than a general policy statement designed to inform the public of NPS's views on the CDA's proper application and thus the National Park Hospitality Association's challenge was a facial one. Given the absence of a concrete dispute, the Court asked the parties provide supplemental briefing on whether the case was ripe for judicial action. Justice John Paul Stevens filed a concurring opinion. Justice Stephen G. Breyer, joined by Justice Sandra Day O'Connor, dissented.</p>\n"
+}

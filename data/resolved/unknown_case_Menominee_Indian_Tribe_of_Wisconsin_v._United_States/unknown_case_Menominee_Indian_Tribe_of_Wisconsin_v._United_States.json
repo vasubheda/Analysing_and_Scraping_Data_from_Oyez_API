@@ -1,0 +1,42 @@
+{
+    "ID": 62318,
+    "name": "Menominee Indian Tribe of Wisconsin v. United States",
+    "href": "https://api.oyez.org/cases/2015/14-510",
+    "view_count": 0,
+    "docket_number": "14-510",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1435640400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52787"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1448949600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53286"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1453701600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53398"
+        }
+    ],
+    "question": "<p>Did the U.S. Court of Appeals for the District of Columbia Circuit properly hold that there were no extraordinary circumstances present in this case that would have prevented the statute of limitations from running?</p>\n",
+    "citation": {
+        "volume": "577",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27118"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that there were no extraordinary circumstances out of the Menominee Indian Tribe\u2019s control to toll the statute of limitations from running.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/577/250/",
+    "facts_of_the_case": "<p>Between 1995 and 2004, the Menominee Indian Tribe of Wisconsin (Menominee Tribe) provided healthcare services to members of the tribe pursuant to a self-determination contract with the Secretary of Health and Human Services (HHS). The self-determination contract states that the federal government will pay the participating tribe the amount that the government would have paid the Department of the Interior and HHS if those agencies were administering the program. The tribe and the government negotiate those costs in annual funding agreements.</p>\n<p>In 2005, the Menominee Tribe filed administrative claims with the HHS\u2019s Indian Health Service to recover contract support costs for the years 1995 through 2004. The claims were denied for the years 1996 through 1998 as untimely because the six-year statute of limitations had run. The Menominee Tribe challenged that decision in federal district court and argued that the statute of limitations should not have been running. The district court rejected the Menominee Tribe\u2019s argument. The U.S. Court of Appeals for the District of Columbia Circuit remanded the case for further consideration, and the district court again held that the statute of limitations had run. The appellate court affirmed and held that there were no extraordinary circumstances that should have prevented the statute of limitations from running.</p>\n",
+    "conclusion": "<p>There were no extraordinary circumstances in this case that would have prevented the statute of limitations from running. Justice Samuel A. Alito, Jr. delivered the opinion of the unanimous Court, which held that, because the Menominee Tribe was unable to prove the existence of extraordinary circumstances to prevent the statute of limitations from running, the appellate court properly affirmed the lower court\u2019s ruling. In order to qualify for tolling of the statute of limitations, the Menominee Tribe must show that the circumstances delaying its actions were extraordinary and out of its control. The Court found that the Menominee Tribe did not file a claim because it was operating under the presumption that it need not file a claim at that point, which was a mistake rather than an extraordinary circumstance.</p>\n"
+}

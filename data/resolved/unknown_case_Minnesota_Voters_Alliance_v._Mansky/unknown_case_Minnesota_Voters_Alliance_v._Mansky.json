@@ -1,0 +1,42 @@
+{
+    "ID": 62923,
+    "name": "Minnesota Voters Alliance v. Mansky",
+    "href": "https://api.oyez.org/cases/2017/16-1435",
+    "view_count": 0,
+    "docket_number": "16-1435",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1510552800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54160"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1519797600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54186"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1528952400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54292"
+        }
+    ],
+    "question": "<p>Is Minnesota Statute \u00a7 211B.II facially overbroad, thus infringing upon the Free Speech Clause of the First Amendment by banning all political apparel at a polling place, effectively imposing a \u201cspeech-free zone\u201d?</p>\n",
+    "citation": {
+        "volume": "585",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27556"
+    },
+    "term": "2017",
+    "description": "A case in which the Court held unconstitutional a Minnesota statute that prohibited individuals from wearing political apparel at or around polling places on primary or election days.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/585/16-1435/",
+    "facts_of_the_case": "<p>Minnesota Statute \u00a7 211B.II prohibits individuals from wearing political apparel at or around polling places on primary or election days. The text of the statute did not define \u201cpolitical\u201d, so Minnesota election officials distributed policy materials to help identify which items fell within the scope of the law. Election officials received instructions to request that anyone wearing apparel which violated the guidelines laid out in the policy materials remove or cover it up. While officials were instructed to allow the person to vote regardless of their compliance, misdemeanor prosecution was a possible outcome, should an individual refuse the removal or cover-up request.</p>\n<p class=\"m_5420848131695921677m_-5970511599820556662m_3188443106529117331gmail-p1\">This case arose when Andrew Cilek, executive director for Minnesota Voters Alliance, was temporarily prevented from voting at his local polling place in November 2010 because he was wearing a t-shirt with a Tea Party logo and a button that advocated for the requirement of a photo ID to vote.</p>\n<p class=\"m_5420848131695921677m_-5970511599820556662m_3188443106529117331gmail-p1\">Minnesota Majority, Minnesota Voters Alliance, and Minnesota Northstar Tea Party Patriots, along with their association Election Integrity Watch (EIW), filed a lawsuit against the Minnesota Secretary of State and various county election officials to enjoin enforcement of the statute as unconstitutional. The parties claimed that the statute violated the First Amendment, facially and as-applied, and was selectively enforced, which also violated their Equal Protection rights.</p>\n<p class=\"m_5420848131695921677m_-5970511599820556662m_3188443106529117331gmail-p1\">Initially, the district court dismissed all claims. The Eighth Circuit affirmed as to the claims regarding Equal Protection and facial First Amendment violations. It reversed and remanded the as-applied First Amendment claim. The district court ultimately granted summary judgment against EIW, <em>et al.</em>, on the as-applied First Amendment claim. Reviewing de novo the grant of summary judgment against EIW, the Eighth Circuit considered EIW's claim that the Minnesota statute was not reasonable, as applied to Tea Party apparel, because the Tea Party is not a political party in Minnesota. The Eighth Circuit was unpersuaded and held that the district court was correct in its ruling, since EIW had failed to present specific facts that showed banning Tea Party apparel was not reasonable, given the Minnesota statute's purpose. The Eighth Circuit held that EIW's argument that voters in Tea Party apparel were affected by selective enforcement had also failed, as it offered nothing more than speculation that voters wearing other forms of political apparel avoided enforcement of the statute. EIW, <em>et al.</em>, then petitioned the Supreme Court to decide whether the lower courts\u2019 ruling was correct.\u00a0</p>\n<p class=\"m_5420848131695921677m_-5970511599820556662m_3188443106529117331gmail-p1\">EIW\u00a0indicates in their petition for a writ of certiorari that there is a circuit split on the issues presented, where the Eighth Circuit\u2019s ruling aligns with the D.C. and Fifth Circuit, which both have held that the government has authority to ban forms of political speech near polling places. The Fourth and Seventh Circuits have held, by contrast, that a complete ban on all political speech, absent any limiting principle, is unconstitutional, regardless of the location in which such speech has been banned.</p>\n",
+    "conclusion": "<p>The Minnesota statute prohibiting individuals from wearing political apparel at a polling place violates the Free Speech Clause of the First Amendment. In a 7-2 opinion authored by Chief Justice John Roberts, the Court reasoned that a polling place is a nonpublic forum under its precedents, which means that the state may place reasonable limits on speech therein. Content-based restrictions on speech must be \"reasonable and not an effort to suppress expression\" based on the speaker's viewpoint. The text of the Minnesota statute made no distinction based on the speaker's political persuasion, so it would be permissible so long as it is \"reasonable.\" One component of reasonableness is the presence of \"objective, workable standards\" guiding enforcement of the law. Because the statute in question does not define the term \"political\" nor any other key terms describing the types of apparel subject to the prohibition, the law affords too much discretion in enforcing the ban and is thus unreasonable.</p>\n<p>Justice Sonia Sotomayor filed a dissenting opinion, in which Justice Stephen Breyer joined. The dissent would not have reversed and remanded the court of appeals below, as the Court did, but instead would have certified the question to the Minnesota Supreme Court to give the state courts \"a reasonable opportunity to pass upon and construe the statute.\"</p>\n"
+}

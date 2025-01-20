@@ -1,0 +1,42 @@
+{
+    "ID": 55785,
+    "name": "United States v. Tohono O'odham Nation",
+    "href": "https://api.oyez.org/cases/2010/09-846",
+    "view_count": 0,
+    "docket_number": "09-846",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1271653200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40754"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1288587600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40755"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1303794000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40756"
+        }
+    ],
+    "question": "<p>A federal statute provides that the Court of Federal Claims lacks jurisdiction to hear a suit against the federal government raising a claim that is already being litigated against the government in another court. Does this provision apply when the plaintiff brings a lawsuit in both the Court of Federal Claims and another court based on the same set of facts, but seeks different forms of relief in the two cases?</p>\n",
+    "citation": {
+        "volume": "563",
+        "page": "307",
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19707"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that the Court of Federal Claims lacked jurisdiction to hear a suit against the federal government about a claim already being litigated against the government in another court, even when the lawsuits seek different relief based on the same set of facts.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/563/307/",
+    "facts_of_the_case": "<p>In 2006, the Tohono O'odham Nation of Southern Arizona filed a complaint against the United States in the U.S. District Court for the District of Columbia, arguing that the United States government handled $2.1 billion in transactions for the nation between 1972 and 1992 and \"has never fulfilled its duty to provide a true and adequate accounting' of the trust funds. The lawsuit also alleged \"gross mismanagement\" by the federal government. One day later, the tribe filed a similar complaint against the United States in the Court of Federal Claims seeking monetary damages for the earnings shortfall in its trust accounts. The Court of Federal Claims dismissed the lawsuit because a similar claim was being heard by a different court in violation of 28 U.S.C. \u00a7 1500. But the U.S. Court of Appeals for the Federal Circuit reversed the CFC's dismissal of the case, concluding, \"the Nation's complaint in the Court of Federal Claims seeks relief that is different from the relief sought in its earlier-filed district court action.\"</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court reversed and remanded the lower court order in a decision by Justice Anthony Kennedy. \"The Court of Appeals was wrong to allow its precedent to suppress the statute's aims,\" Kennedy wrote for the majority. \"The conclusion that two suits are for or in respect to the same claim when they are based on substantially the same operative facts allows the statute to achieve its aim.\" Justice Ruth Bader Ginsburg filed a dissenting opinion in which she argued: \"To avoid both duplication and the running of the statute of limitations, the CFC suit could be stayed while the companion District Court action proceeds.\" Justice Elena Kagan took no part in the consideration of the case.</p>\n"
+}

@@ -1,0 +1,26 @@
+{
+    "ID": 63725,
+    "name": "Riley v. Garland",
+    "href": "https://api.oyez.org/cases/2024/23-1270",
+    "view_count": 0,
+    "docket_number": "23-1270",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1730700000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55562"
+        }
+    ],
+    "question": "<p>1. Is 8 U.S.C. \u00a7 1252(b)(1)\u2019s 30-day deadline jurisdictional, or merely a mandatory claims-processing rule that can be waived or forfeited?\u00a0</p>\n<p>2. Can a person obtain review of the Board of Immigration Appeals\u2019 decision in a withholding-only proceeding by filing a petition within 30 days of that decision?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28051"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide issues relating to the 30-day deadline to seek review of a ruling by the Board of Immigration Appeals denying withholding of deportation. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-1270/"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 55003,
+    "name": "New York v. Federal Energy Regulatory Commission",
+    "href": "https://api.oyez.org/cases/2001/00-568",
+    "view_count": 0,
+    "docket_number": "00-568",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1002085200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38735"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1015221600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38736"
+        }
+    ],
+    "question": "<p>May the Federal Energy Regulatory Commission require a public utility to transmit competitors' electricity over its lines on the same terms that the utility applies to its own energy transmissions, if the utility unbundles, or separates, the cost of transmission from the cost of electrical energy when billing its retail customers? Must FERC impose that requirement on utilities that continue to offer only bundled retail sales?</p>\n",
+    "citation": {
+        "volume": "535",
+        "page": "1",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/18932"
+    },
+    "term": "2001",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/535/1/",
+    "facts_of_the_case": "<p>In 1935, when the Federal Power Act (FPA) became law, most electric utilities operated as separate, local monopolies subject to state or local regulation and their sales were bundled, meaning that consumers paid a single charge for both the cost of the electricity and the cost of its delivery. Section 201(b) of the FPA provides the Federal Energy Regulatory Commission (FERC) with jurisdiction over \"the transmission of electric energy in interstate commerce and the sale of such energy at wholesale in interstate commerce\" and section 205 prohibits unreasonable rates and undue discrimination \"with respect to any transmission or sale subject to the [Commission's] jurisdiction.\" Currently, public utilities still retain ownership of the transmission lines that their competitors must use to deliver electricity to wholesale and retail customers and thus can refuse to deliver their competitors' energy or deliver that power on terms and conditions less favorable than those they apply to their own transmissions. In Order No. 888, FERC found such practices discriminatory under section 205. FERC then ordered the unbundling of wholesale generation and transmission services, which means that each utility must state separate rates for its wholesale generation, transmission, and ancillary services; imposed a similar open access requirement on unbundled retail transmissions in interstate commerce; and declined to extend the open access requirement to the transmission component of bundled retail sales. Ultimately, the Court of Appeals upheld the order.</p>\n",
+    "conclusion": "<p>Yes and no. In an opinion delivered by Justice John Paul Stevens, the Court held that FERC properly construed its statutory authority. The Court's 9-0 decision affirmed that FERC had the jurisdiction to require nondiscriminatory access to electrical transmission by utilities, which unbundled their costs, regardless of state regulation of retail sales, and, by a 6-3 vote, was not required to impose requirements on bundled retail sales. \"Because the FPA authorizes FERC's jurisdiction over interstate transmissions, without regard to whether the transmissions are sold to a reseller or directly to a consumer, FERC's exercise of this power is valid,\" wrote Justice Stevens for the Court. Justice Clarence Thomas filed an opinion concurring in part and dissenting in part, joined by justices Antonin Scalia and Anthony M. Kennedy.</p>\n"
+}

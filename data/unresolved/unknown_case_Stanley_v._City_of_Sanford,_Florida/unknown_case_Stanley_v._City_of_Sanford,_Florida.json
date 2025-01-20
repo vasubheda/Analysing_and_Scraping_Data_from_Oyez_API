@@ -1,0 +1,33 @@
+{
+    "ID": 63695,
+    "name": "Stanley v. City of Sanford, Florida",
+    "href": "https://api.oyez.org/cases/2024/23-997",
+    "view_count": 0,
+    "docket_number": "23-997",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1719205200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55483"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1736748000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55551"
+        }
+    ],
+    "question": "<p>Under the Americans with Disabilities Act, does a former employee \u2014 who was qualified to perform her job and who earned post-employment benefits while employed \u2014 lose her right to sue over discrimination with respect to those benefits solely because she no longer holds her job?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28029"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether, under the Americans with Disabilities Act, a former employee\u2014who was qualified to perform her job and who earned post-employment benefits while employed\u2014loses her right to sue over discrimination with respect to those benefits solely because she no longer holds her job.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-997/"
+}

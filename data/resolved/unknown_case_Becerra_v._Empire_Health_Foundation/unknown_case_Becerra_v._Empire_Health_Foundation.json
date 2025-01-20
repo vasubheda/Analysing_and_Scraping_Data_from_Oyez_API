@@ -1,0 +1,42 @@
+{
+    "ID": 63384,
+    "name": "Becerra v. Empire Health Foundation",
+    "href": "https://api.oyez.org/cases/2021/20-1312",
+    "view_count": 0,
+    "docket_number": "20-1312",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1625202000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54945"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1638165600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54971"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1656046800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55128"
+        }
+    ],
+    "question": "<p>Did the Department of Health and Human Services follow the correct procedures when it promulgated a rule changing the way it calculates Medicare reimbursement rates for hospitals?</p>\n",
+    "citation": {
+        "volume": "597",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27836"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held the Department of Health and Human Services followed the correct procedures when it promulgated a rule changing the way it calculates Medicare reimbursement rates for hospitals.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/597/20-1312/",
+    "facts_of_the_case": "<p>In 2005, the U.S. Department of Health and Human Services promulgated a rule eliminating the word \u201ccovered\u201d from 42 C.F.R. \u00a7 412.106(b)(2)(i), effectively amending HHS\u2019s interpretation of the phrase \u201centitled to [Medicare]\u201d in a subsection of the Medicare Act. This amendment affects the way HHS calculates its reimbursement to certain hospitals that serve low-income patients.</p>\n<p>Plaintiff Empire Health Foundation challenged the 2005 Rule as part of a larger challenge to HHS\u2019s calculation of its 2008 reimbursement. The district court granted partial summary judgment for Empire based on a finding that HHS did not follow correct procedures under the Administrative Procedure Act (APA) because of numerous mistakes that occurred during the notice-and-comment process. The U.S. Court of Appeals affirmed on different grounds, concluding that HHS did follow the correct procedures under the APA, but the rule is substantively invalid\u00a0 because it directly conflicts with Ninth Circuit precedent holding that the phrase \u201centitled to [Medicare] is unambiguous.\u201d</p>\n",
+    "conclusion": "<p>HHS followed the correct procedures; in calculating the Medicare fraction, individuals \u201centitled to [Medicare Part A] benefits\u201d are all those qualifying for the program, regardless of whether they receive Medicare payments for part or all of a hospital stay. Justice Elena Kagan authored the 5-4 majority opinion of the Court.</p>\n<p>The phrase \u201centitled to benefits\u201d means the same thing as \u201cqualifying for benefits.\u201d By counting everyone who qualifies for Medicare benefits in the Medicare fraction\u2014and no one who qualifies for those benefits in the Medicaid fraction\u2014HHS is following the statutory procedures that seek to capture two different segments of a hospital\u2019s low-income patient population. Thus, HHS is correct in counting everyone regardless of whether they receive Medicare payments for part or all of a hospital stay.</p>\n<p>Justice Brett Kavanaugh authored a dissenting opinion, in which Chief Justice John Roberts and Justices Samuel Alito and Neil Gorsuch joined. Justice Kavanaugh focused on the text of the statute, arguing that a patient who, by statute, cannot have payment made by Medicare that day is not \u201centitled to\u201d have payment made by Medicare for that day.</p>\n"
+}

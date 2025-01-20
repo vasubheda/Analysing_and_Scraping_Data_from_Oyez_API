@@ -1,0 +1,35 @@
+{
+    "ID": 62676,
+    "name": "Wearry v. Cain",
+    "href": "https://api.oyez.org/cases/2015/14-10008",
+    "view_count": 0,
+    "docket_number": "14-10008",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1457330400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53450"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1457330400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53451"
+        }
+    ],
+    "question": "<p>To prevail on a claim that suppression of evidence violated his due process rights under <em>Brady v. Maryland</em>, does a defendant need to show that, more likely than not, he would have been acquitted if the suppressed evidence in question had been made available to him?</p>\n",
+    "citation": {
+        "volume": "577",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27414"
+    },
+    "term": "2015",
+    "description": "A case in which the Court held that, to prevail on a claim that suppression of evidence violated his due process rights, a defendant need only show that the suppressed evidence was sufficient to undermine confidence in the verdict.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/577/385/",
+    "facts_of_the_case": "<p>Eric Walber was murdered on April 4, 1998. Nearly two years after the murder, Sam Scott, who was incarcerated at the time, contacted authorities and implicated Michael Wearry in the murder. Scott had been friends with the victim and claimed that Wearry had confessed the crime to him. However, Scott gave an account of the murder that differed from the actual facts and changed his story several times before Wearry\u2019s trial. The prosecution\u2019s other main witness was also incarcerated at the time of trial and had made a prior inconsistent statement to the police that he also recanted. Wearry was convicted and sentenced to death.</p>\n<p>After Wearry\u2019s conviction, information emerged that revealed that the prosecution had failed to disclose evidence that cast doubt on these witnesses\u2019 testimony and would have materially aided Wearry\u2019s defense at trial. Wearry sought state postconviction relief and argued that the state had violated his due process rights under <em>Brady v. Maryland</em> by failing to disclose the potentially exculpatory evidence and that he had received ineffective assistance of counsel. The state court determined that, even if the state should have disclosed the evidence and Wearry\u2019s counsel was ineffective, he was not prejudiced, and the Louisiana Supreme Court denied further relief.</p>\n",
+    "conclusion": "<p>To prevail on a claim that suppression of evidence violated his due process rights under <em>Brady v. Maryland</em>, a defendant need only show that the suppressed evidence was sufficient to undermine confidence in the verdict. In a per curiam opinion, the Court held that the state violates the due process rights of the accused when it suppresses evidence \u201cmaterial either to guilt or to punishment.\u201d Evidence is material when there is \u201cany reasonable likelihood\u201d that its presentation would influence the jury. In this case, there was no doubt that the suppressed evidence would have undermined the jury\u2019s confidence in the verdict, and therefore the state court improperly evaluated the materiality of the evidence.</p>\n<p>Justice Samuel A. Alito, Jr. wrote a dissent in which he argued that it is far from clear whether the suppressed evidence would have actually swayed the jury\u2019s decision. Regardless, the question of whether suppressed evidence would have influenced the jury is a highly factual one that should be decided after full briefing and argument, which the Court did not do. Justice Clarence Thomas joined in the dissent.</p>\n"
+}

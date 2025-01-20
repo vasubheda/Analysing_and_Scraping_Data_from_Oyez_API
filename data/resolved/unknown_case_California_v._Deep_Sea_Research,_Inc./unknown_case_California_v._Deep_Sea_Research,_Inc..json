@@ -1,0 +1,35 @@
+{
+    "ID": 54576,
+    "name": "California v. Deep Sea Research, Inc.",
+    "href": "https://api.oyez.org/cases/1997/96-1400",
+    "view_count": 0,
+    "docket_number": "96-1400",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                880956000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37936"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                893221200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37937"
+        }
+    ],
+    "question": "<p>Does the Eleventh Amendment, limiting federal jurisdiction over maritime matters, bar a federal court's jurisdiction over an admiralty property claim where the property itself is not within the State's possession?</p>\n",
+    "citation": {
+        "volume": "523",
+        "page": "491",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18505"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/523/491/",
+    "facts_of_the_case": "<p>After several expeditions, Deep Sea Research, Inc. (DSR) located the wreck of the S.S. Brother Jonathan and its cargo which sank off the California coast in 1865. When DSR sought rights to the wreck and her cargo, under Article III, Section 2, federal admiralty jurisdiction, California challenged DSR claiming that it had title to the wreck under the Abandoned Shipwreck Act of 1987 (ASA). The ASA requires the federal government to transfer title over \"abandoned shipwrecks\" to the states in whose submerged lands the wrecks are found. California also noted that under Section 6313 of its own public code, title to all abandoned shipwrecks found off its coast vests in the state. In light of its claims to the Brother Jonathan, California claimed that DSR's federal title action violated its rights under the Eleventh Amendment, even though it lacked possession of the wreck.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion the Court held that while precedent interpreting the Eleventh Amendment supports a limited bar on federal admiralty jurisdiction disputes centering on people or property that is in a state's possession, the same does not apply when the concerned state lacks possession of the disputed maritime property. The Court noted that in this case, neither the federal government nor the State of California had possession of the Brother Jonathan and, therefore, the Eleventh Amendment's jurisdictional ban was inapplicable. The Court concluded by noting that since several outstanding insurance claims were made on the Brother Jonathan at the time of her sinking, the question of whether the wreck was truly \"abandoned\" remained unresolved. Accordingly, the Court remanded the matter for further consideration.</p>\n"
+}

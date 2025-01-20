@@ -1,0 +1,35 @@
+{
+    "ID": 55412,
+    "name": "Federal Election Commission v. Wisconsin Right to Life, Inc.",
+    "href": "https://api.oyez.org/cases/2006/06-969",
+    "view_count": 0,
+    "docket_number": "06-969",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1177477200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39749"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1182747600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39750"
+        }
+    ],
+    "question": "<p>Is the Bipartisan Campaign Reform Act's ban on the use of corporate treasury funds for political advertisements in the 60 days before an election unconstitutional as applied to advertisements that do not explicitly endorse or oppose a candidate?</p>\n",
+    "citation": {
+        "volume": "551",
+        "page": "449",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20715"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/551/449/",
+    "facts_of_the_case": "<p>Wisconsin Right to Life (WRTL), a nonprofit political advocacy corporation, ran three advertisements encouraging viewers to contact two U.S. Senators and tell them to oppose filibusters of judicial nominees. WRTL intended to keep running the ads through the 2004 election, but the Bipartisan Campaign Reform Act of 2002 (BCRA) prohibits corporate funds from being used for certain political advertisements in the 60-day period prior to an election. WRTL sued the Federal Election Commission (FEC), claiming that the BCRA was unconstitutional as applied to the advertisements. In 2006, the Supreme Court let the \"as applied\" challenge proceed (see <em>Wisconsin Right to Life v. Federal Election Commission</em>, 04-1581). In <em>McConnell v. Federal Election Commission</em>, the Court had upheld Congress's power to regulate \"express advocacy\" ads that support or oppose political candidates, but WRTL claimed that its ads were \"issue ads\" rather than express advocacy. WRTL also argued that the government lacked a compelling interest sufficient to override the corporation's First Amendment free speech interest. The FEC countered that WRTL's ads were \"sham issue ads,\" which refrain from explicitly endorsing or opposing a candidate but are intended to affect an election.</p>\n<p>A three-judge District Court agreed with WRTL's arguments and ruled the BCRA unconstitutional as applied to the ads. The court refused the FEC's request that it inquire into the intent and likely effect of the ads, because those determinations would be impractical and would have a chilling effect on protected speech. Analyzing only the explicit content of the ads, the court found them to be legitimate issue ads and not express advocacy or sham issue ads. The court also held that the government's justification for banning express advocacy ads by corporations - the need to reduce political corruption and public cynicism - did not apply to ads that do not endorse or oppose a candidate. Therefore, the court ruled that the government lacked a compelling interest to justify the burden on WRTL's First Amendment rights.</p>\n",
+    "conclusion": "<p>Yes. By a 5-4 vote the Court ruled that BCRA's limitations on political advertising were unconstitutional as they applied to issue ads like WRTL's. Chief Justice John Roberts's majority opinion held that the ads were genuine issue ads, not express political advocacy or its functional equivalent (which Congress can concededly regulate). The Court held that <em>McConnell v. FEC</em> did not establish the test that any ad intended to influence an election and having that effect is express advocacy. Such a test would be open-ended and burdensome, would lead to bizarre results, and would \"unquestionably chill a substantial amount of political speech.\" Instead, the Court adopted the test that \"an ad is the functional equivalent of express advocacy only if the ad is susceptible of no reasonable interpretation other than as an appeal to vote for or against a specific candidate.\" The Court further held that the compelling state interests invoked by the government to regulate advocacy did not apply with equal force to genuine issue ads. Neither the interest in preventing corruption nor the goal of limiting the distorting effects of corporate wealth was sufficient to override the right of a corporation to speak through ads on public issues. This conclusion, the Court held, was necessary in order to \"give the benefit of the doubt to speech, not censorship.\" The dissent by Justice Souter called WRTL's ads indistinguishable from political advocacy ads and accused the majority of implicitly overruling <em>McConnell v. FEC</em>.</p>\n"
+}

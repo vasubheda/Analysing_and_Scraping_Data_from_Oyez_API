@@ -1,0 +1,28 @@
+{
+    "ID": 54716,
+    "name": "Central State Univ. v. American Assn. of Univ. Professors, Central State Univ. Chapter",
+    "href": "https://api.oyez.org/cases/1998/98-1071",
+    "view_count": 0,
+    "docket_number": "98-1071",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                922082400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38198"
+        }
+    ],
+    "question": "<p>Does Ohio statutory exemption of state university faculties' instructional workload standards from collective bargaining violate the Equal Protection Clause of the Fourteenth Amendment?</p>\n",
+    "citation": {
+        "volume": "526",
+        "page": "124",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18645"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/526/124/",
+    "facts_of_the_case": "<p>To increase the amount of time that public university professors spend teaching, Ohio enacted Ohio Rev. Code Ann. section 3345.45. Central State University adopted a workload policy pursuant to section 3345.45. The university then notified its professors that it would not bargain over the issue of faculty workload. The professors' collective-bargaining agent filed a complaint seeking declaratory and injunctive relief, claiming that section 3345.45 created a class of public employees not entitled to bargain regarding their workload and that this classification violated the Equal Protection Clauses of the Ohio and United States Constitutions. In response, the state argued that achieving equal workloads was necessary to recapture the decline in teaching and that collective bargaining produced variation in workloads. The Ohio Supreme Court agreed with the professors and found that no evidence linked collective bargaining to the decline in faculty time devoted to undergraduate teaching.</p>\n",
+    "conclusion": "<p>No. In an 8-1 per curiam opinion, the Court held that \"the Ohio Supreme Court's holding cannot be reconciled with the requirements of the Equal Protection Clause.\" \"One of [section 3345.45's] objectives was to increase the time spent by faculty in the classroom; the imposition of a faculty workload policy not subject to collective bargaining was an entirely rational step to accomplish this objective,\" stated the opinion. \"Under our precedent,\" the court concluded \"this is sufficient to sustain the exclusion of university professors from the otherwise general collective-bargaining scheme for public employees.\" Justice John Paul Stevens dissented.</p>\n"
+}

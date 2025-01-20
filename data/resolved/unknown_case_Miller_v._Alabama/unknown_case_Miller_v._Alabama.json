@@ -1,0 +1,42 @@
+{
+    "ID": 55863,
+    "name": "Miller v. Alabama",
+    "href": "https://api.oyez.org/cases/2011/10-9646",
+    "view_count": 0,
+    "docket_number": "10-9646",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1320645600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40959"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1332219600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40960"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1340600400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40961"
+        }
+    ],
+    "question": "<p>Does the imposition of a life-without-parole sentence on a fourteen-year-old child violate the Eighth and Fourteenth Amendments' prohibition against cruel and unusual punishment?</p>\n",
+    "citation": {
+        "volume": "567",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19785"
+    },
+    "term": "2011",
+    "description": "A case in which the Court found it to be a violation of the Eighth Amendment to impose a sentence of life imprisonment without the possibility of parole on juvenile offenders.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/567/460/",
+    "facts_of_the_case": "<p>In July 2003, Evan Miller, along with Colby Smith, killed Cole Cannon by beating Cannon with a baseball bat and burning Cannon's trailer while Cannon was inside. Miller was 14 years old at the time. In 2004, Miller was transferred from the Lawrence County Juvenile Court to Lawrence County Circuit Court to be tried as an adult for capital murder during the course of an arson. In 2006, a grand jury indicted Miller. At trial, the jury returned a verdict of guilty. The trial court sentenced Miller to a mandatory term of life imprisonment without the possibility of parole.</p>\n<p>Miller filed a post trial motion for a new trial, arguing that sentencing a 14-year-old to life without the possibility of parole constituted cruel and unusual punishment in violation of the Eighth Amendment. The trial court denied the motion. On appeal, the Alabama Court of Criminal Appeals affirmed the lower court's decision. The Supreme Court of Alabama denied Miller's petition for writ of certiorari.</p>\n<p>In the companion case, petitioner Kuntrell Jackson, along with Derrick Shields and Travis Booker, robbed a local movie store in Blytheville, Arkansas in November, 1999. The three boys were 14 years old at the time. While walking to the store, Jackson discovered that Shields was hiding a shotgun in his coat. During the robbery, Shields shot the store clerk and the three boys fled the scene. Jackson was tried and convicted of capital murder and aggravated robbery in July, 2003. The trial court sentenced Jackson to a mandatory term of life imprisonment without the possibility of parole.</p>\n<p>In January 2008, Jackson filed a petition seeking a writ of habeas corpus in circuit court. He argued that his sentence was unusual and excessive, violating his rights under the Eighth and Fourteenth Amendments. The circuit court dismissed the petition and Jackson appealed. The Supreme Court of Arkansas affirmed the lower court's decision.</p>\n",
+    "conclusion": "<p>Yes. Writing for a 5-4 majority, Justice Elena Kagan reversed the Arkansas and Alabama Supreme Courts' decisions and remanded. The Court held that the Eighth Amendment's prohibition against cruel and unusual punishment forbids the mandatory sentencing of life in prison without the possibility of parole for juvenile homicide offenders. Children are constitutionally different from adults for sentencing purposes. While a mandatory life sentence for adults does not violate the Eighth Amendment, such a sentence would be an unconstitutionally disproportionate punishment for children.</p>\n<p>Justice Stephen G. Breyer filed a concurring opinion. He argued for an additional determination that the offender actually killed or intended to kill the robbery victim. Without such a determination, the State could not pursue a mandatory life sentence. Justice Sonia Sotomayor joined in the concurrence.</p>\n<p>Chief Justice John G. Roberts, Jr. filed a dissenting opinion. He reasoned that the Court's role is to apply the law, not to answer questions about morality and social policy. The majority did not sufficiently characterize the punishment as unusual, therefore the punishment did not violate the Eighth Amendment. Justices Antonin Scalia, Clarence Thomas, and Samuel A. Alito joined in the dissent.</p>\n"
+}

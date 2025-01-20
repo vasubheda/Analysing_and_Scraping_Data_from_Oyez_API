@@ -1,0 +1,42 @@
+{
+    "ID": 63159,
+    "name": "Rodriguez v. Federal Deposit Insurance Corp.",
+    "href": "https://api.oyez.org/cases/2019/18-1269",
+    "view_count": 0,
+    "docket_number": "18-1269",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1561698000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54573"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1575352800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54617"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1582610400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54659"
+        }
+    ],
+    "question": "<p>Does federal common law or the law of the relevant state determine the ownership of a tax refund paid to an affiliated group?</p>\n",
+    "citation": {
+        "volume": "589",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27706"
+    },
+    "term": "2019",
+    "description": "A case in which the Court vacated the ruling below that had applied a federal common-law rule on how to allocate a tax refund paid to an affiliated group.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/589/18-1269/",
+    "facts_of_the_case": "<p>United Western Bancorp, Inc. (UWBI) was in Chapter 7 bankruptcy proceedings when it received a tax refund check from the Internal Revenue Service that was the result of net operating losses incurred by one of UWBI\u2019s subsidiaries (United Western Bank). UWBI and its subsidiaries had entered into a tax allocation agreement in 2008 that was the source of the present ownership dispute. The Federal Deposit Insurance Corporation (FDIC) alleged that, as receiver for the Bank, it was entitled to the federal tax refund that was due because the refund stemmed exclusively from the Bank\u2019s business loss carrybacks. Simon Rodriguez, in his capacity as the Chapter 7 Trustee for the bankruptcy estate of UWBI, initiated a bankruptcy adversary proceeding against the FDIC, alleging that UWBI owned the tax refund and thus that it was part of the bankruptcy estate.</p>\n<p>The bankruptcy court agreed with Rodriguez and entered summary judgment. The FDIC appealed to federal district court, which reversed the bankruptcy court. On appeal, the U.S. Court of Appeals for the Tenth Circuit affirmed the district court. Under federal common law, \u201ca tax refund due from a joint return generally belongs to the company responsible for the losses that form the basis of the refund.\u201d Applying this rule and noting that the agreement\u2019s intended treatment of tax refunds mandates the same result, the Tenth Circuit concluded that the tax refund at issue belonged to the Bank and thus that the FDIC, as receiver for the Bank, was entitled to summary judgment.</p>\n",
+    "conclusion": "<p>In an opinion authored by Justice Gorsuch, a unanimous Court held that state law is \u201cwell equipped to handle disputes involving corporate property rights.\u201d Federal common law should only exist to \u201cprotect uniquely federal interests\u201d the Court explained. \u201cNothing like that exists here\u201d it continued. While the federal government potentially has a sufficiently unique interest in rules governing the receipt of taxes from corporate entities, the court elaborated, it questioned the strength of any interest in how a tax refund, once received, is distributed among the members of that entity. The Court found that neither federal courts that have applied federal common law to this question nor the FDIC as the advocate for federal common law in this case had ever articulated a sufficient unique federal interest to justify the existence of federal common law on this point.</p>\n<p>The Court did not decide whether the outcome of the particular dispute before it would have been different if decided under the applicable state law rather than erroneously under the federal common law it deemed improper. Instead, the Court remanded the case to the Tenth Circuit Court of Appeal for that determination.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 62639,
+    "name": "United States Army Corps of Engineers v. Hawkes Co., Inc.",
+    "href": "https://api.oyez.org/cases/2015/15-290",
+    "view_count": 0,
+    "docket_number": "15-290",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1449813600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53360"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1459314000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53421"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1464670800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53674"
+        }
+    ],
+    "question": "<p>Is the Army Corps of Engineers\u2019 determination that the property constitutes \u201cwater of the United States\u201d a final agency action subject to judicial review under the Administrative Procedure Act?</p>\n",
+    "citation": {
+        "volume": "578",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27395"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that the Army Corps of Engineers\u2019 jurisdictional determination that a property constituted \u201cwater of the United States\u201d was a final agency action subject to judicial review under the Administrative Procedure Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/578/15-290/",
+    "facts_of_the_case": "<p>Hawkes Co., Inc. (Hawkes) was interested in purchasing a piece of land in northern Minnesota to mine high-quality peat. Hawkes applied to the Army Corps of Engineers (Corps) and the Minnesota Department of Natural Resources for a permit to begin extracting peat from the land once they purchased the property in October 2010. The Corps informed Hawkes that the permit process would be very costly and would take a long time and so urged Hawkes not to purchase the property. The Corps then submitted an Approved Jurisdictional Determination to derail Hawkes\u2019 plan to purchase and mine the property by arguing that the land was a wetland connecting to \u201cwaters of the United States,\u201d which are protected under the Clean Water Act. Hawkes challenged the jurisdictional determination and filed an action for immediate judicial review. The trial court dismissed the action and held that the jurisdictional determination was not a \u201cfinal agency action\u201d under the Administrative Procedure Act, and therefore it was not subject to judicial review. The U.S. Court of Appeals for the Eighth Circuit held that the jurisdictional determination was a final agency action and remanded the action for judicial review.</p>\n",
+    "conclusion": "<p>The Army Corps of Engineers\u2019 jurisdictional determination that the property in question constituted \u201cwater of the United States\u201d was a final agency action subject to judicial review under the Administrative Procedure Act (APA). Chief Justice John G. Roberts, Jr. delivered the opinion of the 8-0 majority. The Court held that two conditions must be satisfied for an agency action to be considered \u201cfinal\u201d under the APA: The action must be the consummation of the agency\u2019s decision-making process and it must determine rights or obligations that create legal consequences. Because a jurisdictional determination is typically not revisited and marks the end of an extensive fact-finding process, it is the consummation of the agency\u2019s decision-making process and satisfies the first condition. Similarly, the jurisdictional determination binds the two governmental agencies authorized to sue to enforce the Clean Water Act and therefore creates legal consequences, which satisfies the second condition.</p>\n<p>In his concurring opinion, Justice Anthony M. Kennedy wrote that the reach of the Clean Water Act remains unclear, and that the majority opinion is important to place a limit on some of the government\u2019s power through the Act. Justice Clarence Thomas and Justice Samuel A. Alito, Jr. joined in the concurrence. Justice Elena Kagan wrote a separate concurring opinion in which she argued that the fact that jurisdictional determinations are binding on both the Army Corps of Engineers and the Environmental Protection Agency is essential to the disposition of the case. Because the jurisdictional determination binds those agencies in subsequent litigation, it creates a legal consequence.</p>\n<p>Justice Ruth Bader Ginsburg wrote an opinion concurring in part and concurring in the judgment in which she argued that the fact that the jurisdictional determination is binding on the Army Corps of Engineers and the Environmental Protection Agency is not essential to the disposition of the case. Because the jurisdictional determination is definitive and creates an immediate and practical impact, that alone satisfies both of the conditions necessary for an agency action to be considered final for the purpose of APA review.</p>\n"
+}

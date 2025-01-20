@@ -1,0 +1,35 @@
+{
+    "ID": 54823,
+    "name": "Hartford Underwriters Ins. Company v. Union Planters Bank, N.A.",
+    "href": "https://api.oyez.org/cases/1999/99-409",
+    "view_count": 0,
+    "docket_number": "99-409",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                953532000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38394"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                959662800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38395"
+        }
+    ],
+    "question": "<p>Does 11 USC Section 506(c) allow an administrative claimant in a bankruptcy case to seek payment of its administrative claim from the property of a bankrupt estate encumbered by a secured creditor's lien?</p>\n",
+    "citation": {
+        "volume": "530",
+        "page": "1",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18752"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/530/1/",
+    "facts_of_the_case": "<p>Hen House Interstate, Inc. filed for reorganization under Chapter 11 of the Bankruptcy Code. During the reorganization attempt, Hen House obtained workers' compensation insurance from Hartford Underwriters Insurance Company. Hen House repeatedly failed to make the monthly premium payments required by the policy. Ultimately, Hen House's reorganization failed and the court converted the case to a Chapter 7 liquidation proceeding and appointed a trustee. Hartford, learning of the bankruptcy proceedings, sought to recover its premiums as an administrative expense. Recognizing that the estate lacked unencumbered funds to pay the premiums, Hartford attempted to charge the premiums to Union Planters Bank, the secured creditor for all of the property of Hen House, by filing a claim with the Bankruptcy Court under 11 USC Section 506(c). The Bankruptcy Court ruled in favor of Hartford and the ruling was affirmed by the Court of Appeals. However, the Court of Appeals granted a rehearing en banc and reversed, on the ground that an administrative claimant could not invoke section 506(c).</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Antonin Scalia, the Court held that \"Section 506(c) does not provide an administrative claimant of a bankruptcy estate an independent right to seek payment of its claim from property encumbered by a secured creditor's lien, or subject to secured claims. Justice Scalia noted that plain meaning of the language in Section 506(c) and the \"most natural reading\" of the section persuaded the court that no one other than the trustee has an independent right to seek payment of administrative claim, like premiums from property secured by a creditor's lien, under the section.</p>\n"
+}

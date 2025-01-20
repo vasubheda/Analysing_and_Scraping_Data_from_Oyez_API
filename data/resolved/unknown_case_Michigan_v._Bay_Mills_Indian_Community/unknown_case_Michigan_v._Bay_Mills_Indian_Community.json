@@ -1,0 +1,42 @@
+{
+    "ID": 55975,
+    "name": "Michigan v. Bay Mills Indian Community",
+    "href": "https://api.oyez.org/cases/2013/12-515",
+    "view_count": 0,
+    "docket_number": "12-515",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1372050000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41279"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1385964000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41280"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1401166800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41574"
+        }
+    ],
+    "question": "<p>Does a federal court have jurisdiction over activity that violates the IGRA, but takes place outside of Indian lands?</p>\n<p>In such a case, does tribal sovereign immunity prevent a state from suing in federal court?</p>\n",
+    "citation": {
+        "volume": "572",
+        "page": "782",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20886"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that Indian tribes have sovereign immunity that can only be revoked by Congress, and that the immunity extends to their commercial activities, even if they are not on their protected land.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/572/782/",
+    "facts_of_the_case": "<p>The Indian Gaming Regulatory Act (IGRA) provides that if certain requirements are met, including a compact between the state and the tribe, an Indian tribe can operate a casino on Indian lands. Under the Michigan Indian Land Claims Settlement Act, lands bought with funds from a congressionally established trust are Indian lands. On November 3, 2010, the Bay Mills Indian Community, a federally recognized Indian tribe with a reservation located in northern Michigan, opened a small casino in the town of Vanderbilt, Michigan, on lands purchased with funds from this trust. The state of Michigan sued for closure of the casino by claiming that the Bay Mills casino violated state gaming laws, as well as various provisions of its Tribal-State compact. The district court entered a preliminary injunction ordering Bay Mills to stop the gambling at the Vanderbilt casino. The U.S. Court of Appeals for the Sixth Circuit vacated the injunction and held that the district court lacked jurisdiction over some of the plaintiffs' claims, while Bay Mills' sovereign immunity bars the others.</p>\n",
+    "conclusion": "<p>Yes. Justice Elena Kagan delivered the opinion for the 5-4 majority. The Court held that Indian tribes have sovereign immunity that can only be revoked by Congress. Additionally, the Supreme Court's decision in <em>Kiowa Tribe of Okla. v. Manufacturing Technologies</em> extended an Indian tribe's sovereign immunity to lawsuits arising out of the tribe's commercial activity. In this case, Congress, via the Indian Gaming Regulatory Act, only regulated an Indian tribe's sovereignty for suits concerning gambling activity on Indian lands. Because Michigan's suit against the Tribe was based on the claim that the new gambling activity was taking place off of the Tribe's land, Michigan cannot rely on the sovereignty abrogation in the Indian Gaming Regulatory Act. The Court also held that states may still act against tribe's who establish gambling venues outside of Indian lands, either by denying a gambling license if the establishment is not located on Indian land or by waiving the tribe's sovereign immunity when negotiating the agreement required by the Indian Gaming Regulatory Act.</p>\n<p>In her concurrence in the judgment, Justice Sonia Sotomayor wrote that the principle of \"comity,\" or mutual respect between sovereigns, supported the majority's opinion because the Court had previously ruled that states have sovereign immunity against suits brought by Indian Tribes. Furthermore, tribal sovereign immunity should not be abrogated simply because the Tribe was participating in commercial activity, as such a precedent would deter Tribes from participating in commercial activity, which is a necessary aspect of the Tribes becoming actually sovereign as opposed to relying on federal funds.</p>\n<p>Justice Clarence Thomas wrote a dissent in which he argued that a sovereign's immunity relates to immunity within the sovereign's own court system, not to immunity from the courts of other sovereigns. Therefore, an Indian tribe would only be immune from federal and state courts when federal or state law says that Indian tribes are immune. Justice Thomas also argued that any federal law that granted Indian tribes immunity from state courts for off-reservation acts would infringe upon the sovereignty of the individual states. Congress had previously abrogated foreign sovereign immunity when suits are based on a foreign sovereign's commercial activity in the Foreign Sovereign Immunities Act; similarly, in this case, immunity from commercial suits is not fundamental to protecting a Tribe's interest in controlling its internal affairs. Lastly, Justice Thomas stated he would overrule the Court's previous decision in <em>Kiowa Tribe of Oklahoma v. Manufacturing Technologies</em>, which first extended tribal sovereign immunity to a tribe's commercial activities. Justice Ruth Bader Ginsburg, Justice Samuel Alito and Justice Antonin Scalia joined in the dissent. In his separate dissent, Justice Scalia wrote that, for the reasons stated in Justice Thomas' dissent, he would also overrule the previous decision in <em>Kiowa</em>. Justice Ruth Bader Ginsburg also wrote a separate dissent in which she expressed her general concurrence with Justice Thomas's dissent, but she noted a reservation concerning Justice Thomas's expansive view of state sovereignty.</p>\n"
+}

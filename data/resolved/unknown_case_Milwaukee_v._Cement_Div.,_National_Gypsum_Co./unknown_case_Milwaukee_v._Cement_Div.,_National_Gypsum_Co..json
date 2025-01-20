@@ -1,0 +1,35 @@
+{
+    "ID": 54357,
+    "name": "Milwaukee v. Cement Div., National Gypsum Co.",
+    "href": "https://api.oyez.org/cases/1994/94-788",
+    "view_count": 0,
+    "docket_number": "94-788",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                798699600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37533"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                802933200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37534"
+        }
+    ],
+    "question": "<p>Does the fact that a plaintiff's loss was primarily attributable to its own negligence, together with the existence of a genuine dispute over liability, justify a District Court's departure from the general rule that prejudgment interest should be awarded in maritime collision cases?</p>\n",
+    "citation": {
+        "volume": "515",
+        "page": "189",
+        "year": "1995",
+        "href": "https://api.oyez.org/case_citation/case_citation/18286"
+    },
+    "term": "1994",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/515/189/",
+    "facts_of_the_case": "<p>After a ship owned by the Cement Division of National Gypsum Co. sank in a winter storm while berthed in a slip owned by Milwaukee, National Gypsum brought an admiralty suit for damages, alleging that the city had negligently breached its duty as a wharfinger. The city denied fault and filed a counterclaim for damage to its dock, alleging that National Gypsum was negligent in leaving the ship virtually unmanned. The District Court found that both parties were negligent, apportioned liability primarily to National Gypsum, and entered a partial judgment for the stipulated amount of National Gypsum's damages, excluding prejudgment interest. The court held that the fact that National Gypsum's loss was primarily attributable to its own negligence and the existence of a genuine dispute over the City's liability were special circumstances justifying a departure from the general rule that prejudgment interest should be awarded in maritime collision cases. In reversing, the Court of Appeals held that mutual fault cannot provide a basis for denying prejudgment interest.</p>\n",
+    "conclusion": "<p>No. In an 8-0 opinion delivered by Justice John Paul Stevens, the Court held that neither a good-faith dispute over liability nor the existence of mutual fault justifies the denial of prejudgment interest in an admiralty collision case. In calculating the amount of the loss for which the relatively innocent party is responsible, the Court found that a denial of prejudgment interest on the basis of mutual fault would unfairly penalize a party twice for the same mistake. \"The existence of a legitimate difference of opinion on the issue of liability is merely a characteristic of most ordinary lawsuits. It is not an extraordinary circumstance that can justify denying prejudgment interest,\" wrote Justice Stevens. Justice Stephen G. Breyer took no part in the consideration or decision.</p>\n"
+}

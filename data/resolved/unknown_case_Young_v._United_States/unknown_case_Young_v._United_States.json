@@ -1,0 +1,35 @@
+{
+    "ID": 55020,
+    "name": "Young v. United States",
+    "href": "https://api.oyez.org/cases/2001/00-1567",
+    "view_count": 0,
+    "docket_number": "00-1567",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1010556000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38768"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1015221600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38769"
+        }
+    ],
+    "question": "<p>Is the Bankruptcy Code's \"three-year lookback period,\" under which a discharge does not extinguish certain tax liabilities for which a return was due within three years before the filing of an individual debtor's petition, tolled during the pendency of a prior bankruptcy petition?</p>\n",
+    "citation": {
+        "volume": "535",
+        "page": "43",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/18949"
+    },
+    "term": "2001",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/535/43/",
+    "facts_of_the_case": "<p>Cornelius and Suzanne Young failed to include payment with their 1992 income tax return, which was due and filed on October 15, 1993. Subsequently, the Internal Revenue Service (IRS) assessed a tax liability against them. After filing a Chapter 13 petition, the Youngs ultimately filed a Chapter 7 petition and were granted a discharge, meaning that Youngs had no assets available to satisfy unsecured creditors, including the IRS. If the Internal Revenue Service (IRS) has a claim for certain taxes for which the return was due within three years before the individual taxpayer files a bankruptcy petition, its claim enjoys eighth priority under 11 USC section 507(a)(8)(A)(i), and is nondischargeable in bankruptcy under section 523(a)(1)(A). When the IRS subsequently demanded that they pay the tax debt, the Youngs asked the Bankruptcy Court to reopen the Chapter 7 case and declare the debt discharged under section 523(a)(1)(A), claiming that it fell outside section 507(a)(8)(A)(i)'s \"three-year lookback period\" because it pertained to a tax return due more than three years before their Chapter 7 filing. The District Court held that the \"lookback period\" is tolled during the pendency of a prior bankruptcy petition and concluded that the 1992 debt had not been discharged when the Youngs were granted a discharge under Chapter 7. The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion delivered by Justice Antonin Scalia, the Court held section 507(a)(8)(A)(i)'s lookback period is tolled during the pendency of a prior bankruptcy petition. The Court reasoned that the three-year lookback period is a limitations period subject to traditional principles of equitable tolling and that nothing in the Bankruptcy Code precluded the equitable tolling of the lookback period. The Court reject the Youngs' argument that the Bankruptcy Code permitted the filing of a Chapter 13 petition and the subsequent filing of a Chapter 7 petition after the lookback period has expired. Under such a loophole, certain unpaid taxes would be dischargeable.</p>\n"
+}

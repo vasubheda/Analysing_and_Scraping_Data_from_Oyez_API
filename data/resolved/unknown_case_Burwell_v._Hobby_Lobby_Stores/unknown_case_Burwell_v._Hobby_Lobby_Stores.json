@@ -1,0 +1,42 @@
+{
+    "ID": 55978,
+    "name": "Burwell v. Hobby Lobby Stores",
+    "href": "https://api.oyez.org/cases/2013/13-354",
+    "view_count": 0,
+    "docket_number": "13-354",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1385445600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41285"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1395723600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41286"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1404104400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41599"
+        }
+    ],
+    "question": "<p>Does the Religious Freedom Restoration Act of 1993 allow a for-profit company to deny its employees health coverage of contraception to which the employees would otherwise be entitled based on the religious objections of the company's owners?</p>\n",
+    "citation": {
+        "volume": "573",
+        "page": "682",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20909"
+    },
+    "term": "2013",
+    "description": "A case in which the Court decided that the Affordable Care Act's requirement of for-profit corporations to supply its employees with contraceptives that go against the owners' beliefs is unconstitutional under the Religious Freedom Restoration Act of 1993.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/573/682/",
+    "facts_of_the_case": "<p>The Green family owns and operates Hobby Lobby Stores, Inc., a national arts and crafts chain with over 500 stores and over 13,000 employees. The Green family has organized the business around the principles of the Christian faith and has explicitly expressed the desire to run the company according to Biblical precepts, one of which is the belief that the use of contraception is immoral. Under the Patient Protection and Affordable Care Act (ACA), employment-based group health care plans must provide certain types of preventative care, such as FDA-approved contraceptive methods. While there are exemptions available for religious employers and non-profit religious institutions, there are no exemptions available for for-profit institutions such as Hobby Lobby Stores, Inc.</p>\n<p>On September 12, 2012, the Greens, as representatives of Hobby Lobby Stores, Inc., sued Kathleen Sebelius, the Secretary of the Department of Health and Human Services, and challenged the contraception requirement. The plaintiffs argued that the requirement that the employment-based group health care plan cover contraception violated the Free Exercise Clause of the First Amendment and the Religious Freedom Restoration Act of 1993 (RFRA). The plaintiffs sought a preliminary injunction to prevent the enforcement of tax penalties, which the district court denied and a two-judge panel of the U.S. Court of Appeals for the Tenth Circuit affirmed. The Supreme Court also denied relief, and the plaintiffs filed for an en banc hearing of the Court of Appeals. The en banc panel of the Court of Appeals reversed and held that corporations were \"persons\" for the purposes of RFRA and had protected rights under the Free Exercise Clause of the First Amendment.</p>\n",
+    "conclusion": "<p>Yes. Justice Samuel A. Alito, Jr. delivered the opinion for the 5-4 majority. The Court held that Congress intended for the RFRA to be read as applying to corporations since they are composed of individuals who use them to achieve desired ends. Because the contraception requirement forces religious corporations to fund what they consider abortion, which goes against their stated religious principles, or face significant fines, it creates a substantial burden that is not the least restrictive method of satisfying the government's interests. In fact, a less restrictive method exists in the form of the Department of Health and Human Services' exemption for non-profit religious organizations, which the Court held can and should be applied to for-profit corporations such as Hobby Lobby. Additionally, the Court held that this ruling only applies to the contraceptive mandate in question rather than to all possible objections to the Affordable Care Act on religious grounds, as the principal dissent fears.</p>\n<p>In his concurrence, Justice Anthony M. Kennedy wrote that the government had not met its burden to show that there was a meaningful difference between non-profit religious institutions and for-profit religious corporations under the RFRA. Because the contraception requirement accommodates the former while imposing a more restrictive requirement on the later without showing proper cause, the requirement violates the RFRA.</p>\n<p>Justice Ruth Bader Ginsburg wrote a dissent in which she argued that the majority's decision was precluded by the Court's decision in <em>Employment Division, Department of Human Resources of Oregon v. Smith</em> in which the Court held that there is no violation of the freedom of religion when an infringement on that right is merely an incidental consequence of an otherwise valid statute. Additionally, judicial precedent states that religious beliefs or observances must not impinge on the rights of third parties, as the sought-after exemption would do to women seeking contraception in this case. Justice Ginsburg also wrote that the majority opinion misconstrued the RFRA as a bold legislative statement with sweeping consequences. Because for-profit corporations cannot be considered religious entities, the burden the respondents claim is not substantial, and the government has shown a sufficiently compelling interest, Justice Ginsburg argued that the contraception mandate does not violate the RFRA. Justice Sonia Sotomayor, Justice Stephen G. Breyer, and Justice Elena Kagan joined in the dissent. In their separate dissent, Justice Breyer and Justice Kagan wrote that the Court need not decide whether for-profit corporations or their owners may sue under the RFRA.</p>\n"
+}

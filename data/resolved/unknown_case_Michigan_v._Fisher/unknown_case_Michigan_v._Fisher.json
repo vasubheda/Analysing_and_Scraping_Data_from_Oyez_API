@@ -1,0 +1,35 @@
+{
+    "ID": 55695,
+    "name": "Michigan v. Fisher",
+    "href": "https://api.oyez.org/cases/2009/09-91",
+    "view_count": 0,
+    "docket_number": "09-91",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1260165600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40519"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1260165600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40520"
+        }
+    ],
+    "question": "<p>Did the Michigan Court of Appeals err when it held that a person's Fourth Amendment rights are violated when law enforcement officials engage in a warrantless search although there was evidence of a serious and life-threatening injury?</p>\n",
+    "citation": {
+        "volume": "558",
+        "page": "45",
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20857"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that a person's Forth Amendment rights are not violated if a warrantless search is performed when there is evidence of a serious or life-threatening injury.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/558/45/",
+    "facts_of_the_case": "<p>Jeremy Fisher was charged with assault with a dangerous weapon and possession of a firearm during the commission of a felony. At trial, he argued that evidence be suppressed because its acquisition violated the Fourth Amendment. Leading up to Mr. Fisher's arrest, police officers responded to a complaint of a disturbance where upon their arrival Mr. Fisher was screaming inside the house, throwing things, and bleeding. After the officers inquired whether Mr. Fisher was okay, he ignored them and told them to get a search warrant. One of the officers then pushed the door open and entered the house and found Mr. Fisher pointing a gun at him. The trial court granted Mr. Fisher's motion to suppress the evidence, which was affirmed by the Michigan Court of Appeals. The Michigan Supreme Court denied permission to appeal.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion, the Supreme Court reversed the Michigan Court of Appeals. The Court held that Mr. Fisher's Fourth Amendment rights were not violated. The Court recognized that \"searches and seizures inside a home are presumptively unreasonable,\" but that presumption may be overcome. Here, the \"exigencies of the situation,\" Mr. Fisher's injury, made the needs of law enforcement so compelling that the warrantless search was reasonable.</p>\n<p>Justice John Paul Stevens, joined by Justice Sonia Sotomayor, filed a separate dissenting opinion. He criticized the Court for \"micromanaging the day-to-day business of state tribunals making fact-intensive decisions of this kind.\"</p>\n"
+}

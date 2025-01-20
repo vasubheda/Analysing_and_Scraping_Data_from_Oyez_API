@@ -1,0 +1,42 @@
+{
+    "ID": 62810,
+    "name": "California Public Employees\u2019 Retirement System v. ANZ Securities, Inc.",
+    "href": "https://api.oyez.org/cases/2016/16-373",
+    "view_count": 0,
+    "docket_number": "16-373",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1484287200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53968"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1492405200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54020"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1498453200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54079"
+        }
+    ],
+    "question": "<p>1. Does the filing of a putative class action lawsuit serve to satisfy the three-year time limit in Section 13 of the Securities Act with respect to the individual claims of other class members?</p>\n<p>\u00a0</p>\n",
+    "citation": {
+        "volume": "582",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27504"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that the filing of a putative class action lawsuit does not satisfy the three-year time limit in Section 13 of the Securities Act with respect to the individual claims of other class members.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/582/16-373/",
+    "facts_of_the_case": "<p>Before it went bankrupt in 2008, Lehman Brothers operated as a global investment bank, with stock traded on the New York Stock Exchange. Between July 2007 and January 2008, the company raised over $31 billion through debt offerings. California Public Employees\u2019 Retirement System (CPERS), the largest pension fund in the country, purchased millions of dollars of these securities. In 2008, another retirement fund filed a putative class action suit against Lehman Brothers that claimed that Lehman Brothers was liable under Section 11 of the Securities Act of 1933 for false and misleading statements. In February 2011, over three years after the initial proceedings were filed but before the district court had decided whether or not to certify the lawsuit as a class action, CPERS sued Lehman Brothers separately. The case was then merged with the other retirement fund\u2019s lawsuit and transferred to the New York district court, where the first case was pending. Later in 2011, the parties involved in the initial suit settled. When CPERS received notice of the settlement agreement, it opted to pursue its own claims individually against Lehman Brothers. The district court dismissed the case as having been untimely filed because the filing of the initial putative class action suit did not constitute a timely filing for a later individual claim. The U.S. Court of Appeals for the Second Circuit affirmed.</p>\n",
+    "conclusion": "<p dir=\"ltr\">The filing of a putative class action lawsuit does not satisfy the three-year time limit in Section 13 of the Securities Act with respect to the individual claims of other class members.Justice Anthony M. Kennedy delivered the opinion of the 5-4 majority. The Court held that there were two types of statutory time bars on the filing of claims: statutes of limitations and statutes of repose. Statutes of limitations were designed to encourage plaintiffs to diligently pursue known claims, and often did not begin to run until the plaintiff knew about the claim. In contrast, statutes of repose reflected a legislative determination that defendants should be free from liability after a certain point and began to run after the defendant\u2019s last culpable act. Because Section 13 was a complete bar to recovery for claims brought more than three years after the relevant securities filing, it was defined in reference to the defendant\u2019s last culpable act and was a statute of repose. Both the text and legislative history of Section 13 supported this categorization. Statutes of repose were generally not subject to equitable tolling provisions, which prevented the time limitations from running for a certain period, because they represented a legislative policy determination that superseded a court\u2019s ability to grant equitable relief. Therefore, the filing of a putative class action does not satisfy the three-year time limit for the purpose of filing subsequent individual claims because the three-year statute of repose fully protects the defendant from liability when its limit is reached. </p>\n<p>\u00a0</p>\n<p dir=\"ltr\">Justice Ruth Bader Ginsburg wrote a dissent in which she argued that Section 13 was only designed to ensure that defendants had notice of their potential liability within three years; the potential claims were not limited to those that could be filed within three years. In this case, because a class action was filed within the statutory time period, the defendants were on notice of their potential liability to the class. Justice Ginsburg also argued that the majority opinion harmed the ability of the investing public to protect their rights, which ran counter to the purpose of Section 11 of the Securities Act and increased the incentive for defendants to drag out litigation. Justice Stephen G. Breyer, Justice Sonia Sotomayor, and Justice Elena Kagan joined in the dissent. </p>\n"
+}

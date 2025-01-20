@@ -1,0 +1,42 @@
+{
+    "ID": 56074,
+    "name": "Kerry v. Din",
+    "href": "https://api.oyez.org/cases/2014/13-1402",
+    "view_count": 0,
+    "docket_number": "13-1402",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1412226000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41646"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1424671200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41647"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1434344400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52750"
+        }
+    ],
+    "question": "<p>Is the government required to give a detailed explanation for denying an alien's visa based on terrorism-related ground under the Immigration and Nationality Act?</p>\n",
+    "citation": {
+        "volume": "576",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/27098"
+    },
+    "term": "2014",
+    "description": "<p>A case in which the Court held that the lack of a detailed explanation for a denial of a visa application does not violate the Due Process Clause of the Fifth Amendment.</p>",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/576/86/",
+    "facts_of_the_case": "<p>Fauzia Din, who is a United States citizen, filed a visa petition for her husband Kanishka Berashk, a citizen and resident of Afghanistan. Nine months later, the State Department denied the petition based on a broad provision of the Immigration and Nationality Act that excludes aliens on terrorism-related grounds. Berashk asked for clarification of the visa denial and was told that it is not possible for the Embassy to provide him with a detailed explanation of the reasons for denial.</p>\n<p>After several other unsuccessful attempts to receive explanation of the visa denial, Din sued and argued that denying notice for aliens who were not granted a visa based on terrorism grounds is unconstitutional. The district court held that Din did not have standing to challenge the visa denial notice. The U.S. Court of Appeals for the Ninth Circuit reversed and held that the government is required to give notice of reasons for visa denial based on terrorism grounds.</p>\n",
+    "conclusion": "<p>No. Justice Antonin Scalia delivered the opinion for the three-judge plurality, which held that no Constitutional rights were violated by denying a full explanation of why an alien\u2019s visa was denied. The Due Process Clause of the Fifth Amendment states that no citizen may be deprived of \u201clife, liberty, or property\u201d without due process, but judicial precedent has held that no due process is owed when these interests are not at stake. Because none of these interests are implicated in the denial of a nonresident alien\u2019s visa application, there is no denial of due process when the visa application is rejected without explanation. Although \u201cliberty\u201d has been construed to refer to fundamental rights, there is no precedent that supports the contention that the right to live with one\u2019s spouse is such a fundamental right.</p>\n<p>Justice Anthony M. Kennedy wrote an opinion concurring in the judgment in which he argued that the notice of the denial of the visa application was sufficient to satisfy the due process requirement. Because the decision was made based on a \u201cfacially legitimate and bona fide reason,\u201d the courts do not need to look further, especially when national security is involved. Justice Samuel A. Alito, Jr. joined in the concurrence in the judgment.</p>\n<p>Justice Stephen G. Breyer wrote a dissent in which he argued that the Due Process Clause entitles a citizen to procedural due process when a liberty interest flows implicitly from the Due Process Clause or when a statute creates the expectation that the interest will not be denied without due process. The right at issue in this case\u2014the right to live with one\u2019s spouse\u2014satisfies those requirements, and therefore entitles Din to procedural due process. Because a statement of the reasons for a decision is a fundamental element of due process, its denial in this case amounts a denial of due process. Justice Ruth Bader Ginsburg, Justice Sonia Sotomayor, and Justice Elena Kagan joined in the dissent.</p>\n"
+}

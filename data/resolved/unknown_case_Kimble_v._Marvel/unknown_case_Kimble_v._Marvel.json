@@ -1,0 +1,42 @@
+{
+    "ID": 56112,
+    "name": "Kimble v. Marvel",
+    "href": "https://api.oyez.org/cases/2014/13-720",
+    "view_count": 0,
+    "docket_number": "13-720",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1418364000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41701"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1427778000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41702"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1434949200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52764"
+        }
+    ],
+    "question": "<p>Should the decision in <em>Brulotte v. Thys Co</em>, which held that a patentee cannot continue to receive royalty payments after the patent has expired, be overturned?</p>\n",
+    "citation": {
+        "volume": "576",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20941"
+    },
+    "term": "2014",
+    "description": "A case in which the Court determined that its earlier decision in <i>Brulotte v. Thys Co.</i>, which held that a patentee cannot continue to receive royalties after the expiration of the patent, should be upheld.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/576/446/",
+    "facts_of_the_case": "<p>In 1990, Stephen Kimble obtained a patent for a Spider-Man toy that was set to expire in May 2010. Kimble claimed that he discussed the idea with the president of Marvel Enterprises Inc., and that he would be compensated for use of his ideas. Although no agreement was reached, Marvel produced a toy that was similar to Kimble's design. In 1997, Kimble sued for patent infringement, and the parties settled in 2001, with Marvel agreeing to purchase the patent and pay royalties to the petitioner without an expiration date. The case was subsequently dismissed. In 2006, Marvel entered a licensing agreement with Hasbro Inc. that gave it the right to produce the toy. Disagreements arose between Kimble and Marvel concerning the royalty payments, and Kimble claimed that the original patent would be infringed if royalties were not paid. Kimble sued Marvel in Arizona state court, and the case was then removed to the federal district court.</p>\n<p>The magistrate judge determined that settlement agreement was a \"hybrid\" agreement, in which patent and non-patent rights were inseparable, and that the Supreme Court decision in <em>Brulotte v. Thys Co.</em> applied. In that case, the Court ruled that, when patents are sold in return for a royalty payment, the purchaser was not obligated to continue these payments beyond the expiration date of the patents because doing so would over-compensate the seller of the patent and improperly extend the patent monopoly beyond the intended time limit. On recommendation of the magistrate, the district court granted summary judgment in favor of Marvel and ruled that the settlement agreement transferred patent rights, but that it was unclear if non-patent rights were transferred. Kimble appealed and argued that the settlement agreement transferred both patent and non-patent rights and that, while royalty payments ended for the patent, they did not end for the toy itself. The U.S. Court of Appeals for the Ninth Circuit affirmed the decision of the district court.</p>\n",
+    "conclusion": "<p>No. Justice Elena Kagan delivered the opinion for the 6-3 majority. The Court held that the precedent established in <em>Brulotte v. Thys Co.</em>\u2014that a patentee cannot receive royalty payments after the patent has expired\u2014should be upheld because there was no sufficient reason to overturn it. Patent law jurisprudence has typically struck down statutes that overly limit free access to formerly patented inventions, and the <em>Brulotte</em> decision was in line with these cases. Because no subsequent legal developments have made the rule announced in that decision obsolete and it has remained workable, there is no reason to overturn the decision. The Court also noted that Congress had ample opportunity to enact a statute that forecloses the <em>Brulotte</em> rule but has not done so.</p>\n<p>Justice Samuel A. Alito, Jr. wrote a dissent in which he argued that, because the <em>Brulotte</em> rule impermissibly interferes in parties\u2019 abilities to negotiate licensing agreements that reflect the true value of the product, the decision has no precedential weight and should be overturned. The <em>Brulotte</em> rule represents a poor interpretation of the Patent Act and promotes economic inefficiency, so the decision lacks the support of legal standing as well as public policy, and therefore the Court should not uphold it. Chief Justice John G. Roberts, Jr. and Justice Clarence Thomas joined in the dissent.</p>\n"
+}

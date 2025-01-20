@@ -1,0 +1,42 @@
+{
+    "ID": 62949,
+    "name": "South Dakota v. Wayfair, Inc.",
+    "href": "https://api.oyez.org/cases/2017/17-494",
+    "view_count": 0,
+    "docket_number": "17-494",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1515736800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54197"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1523941200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54229"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1529557200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54304"
+        }
+    ],
+    "question": "<p>Should the Court abrogate its holding in <em><a href=\"https://www.oyez.org/cases/1991/91-194\">Quill Corp. v. North Dakota</a></em> that the dormant Commerce Clause prohibits states from requiring sellers with no physical presence in the state to collect and remit sales tax for goods sold within the state?</p>\n",
+    "citation": {
+        "volume": "585",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27574"
+    },
+    "term": "2017",
+    "description": "A case in which the Court overruled Quill Corp. v. North Dakota and National Bellas Hess, Inc. v. Department of Revenue of Illinois, holding that states may require sellers with no physical presence in the state to collect and remit sales tax for goods sold within the state.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/585/17-494/",
+    "facts_of_the_case": "<p>The so-called Dormant Commerce Clause of the US Constitution prohibits states from imposing excessive burdens on interstate commerce without congressional approval. Consistent with this doctrine, the US Supreme Court held, in 1967, that a state cannot require an out-of-state seller with no physical presence within that state to collect and remit taxes for goods sold or shipped into the state. The Court affirmed this holding in 1992. In 2015, the Court heard another case with similar facts and while it declined to change its jurisprudence, Justice Kennedy wrote a separate concurrence questioning whether the Court should continue following the earlier cases in light of additional dormant Commerce Clause cases as well as the significant technological and social changes that affect interstate commerce.</p>\n<p>In an apparent appeal to the doubt expressed by Justice Kennedy in that concurring opinion, the South Dakota Legislature passed a law requiring sellers of \u201ctangible personal property\u201d in that state who do not have a physical presence in the state to remit sales tax according to the same procedures as sellers who do have a physical presence. The act limited the obligation to sellers with gross revenue from sales in South Dakota of over $100,000, or 200 or more separate transactions, within one year. The legislature passed the law in defiance of Supreme Court jurisprudence, citing its inability to maintain state revenue in the face of increasing internet sales and their effect on sales tax collections.</p>\n<p>The State commenced a declaratory judgment action in state court seeking a declaration that certain internet sellers subject to the law must comply with it. The sellers moved for summary judgment based on the binding Supreme Court cases. The court granted the motion for summary judgment and enjoined the State from enforcing the law. The State appealed to the state supreme court, and likewise bound by Supreme Court precedent, that court affirmed.</p>\n",
+    "conclusion": "<p>The physical-presence rule of<em> Quill Corp. v. North Dakota</em> and <em>National Bellas Hess, Inc. v. Department of Revenue of Illinois</em> is unsound and incorrect, so both of those cases are overruled. In a 5-4 decision authored by Justice Anthony Kennedy, the Court held that sellers who engage in a significant quantity of business within a state may be required to collect and remit taxes, despite not having a physical presence in the state. First, the Court reasoned that the physical presence rule of <em>Quill</em> is not a necessary interpretation of the requirement that a state tax must be \"applied to an activity with a substantial nexus with the taxing state.\" Physical presence is an outdated proxy for \"substantial nexus,\" and the Court's due process doctrine provides other methods of establishing whether a seller has a substantial nexus to the state. Then, it found the rule in <em>Quill</em> creates, rather than resolves, market distortions. It puts businesses with physical presence at a competitive disadvantage relative to remote sellers. Finally, the Court explained by example how the rule in <em>Quill</em> as imposes \"the sort of arbitrary, formalistic distinction that the Court's modern Commerce Clause precedents disavow.\"</p>\n<p>Justice Clarence Thomas filed a concurring opinion clarifying that he \"should have joined\" Justice White's dissenting opinion in <em>Quill</em> and to criticize the Court's \"entire negative Commerce Clause jurisprudence.\"</p>\n<p>Justice Neil Gorsuch filed a concurring opinion to criticize the dormant Commerce Clause, as well.</p>\n<p>Chief Justice John Roberts filed a dissenting opinion, in which Justices Breyer, Sotomayor, and Kagan joined. The dissent would find that \"the internet's prevalence and power have changed the dynamics of the national economy\" is a rationale not for discarding the physical-presence rule, but for upholding it. In the dissent's view, \"any alteration to those rules with the potential to disrupt such a critical segment of the economy should be undertaken by Congress.\"</p>\n"
+}

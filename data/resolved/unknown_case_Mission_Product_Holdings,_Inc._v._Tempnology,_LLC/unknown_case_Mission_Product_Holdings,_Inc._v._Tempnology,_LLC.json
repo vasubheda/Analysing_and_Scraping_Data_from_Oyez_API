@@ -1,0 +1,42 @@
+{
+    "ID": 63043,
+    "name": "Mission Product Holdings, Inc. v. Tempnology, LLC",
+    "href": "https://api.oyez.org/cases/2018/17-1657",
+    "view_count": 0,
+    "docket_number": "17-1657",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1540530000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54375"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1550642400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54438"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1558328400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54510"
+        }
+    ],
+    "question": "<p>Under Section 365 of the Bankruptcy Code, does a debtor-licensor\u2019s rejection of a license agreement terminate rights of the licensee that would survive the licensor\u2019s breach under non-bankruptcy law?</p>\n",
+    "citation": {
+        "volume": "587",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27634"
+    },
+    "term": "2018",
+    "description": "A case in which the Court held that in bankruptcy proceedings, the debtor\u2019s rejection of a license agreement has the same effect as breach of that contract outside the bankruptcy context and thus cannot rescind rights that the contract previously granted.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/587/17-1657/",
+    "facts_of_the_case": "<p>Tempnology, LLC, made and owned the intellectual property to specialized products such as towels, socks, headbands, and other accessories designed to stay at a low temperature even when used during exercise. Tempnology and Mission Product Holdings executed an agreement in 2012 that (1) granted Mission distribution rights to some of Tempnology\u2019s products, (2) granted Mission a nonexclusive license to Tempnology\u2019s intellectual property, and (3) granted Mission a license to use Tempnology\u2019s trademark and logo to sell and promote the products.</p>\n<p>After accruing multi-million-dollar operating losses in 2013 and 2014, Tempnology filed for bankruptcy under Chapter 11 of the Bankruptcy Code in September 2015. The following day, it moved to reject its agreement with Mission under Section 365(a) of the Bankruptcy Code, which allows a debtor-in-possession to \u201creject any executory contract\u201d that is not beneficial to the company.</p>\n<p>Although the parties do not dispute that Mission can insist that the rejection not apply to the patent licenses in the agreement, it is unsettled in the First Circuit (where the proceedings were brought) whether Mission can also insist that the rejection not apply to the trademark licenses. The bankruptcy court found that Tempnology\u2019s rejection of the agreement left Mission with only a claim for damages for breach of contract, and no claim that Tempnology was under an obligation to further perform the license agreement. The First Circuit affirmed.</p>\n",
+    "conclusion": "<p>A bankruptcy debtor\u2019s rejection of a contract under Section 365 has the same effect as breach outside the bankruptcy context and as such cannot rescind rights that the contract previously granted.</p>\n<p>Justice Elena Kagan delivered the 8-1 opinion of the Court. Before turning to the merits of the case, the Court considered whether the case was moot, as Tempnology argued. It is not. Mission Product Holdings presented a plausible claim for money damages, and even if a victory in the lawsuit would not make it rich or even better off, \u201cit remains a live controversy\u201d\u2014which surpasses the threshold for a case to be heard in federal court.</p>\n<p>Turning to the merits, the Court considered the effect of a debtor\u2019s rejection of a contract under Section 365. The text of that section provides that a debtor may, subject to court approval, \u201cassume or reject any executory contract,\u201d and the Code defines rejection as \u201ca\u00a0breach of [an executory] contract,\u201d deemed to occur \u201cimmediately before the date of the filing of the petition.\u201d As the term \u201cbreach\u201d is neither defined in the Code nor a specialized bankruptcy term, it must be given the ordinary meaning it has outside the bankruptcy context. When breach of a contract occurs outside of bankruptcy, the parties to the contract do not go back to their precontract positions; rather, the counterparty retains the rights it has received under the agreement. That the rejection\u2014and therefore breach\u2014occurred in a bankruptcy context does not affect this outcome. Therefore, the rejection cannot rescind rights the contract previously granted. Even the distinctive features of trademarks and trademark law do not support a different interpretation of Section 365.</p>\n<p>Justice Sonia Sotomayor authored a concurring opinion in which she joined the Court\u2019s opinion in full. Her concurrence highlights two features of the Court\u2019s holding. First, the Court\u2019s holding is limited; it does not hold that every trademark licensee has the unfettered right to continue using licensed marks postrejection. Second, in holding as it does, the Court confirms \u201cthat trademark licensees\u2019 postrejection rights and remedies are more expansive in some respects than those possessed by licensees of other types of intellectual property.\u201d Justice Sotomayor points out that the differences between trademark and other intellectual properties might affect the outcome in other disputes between licensors and licensees.\u00a0</p>\n<p>Justice Neil Gorsuch authored a dissenting opinion, arguing that the writ should have been dismissed as improvidently granted. Justice Gorsuch can identify no viable legal theory for damages in this case.</p>\n"
+}

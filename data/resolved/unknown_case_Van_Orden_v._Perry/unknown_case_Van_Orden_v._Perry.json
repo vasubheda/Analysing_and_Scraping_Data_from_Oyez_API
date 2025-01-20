@@ -1,0 +1,42 @@
+{
+    "ID": 55205,
+    "name": "Van Orden v. Perry",
+    "href": "https://api.oyez.org/cases/2004/03-1500",
+    "view_count": 0,
+    "docket_number": "03-1500",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1097557200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39191"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1109743200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39192"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1119848400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39193"
+        }
+    ],
+    "question": "<p>Does a Ten Commandments monument on the grounds of a state capitol building violate the First Amendment's establishment clause, which barred the government from passing laws \"respecting an establishment of religion?\"</p>\n",
+    "citation": {
+        "volume": "545",
+        "page": "677",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19133"
+    },
+    "term": "2004",
+    "description": "A case in which the Court held that a Ten Commandments monument erected on the state capitol building's grounds did not violate the establishment clause of the First Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/545/677/",
+    "facts_of_the_case": "<p>Thomas Van Orden sued Texas in federal district court, arguing a Ten Commandments monument on the grounds of the state capitol building represented an unconstitutional government endorsement of religion. Orden argued this violated the First Amendment's establishment clause, which prohibits the government from passing laws \"respecting an establishment of religion.\" The district court and the Fifth Circuit Court of Appeals ruled against Orden and said the monument served a valid secular purpose and would not appear to a reasonable observer to represent a government endorsement of religion.</p>\n",
+    "conclusion": "<p>No. In 5-4 decision, and in a four-justice opinion delivered by Chief Justice William H. Rehnquist, the Court held that the establishment clause did not bar the monument on the grounds of Texas' state capitol building. The plurality deemed the Texas monument part of the nation's tradition of recognizing the Ten Commandments' historical meaning. Though the Commandments are religious, the plurality argued, \"simply having religious content or promoting a message consistent with a religious doctrine does not run afoul of the establishment clause.\"</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55472,
+    "name": "Meacham v. Knolls Atomic Power Laboratory",
+    "href": "https://api.oyez.org/cases/2007/06-1505",
+    "view_count": 0,
+    "docket_number": "06-1505",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1200636000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39918"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1208926800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39919"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1213851600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39920"
+        }
+    ],
+    "question": "<p>Under the Supreme Court's decision in <em>Smith v. City of Jackson</em>, must the employer or the employee prove the reasonableness of adverse employment decisions occurring as part of a claim for age discrimination under the federal Age Discrimination in Employment Act?</p>\n",
+    "citation": {
+        "volume": "554",
+        "page": "84",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/19395"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/554/84/",
+    "facts_of_the_case": "<p>When the New York-based federal research laboratory Knolls Atomic Power Lab instituted a downsizing program, it asked supervisors to rank employees based on three factors: performance, flexibility, and the criticality of their skills, and then to add points for years of service in order to determine who would be dismissed. Of the thirty-one employees who were let go, all but one were over the age of forty. Twenty-six of these dismissed employees filed suit against Knolls for age discrimination in violation of the Age Discrimination in Employment Act (ADEA). A jury found for the employees and the U.S. Court of Appeals for the Second Circuit affirmed.</p>\n<p>However the U.S. Supreme Court vacated the judgment, relying on its 2005 decision in <em>Smith v. City of Jackson</em> to hold that \"an employer is not liable under the ADEA so long as the challenged employment action, in relying on specific non-age factors, constitutes a reasonable means to the employer's legitimate goals.\" On remand, the Second Circuit vacated its previous decision and held that the employees had failed to carry their burden of proving the evaluation system unreasonable. In seeking Supreme Court review, the employees argued that it should be Knolls, not them, who must prove the reasonableness of an action that would otherwise be prohibited.</p>\n",
+    "conclusion": "<p>Yes. Writing for a 7-1 majority on the issue of burden of proof, Justice David Souter stated that the text and structure of the ADEA indicated that it is the employer, not the employee, who must bear both the burden of production and the burden of persuasion for the use of \"reasonable factors other than age\" in the decision to terminate employment. Justice Antonin Scalia concurred in the judgment, suggesting that the Congress left the determination of these issues in the hands of the Equal Opportunity Employment Commission. Justice Clarence Thomas concurred in part and dissented in part. In his brief dissent, Thomas noted his belief that \"disparate-impact claims\" such as this one, which allege a discriminatory result rather than discriminatory intent, should not be allowed under the ADEA. Justice Stephen Breyer took no part in the decision because he is a significant shareholder in Knolls' parent company.</p>\n"
+}

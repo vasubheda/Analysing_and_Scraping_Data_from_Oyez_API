@@ -1,0 +1,28 @@
+{
+    "ID": 54483,
+    "name": "United States v. Jose",
+    "href": "https://api.oyez.org/cases/1996/95-2082",
+    "view_count": 0,
+    "docket_number": "95-2082",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                849506400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37767"
+        }
+    ],
+    "question": "<p>Is a Federal District Court's order, which enforced IRS summonses but required the IRS to give notice prior to any internal transfer of summoned documents, appealable as final decision?</p>\n",
+    "citation": {
+        "volume": "519",
+        "page": "54",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18412"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>In a proceeding to enforce two IRS summonses issued to Laddie Jose, as trustee for the Jose Business Trust and Jose Family Trust, the U.S. and an IRS agent represented that the documents sought were for a civil investigation. Ultimately, the District Court ordered enforcement of the summonses, requiring the IRS to give Jose five days' notice before transferring summoned information from its Examination Division to any other IRS office. The IRS appealed, challenging the District Court's authority to impose such a restriction. The Court of Appeals dismissed the appeal as not ripe because the record did not indicate that the Examination Division had attempted to disclose the documents to any other IRS division; therefore, the five-day notice requirement had not been triggered.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion, the Court held that the District Court issued a final, appealable order. The Court reasoned that the District Court's final order was indeed final because it was a decision dispositively granting in part and denying in part the remedy requested by the IRS. The Court also noted that finality, not ripeness, is the doctrine governing appeals from the District Court to the Court of Appeals. To appeal the District Court's decision, the IRS was neither obligated to defy the order nor required to provide notice of its intention to transfer documents internally, concluded the Court.</p>\n"
+}

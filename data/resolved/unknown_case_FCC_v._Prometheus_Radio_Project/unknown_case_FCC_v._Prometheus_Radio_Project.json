@@ -1,0 +1,42 @@
+{
+    "ID": 63276,
+    "name": "FCC v. Prometheus Radio Project",
+    "href": "https://api.oyez.org/cases/2020/19-1231",
+    "view_count": 0,
+    "docket_number": "19-1231",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1601614800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54772"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1611036000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54834"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1617253200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54875"
+        }
+    ],
+    "question": "<p>Did the U.S. Court of Appeals for the Third Circuit err in vacating as arbitrary and capricious the FCC\u2019s orders that substantially changed its approach to regulation of broadcast media ownership?</p>\n",
+    "citation": {
+        "volume": "592",
+        "page": null,
+        "year": "2021",
+        "href": "https://api.oyez.org/case_citation/case_citation/27769"
+    },
+    "term": "2020",
+    "description": "A case in which the Court held that the Federal Communications Commission\u2019s 2017 decision to repeal or modify three of its media ownership rules was not arbitrary or capricious under the Administrative Procedure Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/592/19-1231/",
+    "facts_of_the_case": "<p>The Federal Communications Commission (FCC) maintains a collection of rules governing ownership of broadcast media, intended to promote \u201ccompetition, diversity, and localism.\u201d In 1996, in response to sentiment that the rules were overly restrictive, Congress passed the Telecommunications Act, of which Section 202(h) required the Commission to review the broadcast ownership rules on a regular basis. The FCC\u2019s performance of its duties under that section has been the subject of extensive litigation.</p>\n<p>In 2017, the FCC issued an order eliminating altogether newspaper/broadcast and television/radio cross-ownership rules, and making other substantial changes. It also announced its intention to adopt an incubator program, calling for comment on various aspects of the program. In August 2018, the FCC established a radio incubator program. Numerous parties filed petitions for review challenging various aspects of the FCC\u2019s order. Among them, Petitioner Prometheus Radio Project argued that the FCC did not adequately consider the effect its rule changes would have on ownership of broadcast media by women and racial minorities.</p>\n<p>The U.S. Court of Appeals for the Third Circuit found that although the FCC did \u201costensibly\u201d consider this issue, its analysis was \u201cso insubstantial\u201d that it cannot provide a \u201creliable foundation\u201d for the FCC\u2019s conclusions. As such, the Third Circuit vacated the bulk of the agency\u2019s actions over the past three years as arbitrary and capricious, in violation of the Administrative Procedure Act.</p>\n",
+    "conclusion": "<p>The Federal Communications Commission (FCC)\u2019s 2017 decision to repeal or modify three of its media ownership rules was not arbitrary or capricious for purposes of the Administrative Procedure Act. Justice Brett Kavanaugh authored the majority opinion on behalf of a unanimous Court.</p>\n<p>The FCC has broad authority to regulate broadcast media \u201cas public convenience, interest, or necessity requires.\u201d In considering whether to repeal or modify its existing ownership rules, the agency considered evidence in the record and reasonably concluded that the three ownership rules at issue were no longer necessary to serve the agency\u2019s public interest goals of competition, localism, and viewpoint diversity, and that the rule changes were not likely to harm minority and female ownership. The FCC acknowledged the gaps in data on which it relied and noted that despite requesting data supporting the contention that harm would result to minority- and female-owned media companies, it received no such data. Because its decision was based on the record and was reasonable, its decision to repeal or modify three of its rules was not arbitrary or capricious.</p>\n<p>Justice Clarence Thomas authored a concurring opinion to argue that the Third Circuit improperly imposed nonstatutory procedural requirements on the FCC by forcing it to consider ownership diversity in the first place.</p>\n"
+}

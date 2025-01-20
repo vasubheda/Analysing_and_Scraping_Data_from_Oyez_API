@@ -1,0 +1,42 @@
+{
+    "ID": 62603,
+    "name": "Halo Electronics v. Pulse Electronics Inc.",
+    "href": "https://api.oyez.org/cases/2015/14-1513",
+    "view_count": 0,
+    "docket_number": "14-1513",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1445230800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53305"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1456207200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53364"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1465794000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53764"
+        }
+    ],
+    "question": "<p>Did the U.S. Court of Appeals for the Federal Circuit err by applying a rigid, two-part test for enhancing patent infringement damages under 35 U.S.C \u00a7284?</p>\n",
+    "citation": {
+        "volume": "579",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27378"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that the rigid two-part test is not necessary for determining whether a patentee is eligible for enhanced damages under 35 U.S.C \u00a7284.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/579/14-1513/",
+    "facts_of_the_case": "<p>Halo Electronics, Inc. (Halo) and Pulse Electronics, Inc. (Pulse) are both suppliers of electronic components. Halo owns three patents regarding surface mount electronic packages; Pulse designs and sells surface mount electronic packages and does its manufacturing in Asia. In 2002, Halo unsuccessfully attempted to license their patents to Pulse. In 2007, Halo sued Pulse for patent infringement. The district court held that Pulse infringed on Halo\u2019s patents with products shipped into the United States, had induced others to infringe on products delivered outside of the U.S. but ultimately imported into the U.S. as finished products, and found that it was highly probable that Pulse\u2019s infringement was willful. The court later found that Pulse\u2019s infringement was not willful. The U.S. Court of Appeals for the Federal Circuit affirmed and held that there was no \u201cwillful infringement.\u201d In determining that there was no willful infringement, the appellate court applied a rigid two-part test established in <em>In re Seagate</em> that required that willfulness be proven on both an objective and subjective basis. In this case, the appellate court held that the objective prong was not met. This two-part test is similar to one the Supreme Court struck down last term in <em>Octane Fitness, LLc v. ICON Health &amp; Fitness</em>, which dealt with a test for awarding attorneys fees.</p>\n<p>In the consolidated case, Stryker Corporation (Stryker) sued Zimmer, Inc. (Zimmer) over patent infringement of medical equipment. Stryker and Zimmer are both competitors in the market for pulsed lavage devices, which deliver pressurized irrigation for certain medical procedures in orthopedic medicine. Stryker holds three patents for pulsed lavage devices that it claimed Zimmer had infringed. The district court found Zimmer liable for patent infringement. The jury awarded Stryker treble damages as allowed under 35 U.S.C. \u00a7 284 on the grounds that Zimmer intentionally violated Stryker\u2019s patents. Zimmer appealed to the U.S. Court of Appeals for the Federal Circuit, which requires that the patent-holder prove the infringement was willful to be eligible for treble damages. Therefore, the appellate court overturned the award for treble damages on the grounds that Zimmer did not intentionally violate Stryker\u2019s patents.</p>\n",
+    "conclusion": "<p>The rigid two-part test is not necessary for determining whether a patentee is eligible for enhanced damages under 35 U.S.C \u00a7284. Chief Justice John G. Roberts, Jr. delivered the opinion for the unanimous Court. The plain language of Section 284 simply stated that courts \u201cmay increase the damages up to three times the amount found or assessed.\u201d There is no language that creates the kind of test that the U.S. Court of Appeals for the Federal Circuit applied, and precedent had established that the word \u201cmay\u201d connotes judicial discretion. While it\u2019s true that the award is typically only granted in extreme cases, the two-part test was overly rigid and could insulate some of worst patent infringers from liability for enhanced damages. Because the language of the section is discretionary, courts should take into account a variety of factors and should not be limited by a rigid test.</p>\n<p>In his concurring opinion, Justice Stephen G. Breyer wrote that the language of Section 284 encompasses limitations on the use of a court\u2019s discretion to award enhanced damages. Generally, enhanced damages are reserved for particularly egregious cases. Additionally, whether or not the infringer consults counsel should not be relevant to the award decision, nor should the award be used to compensate for the costs of the litigation. Justice Breyer argued that, while enhanced damages served an important purpose, its use must be limited. Justice Anthony M. Kennedy and Justice Samuel A. Alito, Jr. joined in the concurrence.</p>\n"
+}

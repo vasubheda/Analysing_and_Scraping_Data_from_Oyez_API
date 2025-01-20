@@ -1,0 +1,42 @@
+{
+    "ID": 55858,
+    "name": "Southern Union Company v. United States",
+    "href": "https://api.oyez.org/cases/2011/11-94",
+    "view_count": 0,
+    "docket_number": "11-94",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1322460000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40945"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1332133200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40946"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1340254800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40947"
+        }
+    ],
+    "question": "<p>In light of the rights to criminal due process under the Fifth Amendment and a trial by jury under the Sixth Amendment, must a fact that increases the penalty for a crime, beyond the prescribed statutory maximum, be submitted to a jury and proved beyond a reasonable doubt if the penalty is the imposition of criminal fines?</p>\n",
+    "citation": {
+        "volume": "567",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19780"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that the rule applied in Apprendi v. New Jersey, where the Sixth Amendment\u2019s guarantee of a jury trial requires that any fact which increases the maximum punishment for a particular crime be proved to a jury, applies to the imposition of criminal fines.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/567/343/",
+    "facts_of_the_case": "<p>Southern Union Company is a diversified natural gas company with a storage facility in Pawtucket, Rhode Island. In September of 2004, vandals broke into the facility and found liquid mercury. The vandals spilled the liquid mercury in and around the facility and around a nearby apartment complex. Southern Union did not discover the spill for several weeks, and the apartment residents were displaced for two months during the subsequent cleanup.</p>\n<p>On September 19, 2002, a grand jury returned an indictment charging Southern Union with illegally storing mercury without a permit. Southern Union was convicted by a jury, but the jury did not determine how many days Southern Union had illegally stored the mercury. At sentencing, the district court applied the penalty provision of 42 U.S.C. \u00a7 6928(d), which provided a maximum fine of $50,000 for each day of violation. The U.S. Office of Probation set the maximum fine for Southern Union's offense at $38.1 million dollars by multiplying $50,000 times 762, the full number of days referred to in the indictment.</p>\n<p>Southern Union objected. The company argued that the number of days that Southern Union illegally stored mercury was a fact that should have been determined by a jury, because it increased the maximum criminal penalty. As such, Southern Union believed that the imposition of the $38.1 million dollar fine was a violation of its rights to criminal due process under the Fifth Amendment and to a trial by jury under the Sixth Amendment.</p>\n<p>The district court requested briefs, but it ultimately concluded that a fact which increases a criminal penalty need not be tried by a jury if the penalty is a criminal fine. Southern Union appealed. The U.S. Court of Appeals for the First Circuit rejected Southern Union's arguments and affirmed the lower court's decision.</p>\n",
+    "conclusion": "<p>Yes. Justice Sonia Sotomayor, writing for a 6-3 majority, reversed the Court of Appeals decision and remanded. The Court previously held that under the Sixth Amendment, the determination of any fact that increases a defendant's maximum potential sentence should be left to the jury. While the government challenged this rule's application to cases involving criminal fines, the Court maintained that the rule does extend to such cases. The government argued that fines are not serious criminal sentences like incarceration, and therefore do not require a jury determination. The Court disagreed, reasoning that if a fine were so insubstantial, then the right to a jury trial would not even be triggered.</p>\n<p>Justice Stephen G. Breyer dissented, finding it sufficient for sentencing judges to determine sentencing facts. Since sentencing facts are not the same facts that determine the elements of a crime, they do not both need to be determined by a jury in all cases. Historically, judges have always determined the punishment for lesser crimes. While the Sixth Amendment allows the jury to determine sentencing for serious offenses, it does not extend so far as to require a jury determination of how much a defendant should be fined. Justice Anthony M. Kennedy and Justice Samuel A. Alito, Jr. joined in the dissent.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 63550,
+    "name": "Groff v. DeJoy",
+    "href": "https://api.oyez.org/cases/2022/22-174",
+    "view_count": 0,
+    "docket_number": "22-174",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1673589600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55207"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1681794000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55249"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1688014800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55302"
+        }
+    ],
+    "question": "<p>Is inconvenience to coworkers an \u201cundue burden\u201d under Title VII of the Civil Rights Act of 1964 such that it excuses an employer from providing an accommodation requested for religious exercise?</p>\n",
+    "citation": {
+        "volume": "600",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27935"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held that Title VII requires an employer that denies a religious accommodation to show that the burden of granting an accommodation would result in substantial increased costs in relation to the conduct of its particular business.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/600/22-174/",
+    "facts_of_the_case": "<p>Gerald Groff is a Christian and U.S. Postal Service worker. He refused to work on Sundays due to his religious beliefs. USPS offered to find employees to swap shifts with him, but on numerous occasions, no co-worker would swap, and Groff did not work. USPS subsequently fired him.</p>\n<p>Groff sued USPS under Title VII of the Civil Rights Act of 1964, claiming USPS failed to reasonably accommodate his religion because the shift swaps did not fully eliminate the conflict. The district court concluded the requested accommodation would pose an undue hardship on USPS and granted summary judgment for USPS. The U.S. Court of Appeals for the Third Circuit affirmed.</p>\n",
+    "conclusion": "<p>Title VII requires an employer that denies a religious accommodation to show that the burden of granting an accommodation would result in substantial increased costs in relation to the conduct of its particular business.\u00a0Justice Samuel Alito authored the opinion for the unanimous Court.</p>\n<p>Title VII of the Civil Rights Act of 1964 prohibits discrimination based on religion, and subsequent regulations issued by the EEOC required employers to make reasonable accommodation of an employee's religious beliefs unless doing so would cause \u201cundue hardship\u201d to the employer. In Trans World Airlines, Inc. v. Hardison, 432 U.S. 63 (1977), the Supreme Court held that Title VII does not require an employer who uses a seniority system to assign shifts to deprive senior employees of their seniority rights in order to accommodate a junior employee\u2019s religious practices. The Hardison decision also inadvertently established a \u201cmore than de minimis\u201d test for hardship; courts interpreted that decision to mean that any cost or hardship \u201cmore than de minimis\u201d justifies denying a religious accommodation. Revisiting that interpretation, the Court rejected the \u201cde minimis cost\u201d standard and adopted instead a \u201csubstantial increased costs\u201d standard consistent with the spirit and language of Title VII.</p>\n<p>Justice Sonia Sotomayor authored a concurring opinion, in which Justice Ketanji Brown Jackson joined.</p>\n<p>\u00a0</p>\n"
+}

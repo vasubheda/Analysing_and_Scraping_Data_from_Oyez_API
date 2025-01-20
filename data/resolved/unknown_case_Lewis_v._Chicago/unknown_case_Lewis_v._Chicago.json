@@ -1,0 +1,42 @@
+{
+    "ID": 55706,
+    "name": "Lewis v. Chicago",
+    "href": "https://api.oyez.org/cases/2009/08-974",
+    "view_count": 0,
+    "docket_number": "08-974",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1254286800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40548"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1266818400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40549"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1274677200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40550"
+        }
+    ],
+    "question": "<p>When an employer adopts an employment practice that discriminates in violation of Title VII's disparate impact provision, must the plaintiff file a claim within 300 days after the announcement of the practice, or within 300 days after the employer executes the practice?</p>\n",
+    "citation": {
+        "volume": "560",
+        "page": "205",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19628"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that an employee may file a Title VII disparate impact claim within 300 days after their employer executes the allegedly unlawful practice.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/560/205/",
+    "facts_of_the_case": "<p>African-American applicants for firefighter jobs in Chicago, IL sued the city under Title VII alleging the written test used for hiring had a disparate impact. After administering the test, the city graded the scores and placed applicants in three categories: \"well qualified,\" \"qualified,\" and \"not qualified.\" Because the city had only 600 positions to fill among 1,782 \"well qualified\" applicants, \"qualified\" applicants were unlikely to get job offers. The class of plaintiffs in this suit allege that the test disparately categorized them as \"qualified.\" An Illinois federal district court entered judgment in favor of the plaintiffs.</p>\n<p>On appeal, the Seventh Circuit held that the plaintiffs' suit was untimely and dismissed. The court stated that the 300 day limit for filing such a claim began when the plaintiffs learned that they had been placed in the \"qualified\" category and that the city would be hiring those in the \"well qualified\" category. The court reasoned that because there was no fresh act of discrimination, the time for filing a Title VII claim began when the discriminatory decision was made and not when it was executed.</p>\n",
+    "conclusion": "<p>The Supreme Court held that a plaintiff may file his Title VII disparate impact claim within 300 days after the employer executes the allegedly unlawful practice so long so as he alleges each of the elements of a disparate impact claim. Justice Antonin G. Scalia, writing for a unanimous Court, reasoned that the principle inquiry in this case is not when the firefighters' claims accrued, but whether the claims stated a Title VII violation. The Court concluded that the firefighters successfully stated a Title VII violation within the claim-filing period when they alleged that the city caused a disparate impact on African-Americans each time it used its hiring list.</p>\n"
+}

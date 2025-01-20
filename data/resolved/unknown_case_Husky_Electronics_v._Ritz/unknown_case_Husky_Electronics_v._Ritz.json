@@ -1,0 +1,42 @@
+{
+    "ID": 62619,
+    "name": "Husky Electronics v. Ritz",
+    "href": "https://api.oyez.org/cases/2015/15-145",
+    "view_count": 0,
+    "docket_number": "15-145",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1446789600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53315"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1456812000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53371"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1463374800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53593"
+        }
+    ],
+    "question": "<p>Is fraudulently transferring money to avoid repayment of a debt considered false representation under bankruptcy statute 11 U.S.C. \u00a7523(a)(2)(A) to prevent discharge of the debt?</p>\n",
+    "citation": {
+        "volume": "578",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27383"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that the \u201cactual fraud\u201d language of the bankruptcy statute encompasses traditional forms of fraud and is not limited to fraudulent representation.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/578/15-145/",
+    "facts_of_the_case": "<p>Husky International Electronics, Inc. (Husky) sold and delivered electronic equipment to Chrysalis Manufacturing Corp. (Chrysalis), headed by Daniel Ritz. Chrysalis owed Husky $163,999.38 in purchases between 2003 and 2007. In 2007, Ritz started transferring funds from Chrysalis to various other ventures in which he owned stock. In 2009 Husky sued Ritz for payment of his outstanding debt, and Ritz then filed for Chapter 7 bankruptcy. In 2011, Husky filed a complaint against the discharge of Ritz\u2019s debt and argued that Ritz had fraudulently moved funds from Chrysalis to other accounts in order to file for bankruptcy. The bankruptcy court found that Ritz had not fraudulently filed for bankruptcy and that it could not \u201cpierce the veil\u201d to go after Ritz\u2019s personal finances for the debt Chrysalis owed.</p>\n<p>Husky appealed to the district court, which affirmed the bankruptcy court\u2019s determination and found that Ritz had not committed \u201cactual fraud\u201d by false representation and that Husky had not proven that Ritz acted \u201cmaliciously and willfully.\u201d The United States Appeals Court for the Fifth Circuit affirmed the lower court\u2019s decision to discharge Ritz\u2019s debt.</p>\n",
+    "conclusion": "<p>The \u201cactual fraud\u201d language of the bankruptcy statute encompasses traditional forms of fraud and is not limited to fraudulent representation. Justice Sonia Sotomayor delivered the opinion of the 7-1 majority. The Court held that \u201cactual fraud\u201d is fraud that is committed with wrongful intent, and that \u201cfraud\u201d has traditionally been defined as any transfer of assets that impairs a creditor\u2019s ability to collect on the debt. In the common law, such fraudulent conveyances did not require that the debtor make a false representation to the creditor. Therefore, historically, false representation has never been a requirement of \u201cactual fraud\u201d and should not be treated as one in the wording of the relevant section of the Bankruptcy Code. This reading maintains meaningful distinctions throughout the code and does not make the language redundant.</p>\n<p>In his dissent, Justice Clarence Thomas argued that \u201cactual fraud\u201d as used in the relevant section of the bankruptcy statute does not encompass fraudulent transfer schemes. Despite the fact that the common law meaning of actual fraud is expansive, this case is one of statutory interpretation, not common law, and therefore the common law definition cannot be dispositive when it does not fit with the relevant language of the statute. The relevant language in this case limits \u201cactual fraud\u201d to situations in which fraud induced the creditor to enter into a transaction with the debtor. Justice Thomas argued that the majority opinion\u2019s reading of the phrase is overbroad and second-guesses Congress\u2019 intent.</p>\n"
+}

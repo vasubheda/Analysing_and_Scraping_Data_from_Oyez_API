@@ -1,0 +1,35 @@
+{
+    "ID": 54530,
+    "name": "Metro-North Commuter Railroad Company v. Buckley",
+    "href": "https://api.oyez.org/cases/1996/96-320",
+    "view_count": 0,
+    "docket_number": "96-320",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                856245600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37853"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                867042000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37854"
+        }
+    ],
+    "question": "<p>May railroad workers invoke the Federal Employers' Liability Act to sue their employers for emotional distress due to asbestos, or some other disease-causing carcinogen, exposure if it has not made them ill?</p>\n",
+    "citation": {
+        "volume": "521",
+        "page": "424",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18459"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/521/424/",
+    "facts_of_the_case": "<p>Michael Buckley was exposed to insulation dust containing asbestos while employed as a pipefitter by Metro-North Commuter Railroad Co. Buckley feared he would develop cancer, of which periodic medical check ups have revealed no evidence of an asbestos related disease. Buckley filed suit under the Federal Employers' Liability Act (FELA), which permits a railroad worker to recover for an \"injury . . . resulting from\" his employer's \"negligence.\" He sought damages for negligently inflicted emotional distress and to cover the cost of future check ups. The District Court dismissed Buckley's case because since there had been no \"physical impact\" from his exposure, the FELA did not permit recovery for his emotional injury. Buckley's medical monitoring claim was not discussed. In reversing, the Court of Appeals held that that his contact with the insulation dust was considered a physical impact that, when present, permits a FELA plaintiff to recover for accompanying emotional distress. Furthermore, Buckley could recover the costs of check ups made necessary by the exposure.</p>\n",
+    "conclusion": "<p>No. In an opinion authored by Justice Stephen Breyer, the Court ruled that railroad workers cannot invoke the Federal Employers' Liability Act to sue their employers for emotional distress due to asbestos, or some other disease-causing carcinogen, exposure unless, and until, they manifest symptoms of a disease. Furthermore, workers are not legally entitled to recover medical monitoring costs insofar as they are contingent upon an underlying injury.</p>\n"
+}

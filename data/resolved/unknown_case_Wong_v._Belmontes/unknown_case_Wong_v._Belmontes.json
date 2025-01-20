@@ -1,0 +1,35 @@
+{
+    "ID": 55687,
+    "name": "Wong v. Belmontes",
+    "href": "https://api.oyez.org/cases/2009/08-1263",
+    "view_count": 0,
+    "docket_number": "08-1263",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1258351200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40502"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1258351200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40503"
+        }
+    ],
+    "question": "<p>Did the Ninth Circuit err when it held that petitioner's Sixth Amendment right to effective counsel was violated when his attorney at sentencing failed to bring forward sufficient evidence to humanize him and other mitigating evidence.</p>\n",
+    "citation": {
+        "volume": "558",
+        "page": "15",
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/19609"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that a death row inmate's attorney did not undermine his conviction.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/558/15/",
+    "facts_of_the_case": "<p>A California state court convicted Fernando Belmontes of murder and sentenced him to death. After exhausting his state court remedies, Mr. Belmontes filed for habeas corpus relief in a California federal district court arguing that at sentencing his Sixth Amendment right to effective counsel was violated. The district court denied the petition.</p>\n<p>On appeal, the U.S Court of Appeals for the Ninth Circuit reversed and granted the petition. The court held that Mr. Belmontes did suffer ineffective counsel at sentencing. The court reasoned that Mr. Belmontes' attorney failed to prepare and present sufficient evidence to humanize Mr. Belmontes that may have mitigated his sentence.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion, the Supreme Court reversed the Ninth Circuit. The Court held that while a competent attorney may have included more mitigating evidence at sentencing, there was no reasonable probability that more evidence would have led to a different sentence. The Court reasoned that much of the evidence that the Ninth Circuit proposed should have been included at sentencing was merely cumulative.</p>\n<p>Justice John Paul Stevens filed a separate concurring opinion. He disagreed with the Court's decision to grant review to this case, reasoning that because the jury likely misunderstood the law at sentencing (that it could not give mitigating weight to evidence if it was not directly related to the crime) the Ninth Circuit's original decision was correct to grant habeas corpus relief. However, Justice Stevens agreed with the Court's decision on the narrow issue before it, that counsel's failure to include additional mitigating evidence probably did not affect the outcome.</p>\n"
+}

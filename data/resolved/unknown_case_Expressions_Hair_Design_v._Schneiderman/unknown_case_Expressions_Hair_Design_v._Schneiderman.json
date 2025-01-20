@@ -1,0 +1,42 @@
+{
+    "ID": 62756,
+    "name": "Expressions Hair Design v. Schneiderman",
+    "href": "https://api.oyez.org/cases/2016/15-1391",
+    "view_count": 0,
+    "docket_number": "15-1391",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1475125200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53892"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1484028000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53947"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1490763600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54007"
+        }
+    ],
+    "question": "<p>Does the New York General Business Law\u2019s prohibition of credit card surcharges violate the Free Speech Clause of the First Amendment or the Due Process Clause of the Fourteenth Amendment?</p>\n",
+    "citation": {
+        "volume": "581",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27461"
+    },
+    "term": "2016",
+    "description": "A case in which the Court decided that the New York General Business Law\u2019s was not unconstitutionally vague under the Due Process Clause of the Fourteenth Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/581/15-1391/",
+    "facts_of_the_case": "<p>The New York General Business Law prohibits surcharges on credit card transactions. Expressions Hair Design, along with four other New York businesses and their owners, sued Eric T. Schneiderman, the Attorney General of New York, as well as the District Attorneys of New York County and argued both that the statute violated the Free Speech Clause of the First Amendment and that the statute was unconstitutionally vague under the Due Process Clause of the Fourteenth Amendment. The district court held that the statute was unconstitutional under both theories. The district court found that the statute impermissibly distinguished between surcharges and discounts, which narrowed the form of commercial speech available to the plaintiffs and violated the First Amendment. Additionally, the statute was vague because its application depended entirely on the labels plaintiffs used. The U.S. Court of Appeals for the Second Circuit reversed and held that the statute qualified as permissible regulation of economic activity. The appellate court determined \u00a0that prices were not inherently protected speech and that, because the surcharge provision had an easily understood meaning, the provision was not unconstitutionally vague.</p>\n",
+    "conclusion": "<p dir=\"ltr\">The New York General Business Law\u2019s prohibition of credit card surcharges regulates speech and therefore implicates the First Amendment, but it is not unconstitutionally vague under the Due Process Clause of the Fourteenth Amendment. Chief Justice John G. Roberts, Jr., delivered the opinion of the 8-0 majority. The Court held that the challenged law regulated speech, and not just conduct, because the law specifically regulates the manner in which businesses may communicate their prices to consumers. Because the U.S. Court of Appeals concluded that the law did not regulate speech, it did not determine whether the law violated the First Amendment, so the case was remanded for reconsideration in light of this decision. The Court also determined that the law was not unconstitutionally vague because the law clearly prohibits certain types of speech and specifically the speech these businesses wish to use. </p>\n<p>In his opinion concurring in the judgment, Justice Stephen G. Breyer wrote that virtually all government regulation affects speech. To determine what level of scrutiny to apply, courts generally consider the extent to which the challenged regulation affects a protected First Amendment interest. In this case, because the extent to which the New York law affects a protected First Amendment interest is unclear, Justice Breyer agreed with the majority that the case should be remanded. Justice Sonia Sotomayor wrote a separate opinion concurring in the judgment in which she argued that it was not clear exactly what the New York law prohibited, and that the case could not be properly resolved until the state courts authoritatively interpreted the law. Therefore, the appellate court should have either abstained from interpreting the law or certified the question to the highest state court. Justice Samuel A. Alito, Jr., joined in the opinion concurring in the judgment. </p>\n"
+}

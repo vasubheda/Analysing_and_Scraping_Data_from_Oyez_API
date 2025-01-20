@@ -1,0 +1,42 @@
+{
+    "ID": 63529,
+    "name": "Dubin v. United States",
+    "href": "https://api.oyez.org/cases/2022/22-10",
+    "view_count": 0,
+    "docket_number": "22-10",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1668060000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55186"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1677477600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55219"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1686200400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55290"
+        }
+    ],
+    "question": "<p>Does a person commit aggravated identity theft any time they mention or otherwise recite someone else\u2019s name while committing a predicate offense?</p>\n",
+    "citation": {
+        "volume": "599",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27920"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held that a person commits \u201caggravated identity theft,\u201d if he \u201cuses\u201d another person\u2019s means of identification \u201cin relation to\u201d a predicate offense when the use is at the crux of\u2014rather than merely peripheral to\u2014what makes the conduct criminal.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/599/22-10/",
+    "facts_of_the_case": "<p>William Joseph Dubin was a licensed psychologist in Texas and ran a psychology practice called \u201cPsychological A.R.T.S., P.C.\u201d (PARTS). His son, David Dubin, worked for PARTS in a business capacity. PARTS was an enrolled Medicaid provider, which means it is required to comply with Medicaid laws and regulations. Among other alleged violations, David Dubin used patients\u2019 Medicaid reimbursement numbers\u2014to obtain reimbursements for services PARTS did not provide those patients. This conduct formed the basis of a charge of identity theft under 18 U.S.C. \u00a7\u00a7 2 and 1028A, which requires a two-year sentence for \u201c[w]hoever ... knowingly transfers, possesses, or uses, without lawful authority, a means of identification of another person\" during the commission of an enumerated felony.\u201d William and David Dubin were convicted, and the U.S. Court of Appeals for the Fifth Circuit affirmed. The court granted rehearing en banc to consider the sufficiency of the evidence and affirmed the panel.</p>\n",
+    "conclusion": "<p>A person commits \u201caggravated identity theft,\u201d if he \u201cuses\u201d another person\u2019s means of identification \u201cin relation to\u201d a predicate offense when the use is at the crux of\u2014rather than merely peripheral to\u2014what makes the conduct criminal. Justice Sonia Sotomayor authored the majority opinion of the Court.</p>\n<p>The meaning of each of the two key phrases\u2014\u201duses\u201d and \u201cin relation to\u201d\u2014depends heavily on context. First, the very title of Section 1028A(a)(1), \u201cAggravated identity theft,\u201d suggests that identity theft is at the core of that provision, particularly in contrast to a neighboring provision with a much broader title and scope. The language of 1028A(a)(1) further supports this reading. The provision applies when a defendant \u201cknowingly transfers, possesses, or uses\u201d another\u2019s identification without lawful authority. From this context, it is clear that \u201cuses\u201d refers to conduct akin to theft, rather than its broader meaning of \u201cvirtually any function.\u201d Finally, the list of predicate offenses suggests that the means of identification is at the crux of the underlying criminality, not just a peripheral feature.</p>\n<p>Justice Neil Gorsuch authored an opinion concurring in the judgment in which he argues that the statute is too vague and the majority\u2019s opinion does little to clarify its meaning.</p>\n"
+}

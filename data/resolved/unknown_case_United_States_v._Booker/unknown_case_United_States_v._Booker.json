@@ -1,0 +1,35 @@
+{
+    "ID": 55229,
+    "name": "United States v. Booker",
+    "href": "https://api.oyez.org/cases/2004/04-104",
+    "view_count": 0,
+    "docket_number": "04-104",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1096866000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39254"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1105509600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39255"
+        }
+    ],
+    "question": "<p>1.) Does an enhanced sentence under U.S. Sentencing Guidelines based on the judge's determination of a fact violate the Sixth Amendment? 2.) If so, are the Sentencing Guidelines altogether unconstitutional?</p>\n",
+    "citation": {
+        "volume": "543",
+        "page": "220",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19157"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/543/220/",
+    "facts_of_the_case": "<p>In <em>Blakely v. Washington</em> (2004) the U.S. Supreme Court ruled the Sixth Amendment right to trial by jury required judges to use only facts proved to a jury to increase a sentence beyond the standard range.</p>\n<p>Following U.S. Sentencing Guidelines, a federal district court judge enhanced Freddie Booker's sentence based on facts the judge determined. Booker appealed and the Seventh Circuit Court of Appeals ruled the guidelines violated the Sixth Amendment where they required sentences to be based on facts found by a judge.</p>\n<p>In another case, U.S. Sentencing Guidelines allowed a judge to sentence Ducan Fanfan to 188-235 months in prison based on facts the judge determined. The judge decided Blakely v. Washington prevented him from enhancing the sentence and sentenced Fanfan to 78 months. The federal government appealed directly to the U.S. Supreme Court. The Court consolidated the Booker and Fanfan cases.</p>\n",
+    "conclusion": "<p>Yes and no. In a 5-4 opinion delivered by Justice John Paul Stevens, the Court held that the Sentencing Guidelines, where they allow judges to enhance sentences using facts not reviewed by juries, violated the Sixth Amendment right to trial by jury. The sentences of Booker and Fanfan, based partly on facts determined only by judges, were therefore unconstitutional. In a separate 5-4 opinion delivered by Justice Stephen Breyer, the Court said the guidelines would now be advisory and invalidated the provisions that made them mandatory.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55292,
+    "name": "Hill v. McDonough",
+    "href": "https://api.oyez.org/cases/2005/05-8794",
+    "view_count": 0,
+    "docket_number": "05-8794",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1145854800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39431"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1146027600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39432"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1150088400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39433"
+        }
+    ],
+    "question": "<p>Is a prisoner's challenge to a particular form of execution - but not to the execution sentence itself - the practical equivalent of a federal habeas corpus petition and therefore barred if the prisoner has already sought habeas review?</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "573",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20646"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>Clarence Hill was sentenced to death in Florida, which ordinarily uses a three-drug combination for executions. Hill claimed that this particular form of lethal injection was unnecessarily and gratuitously painful, and that it therefore violated the Eighth Amendment's prohibition on cruel and unusual punishment. However, Hill had previously filed for a federal writ of habeas corpus challenging his conviction, and the federal district court ruled that his new challenge was the practical equivalent of a second habeas corpus appeal. Successive habeas corpus appeals are not allowed under 28 U.S.C. 2244, and so the district court rejected Hill's petition. The Eleventh Circuit Court of Appeals affirmed the decision.</p>\n",
+    "conclusion": "<p>No. In a unanimous decision authored by Justice Anthony Kennedy, the Supreme Court held that challenging the form of execution was fundamentally different from challenging the lawfulness of a conviction or sentence, the traditional purposes of a habeas corpus appeal. This finding was supported by the fact that Hill conceded other forms of execution would be constitutional, and that Florida state law does not require the particular form of execution at issue in this case. \"Under these circumstances,\" Justice Kennedy wrote, \"a grant of injunctive relief could not be seen as barring the execution of Hill's sentence.\"</p>\n"
+}

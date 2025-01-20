@@ -1,0 +1,35 @@
+{
+    "ID": 62662,
+    "name": "James v. City of Boise",
+    "href": "https://api.oyez.org/cases/2015/15-493",
+    "view_count": 0,
+    "docket_number": "15-493",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1453701600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53408"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1453701600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53409"
+        }
+    ],
+    "question": "<p>Does the Supreme Court\u2019s decision in <em>Hughes v. Rowe</em> bind state courts, or does the U.S. Supreme Court lack the authority to limit the discretion of state courts where such limitation is not contained in the statute?</p>\n",
+    "citation": {
+        "volume": "577",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27410"
+    },
+    "term": "2015",
+    "description": "A case in which the Court held that the Idaho Supreme Court erred by concluding that the U.S. Supreme Court\u2019s decision in Hughes v. Rowe did not bind state courts.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/577/306/",
+    "facts_of_the_case": "<p>Melene James filed a complaint against City of Boise police officers after she was bitten by a police dog as the officers were responding to a call about a burglary in progress. The officers mistakenly thought James was a burglar. James brought claims of assault, battery, false arrest, wrongful imprisonment, and intentional infliction of emotional distress against the officers. The Idaho Tort Claims Act provides that a governmental entity is liable for negligent or wrongful acts of its employees if the acts were committed in the course and scope of their employment, but is not liable for intentional torts. The District Court of the Fourth Judicial District dismissed the claim because the officers had immunity for their intentional torts and James failed to show that they acted negligently. On appeal, the Idaho Supreme Court affirmed and awarded the defendants appellate attorney fees under the civil rights attorney fee statute. The court awarded these fees without determining that \u201cthe plaintiff\u2019s action was frivolous, unreasonable, or without foundation\u201d as required under the U.S. Supreme Court\u2019s decision in <em>Hughes v. Rowe</em>. The Idaho Supreme Court decided that <em>Hughes</em> did not apply because the U.S. Supreme Court did not have the authority to limit the discretion of state courts without a limit in the relevant statute.</p>\n",
+    "conclusion": "<p>In a per curiam opinion, the Supreme Court held that the Idaho Supreme Court erred by concluding that <em>Hughes v. Rowe</em> did not bind state courts due to the U.S. Supreme Court\u2019s inability \u201cto limit the discretion of state courts where such limitation is not contained in the statute.\u201d Instead, the U.S. Supreme Court held that the Idaho Supreme Court, like any other state or federal court, is bound by the U.S. Supreme Court\u2019s interpretation of federal law.</p>\n"
+}

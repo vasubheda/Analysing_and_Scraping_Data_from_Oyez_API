@@ -1,0 +1,42 @@
+{
+    "ID": 56100,
+    "name": "Heien v. North Carolina",
+    "href": "https://api.oyez.org/cases/2014/13-604",
+    "view_count": 0,
+    "docket_number": "13-604",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1398056400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41682"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1412571600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41683"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1418623200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41684"
+        }
+    ],
+    "question": "<p>Does a police officer's mistake of law provide the individualized reasonable suspicion that the Fourth Amendment requires to justify a traffic stop?</p>\n",
+    "citation": {
+        "volume": "574",
+        "page": "54",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20919"
+    },
+    "term": "2014",
+    "description": "A case in which the Court decided that search and seizures are acceptable if a police officer made a reasonable factual or legal mistake.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/574/54/",
+    "facts_of_the_case": "<p>On April 29, 2010, Sergeant Darisse of the Surry County Sheriff's Department observed Maynor Javier Vasquez driving north on I-77 with a broken brake light. When Darisse pulled over the vehicle, he noticed another man, Nicholas Heien, lying under a blanket in the backseat. Darisse spoke with the two men, felt that their stories did not match up, and was concerned that Heien had not gotten up from the back seat. Darisse asked for permission to search the vehicle. Heien agreed, and Darisse found a bag containing 54.2 grams of cocaine in the car.</p>\n<p>A grand jury indicted Heien for two counts of trafficking cocaine. Heien filed a motion to suppress the evidence discovered during the search of his vehicle, and the trial court denied the motion. The North Carolina Court of Appeals reversed the trial court and held that the traffic stop was not objectively reasonable because North Carolina law only required one working brake light. The North Carolina Supreme Court reversed and held that when an officer's mistake of the law is reasonable, it may give rise to the \"reasonable suspicion\" required for a traffic stop of a vehicle under the Fourth Amendment. That North Carolina Supreme Court sent the case back to the state Court of Appeals.</p>\n<p>The North Carolina Court of Appeals found no error in the trial court's judgment. A dissenting judge, however, stated that the North Carolina Supreme Court's ruling created \"fundamental unfairness\" because it held citizens to the traditional rule that \"ignorance of the law is no excuse\" while allowing police to be ignorant of the law. Based on this dissent, Heien again appealed to the North Carolina Supreme Court which rejected Heien's appeal.</p>\n",
+    "conclusion": "<p>Yes. Chief Justice John G. Roberts, Jr., delivered the opinion for the 8-1 majority. The Court held that a search or seizure is reasonable under the Fourth Amendment when an officer has made a reasonable factual or legal mistake. Because Fourth Amendment jurisprudence turns on the question of reasonableness, governing officials have traditionally been allowed leeway to enforce the law for the community's protection. As long as the mistake of fact or law in question was reasonable, the Fourth Amendment does not hold such mistakes to be incompatible with the concept of reasonable suspicion. However, the Court also held that those mistakes must be objectively reasonable; an officer cannot gain the benefits of Fourth Amendment reasonableness through a sloppy or incomplete knowledge of the law.</p>\n<p>In her concurring opinion, Justice Elena Kagan emphasized that the majority opinion's analysis was limited to when the mistake of law in question is an objectively reasonable one. Justice Kagan also wrote that the test to determine whether an officer made an objectively reasonable mistake is much more stringent than the one to determine whether a government official is entitled to qualified immunity. Justice Ruth Bader Ginsburg joined in the concurring opinion.</p>\n<p>Justice Sonia Sotomayor wrote a dissenting opinion in which she argued that Fourth Amendment jurisprudence has traditionally focused on the officer's factual conclusions rather than understanding of the law. Expanding leeway allowed to police officers with respect to their factual assessment to the meaning of the laws they are meant to enforce runs the risk of eroding the Fourth Amendment's protections. In the absence of any evidence that holding police officers to this standard would prevent effective enforcement of the law, mistakes of law should not be considered reasonable under the Fourth Amendment.</p>\n"
+}

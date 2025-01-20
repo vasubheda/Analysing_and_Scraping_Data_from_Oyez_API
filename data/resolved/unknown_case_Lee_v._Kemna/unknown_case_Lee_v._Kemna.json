@@ -1,0 +1,35 @@
+{
+    "ID": 55029,
+    "name": "Lee v. Kemna",
+    "href": "https://api.oyez.org/cases/2001/00-6933",
+    "view_count": 0,
+    "docket_number": "00-6933",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1004335200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38785"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1011679200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38786"
+        }
+    ],
+    "question": "<p>Is a defendant's imperfect compliance with Missouri court rules an adequate state ground to preclude the federal habeas corpus review of his claim that a Missouri trial judge's refusal to grant an overnight continuance violated due process?</p>\n",
+    "citation": {
+        "volume": "534",
+        "page": "362",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/18958"
+    },
+    "term": "2001",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/534/362/",
+    "facts_of_the_case": "<p>While on trial for first-degree murder, Remon Lee planned an alibi defense. His mother, stepfather, and sister were to voluntarily testify that he was in California at the time of the murder. The day the defense was to begin its case, the three could not be found. Lee's counsel moved for an overnight continuance to gain time to find the witnesses. The trial judge denied the motion. Subsequently, no alibi witnesses testified, the jury found Lee guilty, and he was sentenced to prison for life without possibility of parole. The Missouri Court of Appeals eventually disposed of the case on state procedural grounds. The appeals court held that the denial of the continuance motion was proper because Lee's counsel had failed to comply with Missouri Supreme Court Rule 24.09, which requires that such motions be in writing and accompanied by an affidavit, and with Rule 24.10, which sets out the showings a movant must make to gain a continuance grounded on witnesses' absence. Ultimately, the Federal Court of Appeals ruled that federal review of Lee's claim, that the refusal to grant his continuance motion deprived him of his federal due process right to a defense, was unavailable because the state court's rejection of that claim rested on state-law grounds, independent of the federal question and adequate to support the judgment.</p>\n",
+    "conclusion": "<p>No. In a 6-3 opinion delivered by Justice Ruth Bader Ginsburg, the Court held that the Missouri Rules, as injected into this case by the state appellate court, did not constitute a state ground adequate to bar federal habeas review. The Court reasoned that the dispositive issue was that the accused's asserted due process right to defend ought not to depend on a formal ritual that would further no perceivable state interest. \"Caught in the midst of a murder trial and unalerted to any procedural defect in his presentation, defense counsel could hardly be expected to divert his attention from the proceedings rapidly unfolding in the courtroom and train, instead, on preparation of a written motion and affidavit,\" wrote Justice Ginsburg. Justice Anthony M. Kennedy, joined by Justices Antonin Scalia and Clarence Thomas, dissented, arguing that the decision had committed the Court to a problematic course concerning the adequacy of state procedural grounds to bar subsequent federal review.</p>\n"
+}

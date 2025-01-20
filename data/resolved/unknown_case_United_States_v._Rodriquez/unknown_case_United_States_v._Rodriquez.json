@@ -1,0 +1,42 @@
+{
+    "ID": 55511,
+    "name": "United States v. Rodriquez",
+    "href": "https://api.oyez.org/cases/2007/06-1646",
+    "view_count": 0,
+    "docket_number": "06-1646",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1190696400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40022"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1200376800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40023"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1211173200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40024"
+        }
+    ],
+    "question": "<p>Does a crime qualify as \"serious\" for purposes of the federal career criminal law when the underlying offense is not considered grave, but carries a high prison sentence because it was not the first?</p>\n",
+    "citation": {
+        "volume": "553",
+        "page": "377",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20734"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/553/377/",
+    "facts_of_the_case": "<p>When Gino Rodriquez was released from prison on supervision, he promptly absconded and was later found with $900 cash, heroin and a gun. Prosecutors argued that Rodriquez was subject to the Armed Career Criminal Act, which applies to those convicted of being a felon in possession of a firearm if they have a total of three previous convictions for violent felonies or serious drug offenses. Rodriquez had two California burglary convictions. Prosecutors argued that the third required conviction was supplied by Rodriquez's Washington drug offenses. Although none of the three drug convictions, on their own, was considered \"serious,\" the second and third were repeat offenses and therefore punishable by ten-year sentences sufficient to qualify as serious under the federal career criminal law.</p>\n",
+    "conclusion": "<p>Yes. The Court held 6-3 that although the elements of a particular crime may not be considered \"serious,\" a defendant's prior record will have a considerable bearing on making the determination. A crime's seriousness may be greatly enhanced when its maximum sentence is increased due to the defendant's prior convictions for similar or related crimes.</p>\n"
+}

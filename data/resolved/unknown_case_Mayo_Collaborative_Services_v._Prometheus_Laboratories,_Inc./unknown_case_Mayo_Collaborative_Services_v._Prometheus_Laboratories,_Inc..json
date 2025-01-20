@@ -1,0 +1,42 @@
+{
+    "ID": 55881,
+    "name": "Mayo Collaborative Services v. Prometheus Laboratories, Inc.",
+    "href": "https://api.oyez.org/cases/2011/10-1150",
+    "view_count": 0,
+    "docket_number": "10-1150",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1308546000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41006"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1323237600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41007"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1332219600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41008"
+        }
+    ],
+    "question": "<p>Can certain types of diagnostic medical tests can be patented?</p>\n",
+    "citation": {
+        "volume": "566",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19803"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that certain diagnostic medical tests are unpatentable products of nature.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/566/66/",
+    "facts_of_the_case": "<p>Prometheus Laboratories Inc. patented steps of testing for proper dosages of drug treatments used to treat gastrointestinal diseases like Crohn's disease, and sued the Mayo Clinic when it attempted to use its own, similar test. A federal judge invalidated the patents, holding that the patent couldn't cover the body's reaction to drugs. The U.S. Court of Appeals for the Federal Circuit, which specializes in patent issues, overturned the lower court order.</p>\n",
+    "conclusion": "<p>No. In a 9-0 decision, Justice Stephen J. Breyer wrote a unanimous opinion reversing the lower court and holding that the processes involved in this test are unpatentable laws of nature. The success of a patent application cannot rely on the art of the drafter. The \"steps\" Promethus added to their application are merely instructions to apply the laws of nature. Past Supreme Court decisions also support the concern that allowing patents on laws of nature would unnecessarily inhibit further discovery.</p>\n"
+}

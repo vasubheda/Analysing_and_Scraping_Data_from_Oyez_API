@@ -1,0 +1,35 @@
+{
+    "ID": 54131,
+    "name": "Austin v. United States",
+    "href": "https://api.oyez.org/cases/1992/92-6073",
+    "view_count": 0,
+    "docket_number": "92-6073",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                735282000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37110"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                741243600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37111"
+        }
+    ],
+    "question": "<p>Does the Excessive Fines Clause of the Eighth Amendment apply to a statutory in rem forfeiture of property?</p>\n",
+    "citation": {
+        "volume": "509",
+        "page": "602",
+        "year": "1993",
+        "href": "https://api.oyez.org/case_citation/case_citation/18060"
+    },
+    "term": "1992",
+    "description": "A case in which the Court held that the Excessive Fines Clause of the Eighth Amendment applied to a statutory in rem forfeiture of property.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/509/602/",
+    "facts_of_the_case": "<p>Richard Lyle Austin was indicted on four counts of violating South Dakota\u2019s drug laws. He pleaded guilty to one count of possession cocaine with intent to distribute and was sentenced to seven years in jail. The United States then filed an in rem action, seeking forfeiture of Austin\u2019s mobile home and auto body shop under federal statutes that provide for forfeiture of property that is used or intended for use to facilitate the transportation of controlled substances, or related materials. Austin argued that forfeiture of his property would violate the Eighth Amendment\u2019s Excessive Fines Clause. The district court rejected Austin\u2019s argument and entered summary judgment in favor of the United States. The U.S. Court of Appeals for the Eighth Circuit affirmed, holding that the Eighth Amendment did not apply to civil in rem actions for forfeiture of property to the government.</p>\n",
+    "conclusion": "<p>Yes. Justice Harry A. Blackmun, writing for five members of the court, reversed the Eighth Circuit and remanded. The Supreme Court held that the Eighth Amendment did apply because the forfeiture was a punishment for an offense and did not only serve a remedial purpose. On remand, the Eighth Circuit should consider whether the forfeiture was constitutionally \u201cexcessive.\u201d</p>\n<p>Justice Antonin Scalia concurred in part and concurred in the judgment, writing that the proper question for determining whether the forfeiture is excessive is whether the property had a close enough relationship to the offense, rather than how much the property is worth. Justice Anthony M. Kennedy concurred in part and concurred in the judgment, writing that the majority should not have decided whether in rem forfeitures always amount to a punishment of the owner. Chief Justice William H. Rehnquist and Justice Clarence Thomas joined in Kennedy\u2019s opinion.</p>\n<p>\u00a0</p>\n"
+}

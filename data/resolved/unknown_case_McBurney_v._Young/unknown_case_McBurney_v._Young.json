@@ -1,0 +1,42 @@
+{
+    "ID": 55971,
+    "name": "McBurney v. Young",
+    "href": "https://api.oyez.org/cases/2012/12-17",
+    "view_count": 0,
+    "docket_number": "12-17",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1349413200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41270"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1361340000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41271"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1367211600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41272"
+        }
+    ],
+    "question": "<p>Under the Privileges and Immunities Clause of Article IV and the dormant Commerce Clause of the U. S. Constitution, may a state preclude citizens of other states from enjoying the same right of access to public records that the state affords its own citizens?</p>\n",
+    "citation": {
+        "volume": "569",
+        "page": "221",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19893"
+    },
+    "term": "2012",
+    "description": "A case in which the Court found that under the Privileges and Immunities clause and the Dormant Commerce clause, a state can deny access to its public records to citizens of another state. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/569/221/",
+    "facts_of_the_case": "<p>Mark McBurney is a citizen of Rohde Island and a former resident of Virginia where his son lives. When McBurney's wife defaulted on child support obligations, he asked the Virginia Division of Child Support Enforcement (VDCSE) to file a petition for child support on his behalf. After a nine-month delay, the petition was filed and granted. He then filed a Virginia Freedom of Information Act (VFOIA) request with the VDCSE for all records pertaining to his son and ex-wife. The VDCSE denied the request, arguing that the information was confidential and McBurney was not a citizen of the state. While McBurney eventually obtained most of needed the information through other sources, he never got all of the information from his VFOIA request.</p>\n<p>McBurney sued in district court arguing that denial of the VFOIA request violated the privileges and immunities clause and the dormant commerce clause of the Constitution. The district court ruled against McBurney. Mc Burney along with two others appealed their VFOIA denials to the U.S. Court of Appeals for the Fourth Circuit, which affirmed the district court. The Court of Appeals held that VFOIA did not hinder a non citizen's right to pursue buisness in the state and did not place a burden on interstate commerce.</p>\n",
+    "conclusion": "<p>Yes. Justice Samuel A. Alito delivered a unanimous opinion affirming the Fourth Circuit\u2019s judgment. The Court held that VFOIA does not violate the Privileges and Immunities Clause because VFOIA does not actually violate any fundamental privileges or immunities. Though the Petitioners argued that VFOIA interferes with their fundamental ability to earn a living, own property, and access Virginia courts, the Court rejected these arguments. The Court was also unconvinced that the right to access public information is a fundamental privilege or immunity because neither the Constitution nor the common law guarantees the existence of acts like VFOIA. The Court further held that VFOIA does not violate the dormant Commerce Clause because the law does not interfere with the natural functioning of the interstate market. Since VFOIA neither prohibits access to an interstate market nor imposes burdensome regulation on that market, there is no dormant Commerce Clause issue.</p>\n"
+}

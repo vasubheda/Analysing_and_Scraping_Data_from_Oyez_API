@@ -1,0 +1,42 @@
+{
+    "ID": 55169,
+    "name": "Muhammad v. Close",
+    "href": "https://api.oyez.org/cases/2003/02-9065",
+    "view_count": 0,
+    "docket_number": "02-9065",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1055739600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39088"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1070258400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39089"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1077688800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39090"
+        }
+    ],
+    "question": "<p>Does the U.S. Supreme Court's decision in Heck v. Humphrey (1994) require that prisoners who challenge prison disciplinary proceedings - but whose suits do not question their sentences' validity - first successfully challenge their sentences?</p>\n",
+    "citation": {
+        "volume": "540",
+        "page": "749",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19097"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/540/749/",
+    "facts_of_the_case": "<p>Prison officials sentenced Muhammad, a state prisoner, to seven days of special detention and 30 days of restricted privileges for insolence toward Close, a prison guard. Muhammad filed suit with a magistrate judge under section 1983 of the Civil Rights Act of 1871, seeking $10,000 in damages. Muhammad alleged Close had charged him with threatening behavior in retaliation for other proceedings against Close. Muhammad did not challenge his insolence conviction or punishment. The magistrate judge ruled that Muhammad lacked evidence proving Close acted in retaliation. The U.S. District Court agreed.</p>\n<p>The U.S. Court of Appeals affirmed the ruling for a different reason, citing the U.S. Supreme Court decision Heck v. Humphrey (1994). In Heck the Court held that when a prisoner seeks damages in a case that questions his sentence, the prisoner must first have successfully challenged the sentence itself or the conviction itself. The Court of Appeals held that because Muhammad's damages case questioned his sentence, he must first successfully appeal the sentence itself. Going further the Court of Appeals held that Heck applies to all challenges to prison disciplinary proceedings.</p>\n",
+    "conclusion": "<p>No. In a unanimous per curiam opinion, the Court ruled that prisoners - whose suits do not question their sentences - do not need to successfully challenge those sentences before challenging prison disciplinary proceedings. The Court rejected the argument that Heck necessarily requires successful sentence appeals before any challenges can be made to prison disciplinary proceedings. Muhammad's suit sought damages for prison disciplinary proceedings but in no way challenged his sentence.</p>\n"
+}

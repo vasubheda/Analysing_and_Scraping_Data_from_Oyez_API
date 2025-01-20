@@ -1,0 +1,35 @@
+{
+    "ID": 54534,
+    "name": "Blessing v. Freestone",
+    "href": "https://api.oyez.org/cases/1996/95-1441",
+    "view_count": 0,
+    "docket_number": "95-1441",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                852530400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37861"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                861598800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37862"
+        }
+    ],
+    "question": "<p>Can parents sue states under Title IV-D of the Social Security Act to force overall compliance with federal efforts under Title IV-D to collect child-support payments from ex-spouses?</p>\n",
+    "citation": {
+        "volume": "520",
+        "page": "329",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18463"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/520/329/",
+    "facts_of_the_case": "<p>Cathy Freestone and four other Arizona mothers, whose children are eligible for state child support services under Title IV-D of the Social Security Act, filed suit against Linda J. Blessing, the director of the state child support agency, claiming that they properly applied for child support services; that, despite their good faith efforts to cooperate, the agency never took adequate steps to obtain child support payments for them; that these omissions were largely attributable to staff shortages and other structural defects in the State's program; and that these systemic failures violated their individual rights under Title IV-D to have all mandated services delivered in substantial compliance with the title and its implementing regulations. Freestone sought relief including a declaratory judgment that the Arizona program's operation violates Title IV-D provisions creating rights in them that are enforceable and an injunction requiring the director to achieve substantial compliance with Title IV-D throughout all programmatic operations. The District Court granted summary judgment for Blessing. In reversing, the Court of Appeals held that Freestone had an enforceable individual right to have the State achieve \"substantial compliance\" with Title IV-D. Additionally, the Court of Appeals disagreed with the District Court that that Congress had foreclosed private Title IV-D enforcement actions by authorizing the Secretary of Health and Human Services to audit and cut off funds to States whose programs do not substantially comply with Title IV-D's requirements.</p>\n",
+    "conclusion": "<p>No. In an opinion authored by Justice Sandra Day O'Connor, the Court ruled that Title IV-D of the Social Security Act does not give individuals a federal right to force a state agency to substantially comply with Title IV-D. Justice O'Connor wrote for the court that parents cannot sue merely because a state fails to be in \"substantial compliance\" with federal collection standards.</p>\n"
+}

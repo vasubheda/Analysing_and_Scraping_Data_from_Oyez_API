@@ -1,0 +1,35 @@
+{
+    "ID": 54336,
+    "name": "City of Edmonds v. Oxford House, Inc.",
+    "href": "https://api.oyez.org/cases/1994/94-23",
+    "view_count": 0,
+    "docket_number": "94-23",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                794037600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37492"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                800514000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37493"
+        }
+    ],
+    "question": "<p>Does the City of Edmonds' zoning code provision covering areas zoned for single-family dwelling units -- which defines family as persons related by genetics, adoption, or marriage, or a group of five or fewer unrelated persons -- qualify for exemption from the Fair Housing Act?</p>\n",
+    "citation": {
+        "volume": "514",
+        "page": "725",
+        "year": "1995",
+        "href": "https://api.oyez.org/case_citation/case_citation/18265"
+    },
+    "term": "1994",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/514/725/",
+    "facts_of_the_case": "<p>In Washington State, the City of Edmonds' zoning code provides that the occupants of single-family dwelling units must compose a family, defined as \"persons related by genetics, adoption, or marriage, or a group of five or fewer [unrelated] persons.\" Under the code, Oxford House, which operates a group home for 10-12 adults recovering from alcoholism and drug addiction in a neighborhood zoned for single-family residences, was issued a citation. Oxford House asserted that under the Fair Housing Act (FHA), which prohibits discrimination in housing against persons with handicaps, the city had failed to make reasonable accommodations permitting the maintenance of the group home in a single-family zone. Edmonds sought a declaration that the FHA did not apply to the city's zoning code. The District Court held that the city's zoning code rule defining family was exempt from the FHA under as a reasonable restriction regarding the maximum number of occupants permitted to occupy a dwelling. The Court of Appeals reversed.</p>\n",
+    "conclusion": "<p>No. In a 6-3 opinion delivered by Justice Ruth Bader Ginsburg, the Court held that Edmonds' zoning code definition of the term \"family\" is not a maximum occupancy restriction exempt from the FHA. Noting that it was designed to foster the family character of a neighborhood, Justice Ginsburg reasoned that the provision was a family composition rule and was not a maximum occupancy restriction exempt from FHA scrutiny because, while it capped the number of unrelated persons allowed to occupy a single-family dwelling at five, it did not cap the total number of people permitted to live in such a dwelling. Justice Clarence Thomas wrote a dissenting opinion, which was joined by Justices Antonin Scalia and Anthony M. Kennedy.</p>\n"
+}

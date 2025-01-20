@@ -1,0 +1,35 @@
+{
+    "ID": 62267,
+    "name": "Martinez v. Illinois",
+    "href": "https://api.oyez.org/cases/2013/13-5967",
+    "view_count": 0,
+    "docket_number": "13-5967",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1401166800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52636"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1401166800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52637"
+        }
+    ],
+    "question": "<p>Does jeopardy attach when the jury is empaneled and sworn if the State does not participate in the trial?</p>\n",
+    "citation": {
+        "volume": "572",
+        "page": "833",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/27063"
+    },
+    "term": "2013",
+    "description": "A case in which the Court found that jeopardy comes into effect in a trial when the jury is sworn in, regardless if one party fails to participate.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/572/833/",
+    "facts_of_the_case": "<p>Esteban Martinez was indicted in August 2006 for aggravated battery and mob action against Avery Binion and Demarco Scott. Following several continuances due to the State's inability to locate Binion and Scott beginning in July 2009, trial was ultimately set for May 2010. At trial, the State informed the judge that Binion and Scott were still not present and asked for another continuance. The judge initially gave the State some additional time while the jury was selected but eventually denied the motion for continuance. The judge then swore in the jury and started the proceedings. The State did not participate in the case or present any evidence. Martinez moved for directed findings of not guilty on both counts, which the judge granted.</p>\n<p>The State appealed to the Illinois Appellate Court and argued that the trial court should have granted its motion for continuance. Martinez argued that the State's appeal was improper under the Double Jeopardy Clause because the trial court had found him not guilty. The Appellate Court reversed and held that the action was appealable because no witnesses were sworn and no evidence was presented, and thus jeopardy had not attached. The Supreme Court of Illinois granted review and affirmed, though it noted that jeopardy generally attaches when a jury is sworn. The Supreme Court of Illinois held that the relevant question is whether a defendant \"was subjected to the hazards of trial and possible conviction\" and that by this standard Martinez was never at risk of conviction.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion, the Supreme Court held that jeopardy attaches when the jury is empaneled and sworn. The Court indicated that the form of the judge's action, whether termed a dismissal or otherwise, does not matter so long as it actually represents a resolution of some or all of the factual elements of the offense. Therefore, an acquittal covers any ruling that the State's proof is insufficient to establish criminal liability. The Court noted that jeopardy would not have attached had the State moved to dismiss before the jury was sworn in.</p>\n"
+}

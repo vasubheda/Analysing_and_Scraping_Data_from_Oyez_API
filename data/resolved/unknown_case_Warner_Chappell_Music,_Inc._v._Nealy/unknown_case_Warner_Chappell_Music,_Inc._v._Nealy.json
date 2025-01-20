@@ -1,0 +1,42 @@
+{
+    "ID": 63603,
+    "name": "Warner Chappell Music, Inc. v. Nealy",
+    "href": "https://api.oyez.org/cases/2023/22-1078",
+    "view_count": 0,
+    "docket_number": "22-1078",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1695963600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55331"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1708495200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55404"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1715230800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55458"
+        }
+    ],
+    "question": "<p>Under the discovery accrual rule applied by the circuit courts and the Copyright Act\u2019s statute of limitations for civil actions, 17 U.S.C. \u00a7 507(b), may a copyright plaintiff recover damages for acts that allegedly occurred more than three years before the filing of a lawsuit?</p>\n",
+    "citation": {
+        "volume": "601",
+        "page": null,
+        "year": "2024",
+        "href": "https://api.oyez.org/case_citation/case_citation/27973"
+    },
+    "term": "2023",
+    "description": "A case in which the Court held that the Copyright Act entitles a copyright owner to obtain monetary relief for any timely infringement claim, no matter when the infringement occurred.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/601/22-1078/",
+    "facts_of_the_case": "<p>In the early 1980s, Sherman Nealy and Tony Butler formed Music Specialist, Inc. (MSI), a Florida corporation involved in the music industry. Nealy, a newcomer to the sector, financed the operation while Butler, an experienced disc jockey, authored or co-authored the musical works at the heart of the case. MSI released an album and several singles from 1983 to 1986 before dissolving as a corporation, although its business activities continued until 1989. During Nealy\u2019s subsequent incarceration for drug offenses, Butler formed a new company, 321 Music, LLC, and began licensing rights to MSI\u2019s musical works. This included an agreement in 2008 with Atlantic to interpolate one of MSI\u2019s works into a song by artist Flo Rida.</p>\n<p>Upon his release, Nealy discovered third-party usage of MSI\u2019s catalog but took no decisive action. He was unaware of ensuing litigation over the works among various entities including Warner Chappell Music, Inc., Artist Publishing Group, LLC, Atlantic Recording Corporation, and Butler's 321 Music. It wasn't until post-release from a second prison term that he learned of the prior litigation and alleged unauthorized transfers of rights. Finally, in December 2018, Nealy and MSI filed a lawsuit alleging copyright infringement by Atlantic, Artist, and Warner for activities dating back to 2008. Following a pre-trial stipulation framing the case as an \u201cownership dispute,\u201d the defendants moved for summary judgment, which the district court granted in part and denied in part. On an interlocutory appeal, the U.S. Court of Appeals for the Eleventh Circuit held that when a copyright plaintiff has a timely claim under the discovery accrual rule for infringement that occurred more than three years before the lawsuit was filed, the plaintiff may recover damages for that infringement.</p>\n",
+    "conclusion": "<p>The Copyright Act entitles a copyright owner to obtain monetary relief for any timely infringement claim, no matter when the infringement occurred. Justice Elena Kagan authored the 6-3 majority opinion of the Court.</p>\n<p>The Copyright Act\u2019s statute of limitations provision establishes a three-year period for filing a copyright infringement suit, which begins to run when the claim accrues. This case assumes that a copyright claim accrues upon discovery of the infringement (the \u201cdiscovery rule\u201d), rather than when the infringement occurred, although the Court has not definitively resolved which rule applies. If a plaintiff has a timely claim under the discovery rule, the Act\u2019s remedial provisions do not impose any separate time limit on the recovery of damages. Those provisions state, without qualification, that an infringer is liable for either statutory damages or the owner\u2019s actual damages and the infringer\u2019s profits.</p>\n<p>The Second Circuit\u2019s view, relying on language from the Court\u2019s decision in Petrella v. MGM, that damages are limited to the three years prior to filing suit, even if earlier infringements are timely under the discovery rule, lacks textual support and effectively nullifies the discovery rule. The Court\u2019s decision in Petrella does not support such a damages cap, as the Court merely described how the limitations provision works when a plaintiff, as in that case, has no timely claims for infringing acts more than three years old. In contrast, if a plaintiff like Nealy in this case has timely claims for earlier infringements under the discovery rule, he may obtain damages for those infringements, as the Copyright Act contains no separate time-based limit on monetary recovery.</p>\n<p>Justice Neil Gorsuch authored a dissenting opinion, in which Justices Clarence Thomas and Samuel Alito joined, arguing that the discovery rule of accrual, which the majority assumes without deciding in this case, is decidedly incorrect, and thus that any decision that relies on that rule is likely to soon become a \u201cdead letter.\u201d</p>\n"
+}

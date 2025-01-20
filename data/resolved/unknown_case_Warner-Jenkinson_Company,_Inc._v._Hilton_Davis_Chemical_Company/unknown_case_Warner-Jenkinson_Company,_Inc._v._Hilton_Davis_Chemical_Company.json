@@ -1,0 +1,35 @@
+{
+    "ID": 54550,
+    "name": "Warner-Jenkinson Company, Inc. v. Hilton Davis Chemical Company",
+    "href": "https://api.oyez.org/cases/1996/95-728",
+    "view_count": 0,
+    "docket_number": "95-728",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                845355600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37891"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                857368800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37892"
+        }
+    ],
+    "question": "<p>Is the \"doctrine of equivalents\" a legitimate test for determining how similar a new invention must be to an existing patent to be deemed an illegal infringement?</p>\n",
+    "citation": {
+        "volume": "520",
+        "page": "17",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18479"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/520/17/",
+    "facts_of_the_case": "<p>Warner Jenkinson Co. and Hilton Davis Chemical Co. both manufacture dyes from which impurities must be removed. Davis's \"'746 patent,\" which was issued in 1985, discloses an improved purification process involving the \"ultrafiltration\" of dye through a porous membrane at pH levels between 6.0 and 9.0. In 1986, Jenkinson developed its own ultrafiltration process, which operated at a pH level of 5.0. Davis sued for infringement of the '746 patent. Davis's suit relied solely on the \"doctrine of equivalents,\" under which a product or process that does not literally infringe upon the express terms of a patent claim may nonetheless be found to infringe if there is an \"equivalence\" between the elements of the accused product or process and the claimed elements of the patented invention. Jenkinson argued that the Patent Act of 1952 had supplanted the doctrine. Ultimately, the District Court entered a permanent injunction against Jenkinson after a jury had found that Jenkinson had infringed upon the '746 patent. The en banc Court of Appeals held that the doctrine of equivalents continues to exist and that the jury had substantial evidence from which to conclude that petitioner's process was not substantially different from the process disclosed in the '746 patent.</p>\n",
+    "conclusion": "<p>Yes. In a decision authored by Justice Clarence Thomas, the Court ruled that it adheres to the \"doctrine of equivalents,\" which is not superseded by the Patent Act of 1952. However, the Court held that the Court of Appeals had not considered all of the requirements of the doctrine of equivalents as described by the Court in this case on which the case was reversed and remanded.</p>\n"
+}

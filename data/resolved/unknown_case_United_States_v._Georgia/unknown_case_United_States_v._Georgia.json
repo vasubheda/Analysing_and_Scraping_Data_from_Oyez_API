@@ -1,0 +1,42 @@
+{
+    "ID": 55366,
+    "name": "United States v. Georgia",
+    "href": "https://api.oyez.org/cases/2005/04-1203",
+    "view_count": 0,
+    "docket_number": "04-1203",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1116219600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39631"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1131516000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39632"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1136872800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39633"
+        }
+    ],
+    "question": "<p>Did Title II of the Americans with Disabilities Act of 1990 validly abrogate state sovereign immunity for suits by prisoners with disabilities challenging discrimination by state prisons? Was Title II a proper exercise of Congress's power under Section 5 of the Fourteenth Amendment, as applied to the administration of prison systems?</p>\n",
+    "citation": {
+        "volume": "546",
+        "page": "151",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20582"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/546/151/",
+    "facts_of_the_case": "<p>Goodman, a paraplegic held in a Georgia state prison, sued Georgia in federal court for maintaining prison conditions that allegedly discriminated against disabled people and violated Title II of the Americans with Disabilities Act (ADA). Georgia claimed the 11th Amendment provided the state immunity from such suits. The district court ruled for Georgia, but the 11th Circuit reversed.</p>\n<p>Before the 11th Circuit ruled in the case, the United States sued Georgia, arguing that the ADA's Title II abolished state sovereign immunity from monetary suits. Congress could do this, the U.S. argued, by exercising its 14th Amendment power to enforce equal protection.</p>\n",
+    "conclusion": "<p>Yes and yes. In a unanimous decision authored by Justice Antonin Scalia, the Court ruled that Title II abrogates sovereign immunity in cases where violations of the 8th Amendment are alleged. The 14th Amendment incorporates the 8th Amendment (that is, applies it to the states). Congress can enforce the 14th Amendment against the states \"by creating private remedies against the States for actual violations\" of its provisions, which can involve abrogating state sovereign immunity. However, the Court did not address the question of whether Title II validly abrogates sovereign immunity when the 8th Amendment is <em>not</em> involved.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 54746,
+    "name": "Department of the Army v. Blue Fox, Inc.",
+    "href": "https://api.oyez.org/cases/1998/97-1642",
+    "view_count": 0,
+    "docket_number": "97-1642",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                912492000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38251"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                916812000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38252"
+        }
+    ],
+    "question": "<p>Can subcontractors on federal projects force the government to pay when prime contractors fail to do so?</p>\n",
+    "citation": {
+        "volume": "525",
+        "page": "255",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18675"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/525/255/",
+    "facts_of_the_case": "<p>Verdan Technology, Inc.,, a prime contractor, failed to pay Blue Fox Inc., a subcontractor, for work completed on a construction project for the Department of the Army. Under the Miller Act, a contractor working on any public building or public work of the US must post a bond for possible defaults. However, the Army treated the work agreement as a \"services contract,\" and removed Verdan's bond requirements. When Verdan failed to pay Blue Fox, it directly sued the Army. Blue Fox sought an \"equitable lien\" on any funds from the Verdan contract not paid to Verdan, or any funds available or appropriated for the completion of the project, and an order directing payment of those funds to it. The District Court concluded that it lacked jurisdiction over the matter, and thus ruled in favor of the Army because the waiver of sovereign immunity in the Administrative Procedure Act (APA) did not apply to Blue Fox's claim. The Court of Appeals held that the APA waives immunity for equitable actions, thus allowing Blue Fox's equitable lien.</p>\n",
+    "conclusion": "<p>No. In a unanimous decision, announced by Chief Justice William H. Rehnquist, the Court ruled that \"unless waived by Congress, sovereign immunity bars subcontractors and other creditors from enforcing liens on government property or funds to recoup their losses.\" The APA prohibits people and companies with grievances from suing the government for monetary damages. Blue Fox's lien was ruled \"merely a means to the end of satisfying a claim for the recovery of money.\"</p>\n"
+}

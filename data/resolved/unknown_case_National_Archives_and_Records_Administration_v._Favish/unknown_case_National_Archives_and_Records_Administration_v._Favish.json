@@ -1,0 +1,42 @@
+{
+    "ID": 55181,
+    "name": "National Archives and Records Administration v. Favish",
+    "href": "https://api.oyez.org/cases/2003/02-954",
+    "view_count": 0,
+    "docket_number": "02-954",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1052110800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39122"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1070431200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39123"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1080626400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39124"
+        }
+    ],
+    "question": "<p>Do family members of a man who apparently committed suicide have a privacy right that justifies the government's withholding autopsy photos from a request for information under the Freedom of Information Act?</p>\n",
+    "citation": {
+        "volume": "541",
+        "page": "157",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19109"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/541/157/",
+    "facts_of_the_case": "<p>Vincent Foster, a high-ranking White House lawyer involved in the investigation of possible fraud by the Clinton family in the Whitewater real estate venture, was found dead in a Virginia park. Two government investigations subsequently found that the death had been a suicide. Allan Favish questioned the findings of the government investigations, claiming that they were part of a government cover-up of murder. Under the Freedom of Information Act, Favish requested access to 150 photos of Foster's body in the park and during the autopsy. He later reduced his request to 129 photos.</p>\n<p>The government initially denied him access to all the photos, but eventually gave him access to 118 of them. It withheld the rest, arguing that the privacy interest of Foster's family members in relation to Foster's death trumped the public interest served by providing Favish access to the photos. The government stated that the photos were very graphic and that releasing them would upset the family. Favish countered by arguing that the family did not have a relevant privacy interest; the only person whose privacy interests would be violated by the release of the photos was Foster, Favish argued, and Foster's death had rendered him incapable of exercising that interest.</p>\n<p>After a series of appeals in which a Ninth Circuit panel held that the Foster family's right to privacy was relevant to the case but that the district court must look at the specific photos in order to weigh the privacy rights against Favish's right to access government information, the Ninth Circuit eventually decided that Favish should be given access to all but four of the photos. The government, joined by the Foster family, appealed the decision to the Supreme Court.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion delivered by Justice Anthony Kennedy, the Court held that the Foster family's interest in privacy outweighed the public interest in seeing pictures from Vincent Foster's death scene. The public interest could only trump privacy interests if Favish could present evidence that the government might have acted improperly. Favish failed to do so. The Court acknowledged that citizens seeking access to documents under the Freedom of Information Act normally need not explain why they seek the information. The act, however, exempts from disclosure records that would present an unwarranted invasion of privacy. In ruling that the act protected the privacy of the Foster family, the Court rejected Favish's argument that the act only protected Vincent Foster's privacy (an interest that Favish argued died with Foster).</p>\n"
+}

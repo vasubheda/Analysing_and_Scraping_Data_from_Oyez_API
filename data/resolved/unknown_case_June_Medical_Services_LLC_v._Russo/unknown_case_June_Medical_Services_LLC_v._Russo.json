@@ -1,0 +1,42 @@
+{
+    "ID": 63163,
+    "name": "June Medical Services LLC v. Russo",
+    "href": "https://api.oyez.org/cases/2019/18-1323",
+    "view_count": 0,
+    "docket_number": "18-1323",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1570165200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54577"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1583301600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54677"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1593406800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54736"
+        }
+    ],
+    "question": "<p>Does the decision by the U.S. Court of Appeals for the Fifth Circuit, below, upholding Louisiana\u2019s law requiring physicians who perform abortions to have admitting privileges at a local hospital conflict with the Court\u2019s binding precedent in <em>Whole Woman\u2019s Health v. Hellerstedt</em>?</p>\n",
+    "citation": {
+        "volume": "591",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27710"
+    },
+    "term": "2019",
+    "description": "A case in which the Court reversed a decision by the U.S. Court of Appeals for the Fifth Circuit upholding Louisiana\u2019s law requiring physicians who perform abortions to have admitting privileges at a local hospital because it conflicted with the Court\u2019s binding precedent in Whole Woman\u2019s Health v. Hellerstedt.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/591/18-1323/",
+    "facts_of_the_case": "<p>In June 2014, Louisiana passed Act 620, which required \u201cthat every physician who performs or induces an abortion shall \u2018have active admitting privileges at a hospital that is located not further than thirty miles from the location at which the abortion is performed or induced.\u2019\u201d</p>\n<p>Several abortion clinics and doctors challenged Act 620, and while that challenge was pending in the district court, the U.S. Supreme Court struck down a \u201cnearly identical\u201d Texas law in <a href=\"https://www.oyez.org/cases/2015/15-274\"><em>Whole Women\u2019s Health v. Hellerstedt</em> (<em>WWH</em>)</a>, finding that the Texas law imposed an \u201cundue burden\u201d on a woman\u2019s right to have an abortion while bringing about no \u201chealth-related benefit\u201d and serving no \u201crelevant credentialing function.\u201d The district court hearing the challenge to Act 620 accordingly declared Act 620 facially invalid and permanently enjoined its enforcement.</p>\n<p>The district court made detailed findings of fact and determined that \u201cadmitting privileges also do not serve \u2018any relevant credentialing function,\u2019\u201d and that \u201cphysicians are sometimes denied privileges \u2026 for reasons unrelated to [medical] competency.\u201d The district court further determined that the law would \u201cdrastically burden women\u2019s right to choose abortions.\u201d</p>\n<p>A panel of the U.S. Court of Appeals for the Fifth Circuit the panel majority reviewed the evidence de novo and concluded that the district court erred by overlooking \u201cremarkabl[e] differen[ces]\u201d between the facts in this case and in <em>WWH</em>. The panel concluded that \u201cno clinics will likely be forced to close on account of the Act,\u201d and thus, the law would not impose an undue burden on women\u2019s right to choose abortions. A divided Fifth Circuit denied the petition for a rehearing en banc.</p>\n",
+    "conclusion": "<p>The Fifth Circuit\u2019s judgment, upholding a Louisiana law that requires abortion providers to hold admitting privileges at local hospitals, is reversed. Justice Stephen Breyer authored the plurality opinion on behalf of himself and Justices Ruth Bader Ginsburg, Sonia Sotomayor, and Elena Kagan.</p>\n<p>As a threshold matter, the plurality noted that the State had waived its argument that the plaintiffs did not have standing to challenge the law by conceding the standing issue \u201cas part of its effort to obtain a quick decision from the District Court on the merits of the plaintiffs\u2019 undue-burden claims.\u201d However, even if it had not, \u201ca long line of well-established precedents\u201d support the conclusion that plaintiffs may assert rights on behalf of third parties when \u201cenforcement of the\u00a0challenged restriction against the litigant would result indirectly in the violation of third parties\u2019 rights.\u201d</p>\n<p>Turning to the merits, the plurality first reiterated the law established in <em>Planned Parenthood of Southeastern Pa. v. Casey</em>, 505 U.S. 833 (1992) and <em>Whole Woman\u2019s Health v. Hellerstedt</em>,\u00a0579 U.S. ___ (2016)\u2014that courts must conduct an independent review of the legislative findings given in support of an abortion-related statute and weigh the law\u2019s \u201casserted benefits against the burdens\u201d it imposes on abortion access. The plurality found that the district court faithfully applied this standard. The Fifth Circuit disagreed with the lower court, not as to the legal standard, but as to the factual findings. However, an appeals court may not set aside findings of fact unless they are \u201cclearly erroneous,\u201d which they were not in this case. Rather, the district court\u2019s findings had \u201cample evidentiary support\u201d both as to burdens and as to benefits, so its legal conclusion that the Louisiana law was unconstitutional was proper.</p>\n<p>Chief Justice John Robert concurred in the judgment, reasoning that the plaintiffs had standing and that because the Louisiana law was nearly identical to the Texas law at issue in <em>Whole Woman\u2019s Health</em>, it imposed a burden on access to abortion just as severe as that imposed by the Texas law the Court struck down in that case. Under the principle of stare decisis, that like cases should be treated alike, the Chief Justice concurred in the judgment striking down the Louisiana law. In so concluding, however, he noted, that he disagreed with the decision in <em>Whole Woman\u2019s Health</em> at the time and continued to disagree with it.</p>\n<p>Justice Clarence Thomas dissented, arguing both that the plaintiffs lacked standing and that the Court lacks the authority to declare Louisiana\u2019s \u201cduly enacted law\u201d unconstitutional. Justice Thomas criticized the Court\u2019s abortion precedents as \u201ccreat[ing] the right to abortion out of whole cloth.\u201d</p>\n<p>Justice Samuel Alito filed a dissenting opinion, in which Justices Neil Gorsuch, Clarence Thomas, and Brett Kavanaugh joined in part. Justice Alito argued that the majority \u201cmisuses the doctrine of stare decisis, invokes an inapplicable standard of appellate review, and distorts the record.\u201d Specifically, Justice Alito criticized the plurality for abandoning the constitutional test in Casey for a new balancing test established in <em>Whole Woman\u2019s Health</em>, a test the Chief Justice purported to reject.</p>\n<p>Justice Gorsuch filed a dissenting opinion arguing that in deciding the case and striking down the law, the Court exceeded its authority.</p>\n<p>Justice Kavanaugh filed a dissenting opinion and pointed out that a 5-4 majority of the Court (himself included) rejected the balancing test of Whole Woman\u2019s Health, while a different 5-4 majority concluded that the Louisiana law must be struck down. In Justice Kavanaugh\u2019s view, the record is not adequately developed to properly evaluate the Louisiana law. As such, he agreed with Justice Alito that the case should be remanded for additional factfinding.</p>\n"
+}

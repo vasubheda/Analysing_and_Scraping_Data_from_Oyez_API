@@ -1,0 +1,35 @@
+{
+    "ID": 54526,
+    "name": "General Motors Corporation v. Tracy",
+    "href": "https://api.oyez.org/cases/1996/95-1232",
+    "view_count": 0,
+    "docket_number": "95-1232",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                844664400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37845"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                856245600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37846"
+        }
+    ],
+    "question": "<p>Does the State of Ohio's different tax treatment of sales of gas by domestic utilities subject to regulation and sales of gas by other entities violate the Commerce Clause or Equal Protection Clause?</p>\n",
+    "citation": {
+        "volume": "519",
+        "page": "278",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18455"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/519/278/",
+    "facts_of_the_case": "<p>The State of Ohio imposes general sales and use taxes on natural gas purchases from all sellers, whether in-state or out-of-state, that do not meet its statutory definition of a \"natural gas company.\" Ohio's state-regulated natural gas utilities, known as local distribution companies or LDC's, satisfy the definition. Other producers and independent marketers, according to the State Supreme Court, generally do not. During the period in question, General Motors Corporation (GMC) bought virtually all the gas for its plants from out-of-state independent marketers, rather than from LDC's, making it subject to the Ohio tax. In front of the State Supreme Court, GMC argued that denying a tax exemption to sales by marketers but not LDC's violates the Commerce and Equal Protection Clauses. After an initial conclusion, the court held that GMC lacked standing to bring a Commerce Clause challenge. The court then dismissed the equal protection claim as buried in GMC's Commerce Clause argument.</p>\n",
+    "conclusion": "<p>No. In an 8-1 opinion delivered by Justice David H. Souter, the Court held that Ohio's differential tax treatment of natural gas sales by public utilities and independent marketers violated neither the Commerce Clause nor the Equal Protection Clause. After concluding that GMC had standing to raise a Commerce Clause challenge, Justice Souter wrote for the Court, \"we conclude that Ohio's regulatory response to the needs of the local natural gas market has resulted in a noncompetitive bundled gas product that distinguishes its regulated sellers from independent marketers to the point that the enterprises should not be considered 'similarly situated' for purposes of a claim of facial discrimination under the Commerce Clause. GMC's argument that the State discriminates between regulated local gas utilities and unregulated marketers must therefore fail.\" Justice John Paul Stevens dissented.</p>\n"
+}

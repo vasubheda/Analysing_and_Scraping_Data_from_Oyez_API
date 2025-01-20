@@ -1,0 +1,42 @@
+{
+    "ID": 55581,
+    "name": "United States v. Hayes",
+    "href": "https://api.oyez.org/cases/2008/07-608",
+    "view_count": 0,
+    "docket_number": "07-608",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1206334800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40217"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1226296800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40218"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1235455200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40219"
+        }
+    ],
+    "question": "<p>Under the Gun Control Act of 1968, does a conviction for misdemeanor battery constitute a \"misdemeanor crime of domestic violence\" when the victim was the offender's wife and the predicate offense statute did not designate a \"domestic relationship\" between aggressor and victim as an element of the crime?</p>\n",
+    "citation": {
+        "volume": "555",
+        "page": "",
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20813"
+    },
+    "term": "2008",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>Under West Virginia law, it is unlawful for any person who has been convicted of a misdemeanor crime of domestic violence to possess a firearm. In 1994, Randy Hayes pled guilty in West Virginia to a misdemeanor battery offense after striking his wife. Ten years later, in 2004, police responded to a domestic violence call at Hayes' home. While conducting a search of the premises the police uncovered a Winchester rifle. They arrested Hayes for possessing a firearm after being convicted of a misdemeanor crime of domestic violence based on the 1994 plea. Hayes argued that his prior conviction for misdemeanor battery did not constitute a conviction for a misdemeanor crime of violence under the statute. The U.S. District Court for the Northern District of West Virginia rejected this argument and Hayes entered a conditional guilty plea to reserve his claim for appeal.</p>\n<p>Hayes' strategy was a success, as the U.S. Court of Appeals for the Fourth Circuit reversed the district court. The court held that conviction of a misdemeanor battery does not qualify as a crime of domestic violence, noting that the legislative intent and plain meaning of the statute indicated that the original offense must involve a \"domestic\" relationship between the victim and offender. Finding this requirement unfulfilled in the case, the Fourth Circuit reversed Hayes' conviction.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court reversed the Fourth Circuit holding that the predicate offense statute need not include the existence of a \"domestic relationship\" as an element of the crime in order to qualify as a \"misdemeanor crime of domestic violence\" as specified by the Gun Control Act of 1968. With Justice Ruth Bader Ginsburg writing for the majority and joined by Justice John Paul Stevens, Justice Anthony M. Kennedy, Justice David H. Souter, Justice Stephen G. Breyer, and Justice Samuel A. Alito, and joined in part by Justice Clarence Thomas, the Court reasoned that the language of the Gun Control Act suggested that the predicate offense statute need only include \"the use of force\" as an element of the crime and need not include a \"domestic relationship\" as an additional element.</p>\n<p>Chief Justice John G. Roberts dissented and was joined by Justice Antonin G. Scalia. He criticized the majority opinion's use of grammatical rules by which it reached an unsound conclusion. He argued that the rule of lenity should apply as the Gun Control Act was ambiguous and therefore should be interpreted in the defendant's favor.</p>\n"
+}

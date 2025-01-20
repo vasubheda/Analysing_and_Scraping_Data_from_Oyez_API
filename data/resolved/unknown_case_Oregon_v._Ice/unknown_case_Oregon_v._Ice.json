@@ -1,0 +1,42 @@
+{
+    "ID": 55615,
+    "name": "Oregon v. Ice",
+    "href": "https://api.oyez.org/cases/2008/07-901",
+    "view_count": 0,
+    "docket_number": "07-901",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1205730000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40318"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1223960400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40319"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1231912800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40320"
+        }
+    ],
+    "question": "<p>Do consecutive sentences imposed upon a criminal defendant based on factual findings made by a judge, rather than jury, violate the Sixth Amendment of the United States Constitution?</p>\n",
+    "citation": {
+        "volume": "555",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20825"
+    },
+    "term": "2008",
+    "description": "A case in which the Court found that the Sixth Amendment can assign judges, rather than juries, the responsibility of fact-finding in order to impose consecutive sentences on criminal defendants.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>Thomas Eugene Ice was convicted in state court in Oregon on two counts of first-degree burglary with intent to commit sexual abuse, as well as two counts of first-degree sexual abuse committed during those burglaries. Over Ice's objection, the trial court imposed consecutive sentences based on its own findings of fact. Ice appealed, raising the question whether the Oregon or U.S. Constitutions require a jury, rather than a judge, to make the factual findings upon which a court decides to prescribe consecutive sentences.</p>\n<p>The Oregon Court of Appeals held that the consecutive sentences were not in violation of the State's Constitution because none of the factual issues reviewed by the judge were an \"element\" of the crime. However, the sentences did violate the Sixth Amendment of the U.S. Constitution because the factual findings were not made by a jury but were used to increase Ice's punishment to more than what the jury had imposed.</p>\n",
+    "conclusion": "<p>No. In a 5-4 decision with Justice Ruth Bader Ginsburg writing for the majority and joined by Justice John Paul Stevens, Justice Anthony M. Kennedy, Justice Stephen G. Breyer, and Justice Samuel A. Alito, the Supreme Court held that the Sixth Amendment does not prevent states from assigning to judges rather than to juries fact finding responsibilities necessary to imposing consecutive sentences on criminal defendants. The Court drew its reasoning from the historical record. Since the nation's founding, judges have served in this capacity. Additionally, the Court reasoned that judges serving in this capacity do not infringe upon the traditional responsibilities of a jury in a criminal trial.</p>\n<p>Justice Antonin G. Scalia dissented and was joined by Chief Justice John G. Roberts, Justice David H. Souter, and Justice Clarence Thomas. Justice Scalia argued that in Mr. Ice's case, the Court's opinion in <em>Apprendi</em> should control. There, the Court was clear that any fact finding necessary to the enhancement of a criminal sentence must be done by the jury.</p>\n"
+}

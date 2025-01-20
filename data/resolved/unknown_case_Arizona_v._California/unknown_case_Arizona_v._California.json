@@ -1,0 +1,35 @@
+{
+    "ID": 54843,
+    "name": "Arizona v. California",
+    "href": "https://api.oyez.org/cases/1999/8_orig",
+    "view_count": 0,
+    "docket_number": "8-orig",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                956638800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38431"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                961390800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38432"
+        }
+    ],
+    "question": "<p>Are the Quechan Tribe and the United States claims for increased water rights for the Fort Yuma Reservation from the Colorado River precluded by the Supreme Court's prior decision in Arizona v. California and by a consent judgement?</p>\n",
+    "citation": {
+        "volume": "530",
+        "page": "392",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18772"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/530/392/",
+    "facts_of_the_case": "<p>In 1952, Arizona invoked the U.S. Supreme Court's original jurisdiction to resolve a dispute with California over the extent of each state's right to use water from the Colorado River. The United States intervened, seeking water rights on behalf of five Indian reservations. Culminating in Arizona I, the Court held that the United States had reserved water rights for the five reservations. In a 1964 decree, the Court specified the water entitlements for the parties and the reservations, but held that the water rights for the reservations would be subject to adjustment in the event that the reservations' disputed boundaries were finally determined. Thereafter in Arizona II, the Court concluded that the reservations' boundaries had yet to be determined. Ultimately, the Quechan Tribe (Tribe) of the Fort Yuma Indian Reservation and the United States entered an agreement returning land encompassing some 25,000 acres of disputed boundary lands not attributed to that reservation in earlier litigation. In 1983, the Court of Claims consented to the settlement. The Tribe and the United States then filed claims seeking increased water rights for the Fort Yuma Reservation. In 1989, the Court granted the motion of Arizona, California, and two municipal water districts (State parties) to reopen the 1964 decree to determine whether the Fort Yuma Reservation was entitled to claim additional boundary lands and, if so, additional water rights. The State parties asserted that the Fort Yuma claims of the Tribe and the United States were precluded by Arizona I and by the Claims Court consent judgment.</p>\n",
+    "conclusion": "<p>No. In a opinion deliver by Justice Ruth Bader Ginsburg, the Court rejected both grounds for preclusion and remanded the case to a Special Master for a determination on the merits of the outstanding claims for additional water rights associated with disputed Fort Yuma Reservation boundary lands. \"Those claims are the only ones that remain to be decided in Arizona v. California; their resolution will enable the Court to enter a final consolidated decree and bring this case to a close,\" wrote Justice Ginsburg for the Court.</p>\n"
+}

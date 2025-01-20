@@ -1,0 +1,42 @@
+{
+    "ID": 63439,
+    "name": "Kemp v. United States",
+    "href": "https://api.oyez.org/cases/2021/21-5726",
+    "view_count": 0,
+    "docket_number": "21-5726",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1641794400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55024"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1650344400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55078"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1655096400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55108"
+        }
+    ],
+    "question": "<p>Does Federal Rule of Civil Procedure 60(b)(1) authorize relief based on a district court\u2019s error of law?</p>\n",
+    "citation": {
+        "volume": "596",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27870"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held that Federal Rule of Civil Procedure 60(b)(1) authorizes relief based on a district court\u2019s error of law.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/596/21-5726/",
+    "facts_of_the_case": "<p>Dexter Kemp and several co-defendants were charged and convicted of drug and firearms offenses. Kemp and some of the co-defendants appealed, but their sentences were affirmed. Some of the co-defendants, without Kemp, filed petitions for rehearings, rehearings en banc, and certiorari in the U.S. Supreme Court. Over a year later, Kemp moved to vacate his sentence under Federal Rule of Civil Procedure 60(b), arguing ineffective assistance of counsel. The court denied his motion as untimely under 28 U.S.C. \u00a7 2255(f). Kemp argued that his petition was timely under Supreme Court Rule 13.3, which provides that if a petition for rehearing is timely filed in the lower court, the time to file the petition for a writ of certiorari runs from the date of the denial of rehearing. The court denied his motion, finding that it fell under Rule 60(b)(1) because it alleged the court made a \u201cmistake,\u201d and that such motions must be filed within one year.</p>\n",
+    "conclusion": "<p>The term \u201cmistake\u201d in Federal Rule of Civil Procedure 60(b)(1) includes a judge\u2019s errors of law, but Kemp\u2019s motion was untimely under Rule 60(c)\u2019s 1-year limitations period. Justice Clarence Thomas authored the 8-1 majority opinion of the Court.</p>\n<p>When the Rule was adopted in 1938 and revised in 1946, the word \u201cmistake\u201d applied to any \u201cmisconception,\u201d \u201cmisunderstanding,\u201d or \u201cfault in opinion or judgment\u201d as to any law or fact. The text, structure, and history of the Rule support the understanding that it applies to judicial mistakes, not just party mistakes.</p>\n<p>Justice Sonia Sotomayor authored a concurring opinion clarifying that the Court\u2019s opinion does not disturb establish precedent or break new ground.</p>\n<p>Justice Neil Gorsuch authored a dissenting opinion, arguing that he would have dismissed the writ of certiorari as improvidently granted.</p>\n"
+}

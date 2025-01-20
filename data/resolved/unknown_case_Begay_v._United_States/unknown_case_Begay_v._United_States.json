@@ -1,0 +1,42 @@
+{
+    "ID": 55479,
+    "name": "Begay v. United States",
+    "href": "https://api.oyez.org/cases/2007/06-11543",
+    "view_count": 0,
+    "docket_number": "06-11543",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1190696400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39938"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1200376800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39939"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1208322000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39940"
+        }
+    ],
+    "question": "<p>Does driving while intoxicated qualify as a violent felony for purposes of the federal career criminal law?</p>\n",
+    "citation": {
+        "volume": "553",
+        "page": "137",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20719"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/553/137/",
+    "facts_of_the_case": "<p>In 2004, New Mexico resident Larry Begay was arrested after brandishing and unsuccessfully shooting a rifle while begging his sister for money. Begay pleaded guilty to possessing the rifle. Prior to the firearm arrest, Begay had been convicted twelve times of driving while intoxicated. Under New Mexico law, each DWI conviction after the first three were considered felonies. The court concluded that the DWI convictions were violent felonies, triggering the federal career criminal law's 15-year mandatory minimum sentence. A deeply divided court of appeals panel affirmed the decision to treat the DWIs as violent felonies.</p>\n",
+    "conclusion": "<p>In a 6-3 vote, the Court held that Begay's DWI convictions did not qualify as \"violent felonies\" because they were too different from the violent felony examples provided by Congress in the Armed Career Criminal Act (such as burglary, arson and extortion). Therefore, Begay should not have been subject to the mandatory sentencing hike. Justice Stephen Breyer wrote the majority opinion with Justice Antonin Scalia concurring and Justice Samuel Alito, joined by Justices Clarence Thomas and David Souter, dissenting</p>\n"
+}

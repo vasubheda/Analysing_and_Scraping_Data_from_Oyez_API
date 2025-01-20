@@ -1,0 +1,42 @@
+{
+    "ID": 63455,
+    "name": "Sackett v. Environmental Protection Agency",
+    "href": "https://api.oyez.org/cases/2022/21-454",
+    "view_count": 0,
+    "docket_number": "21-454",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1643004000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55039"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1664773200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55157"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1684990800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55282"
+        }
+    ],
+    "question": "<p>What is the proper test for determining whether wetlands are \u201cwaters of the United States\u201d under the Clean Water Act?\u00a0</p>\n",
+    "citation": {
+        "volume": "598",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27880"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held that wetlands are \u201cwaters of the United States\u201d under the Clean Water Act only if they have a continuous surface connection with traditional navigable waters.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/598/21-454/",
+    "facts_of_the_case": "<p>Michael and Chantall Sackett own a residential lot near Priest Lake, Idaho, and want to build a home there. However, shortly after they began placing sand and gravel, the federal Environmental Protection Agency told them that they could not build on their lot because construction on the land violated the Clean Water Act. According to the EPA, the Sacketts\u2019 lot contained wetlands that qualify as \u201cnavigable waters\u201d regulated by the Act, so they needed to remove the sand and gravel and restore the property to its natural state.</p>\n<p>Litigation ensued, and in 2012, the Supreme Court permitted the Sacketts to litigate their challenge to the EPA\u2019s order in federal court. During the litigation, the EPA removed its compliance order.</p>\n<p>The U.S. Court of Appeals for the Ninth Circuit held that the EPA\u2019s withdrawal of the compliance order did not render the Sacketts\u2019 challenge moot and that the EPA does have jurisdiction over their property under the Clean Water Act. The court reasoned that, under binding circuit precedent, \u201cjurisdiction over wetlands depends upon the existence of a significant nexus between the wetlands in question and navigable waters in the traditional sense.\u201d</p>\n",
+    "conclusion": "<p>The Clean Water Act extends only to wetlands that have a continuous surface connection with \u201cwaters\u201d of the United States\u2014i.e., with a relatively permanent body of water connected to traditional interstate navigable waters. Justice Samuel Alito authored the majority opinion of the Court that was unanimous in the judgment reversing and remanding.</p>\n<p>In 1973, the Environmental Protection Agency (EPA) and the Army Corps of Engineers, which jointly enforce the Clean Water Act, initially defined \u201cthe waters of the United States\u201d differently. By 1980, they had adopted identical definitions, which encompassed \u201call waters that could affect interstate or foreign commerce.\u201d Since then, they have repeatedly sought to define and redefine \u201cwaters of the United States\u201d through rulemaking procedures.</p>\n<p>Despite this history, the Court found that the meaning of \u201cwaters\u201d in the CWA encompasses \u201conly those relatively permanent, standing, or continuously flowing bodies of water.\u201d The mere presence of water is too broad; such a definition would include puddles and isolated ponds. Thus, wetlands are not per se \u201cwaters of the United States\u201d; rather, only those with a continuous surface connection to traditional navigable waters fall within that category.</p>\n<p>Justice Clarence Thomas joined Justice Alito\u2019s majority opinion in full but concurred separately, along with Justice Neil Gorsuch, emphasizing the importance of curbing the expansion of federal authority through agency action.</p>\n<p>Justice Brett Kavanaugh authored an opinion concurring in the judgment, in which Justices Sotomayor, Kagan, and Jackson joined. Justice Kavanaugh disagreed with the Court\u2019s \u201ccontinuous surface connection\u201d test because, in his view, it \u201cdeparts from the statutory text, from 45 years of consistent agency practice,\u201d and from the Court\u2019s own precedents.</p>\n<p>Justice Elena Kagan authored an opinion concurring in the judgment, in which Justices Sonia Sotomayor and Ketanji Brown Jackson joined. Justice Kagan lamented that, in her opinion, the majority \u201csubstitutes its own ideas about policymaking for Congress\u2019s.\u201d</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55640,
+    "name": "New Process Steel v. NLRB",
+    "href": "https://api.oyez.org/cases/2009/08-1457",
+    "view_count": 0,
+    "docket_number": "08-1457",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1257141600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40385"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1269320400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40386"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1276750800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40387"
+        }
+    ],
+    "question": "<p>Does the NLRB have the authority to decide cases with only two sitting members, when 29 U.S.C. \u00a7 153(b) provides that \"three members of the Board shall, at all times, constitute a quorum of the Board?\"</p>\n",
+    "citation": {
+        "volume": "560",
+        "page": "674",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19563"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that the National Labor Relations Board cannot execute duties with only two members on its board when 29 U.S.C. Section 153(b) mandates that quorum for the board is three members.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/560/674/",
+    "facts_of_the_case": "<p>The union representing employees at a New Process Steel plant in Butler, Indiana failed to reach an agreement over a new contract with New Process Steel. The union subsequently filed unfair labor practices claims with the National Labor Relations Board (\"NLRB\") arguing that New Process Steel failed to honor its collective bargaining agreement to deal with the union as the exclusive representative of employees of the plant. A two-member panel of the NLRB agreed with the union. On appeal, New Process Steel argued that the NLRB's decision was invalid because 29 U.S.C. \u00a7 153(b) of the National Labor Relations Act requires that three members of the five member National Labor Relations Board shall \"at all times\" constitute a quorum.</p>\n<p>The U.S. Court of Appeals for the Seventh Circuit disagreed and affirmed the judgment of the board. The court held that the NLRB had power to delegate its authority to a group of three of its members. In which case, two sitting members constituted a quorum. Therefore, the NLRB appropriately rendered its decision.</p>\n",
+    "conclusion": "<p>No. The Supreme Court held that the NLRBA requires that when the Board delegates its authority, the delegated group must maintain a membership of three in order to exercise the delegated authority of the Board. With Justice John Paul Stevens writing for the majority, the Court reasoned that the plain language of the statute \u2013 the Board may delegate its powers to a \"group of three or more members\" \u2013 required that the delegated group must have at least three members to exercise such authority.</p>\n<p>Justice Anthony M. Kennedy, joined by Justices Ruth Bader Ginsburg, Stephen G. Breyer, and Sonia Sotamayor, dissented. He criticized the majority for calling into question the more than 500 cases the NLRB address during the 26 months it carried out its responsibilities with only two members. He also disagreed with the manner in which the majority reached its conclusion.</p>\n"
+}

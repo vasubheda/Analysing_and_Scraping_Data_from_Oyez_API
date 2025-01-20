@@ -1,0 +1,42 @@
+{
+    "ID": 63122,
+    "name": "Bostock v. Clayton County",
+    "href": "https://api.oyez.org/cases/2019/17-1618",
+    "view_count": 0,
+    "docket_number": "17-1618",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1555909200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54500"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1570510800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54583"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1592197200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54727"
+        }
+    ],
+    "question": "<p>Does Title VII of the Civil Rights Act of 1964, which prohibits against employment discrimination \u201cbecause of . . . sex\u201d encompass discrimination based on an individual\u2019s sexual orientation?</p>\n",
+    "citation": {
+        "volume": "590",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27677"
+    },
+    "term": "2019",
+    "description": "A case in which the Court held that Title VII of the Civil Rights Act of 1964, which prohibits against employment discrimination \u201cbecause of . . . sex\u201d encompasses discrimination based on an individual\u2019s sexual orientation.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/590/17-1618/",
+    "facts_of_the_case": "<p>Gerald Bostock, a gay man, began working for Clayton County, Georgia, as a child welfare services coordinator in 2003. During his ten-year career with Clayton County, Bostock received positive performance evaluations and numerous accolades. In 2013, Bostock began participating in a gay recreational softball league. Shortly thereafter, Bostock received criticism for his participation in the league and for his sexual orientation and identity generally. During a meeting in which Bostock\u2019s supervisor was present, at least one individual openly made disparaging remarks about Bostock\u2019s sexual orientation and his participation in the gay softball league. Around the same time, Clayton County informed Bostock that it would be conducting an internal audit of the program funds he managed. Shortly afterwards, Clayton County terminated Bostock allegedly for \u201cconduct unbecoming of its employees.\u201d</p>\n<p>Within months of his termination, Bostock filed a charge of discrimination with the Equal Employment Opportunity Commission (EEOC). Three years later, in 2016, he filed a pro se lawsuit against the county alleging discrimination based on sexual orientation, in violation of Title VII of the Civil Rights Act of 1964. The district court dismissed his lawsuit for failure to state a claim, finding that Bostock\u2019s claim relied on an interpretation of Title VII as prohibiting discrimination on the basis of sexual orientation, contrary to a 1979 decision holding otherwise, the continued which was recently affirmed in <a href=\"https://law.justia.com/cases/federal/appellate-courts/ca11/15-15234/15-15234-2017-03-10.html\"><em>Evans v. Georgia Regional Hospital</em>, 850 F.3d 1248 (11th Cir. 2017)</a>. Bostock appealed, and the US Court of Appeals for the Eleventh Circuit affirmed the lower court. In addition to noting\u00a0 procedural deficiencies in Bostock\u2019s appeal, the Eleventh Circuit panel pointed out that it cannot overrule a prior panel\u2019s holding in the absence of an intervening Supreme Court or Eleventh Circuit en banc decision.</p>\n<p>This case is consolidated for oral argument with\u00a0<a href=\"https://www.oyez.org/cases/2019/17-1623\"><em>Altitude Express v. Zarda</em>, No. 17-1623</a>.</p>\n",
+    "conclusion": "<p>An employer who fires an individual employee merely for being gay or transgender violates Title VII of the Civil Rights Act of 1964. Justice Neil Gorsuch authored the opinion for the 6-3 majority of the Court.</p>\n<p>Title VII prohibits employers from discriminating against any individual \u201cbecause of such individual\u2019s race, color, religion, sex, or national origin.\u201d Looking to the ordinary public meaning of each word and phrase comprising that provision, the Court interpreted to mean that an employer violates Title VII when it intentionally fires an individual employee based, at least in part, on sex. Discrimination on the basis of homosexuality or transgender status requires an employer to intentionally treat employees differently because of their sex\u2014the very practice Title VII prohibits in all manifestations. Although it acknowledged that few in 1964 would have expected Title VII to apply to discrimination against homosexual and transgender persons, the Court gave no weight to legislative history because the language of the statute unambiguously prohibits the discriminatory practice.\u00a0</p>\n<p>Justice Samuel Alito authored a dissenting opinion, in which Justice Clarence Thomas joined, criticizing the majority for attempting to \u201cpass off its decision as the inevitable product of the textualist school of statutory interpretation,\u201d but actually revising Title VII to \u201cbetter reflect the current values of society.</p>\n<p>Justice Brett Kavanaugh authored a dissenting opinion arguing that, as written, Title VII does not prohibit discrimination on the basis of sexual orientation (or by extension, transgender status).</p>\n"
+}

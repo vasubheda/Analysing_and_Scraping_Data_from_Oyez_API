@@ -1,0 +1,42 @@
+{
+    "ID": 63001,
+    "name": "Garza v. Idaho",
+    "href": "https://api.oyez.org/cases/2018/17-1026",
+    "view_count": 0,
+    "docket_number": "17-1026",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1529298000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54298"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1540875600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54347"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1551247200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54462"
+        }
+    ],
+    "question": "<p>Is a criminal defendant\u2019s counsel presumptively ineffective if counsel declines to file an appeal of a conviction because the defendant already waived the right to appeal in his plea?</p>\n",
+    "citation": {
+        "volume": "586",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27602"
+    },
+    "term": "2018",
+    "description": "A case in which the Court held that the decision of a criminal defendant\u2019s trial lawyer not to appeal a conviction because the defendant\u2019s plea agreement included an appeal waiver triggers a \u201cpresumption of prejudice\u201d indicating ineffective assistance of counsel.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/586/17-1026/",
+    "facts_of_the_case": "<p>On January 23, 2015, Gilberto Garza, Jr. entered an Alford plea\u2014that is, a plea maintaining innocence but conceding that the evidence is likely to convince a jury of guilt beyond a reasonable doubt\u2014to aggravated assault. On February 24, 2015, he pleaded guilty to possession of a controlled substance with intent to deliver. Both plea agreements required Garza to waive his right to appeal. The district court accepted the plea agreements and imposed the sentence in accordance with both of them. Shortly after sentencing, Garza informed his trial counsel that he wished to appeal, but counsel declined to file the appeal, citing Garza's waivers.</p>\n<p>Four months after he was convicted and sentenced, Garza filed a petition for post-conviction relief in each case, alleging that his trial attorney was ineffective for not filing notices of appeal. Garza\u2019s attorney stated in an affidavit that he did not file an appeal because Garza had waived his right to appeal by accepting the plea agreements. The district court dismissed Garza\u2019s petition to open the appeals period on the basis of ineffective assistance of counsel, and the appellate court affirmed the dismissal.</p>\n<p>Under <a href=\"https://www.oyez.org/cases/1999/98-1441\"><em>Roe v. Flores-Ortega</em>, 528 U.S. 470 (2000)</a>, criminal defendants have a Sixth Amendment right to \u201creasonably effective\u201d legal assistance. A defendant claiming ineffective assistance of counsel must show: (1) that counsel\u2019s representation was deficient; and (2) that counsel\u2019s deficient performance prejudiced the defendant. Generally, counsel\u2019s failure to file an appeal at a criminal defendant\u2019s request is professionally unreasonable and therefore deficient, and most federal circuit courts interpret Flores-Ortega to mean that attorneys are ineffective when they do not file an appeal if the clients requested it, regardless of whether the defendants had waived their rights.</p>\n<p>The Idaho Supreme Court held contrary to the majority of federal circuit courts, finding that Flores-Ortega does not require an automatic \u201cpresumption of prejudice\u201d when counsel declines to file an appeal in light of an appeal waiver. Rather, the defendant must still show deficient performance and resulting prejudice.</p>\n",
+    "conclusion": "<p>The presumption of prejudice for Sixth Amendment purposes recognized in <a href=\"https://www.oyez.org/cases/1999/98-1441\"><em>Roe v. Flores-Ortega</em>, 528 U.S. 470 (2000),</a> applies regardless of whether a defendant has signed an appeal waiver.</p>\n<p>In a 6\u20133 opinion authored by Justice Sonia Sotomayor, the Court held that Garza\u2019s trial counsel had rendered ineffective assistance by failing to file a notice of appeal despite Garza\u2019s repeated requests. Under <a href=\"https://www.oyez.org/cases/1983/82-1554\"><em>Strickland v. Washington</em>, 466 U.S. 668 (1984),</a> a defendant alleging ineffective assistance of counsel must prove (1) \u201cthat counsel\u2019s representation fell below an objective standard of reasonableness\u201d and (2) that the deficiency was \u201cprejudicial to the defense.\u201d In <em>Flores-Ortega</em>, the Court held that \u201cprejudice is presumed\u201d in certain contexts, including when counsel \u201cdeprives a defendant of an appeal that he otherwise would have taken.\u201d Garza\u2019s appeal waivers\u2014and appeal waivers generally\u2014are not an absolute bar to all appellate claims. Indeed, some appeals fall outside the scope of the waiver, and there is always a possibility that the government might forfeit or breach the agreement of which the waiver is part. Given these scenarios, Garza could have pursued an appeal had his trial counsel acceded to his requests and filed a notice of appeal. By failing to do so, Garza\u2019s counsel rendered ineffective assistance in violation of the Sixth Amendment.</p>\n<p>Justice Clarence Thomas filed a dissenting opinion, in which Justice Neil Gorsuch joined, and in which Justice Samuel Alito joined in part. The dissent opined that Garza\u2019s counsel acted reasonably by declining to file an appeal on the grounds that doing so could jeopardize his plea bargain. The dissent characterized the majority\u2019s holding as resulting in a \u201cdefendant-always-wins\u201d rule that has no basis in the Court\u2019s precedents or the Constitution.</p>\n"
+}

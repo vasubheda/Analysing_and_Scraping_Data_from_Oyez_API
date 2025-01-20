@@ -1,0 +1,42 @@
+{
+    "ID": 63154,
+    "name": "GE Energy Power Conversion France SAS v. Outokumpu Stainless USA LLC",
+    "href": "https://api.oyez.org/cases/2019/18-1048",
+    "view_count": 0,
+    "docket_number": "18-1048",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1561698000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54568"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1579586400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54653"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1590987600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54716"
+        }
+    ],
+    "question": "<p>Does the Convention on the Recognition and Enforcement of Foreign Arbitral Awards permit a nonsignatory to an arbitration agreement to compel arbitration based on the doctrine of equitable estoppel?</p>\n",
+    "citation": {
+        "volume": "590",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27701"
+    },
+    "term": "2019",
+    "description": "A case in which the Court held that the Convention on the Recognition and Enforcement of Foreign Arbitral Awards does not prohibit the application of domestic equitable estoppel doctrine to allow a nonsignatory to an arbitration agreement to compel arbitration.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/590/18-1048/",
+    "facts_of_the_case": "<p>Outokumpu operates a steel plant in Alabama that contains three \u201ccold rolling mills,\u201d which are required for manufacturing and processing certain steel products. In November 2007, while Outokumpu\u2019s plant was under construction, the company\u2019s predecessor, ThyssenKrupp, entered into three contracts with F.L. Industries (\u201cFives\u201d) to provide three different-sized mills. Each of these three contracts contains an arbitration clause that, among other things, requires that arbitration take place in Dusseldorf, Germany, and that the forum apply the substantive law of Germany.</p>\n<p>The contracts define the parties to each as Outokumpu and Fives and provide that any mention of either party also includes any subcontractors of that party; appended to the contracts is a list of subcontractors, including petitioner GE Energy Conversion France SAS (\u201cGE Energy\u201d), formerly known as Converteam SAS.</p>\n<p>Fives contracted with GE Energy to provide three motors for each of the three mills, for a total of nine motors, which were manufactured in France and delivered and installed in Alabama between 2011 and 2012. By June 2014, the motors began to fail, and by August 2015, motors in all three mills failed. It came to light that Fives and GE Energy had entered into a separate agreement with another party that designated Fives to represent the interests of all three parties in the event of a dispute.</p>\n<p>Outokumpu filed a lawsuit against GE Energy in Alabama state court in 2016, and GE Energy removed to federal court and moved to dismiss and compel arbitration. The district court granted GE Energy\u2019s motion to compel and dismissed the action. The U.S. Court of Appeals for the 11th Circuit reversed and remanded as to the motion to compel, holding that the Convention on the Recognition and Enforcement of Foreign Arbitral Awards requires that the arbitration agreement be signed by the parties before Court or their privities, and only under Chapter 1 of the Federal Arbitration Act (which does not expressly restrict arbitration to the specific parties to an agreement) can parties compel arbitration through the doctrine of equitable estoppel.</p>\n",
+    "conclusion": "<p>The Convention on the Recognition and Enforcement of Foreign Arbitral Awards does not conflict with domestic equitable estoppel doctrines that permit the enforcement of arbitration agreements by nonsignatories. Justice Clarence Thomas authored the opinion for a unanimous Court.</p>\n<p>Chapter 1 of the Federal Arbitration Act (FAA) does not \u201calter background principles\u201d of state law, including doctrines like equitable estoppel, which authorizes contract enforcement by a nonsignatory. Chapter 2 of the FAA provides that \u201cChapter 1 applies to actions and proceedings brought under this chapter to the extent that [Chapter 1] is not in conflict with this chapter or the Convention.\u201d The relevant provision of the Convention states that courts of a contracting state \u201cshall...refer the parties to arbitration\u201d when the parties to the action entered into a written agreement to arbitrate and one of the parties requests the referral.</p>\n<p>The Court then considered whether state-law equitable estoppel doctrine permitted under Chapter 1 conflicts with the Convention, concluding that it does not. Most importantly, the text of the Convention is silent as to whether nonsignatories may enforce arbitration agreements under domestic doctrines such as equitable estoppel; this silence is dispositive of the matter. This understanding is consistent with the history of the Convention as well as the post-ratification understanding of signatory nations.</p>\n<p>Justice Sonia Sotomayor authored a concurring opinion to note that the application of domestic doctrine like equitable estoppel must be rooted in the principle of consent to arbitrate.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 62690,
+    "name": "Samsung Electronics Co. v. Apple Inc.",
+    "href": "https://api.oyez.org/cases/2016/15-777",
+    "view_count": 0,
+    "docket_number": "15-777",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1458536400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53463"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1476162000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53872"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1481004000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53927"
+        }
+    ],
+    "question": "<p>If an infringed design patent only applies to a component of a product, should damages for the infringement be limited to the portion of the infringer\u2019s profits attributable to that component?</p>\n",
+    "citation": {
+        "volume": "580",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27415"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that, for the purpose of calculating damages in a patent infringement action, the infringing \u201carticle of manufacture\u201d may be defined as either an end product sold to a consumer or as a component of that product.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/580/15-777/",
+    "facts_of_the_case": "<p>In April 2011, Apple Inc. (Apple) sued Samsung Electronics, Co., Ltd. (Samsung) and argued that certain design elements of Samsung\u2019s smartphones infringed on specific patents for design elements in the iPhone that Apple holds. The jury held that Samsung had infringed on Apple\u2019s patents and awarded over $1 billion in damages. The district court ordered a partial retrial on the issue of damages because some damages had been awarded for a period in which Samsung did not have notice of some of the asserted patents. On retrial, the jury awarded nearly $300 million in damages. On appeal, Samsung argued that the district court erred in allowing the jury to award damages based on Samsung\u2019s entire profits, rather than the fraction of profits directly attributable to the infringed patents themselves. The U.S. Court of Appeals for the Federal Circuit affirmed the district court\u2019s award of damages because Samsung did not argue that there was a lack of substantial evidence to support the award.</p>\n",
+    "conclusion": "<p>For the purpose of calculating damages in a patent infringement action, the infringing \u201carticle of manufacture\u201d may be defined as either an end product sold to a consumer or as a component of that product. Justice Sonia Sotomayor delivered the opinion of the unanimous Court, which held that the relevant text of the Patent Act encompasses both an end product sold to a consumer as well as a component of that product. The fact that a component may be incorporated into the larger end product does not place it outside the category of an \u201carticle of manufacture.\u201d Therefore, the U.S. Court of Appeals for the Federal Circuit erred in interpreting that phrase too narrowly to only refer to the end product. Under the proper reading of the phrase, an infringer will sometimes be liable for the total profit from the component of the end product, but the Court declined to determine whether that is the case here.</p>\n"
+}

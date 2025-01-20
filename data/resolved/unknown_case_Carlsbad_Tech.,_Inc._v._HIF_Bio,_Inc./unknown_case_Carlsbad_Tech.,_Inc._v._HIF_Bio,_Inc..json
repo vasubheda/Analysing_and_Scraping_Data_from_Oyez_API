@@ -1,0 +1,42 @@
+{
+    "ID": 55607,
+    "name": "Carlsbad Tech., Inc. v. HIF Bio, Inc.",
+    "href": "https://api.oyez.org/cases/2008/07-1437",
+    "view_count": 0,
+    "docket_number": "07-1437",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1223960400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40294"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1235455200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40295"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1241413200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40296"
+        }
+    ],
+    "question": "<p>Is a federal district court order to remand a case to state court properly understood as stripped of any federal claims when the district court declines supplemental jurisdiction and is thus barred from federal appellate review?</p>\n",
+    "citation": {
+        "volume": "556",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20798"
+    },
+    "term": "2008",
+    "description": "A case in which the Court held that a district court's declination of supplemental jurisdiction is not a dismissal for which federal appellate review is barred.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>The purported inventors of an anti-cancer agent, Jong-Wan park and Yang-Sook Chun through HIF Bio Inc., sued Carlsbad Technology, Inc. in a California court for various claims regarding ownership of the invention. The case was removed to the United States District Court for the Central District of California. After dismissing the federal claim, it declined supplemental jurisdiction on the state claims and remanded the case back to state court.</p>\n<p>On appeal, the United States Court of Appeals for the Federal Circuit held that it did not have jurisdiction to review the remand order. It reasoned that when the district court declined supplemental jurisdiction over the state claims in the case, it necessarily found that the claims lacked federal subject matter jurisdiction.</p>\n",
+    "conclusion": "<p>No. The Supreme Court held that a district court's decision not to exercise supplemental jurisdiction over a state-law claim is not a dismissal for lack of federal subject matter jurisdiction for which federal appellate review is barred. With Justice Clarence Thomas writing for a unanimous Court, it reasoned that, in this case, the district court merely exercised its discretion to dismiss a state-law claim for which it had supplemental jurisdiction, and therefore its decision was not based upon lack of jurisdiction, which would have precluded federal appellate court review.</p>\n<p>Justice John Paul Stevens, Justice Antonin G. Scalia, and Justice Stephen G. Breyer joined by Justice David H. Souter, all wrote separate concurring opinions. Each highlighted the mess the Supreme Court's holdings have left this area of law and suggested statutory revision to clarify the law.</p>\n"
+}

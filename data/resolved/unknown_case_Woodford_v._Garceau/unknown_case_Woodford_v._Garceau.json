@@ -1,0 +1,35 @@
+{
+    "ID": 55103,
+    "name": "Woodford v. Garceau",
+    "href": "https://api.oyez.org/cases/2002/01-1862",
+    "view_count": 0,
+    "docket_number": "01-1862",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1043128800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38923"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1048572000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38924"
+        }
+    ],
+    "question": "<p>Is a federal habeas petition, which was filed after the effective date of the Antiterrorism and Effective Death Penalty Act of 1996 even though a stay and counsel were sought prior to that date, \"pending\" for the purposes of Lindh v. Murphy, 521 U.S. 320?</p>\n",
+    "citation": {
+        "volume": "538",
+        "page": "202",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/19032"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/538/202/",
+    "facts_of_the_case": "<p>In Lindh v. Murphy, 521 U.S. 320, the U.S. Supreme Court held that amendments to the criminal code made by the Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA) do not apply to cases pending in federal court on the AEDPA's effective date, April 24, 1996. Robert Garceau was convicted of first-degree murder and sentenced to death. After his petition for state postconviction relief was denied, Garceau moved for the appointment of federal habeas counsel and a stay of execution in Federal District Court on May 12, 1995. He filed a federal habeas application on July 2, 1996. The District Court concluded that Garceau's habeas application was not subject to AEDPA because his motions for counsel and a stay were filed prior to that date. The Court of Appeals agreed.</p>\n",
+    "conclusion": "<p>No. In a 6-3 opinion delivered by Justice Clarence Thomas, the Court held, for purposes of Lindh, that a case does not become \"pending\" until an actual application for habeas corpus relief is filed in federal court. The Court reasoned that, because Garceau's federal habeas application was not filed until after AEDPA's effective date, it was subject to AEDPA's amendments. \"If, on [the effective date of the AEDPA], the state prisoner had before a federal court an application for habeas relief seeking an adjudication on the merits of the petitioner's claims, then [the AEDPA] does not apply. Otherwise, an application filed after AEDPA's effective date should be reviewed under AEDPA, even if other filings by that same applicant...were presented to a federal court prior to AEDPA's effective date.\" Justice David H. Souter, joined by Justices Ruth Bader Ginsburg and Stephen G. Breyer, dissented.</p>\n"
+}

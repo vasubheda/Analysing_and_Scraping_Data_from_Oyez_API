@@ -1,0 +1,42 @@
+{
+    "ID": 54865,
+    "name": "Fiore v. White",
+    "href": "https://api.oyez.org/cases/1999/98-942",
+    "view_count": 0,
+    "docket_number": "98-942",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                939704400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51663"
+        },
+        {
+            "event": "Question certified",
+            "dates": [
+                943941600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51664"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                979020000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38474"
+        }
+    ],
+    "question": "<p>Does the Due Process Clause of the Fourteenth Amendment permit a state to convict a facility operater of operating without a permit, when the operater actually had a permit but deviated from its terms?</p>\n",
+    "citation": {
+        "volume": "531",
+        "page": "225",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18794"
+    },
+    "term": "1999",
+    "description": "After certifying an question of state law to the Pennsylvania Supreme Court, the U.S. Supreme Court held that Fiore's conviction was not covered by the statute at issue and thus violated the Due Process Clause of the Fourteenth Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/531/225/",
+    "facts_of_the_case": "<p>William Fiore and his co-defendant, David Scarpone, were convicted of operating a hazardous waste facility without a permit in violation of Pennsylvania State law after deliberately altering a monitoring pipe. Fiore appealed his conviction to the Pennsylvania Superior Court, which affirmed the conviction. The Pennsylvania Supreme Court then denied further review of Fiore's case, and his conviction became final. Scarpone appealed his conviction to the Pennsylvania Commonwealth Court, which noted the existence of a \"valid permit\" and set aside the conviction. On appeal, the Pennsylvania Supreme Court agreed and found that Scarpone's conduct did not constitute the operation of the facility without a permit because the law Fiore and Scarpone were convicted under does not apply to those who possess a permit but deviate radically from the permit's terms. Fiore had asked the Pennsylvania Supreme Court to review his case after it had agreed to review Scarpone's case and twice more after it decided Scarpone. The court denied Fiore's requests.</p>\n<p>Fiore sought federal habeas relief, arguing that the U.S. Constitution required that his conviction be set aside because his conduct was not criminal under the statutory section charged. The District Court granted his petition. .The U.S. Court of Appeals for the Third Circuit reversed on the ground that it would require a retroactive application of a new rule of law.</p>\n<p>Following oral argument, a unanimous court in an opinion by Justice Stephen J. Breyer  certified the question whether the court's interpretation of the statute set forth in Scarpone's case stated the correct interpretation of Pennsylvania law on the date when Fiore's conviction became final. The Court also reserved judgment and further proceedings in the case pending a response by the Pennsylvania Supreme Court. Justice Breyer wrote for the Court that \"the answer to this question will help determine the proper state-law predicate for our determination of the federal constitutional questions raised in this case.\"</p>\n<p>The Pennsylvania Supreme Court replied that the decision \"did not announce a new rule of law,\" but \"merely clarified the plain language of the statute.\" The U.S. Supreme Court then took up the pending constitutional question.</p>\n",
+    "conclusion": "<p>No. In a unanimous per curiam opinion, the Court held that Fiore's conviction was unconstitutional. Since the Pennsylvania Supreme Court's decision was not a new rule, it governed Fiore's case even though the case was final before the decision was handed down. The Court found that since Fiore had a permit, his offense was not covered by the statute he was convicted under. The Court concluded that \"Fiore's conviction fails to satisfy the Federal Constitution's demands.\"</p>\n"
+}

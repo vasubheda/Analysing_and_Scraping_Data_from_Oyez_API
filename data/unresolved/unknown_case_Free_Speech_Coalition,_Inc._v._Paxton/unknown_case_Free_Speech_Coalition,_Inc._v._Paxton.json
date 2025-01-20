@@ -1,0 +1,33 @@
+{
+    "ID": 63701,
+    "name": "Free Speech Coalition, Inc. v. Paxton",
+    "href": "https://api.oyez.org/cases/2024/23-1122",
+    "view_count": 0,
+    "docket_number": "23-1122",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1719896400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55529"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1736920800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55554"
+        }
+    ],
+    "question": "<p>Is a Texas law that requires any website that publishes content one-third or more of which is \u201charmful to minors\u201d to verify the age of each of its users before providing access subject to \u201crational basis\u201d review or \u201cstrict scrutiny\u201d?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28035"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether a Texas law that requires any website that publishes content one-third or more of which is \u201charmful to minors\u201d to verify the age of each of its users before providing access should be subject to \u201crational basis\u201d review or \u201cstrict scrutiny.\u201d",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-1122/"
+}

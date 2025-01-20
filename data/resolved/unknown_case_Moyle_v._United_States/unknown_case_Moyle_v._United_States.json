@@ -1,0 +1,42 @@
+{
+    "ID": 63646,
+    "name": "Moyle v. United States",
+    "href": "https://api.oyez.org/cases/2023/23-726",
+    "view_count": 0,
+    "docket_number": "23-726",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1704434400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55387"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1713934800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55449"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1719464400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55484"
+        }
+    ],
+    "question": "<p>Does the federal Emergency Medical Treatment and Labor Act preempt an Idaho law that criminalizes most abortions in that state?</p>\n",
+    "citation": {
+        "volume": "603",
+        "page": null,
+        "year": "2024",
+        "href": "https://api.oyez.org/case_citation/case_citation/28000"
+    },
+    "term": "2023",
+    "description": "A case in which the Court was asked to decide whether the federal Emergency Medical Treatment and Labor Act\u2014which requires hospitals receiving Medicare funding to offer \u201cnecessary stabilizing treatment\u201d to pregnant women in emergencies\u2014preempts an Idaho law that criminalizes most abortions in the state.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/603/23-726/",
+    "facts_of_the_case": "<p>In August 2022, after the Supreme Court\u2019s decision in Dobbs v. Jackson Women\u2019s Health Organization, which eliminated the constitutional right to an abortion, the Biden administration brought a legal challenge to a restrictive Idaho abortion law. The Biden administration argued that the state law, which criminalizes providing an abortion except in a few narrow circumstances, including to save the life of the mother, is preempted by a federal law, the Emergency Medical Treatment and Labor Act (EMTALA). EMTALA requires hospitals receiving Medicare funding to offer \u201cnecessary stabilizing treatment\u201d to pregnant women in emergencies.</p>\n<p>The district court ruled in favor of the Biden administration and barred Idaho from enforcing its law to the extent that it conflicted with EMTALA. The U.S. Court of Appeals for the Ninth Circuit, sitting en banc, declined to stay the district court's ruling while the state appealed.</p>\n",
+    "conclusion": "<p>The Court dismissed the writ of certiorari as improvidently granted and vacated its earlier stay of the district court\u2019s preliminary injunction against Idaho\u2019s abortion law.</p>\n<p>Justice Elena Kagan authored a concurring opinion that was joined by Justices Sonia Sotomayor and Ketanji Brown Jackson. Justice Kagan opined that EMTALA requires hospitals to provide abortions in certain health emergencies that Idaho\u2019s law prohibits, creating a clear conflict where federal law preempts state law.</p>\n<p>Justice Amy Coney Barrett authored a concurring opinion that was joined by Chief Justice John Roberts and Justice Brett Kavanaugh. She explained why she believes the Court should dismiss the case and vacate the stay, arguing that the dispute has narrowed significantly since the Court initially granted certiorari, making it inappropriate for immediate Supreme Court resolution.</p>\n<p>Justice Jackson concurred in part with the Court\u2019s decision to vacate the stay and lift the injunction, agreeing with Justice Kagan\u2019s analysis that EMTALA preempts Idaho\u2019s law. However, she dissented from the Court\u2019s decision to dismiss the case as improvidently granted, arguing that the conflict between state and federal law remains significant and that the Court should have resolved the preemption issue now rather than delaying a decision.</p>\n<p>Justice Samuel Alito authored a dissenting opinion, joined by Justices Clarence Thomas and Neil Gorsuch. Justice Alito argued that the Court should have decided the statutory interpretation question and rejected the government\u2019s novel interpretation of EMTALA rather than dismissing the case and allowing the injunction against Idaho\u2019s law to take effect.</p>\n"
+}

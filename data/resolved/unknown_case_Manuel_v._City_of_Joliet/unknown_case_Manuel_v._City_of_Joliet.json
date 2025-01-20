@@ -1,0 +1,42 @@
+{
+    "ID": 62650,
+    "name": "Manuel v. City of Joliet",
+    "href": "https://api.oyez.org/cases/2016/14-9496",
+    "view_count": 0,
+    "docket_number": "14-9496",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1452837600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53392"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1475643600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53871"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1490072400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53995"
+        }
+    ],
+    "question": "<p>Does an individual\u2019s Fourth Amendment right to be free from unreasonable search and seizure continue through the legal process of a criminal case?</p>\n",
+    "citation": {
+        "volume": "580",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27398"
+    },
+    "term": "2016",
+    "description": "A case in which the Court held that an individual\u2019s right to be free from unreasonable search and seizure continues throughout the legal process of a criminal case.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/580/14-9496/",
+    "facts_of_the_case": "<p>Elijah Manuel was a passenger in a car that was pulled over for failing to signal on March 18, 2011. When the police officer detected an odor of marijuana in the car, he dragged Manuel out of the car, pushed and kicked him, and handcuffed him. The officer found a bottle of pills in Manuel\u2019s pocket during his pat-down. The pills were tested and the officers falsified the results to show the pills were ecstasy. The initial positive pill results were later tested at the scene of the arrest. More detailed negative lab results were presented by Manuel later. Manuel was arrested based on these initial results. The officers continued to rely on the false positive initial test throughout the grand jury proceedings, and he was held until May 4, when the Assistant State\u2019s Attorney sought dismissal of the charges.</p>\n<p>Manuel sued the City of Joliet and various city officials and alleged malicious prosecution as well as other civil rights claims. The district court dismissed most of Manuel\u2019s claims as falling outside of the statute of limitations. His malicious prosecution claim was not time-barred, however, but was dismissed under <em>Newsome v. McCabe</em>, which held that federal claims of malicious prosecution stem from the right to due process and are not a Fourth Amendment issue. Therefore, there was no malicious prosecution claim under federal law if the state provided a similar cause of action, as Illinois did. On appeal, Manuel argued that Newsome did not foreclose a malicious prosecution claim on Fourth Amendment grounds when officers misrepresented evidence. The U.S. Court of Appeals for the Seventh Circuit affirmed the lower court\u2019s ruling against Manuel as consistent with the <em>Newsome</em> precedent.</p>\n",
+    "conclusion": "<p dir=\"ltr\">An individual\u2019s Fourth Amendment right to be free from unreasonable search and seizure continues throughout the legal process of a criminal case. Justice Elena Kagan delivered the opinion for the 6-2 majority. The Court held that an individual\u2019s claim that challenges pretrial detention falls within the scope of the Fourth Amendment regardless of whether legal process has begun. Even where legal process has begun, the prosecution itself may be unsupported by probable cause, which gives rise to a Fourth Amendment claim. In such cases, a detainee\u2019s Fourth Amendment claim does not become a Fourteenth Amendment Due Process claim because the requirements of the Fourth Amendment have not been satisfied. The Court thus held that Manuel\u2019s Fourth Amendment claim was proper because his arrest was made without probable cause. The Court then declined to decide whether Manuel\u2019s Fourth Amendment claim arose when his criminal charges were dismissed or when legal process began and instead remanded the case to the U.S. Court of Appeals for the Seventh Circuit for further consideration.</p>\n<p>In his dissenting opinion, Justice Clarence Thomas wrote that the point at which Manuel\u2019s Fourth Amendment claim arose was irrelevant because Manuel filed his claim after the statute of limitations had run for either possible date. Justice Samuel A. Alito, Jr., wrote a separate dissenting opinion in which he argued that the majority had ignored the question of whether a malicious prosecution claim may be brought under the Fourth Amendment. At the point that Manuel brought his claim, the only timely claim he could have made was one for malicious prosecution. However, while a claim under the Fourth Amendment right to be free from unreasonable search and seizure is typically brought against law enforcement officers, officers do not initiate or dismiss prosecution, which is required for a claim of malicious prosecution. Malicious prosecution claims also require subjective bad faith, whereas Fourth Amendment claims use an objective standard. Lastly, malicious prosecution requires a termination of charges, while a Fourth Amendment violation occurs regardless of whether charges are eventually dismissed or not. Therefore, Justice Alito argued that a malicious prosecution claim cannot be based on the Fourth Amendment.</p>\n"
+}

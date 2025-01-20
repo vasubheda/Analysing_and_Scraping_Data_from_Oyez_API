@@ -1,0 +1,35 @@
+{
+    "ID": 54488,
+    "name": "Maryland v. Wilson",
+    "href": "https://api.oyez.org/cases/1996/95-1268",
+    "view_count": 0,
+    "docket_number": "95-1268",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                850284000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37776"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                856332000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37777"
+        }
+    ],
+    "question": "<p>Did Maryland's state trooper violate the Fourth Amendment's search and seizure guarantees by ordering Wilson, a mere passenger in the suspect vehicle, to exit the car during a traffic stop?</p>\n",
+    "citation": {
+        "volume": "519",
+        "page": "408",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18417"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/519/408/",
+    "facts_of_the_case": "<p>After a Maryland state trooper stopped the speeding car in which he was riding, a nervous Wilson was ordered to step out. As he did, a quantity of cocaine fell on the ground. When arrested for possession with intent to distribute, Wilson challenged the manner in which the evidence against him was obtained. After the Baltimore County Circuit Court ruled to suppress the evidence against Wilson, Maryland appealed to the Maryland Court of Special Appeals - which affirmed. The Supreme Court granted Maryland certiorari.</p>\n",
+    "conclusion": "<p>No. The Court held that after lawfully stopping a speeding vehicle, an officer may order its passengers to step out. While burdening their personal liberty somewhat, officers must be permitted such authority over passengers if the overriding government's interest in officer safety is to be protected.</p>\n"
+}

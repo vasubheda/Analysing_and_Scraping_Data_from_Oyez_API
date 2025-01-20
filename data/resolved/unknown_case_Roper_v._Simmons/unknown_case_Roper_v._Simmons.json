@@ -1,0 +1,42 @@
+{
+    "ID": 55266,
+    "name": "Roper v. Simmons",
+    "href": "https://api.oyez.org/cases/2004/03-633",
+    "view_count": 0,
+    "docket_number": "03-633",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1075096800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39360"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1097643600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39361"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1109656800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39362"
+        }
+    ],
+    "question": "<p>Does the execution of minors violate the prohibition of \"cruel and unusual punishment\" found in the Eighth Amendment and applied to the states through the incorporation doctrine of the 14th Amendment?</p>\n",
+    "citation": {
+        "volume": "543",
+        "page": "551",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19194"
+    },
+    "term": "2004",
+    "description": "A case in which the Court held that executing minors under the death penalty is unconstitutional.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/543/551/",
+    "facts_of_the_case": "<p>Christopher Simmons was sentenced to death in 1993, when he was only 17. A series of appeals to state and federal courts lasted until 2002, but each appeal was rejected. Then, in 2002, the Missouri Supreme Court stayed Simmon's execution while the U.S. Supreme Court decided Atkins v. Virginia, a case that dealt with the execution of the mentally disabled. After the U.S. Supreme Court ruled that executing the mentally disabled (or \"mentally retarded\" in the vernacular of the day) violated the Eighth and 14th Amendment prohibitions on cruel and unusual punishment because a majority of Americans found it cruel and unusual, the Missouri Supreme Court decided to reconsider Simmons' case.</p>\n<p>Using the reasoning from the Atkins case, the Missouri court decided, 6-to-3, that the U.S. Supreme Court's 1989 decision in Stanford v. Kentucky, which held that executing minors was not unconstitutional, was no longer valid. The opinion in Stanford v. Kentucky had relied on a finding that a majority of Americans did not consider the execution of minors to be cruel and unusual. The Missouri court, citing numerous laws passed since 1989 that limited the scope of the death penalty, held that national opinion had changed. Finding that a majority of Americans were now opposed to the execution of minors, the court held that such executions were now unconstitutional.</p>\n<p>On appeal to the U.S. Supreme Court, the government argued that allowing a state court to overturn a Supreme Court decision by looking at \"evolving standards\" would be dangerous, because state courts could just as easily decide that executions prohibited by the Supreme Court (such as the execution of the mentally ill in Atkins v. Virginia) were now permissible due to a change in the beliefs of the American people.</p>\n",
+    "conclusion": "<p>Yes. In a 5-4 opinion delivered by Justice Anthony Kennedy, the Court ruled that standards of decency have evolved so that executing minors is \"cruel and unusual punishment\" prohibited by the Eighth Amendment. The majority cited a consensus against the juvenile death penalty among state legislatures, and its own determination that the death penalty is a disproportionate punishment for minors. Finally the Court pointed to \"overwhelming\" international opinion against the juvenile death penalty. Chief Justice William Rehnquist and Justices Antonin Scalia, Sandra Day O'Connor, and Clarence Thomas all dissented.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55214,
+    "name": "Medell\u00edn v. Dretke",
+    "href": "https://api.oyez.org/cases/2004/04-5928",
+    "view_count": 0,
+    "docket_number": "04-5928",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1102658400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39218"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1111989600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39219"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1116824400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39220"
+        }
+    ],
+    "question": "<ol>\n<li>Is a federal court bound by the International Court of Justice's ruling that U.S. courts must reconsider a Mexican citizen's claim for relief under the Vienna Convention? 2. Should a federal court enforce an ICJ ruling?</li>\n</ol>\n",
+    "citation": {
+        "volume": "544",
+        "page": "660",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19142"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/544/660/",
+    "facts_of_the_case": "<p>A Texas trial court sentenced Medellin, a Mexican citizen, to death for participating in the gang rape and murder of two girls in 1993. A state appeals court affirmed the conviction. Medellin then filed a state habeas corpus action, claiming that Texas failed to notify him of his right to counsel under the Vienna Convention. The state trial court and the appellate court rejected this claim. Medellin then filed a federal habeas petition, raising the Vienna Convention claim. The district court denied the petition. Medellin next appealed to the Fifth Circuit. Before the Fifth Circuit could rule, the International Court of Justice issued its decision in a case where Mexico had alleged the United States violated the Vienna Convention with respect to Medellin and other Mexican citizens facing the death penalty in the United States. The ICJ held that the United States had violated the individually enforceable rights guaranteed by Vienna and must reconsider the convictions. The Fifth Circuit rejected Medellin's appeal, citing its previous holdings that the Vienna Convention did not create an individually enforceable right. More than two months after the U.S. Supreme Court agreed to hear the case, President George W. Bush issued a memo requiring the United States to follow the ICJ's ruling by having state courts review the Mexicans' cases. Citing the memo and the ICJ ruling, Medellin filed a new appeal in a Texas state court.</p>\n",
+    "conclusion": "<p>In a 5-4 per curiam opinion, the Court held that Medellin had not exhausted his state court appeals and sent the case back to Texas state court.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 54407,
+    "name": "Seminole Tribe of Florida v. Florida",
+    "href": "https://api.oyez.org/cases/1995/94-12",
+    "view_count": 0,
+    "docket_number": "94-12",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                813387600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37627"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                827906400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37628"
+        }
+    ],
+    "question": "<p>Does the Eleventh Amendment provide Florida with immunity from the Tribe lawsuit?</p>\n",
+    "citation": {
+        "volume": "517",
+        "page": "44",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18336"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/517/44/",
+    "facts_of_the_case": "<p>The Seminole Tribe brought suit against the State of Florida for violating the good faith negotiations requirement of the Indian Gaming Regulatory Act (IGRA). Under the IGRA, the Tribe may engage in gaming (i.e., casino gambling) activities subject to Florida's good faith regulations. Florida moved to dismiss the Tribe's action, alleging that the lawsuit violated Florida's sovereign immunity. On appeal from the District Court's denial of Florida's motion to dismiss the lawsuit, the Court of Appeals reversed, holding that the Eleventh Amendment shielded Florida from federal suit and that under Ex Parte Young, the Tribe may not enforce its right to good faith negotiations by naming Florida's governor as a party to the suit.</p>\n",
+    "conclusion": "<p>Yes. In a 5-to-4 decision, The Court held that Congress did intend to abrogate states' sovereign immunity under the IGRA but that the Indian Commerce Clause (and by implication the Commerce Clause) did not give Congress that power. Under the Eleventh Amendment, all states are regarded as sovereign entities. Such sovereignty inherently implies that states may not be sued by parties without their consent, even if they are given authority to regulate those parties' activities through receipt of federal funds. Finally, Ex Parte Young's ruling does not justify the Tribe's suit against Florida's governor in light of certain IGRA provisions which specifically prohibit such an action.</p>\n"
+}

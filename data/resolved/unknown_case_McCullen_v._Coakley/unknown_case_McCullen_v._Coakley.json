@@ -1,0 +1,42 @@
+{
+    "ID": 55991,
+    "name": "McCullen v. Coakley",
+    "href": "https://api.oyez.org/cases/2013/12-1168",
+    "view_count": 0,
+    "docket_number": "12-1168",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1372050000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41310"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1389765600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41311"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1403758800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41557"
+        }
+    ],
+    "question": "<p>1. Did the First Circuit err in upholding the Massachusetts law under the First Amendment, as applied to the states through the Fourteenth Amendment?</p>\n<p>2. If the Supreme Court's ruling in <em> Hill v. Colorado </em> applies, should that ruling be limited or overruled?</p>\n",
+    "citation": {
+        "volume": "573",
+        "page": "464",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20869"
+    },
+    "term": "2013",
+    "description": "A case in which the Court ruled that the Massachusetts legislature violated the freedom of speech protections of the First Amendment when it created a 35-foot buffer around the entrances, exits and driveways of abortion clinics where political activity was prohibited. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/573/464/",
+    "facts_of_the_case": "<p>In 2007, the Massachusetts state legislature created a 35-foot buffer zone around the entrances, exits, and driveways of abortion clinics. The petitioners, individuals who routinely engage in \"pro-life counseling\" outside of state abortion clinics, sued in federal district court and argued that the law violated the First Amendment protection of free speech. The district court held that, although the law placed a restriction on the time, place, and manner of speech, the law was constitutional because it was content-neutral and still left adequate, if not perfect, alternative means of communications. The U.S. Court of Appeals for the First Circuit affirmed and held that the Supreme Court, in <em> Hill v. Colorado </em> had already affirmed a similar statute in Colorado that prohibited certain activities within 100 feet of abortion clinics.</p>\n",
+    "conclusion": "<p>Yes, unanswered. Chief Justice John G. Roberts, Jr. delivered the opinion for the 9-0 majority. The Court held that the Massachusetts law was content-neutral on its face because a violation depends not on the speech itself but on the location of the speech, and therefore does not need to be analyzed under strict scrutiny. However, the Court also held that the law is still not sufficiently narrowly tailored to serve a significant government interest because it places too great a burden on the petitioners' First Amendment Rights. By denying the petitioners the ability to engage in conversation and leafleting on public streets and sidewalks, the law prevents the petitioners from engaging in exactly the transmission of ideas the First Amendment is meant to protect. The Court also held that, in enacting the law, Massachusetts overlooked other options that could serve the same interests without placing an undue burden on historical avenues of speech and debate.</p>\n<p>In his opinion concurring in the judgment, Justice Antonin Scalia wrote that the law is content-based and therefore must be examined under strict scrutiny. A blanket prohibition of speech in areas where only one type of politically charged speech is likely to occur cannot be content-neutral. Justice Scalia also pointed out that the majority opinion did not address the question of whether <em>Hill v. Colorado</em> should be limited or overruled. Because Justice Scalia argued that the law was content-based and therefore subject to strict scrutiny, he wrote that <em>Hill</em> should be overruled because it contradicts First Amendment jurisprudence. Justice Anthony M. Kennedy and Justice Clarence Thomas joined in the opinion concurring in judgment. Justice Samuel A. Alito, Jr. wrote a separate opinion concurring in judgment in which he argued that the law's exemption for clinic employees and volunteers constitutes viewpoint discrimination because it silences abortion opponents while allowing clinic workers and supporters to express their views.</p>\n"
+}

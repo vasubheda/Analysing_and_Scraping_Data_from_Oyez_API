@@ -1,0 +1,42 @@
+{
+    "ID": 55438,
+    "name": "Gonzales v. Planned Parenthood Federation of America, Inc.",
+    "href": "https://api.oyez.org/cases/2006/05-1382",
+    "view_count": 0,
+    "docket_number": "05-1382",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1150693200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39821"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1162965600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39822"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1176872400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39823"
+        }
+    ],
+    "question": "<p>Is the Partial-Birth Abortion Ban Act of 2003 unconstitutional under the Due Process Clause of the Fifth Amendment because it lacks an exception for partial-birth abortions necessary to protect the health of the mother or because it is unconstitutionally vague?</p>\n",
+    "citation": {
+        "volume": "550",
+        "page": "124",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20661"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>In 2003, Congress passed and the President signed the Partial-Birth Abortion Ban Act. The controversial concept of partial-birth abortion is defined in the Act as any abortion in which the death of the fetus occurs when \"the entire fetal head [...] or [...] any part of the fetal trunk past the navel is outside the body of the mother.\"</p>\n<p>Planned Parenthood sued the Attorney General of the United States, arguing that the Act was unconstitutional under the right to an abortion protected by the substantive component of the Due Process Clause of the Fifth Amendment, as interpreted by the Supreme Court in <em>Roe v. Wade</em> and subsequent cases. The District Court agreed and stopped the Act from going into effect.</p>\n<p>On appeal, the U.S. Court of Appeals for the Ninth Circuit affirmed. Though the government claimed that the Act banned only a narrow, rare category of abortions, the Circuit Court ruled that the Act applied to the common abortion procedure known as \"D&amp;E\" (\"dilation and evacuation\"), as well as to the far less common \"intact D&amp;E,\" sometimes called \"D&amp;X\" (\"dilation and extraction\"). This made the ban expansive enough to qualify as an unconstitutional \"undue burden\" on the right to abortion, as defined in <em>Planned Parenthood v. Casey</em>.</p>\n<p>The Ninth Circuit also ruled that the Act's lack of an exception for abortions necessary to protect the health of the mother rendered it unconstitutional. Congress had included in the Act a finding that partial-birth abortions were never medically necessary, but the Ninth Circuit held that the Supreme Court's decision in <em>Stenberg v. Carhart</em> required the health exception in all cases where medical opinion on the necessity an abortion procedure is divided.</p>\n<p>Finally, the Circuit Court ruled that the Act was unconstitutionally vague, because the inclusion of ambiguous statutory terms such as \"partial-birth abortion\" would prevent physicians from knowing which methods of abortion were covered. The Circuit Court determined that the proper course of action was to block enforcement of the entire Act.</p>\n",
+    "conclusion": "<p>No. The Court ruled by a 5-4 vote that Congress's ban on partial-birth abortion was not unconstitutionally vague and did not impose an undue burden on the right to an abortion. Justice Anthony Kennedy wrote the opinion for the majority. The Court held that, under the most reasonable interpretation, the Act applies only to the intact D&amp;E method (also known as \"partial-birth abortion\") and not to the more common D&amp;E procedure. The Act's application was limited by provisions that restrict enforcement to cases where the physician intends to perform an intact D&amp;E and delivers the still-living fetus past specific \"anatomical landmarks.\" Because the majority found that the Act applies only to a specific method of abortion, it held that the ban was not unconstitutionally vague, overbroad, or an undue burden on the decision to obtain an abortion. The Court also held that Congress, after finding intact D&amp;E never to be medically necessary, could validly omit a health exception from the ban, even when \"some part of the medical community\" considers the procedure necessary. To require the exception whenever \"medical uncertainty\" exists would be \"too exacting a standard to impose on the legislative power [...] to regulate the medical profession.\" The Court left open the possibility that an as-applied challenge could be brought against the Act if it were ever applied in a situation in which an intact D&amp;E was necessary to preserve a woman's health. Justice Ginsburg's dissent disputed the majority's claim that the opinion was consistent with the <em>Casey</em> and <em>Stenberg</em> precedents and said \"The Court's hostility to the right <em>Roe</em> and <em>Casey</em> secured is not concealed.\"</p>\n"
+}

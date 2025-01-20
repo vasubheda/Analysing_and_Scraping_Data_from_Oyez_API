@@ -1,0 +1,35 @@
+{
+    "ID": 54876,
+    "name": "Cook v. Gralike",
+    "href": "https://api.oyez.org/cases/2000/99-929",
+    "view_count": 0,
+    "docket_number": "99-929",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                973490400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38495"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                983340000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38496"
+        }
+    ],
+    "question": "<p>Is Article VIII of the Missouri Constitution, as amended in 1996 to prompt the adoption of a \"Congressional Term Limits Amendment\" to the Federal Constitution, consistent with the Elections Clause of the U.S. Constitution (Art. I, Section 4, Clause 1)?</p>\n",
+    "citation": {
+        "volume": "531",
+        "page": "510",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18805"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/531/510/",
+    "facts_of_the_case": "<p>In the wake of U.S Term Limits v. Thornton, Missouri voters adopted an amendment to Article VIII of their State Constitution, which \"instructs\" each Member of Missouri's congressional delegation \"to use all of his or her delegated powers to pass the Congressional Term Limits Amendment\" set forth in section 16 of the Article. The Article also directs the Missouri Secretary of State to determine whether a statement reflecting a candidate's position on term limits should be placed by his or her name on the general election ballot. Don Gralike, a non-incumbent House of Representatives candidate, brought suit to enjoin the Secretary from implementing the Article. The District Court, granting Gralike summary judgment, found that Article VIII infringed upon the Qualifications Clauses of Article I of the Federal Constitution by creating additional qualifications for Congress and that the Article burdened a candidate's First Amendment right to speak freely on the issue of term limits. The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>No. In an opinion delivered by Justice John Paul Stevens, the Court held that Article VIII of the Missouri Constitution, which required the placement of negative labels next to state candidates for federal office, who failed to comply with voter-mandated support of federal term limits, was an unconstitutional attempt to regulate electoral outcomes, rather than a permissible regulation of state elections. Justice Stevens explained for the Court that Article VIII is designed to favor candidates who are willing to support a term-limits amendment and, \"[t]hus, far from regulating the procedural mechanisms of elections, Article VIII attempts to 'dictate electoral outcomes.' Such 'regulation' of congressional elections simply is not authorized by the Elections Clause.\"</p>\n"
+}

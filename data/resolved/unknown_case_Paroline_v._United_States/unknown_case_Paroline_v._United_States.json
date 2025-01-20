@@ -1,0 +1,42 @@
+{
+    "ID": 56030,
+    "name": "Paroline v. United States",
+    "href": "https://api.oyez.org/cases/2013/12-8561",
+    "view_count": 0,
+    "docket_number": "12-8561",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1372309200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41377"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1390370400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41378"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1398229200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41590"
+        }
+    ],
+    "question": "<p>To recover restitution, must either the government or the victim establish a causal relationship between the defendant's conduct and the victim's harm or damages?</p>\n",
+    "citation": {
+        "volume": "572",
+        "page": "434",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20901"
+    },
+    "term": "2013",
+    "description": "A case in which the Court ruled that to recover restitution, either the government or the victim must establish a causal relationship between the defendant's conduct and the victim's harm or damages. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/572/434/",
+    "facts_of_the_case": "<p>Doyle R. Paroline pled guilty to possession of 150-300 images of child pornography. Included among those files on his computer were two photographs of Amy Unknown, a victim of child pornography. He was sentenced to 24 months of incarceration followed by release under supervision. Under a federal statute that mandates full restitution to victims of child pornography by those convicted of creating, distributing or possessing such material, the Government and Amy sought restitution in the amount of nearly $3.4 million. The district court denied restitution and held that the statute required the Government to prove that Paroline's possession of the images was the proximate cause of the injuries for which restitution was sought. The U.S. Court of Appeals for the Fifth Circuit reversed and held that Paroline was responsible for restitution for all the victim's losses even if his criminal acts occurred after the victim's losses.</p>\n",
+    "conclusion": "<p>Yes. Justice Anthony M. Kennedy delivered the opinion for the 5-4 majority. The Court held that the government or victim must prove that the costs for which the victim seeks restitution stem from the offense in question. However, this causal link must be not simply factual but rather proximate, which means that there must be a sufficient connection between the offense and the victim's costs. The proximate cause requirement prevents a defendant from being held liable in situations where the link between the offense and the alleged harm could best be described as coincidental. In this case, although Paroline's individual possession of the pornographic images may not have directly caused the extent of the victim's losses that stem from the continuing traffic of her images, the Court held that it would be appropriate for a court to order restitution in an amount that represents the defendant's relative role in the larger process that caused harm to the victim.</p>\n<p>Chief Justice John G. Roberts, Jr. wrote a dissenting opinion in which he argued that, because there is no way to prove exactly what amount of the victim's harms were caused by this specific defendant's possession of her images, the court would only be able to pick an arbitrary restitution amount, which undermines a criminal defendant's right to due process of law. Since the statute requires the government or the victim to demonstrate the amount of the victim's loss that was caused by the offense in question, the restitution system fails in cases like this one, where the injury is not divisible. Justice Antonin Scalia and Justice Clarence Thomas joined in the dissent. In her separate dissent, Justice Sotomayor argued that the restitution statute in question requires the defendant to pay restitution for the victim's costs in full, though a periodic payment schedule may be implemented. If the defendant were to avoid paying restitution simply because he was one of many people who contributed to the victim's harms, such logic would excuse all similar offenders and the victim would be unable to obtain any restitution. Because individual possessors of child pornography act in concert as part of a larger network, they act with the knowledge of their roles and the larger harms their actions cause to the victim, which means that they must be held liable.</p>\n"
+}

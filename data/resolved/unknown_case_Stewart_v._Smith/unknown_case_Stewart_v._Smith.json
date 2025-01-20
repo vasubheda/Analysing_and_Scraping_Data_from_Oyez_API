@@ -1,0 +1,35 @@
+{
+    "ID": 54973,
+    "name": "Stewart v. Smith",
+    "href": "https://api.oyez.org/cases/2001/01-339",
+    "view_count": 0,
+    "docket_number": "01-339",
+    "timeline": [
+        {
+            "event": "Certified question to Arizona Supreme Court",
+            "dates": [
+                1008136800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51680"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1025240400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38683"
+        }
+    ],
+    "question": "<p>Did the Court of Appeals err in interpreting Arizona law concerning its postconviction-relief rule?</p>\n",
+    "citation": {
+        "volume": "536",
+        "page": "856",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/20505"
+    },
+    "term": "2001",
+    "description": "In determining whether procedural default barred federal habeas corpus review of Arizona prisoner's ineffective-assistance-of-counsel claim, Arizona waiver determination is independent of federal law.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/536/856/",
+    "facts_of_the_case": "<p>Robert Smith was convicted of first-degree murder and sentenced to death. Smith filed a series of petitions for state postconviction relief, alleging that his trial and appellate counsel were ineffective. The Superior Court denied Smith's claims, finding them waived under Arizona Rule 32.2(a)(3) because he failed to raise them in his previous Rule 32 petitions. The court rejected Smith's argument that his failure to raise these claims was also due to ineffective assistance because his prior appellate and Rule 32 counsel, who are members of the Arizona Public Defender's office, refused to file ineffective assistance of counsel claims because his trial counsel was also a member of the Public Defender's office. The Federal District Court held that Smith's claim was barred by the lower court's procedural ruling. In reversing, the Court of Appeals held that the state procedural default was not independent of federal law and thus did not bar federal review of the merits of Smith's claim. The appellate court reasoned that Arizona Rule 32.2(a)(3) applies a different standard for waiver depending on whether the claim asserted in a Rule 32 petition was of sufficient constitutional magnitude and that determination whether a claim is of sufficient magnitude required consideration of the merits of the claim.\u00a0</p>\n",
+    "conclusion": "<p>On the certification question (534 U.S. 157):In a per curiam opinion, the Court granted certiorari to review the Court of Appeals holding. The Court reasoned that in order to determine whether the District Court may review Smith's claims, it first had to know whether the Court of Appeals properly interpreted Arizona law concerning Rule 32.2(a)(3) and, therefore, certified the following question to the Arizona Supreme Court: \"At the time of respondent's third Rule 32 petition in 1995, did the question whether an asserted claim was of 'sufficient constitutional magnitude' to require a knowing, voluntary and intelligent waiver for purposes of Rule 32.2(a)(3) depend upon the merits of the particular claim or merely upon the particular right alleged to have been violated?\"</p>\n"
+}

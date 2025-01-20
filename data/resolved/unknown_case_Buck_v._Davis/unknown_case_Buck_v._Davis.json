@@ -1,0 +1,42 @@
+{
+    "ID": 62717,
+    "name": "Buck v. Davis",
+    "href": "https://api.oyez.org/cases/2016/15-8049",
+    "view_count": 0,
+    "docket_number": "15-8049",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1465189200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53741"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1475643600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53870"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1487743200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53980"
+        }
+    ],
+    "question": "<p>Did the U.S. Court of Appeals for the Fifth Circuit impose an unduly burdensome standard of review--requiring extraordinary circumstances--for granting a Certificate of Appealability (COA) for a claim of ineffective assistance of counsel?</p>\n",
+    "citation": {
+        "volume": "580",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27433"
+    },
+    "term": "2016",
+    "description": "A case in which the Court held that the U.S. Court of Appeals for the Fifth Circuit applied an unduly burdensome standard of review on a Certificate of Appealability (COA) for a claim of ineffective assistance of counsel when it denied the COA for failing to demonstrate extraordinary circumstances. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/580/15-8049/",
+    "facts_of_the_case": "<p>In July 1995, Duane Edward Buck was arrested for the murder of his ex-girlfriend, Debra Gardner, and her friend Kenneth Butler. Buck was convicted of capital murder for both of the deaths. During the penalty phase of trial, the prosecution presented evidence of Buck\u2019s future dangerousness based on his criminal history, his conduct, and his demeanor before and after arrest. The defense presented the testimony of a clinical psychologist to evaluate the risk of future dangerousness. That expert stated that he considered demographic factors, including race, in his analysis and that, statistically, minorities are overrepresented in the criminal justice system. On cross-examination, the prosecution clarified that the expert\u2019s opinion was that the race factor \u201cblack\u201d increased the likelihood of future dangerousness. The jury found that there was sufficient evidence of Buck\u2019s future dangerousness without any sufficient mitigating factors to justify a life sentence, so the jury sentenced Buck to death. The Texas Court of Criminal Appeals affirmed the conviction and sentence.</p>\n<p>Buck filed various claims for state and federal habeas relief that were denied, until the U.S. Supreme Court decided <em>Trevino v. Thaler</em>, which held that Texas\u2019 procedural scheme made it almost impossible to raise ineffective assistance of counsel claims on direct appeal, and therefore that a procedural default on such a claim could be excused. While some of these claims were pending, the state attorney general admitted in a different case that the state should not have called an expert witness to testify about future dangerousness of a defendant based on race and named Buck\u2019s case as one affected by similar testimony. Buck again sought federal habeas relief based on ineffective assistance of counsel because his counsel knowingly called an expert witness who testified that race was a factor in determining future dangerousness. The district court dismissed the claim because Buck failed to show that the outcome of his trial was prejudiced. The U.S. Court of Appeals for the Fifth Circuit similarly denied Buck\u2019s request for a Certificate of Appealability by holding that Buck did not show sufficient extraordinary circumstances to justify relief from the lower court\u2019s judgment.</p>\n",
+    "conclusion": "<p dir=\"ltr\">The U.S. Court of Appeals for the Fifth Circuit applied the wrong standard of review when it denied Buck\u2019s Certificate of Appealability (COA) for failing to demonstrate extraordinary circumstances. Chief Justice John G. Roberts, Jr., delivered the opinion for the 6-2 majority, which held that the proper standard of review in COA analysis was whether Buck\u2019s claim was reasonably debatable. An appellate court should not consider the actual merits of an appeal unless it first determined that the claim was reasonably debatable. In this case, by essentially deciding the appeal on its actual merits and then denying Buck\u2019s COA based on that adjudication, the Fifth Circuit inverted the COA analysis and imposed an undue burden on Buck. The Court also held that Buck successfully demonstrated ineffective assistance of counsel. It reasoned that Buck received inadequate assistance of counsel because his attorney introduced evidence that Buck was liable to be a future danger because of his race, and that it was reasonably probable that without this testimony he may not have been sentenced to death. Finally, the Court held that the district court\u2019s denial of Buck\u2019s motion for habeas relief was an abuse of discretion and noted that there was a reasonable probability that Buck was sentenced to death in part based on his race. To punish someone based on an immutable characteristic, the Court noted, \u201cis a disturbing departure from a basic premise of our criminal justice system: Our law punishes people for what they do, not who they are.\u201d </p>\n<p>Justice Clarence Thomas filed a dissenting opinion in which he argued that the majority opinion misapplied settled law in order to reach the outcome it desired. Under the majority\u2019s construction of the COA analysis, no COA could ever be denied. The proper construction of the COA analysis requires that, in order to deny a COA because the prisoner\u2019s claim is not reasonably debatable, a court must first determine that it is meritless. Justice Thomas also argued that Buck failed to demonstrate ineffective assistance of counsel because he did not demonstrate that his counsel materially prejudiced his defense. Additionally, Justice Thomas wrote that the district court\u2019s denial of Buck\u2019s motion for habeas relief was not an abuse of discretion, and he criticized the level of deference shown by the majority towards the findings of the district court.</p>\n"
+}

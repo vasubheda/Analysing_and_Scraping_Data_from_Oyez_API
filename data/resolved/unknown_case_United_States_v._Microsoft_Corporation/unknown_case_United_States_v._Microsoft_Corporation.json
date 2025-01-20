@@ -1,0 +1,42 @@
+{
+    "ID": 62903,
+    "name": "United States v. Microsoft Corporation",
+    "href": "https://api.oyez.org/cases/2017/17-2",
+    "view_count": 0,
+    "docket_number": "17-2",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1508130000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54135"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1519711200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54184"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1523941200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54250"
+        }
+    ],
+    "question": "<p>Is an email provider who has been served with a warrant required, under 18 U.S.C. \u00a7 2703, to provide the federal government with emails, even when the email records are stored exclusively outside the United States?</p>\n",
+    "citation": {
+        "volume": "584",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27545"
+    },
+    "term": "2017",
+    "description": "A case in which, following the enactment of the Clarifying Lawful Overseas Use of Data Act, the Court vacated the judgment on review and remanded with instructions to first vacate the district court's contempt finding and its denial of Microsoft's motion to quash, and then to direct the district court to dismiss as moot a case regarding whether a provision of the Stored Communications Act, 18 U.S.C. \u00a7 2703, requires that an email provider who has been served with a warrant provide the federal government with emails, even when the email records are stored exclusively outside the United States.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/584/17-2/",
+    "facts_of_the_case": "<p>Since 1997, Microsoft has operated a web-based email service available for public use without charge (most recently called Outlook.com). Much of the data associated with this service is saved on datacenters operated by Microsoft and its subsidiaries, which are located throughout the world.</p>\n<p>In 2013, Microsoft was served with a search and seizure warrant for the data pertaining to a particular user. That user's data was stored solely in Microsoft's datacenter in Dublin, Ireland. Microsoft disclosed all other responsive information requested in the warrant but moved the magistrate judge to quash the warrant with respect to the user data stored in Dublin. The magistrate judge denied Microsoft's motion to quash, finding that the Stored Communications Act (SCA) authorized the district court to issue a warrant for \"information that is stored on servers abroad.\" The magistrate judge held that the place where the government would review the content (the United States), not the place where the content was stored (Ireland) was the relevant place of seizure.</p>\n<p>Microsoft appealed the magistrate judge's decision, and the district court affirmed after reviewing de novo. The district court also held Microsoft in civil contempt for refusing to comply fully with the warrant. The Second Circuit held that the SCA does not authorize courts to issue and enforce against US-based service providers warrants for the seizure of customer email content that is stored exclusively on foreign servers and thus reversed the district court's denial of the motion to quash, vacated the finding of contempt, and remanded the case to the district court.</p>\n",
+    "conclusion": "<p>While this case was pending, Congress passed and the President signed into law the Clarifying Lawful Overseas Use of Data Act, which amended the Stored Communications Act,\u00a018 U.S.C. \u00a7 2701, et seq.,\u00a0to require email providers to disclose emails in its \"possession, custody, or control,\" even if the emails are stored outside the United States. The government then procured and served Microsoft with a new warrant pursuant to the amended law, and the parties agreed that the new warrant had replaced the original warrant at issue in this case. The Court explained that because there was no longer any live dispute between the parties, the case had become moot. The Court vacated the ruling on review and remanded the case to the Second Circuit with instructions to vacate the district court's contempt finding and its denial of Microsoft's motion to quash, and to direct the district court to dismiss the case as moot.</p>\n"
+}

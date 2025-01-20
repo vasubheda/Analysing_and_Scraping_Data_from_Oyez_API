@@ -1,0 +1,35 @@
+{
+    "ID": 54593,
+    "name": "Baker v. General Motors Corp.",
+    "href": "https://api.oyez.org/cases/1997/96-653",
+    "view_count": 0,
+    "docket_number": "96-653",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                876891600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37970"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                884671200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37971"
+        }
+    ],
+    "question": "<p>Was a Missouri county court's admission of a witness's testimony, barred by a Michigan county court's injunction, a violation of the Full Faith and Credit Clause of Article IV?</p>\n",
+    "citation": {
+        "volume": "522",
+        "page": "222",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18522"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/522/222/",
+    "facts_of_the_case": "<p>After working for General Motors Corporation (GM) for fifteen years as a vehicular fire analyst, Ronald Elwell sued GM for wrongful discharge. In an eventual settlement agreement reached in a Michigan county court, the parties agreed to a permanent injunction barring Elwell from testifying against GM without its consent, unless subpoenaed to do so by another court or tribunal. Thereafter, when Kenneth Lee Baker commenced a product liability action against GM in a Missouri county court, Elwell was subpoenaed to testify on Baker's behalf. When GM argued that Elwell was barred from testifying under the Michigan court injunction, the Missouri court disagreed and permitted his deposition and testimony. After suffering an adverse verdict in the Baker case, GM appealed on the basis that Elwell's testimony was illegally admitted. When a federal appeals court agreed with GM, Baker appealed and the Supreme Court granted certiorari.</p>\n",
+    "conclusion": "<p>No. In unanimous decision, the Court held that GM's injunctive agreement with Elwell did not reach beyond the parties specific controversy to affect Elwell's conduct in other states. Noting Missouri's \"public policy,\" shielding from disclosure only confidential or privileged information, the Court reasoned that since Elwell's testimony in the Baker case was neither confidential nor privileged, its prohibition would not be necessary. Finally, the Court ruled that full faith and credit does not require states to adopt other state's practices regarding time, manner, and mechanisms for enforcing judgments. Such enforcement measures are subject to the \"even-handed\" control of local state forums.</p>\n"
+}

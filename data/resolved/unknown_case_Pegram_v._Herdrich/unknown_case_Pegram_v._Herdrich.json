@@ -1,0 +1,35 @@
+{
+    "ID": 54781,
+    "name": "Pegram v. Herdrich",
+    "href": "https://api.oyez.org/cases/1999/98-1949",
+    "view_count": 0,
+    "docket_number": "98-1949",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                951285600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38316"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                960786000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38317"
+        }
+    ],
+    "question": "<p>Are treatment decisions made by a health maintenance organization, acting through its physician employees, fiduciary acts within the meaning of the Employee Retirement Income Security Act of 1974?</p>\n",
+    "citation": {
+        "volume": "530",
+        "page": "211",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18710"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/530/211/",
+    "facts_of_the_case": "<p>In 1991, Cynthia Herdrich, after feeling an unusual pain in her stomach, was examined by Lori Pegram, a physician affiliated with Carle Clinic Association, P. C., Health Alliance Medical Plans, Inc., and Carle Health Insurance Management Co., Inc. (hereafter Carle). Carle functions as a health maintenance organization (HMO) organized for profit. Pegram then required Herdrich to wait eight days for an ultrasound of her inflamed abdomen, which was to be performed at a facility staffed by Carle more than 50 miles away from Herdrich. During that period, Herdrich's appendix ruptured. Herdrich sued Carle, including Pegram, in State court for medical malpractice and two counts of fraud. Carle and Pegram, under the 1974 Employee Retirement Income Security Act (ERISA), removed the case to federal court. Ultimately, Herdrich was only able to pursue one fraud count, which was amended to allege that Carle's HMO organization provisions rewarding its physician owners for limiting medical care, entailed an inherent or anticipatory breach of an ERISA fiduciary duty, because the terms create an incentive to make decisions in the physicians' self-interest, rather than the plan participants' exclusive interests. The District Court granted Carle's motion to dismiss on the ground that Carle was not acting as an ERISA fiduciary. The Court of Appeals reversed the dismissal.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice David H. Souter, the Court held that mixed treatment and eligibility decisions to delay medical treatment by sending a patient to a HMO owned facility, with adverse consequences, made by a health maintenance organization through its physician, are not fiduciary decisions under ERISA. Thus, Herdrich did not state an ERISA claim. \"Herdrich's remedy -- return of profit to the plan for the participants' benefit -- would be nothing less than elimination of the for-profit HMO,\" wrote Justice Souter for the Court, \"no HMO organization could survive without some incentive connecting physician reward with treatment rationing.\" Justice Souter noted that \"the Federal Judiciary would be acting contrary to the congressional policy of allowing HMO organizations if it were to entertain an ERISA fiduciary claim portending wholesale attacks on existing HMOs solely because of their structure.\"</p>\n"
+}

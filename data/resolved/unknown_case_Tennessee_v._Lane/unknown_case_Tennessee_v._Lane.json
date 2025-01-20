@@ -1,0 +1,42 @@
+{
+    "ID": 55143,
+    "name": "Tennessee v. Lane",
+    "href": "https://api.oyez.org/cases/2003/02-1667",
+    "view_count": 0,
+    "docket_number": "02-1667",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1056344400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52584"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1073973600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52583"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1084770000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39018"
+        }
+    ],
+    "question": "<p>Did the Americans with Disabilities Act violate the sovereign immunity doctrine of the 11th Amendment when, based on Congress's 14th Amendment enforcement powers of the Due Process clause, it allowed individuals to sue states for denying them services based on their disabilities?</p>\n",
+    "citation": {
+        "volume": "541",
+        "page": "509",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/20528"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/541/509/",
+    "facts_of_the_case": "<p>George Lane and Beverly Jones were disabled and could not access upper floors in Tennessee state courthouses. Lane, Jones, and several others sued Tennessee in federal district court, alleging that by denying them public services based on their disabilities, Tennessee was in violation of Title II of the Americans with Disabilities Act (1990). According to Title II, no person may be denied access to \"services, programs, or activities\" on the basis of his disability. The act allows alleged victims of discrimination to sue states for damages.</p>\n<p>Tennessee asked that the case be dismissed, claiming that it was barred by the 11th Amendment's prohibition of suits against states in federal courts (the sovereign immunity doctrine). The state cited\u00a0<em>Alabama v. Garrett</em>\u00a0(2001), in which the U.S. Supreme Court ruled that Congress had acted unconstitutionally in granting citizens the right to sue states for disability discrimination (such as the denial of employment) under the 14th Amendment's equal protection clause. In that case the Supreme Court reasoned that Congress did not have enough evidence of disability discrimination by states to justify the waiver of sovereign immunity.</p>\n<p>The district court rejected the state's argument and denied the motion to dismiss. The Sixth Circuit Court of Appeals panel affirmed. The courts reasoned that because Title II of the ADA dealt with the Due process Clause of the 14th Amendment, not the equal protection clause, the ruling in\u00a0<em>Garrett</em>\u00a0did not apply. The court found that while Congress may not have had enough evidence of disability discrimination to waive sovereign immunity for equal protection claims, it did have enough evidence of Due Process violations (such as non-handicap-accessible courthouses) to waive the sovereign immunity doctrine for Due Process claims.</p>\n",
+    "conclusion": "<p>No. In a 5-to-4 opinion written by Justice John Paul Stevens, the Court held that Congress had sufficiently demonstrated the problems faced by disabled persons who sought to exercise fundamental rights protected by the Due Process clause of the 14th Amendment (such as access to a court). The Court also emphasized that the remedies required from the states were not unreasonable - they just had to make reasonable accommodations to allow disabled persons to exercise their fundamental rights. Because Title II was a \"reasonable prophylactic measure, reasonably targeted to a legitimate end,\" and because Congress had the authority under the 14th Amendment to regulate the actions of the states to accomplish that end, the law was constitutional.</p>\n"
+}

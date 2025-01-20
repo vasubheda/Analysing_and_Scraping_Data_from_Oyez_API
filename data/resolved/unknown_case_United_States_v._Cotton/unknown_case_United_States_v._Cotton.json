@@ -1,0 +1,35 @@
+{
+    "ID": 54970,
+    "name": "United States v. Cotton",
+    "href": "https://api.oyez.org/cases/2001/01-687",
+    "view_count": 0,
+    "docket_number": "01-687",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1018846800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38677"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1021870800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38678"
+        }
+    ],
+    "question": "<p>Does the omission from a federal indictment of a fact that enhances the statutory maximum sentence justify a Court of Appeals' vacating the enhanced sentence, even though the defendant did not object in the trial court?</p>\n",
+    "citation": {
+        "volume": "535",
+        "page": "625",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/18899"
+    },
+    "term": "2001",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/535/625/",
+    "facts_of_the_case": "<p>A federal grand jury returned an indictment charging Leonard Cotton and others with conspiracy to distribute and to possess with intent to distribute a detectable amount of cocaine and cocaine base. After a jury convicted them, Cotton and the others received a sentence based on the District Court's finding of drug quantity of at least 50 grams of cocaine base, which implicated certain enhanced penalties. They did not object in the District Court to the fact that the sentences were based on a quantity not alleged in the indictment. While their appeal was pending, the U.S. Supreme Court decided, in Apprendi v. New Jersey, 530 U.S. 466, that \"other than the fact of a prior conviction, any fact that increases the penalty for a crime beyond the prescribed statutory maximum must be submitted to a jury, and proved beyond a reasonable doubt.\" In federal prosecutions, such facts must also be charged in the indictment. Cotton and others then argued before the Court of Appeals that their sentences were invalid under Apprendi, because the drug quantity issue was neither alleged in the indictment nor submitted to the petit jury. The appellate court vacated the sentences on the ground that it had no jurisdiction to impose a sentence for an offense not charged in the indictment.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Chief Justice William H. Rehnquist, the Court held that the omission from a federal indictment of a fact that enhances the statutory maximum sentence does not justify a Court of Appeals' vacating the enhanced sentence, even though the defendant did not object in the trial court. The Court reasoned that, even if the error affected the defendants' substantive rights, it did not seriously affect the fairness, integrity, or public reputation of judicial proceedings. The Court noted that the evidence that the conspiracy involved at least 50 grams of cocaine base was overwhelming and essentially uncontroverted.</p>\n"
+}

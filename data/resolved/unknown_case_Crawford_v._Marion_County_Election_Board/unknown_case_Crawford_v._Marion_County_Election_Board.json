@@ -1,0 +1,42 @@
+{
+    "ID": 55488,
+    "name": "Crawford v. Marion County Election Board",
+    "href": "https://api.oyez.org/cases/2007/07-21",
+    "view_count": 0,
+    "docket_number": "07-21",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1190696400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39961"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1199858400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39962"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1209358800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39963"
+        }
+    ],
+    "question": "<p>Does a law that requires voters to present either a state or federal photo identification unduly burden citizens' right to vote?</p>\n",
+    "citation": {
+        "volume": "553",
+        "page": "181",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20756"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/553/181/",
+    "facts_of_the_case": "<p>In 2005, the Indiana Legislature passed a law requiring all voters who cast a ballot in person to present a photo ID issued by the United States or the State of Indiana. Plaintiffs including the local Democratic Party and interest groups representing minority and elderly citizens argued that the law constituted an undue burden on the right to vote. At trial, the plaintiffs did not produce any witnesses who claimed they would be unable to meet the law's requirements. The district court and the court of appeals both upheld the law. However, the three-judge appellate panel was deeply divided. Dissenting Judge Terrence Evans claimed that the law was a thinly-veiled attempt to dampen turnout by those likely to vote for Democratic candidates.</p>\n",
+    "conclusion": "<p>By a vote of 6 to 3, the Court upheld the law, concluding that the photo I.D. requirement was closely related to Indiana's legitimate state interests in preventing voter fraud. The slight burden the law imposed on voters' rights did not outweigh these interests, which the Court characterized as \"neutral and nondiscriminatory.\" Although there was no majority opinion, the Court's decision included concurring opinions written by Justices John Paul Stevens and Antonin Scalia. Justices David Souter and Stephen Breyer each wrote dissenting opinions. Justice Ruth Bader Ginsburg joined Justice Souter's dissent.</p>\n"
+}

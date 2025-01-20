@@ -1,0 +1,42 @@
+{
+    "ID": 55825,
+    "name": "Sackett v. EPA",
+    "href": "https://api.oyez.org/cases/2011/10-1062",
+    "view_count": 0,
+    "docket_number": "10-1062",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1309150800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40856"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1326088800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40857"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1332306000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40858"
+        }
+    ],
+    "question": "<p>Do landowners have a right to go to court to challenge a Clean Water Act order of the Environmental Protection Agency?</p>\n",
+    "citation": {
+        "volume": "566",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19747"
+    },
+    "term": "2011",
+    "description": "A case in which the Court found that homeowners have a right to go to court over a Clean Water Act order of the Environmental Protection Agency.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/566/120/",
+    "facts_of_the_case": "<p>Chantell and Mike Sackett own a half-acre lot in a residential area near Priest Lake, Idaho. In April and May of 2007, the Sacketts filled in about one-half acre of that property with dirt and rock in preparation for building a house. On November 26, 2007, the U.S. Environmental Protection Agency issued a compliance order against the Sacketts. The compliance order alleged that the parcel is a wetland subject to the Clean Water Act and that the Sacketts violated the CWA by filling in their property without first obtaining a permit. The order required the Sacketts to remove the fill material and restore the parcel to its original condition.</p>\n<p>The Sacketts sought a hearing with the EPA to challenge the finding that the Parcel is subject to the CWA. The EPA did not grant the Sacketts a hearing and continued to assert CWA jurisdiction over the parcel. The Sacketts filed suit in the U.S. District Court for the District of Idaho seeking injunctive and declaratory relief. They challenged the compliance order as (1) arbitrary and capricious under the Administrative Procedure Act; (2) issued without a hearing in violation of the Sacketts' procedural due process rights; and (3) issued on the basis of an \"any information available\" standard that is unconstitutionally vague. The district court granted the EPA's motion to dismiss, finding that the CWA precludes judicial review of compliance orders before EPA has started an enforcement action in federal court. On appeal, the U.S. Court of Appeals for the Ninth Circuit affirmed the lower court order.</p>\n",
+    "conclusion": "<p>Yes. In a 9-0 decision, Justice Antonin Scalia wrote the majority opinion holding that the EPA's compliance order is a final agency action, and there is no other remedy for the Sackett's other than judicial review. Justice Scalia rejected each of the government's arguments that the Clean Water Act precluded judicial review of compliance orders. Justice Ruth Bader Ginsburg wrote a concurrence, noting that the Court ruled only on whether the Sackett's can seek review of the EPA's authority to regulate their land, not whether they can challenge the specific terms of the compliance order. Justice Samuel A. Alito also concurred, stating that judicial review of compliance is better than nothing, but the only real solution is a clarification by Congress of the ambiguities in the Clean Water Act .</p>\n"
+}

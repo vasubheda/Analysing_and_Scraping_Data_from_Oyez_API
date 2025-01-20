@@ -1,0 +1,42 @@
+{
+    "ID": 63020,
+    "name": "Obduskey v. McCarthy & Holthus LLP",
+    "href": "https://api.oyez.org/cases/2018/17-1307",
+    "view_count": 0,
+    "docket_number": "17-1307",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1530162000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54339"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1546840800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54398"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1553058000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54476"
+        }
+    ],
+    "question": "<p>Does the Fair Debt Collection Practices Act apply to non-judicial foreclosure proceedings?</p>\n",
+    "citation": {
+        "volume": "586",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27621"
+    },
+    "term": "2018",
+    "description": "A case in which the Court held that a business engaged in no more than non-judicial foreclosure proceedings is not a \u201cdebt collector\u201d under the Fair Debt Collection Practices Act, except for one limited purpose as defined within the Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/586/17-1307/",
+    "facts_of_the_case": "<p>Dennis Obduskey obtained a mortgage loan for $329,940 in 2007. The loan was serviced by Wells Fargo. Obduskey defaulted on the loan in 2009. Over the next six years foreclosure proceedings were initiated several times, but never completed. Obduskey\u2019s loan remained in default, and in 2014 the bank hired the law firm of McCarthy &amp; Holthus LLP to pursue non-judicial foreclosure proceedings against him. McCarthy sent Obduskey a letter informing him that it had been instructed to begin foreclosure proceedings, and Obduskey responded to the letter disputing the debt. The firm initiated a foreclosure action in May 2015. Obduskey sued McCarthy and Wells Fargo, alleging, among other things, a violation of the Fair Debt Collection Practices Act (FDCPA). The district court granted the defendants\u2019 motions to dismiss on all claims, and noted disagreement among courts as to whether the FDCPA applied to non-judicial foreclosure proceedings.&nbsp;</p>\n<p>Upon Obduskey\u2019s appeal to the U.S. Court of Appeals for the Tenth Circuit, the appellate court held that based on the statute\u2019s plain language as well as policy considerations, the FDCPA did not apply to non-judicial foreclosure proceedings in Colorado. It agreed with the district court\u2019s finding that Wells Fargo was not a debt collector because Obduskey was not in default when it began servicing the loan. It also held that McCarthy was not a debt collector under the FDCPA because attempting to enforce a security interest was not the same as attempting to collect a money debt.</p>\n<p>In reaching this conclusion, the Tenth Circuit joined the Ninth Circuit, and ruled in conflict with the outcomes reached on this topic in the Fourth, Fifth, and Sixth Circuits.</p>\n<p>Obduskey petitioned the U.S. Supreme Court for review. The Court granted certiorari, and will consider&nbsp;whether the Fair Debt Collection Practices Act applies to non-judicial foreclosure proceedings. This is the same question presented in <a href=\"/cases/2018/17-1351\">Greer v. Green Tree Servicing LLC</a>.</p>\n",
+    "conclusion": "<p>A business engaged in no more than non-judicial foreclosure proceedings is not a \u201cdebt collector\u201d under the Fair Debt Collection Practices Act (FDCPA), except for the limited purpose of \u00a7 1692f(6). In a unanimous opinion authored by Justice Stephen Breyer, the Court held that law firm McCarthy &amp; Holthus LLP was not a \u201cdebt collector\u201d within the meaning of the FDCPA when it merely initiated a nonjudicial foreclosure action. The Court first looked to the primary definition of \u201cdebt collector\u201d under the FDCPA, which is \u201cany person . . . in any business the principal purpose of which is to collect, directly or indirectly, debts.\u201d The Act then provides a limited-purpose definition that a debt collector \u201calso includes any person . . . in any business the principal purpose of which is the enforcement of security interests.\u201d The Court found the language \u201calso includes\u201d strongly suggests that the limited-purpose security enforcers do not fall within the scope of the primary definition. This reading gives effect to every word of the definition. The Court then found that the purpose (to treat security-interest enforcement differently from ordinary debt collection so as to avoid conflicts with state non-judicial foreclosure schemes) and legislative history of the FDCPA (the language ultimately used in the Act was a compromise between competing versions of the bill that treated security-interest enforcement vastly differently) support this interpretation.</p>\n<p>Justice Sonia Sotomayor filed a concurring opinion in which she emphasizes how complex the statute is and calls upon Congress to clarify the statute if it feels the Court (understandably, given the statute\u2019s complexity) interpreted it incorrectly. She also notes that the Court \u201crightly cabins its holding to the kinds of good-faith actions presented here\u201d and does not suggest that \u201cpursuing nonjudicial foreclosure is a license to engage in abusive debt collection practices.\u201d</p>\n"
+}

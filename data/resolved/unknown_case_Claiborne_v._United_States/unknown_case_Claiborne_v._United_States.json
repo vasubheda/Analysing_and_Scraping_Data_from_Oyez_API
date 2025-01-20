@@ -1,0 +1,42 @@
+{
+    "ID": 55416,
+    "name": "Claiborne v. United States",
+    "href": "https://api.oyez.org/cases/2006/06-5618",
+    "view_count": 0,
+    "docket_number": "06-5618",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1162533600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39760"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1171951200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39761"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1180933200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39762"
+        }
+    ],
+    "question": "<p>1) Was the District Court's sentence reasonable, even though it fell below the advised minimum in the Federal Sentencing Guidelines? 2) Does the Supreme Court's decision in <em>U.S. v. Booker</em> allow a court to require extraordinary circumstances to justify a sentence which constitutes a substantial variance from the Federal Sentencing Guidelines?</p>\n",
+    "citation": {
+        "volume": "551",
+        "page": "87",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20707"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/551/87/",
+    "facts_of_the_case": "<p>Mario Claiborne pleaded guilty to two drug-related charges. A District Court determined that according to the Federal Sentencing Guidelines the charges should carry a minimum sentence of 37 months in prison. However, the District Court decided to reduce Claiborne's sentence to 15 months based on factors enumerated in 18 U.S.C. 3553(a), including the defendant's young age, clean record, and improbability of committing similar crimes in the future. The government appealed the sentence to the U.S. Court of Appeals for the Eighth Circuit, claiming that it should be rejected unless \"extraordinary circumstances\" were found to justify the \"extraordinary reduction.\" Claiborne argued that because the Supreme Court in <em>U.S. v. Booker</em> had declared the Federal Sentencing Guidelines to be merely advisory, courts could not declare a sentence unreasonable based on variance from the Guidelines. The Eighth Circuit ruled that the 15-month sentence was unreasonable because the advised 37-month minimum in the Guidelines already took into account the circumstances that the District Court claimed were extraordinary.</p>\n",
+    "conclusion": "<p>Unanswered. Mario Claiborne was killed in a shooting incident in St. Louis, and his case was dismissed as moot.</p>\n"
+}

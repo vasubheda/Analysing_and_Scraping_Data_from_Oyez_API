@@ -1,0 +1,35 @@
+{
+    "ID": 55116,
+    "name": "Smith v. Doe",
+    "href": "https://api.oyez.org/cases/2002/01-729",
+    "view_count": 0,
+    "docket_number": "01-729",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1037167200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38948"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1046844000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38949"
+        }
+    ],
+    "question": "<p>Does the Ex Post Facto Clause of Article I Section 10 prohibit the Alaska Sex Offender Registration Act's registration requirement as a retroactive punishment?</p>\n",
+    "citation": {
+        "volume": "538",
+        "page": "84",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/19045"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/538/84/",
+    "facts_of_the_case": "<p>Under the Alaska Sex Offender Registration Act, any sex offender or child kidnaper incarcerated in Alaska must register with the Department of Public Safety, which maintains a central registry of sex offenders. While some of the data is kept confidential, some, such as the offender's name, photograph, and physical description, is published on the Internet. The Act's requirements are retroactive. John Doe I and John Doe II were convicted of aggravated sex offenses before the Act's passage are thus covered by it. Both brought suit, seeking to declare the Act void as applied to them under the Ex Post Facto Clause of Article I Section 10 of the United States Constitution. The District Court ruled against them and the Court of Appeals disagreed, holding that, because its effects were punitive, the Act violates the Ex Post Facto Clause.</p>\n",
+    "conclusion": "<p>No. In a 6-3 opinion delivered by Justice Anthony M. Kennedy, the Court held that the Alaska Sex Offender Registration Act's retroactive application does not violate the Ex Post Facto Clause because the act is nonpunitive. The Court reasoned that the act was clearly intended as a civil, non-punitive means of identifying previous offenders for the protection of the public. The Court also found that the stigma, which could result from registration, did not render the act effectively punitive, since the dissemination of the registration information did not constitute the imposition of any significant affirmative disability or restraint. Dissenting, Justice John Paul Stevens argued that the act could only cover those convicted of offenses committed after the effective date of the act without violating the Ex Post Facto Clause. Justice Ruth Bader Ginsburg, joined by Justice Stephen G. Breyer, dissented, arguing that the act was \"ambiguous in intent and punitive in effect\" and that its retroactive application was incompatible with the Ex Post Facto Clause.</p>\n"
+}

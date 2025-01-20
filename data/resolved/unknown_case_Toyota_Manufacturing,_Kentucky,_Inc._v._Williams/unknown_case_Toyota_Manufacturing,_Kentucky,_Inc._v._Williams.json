@@ -1,0 +1,35 @@
+{
+    "ID": 54947,
+    "name": "Toyota Manufacturing, Kentucky, Inc. v. Williams",
+    "href": "https://api.oyez.org/cases/2001/00-1089",
+    "view_count": 0,
+    "docket_number": "00-1089",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1005112800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38631"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1010469600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38632"
+        }
+    ],
+    "question": "<p>Did the Court of Appeals use the proper standard in determining whether an employee was disabled under the ADA due to carpal tunnel syndrome by showing that her manual disability involved a class of manual activities affecting the ability to perform tasks at work?</p>\n",
+    "citation": {
+        "volume": "534",
+        "page": "184",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/18876"
+    },
+    "term": "2001",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/534/184/",
+    "facts_of_the_case": "<p>In 1997, Toyota Motor Manufacturing, Kentucky, Inc. terminated Ella Williams, citing her poor attendance record. Subsequently, claiming to be disabled from performing her automobile assembly line job by carpal tunnel syndrome and related impairments, Williams sued Toyota for failing to provide her with a reasonable accommodation as required by the Americans with Disabilities Act of 1990 (ADA). Granting Toyota summary judgment, the District Court held that Williams's impairment did not qualify as a disability under the ADA because it had not substantially limited any major life activity and that there was no evidence that Williams had had a record of a substantially limiting impairment. In reversing, the Court of Appeals found that the impairments substantially limited Williams in the major life activity of performing manual tasks. Because her ailments prevented her from doing the tasks associated with certain types of manual jobs that require the gripping of tools and repetitive work with hands and arms extended at or above shoulder levels for extended periods of time, the appellate court concluded that Williams demonstrated that her manual disability involved a class of manual activities affecting the ability to perform tasks at work.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Sandra Day O'Connor, the Court held that the Court of Appeals did not apply the proper standard in making its determination because it analyzed only a limited class of manual tasks and failed to ask whether Williams's impairments prevented or restricted her from performing tasks that are of central importance to most people's daily lives. The Court also reasoned that for the purposes of the ADA, an impairment's impact must also be permanent or long-term. \"Given large potential differences in the severity and duration of the effects of carpal tunnel syndrome, an individual's carpal tunnel syndrome diagnosis, on its own, does not indicate whether the individual has a disability within the meaning of the ADA,\" wrote Justice O'Connor for the Court.</p>\n"
+}

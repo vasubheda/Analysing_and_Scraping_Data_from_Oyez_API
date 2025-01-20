@@ -1,0 +1,42 @@
+{
+    "ID": 56096,
+    "name": "Tibble v. Edison International",
+    "href": "https://api.oyez.org/cases/2014/13-550",
+    "view_count": 0,
+    "docket_number": "13-550",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1412226000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41677"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1424757600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41678"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1431925200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51654"
+        }
+    ],
+    "question": "<p>Does ERISA's six-year statute of repose bar a claim that plan fiduciaries breached their duty of prudence by offering higher-cost mutual funds to plan participants, even though identical lower-cost mutual funds were available, when fiduciaries initially chose the higher-cost mutual funds more than six years before the claim was filed?</p>\n",
+    "citation": {
+        "volume": "575",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/26952"
+    },
+    "term": "2014",
+    "description": "A case in which the Court held that, according to trust law, the fiduciary duty includes a continuing duty to monitor investments, and that a breach of that duty within six years of the filing of a lawsuit under the Employee Retirement Income Security Act is sufficient to allow the case to proceed.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/575/523/",
+    "facts_of_the_case": "<p>Edison International is a holding company for electric utilities and energy interests. Since 1999, Edison International and its related benefits and investment committees (collectively, Edison) have offered retail-class mutual funds as part of its 401(k) employee benefits plan, even though otherwise identical institutional-class funds that charged lower fees were available. Those mutual funds also give a portion of the fees collected back to plan service providers, including Edison's, which thereby reduces Edison's administrative costs.</p>\n<p>In 2007, Glenn Tibble and other Edison employees (Employees) sued under the Employee Retirement Income Security Act of 1974 (ERISA), which requires fiduciaries of an employee benefit plan to administer the plan prudently for the exclusive benefit of the participants. The Employees argued that the continued inclusion of the higher-cost funds in the benefit plan was a \"continuing violation\" of ERISA. Edison argued that ERISA's statute of repose, which bars claims filed more than six years after the date of the last action which constituted a part of the violation, prevented Employees' claim. The district court granted summary judgment for Edison and held that there was no \"continuing violation\" theory under ERISA. The court stated that the act of designating an investment for inclusion started the six-year period, and since Edison had not made any misstatements or actively concealed any breach following the initial inclusion, the six-year period had passed. The U.S. Court of Appeals for the Ninth Circuit affirmed.</p>\n",
+    "conclusion": "<p>No. Justice Stephen G. Breyer delivered the opinion for the unanimous Court, which held that the nature of the fiduciary duty under trust law creates a continuing obligation to monitor trust investments and remove imprudent ones. Because this continuing duty is separate from the initial duty to choose investments carefully, violation of the continuing duty counts as a breach of the fiduciary duty under the Employee Retirement Income Security Act (ERISA). As long as the breach of the continuing duty occurred within six years of the filing of the lawsuit, ERISA\u2019s statute of repose does not bar the claim.</p>\n"
+}

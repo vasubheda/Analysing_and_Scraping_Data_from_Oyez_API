@@ -1,0 +1,35 @@
+{
+    "ID": 62920,
+    "name": "Kernan v. Cuero",
+    "href": "https://api.oyez.org/cases/2017/16-1468",
+    "view_count": 0,
+    "docket_number": "16-1468",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1509948000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54155"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1509948000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54156"
+        }
+    ],
+    "question": "<p>Is it \u201cclearly established\u201d federal law that a state court must impose a lower sentence that the parties originally agreed upon, rather allowing the state to amend its complaint to seek a higher sentence and the defendant to withdraw his guilty plea\u2014such that a federal appeals court sitting in habeas proceedings can set aside the sentence of a state court for not applying that law?</p>\n",
+    "citation": {
+        "volume": "583",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27553"
+    },
+    "term": "2017",
+    "description": "A case in which the Court held that, for the purpose of habeas proceedings, its own precedent did not \u201cclearly establish\u201d that a state court must impose a lower sentence that the parties originally agreed upon, rather allowing the state to amend its complaint to seek a higher sentence and the defendant to withdraw his guilty plea.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/583/16-1468/",
+    "facts_of_the_case": "<p>In 2005, the State of California charged Michael Cuero with two felonies and a misdemeanor. Cuero initially pleaded \u201cnot guilty\u201d but subsequently changed to plead guilty to the two felony counts. Cuero admitted that he had previously served four separate prison terms, including a term for residential burglary, which counts toward California\u2019s \u201cthree strikes\u201d law. On his guilty-plea form, Cuero indicated that he understood that he \u201cmay receive this maximum punishment as as result of my plea: 14 years, 4 months in State Prison, $10,000 fine and 4 years parole.\u201d After a hearing, the state trial court accepted the plea and granted the State\u2019s motion to dismiss the misdemeanor charge. The court then scheduled a sentencing hearing.</p>\n<p>Before the sentencing hearing occurred, the prosecution determined that a second of Cuero\u2019s prior convictions qualified as a \u201cstrike\u201d and that the guilty-plea form erroneously listed only one strike. The fact that the present conviction would constitute his third \u201cstrike\u201d under the law, Cuero faced instead a minimum sentence of 25 years. The State asked the trial court for permission to amend the criminal complaint accordingly, and over Cuero\u2019s objection, the court granted the State\u2019s motion. However, the court permitted Cuero to withdraw his guilty plea in light of the change. Cuero withdrew his initial guilty plea and entered a new guilty plea to the amended complaint, which charged Cuero with one felony.</p>\n<p>The trial court sentenced Cuero to 25 years to life, his conviction and sentence were affirmed on direct appeal, and the California Supreme Court denied a state habeas petition.</p>\n<p>Cuero then filed a petition for federal habeas relief in the US District Court for the Southern District of California, which denied his petition. The Ninth Circuit reversed, holding that the state trial court had \u201cacted contrary to clearly established Supreme Court law\u201d by refusing to enforce the original plea agreement.\u201d</p>\n<p>\u00a0</p>\n",
+    "conclusion": "<p>No. In a per curiam opinion, the Court reversed the Ninth Circuit and remanded the case. The Supreme Court has never held that specific performance was the appropriate remedy for the circumstances presented in this case. In <em>Santobello v. New York</em>, the case the Ninth Circuit largely relies upon in finding \u201cclearly established\u201d federal law, the Court held that a defendant may not be bound to a plea agreement following a prosecutorial reach of an enforceable provision of such an agreement. However, \u201cfairminded jurists could disagree\u201d with the Ninth Circuit\u2019s reading of that case. Thus, the Ninth Circuit erred when it held that \u201cfederal law\u201d as interpreted by the Supreme Court \u201cclearly\u201d establishes that specific performance of the lower sentence that the parties had originally expected is constitutionally required.</p>\n"
+}

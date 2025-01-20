@@ -1,0 +1,42 @@
+{
+    "ID": 56114,
+    "name": "Jennings v. Stephens",
+    "href": "https://api.oyez.org/cases/2014/13-7211",
+    "view_count": 0,
+    "docket_number": "13-7211",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1395637200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41703"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1413349200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41704"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1421215200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41705"
+        }
+    ],
+    "question": "<p>Did the U.S. Court of Appeals for the Fifth Circuit err in holding that that a federal habeas petitioner who prevailed in district court must file a separate certificate of appealability to respond to the state's appeal?</p>\n",
+    "citation": {
+        "volume": "574",
+        "page": "271",
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20923"
+    },
+    "term": "2014",
+    "description": "A case in which the Court held that a federal habeas petitioner who prevailed in district court does not need to file a separate certificate of appealability to respond to the state's appeal.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/574/271/",
+    "facts_of_the_case": "<p>On July 19, 1988, Houston Police Officer Elston Howard was in the midst of arresting the clerk of an adult bookstore when Robert Mitchell Jennings entered the store intending to rob it. Jennings shot Officer Howard four times and then proceeded to rob the store. The trial court jury subsequently convicted Jennings of capital murder. In the sentencing phase of the trial, the prosecution presented evidence of Jennings' long criminal history as an aggravating factor. The defense called the jail chaplain to testify to his opinion that Jennings was not \"incorrigible,\" and the defense did not present any further evidence of mitigating factors.</p>\n<p>In 1996, Jennings filed a state habeas petition and argued that he had received ineffective assistance of counsel at the punishment phase because his attorneys had failed to contact his family to provide evidence of a disadvantaged background and had failed to find and present a 1978 psychological report that suggested that Jennings had a \"mild organic brain dysfunction.\" The state court held that Jennings' attorneys had conducted a sufficient investigation into his background, and that their decision not to introduce this testimony and evidence was a reasonable trial strategy. The state court recommended that the Texas Court of Criminal Appeals deny the request for habeas relief, and the Texas Court of Criminal Appeals acted accordingly.</p>\n<p>In 2009, Jennings filed a federal habeas petition with the district court. The district court granted the petition and held that Jennings had received ineffective assistance of counsel because his attorneys failed to present evidence of his disadvantaged background and possible mental incapacities. The U.S. Court of Appeals for the Fifth Circuit reversed and held that Jennings' counsel's decision not to pursue these avenues of argument was a legitimate trial strategy. The Court of Appeals also held that a federal habeas petitioner must file a certificate of appealability in order to respond to arguments concerning the state's appeal.</p>\n",
+    "conclusion": "<p>Yes. Justice Antonin Scalia delivered the opinion for the 6-3 majority. The Court held that, when an appellee does not cross-appeal, he may urge a defense of his judgment on alternative grounds without filing a certificate of appealability unless doing so would enlarge his rights or lessen those of his adversary as provided by the previous judgment. In this case, allowing Jennings to urge a defense of his judgment did not materially affect either his rights or those of the state. The Court held that this rule provides sufficient procedural safeguards to prevent a proliferation of frivolous habeas claims. Additionally, the statutory language that created the certificate of appealability requirement only dealt with the taking of appeals, not with a defense of a judgment from which an appeal has already been taken. Therefore, that requirement was not relevant in cases such as this one.</p>\n<p>Justice Clarence Thomas wrote a dissent in which he argued that Jennings' argument in defense of a previous judgment constituted a cross-appeal because it altered the grounds on which he could obtain relief. Because the argument was essentially a cross-appeal, a certificate of appealability should be required. Adhering to this standard rule not only aligns with previous habeas corpus jurisprudence but also prevents a rise in the number of frivolous appeals. Justice Anthony M. Kennedy and Justice Samuel A. Alito, Jr. joined in the dissent.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 62711,
+    "name": "Coleman v. Johnson",
+    "href": "https://api.oyez.org/cases/2011/11-1053",
+    "view_count": 0,
+    "docket_number": "11-1053",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1338267600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53667"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1338267600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53668"
+        }
+    ],
+    "question": "<p>Did the jury have sufficient evidence to support the Johnson\u2019s conviction for first-degree murder?</p>\n",
+    "citation": {
+        "volume": "566",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/27427"
+    },
+    "term": "2011",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/566/650/",
+    "facts_of_the_case": "<p>In 1995, Corey Walker shot and killed Taraja Williams following an argument about a debt Williams owed.  Lorenzo Johnson was present for this argument and heard Williams repeat several times that he was \u201cgoing to kill that kid.\u201d  A witness saw Walker and Johnson walking into an alley with Williams in between them.  Walker wore a long coat concealing a shotgun.  Johnson waited at the front of the alley while Williams shot Walker.  Johnson was tried as an accomplice to the murder.  The jury convicted him after hearing the testimony of several witnesses, among other evidence.  Johnson appealed his conviction, arguing that the prosecution did not present sufficient evidence to support his conviction.  The Pennsylvania Superior Court affirmed the conviction, and Johnson filed for a writ of habeas corpus in federal district court.  The district court denied the writ, but the U.S. Court of Appeals for the Third Circuit reversed.  The Third Circuit held that the evidence did not sufficiently prove Johnson\u2019s intent to kill Williams.</p>\n",
+    "conclusion": "<p>Yes.  In a per curiam opinion, the Supreme Court reversed the lower court.  Following the standard in <i>Jackson v. Virginia</i>, the Court held that a rational jury could find that Johnson intended to kill Williams based on the evidence presented. The Third Circuit usurped the jury\u2019s role as the finder of fact by holding otherwise.  The evidence was sufficient to support Johnson\u2019s conviction.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 55113,
+    "name": "Syngenta Crop Protection, Inc. v. Henson",
+    "href": "https://api.oyez.org/cases/2002/01-757",
+    "view_count": 0,
+    "docket_number": "01-757",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1034658000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38942"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1036476000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38943"
+        }
+    ],
+    "question": "<p>Does the All Writs Act give a federal district court the authority to remove a state-court case in order to prevent the frustration of orders the federal court has previously issued?</p>\n",
+    "citation": {
+        "volume": "537",
+        "page": "28",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/19042"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/537/28/",
+    "facts_of_the_case": "<p>Hurley Henson filed suit in Louisiana state court against Syngenta Crop Protection, Inc., asserting various tort claims related to the manufacture and sale of a chlordimeform-based insecticide. When Henson successfully intervened in a similar action, Price v. Ciba-Geigy Corp., in federal district court, the Louisiana court stayed his state court claim. Although the ensuing settlement in Price stipulated that his state-court action be dismissed with prejudice, the Louisiana state court allowed Henson to proceed. Syngenta then removed the action to the federal District Court under the All Writs Act. The District Court dismissed the former state-court action as barred by the Price settlement. Vacating the dismissal, the Court of Appeals wrote that the All Writs Act could not properly support removal of the state-court action.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Chief Justice William H. Rehnquist, the Court held that the All Writs Act does not provide removal jurisdiction. The Court reasoned that, because the general removal statute requires that a federal court have original jurisdiction over an action in order for it to be removed from a state court, the All Writs Act, alone or in combination with the existence of ancillary jurisdiction in a federal court, is not a substitute for that requirement. Justice John Paul Stevens concurred.</p>\n"
+}

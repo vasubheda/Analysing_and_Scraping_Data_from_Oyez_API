@@ -1,0 +1,42 @@
+{
+    "ID": 55452,
+    "name": "Watson v. Philip Morris Companies, Inc.",
+    "href": "https://api.oyez.org/cases/2006/05-1284",
+    "view_count": 0,
+    "docket_number": "05-1284",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1168581600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39861"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1177477200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39862"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1181538000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39863"
+        }
+    ],
+    "question": "<p>Is the need to comply with Federal Trade Commission advertising regulations sufficient to establish that a tobacco company is a \"person acting under a federal officer\" for purposes of 28 U.S.C. 1442(a)(1)?</p>\n",
+    "citation": {
+        "volume": "551",
+        "page": "142",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20658"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/551/142/",
+    "facts_of_the_case": "<p>Lisa Watson filed a class action lawsuit against the tobacco company Philip Morris, claiming that the company had violated Arkansas law by misrepresenting the amount of tar and nicotine in cigarettes branded as \"light.\" Seeking to have the case removed to federal court, Philip Morris invoked 28 U.S.C. 1442(a)(1), which allows removal when a party is sued for actions taken while \"acting under\" a federal officer. Philip Morris claimed that it was acting under the direct control of regulations promulgated by the Federal Trade Commission (FTC), so 28 U.S.C. 1442(a)(1) applied. After the federal District Court denied Watson's motion to have the case sent back to state court, Watson appealed.</p>\n<p>The dispute centered on the degree of control exercised by the FTC over Philip Morris. The U.S. Court of Appeals for the Eighth Circuit affirmed the lower court's ruling in favor of Philip Morris, allowing the case to continue in the federal court system. The Eighth Circuit held that the question of whether 28 U.S.C. 1442(a)(1) applies \"depends on the detail and specificity of the federal direction of the defendant's activities and whether the government exercises control over the defendant.\" In the case of the tobacco industry, the Eighth Circuit found \"unprecedented\" government involvement, including detailed FTC regulations concerning the testing and disclosure of tar and nicotine levels. Therefore, Philip Morris was \"acting under a federal officer\" and consequently entitled to remove the case to federal court.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion written by Justice Stephen Breyer, the Court ruled that Philip Morris could not remove its case to federal court, because it was not \"acting under a federal officer\" in the sense of the statute. Justice Breyer wrote that \"broad language is not limitless. And a liberal construction nonetheless can find limits in a text\u00eds language, context, history, and purposes.\" The Court held that the phrase \"acting under\" connotes a subordinate acting to assist his superior. A company complying with a regulation, no matter how restrictive, was not in the type of relationship covered by the statute. Philip Morris analogized its situation to government contractors that have been held to fall under the statute, but the Court ruled that the contractor's contractual \"principal/agent\" relationship assisted the government in a way that Philip Morris's mere compliance with stringent regulations did not.</p>\n"
+}

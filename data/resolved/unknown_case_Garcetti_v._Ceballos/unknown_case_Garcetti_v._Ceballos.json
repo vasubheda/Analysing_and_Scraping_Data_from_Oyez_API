@@ -1,0 +1,49 @@
+{
+    "ID": 55322,
+    "name": "Garcetti v. Ceballos",
+    "href": "https://api.oyez.org/cases/2005/04-473",
+    "view_count": 0,
+    "docket_number": "04-473",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1109570400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39514"
+        },
+        {
+            "event": "Reargued",
+            "dates": [
+                1142920800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51877"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1148965200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52220"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1129093200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52221"
+        }
+    ],
+    "question": "<p>Should a public employee's purely job-related speech, expressed strictly pursuant to the duties of employment, be protected by the First Amendment simply because it touched on a matter of public concern, or must the speech also be engaged in \"as a citizen?\"</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "410",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20605"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/547/410/",
+    "facts_of_the_case": "<p>Richard Ceballos, an employee of the Los Angeles District Attorney's office, found that a sheriff misrepresented facts in a search warrant affidavit. Ceballos notified the attorneys prosecuting the case stemming from that arrest and all agreed that the affidavit was questionable, but the D.A.'s office refused to dismiss the case. Ceballos then told the defense he believed the affidavit contained false statements, and defense counsel subpoenaed him to testify. Seeking damages in federal district court, Ceballos alleged that D.A.s in the office retaliated against him for his cooperation with the defense, which he argued was protected by the First Amendment. The district court ruled that the district attorneys were protected by qualified immunity, but the Ninth Circuit reversed and ruled for Ceballos, holding that qualified immunity was not available to the defendants because Ceballos had been engaged in speech that addressed matters of public concern and was thus protected by the First Amendment.</p>\n",
+    "conclusion": "<p>In a 5-to-4 decision authored by Justice Anthony Kennedy, the Supreme Court held that speech by a public official is only protected if it is engaged in as a private citizen, not if it is expressed as part of the official's public duties. Ceballos's employers were justified in taking action against him based on his testimony and cooperation with the defense, therefore, because it happened as part of his official duties. \"The fact that his duties sometimes required him to speak or write,\" Justice Kennedy wrote, \"does not mean his supervisors were prohibited from evaluating his performance.\" Justices Stevens, Souter, Ginsburg and Breyer dissented.</p>\n"
+}

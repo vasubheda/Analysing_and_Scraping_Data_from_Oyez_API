@@ -1,0 +1,35 @@
+{
+    "ID": 55052,
+    "name": "Early v. Packer",
+    "href": "https://api.oyez.org/cases/2002/01-1765",
+    "view_count": 0,
+    "docket_number": "01-1765",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1036389600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38830"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                1036389600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53448"
+        }
+    ],
+    "question": "<p>Was a state court\u2019s determination that encouraging the jury to continue deliberations did not coerce a verdict?</p>\n",
+    "citation": {
+        "volume": "537",
+        "page": "3",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/18981"
+    },
+    "term": "2002",
+    "description": "A case in which the Court determined that a trial judge\u2019s encouragement to the jury to continue deliberations did not coerce a verdict.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/537/3/",
+    "facts_of_the_case": "<p>William Packer was convicted in a California state court for second-degree murder and attempted murder. During jury deliberations, a juror requested dismissal on two separate occasions. In order to avoid having to restart deliberations with a replacement juror, the judge asked the juror to continue. After further conversations between the judge and the juror in question as well as the foreperson of the jury, the jury returned a guilty verdict. On appeal to the Court of Appeals of California, Packer argued that the state trial judge had coerced the jury\u2019s verdict in violation of his Fourteenth Amendment right to due process. The appellate court affirmed his conviction and held that, as long as the judge only encouraged further deliberations and did not coerce a certain verdict, there was no violation of due process.</p>\n<p>Packer petitioned for habeas relief from the federal district court, which denied his petition. The US. Court of Appeals for the Ninth Circuit reversed the district court\u2019s ruling and held that the state appellate court failed to properly apply federal law and that the judge was impermissibly coercive, which affected the jury\u2019s guilty verdict.</p>\n",
+    "conclusion": "<p>Encouraging the jury to continue deliberations did not coerce a verdict. In a per curiam opinion, the Court held that, because it was reasonable for the state court to conclude that there was no coercion based on the facts and the relevant precedent, the U.S. Court of Appeals for the Ninth Circuit should not have granted habeas relief.</p>\n"
+}

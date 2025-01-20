@@ -1,0 +1,42 @@
+{
+    "ID": 55654,
+    "name": "Stolt-Nielsen v. Animalfeeds International Corp.",
+    "href": "https://api.oyez.org/cases/2009/08-1198",
+    "view_count": 0,
+    "docket_number": "08-1198",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1245042000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40421"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1260338400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40422"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1272344400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40423"
+        }
+    ],
+    "question": "<p>Is imposing class arbitration on parties whose arbitration clauses are silent on that issue consistent with the Federal Arbitration Act?</p>\n",
+    "citation": {
+        "volume": "559",
+        "page": "662",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19576"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that imposing class arbitration on parties who have not agreed to authorize class arbitration is inconsistent with the Federal Arbitration Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/559/662/",
+    "facts_of_the_case": "<p>AnimalFeeds International Corp. on behalf of a class of plaintiffs filed suit in a Pennsylvania federal district court against Stolt-Nielsen among others alleging defendants were engaged in a \"global conspiracy to restrain competition in the world market for parcel tanker transportation services.\" After the case was transferred to the Connecticut federal district court, Stolt-Nielsen filed a motion to compel arbitration, which was denied. On appeal, the U.S. Court of Appeals for the Second Circuit reversed. During arbitration, AnimalFeeds filed a demand to proceed as a class. A panel was appointed to determine whether the language of the Clause Construction Award permitted AnimalFeeds to proceed as a class and answered in the affirmative. Stolt-Nielsen then petitioned the Connecticut federal district court to vacate the panel's determination, which was granted.</p>\n<p>On appeal, the U.S. Court of Appeals for the Second Circuit reversed and reinstated the panel's decision. The court held that the arbitration panel did not manifestly disregard the law when reaching its conclusion that the Clause Construction Award permitted AnimalFeeds to proceed as a class, even though the Award was silent on whether proceeding as a class was permitted. The court reasoned that when parties agree to arbitrate, the question of whether an agreement permits class arbitration is generally left to the arbitrators, not the courts.</p>\n",
+    "conclusion": "<p>No. The Supreme Court reversed, holding that imposing class arbitration on parties who have not agreed to authorize class arbitration is inconsistent with the Federal Arbitration Act (\"FAA\"). With Justice Samuel A. Alito writing for the majority, the Court reasoned that in this case the arbitration panel exceeded its powers by imposing its own policy choice instead of identifying and applying a rule derived from the FAA or from maritime or New York law. The Court emphasized that the FAA adopts the basic principle that arbitration is a matter of consent, not coercion. Here, there was no consent.</p>\n<p>Justice Ruth Bader Ginsburg, joined by Justices John Paul Stevens and Stephen G. Breyer, dissented. She argued first that the petition for certiorari in this case was improvidently granted because the Court overturned the ruling of \"experienced arbitrators.\" Moreover, even by reaching the merits of the case, she would have affirmed the Second Circuit and adhered to the \"strict limitations\" the FAA places on judicial review.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 54060,
+    "name": "Hartford Fire Insurance Company v. California",
+    "href": "https://api.oyez.org/cases/1992/91-1111",
+    "view_count": 0,
+    "docket_number": "91-1111",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                730447200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36974"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                741243600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36975"
+        }
+    ],
+    "question": "<p>First, did the plaintiffs sufficiently allege \"boycotts,\" as used in the McCarran-Ferguson Act, Section 3(b)? Second, did international comity counsel against exercising Sherman Act jurisdiction over the conduct of the London-based defendants?</p>\n",
+    "citation": {
+        "volume": "509",
+        "page": "764",
+        "year": "1993",
+        "href": "https://api.oyez.org/case_citation/case_citation/17989"
+    },
+    "term": "1992",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/509/764/",
+    "facts_of_the_case": "<p>Nineteen States and many private plaintiffs filed complaints alleging that the defendants -- domestic primary insurers, trade associations, and a reinsurance broker, along with London-based as well as domestic reinsurers -- violated Section 1 of the Sherman Act, 15 U.S.C. Section 1, by engaging in various conspiracies aimed at forcing certain other primary insurers to change the terms of their standard domestic commercial general liability insurance policies. After the actions were consolidated for litigation, the district court granted the defendants' motion to dismiss, holding that the conduct alleged fell within the grant of antitrust immunity contained in Section 2(b) of the McCarran-Ferguson Act, 15 U.S.C. Section 1012(b), and that none of the conduct amounted to a \"boycott\" within the meaning of the Section 3(b), 15 U.S.C. Section 1013(b), exemption to that grant of immunity. The court of appeals reversed.</p>\n",
+    "conclusion": "<p>Yes to the first; no to the second. The Court, speaking through Justice Antonin Scalia, held that a boycott exists when, in order to coerce a target into certain terms on one transaction, parties refuse to engage in other, unrelated transactions with the target. On most counts, the plaintiffs' allegations, construed favorably, described boycotts. Justice David H. Souter wrote for the Court on jurisdiction over foreign conduct, holding that it was appropriate in this case because there is no true conflict between domestic and foreign law. That is, because the London reinsurers can comply with both British law and the Sherman Act, international comity does not counsel against exercising subject matter jurisdiction in this case.</p>\n"
+}

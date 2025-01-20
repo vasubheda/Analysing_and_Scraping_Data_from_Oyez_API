@@ -1,0 +1,42 @@
+{
+    "ID": 63175,
+    "name": "Department of Homeland Security v. Thuraissigiam",
+    "href": "https://api.oyez.org/cases/2019/19-161",
+    "view_count": 0,
+    "docket_number": "19-161",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1571461200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54592"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1583128800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54673"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1593061200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54734"
+        }
+    ],
+    "question": "<p>Does 8 U.S.C. \u00a7 1252(e)(2) as applied to the respondent Thuraissigiam violate the Suspension Clause of the Constitution?</p>\n",
+    "citation": {
+        "volume": "591",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27716"
+    },
+    "term": "2019",
+    "description": "A case in which the Court held that 8 U.S.C. \u00a7 1252(e)(2) as applied to the respondent Thuraissigiam does not violate the Suspension Clause of the Constitution.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/591/19-161/",
+    "facts_of_the_case": "<p>Vijayakumar Thuraissigiam is a native and citizen of Sri Lanka and a Tamil, an ethnic minority group in Sri Lanka. Thuraissigiam entered the United States via its southern border, and Customs and Border Protection (CBP) officers arrested him and placed him in expedited removal proceedings. Thuraissigiam indicated a fear of persecution in Sri Lanka, but an asylum officer determined he had not established a credible fear of persecution and referred him for removal. A supervisor affirmed the officer\u2019s finding, and an immigration judge affirmed it as well in a check-box decision.</p>\n<p>Thuraissigiam filed a habeas petition in federal district court, arguing that his expedited removal order violated his statutory, regulatory, and constitutional rights. The district court dismissed the petition for lack of subject matter jurisdiction, concluding that 8 U.S.C. \u00a7 1252(e) did not authorize jurisdiction over Thuraissigiam\u2019s claims and rejecting his argument that the removal process to which he was subjected effectively suspended the writ of habeas corpus, in violation of the Suspension Clause.</p>\n<p>A panel of the U.S. Court of Appeals for the Ninth Circuit reversed the district court. Because the administrative scheme governing credible fear determinations in this context is \u201cmeager,\u201d and \u00a7 1252(a)(2) disallows judicial review of whether DHS complied with the procedures, the process does not meet minimum constitutional requirements.</p>\n",
+    "conclusion": "<p>As applied to this case, 8 U.S.C. \u00a71252(e)(2)\u2014which limits the habeas review obtainable by an alien detained for expedited removal\u2014does not violate the Suspension or Due Process Clauses. Justice Samuel Alito authored the 7-2 majority opinion.</p>\n<p>To determine the scope of the Suspension Clause, the Court first considered its meaning at the time the Constitution was adopted. The Clause provides that \u201c[t]he Privilege of the Writ of Habeas Corpus shall not be suspended, unless when in Cases of Rebellion or Invasion the public Safety may require it.\u201d Habeas has traditionally provided a means to seek release from unlawful detention. However, the respondent in this case does not seek release from custody, but an additional opportunity to obtain asylum. Because this meaning was not contemplated at the time the Constitution was adopted, his claims fall outside the scope of the writ.</p>\n<p>Turning to the question of due process, the Court noted that a noncitizen who is unlawfully in the United States has only those rights that Congress has provided him by statute. The protections of the Due Process Clause do not apply to an individual simply because he might physically be within the United States. Given that the Court\u2019s precedents establish that \u201cthe decisions of executive or administrative officers, acting within powers expressly conferred by Congress, are due process of law\u201d for noncitizens, the respondent received all the process that was required.</p>\n<p>Justice Clarence Thomas authored a concurring opinion to expand on the discussion of the original meaning of the Suspension Clause.</p>\n<p>Justice Stephen Breyer authored a concurring opinion in which Justice Ruth Bader Ginsburg joined, noting that the Court\u2019s holding should be applied only to this particular case (since that was the narrow question presented) and should not address more broadly the question whether the Suspension Clause protects people challenging removal decisions.</p>\n<p>Justice Sonia Sotomayor authored a dissenting opinion in which Justice Elena Kagan joined, arguing that the majority makes asylum determinations by the Executive Branch unreviewable, \u201cno matter whether the denial is arbitrary or irrational or contrary to governing law.\u201d Such unchecked power, Justice Sotomayor warned, \u201chandcuffs the Judiciary\u2019s ability to perform its constitutional duty to safeguard individual liberty and dismantles a critical component of the separation of powers.\u201d</p>\n"
+}

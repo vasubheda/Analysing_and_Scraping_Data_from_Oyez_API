@@ -1,0 +1,35 @@
+{
+    "ID": 54494,
+    "name": "Strate v. A-1 Contractors",
+    "href": "https://api.oyez.org/cases/1996/95-1872",
+    "view_count": 0,
+    "docket_number": "95-1872",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                852616800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37788"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                862203600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37789"
+        }
+    ],
+    "question": "<p>Does a tribal court have jurisdiction over a civil action against an allegedly negligent driver and the driver's employer, neither of whom is a member of the tribe, when an accident occurs on a portion of a public highway maintained by the State under a federally granted right of way over Indian reservation land?</p>\n",
+    "citation": {
+        "volume": "520",
+        "page": "438",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18423"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/520/438/",
+    "facts_of_the_case": "<p>Vehicles driven by Gisela Fredericks and Lyle Stockert collided on a portion of a North Dakota state highway that runs through the Fort Berthold Indian Reservation. The stretch of highway within the reservation is open to the public, affords access to a federal water resource project, and is maintained by North Dakota under a federally granted right of way that lies on land held by the United States in trust for the Three Affiliated Tribes and their members. While neither driver was a member of the Tribes or an Indian, Fredericks filed a personal injury action in the Tribal Court of the Three Affliated Tribes against Stockert and A-1 Contractors, who owned the truck Stockert was driving at the time of the collision. The Tribal Court ruled that it had jurisdiction over Fredericks' claim and therefore denied A-1 Contractors and Stockert's motion to dismiss. The Northern Plains Intertribal Court of Appeals affirmed. A-1 contractors and Stockert then filed a action in the District Court against Fredericks, the Tribal Court, and Tribal Judge William Strate, seeking a declaratory judgment that, as a matter of federal law, the Tribal Court lacked the jurisdiction to adjudicate Fredericks' claims. A-1 Contractors and Stockert also sought an injunction against further Tribal Court proceedings. The District Court dismissed. It held that that the Tribal Court had civil jurisdiction over Fredericks' complaint. In reversing, the en banc Court of Appeals concluded that the Tribal Court lacked subject matter jurisdiction over the dispute.</p>\n",
+    "conclusion": "<p>No. In an unanimous decision, authored by Justice Ruth Bader Ginsburg, the Court ruled that when an accident occurs on a public highway maintained by the State pursuant to a federally granted right of way over Indian reservation land, a civil action against allegedly negligent nonmembers falls within state or federal regulatory and adjudicatory governance; absent a statute or treaty authorizing the tribe to govern the conduct of nonmembers driving on the State's highway, tribal courts may not exercise jurisdiction in such cases.</p>\n"
+}

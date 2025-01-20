@@ -1,0 +1,35 @@
+{
+    "ID": 54602,
+    "name": "United States v. Ramirez",
+    "href": "https://api.oyez.org/cases/1997/96-1469",
+    "view_count": 0,
+    "docket_number": "96-1469",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                884671200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37988"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                888991200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37989"
+        }
+    ],
+    "question": "<p>Does the Fourth Amendment require that police officers have more than a \"reasonable suspicion\" that knocking and announcing their presence before entering would be dangerous, futile, or inhibit the effective investigation of a crime when a \"no-knock\" entry results in the destruction of property?</p>\n",
+    "citation": {
+        "volume": "523",
+        "page": "65",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18531"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/523/65/",
+    "facts_of_the_case": "<p>While in route to testify, Alan Shelby, a dangerous prisoner serving concurrent state and federal sentences, escaped custody. An ATF Agent, based on an informant's information, observed a person resembling Shelby at Hernan Ramirez's home in Boring, Oregon. Subsequently, the Government obtained a \"no-knock\" warrant to enter and search the home. Executing the warrant, officers broke a single window in Ramirez's home. Awakened, Ramirez fired a pistol into the garage ceiling. After being arrested, because of a stash of weapons in his garage, Ramirez was indicted on federal charges of being a felon in possession of firearms. Shelby was not found. Granting Ramirez's motion to suppress evidence regarding his possession of the weapons, the District Court found that the officers had violated the Fourth Amendment because there were \"insufficient exigent circumstances\" to justify the police officer's destruction of property in their execution of the warrant. The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>No. In an unanimous opinion delivered by Chief Justice William H. Rehnquist, the Court held that the Fourth Amendment does not hold police officers to a higher standard than the test articulated in Richards v. Wisconsin. In Richards, the Court held that a no-knock entry was justified if police had a reasonable suspicion that knocking and announcing would be dangerous, futile, or would inhibit the effective investigation of the crime, when a no-knock entry resulted in the destruction of property. \"Excessive or unnecessary destruction of property in the course of a search may violate the Fourth Amendment, even though the entry itself is lawful and the fruits of the search not subject to suppression,\" noted the Chief Justice.</p>\n"
+}

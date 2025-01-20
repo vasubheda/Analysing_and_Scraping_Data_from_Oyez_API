@@ -1,0 +1,42 @@
+{
+    "ID": 62782,
+    "name": "Water Splash, Inc. v. Menon",
+    "href": "https://api.oyez.org/cases/2016/16-254",
+    "view_count": 0,
+    "docket_number": "16-254",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1455256800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53936"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1490158800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53992"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1495429200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54040"
+        }
+    ],
+    "question": "<p dir=\"ltr\">\u00a0Does the Hague Service Convention authorize service of process by mail? </p>\n",
+    "citation": {
+        "volume": "581",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27482"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that the Hague Service Convention does not prohibit service of process by mail.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/581/16-254/",
+    "facts_of_the_case": "<p dir=\"ltr\">Water Splash, Inc. is a Delaware corporation that makes aquatic playgrounds known as \u201csplash pads\u201d that are popular in urban areas. Tara Menon is a Canadian citizen who lives in Quebec, Canada, and at one point worked for Water Splash as a regional sales representative. Later, Menon began to work for South Pool, a Water Splash competitor. Sometime in 2012, Water Splash learned that South Pool had used some of its drawings and designs when it submitted a bid to the City of Galveston to construct splash pads at two of its city parks, and Water Splash subsequently sued Menon in Texas state court. \u00a0Water Splash served Menon by mail, as allowed by a Texas Rule of Civil Procedure. When Menon did not respond, the trial court award Water Splash a default judgment. </p>\n<p>Menon filed a motion for a new trial seeking to set aside the default judgment because service was not accomplished pursuant to the Convention on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters (the \u201cHague Service Convention\u201d), a treaty that governs service of process from one member state to another. Both the United States and Canada are signatories to the treaty. The trial court denied Menon\u2019s motion for a new trial but the Texas Court of Appeals reversed and held that the Hague Service Convention did not authorize service by mail. The Texas Court of Appeals denied a motion for a rehearing en banc, and the Supreme Court of Texas denied review. </p>\n",
+    "conclusion": "<p dir=\"ltr\">The Hague Service Convention does not prohibit service of process by mail. Justice Samuel A. Alito, Jr. delivered the opinion of the unanimous Court, which held that the Hague Service Convention allows for different methods of service, and Article 10(a) specifically mentions postal channels as a method of sending judicial documents as long as the receiving nation does not object. Although the text of the Article does not expressly refer to service of process, the text and structure of the Hague Service Convention as a whole indicate that it deals with service of process. Therefore, Article 10(a) must be construed as allowing service of process by mail. Even if the relevant language were interpreted as ambiguous, the drafting history, the Executive Branch\u2019s interpretation, and the interpretation of foreign courts support the reading that the Hague Service Convention does not prohibit service of process by mail. </p>\n<p>\u00a0</p>\n<p dir=\"ltr\">Justice Neil Gorsuch did not participate in the discussion or decision of this case. </p>\n"
+}

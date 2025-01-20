@@ -1,0 +1,42 @@
+{
+    "ID": 55871,
+    "name": "Setser v. United States",
+    "href": "https://api.oyez.org/cases/2011/10-7387",
+    "view_count": 0,
+    "docket_number": "10-7387",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1307941200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40980"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1322632800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40981"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1332910800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40982"
+        }
+    ],
+    "question": "<p>Did the district court err by directing that petitioner's federal sentence be served consecutively to a state sentence that had not yet been imposed?</p>\n",
+    "citation": {
+        "volume": "566",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19793"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that a federal judge has discretion to order a federal sentence to run consecutively or concurrently with an anticipated state sentence.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/566/231/",
+    "facts_of_the_case": "<p>On October 1, 2007, Lubbock police officers arrested Monroe Ace Setser after finding suspected narcotics during a traffic stop. At the time he was arrested, Setser was serving a five-year term of probation stemming from a previous state conviction. State authorities subsequently charged Setser with possession of a controlled substance with intent to deliver in the state court arising from the activities of October 1, 2007. They also filed a motion to revoke his probation in the 2006 state case. Before the state cases could be resolved, the federal government stepped in and charged Setser for his October 2007. Setser pleaded guilty to count one of the indictment and in exchange the government agreed to dismiss the remaining two counts. At sentencing, the federal district court sentenced Setser to 151 months of imprisonment and ordered the sentence to run consecutive to whatever sentence might be imposed in the pending state case, and concurrent to whatever sentence might be imposed in the 2007 state case. Neither case had been resolved in state court.</p>\n",
+    "conclusion": "<p>No. Justice Antonin Scalia delivered the opinion of the Court, affirming the lower court's decision. The Court determined that the federal judge had discretion to order a federal sentence to run consecutively or concurrently with an anticipated state sentence. The Court found nothing in the Sentencing Reform Act which foreclosed the federal judge's authority to make such a decision and noted that judges have traditionally had broad authority to determine whether sentences should run concurrently or consecutively.</p>\n<p>Justice Stephen G. Breyer wrote a dissenting opinion, which Justice Ruth Bader Ginsburg and Justice Anthony M. Kennedy joined. Breyer argued that a federal judge does not have the power to order that a federal sentence run consecutively or concurrently with a state sentence that has yet to be imposed. Breyer noted that nothing in the Sentencing Reform Act explicitly granted federal judges that power. Furthermore, after discussing the history and purpose of the Sentencing Reform Act, Breyer concluded that the Court's decision was contrary to the purpose of the Sentencing Reform Act.</p>\n"
+}

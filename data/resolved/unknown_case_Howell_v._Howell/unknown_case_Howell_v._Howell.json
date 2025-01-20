@@ -1,0 +1,42 @@
+{
+    "ID": 62789,
+    "name": "Howell v. Howell",
+    "href": "https://api.oyez.org/cases/2016/15-1031",
+    "view_count": 0,
+    "docket_number": "15-1031",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1480658400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53941"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1489986000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53989"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1494824400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54035"
+        }
+    ],
+    "question": "<p>Does the Uniformed Services Former Spouses\u2019 Protection Act preempt a state court\u2019s order directing a veteran to pay a former spouse that spouse\u2019s full portion of the veteran\u2019s military retirement pay despite a reduction, when that reduction results from the veteran\u2019s post-divorce waiver of retirement pay in order to receive compensation for a service-connected disability?</p>\n",
+    "citation": {
+        "volume": "581",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27489"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that the Uniformed Services Former Spouses\u2019 Protection Act prevents state courts from treating the waived portion of military retirement pay as a divisible community asset for the purpose of divorce proceedings.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/581/15-1031/",
+    "facts_of_the_case": "<p dir=\"ltr\">John Howell, a veteran, and his ex-wife Sandra Howell divorced in 1991. The Arizona Superior Court granted Sandra half of John\u2019s Military Retirement Plan (MRP) funds when the payments were to begin. John retired from the Air Force in 1992 and began receiving his retirement funds soon after. In 2005, the Department of Veterans\u2019 Affairs determined that John suffered from degenerative joint disease in his shoulder, that the cause of the disease was directly related to his service, and that it caused him a net loss of 20% in his earnings. Because of this, he was entitled to tax-exempt military disability payments. To receive the disability payments, John had to waive an equal portion of his MRP benefits, which he did in July of 2004.</p>\n<p>In 2013, Sandra sued John and claimed that she was still entitled to a full 50% of the MRP benefits John received, regardless of his waiver of a portion of his benefits due to disability. Both the Arizona Superior Court and the Arizona Court of Appeals affirmed in Sandra\u2019s favor. John appealed and cited the Arizona Supreme Court\u2019s ruling in Mansell v. Mansell, which held that the Uniformed Services Former Spouses\u2019 Protection Act (USFSPA) preempted state courts from allowing the former spouses of veterans to claim interest in the waived portion of the veteran\u2019s MRP. The Arizona Supreme Court affirmed the appellate court\u2019s decision and stated that, while the Mansell standard was applicable before divorce proceedings were finalized and during the proceedings, courts were split regarding the rules after a divorce had been granted. The Court found that, because the lower court did not grant Sandra an interest in the disability sum itself, but rather an interest in John\u2019s overall assets in an equal sum, then Sandra was free to require payment from John to make up for the losses she would suffer due to his waiver of a portion of the benefits shared between them.</p>\n",
+    "conclusion": "<p dir=\"ltr\">The Uniformed Services Former Spouses\u2019 Protection Act preempts a state court\u2019s order for a veteran to pay a former spouse that spouse\u2019s full portion of the veteran\u2019s military retirement pay despite the veteran\u2019s post-divorce waiver of the retirement pay in order to receive service-related disability benefits. Justice Stephen G. Breyer delivered the opinion for the 8-0 majority. The Court held that its decision in Mansell v. Mansell controlled and prevented state courts from treating the waived portion of military retirement pay as a divisible community asset for the purpose of divorce proceedings. Although the waiver in this case occurred after the divorce proceedings, the temporal difference does not alter the fact that the state court only had the power to award the former spouse an interest in the military retirement pay that was subject to later reduction; the state court could not eliminate this potential contingency.</p>\n<p dir=\"ltr\">In his opinion concurring in part and concurring in the judgment, Justice Clarence Thomas wrote that examining the purposes and objectives of Congress\u2019 decision to preempt state law with federal law is an illegitimate basis to determine that a federal law preempts states\u2019 laws. Regardless, such analysis was unnecessary to reach the decision in this case. </p>\n<p>Justice Neil Gorsuch did not participate in the discussion or decision of this case. </p>\n"
+}

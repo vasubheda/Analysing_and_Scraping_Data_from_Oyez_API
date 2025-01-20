@@ -1,0 +1,42 @@
+{
+    "ID": 55122,
+    "name": "Hiibel v. Sixth Judicial District Court of Nevada, Humboldt County",
+    "href": "https://api.oyez.org/cases/2003/03-5554",
+    "view_count": 0,
+    "docket_number": "03-5554",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1066626000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38957"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1079935200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38958"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1087794000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38959"
+        }
+    ],
+    "question": "<p>Did Hiibel's arrest and conviction for not telling a police officer his name violate his Fifth Amendment right not to incriminate himself and his Fourth Amendment right to be free from an unreasonable search?</p>\n",
+    "citation": {
+        "volume": "542",
+        "page": "177",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19051"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/542/177/",
+    "facts_of_the_case": "<p>Larry Hiibel was arrested and convicted in Nevada state court for failing to identify himself to a police officer who was investigating an assault. Nevada, and many other states, has a law that requires a person to tell an officer his name if asked. Hiibel challenged the conviction, claiming it violated his Fifth Amendment right not to incriminate himself and his Fourth Amendment right to be free from unreasonable searches. The state intermediate court and Supreme Court rejected his argument in affirming the conviction.</p>\n",
+    "conclusion": "<p>No. In a 5-to-4 opinion written by Justice Anthony Kennedy, the Court ruled that the search did not violate the Fourth Amendment because it was based on reasonable suspicion (the police officer was investigating the assault, and Hiibel was nearby) and involved only a minimally intrusive question (his name). It also did not violate the Fifth Amendment because Hiibel never argued that telling the officer his name would actually incriminate him of any crime. Justice Kennedy wrote, \"While we recognize petitioner's strong belief that he should not have to disclose his identity, the Fifth Amendment does not override the Nevada Legislature's judgment to the contrary absent a reasonable belief that the disclosure would tend to incriminate him.\"</p>\n"
+}

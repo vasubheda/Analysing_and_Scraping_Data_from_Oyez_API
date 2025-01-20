@@ -1,0 +1,42 @@
+{
+    "ID": 55336,
+    "name": "Domino's Pizza, Inc. v. McDonald",
+    "href": "https://api.oyez.org/cases/2005/04-593",
+    "view_count": 0,
+    "docket_number": "04-593",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1114405200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39550"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1133848800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39551"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1140588000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39552"
+        }
+    ],
+    "question": "<p>May a person who is not a party to a contract but suffers personal injuries from its termination sue under 42 U.S.C. Section 1981, claiming that the contract was terminated because of race?</p>\n",
+    "citation": {
+        "volume": "546",
+        "page": "470",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20607"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/546/470/",
+    "facts_of_the_case": "<p>John McDonald was the president and sole shareholder of JWM Investments. After Domino's terminated its contract with JWM, McDonald brought suit under a section of the Civil Rights Act of 1866 (42 U.S.C. Section 1981). McDonald claimed that Domino's had ended its contract because he was black, and that he therefore had a right to sue under the Civil Rights Act, which gives all citizens, regardless of race, the right to make and enforce contracts. Domino's moved to dismiss the case, arguing that McDonald had not been a party to the contract (it had been between Domino's and JWM) and therefore did not have standing to sue. The district court sided with Domino's, but the Ninth Circuit Court of Appeals reversed, finding that McDonald had suffered injuries separate from those of JWM and therefore had standing to sue.</p>\n",
+    "conclusion": "<p>No. The Court ruled in a unanimous decision (Justice Alito not participating) that only an actual or would-be party to a contract may sue under Section 1981. Justice Antonin Scalia, writing for the Court, explained that if Section 1981 were not limited to the party to the contract, it \"would become a strange remedial provision designed to fight racial animus in all of its noxious forms, but only if the animus and the hurt it produced were somehow connected to <em>somebody's</em> contract. We have never read the statute in this unbounded--or rather, <em>peculiarly</em> bounded--way.\"</p>\n"
+}

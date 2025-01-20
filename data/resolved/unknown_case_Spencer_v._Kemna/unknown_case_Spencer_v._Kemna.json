@@ -1,0 +1,35 @@
+{
+    "ID": 54620,
+    "name": "Spencer v. Kemna",
+    "href": "https://api.oyez.org/cases/1997/96-7171",
+    "view_count": 0,
+    "docket_number": "96-7171",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                879314400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38022"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                888904800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38023"
+        }
+    ],
+    "question": "<p>May prison inmates challenge the revocation of their parole after they are re-released on parole?</p>\n",
+    "citation": {
+        "volume": "523",
+        "page": "1",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18549"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/523/1/",
+    "facts_of_the_case": "<p>In 1990, Randy G. Spencer began serving concurrent three-year sentences for convictions of felony stealing and burglary. In 1992, Spencer was released, but later that year his parole was revoked and he was returned to prison. Seeking to invalidate his parole revocation, Spencer filed unsuccessful habeas petitions in state court. Spencer then filed a federal habeas petition, alleging that he had not received due process in the parole revocation proceedings. In 1993, Spencer was re-released on parole before the District Court addressed the merits of his habeas petition. Subsequently, the court dismissed Spencer's petition as moot. The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>No. In a 8-1 opinion delivered by Justice Antonin Scalia, the Court held that the expiration of Spencer's sentence caused his petition to be moot because it no longer presented an Article III case or controversy. The Court concluded that once a petitioner's sentence has expired he must demonstrate a concrete and continuing injury to maintain suit. Accordingly, the Court rejected that Spencer's asserted injuries established collateral consequences sufficient to state an Article III case or controversy. \"The reincarceration that he incurred as a result of that action is now over, and cannot be undone,\" wrote Justice Scalia. Justice John Paul Stevens filed a dissenting opinion.</p>\n"
+}

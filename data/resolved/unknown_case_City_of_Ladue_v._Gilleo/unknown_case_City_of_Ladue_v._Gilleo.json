@@ -1,0 +1,35 @@
+{
+    "ID": 54273,
+    "name": "City of Ladue v. Gilleo",
+    "href": "https://api.oyez.org/cases/1993/92-1856",
+    "view_count": 0,
+    "docket_number": "92-1856",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                761983200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37377"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                771483600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37378"
+        }
+    ],
+    "question": "<p>Does the Ladue ordinance violate Gilleo's right to free speech as protected by the First Amendment?</p>\n",
+    "citation": {
+        "volume": "512",
+        "page": "43",
+        "year": "1994",
+        "href": "https://api.oyez.org/case_citation/case_citation/18202"
+    },
+    "term": "1993",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/512/43/",
+    "facts_of_the_case": "<p>Margaret Gilleo placed a 24-by-36-inch sign calling for peace in the Persian Gulf on her front lawn. The original sign disappeared and a subsequent sign was knocked down. She reported these incidents to the police who advised her that such signs were prohibited in Ladue. She sued the city and the District Court ordered a preliminary injunction. Ladue repealed the law and replaced it with a new one which also banned window signs. Gilleo then placed another anti-war sign in her second-story window and amended her complaint to challenge the new ordinance.</p>\n",
+    "conclusion": "<p>Yes. Although acknowledging Ladue's police power to minimize visual clutter associated with signs, the Court ruled that the law \"almost completely foreclosed a venerable means of communication that is both unique and important.\" The Court held a \"special respect\" for an individual's right to convey messages from her home.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 56144,
+    "name": "Carroll v. Carman",
+    "href": "https://api.oyez.org/cases/2014/14-212",
+    "view_count": 0,
+    "docket_number": "14-212",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1415599200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41747"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1415599200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41748"
+        }
+    ],
+    "question": "<p>Should Officer Carroll be entitled to qualified immunity?</p>\n",
+    "citation": {
+        "volume": "574",
+        "page": "13",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20930"
+    },
+    "term": "2014",
+    "description": "A case in which the Court ruled that a government official is entitled to qualified immunity unless his actions violate a statute or constitutional right that was clearly established at the time of the conduct.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/574/13/",
+    "facts_of_the_case": "<p>On July 3, 2009, the Pennsylvania State Police Department received a report that Michael Zita had stolen a car and two handguns and then likely fled to the Carman residence. Officers Jeremy Carroll and Brian Roberts went to the Carman residence to investigate and noticed that a small structure in the rear of the property had a light on a door open, so they approached and announced their presence. When no one responded, the officers continued to approach the house via a back door that the officers believed looked like a customary entrance. The residents confronted the officers, but eventually identified themselves as the Carmans and allowed the officers to search their house. The officers did not find Zita, and the Carmans were not charged with a crime.</p>\n<p>The Carmans later sued Officer Carroll in district court and argued that he had unlawfully entered their property in violation of the warrant requirement of the Fourth Amendment. Carroll argued that his entry was legal under the \"knock and talk\" exception to the warrant requirement, which allows officers to knock on someone's door as long as the officers are standing on the parts of the person's property on which the general public is allowed. The Carmans argued that exception did not apply in this case because a normal visitor would have used the front door. The jury found in favor of Carroll, and the U.S. Court of Appeals for the Third Circuit reversed because the \"knock and talk\" exception requires that the police begin their interaction at the front door. The appellate court also held that Carroll was not entitled to qualified immunity because his actions violated clearly established law.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion, the Court held that a government official is entitled to qualified immunity unless his actions violated a statutory or constitutional right that was clearly established at the time of the alleged conduct, which means that existing precedent must have placed the statutory or constitutional question beyond debate. In this case, there was no clearly established law that a police interaction must begin at the front door to be eligible for the \"walk and talk\" exception to the warrant requirement. The Court held that the case the appellate court cited as the basis for the rule was not sufficient and that the rule itself conflicted with the decisions of other federal and state courts, which is further evidence that the constitutional question was not beyond debate.</p>\n"
+}

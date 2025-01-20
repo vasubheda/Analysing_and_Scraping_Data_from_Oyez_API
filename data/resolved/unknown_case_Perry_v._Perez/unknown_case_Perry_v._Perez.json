@@ -1,0 +1,42 @@
+{
+    "ID": 55828,
+    "name": "Perry v. Perez",
+    "href": "https://api.oyez.org/cases/2011/11-713",
+    "view_count": 0,
+    "docket_number": "11-713",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1323410400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40865"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1326088800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40866"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1327039200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40867"
+        }
+    ],
+    "question": "<p>Did the district court abuse its discretion under the Voting Rights Act when it redrew 36 electoral districts?</p>\n",
+    "citation": {
+        "volume": "565",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19750"
+    },
+    "term": "2011",
+    "description": "A case which the Court remanded regarding whether or not a Texas district court abused its discretion under the Voting Rights Act when it redrew 36 districts.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/565/388/",
+    "facts_of_the_case": "<p>The United States Census Bureau conducted a national census in 2010. In May and June of 2011, the Texas Legislature created a new electoral map based on changes in the state's population. Texas Governor Rick Perry signed the new map into law in July of 2011.</p>\n<p>Under Section 5 of the Voting Rights Act of 1965, either the Justice Department or a special three-judge district court must approve new electoral maps before state officials may enact the map. Texas officials submitted its map to the three-judge court in Washington. The Washington court determined that state officials had used improper standards with respect to two districts. It further held that a three-judge panel in the United States District Court for the Western District of Texas must designate an interim redistricting plan for the 2012 election cycle.</p>\n<p>The district court redrew 36 electoral districts. Governor Perry and other state officials appealed the district court's redistricting to the Supreme Court and requested that the Supreme Court stop the enactment of the lower court's new map. The Supreme Court granted the appeal and stopped the enactment of the lower court's new map until the Supreme Court could issue a further order on the matter.</p>\n",
+    "conclusion": "<p>Maybe. In an unsigned, <em>per curiam</em> opinion, the Supreme Court vacated the interim maps and remanded for further proceedings. The Court held that it was unclear whether the district court used the proper standards to create their interim plan. Portions of the district court's plan seemed to be based on State policy considerations, and portions had no relation to the outdated plan or the proposed plan. A district court may redraw districts, but it should look to the State's proposed plan and the policies surrounding it for guidance.</p>\n<p>Justice Clarence Thomas wrote a concurrence, agreeing with the result, but stating that Section 5 is unconstitutional and should not be a prerequisite for approval of a redistricting plan. He would vacate the interim plans and remand only for consideration of the other issues.</p>\n"
+}

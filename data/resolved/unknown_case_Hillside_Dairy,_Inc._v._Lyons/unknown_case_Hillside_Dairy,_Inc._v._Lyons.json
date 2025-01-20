@@ -1,0 +1,35 @@
+{
+    "ID": 55065,
+    "name": "Hillside Dairy, Inc. v. Lyons",
+    "href": "https://api.oyez.org/cases/2002/01-950",
+    "view_count": 0,
+    "docket_number": "01-950",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1055134800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38855"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1050987600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52645"
+        }
+    ],
+    "question": "<p>Does the Federal Agriculture Improvement and Reform Act of 1996 exempt California's milk pricing and pooling regulations from scrutiny under the Commerce Clause? Are individual claims under the Privileges and Immunities Clause against California's required contributions to the price equalization pool on some out-of-state purchases foreclosed because those regulations do not discriminate on their face on the basis of state citizenship or state residence?</p>\n",
+    "citation": {
+        "volume": "539",
+        "page": "59",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/20508"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/539/59/",
+    "facts_of_the_case": "<p>California regulates the minimum price paid to dairy farmers producing raw milk by establishing price minimums and requiring contributions to a price equalization pool. After it became profitable for some California processors to buy raw milk from out-of-state producers, the California Department of Food and Agriculture amended its regulations to require contributions to the price equalization pool on some out-of-state purchases. Four dairy farms in Nevada filed suit, alleging that the amendment unconstitutionally discriminated against them. Without reaching the merits, the District Court dismissed both cases. In affirming, the Court of Appeals held that the Federal Agriculture Improvement and Reform Act of 1996 immunized California's milk pricing and pooling laws from Commerce Clause challenge. The appellate court also held that the individual petitioners' Privileges and Immunities Clause claims failed because the amendment did not create classifications based on any individual's residency or citizenship.</p>\n",
+    "conclusion": "<p>No and no. In an opinion delivered by Justice John Paul Stevens, the Court held, 8-1, that, because the Federal Agriculture Improvement and Reform Act of 1996 did not clearly express an intent to insulate California's pricing and pooling laws from a Commerce Clause challenge, the Court of Appeals erred in relying on it to dismiss the case. The Court also held, 9-0, that the appellate court erred in rejecting the Privileges and Immunities Clause claim on the ground that the California laws did not, on their face, create classifications based on any individual's residency or citizenship. The Court reasoned that the absence of an express statement identifying out-of-state citizenship as a basis for disparate treatment was not a sufficient basis for rejecting the claim. Justice Clarence Thomas concurred in part and dissented in part.</p>\n"
+}

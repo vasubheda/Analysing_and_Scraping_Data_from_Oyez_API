@@ -1,0 +1,35 @@
+{
+    "ID": 55043,
+    "name": "Federal Communications Commission v. Nextwave Personal Communications, Inc.",
+    "href": "https://api.oyez.org/cases/2002/01-653",
+    "view_count": 0,
+    "docket_number": "01-653",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1034053200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38812"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1043647200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38813"
+        }
+    ],
+    "question": "<p>Does section 525 of the Bankruptcy Code prohibit the Federal Communications Commission from revoking licenses held by a debtor in bankruptcy upon the debtor's failure to make timely payments owed to the FCC for purchase of the licenses?</p>\n",
+    "citation": {
+        "volume": "537",
+        "page": "293",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/18972"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/537/293/",
+    "facts_of_the_case": "<p>After the Federal Communications Commission (FCC) auctioned off certain broadband personal communications services licenses to NextWave Personal Communications, Inc., Nextwave filed for Chapter 11 bankruptcy protection and suspended payments to all creditors, including the FCC. The FCC asserted that NextWave's licenses had been canceled automatically when the company missed its first payment-deadline and announced that NextWave's licenses were available for auction. Ultimately, when the FCC denied NextWave's petition for reconsideration of the license cancellation, the Court of Appeals for the D. C. Circuit held that the cancellation violated 11 USC section 525(a), which provides that a \"governmental unit may not...revoke...a license...to...a debtor...solely because such...debtor...has not paid a debt that is dischargeable in the case.\" (Together with No. 01-657, Arctic Slope Regional Corp. et al. v. NextWave Personal Communications Inc. et al.)</p>\n",
+    "conclusion": "<p>Yes. In an 8-1 opinion delivered by Justice Antonin Scalia, the Court held that the FCC's cancellations of the licenses violated section 525(a) as revocations of government licenses solely for nonpayment of the debtors' dischargeable debts. The Court rejected the FCC's argument that it did not revoke NextWave's licenses solely because of nonpayment and noted that the fact that the FCC had a valid regulatory motive for its action was irrelevant. Justice Scalia reasoned that, because the statute refers to failure to pay a debt as the sole cause of cancellation, it cannot reasonably be understood to include the governmental unit's motive in effecting the cancellation, since such a reading would deprive section 525 of force. Justice John Paul Stevens filed an opinion concurring in part and concurring in the judgment. Justice Stephen G. Breyer authored a dissenting opinion.</p>\n"
+}

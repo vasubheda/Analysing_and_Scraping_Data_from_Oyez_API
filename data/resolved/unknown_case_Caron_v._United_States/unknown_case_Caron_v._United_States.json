@@ -1,0 +1,35 @@
+{
+    "ID": 54629,
+    "name": "Caron v. United States",
+    "href": "https://api.oyez.org/cases/1997/97-6270",
+    "view_count": 0,
+    "docket_number": "97-6270",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                893134800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38038"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                898491600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38039"
+        }
+    ],
+    "question": "<p>Does 18 USC section 922(g)(1), which forbids felons from possessing firearms and enhances their sentences for a violation, apply to a felon who is allowed under state law to possess rifles and shotguns but not handguns?</p>\n",
+    "citation": {
+        "volume": "524",
+        "page": "308",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18558"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/524/308/",
+    "facts_of_the_case": "<p>18 USC section 922(g)(1) forbids a person convicted of a serious offense to possess any firearm. Section 924(e) requires that a three-time violent felon who violates section 922(g)(1) receive an enhanced sentence. Section 921(a)(20) provides that a previous conviction is not a predicate for the substantive offense or the enhanced sentence if the offender's civil rights have been restored, \"unless such... restoration... expressly provides that the person may not... possess... firearms.\" In 1993, Gerald Caron was convicted of possessing six rifles and shotguns in violation of section 922(g). The District Court enhanced Caron's sentence based, in part, on three Massachusetts convictions. In vacating his sentence, the Court of Appeals concluded that a Massachusetts law that permitted Caron to possess rifles, but not handguns, had restored his civil rights. On remand, the District Court found that, because Massachusetts law allowed Caron to possess rifles, section 921(a)(20)'s \"unless clause\" was not activated. The Court of Appeals reversed.</p>\n",
+    "conclusion": "<p>Yes. In a 6-3 opinion delivered by Justice Anthony M. Kennedy, the Court held that \"Massachusetts treats [Caron] as too dangerous to trust with handguns, though it accords this right to law-abiding citizens. Federal law uses this state finding of dangerousness in forbidding [Caron] to have any guns.\" Justice Kennedy wrote for the Court that \"the unless clause is activated if a restoration of civil rights 'expressly provides that the person may not... possess... firearms.' Either the restorations forbade possession of 'firearms' and the convictions count for all purposes, or they did not and the convictions count not at all. The unless clause looks to the terms of the past restorations alone and does not refer to the weapons at issue in the present case. So if the Massachusetts convictions count for some purposes, they count for all and bar possession of all guns.\"</p>\n"
+}

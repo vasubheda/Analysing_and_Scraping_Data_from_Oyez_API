@@ -1,0 +1,35 @@
+{
+    "ID": 56152,
+    "name": "Christeson v. Roper",
+    "href": "https://api.oyez.org/cases/2014/14-6873",
+    "view_count": 0,
+    "docket_number": "14-6873",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1421733600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41763"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1421733600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41764"
+        }
+    ],
+    "question": "<p>(1) Does an actual conflict of interest meet the \"interests of justice\" standard and require the appointment of conflict-free counsel?</p>\n<p>(2) Should the appointed counsel that procedurally defaulted the client's federal habeas application through an untimely filing of the petition continue their court appointment and determine the existence of pleas regarding their own abandonment and/or misconduct?</p>\n",
+    "citation": {
+        "volume": "574",
+        "page": "373",
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20931"
+    },
+    "term": "2014",
+    "description": "A case in which the Court held that an attorney\u2019s conflict of interest with that of their client met the \u201cinterests of justice\u201d standard and required the appointment of conflict-free counsel.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/574/373/",
+    "facts_of_the_case": "<p>In 1999, a jury convicted Mark Christeson of capital murder for invading the home of a mother and her two children, raping the mother, and then cutting their throats and pushing them into the pond. The jury sentenced Christeson to death. In 2004, the Supreme Court of Missouri affirmed the conviction, which meant that Christeson's federal habeas petition was due on April 10, 2005. Nine months before the deadline, the Court appointed attorneys Phil Horwitz and Eric Butts to represent Christeson. Horwitz and Butts failed to meet with Christeson until six weeks after the petition was due, and they filed the petition 117 days late. The federal district court dismissed the petition as untimely. Seven years later, Horwitz and Butts contacted attorneys Jennifer Merrigan and Joseph Perkovich to discuss Christeson's case. Merrigan and Perkovich discovered Christeson's only chance would be to reopen the final judgment on the grounds that the statute of limitation should not have been enforced in this case. Horwitz and Butts, knowing this would ruin their reputations, refused to let outside counsel access their files. Merrigan and Perkovich moved for substitution of counsel, which the district court denied because they were from out of state and because Horwitz and Butts had not abandoned their client. The U.S. Court of Appeals for the Eighth Circuit affirmed.</p>\n",
+    "conclusion": "<p>Yes, no. In a per curiam opinion, the Court held that Christeson's motion for substitution of counsel met the \"interests of justice\" standard because of Horwitz and Butts' conflict of interest. Horwitz and Butts would have to claim serious attorney misconduct against themselves in order to prevent the enforcement of the statute of limitations, and they cannot reasonably be expected to do so. The attorneys' decision not to argue in favor of the non-enforcement of the statute of limitations was contrary to their client's interest, which is grounds for attorney substitution. Christeson is entitled to show that the statute of limitations should not be enforced and to the assistance of substitute counsel in doing so.</p>\n<p>Justice Samuel A. Alito Jr. wrote a dissenting opinion in which he argued that the one-year statute of limitations for the habeas corpus petition may only go unenforced under extraordinary circumstances and that briefing and argument is necessary. This case was based on attorney error for the untimely filing of the habeas petition, which did not qualify as extraordinary circumstances. Justice Alito also wrote that the Court should have reviewed the question of petitioner's entitlement to the non-enforcement of the statute of limitations, rather than only the issue of the right to attorney substitution. Justice Clarence Thomas joined in the dissent.</p>\n"
+}

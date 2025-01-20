@@ -1,0 +1,40 @@
+{
+    "ID": 63697,
+    "name": "Facebook v. Amalgamated Bank",
+    "href": "https://api.oyez.org/cases/2024/23-980",
+    "view_count": 0,
+    "docket_number": "23-980",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1717995600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55512"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1730872800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55513"
+        },
+        {
+            "event": "Dismissed",
+            "dates": [
+                1732255200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55566"
+        }
+    ],
+    "question": "<p>Are risk disclosures false or misleading when they do not disclose that a risk has materialized in the past, even if that past event presents no known risk of ongoing or future business harm?</p>\n",
+    "citation": {
+        "volume": "604",
+        "page": null,
+        "year": "2024",
+        "href": "https://api.oyez.org/case_citation/case_citation/28031"
+    },
+    "term": "2024",
+    "description": "A case in which the Court was asked to decide whether risk disclosures are false or misleading when they do not disclose that a risk has materialized in the past, even if that past event presents no known risk of ongoing or future business harm.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/604/23-980/"
+}

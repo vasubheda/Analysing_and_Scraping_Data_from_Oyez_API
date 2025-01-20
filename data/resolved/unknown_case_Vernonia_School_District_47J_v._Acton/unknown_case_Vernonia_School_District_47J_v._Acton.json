@@ -1,0 +1,35 @@
+{
+    "ID": 54353,
+    "name": "Vernonia School District 47J v. Acton",
+    "href": "https://api.oyez.org/cases/1994/94-590",
+    "view_count": 0,
+    "docket_number": "94-590",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                796370400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37525"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                804142800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37526"
+        }
+    ],
+    "question": "<p>Does random drug testing of high school athletes violate the reasonable search and seizure clause of the Fourth Amendment?</p>\n",
+    "citation": {
+        "volume": "515",
+        "page": "646",
+        "year": "1995",
+        "href": "https://api.oyez.org/case_citation/case_citation/18282"
+    },
+    "term": "1994",
+    "description": "A case in which the Court held that an Oregon public school did not violate students' Fourth Amendment rights by mandating random drug tests for student athletes.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/515/646/",
+    "facts_of_the_case": "<p>An official investigation led to the discovery that high school athletes in the Vernonia School District participated in illicit drug use. School officials were concerned that drug use increases the risk of sports-related injury. Consequently, the Vernonia School District of Oregon adopted the Student Athlete Drug Policy which authorizes random urinalysis drug testing of its student athletes. James Acton, a student, was denied participation in his school's football program when he and his parents refused to consent to the testing.</p>\n",
+    "conclusion": "<p>No. The reasonableness of a search is judged by \"balancing the intrusion on the individual's Fourth Amendment interests against the promotion of legitimate governmental interests.\" In the case of high school athletes who are under State supervision during school hours, they are subject to greater control than over free adults. The privacy interests compromised by urine samples are negligible since the conditions of collection are similar to public restrooms, and the results are viewed only by limited authorities. Furthermore, the governmental concern over the safety of minors under their supervision overrides the minimal, if any, intrusion in student-athletes' privacy.</p>\n"
+}

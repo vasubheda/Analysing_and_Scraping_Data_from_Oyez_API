@@ -1,0 +1,35 @@
+{
+    "ID": 54871,
+    "name": "Cleveland v. United States",
+    "href": "https://api.oyez.org/cases/2000/99-804",
+    "view_count": 0,
+    "docket_number": "99-804",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                971154000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38485"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                973576800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38486"
+        }
+    ],
+    "question": "<p>Do state video poker licenses qualify as property for purposes of the federal mail fraud statute?</p>\n",
+    "citation": {
+        "volume": "531",
+        "page": "12",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18800"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/531/12/",
+    "facts_of_the_case": "<p>Louisiana law authorizes the State to award nontransferable, annually renewable licenses to operate video poker machines. In 1992, Fred Goodson and his family formed Truck Stop Gaming, Ltd. (TSG), a video poker business. Carl Cleveland, a lawyer, assisted Goodson in preparing TSG's video poker license applications, each of which identified Goodson's children as the sole beneficial owners of the partnership. From 1992 through 1995, TSG successfully renewed its license. In 1996, Cleveland and Goodson were charged with money laundering under federal law, along with racketeering and conspiracy in connection with a scheme to bribe state legislators to vote in a manner favorable to the video poker industry. Acts supporting these charges came from federal mail fraud charges, defined as \"any scheme or artifice to defraud, or for obtaining...property by means of...fraudulent...representations.\" The indictment alleged that Cleveland and Goodson fraudulently concealed that they were the true owners of TSG in the license applications they had mailed to the State because they had tax and financial problems that could have undermined their ability to receive a video poker license. Before trial, Cleveland moved to dismiss the mail fraud counts on the ground that the alleged fraud did not deprive the State of \"property.\" The District Court denied the motion, concluding that licenses constitute property even before they are issued. A jury found Cleveland guilty. The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Ruth Bader Ginsburg, the Court held that State and municipal licenses in general, and Louisiana's video poker licenses in particular, do not rank as \"property,\" for purposes of federal law, in the hands of the official licensor. Thus, Cleveland's conviction for making false statements to obtain state video poker license was vacated. \"Equating issuance of licenses or permits with deprivation of property would subject to federal mail fraud prosecution a wide range of conduct traditionally regulated by state and local authorities,\" wrote Justice Ginsburg for the Court.</p>\n"
+}

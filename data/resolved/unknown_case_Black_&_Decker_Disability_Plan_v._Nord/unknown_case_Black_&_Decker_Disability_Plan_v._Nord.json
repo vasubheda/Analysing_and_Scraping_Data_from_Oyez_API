@@ -1,0 +1,35 @@
+{
+    "ID": 55094,
+    "name": "Black & Decker Disability Plan v. Nord",
+    "href": "https://api.oyez.org/cases/2002/02-469",
+    "view_count": 0,
+    "docket_number": "02-469",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1051506000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38906"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1054011600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38907"
+        }
+    ],
+    "question": "<p>Under ERISA, are companies required to defer to the decision of a disability claimant's personal physician?</p>\n",
+    "citation": {
+        "volume": "538",
+        "page": "822",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/19023"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/538/822/",
+    "facts_of_the_case": "<p>With the recommendation of his doctor, Kenneth Nord filed for disability benefits with his employer of 25 years, Kwikset Corp., a company owned by Black &amp; Decker Corp. After the company denied his claim, Nord asked for a review of the denial. A doctor hired by the company determined that Nord could in fact perform the duties required by his job and was therefore ineligible for benefits, despite determinations to the contrary by Nord's physician, his orthopedic surgeon and a Black &amp; Decker human resource representative. Nord sued to have the decision reversed, claiming that the company's preference of its doctor's opinion over the opinions of the other physicians violated the Employee Retirement Income Security Act of 1974. The district court ruled in favor of Black &amp; Decker Corp. The 9th Circuit Court of Appeals reversed.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Ruth Bader Ginsburg, the Court held that plan administrators are not obliged to accord special deference to the opinions of treating physicians. The Court reasoned that the Court of Appeals erroneously applied a \"treating physician rule\" because nothing in ERISA gave rise to such a rule. Justice Ginsburg wrote, \"courts have no warrant to require administrators automatically to accord special weight to the opinions of a claimant's physician; nor may courts impose on plan administrators a discrete burden of explanation when they credit reliable evidence that conflicts with a treating physician's evaluation.\"</p>\n"
+}

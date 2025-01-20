@@ -1,0 +1,42 @@
+{
+    "ID": 55513,
+    "name": "Department of Revenue of Kentucky v. Davis",
+    "href": "https://api.oyez.org/cases/2007/06-666",
+    "view_count": 0,
+    "docket_number": "06-666",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1179723600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40028"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1194242400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40029"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1211173200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40030"
+        }
+    ],
+    "question": "<p>Does a state violate the dormant Commerce Clause by providing an income tax exemption for interest on bonds issued by the state, while denying the exemption to interest on bonds issued by other states?</p>\n",
+    "citation": {
+        "volume": "553",
+        "page": "328",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20742"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/553/328/",
+    "facts_of_the_case": "<p>When calculating gross income for tax purposes, the Internal Revenue Code exempts from taxation the interest earned on any state or local bond. However, Kentucky law requires that interest income earned on bonds issued by other states be taxed as part of an individual's adjusted gross income. George and Catherine Davis filed a class action complaint arguing that Kentucky's policy of taxing out-of-state bonds was in violation of the dormant Commerce Clause - the doctrine that the Commerce Clause forbids states from interfering with interstate commerce. The state trial court ruled in favor of the Kentucky Department of Revenue and declared the tax policy constitutional.</p>\n<p>On appeal, the Davises stressed Kentucky's market discrimination against other states as a factor indicating that the policy was unconstitutional. In response, the Department of Revenue cited a similar policy that was upheld by state courts in Ohio. The Department also invoked the \"market participant doctrine,\" which stands for the idea that only the state's actions as a regulator are subject to the dormant Commerce Clause. Actions undertaken as a market participant, such as the issuance of bonds, are not. The Kentucky Court of Appeals reversed the lower court and struck down the tax policy. The Court of Appeals held that the tax discrimination rather than the bond issuance was at issue, and the taxation was indisputably undertaken in the state's capacity as a regulator. The court concluded that the Commerce Clause was incompatible with such a discriminatory state policy.</p>\n",
+    "conclusion": "<p>No. The Court held 7-2 that Kentucky's differential tax scheme does not offend the Commerce Clause. No single opinion commanded a majority. Bond proceeds are a \"quintessentially public function,\" the Court noted, and are therefore likely motivated by legitimate state objectives other than simple economic protectionism. These objectives outweigh any negative effect the tax may have on interstate commerce.</p>\n"
+}

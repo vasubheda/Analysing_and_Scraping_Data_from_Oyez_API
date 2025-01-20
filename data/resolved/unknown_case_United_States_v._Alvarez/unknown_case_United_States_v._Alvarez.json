@@ -1,0 +1,42 @@
+{
+    "ID": 55829,
+    "name": "United States v. Alvarez",
+    "href": "https://api.oyez.org/cases/2011/11-210",
+    "view_count": 0,
+    "docket_number": "11-210",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1318827600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40868"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1329890400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40869"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1340859600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40870"
+        }
+    ],
+    "question": "<p>Does 18 U.S.C. 704(b), the Stolen Valor Act, violate the Free Speech Clause of the First Amendment?</p>\n",
+    "citation": {
+        "volume": "567",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19751"
+    },
+    "term": "2011",
+    "description": "A case in which the Court found that the Stolen Valor Act violated the First Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/567/709/",
+    "facts_of_the_case": "<p>On July 23, 2007, Xavier Alvarez, a member of the Three Valleys Water District Board of Directors, attended a joint meeting with the Walnut Valley Water District Board of Directors at the Board's headquarters. Mr. Alvarez was invited to speak about his background, and he stated, \"I'm a retired marine of 25 years. I retired in the year 2001. Back in 1987, I was awarded the Congressional Medal of Honor.\" In fact, Mr. Alvarez had not received the Congressional Medal of Honor, nor any other military medal or decoration. He had also had never served in the United States Armed Forces.</p>\n<p>The Stolen Valor Act of 2005 makes it a crime to falsely claim receipt of military decorations or medals. On September 26, 2007, Mr. Alvarez was charged in the Central District of California with two counts of falsely representing that he had been awarded the Congressional Medal of Honor in violation the Stolen Valor Act of 2005. Mr. Alvarez moved to dismiss on the grounds that the statute violated his first amendment right to free speech. The district court denied Alvarez's motion to dismiss. The respondent thereafter pleaded guilty, but reserved his right to appeal.</p>\n<p>Alvarez appealed to the U.S. Court of Appeals for the Ninth Circuit, and the court reversed and remanded the lower court's decision. It reasoned that the Supreme Court had never held that the government may prohibit speech simply because it is knowingly false and that some knowingly false speech could have affirmative constitutional value. The court of appeals denied the government's request for rehearing. Thereafter, the government appealed the court of appeals' decision.</p>\n",
+    "conclusion": "<p>Yes. Justice Anthony M. Kennedy, writing for a 6-3 majority, affirmed the Court of Appeals. Content-based restrictions on speech are subject to strict scrutiny and are almost always invalid, except in rare and extreme circumstances. While categories of speech, such as defamation and true threats, present a grave and imminent threat, false statements alone do not present such a threat. Congress drafted the Stolen Valor Act too broadly, attempting to limit speech that could cause no harm. Criminal punishment for such speech is improper.</p>\n<p>Justice Stephen G. Breyer concurred, concluding that false statements of fact should be subject to intermediate scrutiny. However, as drafted, the Stolen Valor Act violates intermediate scrutiny because it applies to situations that are unlikely to cause harm. Justice Elena Kagan joined in the concurrence.</p>\n<p>Justice Samuel A. Alito dissented. Congress could not draft the Stolen Valor Act more narrowly, while still preventing the substantial harm caused by false statements concerning military decoration. Justice Antonin Scalia and Justice Clarence Thomas joined in the dissent.</p>\n"
+}

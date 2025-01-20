@@ -1,0 +1,35 @@
+{
+    "ID": 54186,
+    "name": "Florence County School District Four v. Carter",
+    "href": "https://api.oyez.org/cases/1993/91-1523",
+    "view_count": 0,
+    "docket_number": "91-1523",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                749883600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37214"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                752824800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37215"
+        }
+    ],
+    "question": "<p>May a court order reimbursement for parents who withdrew their child from a public school providing an inappropriate education under the Individuals with Disabilities Education Act and put the child in a private school that is in substantial - but not complete - compliance with the act?</p>\n",
+    "citation": {
+        "volume": "510",
+        "page": "7",
+        "year": "1993",
+        "href": "https://api.oyez.org/case_citation/case_citation/18115"
+    },
+    "term": "1993",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/510/7/",
+    "facts_of_the_case": "<p>After Shannon Carter was classified as a learning disabled student, school officials met with her parents to formulate an individualized education program (IEP) as required under the Individuals with Disabilities Education Act (IDEA). Unhappy with the IEP developed by the school district, Shannon's parents challenged its appropriateness and enrolled her in a private school while their challenge was pending.</p>\n<p>When state and local educational authorities concluded that the IEP was adequate, Shannon's parents sued in Federal District Court, claiming the school district had failed to provide a \"free appropriate public education\" as required by IDEA and demanding reimbursement for Shannon's education at the private school. The school district argued that the private school did not meet all the requirements of IDEA and therefore did not meet the \"appropriate\" standard. Because of it was not \"appropriate,\" the school district argued, reimbursement was not required.</p>\n<p>The District Court and the Fourth Circuit of Appeals both ruled against the school district, requiring it to reimburse Shannon's parents.</p>\n",
+    "conclusion": "<p>Yes. In an opinion written by Justice Sandra Day O'Connor, the Supreme Court unanimously held that parents have a right to withdraw their child from a public school providing an inappropriate education under the meaning of IDEA and enroll them in a private school, as long as the private school provides an \"appropriate\" education. The Court further held that the specific requirements of the Act need not be met when a student is placed in a private school by his or her parents, because the IDEA requirements were not intended to apply to parental placements.</p>\n"
+}

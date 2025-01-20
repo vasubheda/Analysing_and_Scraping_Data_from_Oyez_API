@@ -1,0 +1,42 @@
+{
+    "ID": 55228,
+    "name": "Koons Buick Pontiac GMC, Inc. v. Nigh",
+    "href": "https://api.oyez.org/cases/2004/03-377",
+    "view_count": 0,
+    "docket_number": "03-377",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1074578400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39251"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1096952400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39252"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1101794400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39253"
+        }
+    ],
+    "question": "<p>Could parties who suffered no actual damages recover more than the Truth in Lending Act's original $1,000 cap because of subsequent amendments to the act?</p>\n",
+    "citation": {
+        "volume": "543",
+        "page": "50",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19156"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/543/50/",
+    "facts_of_the_case": "<p>Bradley Nigh bought a car from Koons Buick Pontiac GMC. Nigh later sued the dealership for intentionally charging him for a car feature for which he did not agree to pay. Nigh sued under the federal Truth in Lending Act (TILA). A federal district court awarded Nigh about $24,000. Koons Buick appealed and argued the district court ignored TILA's cap on damages to $1,000. A Fourth Circuit held that a 1995 amendment to the act removed the $1,000 cap on recoveries involving loans secured by personal property.</p>\n",
+    "conclusion": "<p>No. In an 8-1 judgment delivered by Justice Ruth Bader Ginsburg, the Court held that a 1995 TILA amendment did not change the original limit on violations involving personal-property loans. Congress intended the amendment to raise the minimum and maximum recoveries for closed-end loans secured by real property. Congress had not sought to remove the $1,000 cap on loans secured by personal property.</p>\n"
+}

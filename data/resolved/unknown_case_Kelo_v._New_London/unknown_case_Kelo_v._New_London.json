@@ -1,0 +1,42 @@
+{
+    "ID": 55250,
+    "name": "Kelo v. New London",
+    "href": "https://api.oyez.org/cases/2004/04-108",
+    "view_count": 0,
+    "docket_number": "04-108",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1096347600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39312"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1109052000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39313"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1119502800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39314"
+        }
+    ],
+    "question": "<p>Does a city violate the Fifth Amendment's takings clause if the city takes private property and sells it for private development, with the hopes the development will help the city's bad economy?</p>\n",
+    "citation": {
+        "volume": "545",
+        "page": "469",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19178"
+    },
+    "term": "2004",
+    "description": "A case in which the Court held that the city's taking of private property to sell for private development qualified as a \"public use\" under the takings clause of the Fifth Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/545/469/",
+    "facts_of_the_case": "<p>New London, a city in Connecticut, used its eminent domain authority to seize private property to sell to private developers. The city said developing the land would create jobs and increase tax revenues. Susette Kelo and others whose property was seized sued New London in state court. The property owners argued the city violated the Fifth Amendment's takings clause, which guaranteed the government will not take private property for public use without just compensation. Specifically, the property owners argued taking private property to sell to private developers was not public use. The Connecticut Supreme Court ruled for New London.</p>\n",
+    "conclusion": "<p>No. In a 5-4 opinion delivered by Justice John Paul Stevens, the majority held that the city's taking of private property to sell for private development qualified as a \"public use\" within the meaning of the takings clause. The city was not taking the land simply to benefit a certain group of private individuals, but was following an economic development plan. Such justifications for land takings, the majority argued, should be given deference. The takings here qualified as \"public use\" despite the fact that the land was not going to be used by the public. The Fifth Amendment did not require \"literal\" public use, the majority said, but the \"broader and more natural interpretation of public use as 'public purpose.'\"</p>\n"
+}

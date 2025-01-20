@@ -1,0 +1,42 @@
+{
+    "ID": 55413,
+    "name": "Whorton v. Bockting",
+    "href": "https://api.oyez.org/cases/2006/05-595",
+    "view_count": 0,
+    "docket_number": "05-595",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1147669200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39751"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1162360800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39752"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1172642400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39753"
+        }
+    ],
+    "question": "<p>Is the Court's decision on the admissibility of hearsay testimony in <em>Crawford v. Washington</em> a watershed rule that applies retroactively?</p>\n",
+    "citation": {
+        "volume": "549",
+        "page": "406",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20674"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/549/406/",
+    "facts_of_the_case": "<p>Marvin Bockting was accused of sexually assaulting his six year old stepdaughter. The girl told a detective about Bockting's crimes against her, but at the trial she became very upset and refused to testify. The judge declared the witness unavailable and allowed the detective to give hearsay testimony on what Bockting's daughter had told him. Bockting was convicted and sentenced to life in prison without having had a chance to cross-examine the only witness against him.</p>\n<p>Bockting's appeals in state court were denied. He filed a petition for habeas corpus in federal court, claiming that his Sixth Amendment right to confront his accuser had been violated. During Bockting's appeals, the Supreme Court ruled in <em>Crawford v. Washington</em> that hearsay testimony given outside the court by an unavailable witness is only admissible if the defendant had an opportunity to cross-examine the witness before trial.</p>\n<p>Bockting appealed to the U.S. Court of Appeals for the Nith Circuit, arguing that <em>Crawford</em> should apply retroactively to his case. The Circuit Court ruled that <em>Crawford</em> had announced a \"new rule\" of criminal procedure; new rules are normally not applied to cases that were final before the rule was announced. However, the Ninth Circuit held that the rule on hearsay testimony was a \"watershed\" rule that was fundamental to a fair trial. Under an exception defined by the Supreme Court in <em>Teague v. Lane</em>, watershed rules are applied retroactively.</p>\n",
+    "conclusion": "<p>No. The Court ruled unanimously \"that <em>Crawford</em> announced a 'new rule' of criminal procedure and that this rule does not fall within the <em>Teague</em> exception for watershed rules.\" Justice Samuel Alito's opinion called the <em>Crawford</em> ruling \"flatly inconsistent\" with the prior precedents that it overruled. It was therefore a new rule of criminal procedure. However, the ruling failed to meet the Court's two criteria for a watershed rule. Although <em>Crawford</em> was aimed at increasing the accuracy of criminal convictions, it was not absolutely necessary to prevent an \"impermissibly large risk of an inaccurate conviction,\" as was the archetypal watershed ruling <em>Gideon v. Wainwright</em>. The Court acknowledged that the <em>Crawford's</em> holding was \"important,\" but it was not as \"profound,\" \"sweeping,\" or \"central[]\" as the <em>Gideon</em> watershed rule, which had been \"essential to the fairness\" of the judicial system. Since the <em>Crawford</em> ruling did not meet the criteria for a watershed rule, the Court ruled that the decision's restrictions on hearsay testimony did not apply retroactively.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 63594,
+    "name": "Wilkinson v. Garland",
+    "href": "https://api.oyez.org/cases/2023/22-666",
+    "view_count": 0,
+    "docket_number": "22-666",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1688101200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55322"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1701151200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55367"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1710824400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55422"
+        }
+    ],
+    "question": "<p>Is an agency determination that a given set of established facts does not rise to the statutory standard of \u201cexceptional and extremely unusual hardship\u201d a mixed question of law and fact reviewable under 8 U.S.C. \u00a7 1252(a)(2)(D), or instead a discretionary judgment call unreviewable under Section 1252(a)(2)(B)(i)?</p>\n",
+    "citation": {
+        "volume": "601",
+        "page": null,
+        "year": "2024",
+        "href": "https://api.oyez.org/case_citation/case_citation/27964"
+    },
+    "term": "2023",
+    "description": "A case in which the Court held that an agency determination that a given set of established facts does not rise to the statutory standard of \u201cexceptional and extremely unusual hardship\u201d is a mixed question of law and fact reviewable under 8 U.S.C. \u00a7 1252(a)(2)(D).",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/601/22-666/",
+    "facts_of_the_case": "<p>Situ Wilkinson, originally from Trinidad and Tobago, overstayed his tourist visa in the U.S., built a life, and fathered a U.S.-citizen son. In 2019, after being arrested for selling crack cocaine, he faced deportation proceedings. Wilkinson conceded his deportability but sought either cancellation or withholding of removal based on the \u201cexceptional and extremely unusual hardship\u201d it would cause his son and the threat to his own life or freedom if he returned to Trinidad due to his \u201cmembership in a particular social group,\u201d specifically people who have filed complaints against Trinidadian police.</p>\n<p>The immigration judge and the Board of Immigration Appeals rejected both of Wilkinson's claims. On appeal, the U.S. Court of Appeals for the Third Circuit held that it lacked jurisdiction to review the hardship claim because was discretionary. The Third Circuit also concluded that Wilkinson\u2019s claim of belonging to a \u201cparticular social group\u201d did not meet the requirements for withholding of removal, as it was not socially distinct within Trinidadian society. Therefore, the Third Circuit dismissed in part and denied in part Wilkinson\u2019s petition for review.</p>\n",
+    "conclusion": "<p>An immigration judge\u2019s discretionary decision that a given set of established facts does not satisfy 8 U.S.C. \u00a7 1229b(b)(1)(D)\u2019s \u201cexceptional and extremely unusual\u201d hardship standard for determining eligibility for cancellation of removal is a mixed question of law and fact, reviewable under \u00a71252(a)(2)(D)\u2019s jurisdiction restoring exception for \u201cquestions of law.\u201d Justice Sonia Sotomayor authored the majority opinion of the Court.</p>\n<p>The application of the statutory hardship standard to an established set of facts presents a quintessential mixed question of law and fact. While this determination requires close examination of the facts, under the Court\u2019s precedent in Guerrero-Lasprilla v. Barr, a mixed question that requires factual analysis is still a mixed question and therefore a \u201cquestion of law\u201d that courts have jurisdiction to review.</p>\n<p>The Court rejected the government\u2019s arguments that Guerrero-Lasprilla should be limited to judicially created standards, that the statutory history precludes review, and that a primarily factual mixed question is a question of fact. Nothing in \u00a7 1252(a)(2)(D) suggests \u201cquestions of law\u201d is limited to only certain types of mixed questions. While courts still cannot review the underlying factual determinations, the application of the hardship standard to those facts is reviewable as a mixed question of law and fact, albeit under a deferential standard of review given the factual nature of the inquiry. The Third Circuit\u2019s holding that it lacked jurisdiction to review hardship determinations was therefore erroneous.</p>\n<p>Justice Ketanji Brown Jackson authored an opinion concurring in the judgment, expressing skepticism that Congress intended the phrase \u201cquestions of law\u201d in \u00a7 1252(a)(2)(D) to encompass all mixed questions of law and fact, as the majority concluded. However, she agreed with the majority\u2019s judgment based on the controlling precedent of Guerrero-Lasprilla.</p>\n<p>Chief Justice John Roberts authored a dissenting opinion in which he agreed with Justice Samuel Alito\u2019s dissent that while Guerrero-Lasprilla was correctly decided, the majority erred in this case by reading the language in that case too broadly.</p>\n<p>Justice Alito, joined by Chief Justice Roberts and Justice Clarence Thomas, dissented, arguing that the Court\u2019s broad reading of \u201cquestions of law\u201d in Guerrero-Lasprilla defies common sense and would result in the exception nearly swallowing the rule, which Congress could not have intended when it enacted \u00a71252(a)(2)(B) and \u00a71252(a)(2)(D). He contended that the hardship determination is overwhelmingly a factual question that should not be classified as a reviewable \u201cquestion of law.\u201d</p>\n"
+}

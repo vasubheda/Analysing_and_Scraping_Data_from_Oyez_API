@@ -1,0 +1,42 @@
+{
+    "ID": 63075,
+    "name": "United States v. Davis",
+    "href": "https://api.oyez.org/cases/2018/18-431",
+    "view_count": 0,
+    "docket_number": "18-431",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1546581600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54417"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1555477200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54489"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1561352400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54547"
+        }
+    ],
+    "question": "<p>Is the subsection-specific definition of \u201ccrime of violence\u201d in 18 U.S.C. \u00a7 924(c)(3)(B)\u2014which applies only in the limited context of a federal criminal prosecution for possessing, using or carrying a firearm in connection with acts comprising such a crime\u2014unconstitutionally vague?</p>\n",
+    "citation": {
+        "volume": "588",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27648"
+    },
+    "term": "2018",
+    "description": "A case in which the Court held that the subsection-specific definition of \u201ccrime of violence\u201d in 18 U.S.C. \u00a7 924(c)(3)(B)\u2014which applies only in the limited context of a federal criminal prosecution for possessing, using or carrying a firearm in connection with acts comprising such a crime\u2014is unconstitutionally vague.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/588/18-431/",
+    "facts_of_the_case": "<p>On November 19, 2015, a jury found defendant Maurice Lamont Davis guilty on six counts, including the illegal use or carrying of a firearm in relation to a crime of violence (a \u201cHobbs Act robbery\u201d) and the illegal use or carrying of a firearm to aid and abet conspiracy to commit a crime of violence. Also on November 19, 2015, a jury found defendant Andre Levon Glover guilty on seven counts, including the two counts described above.</p>\n<p>On appeal, the US Court of Appeals for the Fifth Circuit issued an opinion on January 31, 2017, denying both defendants\u2019 challenges and affirming the district court\u2019s judgment below. The defendants petitioned the US Supreme Court for certiorari, and following the Court\u2019s decision in <a href=\"https://www.oyez.org/cases/2017/15-1498\"><em>Sessions v. Dimaya</em>, 584 U.S. __ (2018)</a>, the Court remanded their case back to the Fifth Circuit for further consideration in light of that decision. After requesting supplemental briefing from the parties on the effect of <em>Dimaya</em>, the Fifth Circuit affirmed in part and vacated in part.</p>\n<p>18 U.S.C. \u00a7 924(c) contains both an \u201celements clause\u201d and a \u201cresidual clause.\u201d The elements clause defines an offense as a crime of violence if it \u201chas as an element the use, attempted use, or threatened use of physical force against the person or property of another,\u201d and the residual clause defines an offense as a crime of violence if it, \u201cby its nature, involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense.\u201d In <em>Dimaya</em>, the Court addressed (and invalidated) a residual clause identical to the residual clause in \u00a7 924(c) but did not address the elements clause. Thus, the Fifth Circuit held the residual clause in 924(c) unconstitutionally vague under <em>Dimaya</em> but did not invalidate the elements clause in that section. As a result of this holding, the Fifth Circuit affirmed its prior judgment as to the Hobbs Act robbery count but vacated as to the aiding and abetting conspiracy count, because the former relies on the elements clause while the latter relies on the residual clause.</p>\n",
+    "conclusion": "<p>Title 18 U.S.C. \u00a7 924(c)(3)(B), which provides enhanced penalties for using a firearm during a \u201ccrime of violence,\u201d is unconstitutionally vague. Justice Neil Gorsuch delivered the 5-4 majority opinion of the Court.</p>\n<p>The Court recently decided two cases in which it was asked to interpret so-called residual clauses. In <a href=\"https://www.oyez.org/cases/2014/13-7120\"><em>Johnson v. United States</em>, 576 U.S. __ (2015)</a>, the Court held that the residual clause in the Armed Career Criminal Act (ACCA), 18 U.S.C. \u00a7 924(e)(2)(B)(ii), was unconstitutionally vague. In <a href=\"https://www.oyez.org/cases/2017/15-1498\"><em>Sessions v. Dimaya</em>, 584 U.S. __ (2018)</a>, the Court held that the residual clause in 18 U.S.C. \u00a7 16 was also unconstitutionally vague. In both of those cases, the Court interpreted the statute to require courts to use a \u201ccategorical approach\u201d to determine \u201cwhether an offense qualified as a violent felony or crime of violence.\u201d This categorical approach prevented judges from considering how the defendant actually committed the offense and weigh instead only the crime\u2019s \u201cordinary case.\u201d The residual clause at issue here is nearly identical to the one held to require a categorical approach in <em>Dimaya</em>, and the Court found no good reason to interpret it differently.</p>\n<p>The phrase \u201cby its nature\u201d compels the categorical approach, and to understand the nearly identical language of 18 U.S.C. \u00a7 16 differently would \u201cmake a hash of the federal criminal code.\u201d The history of the statute, too, supports this interpretation of the clause, and the Court has never invoked the canon of constitutional avoidance, as the government advocated, to expand the reach of a criminal statute to save it.</p>\n<p>Justice Brett Kavanaugh filed a dissenting opinion in which Justices Clarence Thomas and Samuel Alito joined, and in which Chief Justice John Roberts joined in part. The dissenters argued that the residual clause in this case is fundamentally different from those struck down in <em>Johnson</em> and <em>Dimaya</em> because those cases involved sentencing based on prior convictions, whereas this one focuses only on current conduct during the presently charged crime. Justices Kavanaugh and Alito (without the Chief Justice) also warned of the dire consequences of the Court\u2019s decision.</p>\n"
+}

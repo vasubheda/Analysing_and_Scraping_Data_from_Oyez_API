@@ -1,0 +1,35 @@
+{
+    "ID": 54680,
+    "name": "Clinton v. Goldsmith",
+    "href": "https://api.oyez.org/cases/1998/98-347",
+    "view_count": 0,
+    "docket_number": "98-347",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                922082400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38133"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                926917200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38134"
+        }
+    ],
+    "question": "<p>Does the Court of Appeals for the Armed Forces have the jurisdiction under the All Writs Act to enjoin the President and various military officials from dropping a convict from the rolls of the Air Force?</p>\n",
+    "citation": {
+        "volume": "526",
+        "page": "529",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18609"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/526/529/",
+    "facts_of_the_case": "<p>James T. Goldsmith, an Air Force major, defied an order from a superior officer to inform his sex partners that he was infected with HIV and to take measures to block any transfer of bodily fluids during sexual intercourse. Goldsmith was convicted by general court-martial under several counts and sentenced to six years' confinement and partial forfeiture of salary. The Air Force Court of Criminal Appeals affirmed. Goldsmith sought no review of the decision in the Court of Appeals for the Armed Forces (CAAF) and his conviction became final. Subsequently, the Air Force notified Goldsmith that it was taking action to drop him from the rolls under a newly enacted statute. Goldsmith then petitioned the Air Force Court of Criminal Appeals for extraordinary relief under the All Writs Act, which authorizes courts established by Congress to \"issue all writs necessary and appropriate in aid of their respective jurisdictions,\" to redress the unrelated alleged interruption of his HIV medication during his incarceration, but did not immediately contest his removal from the Air Force rolls. The Air Force Court of Criminal Appeals ruled that it lacked jurisdiction to act. On appeal to the CAAF from this determination, Goldsmith first asserted the claim that the Air Force's action to drop him violated the Ex Post Facto and Double Jeopardy Clauses of the Constitution. He argued that the statute had been enacted after the date of his court-martial conviction and that the action would inflict successive punishment based on the same conduct underlying his first conviction. The CAAF granted his petition for extraordinary relief to redress the interruption of his HIV medication and relied on the All Writs Act in enjoining the President and other officials from dropping Goldsmith from the Air Force rolls.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice David H. Souter, the Court held that because the Court of Appeals for the Armed Forces' resort to the All Writs Act was neither in aid of its strictly circumscribed jurisdiction to review court-martial findings and sentences nor \"necessary or appropriate\" in light of a servicemember's alternative opportunities to seek relief, that court lacked jurisdiction to issue an injunction against dropping Goldsmith from the Air Force rolls. Justice Souter's opinion emphasized the alternative avenues of relief available to Goldsmith.</p>\n"
+}

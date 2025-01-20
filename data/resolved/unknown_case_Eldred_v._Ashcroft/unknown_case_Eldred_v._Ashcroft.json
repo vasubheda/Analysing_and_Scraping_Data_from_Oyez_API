@@ -1,0 +1,35 @@
+{
+    "ID": 55081,
+    "name": "Eldred v. Ashcroft",
+    "href": "https://api.oyez.org/cases/2002/01-618",
+    "view_count": 0,
+    "docket_number": "01-618",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1034139600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38881"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1042610400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38882"
+        }
+    ],
+    "question": "<p>Does the 1998 Copyright Term Extension Act's extension of existing copyrights exceed Congress's power under the Copyright Clause? Does the CTEA's extension of existing and future copyrights violate the First Amendment?</p>\n",
+    "citation": {
+        "volume": "537",
+        "page": "186",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/19010"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/537/186/",
+    "facts_of_the_case": "<p>Under the Copyright and Patent Clause of the Constitution, Article 1, section 8, \"Congress shall have Power...to promote the Progress of Science...by securing [to Authors] for limited Times...the exclusive Right to their...Writings.\" In the 1998 Copyright Term Extension Act (CTEA), Congress enlarged the duration of copyrights by 20 years, making copyrights now run from creation until 70 years after the author's death. Petitioners, whose products or services build on copyrighted works that have entered the public domain, argued that the CTEA violates both the Copyright Clause's \"limited Times\" prescription and the First Amendment's free speech guarantee. They claimed Congress cannot extend the copyright term for published works with existing copyrights. The District Court and the District of Columbia Circuit disagreed.</p>\n",
+    "conclusion": "<p>No and no. In a 7-2 opinion delivered by Justice Ruth Bader Ginsburg, the Court held that Congress acted within its authority and did not transgress constitutional limitations in placing existing and future copyrights in parity in the CTEA. Disagreeing with the argument that a copyright once set is fixed, the majority found that the CTEA \"continues the unbroken congressional practice of treating future and existing copyrights in parity for term extension purposes,\" and is a permissible exercise of Congress's power under the Copyright Clause. Moreover, the Court held that the CTEA's extension of existing and future copyrights does not violate the First Amendment. Justices John Paul Stevens and Stephen G. Breyer dissented, arguing that the CTEA amounted to a grant of perpetual copyright that undermined public interests.</p>\n"
+}

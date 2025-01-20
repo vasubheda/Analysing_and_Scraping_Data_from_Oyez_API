@@ -1,0 +1,35 @@
+{
+    "ID": 62937,
+    "name": "Tharpe v. Sellers",
+    "href": "https://api.oyez.org/cases/2017/17-6075",
+    "view_count": 0,
+    "docket_number": "17-6075",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1515391200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54187"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1515391200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54188"
+        }
+    ],
+    "question": "<p>Should a capital case be reopened in light of a juror's racially discriminatory statements made after the petitioner's capital murder trial, providing sufficient evidence in the record for the trial court to conclude that racial animus had influenced the jury's conviction and imposition of the death sentence?</p>\n",
+    "citation": {
+        "volume": "583",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27565"
+    },
+    "term": "2017",
+    "description": "A case in which the Court granted a petition for writ of certiorari in a summary ruling, concluding that a juror\u2019s racially discriminatory statements made after the petitioner\u2019s capital murder trial potentially provided clear evidence contrary to the lower court\u2019s conclusion that racial animus had not influenced the jury\u2019s conviction and imposition of the death sentence, and remanding the case for further consideration of whether the case should be reopened.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/583/17-6075/",
+    "facts_of_the_case": "<p>Keith Tharpe was convicted in Georgia state court of the September 25, 1990 murder of his sister-in-law, Jacqueline Freeman. A jury sentenced him to death, and the Georgia Supreme Court affirmed his conviction and sentence. Subsequently, an affidavit came to light in which a white juror from Tharpe\u2019s trial, Barney Gattie, made several highly discriminatory statements regarding African Americans. Tharpe, who is black, sought habeas relief from the Butts County Superior Court, claiming that improper racial animus had influenced the jury\u2019s deliberations. His petition was denied on the basis that he had procedurally defaulted by failing to raise the racial bias issue in earlier proceedings, and because he did not adequately support his claim that ineffective assistance of counsel was to blame for the omission. Juror testimony was also deemed inadmissible to prove Tharpe\u2019s racial animus claim. He then applied for a certificate of probable cause to appeal from the Georgia Supreme Court, and his application was denied.\u00a0</p>\n<p>Tharpe next petitioned the US District Court for the Middle District of Georgia for a writ of habeas corpus pursuant to 28 U.S.C. \u00a7 2254, alleging that racial bias among the jury had rendered his conviction and sentence unable to withstand constitutional scrutiny. The district court found this claim to be procedurally defaulted, but granted him a certificate of appeal (COA) on an ineffective assistance claim. The 11th Circuit then affirmed the district court\u2019s judgment.</p>\n<p>Following the US Supreme Court\u2019s 2017 decisions in <em>Pena-Rodriguez v. Colorado</em> and <em>Buck v. Davis</em>, Tharpe petitioned the district court under FRCP 60(b)(6) to reopen his \u00a7 2254 case. He argued that <em>Pena-Rodriguez</em> should apply retroactively, allowing him to present the juror testimony that had previously been deemed inadmissible, and ultimately overcome procedural default to prevail on his claim that improper racial animus had led to his conviction and sentence. The district court denied Tharpe\u2019s motion, concluding, <em>inter alia</em>, that his claim was procedurally defaulted, and that he had failed to produce any clear evidence that Gattie\u2019s statements had influenced the jury\u2019s conclusions. The 11th Circuit affirmed, declining to issue a COA and stating that Tharpe had failed to show that the district court\u2019s correctness was debatable with regard to its procedural ruling.</p>\n",
+    "conclusion": "<p>The Court issued a summary ruling granting the petition and remanding the case, explaining that while the state court\u2019s factual determinations were binding on federal courts in the absence of clear and convincing countervailing evidence, Gattie\u2019s affidavit provided compelling evidence that racial bias had influenced his vote to impose the death sentence. The Court concluded that the 11th Circuit had erred in ruling differently, and sent the case back to the lower courts to determine whether Tharpe was entitled to a COA. Justices Thomas, Alito, and Gorsuch dissented.</p>\n"
+}

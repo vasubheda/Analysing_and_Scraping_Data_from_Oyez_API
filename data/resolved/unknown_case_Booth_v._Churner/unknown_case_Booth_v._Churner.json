@@ -1,0 +1,35 @@
+{
+    "ID": 54878,
+    "name": "Booth v. Churner",
+    "href": "https://api.oyez.org/cases/2000/99-1964",
+    "view_count": 0,
+    "docket_number": "99-1964",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                985068000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38499"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                991112400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38500"
+        }
+    ],
+    "question": "<p>Must prisoners who seek only monetary damages in suits over prison conditions still exhaust all administrative remedies before going to court, even if monetary damages are not available under the particular administrative process?</p>\n",
+    "citation": {
+        "volume": "532",
+        "page": "731",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18807"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/532/731/",
+    "facts_of_the_case": "<p>The Prison Litigation Reform Act of 1995 requires a prisoner to exhaust \"such administrative remedies as are available\" before suing over prison conditions. Timothy Booth, an inmate at the State Correctional Institution at Smithfield, Pennsylvania, initiated a suit in District Court, claiming that corrections officers violated his Eighth Amendment right to be free from cruel and unusual punishment in various ways. Booth sought both injunctive relief and monetary damages. At the time of Booth's suit, Pennsylvania provided an administrative grievance and appeals system, which addressed Booth's complaints but had no provision for recovery of money damages. After the prison authority denied his administrative grievance, Booth did not seek administrative review. Subsequently, the District Court dismissed the complaint for failure to exhaust administrative remedies. In affirming, the Court of Appeals rejected Booth's argument that the exhaustion requirement was inapplicable because the administrative process could not award him the monetary relief he sought (At this point, Booth was only seeking money).</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion delivered by Justice David H. Souter, the Court held that even though the prison grievance procedure did not provide for requested monetary relief, Booth was nonetheless required to exhaust administrative remedies before filing suit with respect to prison conditions. Justice Souter wrote for the Court, \"we think that Congress has mandated exhaustion clearly enough, regardless of the relief offered through administrative procedures.\"</p>\n"
+}

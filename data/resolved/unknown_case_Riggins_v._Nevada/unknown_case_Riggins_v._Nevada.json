@@ -1,0 +1,42 @@
+{
+    "ID": 53979,
+    "name": "Riggins v. Nevada",
+    "href": "https://api.oyez.org/cases/1991/90-8466",
+    "view_count": 0,
+    "docket_number": "90-8466",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                695455200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36818"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                706165200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36819"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                686811600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53550"
+        }
+    ],
+    "question": "<p>Does the forced administration of antipsychotic drugs during trial violate the Sixth and Fourteenth Amendments?</p>\n",
+    "citation": {
+        "volume": "504",
+        "page": "127",
+        "year": "1992",
+        "href": "https://api.oyez.org/case_citation/case_citation/17908"
+    },
+    "term": "1991",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/504/127/",
+    "facts_of_the_case": "<p>On November 20, 1987, Paul Wade was found dead in his apartment with multiple stab wounds to his chest, head, and back. Forty-five hours later, David Riggins was arrested and charged with the murder. A few days after being taken into custody, Riggins complained to Dr. R. Edward Quass, the psychiatrist who treated patients in jail, that he was hearing voices. Dr. Quass prescribed the antipsychotic drug Mellaril and, when the voices did not stop, gradually increased the dosage. In January of 1988, Riggins successfully moved for determination of his competence to stand trial, and he was found to be competent. As the trial moved forward, Riggins moved to suspend his treatment with Mellaril because he planned to offer an insanity defense at trial and asserted that he had the right to show the jury his true mental state. The district court denied Riggins motion. Riggins was found guilty and sentenced to death. The Nevada Supreme Court affirmed.</p>\n",
+    "conclusion": "<p>Yes. Justice Sandra Day O\u2019Connor delivered the opinion of the 7-2 majority. The Supreme Court held that an individual has the right to freedom from an unwanted antipsychotic drug. In order for the state to administer an antipsychotic drug against the patient\u2019s wishes, the state must establish the pressing need for the administration of the drug. Because the district court did not reach a finding on the necessity of the Mellaril, the Court held that its administration was an error that infringed on Riggins\u2019 constitutional rights.</p>\n<p>In Justice Anthony M. Kennedy\u2019s concurring opinion, he wrote that the Due Process Clause prohibits the state from administering unwanted psychotic drugs to a defendant in order to make the defendant competent to stand trial. He argued that, since the administration of the antipsychotic drug can significantly alter the demeanor of the defendant during the trial and on the stand, it can amount to a manipulation of evidence by the state. </p>\n<p>Justice Clarence Thomas wrote a dissent where he argued that the issue of whether or not the state should have issued the antipsychotic medication without Riggins\u2019 consent is a separate legal issue from his trial. He argued that there was no evidence that the Mellaril rendered Riggins\u2019 trial anything less than \u201cfull and fair,\u201d and therefore Riggins was not entitled to have his conviction reversed. Because he was found to be competent to stand trial under the influence of Mellaril, the Mellaril could not have significantly interfered with his ability to take part in his own defense. Justice Thomas also argued that, since Riggins approached the jail psychiatrist for medication because he was hearing voices, the district court did not order Riggins to take the Mellaril. Justice Antonin Scalia joined in the dissent.</p>\n"
+}

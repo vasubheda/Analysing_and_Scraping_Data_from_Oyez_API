@@ -1,0 +1,42 @@
+{
+    "ID": 55400,
+    "name": "Rita v. United States",
+    "href": "https://api.oyez.org/cases/2006/06-5754",
+    "view_count": 0,
+    "docket_number": "06-5754",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1162533600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39714"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1171951200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39715"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1182402000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39716"
+        }
+    ],
+    "question": "<p>1) Does the Supreme Court's decision in <em>U.S. v. Booker</em> allow courts to accord a presumption of reasonableness to sentences that fall within the Federal Sentencing Guidelines? 2) If so, may a court presume a within- Guidelines sentence reasonable without an explicit analysis of the 18 U.S.C. 3553(a) factors that might justify a lesser sentence?</p>\n",
+    "citation": {
+        "volume": "551",
+        "page": "338",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20709"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/551/338/",
+    "facts_of_the_case": "<p>Victor Rita received a thirty-three month sentence from a trial judge after a jury convicted him of perjury, obstruction of justice, and making false statements. Though the sentence fell within the range prescribed by the Federal Sentencing Guidelines and under the statutory maximum, Rita appealed to the U.S. Court of Appeals for the Fourth Circuit. He argued that the judge should not have sentenced him without explicitly considering factors enumerated in 18 U.S.C. 3553(a) that might justify imposing a lesser sentence. The government argued that the judge could presume the sentence reasonable if it fell within the guidelines, even without an explicit analysis of 18 U.S.C. 3553(a) factors. The Supreme Court had previously ruled in <em>U.S. v. Booker</em> that sentencing judges could only treat the guidelines as advisory, not as mandatory. The Fourth Circuit accepted the government's arguments and ruled that a presumption of reasonableness for within-Guidelines sentences did not violate <em>Booker</em>.</p>\n",
+    "conclusion": "<p>Yes and yes. The Court ruled that courts of appeals may apply a nonbinding presumption of reasonableness to within-Guidelines sentences. Justice Stephen Breyer wrote the opinion for the 8-1 majority. The Court held that when the sentencing judge and the guidelines established by the Sentencing Commission agree on the proper sentence in a case, the \"double determination significantly increases the likelihood that the sentence is a reasonable one.\" The Court reasoned that since the presumption of reasonableness for within- Guidelines sentences does not forbid any judge from imposing a sentence outside the Guidelines, the presumption is consistent with <em>Booker</em>. This presumption of reasonableness does not imply that courts can apply a presumption of unreasonableness to sentences outside the Guidelines ranges. The Court also found that the District judge had acted reasonably in imposing Rita's within-Guidelines sentence. Though the judge had not undertaken an explicit extended analysis of the sentencing factors in 18 U.S.C. 3553(a), the Court found his analysis \"brief but legally sufficient.\" It was clear from the context that the judge had considered and rejected each factor that might have justified a lesser sentence, and the Court said, \"we cannot read the statute (or our precedent) as insisting upon a full opinion in every case.\"</p>\n"
+}

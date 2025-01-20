@@ -1,0 +1,35 @@
+{
+    "ID": 54519,
+    "name": "Klehr v. A. O. Smith Corporation",
+    "href": "https://api.oyez.org/cases/1996/96-663",
+    "view_count": 0,
+    "docket_number": "96-663",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                861598800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37832"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                866696400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37833"
+        }
+    ],
+    "question": "<p>1)Does the time limit for filing a civil claim under the Racketeer Influenced and Corrupt Organizations Act of 1970 (RICO) begin after the plaintiff discovers the last illegal act (\"last predicate act\") at the end of a pattern of racketeering activity?</p>\n<p>2)If the plaintiff demonstrates \"fraudulent concealment\" of the injury inflicted, can RICO's civil-claim limitations period be extended?</p>\n",
+    "citation": {
+        "volume": "521",
+        "page": "179",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18448"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/521/179/",
+    "facts_of_the_case": "<p>Marvin Klehr purchased inadequate cattle feed containers from A. O. Smith Harvestore Products, Inc. (Harvestore) in 1974. Over a long period of time, the containers damaged Klehr's cattle feed. In 1993, Klehr filed a civil claim against Harvestore under the Racketeer Influenced and Corrupt Organizations Act of 1970 (RICO). The District Court dismissed Klehr's suit, ruling that the four-year time limit for bringing a civil RICO suit had expired. Klehr claimed that he was not at fault for failing to discover the injury within four years, because Harvestore purposely designed the containers to conceal their inadequacy.</p>\n<p>The U.S. Court of Appeals for the Eighth Circuit upheld the lower court. The Eighth Circuit held that Klehr should have discovered the pattern of racketeering activity much earlier. Since the statute of limitations began from the time Klehr could reasonably be expected to have discovered the pattern, Klehr was out of time. The Eighth Circuit's \"pattern of activity\" rule contradicted the Third Circuit's \"last predicate act\" rule, which allows a plaintiff to recover damages accumulated since the first injury as long as the last RICO violation (\"last predicate act\") happened within four years of the lawsuit.</p>\n",
+    "conclusion": "<p>No and No. Justice Stephen Breyer wrote the opinion for a unanimous Court. The \"last predicate rule...lengthens the limitations period dramatically\" and thereby contradicts Congress's intention of ensuring a time limit for civil RICO claims. Also, \"the plaintiff cannot use an independent, new act as a bootstrap to recover for injuries caused by other predicate acts that took place outside the limitations period.\"</p>\n<p>RICO intends \"not only to compensate victims but also to encourage those victims diligently to investigate and thereby to uncover unlawful activity.\" To demonstrate \"fraudulent concealment\", a plaintiff must have failed to discover injuries inflicted upon him after acting with \"reasonable diligence\" to discover the source and pattern of the injuries.</p>\n"
+}

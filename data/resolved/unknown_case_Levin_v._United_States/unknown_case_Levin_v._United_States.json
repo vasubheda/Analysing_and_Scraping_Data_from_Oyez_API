@@ -1,0 +1,42 @@
+{
+    "ID": 55929,
+    "name": "Levin v. United States",
+    "href": "https://api.oyez.org/cases/2012/11-1351",
+    "view_count": 0,
+    "docket_number": "11-1351",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1348549200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41149"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1358229600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41150"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1362376800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41151"
+        }
+    ],
+    "question": "<p>Does the Federal Tort Claims Act prevent the United States from being prosecuted for battery caused by military medical personnel acting within the scope of employment?</p>\n",
+    "citation": {
+        "volume": "568",
+        "page": "503",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19851"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that the Gonzalez Act made an exception to the Federal Tort Claims Act by saying that a claim of the intentional tort of battery may be brought against an armed forces physician.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/568/503/",
+    "facts_of_the_case": "<p>On March 12, 2003, Steven Levin was scheduled to undergo cataract surgery performed by Lieutenant Commander Frank Bishop, M.D., a United States Navy surgeon in Guam. Levin previously gave his written consent to the procedure but claims that he attempted to orally withdraw it prior to the surgery. He suffered complications from the surgery and faces continuing treatment with unclear likelihood of success. Levin sued Dr. Bishop for battery and negligent medical malpractice. The United States substituted itself for Dr. Bishop and filed a motion for summary judgment. The district court granted summary judgment for the negligent medical malpractice claim, not the battery claim. The United States then filed for dismissal of the battery claim and alleged that the Federal Tort Claims Act preserved sovereign immunity against battery claims. The district court dismissed the claim. The United States Court of Appeals for the Ninth Circuit affirmed.</p>\n",
+    "conclusion": "<p>No. Justice Ruth Bader Ginsburg delivered a unanimous opinion reversing the Ninth Circuit's judgment and remanding for further proceedings. In general, the Federal Tort Claims Act (\"FTCA\") allows a plaintiff to bring a tort claim against the United States, unless that claim alleges an intentional tort, such as battery. However, the Medical Malpractice Immunity Act, also known as the Gonzalez Act, carved out a specific exception to this rule. The Gonzalez Act states that the intentional tort exception to the FTCA \"shall not apply\" to certain tort claims alleging wrongful or negligent medical care. The Court applied the plain meaning of the statute and held that the Gonzalez Act nullifies the FTCA's intentional tort exception when a plaintiff alleges medical battery by an armed forces physician. Since the intentional tort exception does not apply, Levin should be allowed to proceed with his suit against the United States.</p>\n"
+}

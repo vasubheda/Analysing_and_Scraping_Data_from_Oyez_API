@@ -1,0 +1,42 @@
+{
+    "ID": 55318,
+    "name": "Sereboff v. Mid Atlantic Medical Services, Inc.",
+    "href": "https://api.oyez.org/cases/2005/05-260",
+    "view_count": 0,
+    "docket_number": "05-260",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1133157600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39502"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1143525600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39503"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1147669200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39504"
+        }
+    ],
+    "question": "<p>Is a health insurance plan that requires the beneficiary to reimburse the insurer for its expenses when the beneficiary recovers damages from a third party that is responsible for the injury \"equitable\" under section 502(a)(3) of ERISA?</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "356",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20632"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>Mr. and Mrs. Sereboff held a health insurance policy with Mid Atlantic Medical Services that was governed by the Employee Retirement Income Security Act of 1974 (ERISA). If a beneficiary is injured, Mid Atlantic pays for all covered medical expenses. However, the plan also has a provision that requires the beneficiaries to reimburse Mid Atlantic when an injury has been caused by a third party and the beneficiary receives compensation from that third party. In this case, the Sereboffs were injured in an automobile accident caused by a third party. After they settled their suit against that third party, Mid Atlantic filed suit in federal district court under section 502(a)(3) of ERISA to recover the money it had spent on medical expenses. 502(a)(3) provides that a health insurer may bring suit \"to obtain ... appropriate equitable relief ... to enforce ... the terms of the plan.\" The Sereboff's objected, arguing that the sort of reimbursement provision at issue in this case was not \"equitable\" because the Sereboffs had not had the funds in their possession when they agreed to the plan. Both the district court and the Fourth Circuit Court of Appeals disagreed, siding with Mid Atlantic.</p>\n",
+    "conclusion": "<p>Yes. Chief Justice John Roberts, for a unanimous Supreme Court, pointed to <em>Barnes v. Alexander</em>, 232 U.S. 117 (1914), in deciding this case. In Barnes, an attorney's promise to pay two other attorneys a portion of the money he collected from a case that had yet to be decided was held legally binding. Roberts wrote that equity had once required a contract to specify an existing fund from which money would be paid (which could not have happened in this case), but that after Barnes this was no longer the case. Roberts wrote that \"the most (the Sereboffs) can muster ... are several state cases predating Barnes and a single decision that rests .. on the simple conclusion that a contractual provision purporting to secure an equitable lien did not properly do so..\"</p>\n"
+}

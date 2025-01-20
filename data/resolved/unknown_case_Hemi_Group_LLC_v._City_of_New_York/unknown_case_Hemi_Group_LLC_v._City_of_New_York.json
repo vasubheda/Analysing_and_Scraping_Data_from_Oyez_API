@@ -1,0 +1,42 @@
+{
+    "ID": 55681,
+    "name": "Hemi Group LLC v. City of New York",
+    "href": "https://api.oyez.org/cases/2009/08-969",
+    "view_count": 0,
+    "docket_number": "08-969",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1241413200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40484"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1257228000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40485"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1264399200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40486"
+        }
+    ],
+    "question": "<p>Does the City of New York meet the RICO \"causation\" requirements in its suit against out-of-state cigarette vendors that the plaintiff be directly injured in its \"business or property\" when the City merely alleges an injury from the nonpayment of taxes by non-litigant third-parties?</p>\n",
+    "citation": {
+        "volume": "558",
+        "page": "1",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19603"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that the city of New York had standing to sue out-of-state cigarette vendors under the Racketeer Influenced and Corrupt Organizations Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/559/1/",
+    "facts_of_the_case": "<p>The City of New York sued several out-of-state cigarette vendors under the Racketeer Influenced and Corrupt Organizations Act (RICO) for failing to report sales made to individuals over the Internet as required by the federal Jenkins Act. The State of New York and City of New York rely on this information to collect taxes imposed on cigarettes sold in the state and city. The U.S. District Court for the Southern District of New York dismissed the City of New York's suit, holding that its claim did not meet the \"causation\" requirements set forth under RICO. On appeal, the U.S. Court of Appeals for the Second Circuit reversed, holding that the City of New York met the RICO \"causation\" requirements and thus maintained a cause of action. The court reasoned that the defendants' conduct prevented the City from collecting taxes and thus directly injured it. Moreover, the court reasoned that the loss of taxes injured the City's \"business or property.\"</p>\n",
+    "conclusion": "<p>No. The Supreme Court reversed the Second Circuit holding that because the City of New York cannot show that it lost revenue \"by reason of\" the alleged RICO violation, it cannot state a RICO claim. With Chief Justice John G. Roberts writing for the majority and joined by Justices Antonin G. Scalia, Clarence Thomas, and Samuel A. Alito, and Justice Ruth Bader Ginsburg in part, the Court reasoned that to establish that an injury came about \"by reason of\" a RICO violation, a plaintiff must show both, \"but for\" and \"proximate\" causation. Here, the Court concluded that the City's causal theory was even more remote than in cases where the Court had failed to find proximate cause.</p>\n<p>Justice Ruth Bader Ginsburg wrote a separate opinion, concurring in part and concurring in the judgment. She criticized the City for attempting to bring a claim for fraud that arose under violations of the Jenkins Act, but failed to actually bring a claim for violations under the Jenkins Act. Justice Stephen G. Breyer, joined by Justices John Paul Stevens and Anthony M. Kennedy, wrote a separate dissenting opinion. In contrast to the majority, he argued that Hemi Group's failure to provide New York State with the names and addresses of its New York City cigarette customers proximately caused New York City to lose tobacco tax revenue.</p>\n"
+}

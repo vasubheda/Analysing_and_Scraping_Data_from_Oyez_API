@@ -1,0 +1,42 @@
+{
+    "ID": 56116,
+    "name": "Yates v. United States",
+    "href": "https://api.oyez.org/cases/2014/13-7451",
+    "view_count": 0,
+    "docket_number": "13-7451",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1398661200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41706"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1415167200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41707"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1424844000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41708"
+        }
+    ],
+    "question": "<p>Are fish considered \"tangible objects\" for the purpose of the statute that makes it a crime to destroy or conceal tangible objects to impede a governmental investigation, even though the term is undefined and exists in a statute that largely refers to record-keeping documents?</p>\n",
+    "citation": {
+        "volume": "574",
+        "page": "528",
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20924"
+    },
+    "term": "2014",
+    "description": "A case in which the Court ruled that a \u201ctangible item\u201d as defined by Section 1519 of the Sarbanes-Oxley Act is one used to record or preserve information.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/574/528/",
+    "facts_of_the_case": "<p>On August 17, 2007, John L. Yates and his crew prepared his fishing vessel for a commercial fishing trip into federal waters in the Gulf of Mexico. On August 23, 2007, Officer John Jones, a field officer with the Florida Fish and Wildlife Conservation Commission who was empowered to enforce federal fisheries laws, boarded the vessel and noticed red grouper fish that appeared to be smaller than the requisite 20 inches. Officer Jones measured the grouper that appeared smaller and found a total of 72 fish that measured under 20 inches. Officer Jones placed these fish in wooden crates, issued Yates a citation, and informed Yates that the National Marine Fisheries Service would seize these fish upon the vessel's return to port. Contrary to Officer Jones' directions, Yates instructed his crew to throw the fish in question overboard and replace them with larger fish. When the vessel returned to port and the fish were measured on August 27, Officer Jones suspected that Yates had disposed of the fish he had measured.</p>\n<p>Yates was charged with destruction and falsification of evidence. At trial he argued that the fish thrown overboard were not actually undersized because Officer Jones had measured the fish with their mouths closed, which shortens the length of fish. The district court found Yates guilty of disposing of undersized fish and therefore in violation of a statute that makes it a crime to destroy or conceal \"a tangible object with the intent to impede, obstruct, or influence\" a governmental investigation. The U.S. Court of Appeals for the Eleventh Circuit affirmed.</p>\n",
+    "conclusion": "<p>No. Justice Ruth Bader Ginsburg wrote the opinion for the four-justice plurality. The Court noted that the broad dictionary definition of \"tangible objects\" would cover fish, but held that the term must be read in the financial context of the Sarbanes-Oxley Act of 2002 (SOX), which was enacted as a reaction to the Enron scandal and contained the specific provision Yates was charged with violating. In this context, the Court held that the term was ambiguous because the caption of the section in question, \"Destruction, alteration, or falsification of records in Federal investigations and bankruptcy,\" and the title of the section in which it was originally placed, \"Criminal penalties for altering documents,\" indicated that Congress was referring only to financial records. Additionally, the section's placement amongst other sections that prohibited specific actions cuts in favor of narrow construction. The Court argued that reading the section to apply to all physical objects would create significant overlap with another section. The words immediately surrounding \"tangible object\" \u2014 \"falsifies, or makes a false entry in any record [or] document\" \u2014indicated that Congress intended to restrict the term to related objects. Finally, the Court held that any statutory ambiguity in criminal proceedings should be resolved in favor of the defendant.</p>\n<p>Justice Samuel A. Alito, Jr. wrote an opinion concurring in the judgment in which he argued that the plurality's holding should be narrowly construed. He contended that the statute's list of nouns, its list of verbs, and its title, all working in conjunction, indicated that \"tangible object\" should be limited to something similar to records or documents.</p>\n<p>Justice Elena Kagan wrote a dissenting opinion in which she argued that the term \"tangible object\" should be given its ordinary meaning and therefore subsumes all things that possess physical form, including fish. She noted that the use of the word \"any\" before \"tangible object\" demonstrated a congressional intent for broad application. Justice Kagan also pointed out that the section's language tracked the language in other statutes that had been interpreted to include all physical objects. This section's legislative history showed that it was enacted to close a loophole created by another section and therefore did not create any unnecessary overlap. Justice Antonin Scalia, Justice Anthony M. Kennedy, and Justice Clarence Thomas joined the dissent.</p>\n"
+}

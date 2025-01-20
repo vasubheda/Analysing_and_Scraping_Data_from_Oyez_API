@@ -1,0 +1,42 @@
+{
+    "ID": 55528,
+    "name": "Indiana v. Edwards",
+    "href": "https://api.oyez.org/cases/2007/07-208",
+    "view_count": 0,
+    "docket_number": "07-208",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1197007200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40071"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1206507600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40072"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1213851600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40073"
+        }
+    ],
+    "question": "<p>Does the Court's prior ruling that a criminal defendant need only be \"literate, competent, and understanding\" to represent himself at trial set an appropriate standard for defining that defendant's mental competence to invoke his Sixth Amendment right to self-representation when he is otherwise unable to conduct a coherent defense?</p>\n",
+    "citation": {
+        "volume": "554",
+        "page": "164",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20755"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/554/164/",
+    "facts_of_the_case": "<p>Ahmad Edwards was arrested in Indiana after stealing a pair of shoes and shooting an FBI agent, a store security guard, and a bystander. Edwards was initially found mentally incompetent but, after five years of psychiatric evaluation, was put on trial for attempted murder. After his first trial resulted in a hung jury, Edwards asked to represent himself at his retrial. This request was initially granted by the trial court but was overturned when the court found that, although Edwards was competent to stand trial, he was unable to conduct a coherent defense. This ruling was supported by Edwards' filing of rambling and irrelevant documents during the proceedings.</p>\n<p>After his conviction on all counts, Edwards appealed to the Supreme Court of Indiana claiming that his Sixth Amendment right to self-representation had been abrogated by the trial court. The Indiana high court noted that two Supreme Court decisions, <em>Godinez v. Moran</em> 509 U.S. 389 (1993), which held that a defendant is competent to defend himself if he is competent to stand trial, and <em>Faretta v. California</em> 422 U.S. 806 (1975), which held that a defendant need only be \"literate, competent, and understanding\" to represent himself, argued in favor of Edwards' right to self-representation while another, <em>Martinez v. Court of Appeal of California</em> 528 U.S. 152 (2000), holding that the modern availability of lawyers undercuts the need for self-representation, argued against it. The Indiana Supreme Court eventually held that <em>Godinez</em> and <em>Faretta</em> required it to overturn the trial court's decision.</p>\n",
+    "conclusion": "<p>No. In a 7-2 opinion, the Court held that the Constitution does not forbid states from insisting upon representation for those competent to stand trial but who suffer from severe mental illness to the point where they are not competent to conduct trial proceedings by themselves. The Court noted that <em>Faretta</em> only affirmed the right to self representation when the individual \"voluntarily and intelligently elects to do so,\" and therefore does not apply when that individual's mental competency is called into question. Justice Antonin Scalia, joined by Justice Clarence Thomas, dissented, stating that in his view the Constitution does not permit a state to substitute its own perception of fairness for the defendant's right to make his own case before the jury, even if the defendant does have questionable mental competence.</p>\n"
+}

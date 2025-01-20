@@ -1,0 +1,42 @@
+{
+    "ID": 62933,
+    "name": "Upper Skagit Indian Tribe v. Lundgren",
+    "href": "https://api.oyez.org/cases/2017/17-387",
+    "view_count": 0,
+    "docket_number": "17-387",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1512712800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54165"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1521608400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54221"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1526878800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54273"
+        }
+    ],
+    "question": "<p>Can a court\u2019s exercise of <em>in rem</em> jurisdiction overcome an assertion of tribal sovereign immunity when the tribe has not waived immunity and Congress has not unequivocally abrogated it?</p>\n",
+    "citation": {
+        "volume": "584",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27561"
+    },
+    "term": "2017",
+    "description": "A case in which the Court held that its prior decision in County of Yakima v. Confederated Tribes and Bands of Yakima Nation addressed only a question of statutory interpretation, not the question whether Indian tribes have sovereign immunity in in rem lawsuits.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/584/17-387/",
+    "facts_of_the_case": "<p>Sharline and Ray Lundgren and the Upper Skagit Indian Tribe (the \u201cTribe\u201d) own adjacent pieces of property in Skagit County, Washington. The space between a fence running across the width of the Tribe\u2019s property and its southern border became a subject of dispute between the parties after the Tribe attempted to assert ownership of it in 2013.</p>\n<p>The Lundgrens\u2019 property had been in their extended family since approximately 1947, during which time they had always treated the fence as the property line. In 2013 the Tribe purchased land to the north of the Lundgrens\u2019 property, and were apparently not aware of the fence at that time. When they discovered it, they informed the Lundgrens of their intention to assert ownership rights over the disputed portion of land.\u00a0</p>\n<p>In 2015, the Lundgrens filed suit to quiet title to the property, seeking summary judgment on the basis that they had acquired the disputed property by adverse possession or mutual acquiescence and recognition long before the Tribe bought its parcel. The Tribe moved to dismiss the case for lack of subject matter jurisdiction based on sovereign immunity, and because the Lundgrens could not join them as a necessary and indispensable party. The trial court denied the Tribe\u2019s motion, and the Tribe sought direct discretionary review. In the resulting ruling, the court granted the Lundgrens\u2019 motion for summary judgment, finding that they had established legal ownership of the disputed property through adverse possession and mutual recognition and acquiescence.</p>\n<p>The Washington Supreme Court accepted the Tribe\u2019s amended motion for discretionary review of both prior orders, and affirmed. The court rejected the argument that the case should be dismissed for lack of jurisdiction due to the Tribe\u2019s sovereign immunity, which neither the Tribe nor Congress had waived with regard to quiet title actions. The court found that because it had in rem jurisdiction, the Tribe\u2019s sovereign immunity did not create a barrier to jurisdiction.</p>\n",
+    "conclusion": "<p>In a 7-2 opinion by Justice Neil Gorsuch, the Court vacated the judgment below and remanded the case to the Washington Supreme Court to address the common-law question of sovereign immunity. The majority clarified that its decision in County of Yakima v. Confederated Tribes and Bands of Yakima Nation addressed only a question of statutory interpretation, not the question presented here of whether Indian tribes have sovereign immunity in\u00a0<em>in rem</em> lawsuits. The respondents ask the Court to affirm on an alternative, common-law ground\u2014that the tribe cannot assert sovereign immunity because the suit relates to immovable property located in Washington state and purchased by the tribe.</p>\n<p>Chief Justice John Roberts filed a concurring opinion in which Justice Anthony Kennedy joined. Justice Clarence Thomas filed a dissenting opinion in which Justice Samuel Alito joined.</p>\n"
+}

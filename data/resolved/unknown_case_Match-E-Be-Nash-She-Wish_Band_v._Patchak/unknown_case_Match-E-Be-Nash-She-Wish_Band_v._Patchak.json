@@ -1,0 +1,42 @@
+{
+    "ID": 55843,
+    "name": "Match-E-Be-Nash-She-Wish Band v. Patchak",
+    "href": "https://api.oyez.org/cases/2011/11-246",
+    "view_count": 0,
+    "docket_number": "11-246",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1323669600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40904"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1335243600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40905"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1339995600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40906"
+        }
+    ],
+    "question": "<p>1. Does Patchak lack standing because he does not fall within the zone-of-interests protected by the Indian Reorganization Act?</p>\n<p>2. Is Patchak's suit precluded by sovereign immunity to quiet title claims drawn from the Quiet Title Act?</p>\n",
+    "citation": {
+        "volume": "567",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19765"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that a neighbor of a proposed Indian casino had standing to sue the government for taking 147 acres of a town's land under Section 465 of the Indian Reorganization Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/567/209/",
+    "facts_of_the_case": "<p>The Match-E-Be-Nash-She-Wish Band (\"the Band\") is a Potawatomi Indian tribe in Michigan. In 2001, the Band petitioned the Department of Interior to construct and operate a casino in Wayland Township, Michigan, a small farming community with about 3,000 residents. In May 2005, the Bureau of Indian Affairs of the Department of Interior announced its plan to take 147 acres of land in Wayland Township \u2013known as the \"Bradley Tract\"-- into trust for the Band under the Indian Reorganization Act (\"IRA\").</p>\n<p>David Patchak, a resident of Wayland Township, filed suit against Ken Salazar, the Secretary of the Department of the Interior on August 1, 2008, taking advantage of a stay of the Secretary's action granted due to a separate suit against the Secretary by a Michigan anti-gambling organization. Patchak alleged that the Band's gaming facility would destroy the peace and quiet of his community, create pollution, and increase crime. The Band intervened as a defendant. At trial, the Secretary argued that the Quiet Title Act (\"QTA\") precluded any person from seeking to divest the United States of title to Indian land trusts; hence, because the Bradley Tract was in trust while Patchak's suit was pending, the district court did not have jurisdiction. The court, however, dismissed Patchak's suit on the ground that he lacked standing to challenge Palazar's authority under the IRA, holding that Patchak's interests do not fall within the IRA's zone-of-interests.</p>\n<p>On appeal, the United States Court of Appeals for the District of Columbia Circuit reversed, holding that Patchak fulfilled the zone-of-interests test for standing. The court held that Patchak did not have to demonstrate that the statute was meant to benefit individuals in his situation, pointing to portions of the IRA tasking the Secretary with considering \"affected members of the public\" before using his trust authority. The court also rejected the Secretary's argument that the QTA barred Patchak's suit, reasoning that Congress intended the QTA to limit actions in which the plaintiff claims an interest in property contrary to the government's interest. In contrast, Patchak did not seek sole possession of title to the Bradley Track. Therefore, the court held that his suit fell within the general waiver of sovereign immunity set forth in the Administrative Procedure Act.</p>\n",
+    "conclusion": "<p>No, No. Justice Elena Kagan, writing for an 8-1 majority, affirmed the lower court. The Court held that the US had waived its sovereign immunity and Patchak had proper standing to bring suit. While the government claimed that the QTA barred Patchak's relief under the Administrative Procedure Act (\"APA\"), the Court held that the QTA only concerns individuals claiming a personal interest contrary to the government's interest in a property. Since Patchak's suit did not resemble a typical quiet title suit, the sovereign immunity waiver under the APA still applies. The Court further concluded that Patchak had standing to bring the suit because his claim falls within the zone-of-interests that the IRA regulates. The zone-of-interests standard is not intended to be particularly demanding, and merely requires a recognizable relation to the acquisition or use of territory for Indian tribes. Since Patchak's suit arguably concerns the acquisition and use of such territory, he has sufficient standing to proceed.</p>\n<p>Justice Sonia Sotomayor was the sole dissenter. She expressed dissatisfaction with the majority's broad stroke limitation on sovereign immunity under the QTA. Under the majority's formulation, those with no personal interest in government owned property could bypass sovereign immunity to challenge the government's interest.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 54320,
+    "name": "Rosenberger v. Rector and Visitors of the University of Virginia",
+    "href": "https://api.oyez.org/cases/1994/94-329",
+    "view_count": 0,
+    "docket_number": "94-329",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                794037600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37462"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                804402000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37463"
+        }
+    ],
+    "question": "<p>Did the University of Virginia violate the First Amendment rights of its Christian magazine staff by denying them the same funding resources that it made available to secular student-run magazines?</p>\n",
+    "citation": {
+        "volume": "515",
+        "page": "819",
+        "year": "1995",
+        "href": "https://api.oyez.org/case_citation/case_citation/18249"
+    },
+    "term": "1994",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/515/819/",
+    "facts_of_the_case": "<p>Ronald W. Rosenberger, a University of Virginia student, asked the University for $5,800 from a student activities fund to subsidize the publishing costs of Wide Awake: A Christian Perspective at the University of Virginia. The University refused to provide funding for the publication solely because it \"primarily promotes or manifests a particular belief in or about a deity or an ultimate reality,\" as prohibited by University guidelines.</p>\n",
+    "conclusion": "<p>Yes. The Court, in a 5-to-4 opinion, held that the University's denial of funding to Rosenberger, due to the content of his message, imposed a financial burden on his speech and amounted to viewpoint discrimination. The Court noted that no matter how scarce University publication funding may be, if it chooses to promote speech at all, it must promote all forms of it equally. Furthermore, because it promoted past publications regardless of their religious content, the Court found the University's publication policy to be neutral toward religion and, therefore, not in violation of the establishment clause. The Court concluded by stating that the University could not stop all funding of religious speech while continuing to fund an atheistic perspective. The exclusion of several views is as offensive to free speech as the exclusion of only one. The University must provide a financial subsidy to a student religious publication on the same basis as other student publications.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 54505,
+    "name": "Board of Comm'rs of Bryan Cty. v. Brown",
+    "href": "https://api.oyez.org/cases/1996/95-1100",
+    "view_count": 0,
+    "docket_number": "95-1100",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                847173600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37808"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                862203600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37809"
+        }
+    ],
+    "question": "<p>May municipalities be held liable for hiring employees who injure someone?</p>\n",
+    "citation": {
+        "volume": "520",
+        "page": "397",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18434"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/520/397/",
+    "facts_of_the_case": "<p>Jill Brown brought a damages action against Bryan County alleging that that its Deputy Stacy Burns had arrested her with excessive force, and that it was liable for her injuries because its Sheriff B. J. Moore had hired Burns without adequately reviewing his background. Burns had pleaded guilty to various driving infractions and other misdemeanors, including assault and battery. Moore, whom the county stipulated was its Sheriff's Department policymaker, testified that he had obtained Burns' driving and criminal records, but had not closely reviewed either before hiring Burns. The District Court denied the county's motions for judgment as a matter of law, which asserted that a policymaker's single hiring decision could not give rise to municipal liability. Brown prevailed following a jury trial, and the Court of Appeals affirmed, holding that the county was properly found liable based on Moore's decision to hire Burns.</p>\n",
+    "conclusion": "<p>No. In a 5-4 decision, authored by Justice Sandra Day O'Connor, the Court ruled that municipalities are not liable for hiring employees who violate someone's rights unless a reasonable policymaker would conclude that the \"plainly obvious consequence . . . would be the deprivation of a third party's federally protected rights. Thus, the county was not financially liable for Sheriff Moore's isolated decision to hire Burns without adequate screening because Brown had not proved that the decision reflected a conscious disregard for a risk that Burns would use excessive force in violation of her federally protected rights.</p>\n"
+}

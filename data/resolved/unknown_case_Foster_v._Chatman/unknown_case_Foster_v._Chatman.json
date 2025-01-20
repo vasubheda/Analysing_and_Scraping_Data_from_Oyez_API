@@ -1,0 +1,42 @@
+{
+    "ID": 62310,
+    "name": "Foster v. Chatman",
+    "href": "https://api.oyez.org/cases/2015/14-8349",
+    "view_count": 0,
+    "docket_number": "14-8349",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1432616400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52780"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1446444000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52805"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1463979600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53633"
+        }
+    ],
+    "question": "<p>Was there race-based discrimination of the type <em>Batson v. Kentucky</em> prohibits in the jury selection process of Foster\u2019s trial?</p>\n",
+    "citation": {
+        "volume": "578",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27112"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that the new evidence in this case was sufficient to establish that there was purposeful discrimination of the type that Batson v. Kentucky prohibits in the jury selection process of Foster\u2019s trial.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/578/14-8349/",
+    "facts_of_the_case": "<p>In 1986, Timothy Tyrone Foster, an 18-year-old black man, was charged with murdering Queen White, an elderly white woman. At the trial, the prosecution used peremptory strikes against all four of the qualified black jurors. Pursuant to the Supreme Court\u2019s decision in <em>Batson v. Kentucky</em>, which prohibits the use of peremptory strikes on the basis of race, the defense objected to those strikes, and the burden shifted to the prosecution to prove that there were race-neutral explanation for the strikes. The prosecution provided reasons, and the trial court held that the reasons were sufficient. An all-white jury convicted Foster of murder and imposed the death penalty.</p>\n<p>Foster filed a motion for post-judgment discovery regarding the prosecution\u2019s notes during jury selection and a motion for a new trial, both of which the trial court denied. The Georgia Supreme Court affirmed the trial court\u2019s decisions, and the U.S. Supreme Court denied certiorari. Foster \u00a0petitioned for a writ of habeas corpus in Butts County Superior Court and submitted a new <em>Batson</em> challenge based on the prosecutor's notes obtained through the Georgia Open Records Act. The court denied Foster's petition. The Georgia Supreme Court affirmed the denial of the writ. The U.S. Supreme Court granted certiorari.\u00a0</p>\n",
+    "conclusion": "<p>The evidence was sufficient to establish that there was purposeful discrimination of the type that <em>Batson v. Kentucky</em> prohibits in the jury selection process of Foster\u2019s trial. Chief Justice Roberts delivered the opinion of the 7-1 majority. The Court held that the third step of a Batson challenge, which requires the defendant to show that the strikes of prospective jurors based on race was purposeful discrimination, was clearly met in this case, and the state court erred in finding otherwise. Although the prosecutor offered a long list of reasons those jurors were struck, the evidence from the prosecution\u2019s notes that Foster obtained through the Georgia Open Records Act shows that the first five names on the prosecution\u2019s \u201cdefinite NOs\u201d list were of five black jurors, all of whom were eventually struck. Therefore, the evidence shows that the prosecution was never seriously considering allowing the prospective jurors in question to serve, and the reasons for striking them were likely pretextual. Further, the fact that several white jurors with the same traits as the black jurors in question were allowed to serve on the jury, the prosecution\u2019s explanations for striking the jurors in question shifted over time, there were misrepresentations of the record to support the strikes, and the prosecution notes continually highlighted race lend credible support to Foster\u2019s argument that he suffered purposeful discrimination.</p>\n<p>In his opinion concurring in the judgment, Justice Samuel A. Alito, Jr. wrote that the Georgia courts\u2019 decisions to deny Foster\u2019s <em>Batson</em> challenge was likely based on state law restricting the opportunity to relitigate previously rejected claims. Because the U.S. Supreme Court does not have jurisdiction to review state court decisions on state law claims, the proper course of action in a case like this one would be for the Court to decide the relevant question of federal law that influenced the state court\u2019s decision and remand the case to allow the state court to decide the issue in light of the Supreme Court\u2019s clarification.</p>\n<p>Justice Clarence Thomas wrote a dissent in which he argued that the Supreme Court likely did not have proper jurisdiction over this case because the state courts seemed to base their decisions on issues of procedural state law. Therefore, the Court should have vacated the lower decision and remanded for clarification regarding whether the state court\u2019s decision implicated an issue of federal law before deciding this case. Justice Thomas also argued that, because the trial court\u2019s decision was essentially a credibility determination, the majority should have granted more deference to that decision, which the new evidence did not invalidate.</p>\n"
+}

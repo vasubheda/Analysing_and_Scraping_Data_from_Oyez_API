@@ -1,0 +1,42 @@
+{
+    "ID": 54105,
+    "name": "Spectrum Sports, Inc. v. McQuillan",
+    "href": "https://api.oyez.org/cases/1992/91-10",
+    "view_count": 0,
+    "docket_number": "91-10",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                721375200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37060"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                727941600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37061"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                701935200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53746"
+        }
+    ],
+    "question": "<p>Is Spectrum liable for Sherman Act violations where the jury inferred intent and a dangerous possibility of success from Spectrum\u2019s predatory conduct?</p>\n",
+    "citation": {
+        "volume": "506",
+        "page": "447",
+        "year": "1993",
+        "href": "https://api.oyez.org/case_citation/case_citation/18034"
+    },
+    "term": "1992",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/506/447/",
+    "facts_of_the_case": "<p>Shirley and Larry McQuillan were the southwest distributors for products made with sorbothane, a patented elastic polymer.  They had an agreement with the manufacturer to be one of five regional distributors.  Gradually, the manufacturer began to take away the McQuillan\u2019s right to distribute certain types of products, eventually revoking their rights altogether.  The manufacturer only allowed one national distributor, Spectrum Sports, Inc., which was co-owned by the president of the manufacturer\u2019s son.  When the McQuillan\u2019s business failed, they sued Spectrum for violations of the Sherman Act.  The Sherman Act makes it a felony to monopolize, attempt to monopolize, or conspire to monopolize any part of the interstate commerce.</p>\n<p>The district court instructed the jury to infer specific intent and dangerous probability of monopolization if they found that Spectrum engaged in predatory conduct.  The jury found Spectrum guilty.  The U.S. Court of Appeals for the Ninth Circuit affirmed, holding that there was enough evidence to show specific intent and a dangerous probability of monopolization even if the jury only considered Spectrum\u2019s predatory conduct.</p>\n",
+    "conclusion": "<p>No.  In a unanimous decision, Justice Byron R. White wrote the opinion of the court reversing the lower judgment.  The Supreme Court held that Spectrum is not liable without proof of a dangerous probability of monopolization and specific intent.  The Court held that although predatory conduct may be enough to prove intent, a dangerous probability of monopolization requires an analysis of the product involved, and the offender\u2019s power in its geographic market.</p>\n"
+}

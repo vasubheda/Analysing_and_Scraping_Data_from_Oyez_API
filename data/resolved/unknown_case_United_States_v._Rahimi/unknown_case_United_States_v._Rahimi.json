@@ -1,0 +1,42 @@
+{
+    "ID": 63593,
+    "name": "United States v. Rahimi",
+    "href": "https://api.oyez.org/cases/2023/22-915",
+    "view_count": 0,
+    "docket_number": "22-915",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1688101200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55321"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1699336800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55358"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1718946000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55493"
+        }
+    ],
+    "question": "<p>Does 18 U.S.C. \u00a7 922(g)(8), which prohibits the possession of firearms by persons subject to domestic-violence restraining orders, violate the Second Amendment?</p>\n",
+    "citation": {
+        "volume": "602",
+        "page": null,
+        "year": "2024",
+        "href": "https://api.oyez.org/case_citation/case_citation/27963"
+    },
+    "term": "2023",
+    "description": "A case in which the Court held that 18 U.S.C. \u00a7 922(g)(8), which prohibits the possession of firearms by persons subject to domestic-violence restraining orders, does not violate the Second Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/602/22-915/",
+    "facts_of_the_case": "<p>Between December 2020 and January 2021, Zackey Rahimi was involved in a series of violent incidents in Arlington, Texas, including multiple shootings and a hit-and-run. Rahimi was under a civil protective order for alleged assault against his ex-girlfriend, which explicitly prohibited him from possessing firearms. Police searched his home and found a rifle and a pistol, leading to Rahimi\u2019s indictment for violating federal law 18 U.S.C. \u00a7 922(g)(8), which makes it unlawful for someone under a domestic violence restraining order to possess firearms. Rahimi moved to dismiss the indictment on constitutional grounds but was denied, as his argument was foreclosed by United States v. McGinnis, 956 F.3d 747 (5th Cir. 2020).</p>\n<p>Rahimi pleaded guilty but continued his constitutional challenge on appeal. As the appeal was pending, the U.S. Supreme Court decided New York State Rifle &amp; Pistol Association, Inc. v. Bruen, 579 U.S. __ (2022). Rahimi argued that Bruen overruled McGinnis and thus that \u00a7 922(g)(8) was unconstitutional, and the U.S. Court of Appeals for the Fifth Circuit agreed.</p>\n",
+    "conclusion": "<p>When an individual has been found by a court to pose a credible threat to the physical safety of another, that individual may be temporarily disarmed consistent with the Second Amendment. Chief Justice John Roberts authored the 8-1 majority opinion of the Court.</p>\n<p>The Second Amendment right to keep and bear arms is fundamental but not unlimited. When examining a challenged regulation, the Court considers whether it is consistent with historical principles, not necessarily identical to historical laws. The key factors are why and how the regulation burdens the right.</p>\n<p>Section 922(g)(8) fits within this tradition. Historically, two legal regimes addressed firearms violence: surety laws and \u201cgoing armed\u201d laws. Surety laws allowed magistrates to require bonds from individuals suspected of future misbehavior, including firearm misuse. \u201cGoing armed\u201d laws prohibited carrying weapons in a way that terrified the public. Both regimes targeted individuals who posed threats to others\u2019 safety.</p>\n<p>Section 922(g)(8) is relevantly similar to these historical laws. It applies to individuals found by a court to threaten others\u2019 physical safety, just as the historical laws did. The burden it imposes\u2014temporary disarmament based on a judicial finding\u2014is also consistent with historical practice. While not identical to historical laws, Section 922(g)(8) aligns with the principles underlying the Second Amendment and historical firearm regulations aimed at preventing violence.</p>\n<p>Justice Sonia Sotomayor authored a concurring opinion, in which Justice Elena Kagan joined, opining that the Court correctly applied its decision in Bruen, but she continues to believe that Bruen was incorrectly decided.</p>\n<p>Justice Neil Gorsuch authored a concurring opinion, emphasizing that while Section 922(g)(8) can be constitutional in some applications, the Court\u2019s ruling is narrow and leaves open many questions about the law\u2019s constitutionality in other specific circumstances.</p>\n<p>Justice Brett Kavanaugh authored a concurring opinion to review the proper roles of text, history, and precedent in constitutional interpretation.</p>\n<p>Justice Ketanji Brown Jackson authored a concurring opinion, noting that two years\u2019 after Bruen, it is now clear that the unclear legal standard established in Bruen is difficult for lower courts to apply.</p>\n<p>Justice Amy Coney Barrett authored a concurring opinion, acknowledging lower courts\u2019 struggle to apply Bruen but pointing out that in this case, the Court settles on just the right level of generality</p>\n<p>Justice Clarence Thomas authored a dissenting opinion, arguing that not a single historical regulation justifies the statute at issue.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 56015,
+    "name": "Cline v. Oklahoma Coalition for Reproductive Justice",
+    "href": "https://api.oyez.org/cases/2013/12-1094",
+    "view_count": 0,
+    "docket_number": "12-1094",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1372309200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41352"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1383544800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52378"
+        }
+    ],
+    "question": "<p>Did the Oklahoma Supreme Court err in holding that the state law restricting the administration of abortion-inducing drugs to the uses described on their FDA labels conflicts with Supreme Court rulings that protect a woman's constitutional right to seek an abortion?</p>\n",
+    "citation": {
+        "volume": "570",
+        "page": null,
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19937"
+    },
+    "term": "2013",
+    "description": "A case which the Court dismissed concerning whether or not the Oklahoma legislature violated a woman's rights to an abortion by restricting the uses of abortion-inducing drugs to those listed on their FDA labels.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>In 2011, the Oklahoma state legislature passed a bill that restricts the use of abortion-inducing drugs to the uses described on their Federal Drug Administration (FDA) labels. The law criminalizes the use of these drugs in alternative combinations, known as \"off-label uses,\" that have been found to produce safer, less costly abortions. Before the law took effect, the Oklahoma Coalition for Reproductive Justice and Nova Health Systems sued the state in state district court and sought an injunction to prohibit enforcement of the law. They argued that the law effectively banned abortions in violation of both the state and federal constitutions. The state district court held the law unconstitutional and the state officials appealed to the Oklahoma Supreme Court. The Oklahoma Supreme Court held that the state law conflicted with Supreme Court rulings that protected a woman's right to seek an abortion and was therefore unconstitutional.</p>\n",
+    "conclusion": "<p>Unanswered. In a\u00a0<em>per curiam</em>\u00a0opinion, the Court dismissed the case as improvidently granted.</p>\n"
+}

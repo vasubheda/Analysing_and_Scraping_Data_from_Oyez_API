@@ -1,0 +1,42 @@
+{
+    "ID": 55518,
+    "name": "Taylor v. Sturgell",
+    "href": "https://api.oyez.org/cases/2007/07-371",
+    "view_count": 0,
+    "docket_number": "07-371",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1200031200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40041"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1208322000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40042"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1213246800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40043"
+        }
+    ],
+    "question": "<p>Does the dismissal of a claim based on a Freedom of Information Act request preclude a second individual, based on the concept of \"virtual representation,\" from bringing a similar claim when both claims involve the same project and the parties to each suit are represented by the same attorney?</p>\n",
+    "citation": {
+        "volume": "553",
+        "page": "880",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20766"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/553/880/",
+    "facts_of_the_case": "<p>Greg Herrick, the owner of one of two F-45s, a rare 1930s vintage airplane, in existence filed a Freedom of Information Act (FOIA) request seeking the plans and specifications for the craft from the Federal Aviation Administration. After the FAA refused to turn over the plans as \"protected trade secrets,\" Herrick filed suit against the FAA to recover the plans. The district court found for the FAA, and the U.S. Court of Appeals for the Tenth Circuit affirmed. Subsequently, roughly a month later, Brent Taylor, represented by Herrick's attorney, filed another FOIA request seeking the plans. When the request was again denied, Taylor also filed suit in federal court in the District of Columbia.</p>\n<p>The district court determined that Taylor had been \"virtually represented\" by Herrick in the first suit and therefore could not pursue the second suit in federal court. This judgment was affirmed by the U.S. Court of Appeals for the D.C. Circuit. In seeking Supreme Court review, Taylor argued the D.C. Circuit's finding that Taylor and Herrick enjoyed a close enough relationship for virtual representation to apply conflicted with several other circuits requiring a much closer nexus to block the second claim. Opposing certiorari, Fairchild Corp. (the airplane manufacturer) arguing on behalf of the FAA, claimed that Taylor had overstated the circuit splits. It also pointed out that, because Taylor and Herrick were collaborating on the plane restoration and were represented by the same attorney, the logical conclusion was that they were attempting to relitigate the same issue.</p>\n",
+    "conclusion": "<p>No. Writing for a unanimous Court, Justice Ruth Bader Ginsburg held that such \"nonparty preclusion\" runs up against the \"deep-rooted historic tradition that everyone should have his own day in court.\" Virtual representation should only be applied rarely and under certain exceptions to the general rule, none of which the Court found applicable in this case. The D.C. Circuit's decision was vacated and the case sent back to the district court for a new trial.</p>\n"
+}

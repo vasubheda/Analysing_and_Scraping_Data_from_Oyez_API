@@ -1,0 +1,35 @@
+{
+    "ID": 54655,
+    "name": "United States v. Estate of Romani",
+    "href": "https://api.oyez.org/cases/1997/96-1613",
+    "view_count": 0,
+    "docket_number": "96-1613",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                884584800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38086"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                893826000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38087"
+        }
+    ],
+    "question": "<p>Does the federal priority statute, 31 USC section 3713(a), require that that a federal tax claim be given preference over a judgment creditor's perfected lien on real property where such a preference is not authorized by the Federal Tax Lien Act of 1966?</p>\n",
+    "citation": {
+        "volume": "523",
+        "page": "517",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18584"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/523/517/",
+    "facts_of_the_case": "<p>Both a judgment lien and federal tax liens encumbered the real property of Francis Romani's Pennsylvania estate, worth $53,001, following his death. The estate's administrator sought a county court's permission to transfer the property to the judgment creditor. The Government objected to the conveyance, arguing that 31 USC section 3713(a), which provides that a Government claim \"shall be paid first\" when a decedent's estate cannot pay all of its debts, prioritized its payment. Nevertheless, the court authorized the conveyance. Ultimately, the Pennsylvania Supreme Court affirmed. The court concluded that Federal Tax Lien Act of 1966 modified the Government's preference and recognized the priority of many state claims over federal tax liens.</p>\n",
+    "conclusion": "<p>No. In an opinion delivered by Justice John Paul Stevens, the Court held that section 3713(a) does not require that a federal tax claim be given preference over a judgment creditor's perfected lien on real property. Justice Stevens reasoned that section 3713(a) has been limited by Federal Tax Lien Act of 1966, which provides that says a federal lien for back taxes is not valid until the government files proper notice with state or local officials. Accordingly, Justice Stevens wrote that the Tax Lien Act \"represents Congress' detailed judgment as to when the Government's claims for unpaid taxes should yield to many different sorts of interests... in many different types of property... specifically crafted for tax collection purposes.\" Justice Antonin Scalia filed an opinion concurring in part and concurring in the judgment.</p>\n"
+}

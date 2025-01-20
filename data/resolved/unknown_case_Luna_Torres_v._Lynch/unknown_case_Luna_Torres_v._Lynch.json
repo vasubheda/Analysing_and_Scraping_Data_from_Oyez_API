@@ -1,0 +1,42 @@
+{
+    "ID": 62321,
+    "name": "Luna Torres v. Lynch",
+    "href": "https://api.oyez.org/cases/2015/14-1096",
+    "view_count": 0,
+    "docket_number": "14-1096",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1435554000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52790"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1446530400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52808"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1463634000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53617"
+        }
+    ],
+    "question": "<p>Does a state offense constitute an aggravated felony for the purpose of the removal of a permanent resident when the federal statute describes the state offense but also includes an interstate commerce element that the state offense lacks?</p>\n",
+    "citation": {
+        "volume": "578",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27121"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that a state offense may constitute an aggravated felony for the purpose of the removal of a permanent resident when it includes all the elements of the federal statute with the exception of the interstate commerce element.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/578/14-1096/",
+    "facts_of_the_case": "<p>In 1999, Jorge Luna Torres, a citizen of the Dominican Republic and a lawful permanent resident of the United States, was convicted of violating a New York state arson statute. In 2007, the Immigration and Naturalization Service (INS) issued a notice charging Luna Torres with inadmissibility because he was an \u201calien convicted of a crime involving moral turpitude.\u201d Luna Torres applied for a cancellation of the removal order and the immigration judge held that Luna Torres was both removable as charged and ineligible for a cancellation of the removal order because he was a permanent resident convicted of an aggravated felony; the Board of Immigration Appeals (BIA) had previously held that a conviction under the New York state arson statute constituted an aggravated felony. Luna Torres appealed to the BIA and argued that the previous ruling should be reexamined. The BIA dismissed Luna Torres\u2019 appeal, and Luna Torres petitioned for review by the U.S. Court of Appeals for the Second Circuit. Prior to the oral argument before the appellate court, the U.S. Court of Appeals for the Third Circuit vacated the BIA\u2019s ruling and concluded that violation of the New York state arson statute did not constitute an aggravated felony because the state statute lacked the federal statute\u2019s interstate commerce element. That decision conflicted with the interpretations of other circuit courts of appeals, and the appellate court in this case upheld the denial of Torres\u2019 petition for cancellation of the removal order.</p>\n",
+    "conclusion": "<p>A state offense may constitute an aggravated felony for the purpose of the removal of a permanent resident when it includes all the elements of the federal statute, with the exception of the interstate commerce element. Justice Elena Kagan delivered the opinion of the 5-3 majority. The Court held that the absence of a jurisdictional element is not material in determining whether the elements of a state crime correspond to those of a federal offense. Because the federal government can only punish felonies through one of its constitutionally enumerated powers, the jurisdictional element of a federal crime simply ties the substantive offense to Congress\u2019 authority to punish it. State legislatures, however, do not need to do so. The relevant text of the Immigration and Naturalization Act clearly indicated that Congress intended for both federal and state offenses -- that lack the jurisdictional element -- to constitute aggravated felonies for the purpose of removal. Additionally, courts have traditionally treated the jurisdictional element of a crime as wholly distinct from the elements that make up the substantive offense. When courts determine whether a state offense is sufficiently similar to a federal one, the presumption is that Congress meant for the jurisdictional element of the federal offense to be set aside. In this case, because the only difference between the New York arson statute and the federal one is the jurisdictional element, the state statute was properly treated as an aggravated felony for the purpose of removal.</p>\n<p>Justice Sonia Sotomayor wrote a dissent in which she argued that, because there was an additional limiting element in the federal offense that was not a part of the state offense, the two were not the same for the purpose of removal under the Immigration and Naturalization Act. The plain language of the Act is specific to offenses described in the federal criminal code, and the defendant in this case was not convicted under such an offense. Justice Sotomayor also argued that the courts do not always consider the jurisdictional element of an offense as separate from the substantive ones, and therefore that was not the \u201cwell-settled approach\u201d that the majority opinion argued it was. Justices Clarence Thomas and Stephen G. Breyer joined in the dissent.</p>\n"
+}

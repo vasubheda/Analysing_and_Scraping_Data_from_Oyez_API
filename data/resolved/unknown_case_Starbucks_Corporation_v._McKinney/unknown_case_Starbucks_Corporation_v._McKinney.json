@@ -1,0 +1,42 @@
+{
+    "ID": 63651,
+    "name": "Starbucks Corporation v. McKinney",
+    "href": "https://api.oyez.org/cases/2023/23-367",
+    "view_count": 0,
+    "docket_number": "23-367",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1705039200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55392"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1713848400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55448"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1718254800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55573"
+        }
+    ],
+    "question": "<p>What test must courts use to evaluate requests for injunctions under Section 10(j) of the National Labor Relations Act?</p>\n",
+    "citation": {
+        "volume": "602",
+        "page": null,
+        "year": "2024",
+        "href": "https://api.oyez.org/case_citation/case_citation/28005"
+    },
+    "term": "2023",
+    "description": "A case in which the Court held courts must use the traditional four-factor test to evaluate the National Labor Relations Board\u2019s requests for injunctions under Section 10(j) of the National Labor Relations Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/602/23-367/",
+    "facts_of_the_case": "<p>In early January 2022, Nikki Taylor, a supervisor at a Memphis Starbucks, initiated union-organizing efforts, contacting Buffalo, New York, Starbucks employees and the Union for guidance. Conversations with colleagues about unionizing led to managerial scrutiny and disciplinary actions against Taylor for alleged insubordination and a dress code violation. Despite this, Taylor and coworkers held a meeting with Union representatives and drafted a letter to Starbucks's CEO announcing their intent to unionize.</p>\n<p>On January 18, following the public release of the unionization letter, the Memphis store was closed early by management under the pretext of understaffing, coinciding with a media event covering the unionization efforts. Subsequent investigations by Starbucks led to the February 8 firing of seven employees, including key organizing committee members, for policy violations during the media event. These terminations led to a reduced display of union support among the remaining staff and increased anxiety about unionizing in other Starbucks locations. However, the Memphis store voted to join the Union in June.</p>\n<p>The Union filed charges against Starbucks for unfair labor practices. Following an investigation, a district court ordered a temporary injunction, demanding the reinstatement of the terminated employees. On appeal, the U.S. Court of Appeals for the Sixth Circuit affirmed, finding that the NLRB satisfied its burden of showing \u201c\u2018reasonable cause\u2019 to believe that employers engaged in unfair labor practices and that an injunction protects the Board\u2019s remedial power.\u201d</p>\n",
+    "conclusion": "<p>When considering requests for preliminary injunctions under \u00a710(j) of the National Labor Relations Act, courts must apply the traditional four-factor test from <em>Winter v. Natural Resources Defense Council</em>: the plaintiff must clearly show likely success on the merits, likely irreparable harm without preliminary relief, that the balance of equities favors them, and that an injunction serves the public interest. This standard applies because when Congress authorizes courts to grant equitable relief, there is a strong presumption they will follow traditional equity principles unless Congress clearly directs otherwise. Justice Clarence Thomas authored the 8-1 majority opinion of the Court.</p>\n<p>Section 10(j)\u2019s language authorizing \u201cjust and proper\u201d relief simply invokes courts\u2019 traditional equitable discretion rather than creating a different standard. The Board\u2019s argument for a more lenient \u201creasonable cause\u201d standard fails because this would improperly lower the bar for injunctions by requiring courts to defer to the Board\u2019s preliminary views. While the Board\u2019s final decisions receive deference on appeal, its preliminary positions in \u00a710(j) petitions are merely litigation positions that do not warrant such deference. The Board remains free to reach its own conclusions in administrative proceedings regardless of how thoroughly courts examine the merits when considering preliminary injunctions.</p>\n<p>Justice Ketanji Brown Jackson authored an opinion concurring in part, dissenting in part, and concurring in the judgment.</p>\n"
+}

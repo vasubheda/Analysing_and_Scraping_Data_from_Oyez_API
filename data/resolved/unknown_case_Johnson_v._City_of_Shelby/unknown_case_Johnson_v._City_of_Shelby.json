@@ -1,0 +1,35 @@
+{
+    "ID": 56063,
+    "name": "Johnson v. City of Shelby",
+    "href": "https://api.oyez.org/cases/2014/13-1318",
+    "view_count": 0,
+    "docket_number": "13-1318",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1415599200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41638"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1415599200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41639"
+        }
+    ],
+    "question": "<p>Did the trial court correctly grant the motion for summary judgment?</p>\n",
+    "citation": {
+        "volume": "574",
+        "page": "10",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20915"
+    },
+    "term": "2014",
+    "description": "A case in which the Court held that federal pleading rules require only a \u201cshort plain statement of the claim showing that the pleader is entitled to relief,\u201d not a complete statement of the legal theory supporting the claim.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/574/10/",
+    "facts_of_the_case": "<p>Tracey L. Johnson and David James, Jr., were police officers for the city of Shelby, Mississippi. In September 2009, the city's board of aldermen, which has sole authority over the city's employment decisions, fired Johnson and James supposedly for violations of police procedure and residents' rights. Johnson and James sued the city in district court and argued that they were fired because they refused to ignore the criminal activities of Harold Billings, one of the city's aldermen. Therefore, the city's decision to fire Johnson and James violated their Fourteenth Amendment Due Process rights and maliciously interfered with their employment in violation of state law. The city moved for summary judgment based on the fact that Johnson and James failed to include a civil action for deprivation of rights under Section 1983 in their complaint. The district court granted the motion for summary judgment and denied James and Johnson's subsequent motion to amend their complaint. The U.S. Court of Appeals for the Fifth Circuit affirmed the lower court's decisions.</p>\n",
+    "conclusion": "<p>No. In a per curiam opinion, the Court held that federal pleading rules require only a \"short plain statement of the claim showing that the pleader is entitled to relief,\" not a complete statement of the legal theory supporting the claim. In this case, the plaintiffs' complaint met this requirement because it succinctly stated the factual basis for the claims, which is sufficient both to inform the defendants and ward off threshold dismissal.</p>\n"
+}

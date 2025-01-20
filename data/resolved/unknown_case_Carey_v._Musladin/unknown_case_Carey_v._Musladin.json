@@ -1,0 +1,42 @@
+{
+    "ID": 55414,
+    "name": "Carey v. Musladin",
+    "href": "https://api.oyez.org/cases/2006/05-785",
+    "view_count": 0,
+    "docket_number": "05-785",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1145250000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39754"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1160542800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39755"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1165816800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39756"
+        }
+    ],
+    "question": "<p>Did the Ninth Circuit exceed its authority under 28 U.S.C. Section 2254(d)(1) when it overturned a murder conviction because the victim's family members appeared in the Courtroom wearing buttons with pictures of the victim?</p>\n",
+    "citation": {
+        "volume": "549",
+        "page": "70",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20681"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/549/70/",
+    "facts_of_the_case": "<p>Mathew Musladin was convicted of the murder of Tom Studer. At Musladin's trial, Studer's family wore buttons showing pictures of the victim. Musladin's defense attorney requested that the trial judge tell the family to take off the buttons because they were prejudicial to the defense, but the judge denied the motion. Musladin later appealed his conviction to a state appellate court, and the appellate court affirmed the trial court. The appellate court held that though the buttons were an \"impermissible factor\" and should be discouraged, they were not so prejudicial that he had been denied his Due Process right to a fair trial. Musladin filed a petition for habeas corpus in federal District Court, but it was denied. However, the Ninth Circuit Court of Appeals granted the petition, reversed the appellate court, and sent the case back the District Court.</p>\n<p>Under 28 U.S.C. Section 2254(d)(1), a provision of the Anti-Terrorism and Effective Death Penalty Act (AEDPA), a federal court can grant habeas relief to a defendant convicted in state court only if the state court decision was \"contrary to, or involved an unreasonable application of, clearly established Federal law, as determined by the Supreme Court of the United States.\" The Ninth Circuit found that this standard had been met, because the state court decision had been \"objectively unreasonable.\" The Ninth Circuit ruled that the state court should have recognized the buttons as inherently prejudicial to the defense. In addition to Supreme Court precedents, the majority of the Circuit Court panel relied on one of the Circuit's own precedents that specifically dealt with buttons in the courtroom. The dissent argued that this reliance contradicted AEDPA's requirement that habeas courts consider the law \"as determined by the Supreme Court.\" The majority considered the use of the Circuit precedent appropriate because it applied general principles set down by the Supreme Court.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous decision written by Justice Clarence Thomas, the Court reversed the Ninth Circuit and ruled that the state court's decision was not an unreasonable application of any clearly established Supreme Court precedent. The Court did not explicitly say that Circuit Courts cannot cite their own Circuit precedents when granting habeas relief, but the Court only addressed the Supreme Court precedents cited by the Ninth Circuit. Those precedents only dealt with <em>government-sponsored</em> practices that may prejudice a jury, such as forcing a defendant to appear in court wearing prison clothing. The Court's opinion called the issue of spectator conduct, like the kind at issue in Musladin's trial, an \"open question in our jurisprudence.\" Since there was no clearly established federal law on the issue of spectator conduct, the Court held that the Ninth Circuit was wrong to grant habeas relief and overturn Musladin's conviction.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55601,
+    "name": "Herring v. United States",
+    "href": "https://api.oyez.org/cases/2008/07-513",
+    "view_count": 0,
+    "docket_number": "07-513",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1203400800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40276"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1223355600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40277"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1231912800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40278"
+        }
+    ],
+    "question": "<p>Does a court violate the Fourth Amendment rights of a criminal defendant by introducing evidence obtained through a police search based on an arrest warrant that should have been recalled, but was negligently allowed to remain active, at the time of the search?</p>\n",
+    "citation": {
+        "volume": "555",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20803"
+    },
+    "term": "2008",
+    "description": "A case in which the Court found that a criminal defendant's Fourth Amendment rights were not violated when he was unlawfully searched due to isolated negligence of police and not \"systematic error or reckless disregard of constitutional requirements.\"",
+    "justia_url": null,
+    "facts_of_the_case": "<p>The Coffee County, Alabama Sheriff's Department apprehended Bennie Herring in July of 2004. Upon searching Herring's vehicle, officers discovered methamphetamine in Herring's pocket and a gun under the seat of his truck. However, the situation was complicated by the fact that the initial search had been made on a faulty arrest warrant. The warrant, still active in the neighboring Dale County Sheriff's Office, was supposed to have been recalled five months prior, however someone had accidentally failed to remove it from the computer system. Herring filed a motion to suppress the allegedly \"illegally obtained\" evidence, however the U.S. District Court for the Middle District of Alabama denied Herring's motion and sentenced him to 27 months in prison.</p>\n<p>The U.S. Court of Appeals for the Eleventh Circuit affirmed the conviction, stating that illegally obtained evidence should only be suppressed when doing so could \"result in appreciable deterrence\" of future police misconduct. In his petition for certiorari, Herring pointed to an Arkansas case with nearly identical facts that had come out the other way, noting that \"as policing becomes ever more reliant on computerized systems, the number of illegal arrests and searches based on negligent recordkeeping is poised to multiply.\" The Court granted certiorari on February 19, 2008.</p>\n",
+    "conclusion": "<p>No. In a 5-4 decision with Chief Justice John G. Roberts writing for the majority and joined by Justice Antonin G. Scalia, Justice Anthony M. Kennedy, Justice Clarence Thomas and Justice Samuel A. Alito Jr., the Supreme Court affirmed the U.S. Court of Appeals for the Eleventh Circuit. It held that a criminal defendant's Fourth Amendment rights are not violated when police mistakes that lead to unlawful searches are merely the result of isolated negligence and \"not systematic error or reckless disregard of constitutional requirements.\" Evidence obtained under these circumstances is admissible and not subject to the exclusionary rule.</p>\n<p>Justice Ruth Bader Ginsburg dissented and was joined by Justice John Paul Stevens, Justice David H. Souter, and Justice Stephen G. Breyer. Justice Ginsburg argued that an intact exclusionary rule provides a strong incentive for police compliance with respect to the Fourth Amendment and its erosion in this case was not warranted. Justice Breyer also filed a separate dissenting opinion and was joined by Justice Souter. He argued that the Court should move away from its reliance on analyzing the degree of police culpability when determining whether the exclusionary rule applies, but rather draw a bright line between errors made by record keepers and those made by police officers.</p>\n<p><em>Learn more about the Roberts Court and the Fourth Amendment in <a href=\"http://projects.oyez.org/shifting-scales/\">Shifting Scales</a>, a nonpartisan Oyez resource.</em></p>\n"
+}

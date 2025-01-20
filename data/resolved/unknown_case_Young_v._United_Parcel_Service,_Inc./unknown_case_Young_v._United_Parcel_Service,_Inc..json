@@ -1,0 +1,42 @@
+{
+    "ID": 56041,
+    "name": "Young v. United Parcel Service, Inc.",
+    "href": "https://api.oyez.org/cases/2014/12-1226",
+    "view_count": 0,
+    "docket_number": "12-1226",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1404190800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41603"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1417586400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41604"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1427259600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41771"
+        }
+    ],
+    "question": "<p>Does the Pregnancy Discrimination Act require an employer to provide the same work accommodations to an employee with pregnancy-related work limitations as to employees with similar, but non-pregnancy related, work limitations?</p>\n",
+    "citation": {
+        "volume": "575",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20944"
+    },
+    "term": "2014",
+    "description": "A case in which the Court held that the Pregnancy Discrimination Act requires courts to consider whether an employer\u2019s policies treat pregnant workers less favorably than non-pregnant workers with similar inabilities to work and whether there are legitimate reasons for such differences.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/575/206/",
+    "facts_of_the_case": "<p>Peggy Young was employed as a delivery driver for the United Parcel Service (UPS). In 2006, she requested a leave of absence in order to undergo <em>in vitro</em> fertilization. The procedure was successful and Young became pregnant. During her pregnancy, Young's medical practitioners advised her to not lift more than twenty pounds while working. UPS's employee policy requires their employees to be able to lift up to seventy pounds. Due to Young's inability to fulfill this work requirement, as well as the fact that she had used all her available family/medical leave, UPS forced Young to take an extended, unpaid leave of absence. During this time she eventually lost her medical coverage. Young gave birth in April 2007 and resumed working at UPS thereafter.</p>\n<p>Young sued UPS and claimed she had been the victim of gender-and disability-based discrimination under the Americans with Disabilities Act and the Pregnancy Discrimination Act. UPS moved for summary judgment and argued that Young could not show that UPS's decision was based on her pregnancy or that she was treated differently than a similarly situated co-worker. Furthermore, UPS argued it had no obligation to offer Young accommodations under the Americans with Disabilities Act because Young's pregnancy did not constitute a disability. The district court dismissed Young's claim. The U.S. Court of Appeals for the Fourth Circuit affirmed.</p>\n",
+    "conclusion": "<p>No, but courts must evaluate the extent to which an employer\u2019s policy treats pregnant workers less favorably than non-pregnant workers with similar inabilities to work and determine whether there are any legitimate reasons for such differences. Justice Stephen G. Breyer delivered the opinion for the 6-3 majority. The Court held that an interpretation of the Act that requires employers to offer the same accommodations to pregnant workers as all others with comparable physical limitations regardless of other factors would be too broad. There is no evidence that Congress intended the Act to grant pregnancy such an unconditional \u201cmost-favored-nation status.\u201d However, Congress clearly intended the Act to do more than defining sex discrimination to include pregnancy discrimination. The Court held that a plaintiff may show that she faced disparate treatment from her employer according to the framework established in <em>McDonnell Douglas Corp. v. Green</em>, which requires evidence that the employer\u2019s actions were more likely than not based on discriminatory motivation, and that any reasons the employer offered were pretextual.</p>\n<p>In his opinion concurring in the judgment, Justice Samuel A. Alito, Jr. wrote that the language of the Act makes employers liable for discriminatory conduct regardless of intent. To determine whether the conduct was discriminatory, Justice Alito argued that the treatment of pregnant employees should be compared to the treatment of non-pregnant employees in similar jobs with similar abilities and inabilities to work.</p>\n<p>Justice Antonin Scalia wrote a dissenting opinion in which he argued that the Act only prohibited an employer from distinguishing between employees of similar abilities and inabilities because of pregnancy, while differing treatment for other reasons is permissible. To adopt a broader reading of the Act\u2019s protections would entitle pregnant workers to every possible accommodation. Justice Scalia also argued that the Act\u2019s main intent is to clarify that pregnancy discrimination is sex discrimination. Justice Anthony M. Kennedy and Justice Clarence Thomas joined in the dissent. In his separate dissent, Justice Kennedy wrote that the majority opinion interpreted the Act in a manner that conflates evidence of disparate impact with that of disparate treatment, which creates unnecessary confusion in litigating pregnancy discrimination cases.</p>\n"
+}

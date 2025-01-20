@@ -1,0 +1,28 @@
+{
+    "ID": 54764,
+    "name": "Stewart v. LaGrand",
+    "href": "https://api.oyez.org/cases/1998/98-1412",
+    "view_count": 0,
+    "docket_number": "98-1412",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                920440800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38286"
+        }
+    ],
+    "question": "<p>Did Walter LaGrand waive his claim that execution by lethal gas constitutes cruel and unusual punishment under the Eighth Amendment by electing to be executed by lethal gas, when Arizona's default form of execution is lethal injection?</p>\n",
+    "citation": {
+        "volume": "526",
+        "page": "115",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18693"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>After they were sentenced to death in Arizona, Walter LaGrand and Karl LaGrand filed petitions for writs of habeas corpus. Among other things, Walter's petition claimed that execution by lethal gas constituted cruel and unusual punishment under the Eighth Amendment. Ultimately, the Court of Appeals found the claim unripe until and unless Walter chose gas as his method of execution and denied his petition. Under Arizona law, lethal injection is the default form of execution. Separately, as part of its ultimate order, the Court of Appeals stayed Karl's execution and enjoined Arizona from executing anyone by means of lethal gas. Subsequently, the Court of Appeals ultimately denied Walter a stay of execution but restrained and enjoined the Arizona from executing him by means of lethal gas.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion, the Court held that \"[b]y declaring his method of execution, picking lethal gas over the state's default form of execution-- lethal injection--Walter LaGrand has waived any objection he might have to it.\" Additionally, the Court vacated the Court of Appeals injunctive order. Justice John Paul Stevens dissented. Arguing for full briefing and argument, Justice Stevens stated that \"the answer to the question whether a capital defendant may consent to be executed by an unacceptably torturous method of execution is by no means clear.\"</p>\n"
+}

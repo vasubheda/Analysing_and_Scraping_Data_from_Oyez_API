@@ -1,0 +1,33 @@
+{
+    "ID": 63677,
+    "name": "Garland v. VanDerStok",
+    "href": "https://api.oyez.org/cases/2024/23-852",
+    "view_count": 0,
+    "docket_number": "23-852",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1713762000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55452"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1728363600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55517"
+        }
+    ],
+    "question": "<p>Did the ATF exceed its statutory authority in promulgating its Final Rule purporting to regulate so-called \u201cghost guns\u201d?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28011"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether the Bureau of Alcohol, Tobacco, Firearms, and Explosives has the authority to regulate so-called \u201cghost guns\u201d\u2014that is, firearms without serial numbers that can be assembled from parts.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-852/"
+}

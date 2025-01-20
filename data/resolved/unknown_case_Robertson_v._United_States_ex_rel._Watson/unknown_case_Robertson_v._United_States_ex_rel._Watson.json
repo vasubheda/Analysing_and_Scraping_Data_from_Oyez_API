@@ -1,0 +1,42 @@
+{
+    "ID": 55690,
+    "name": "Robertson v. United States ex rel. Watson",
+    "href": "https://api.oyez.org/cases/2009/08-6261",
+    "view_count": 0,
+    "docket_number": "08-6261",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1260770400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40505"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1270011600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40506"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1274677200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40507"
+        }
+    ],
+    "question": "<p>Is an action for criminal contempt in a congressionally created court brought in the name and pursuant to the power of a private person, rather than in the name and pursuant to the power of the United States, constitutional?</p>\n",
+    "citation": {
+        "volume": "560",
+        "page": "272",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19612"
+    },
+    "term": "2009",
+    "description": "A case, which the Court dismissed as improvidently granted, concerning the constitutionality of actions of criminal contempt brought in the name and pursuant to the power of a private person, rather than in the name and pursuant to the power of the United States.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/560/272/",
+    "facts_of_the_case": "<p>A victim who obtained a civil protection order (\"CPO\") against John Robertson moved to hold him in criminal contempt for violating the order. A District of Columbia Superior Court convicted Mr. Robertson on three counts of criminal contempt for violating the CPO. Mr. Robertson moved to vacate the convictions, which was denied. On appeal, the District of Columbia Court of Appeals affirmed Mr. Robertson's conviction.</p>\n",
+    "conclusion": "<p>The Supreme Court dismissed the writ of certiorari as improvidently granted.</p>\n<p>Chief Justice John G. Roberts, joined by Justices Antonin G. Scalia, Anthony M. Kennedy, and Sonia Sotamayor, dissented. He recognized the complexity of the issue raised before the Court. However, he argued the answer to it is \"no.\" He explained that \"[t]he terrifying force of the criminal justice system may only be brought to bear against an individual by society as a whole, through a prosecution brought on behalf of the government\" \u2013 not an individual.</p>\n"
+}

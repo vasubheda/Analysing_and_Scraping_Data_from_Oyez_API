@@ -1,0 +1,35 @@
+{
+    "ID": 54989,
+    "name": "Festo Corporation v. Shoketsu Kinzoku Kogyo Kabushiki Company",
+    "href": "https://api.oyez.org/cases/2001/00-1543",
+    "view_count": 0,
+    "docket_number": "00-1543",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1010469600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38711"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1022562000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38712"
+        }
+    ],
+    "question": "<p>Does a patentee, by narrowing a claim to obtain a patent, surrender all equivalents to the amended claim element?</p>\n",
+    "citation": {
+        "volume": "535",
+        "page": "722",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/18918"
+    },
+    "term": "2001",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/535/722/",
+    "facts_of_the_case": "<p>Festo Corporation owns two patents for an improved magnetic rodless cylinder, a piston-driven device that relies on magnets to move objects in a conveying system. When the patent examiner rejected the initial application for the first patent because of defects in description, the application was amended to add the new limitations that the device would contain a pair of one-way sealing rings and that its outer sleeve would be made of a magnetizable material. The second patent was also amended during a reexamination proceeding to add the sealing rings limitation. After Festo began selling its device, SMC entered the market with a similar device that uses one two-way sealing ring and a nonmagnetizable sleeve. Festo filed suit, claiming that SMC's device is so similar that it infringes Festo's patents under the doctrine of equivalents. Rejecting SMC's argument that the prosecution history, or the public record of the patent proceedings, estopped Festo from saying that SMC's device was similar, the District Court ruled in Festo's favor. Ultimately, the en banc Court of Appeals held that the prosecution history estoppel applied, ruling that estoppel arises from any amendment that narrows a claim to comply with the Patent Act. The Court of Appeals also held that, when estoppel applies, it bars any claim of equivalence for the element that was amended.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Anthony M. Kennedy, the Court held that prosecution history estoppel may apply to any claim amendment made to satisfy the Patent Act's requirements, not just to amendments made to avoid the prior art, but that estoppel need not bar suit against every equivalent to the amended claim element. Noting that by amending an application the inventor is deemed to concede that the patent does not extend as far as the original claim, the Court reasoned that the patentee should bear the burden of showing that the amendment does not surrender the equivalent in question. Justice Kennedy wrote that, in cases where an equivalent was unforeseeable at the time of the application, the patentee could rebut the presumption that prosecution history estoppel barred a finding of equivalence by showing that at the time of the amendment one skilled in the art could not reasonably be expected to have drafted a claim that would have literally encompassed the alleged equivalent.</p>\n"
+}

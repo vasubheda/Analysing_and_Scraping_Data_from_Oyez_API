@@ -1,0 +1,42 @@
+{
+    "ID": 56019,
+    "name": "United States v. Castleman",
+    "href": "https://api.oyez.org/cases/2013/12-1371",
+    "view_count": 0,
+    "docket_number": "12-1371",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1380603600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41357"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1389765600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41358"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1395810000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41563"
+        }
+    ],
+    "question": "<p>Does Castleman's conviction of misdemeanor domestic assault under Tennessee law constitute a misdemeanor crime of domestic violence under the relevant federal statute?</p>\n",
+    "citation": {
+        "volume": "572",
+        "page": "157",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20875"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that a Tennessee man's conviction of domestic violence under state law also prevented him from legally possessing firearms under federal law.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/572/157/",
+    "facts_of_the_case": "<p>In 2001, James Alvin Castleman was charged and pleaded guilty to one count of misdemeanor domestic assault under the relevant Tennessee statute, which dealt with knowingly or intentionally causing bodily harm to the mother of the defendant's child. Seven years later, federal agents discovered that Castleman and his wife were buying firearms from dealers and selling them on the black market. Because Castleman's domestic assault conviction prohibited him from purchasing firearms, Castleman's wife bought the weapons in her own name. Castleman was indicted in federal district court and charged with two counts of possessing a firearm after being convicted of a misdemeanor crime of domestic violence. The district court dismissed the charges and held that Castleman's misdemeanor domestic assault conviction under Tennessee law did not constitute the misdemeanor crime of domestic violence as required by the federal statute. The U.S. Court of Appeals for the Sixth Circuit affirmed.</p>\n",
+    "conclusion": "<p>Yes. Justice Sonia Sotomayor delivered the opinion for the 9-0 majority. The Court held that, because the statute in question\u2014that prevents people convicted of misdemeanor domestic violence from possessing firearms\u2014incorporates an element regarding the use of physical force, it includes those convicted of domestic assault under state law. This reading of the statute is consistent with the common-law meaning of violence, and to read it otherwise would have meant that the statute was ineffective in many states at the time of its enactment. Because the Tennessee statute under which Castleman was convicted necessarily involved the use of physical force, it should be considered a misdemeanor domestic violence conviction for the purpose of the federal statute.</p>\n<p>In his opinion concurring in part and concurring in the judgment, Justice Antonin Scalia wrote that the majority opinion could have settled the case on much narrower grounds than it did. Because the meaning of the Tennessee statute in question categorically includes the meaning of \"physical force,\" a conviction under that statute qualifies as a misdemeanor crime of domestic violence. Justice Samuel A. Alito, Jr. wrote a separate opinion concurring in the judgment in which he argued that the reasoning in the majority opinion purports to rely on the reasoning in <em>Johnson v. United States</em>, but because the majority opinion in this case holds that force does not need to be violent, it is an improper application of the precedent. Justice Clarence Thomas joined in the opinion concurring in the judgment.</p>\n"
+}

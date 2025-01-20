@@ -1,0 +1,42 @@
+{
+    "ID": 55886,
+    "name": "Elgin v. Department of the Treasury",
+    "href": "https://api.oyez.org/cases/2011/11-45",
+    "view_count": 0,
+    "docket_number": "11-45",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1318827600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41021"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1330322400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41022"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1339390800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41023"
+        }
+    ],
+    "question": "<p>If a federal employee has a constitutional claim for equitable relief, do the federal district courts have jurisdiction, or does the Civil Service Reform Act preclude that jurisdiction?</p>\n",
+    "citation": {
+        "volume": "567",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19808"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that the Civil Service Reform Act precludes federal courts' jurisdiction in cases where federal employees seek equitable relief.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/567/1/",
+    "facts_of_the_case": "<p>Michael B. Elgin, Aaron Lawson, Henry Tucker, and Christon Colby, the petitioners, were all federal employees. Each man was terminated or constructively terminated under 5 U.S.C. \u00a7 3328, after the Office of Personnel Management determined that he was ineligible for federal employment under 5 U.S.C. \u00a7 3328 for failing to have registered for the selective service between the ages of 18 and 26.</p>\n<p>Elgin initially challenged his termination before the Merit Systems Protection Board, which has jurisdiction over challenged terminations of federal employees under certain conditions under the Civil Service Reform Act. On November 16, 2007, the Merit Systems Protection Board dismissed Elgin's appeal because it lacked jurisdiction over appeals where employees were terminated under absolute statutory prohibitions and that it lacked the power to rule on the constitutionality of a statute.</p>\n<p>On December 28, 2007, Elgin and the other petitioners joined and brought an action challenging the constitutionality of 5 U.S.C. \u00a7 3328 to the United States District Court for the District of Massachusetts. They claimed that the statute was an unlawful Bill of Attainder, and that the statute violated the petitioners' rights to equal protection based on sex. Both sides moved for summary judgment as to certain issues, and the court granted the petitioner's motion by finding that the law was a Bill of Attainder and granted part of the respondents' motion by finding that the law was not a violation of the petitioners' rights to equal protection. The government filed a motion for reconsideration as to whether the statute was a Bill of Attainder, and also argued that the district court did not have jurisdiction under the Civil Service Reform Act. The district court held that it did have jurisdiction, but, on reconsideration, determined that the statute was not a Bill of Attainder.</p>\n<p>Petitioners appealed the district court's decisions dismissing the equal protection claim and granting the motion for reconsideration on the Bill of Attainder claim. The U.S. Court of Appeals for the First Circuit Circuit confirmed the lower court's decision as to dismissal of the claims, and a divided court found that the district court did not have jurisdiction under the Civil Service Reform Act. The petitioners appealed in order to settle the question of jurisdiction.</p>\n",
+    "conclusion": "<p>The Civil Service Reform Act precludes jurisdiction. Justice Clarence Thomas, writing for a 6-3 majority, affirmed the First Circuit. The Court held that the Act precluded the federal district courts from hearing Elgin's claim even though Elgin brought a constitutional challenge. There is no textual basis to support Elgin's argument that the Act contains an exception for constitutional challenges to federal statutes. Justice Thomas argued that carving out an exception for constitutional challenges would undermine the act's purpose of creating of an integrated scheme of administrative and judicial review for aggrieved federal employees. The Act does not foreclose all judicial review of Elgin's claim. Instead, the Act directs it to the U. S. Court of Appeals, Federal Circuit..</p>\n<p>Justice Samuel A. Alito, Jr. dissented, arguing that congress did not intend for the MSPB to hear constitutional challenges. The MSPB lacks the authority and ability to properly adjudicate federal constitutional challenges. Also, Congress did not expressly limit the federal courts' ability to hear constitutional challenges related to federal employment. Justice Ruth Bader Ginsburg and Justice Elena Kagan joined in the dissent.</p>\n"
+}

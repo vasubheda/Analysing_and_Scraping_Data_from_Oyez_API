@@ -1,0 +1,42 @@
+{
+    "ID": 62622,
+    "name": "Simmons v. Himmelreich",
+    "href": "https://api.oyez.org/cases/2015/15-109",
+    "view_count": 0,
+    "docket_number": "15-109",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1446789600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53319"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1458622800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53415"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1465189200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53710"
+        }
+    ],
+    "question": "<p>Does the judgment bar in 28 U.S.C. \u00a72676 of the Federal Torts Claims Act (FTCA) prohibit an action brought against government agents if the claim brought under the FTCA was dismissed?</p>\n",
+    "citation": {
+        "volume": "578",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27386"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that the judgment bar of the Federal Tort Claims Act (FTCA) does not apply to claims dismissed for falling under the exceptions to the FTCA.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/578/15-109/",
+    "facts_of_the_case": "<p>Walter Himmelreich is a federal prisoner at the Federal Correctional Institution in Danbury, Connecticut. In 2008, he was attacked by another prisoner. Himmelreich filed a complaint against multiple defendants alleging many causes of action, including a claim that his First Amendment rights were violated when he was placed in administrative detention after filing a claim under the Federal Torts Claims Act (FTCA) and a claim that his Eighth Amendment rights were violated when the prison officials failed to protect him from being assaulted by another inmate. The district court dismissed his case for failure to state a claim. On appeal, the U.S. Court of Appeals for the Sixth Circuit vacated the decision and remanded the case for reconsideration of the First and Eighth Amendment claims.</p>\n<p>On remand, the district court granted summary judgment for the defendants by holding that Himmelreich had failed to exhaust his administrative remedies on the claims and that the prison officials were subject to the discretionary exception to the FTCA, which triggered the judgment bar of the FTCA, 28 U.S.C. \u00a72676, that prohibits \u201cany action by the same claimant, by reason of the same subject matter, against the employee of the government whose act of omission gave rise to the claim.\u201d The appellate court again vacated and remanded the lower court\u2019s judgment. It held that Himmelreich\u2019s failure to exhaust his administrative remedies should be excused because he had been intimidated and threatened by prison officials to not pursue a grievance process against them. The appellate court also found that the dismissal of Himmelreich\u2019s claim based on discretionary exception to the FTCA as applied by the district court does not necessarily trigger a judgment bar of 28 U.S.C \u00a72676.</p>\n",
+    "conclusion": "<p>The judgment bar of the Federal Tort Claims Act (FTCA) does not apply to claims dismissed for falling under the exceptions to the FTCA. Justice Sonia Sotomayor delivered the opinion for the unanimous Court, which held that the FTCA explicitly exempts coverage from certain categories of claims. Because the judgment bar is part of the FTCA, if the FTCA does not apply to a claim, then the judgment bar does not either. In the absence of Congressional intent to the contrary, the plain reading of the language of the statute -- that the FTCA, including the judgment bar, does not cover cases that are exempt -- should control the analysis. In this case, because Himmelreich\u2019s first claim fell under the discretionary action exception to the FTCA, the judgment bar did not apply to his second claim.</p>\n"
+}

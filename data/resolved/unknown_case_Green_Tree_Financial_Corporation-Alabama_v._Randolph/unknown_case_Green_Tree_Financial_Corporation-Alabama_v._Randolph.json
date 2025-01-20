@@ -1,0 +1,35 @@
+{
+    "ID": 54902,
+    "name": "Green Tree Financial Corporation-Alabama v. Randolph",
+    "href": "https://api.oyez.org/cases/2000/99-1235",
+    "view_count": 0,
+    "docket_number": "99-1235",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                970549200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38545"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                976514400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38546"
+        }
+    ],
+    "question": "<p>Is an order compelling arbitration a \"final decision with respect to an arbitration\" within the meaning of the Federal Arbitration Act? Is an arbitration agreement that does not mention arbitration costs and fees unenforceable because it fails to protect a party from potentially expensive arbitration costs?</p>\n",
+    "citation": {
+        "volume": "531",
+        "page": "79",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18831"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/531/79/",
+    "facts_of_the_case": "<p>Larketta Randolph financed the purchase of a mobile home through Green Tree Financial Corp.-Alabama. Randolph's financing agreement with Green Tree required that she buy insurance against default and provided that disputes under the contract would be resolved by binding arbitration. Randolph sued Green Tree, alleging that it violated the Truth in Lending Act (TILA) by failing to disclose the insurance requirement as a finance charge and that it violated the Equal Credit Opportunity Act by requiring her to arbitrate her statutory causes of action. The District Court granted Green Tree's motion to compel arbitration and denied her request for reconsideration, which stated that she lacked the resources to arbitrate and, therefore, would have to forgo her claims. The Court of Appeals, under the Federal Arbitration Act (FAA), which allows appeals from \"a final decision with respect to an arbitration that is subject to this title,\" held that it had jurisdiction. Ultimately, the court concluded that because the agreement was silent with respect to payment of arbitration expenses, it was unenforceable.</p>\n",
+    "conclusion": "<p>Yes and no. In a opinion delivered by Chief Justice William H. Rehnquist, the Court held that an order compelling arbitration pursuant to the parties' agreement is a \"final decision with respect to an arbitration\" within the meaning of the Federal Arbitration Act making it immediately appealable pursuant to the FAA. In a 5-4 split, the Court held that an arbitration agreement that is silent on arbitration costs and fees is not unenforceable. Writing for the majority, Chief Justice Rehnquist wrote that \"[a]lthough the existence of large arbitration costs may well preclude a litigant...from effectively vindicating [her statutory rights], the record does not show that Randolph will bear such costs if she goes to arbitration.\" Justices Ruth Bader Ginsburg, John Paul Stevens, David H. Souter, and Stephen G. Breyer dissented.</p>\n"
+}

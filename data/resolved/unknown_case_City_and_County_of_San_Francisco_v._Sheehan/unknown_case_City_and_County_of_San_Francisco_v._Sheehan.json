@@ -1,0 +1,42 @@
+{
+    "ID": 56075,
+    "name": "City and County of San Francisco v. Sheehan",
+    "href": "https://api.oyez.org/cases/2014/13-1412",
+    "view_count": 0,
+    "docket_number": "13-1412",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1416895200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41648"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1427086800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41649"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1431925200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51653"
+        }
+    ],
+    "question": "<p>(1) Did the officers violate a clearly established right under the Fourth Amendment when they forced entry into Sheehan\u2019s room the second time?</p>\n<p>(2) Does the Americans with Disabilities Act require law enforcement officers to provide accommodations to an armed, violent and mentally ill suspect when attempting to take that suspect into custody?</p>\n",
+    "citation": {
+        "volume": "575",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20934"
+    },
+    "term": "2014",
+    "description": "A case in which the Court held that an unwarranted entry does not violate the Fourth Amendment when it does not violate a clearly established constitutional or statutory right and is reasonable under the circumstances.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/575/600/",
+    "facts_of_the_case": "<p>Teresa Sheehan suffered from a mental illness and lived in a San Francisco group home. After Sheehan threatened her social worker when he attempted to perform a welfare check, he became concerned that she was a danger to herself or others and summoned the police for help transporting her to a mental health facility for a 72-hour involuntary commitment. When the police officers arrived, they entered Sheehan's room without a warrant to take her into custody. Sheehan grabbed a knife and threatened to kill the officers. They were forced to withdraw outside her room and call for backup, but instead of waiting for the backup to arrive, they drew their weapons and forced their way back into her room. When Sheehan again threatened the officers with a knife, they shot her several times.</p>\n<p>Sheehan sued the officers and the city for violations of her Fourth Amendment right to be free from warrantless searches and seizures as well as violations of the Americans with Disabilities Act. The district court granted summary judgment in favor of the defendants, and Sheehan appealed. The U.S. Court of Appeals for the Ninth Circuit held that there were triable issues of material fact regarding whether the officers' second entry into Sheehan's room was reasonable under the circumstances and whether the officers failed to reasonably accommodate Sheehan's disability as required by the Americans with Disabilities Act.</p>\n",
+    "conclusion": "<p>No, and unanswered (because the oral arguments did not address the Americans with Disabilities Act). Justice Samuel A. Alito delivered the opinion for the 6-2 majority. The Court held that public officials are entitled to qualified immunity unless they have violated a clearly established constitutional or statutory right. A right is not clearly established unless a reasonable official in that public official\u2019s shoes would have understood his actions to be in violation of that right. In this case, the officers\u2019 second entry into Sheehan\u2019s room without a warrant did not violate the Fourth Amendment because law enforcement officers may enter a home without a warrant in an emergency situation when there is potential for injury to the occupant. The Court also held that the officers\u2019 use of force was reasonable under the circumstances, even to the extent of firing multiple rounds.</p>\n<p>Justice Antonin Scalia wrote a dissenting opinion in which he argued that the Court should have dismissed the writ of certiorari as improvidently granted so as not to reward the petitioners for presenting a question that induced the Court to grant the writ and then failing to brief or argue that question. Justice Elena Kagan joined in the dissent.</p>\n<p>Justice Stephen G. Breyer did not participate in the discussion or decision of this case.</p>\n"
+}

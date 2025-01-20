@@ -1,0 +1,42 @@
+{
+    "ID": 56032,
+    "name": "Lane v. Franks",
+    "href": "https://api.oyez.org/cases/2013/13-483",
+    "view_count": 0,
+    "docket_number": "13-483",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1389938400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41381"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1398661200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52566"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1403154000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52567"
+        }
+    ],
+    "question": "<p>(1)Does the First Amendment protect a public employee's truthful, sworn testimony that was compelled by subpoena and not a part of the employee's ordinary job responsibilities?</p>\n<p>(2) Does the doctrine of qualified immunity preclude Lane from claiming that Franks terminated his employment in an act of retaliation?</p>\n",
+    "citation": {
+        "volume": "573",
+        "page": "228",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/19954"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that a public employee's truthful testimony under subpoena in a trial is citizen speech and thus cannot be used to terminate the employee.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/573/228/",
+    "facts_of_the_case": "<p>In 2006, Edward Lane accepted a probationary position as Director of the Community Intensive Training for Youth (\"CITY\") program at Central Alabama Community College (\"CACC\"). He subsequently terminated the employment of Suzanne Schmitz, a state representative who had not performed any work for the program despite being listed on CITY's payroll. Lane also testified against Schmitz in two federal criminal trials between 2008 and 2009. In January 2009, Steve Franks, the president of CACC, sent termination letters to 29 CITY employees, including Lane, but rescinded the terminations of 27 of those employees within a few days. Lane sued Franks in federal district court and alleged that his termination from the CITY program was in retaliation for his testimony against Schmitz and therefore violated his First Amendment right to free speech. The district court ruled that the doctrine of qualified immunity shielded Franks from liability and granted summary judgment in his favor. The U.S. Court of Appeals for the Eleventh Circuit affirmed but declined to reach a decision on the qualified immunity question. Instead, the appellate court held that the First Amendment did not protect Lane's testimony because it was made pursuant to his official duties as a public employee.</p>\n",
+    "conclusion": "<p>Yes and no.  Justice Sonia Sotomayor delivered the opinion for the unanimous Court. The Court held that Lane\u2019s testimony clearly constituted citizen speech on a public matter and that the testimony was elicited during a trial for misuse of state funds and corruption. Therefore, Lane did not testify as part of his employment responsibilities.  Though Lane learned some of the subject matter of his testimony through the course of his employment, that alone does not make the testimony a part of Lane\u2019s employment responsibilities. However, even though the Court found that Lane\u2019s speech was protected under the First Amendment, ultimately Lane\u2019s claim must be dismissed because Franks had qualified immunity.  Previous precedent, specifically <i>Morris v. Crow<i>, had held that public employee testimony was unprotected speech, and thus when Franks fired Lane, he was not violating a clearly established constitutional right.</p>\n<p>In his concurring opinion Justice Clarence Thomas agreed that, because Lane did not testify as a part of his employment duties and responsibilities, his testimony constituted citizen speech on a public matter and was entitled to First Amendment protection.  Justice Thomas further applauded the Court for not addressing whether the First Amendment protects the testimony of public employee when that testimony is part of the employee\u2019s employment duties.  Justice Samuel A. Alito Jr. and Justice Antonin Scalia joined the concurrence.</p>\n"
+}

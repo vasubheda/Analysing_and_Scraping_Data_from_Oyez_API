@@ -1,0 +1,35 @@
+{
+    "ID": 55022,
+    "name": "Barnes v. Gorman",
+    "href": "https://api.oyez.org/cases/2001/01-682",
+    "view_count": 0,
+    "docket_number": "01-682",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1019538000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38771"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1024290000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38772"
+        }
+    ],
+    "question": "<p>May punitive damages be awarded in a private cause of action brought under the Americans with Disabilities Act of 1990 and the Rehabilitation Act of 1973?</p>\n",
+    "citation": {
+        "volume": "536",
+        "page": "181",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/18951"
+    },
+    "term": "2001",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/536/181/",
+    "facts_of_the_case": "<p>Jeffrey Gorman is a paraplegic. After being arrested, he was transported to a Kansas City police station in a van that was not equipped to accommodate the disabled. Gorman was removed from his wheelchair and seatbelted to a bench in the van. During the ride, Gorman fell to the floor, suffering serious injuries that left him unable to work full time. Gorman sued certain Kansas police officials for discriminating against him on the basis of his disability, in violation of the Americans with Disabilities Act of 1990 (ADA) and the Rehabilitation Act of 1973, by failing to maintain appropriate policies for the arrest and transportation of persons with spinal cord injuries. A jury awarded him compensatory and punitive damages. The District Court vacated as to punitive damages, holding that they are unavailable in private suits brought under the ADA and the Rehabilitation Act. In reversing, the Court of Appeals found punitive damages available under a general rule that absent clear direction to the contrary by Congress federal courts have the power to award any appropriate relief for violation of a federal right.</p>\n",
+    "conclusion": "<p>No. In an opinion delivered by Justice Antonin Scalia, the Court held that, because punitive damages may not be awarded in private suits brought under Title VI of the 1964 Civil Rights Act, it follows that they may not be awarded in suits brought under the ADA and the Rehabilitation Act. The Court noted that the remedies of the sections of the ADA and the Rehabilitation Act Gorman sued under are coextensive with those available in a private action under Title VI. Under a contract-law analogy, the Court reasoned because Title VI- funding recipients did not, merely by accepting funds, implicitly consent to liability for punitive damages, it followed that they could not be awarded in suits brought under the ADA and the Rehabilitation Act.</p>\n"
+}

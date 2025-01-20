@@ -1,0 +1,42 @@
+{
+    "ID": 63324,
+    "name": "United States v. Palomar-Santiago",
+    "href": "https://api.oyez.org/cases/2020/20-437",
+    "view_count": 0,
+    "docket_number": "20-437",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1610085600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54832"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1619499600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54887"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1621832400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54912"
+        }
+    ],
+    "question": "<p>Is a defendant who has been charged with unlawful reentry into the United States after removal automatically entitled to the defense of invalid removal if he was removed for a crime that would not be considered a removable offense under current law in that circuit?</p>\n",
+    "citation": {
+        "volume": "593",
+        "page": null,
+        "year": "2021",
+        "href": "https://api.oyez.org/case_citation/case_citation/27798"
+    },
+    "term": "2020",
+    "description": "A case in which the Court held that a defendant who has been charged with unlawful reentry into the United States after removal and is seeking dismissal of the charge must prove each of the requirements described in the statute governing such actions.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/593/20-437/",
+    "facts_of_the_case": "<p>Refugio Palomar-Santiago, a Mexican national, was granted permanent resident status in the United States in 1990. In 1991, he was convicted of a felony DUI in California, and he was subsequently deported because a DUI is a \u201ccrime of violence\u201d under 18 U.S.C. \u00a7 16, and felony DUI is an aggravated felony for purposes of 8 U.S.C. \u00a7 1101(a)(43). Three years later, the U.S. Court of Appeals for the Ninth Circuit decided in <em>United States v. Trinidad-Aquino</em>, 259 F.3d 1140 (9th Cir. 2001), that a DUI is not a crime of violence and later held that classification to apply retroactively. <em>United States v. Aguilera-Rios</em>, 769 F.3d 626 (9th Cir. 2013).</p>\n<p>Palomar-Santiago returned to live in the United States, this time without authorization. He was indicted for illegal reentry after deportation under 8 U.S.C. \u00a7 1326. He moved to dismiss the indictment under 8 U.S.C. \u00a7 1326(d), which requires a district court to dismiss a \u00a7 1326 indictment if the defendant proves (1) he exhausted any administrative remedies that may have been available to seek relief against the order; (2) he was deprived of the opportunity for judicial review at the deportation hearing; and (3) that the deportation order was fundamentally unfair. However, under Ninth Circuit precedent, a defendant does not need to prove the first two elements if he can show the crime underlying the original removal was improperly characterized as an aggravated felony and does not need to show the third element if he can show the removal should not have occurred at all.</p>\n<p>The district court held that Palomar-Santiago met his burden in showing his crime was improperly characterized as an aggravated felony and that he was wrongfully removed from the United States. On appeal, the federal government disputed that circuit precedent required the result the district court reached but argued that the precedent is wrong. Lacking authority to overturn circuit precedent, the Ninth Circuit panel affirmed without addressing the merits of the government\u2019s claims.</p>\n",
+    "conclusion": "<p>A defendant seeking dismissal of a prior deportation order must prove each statutory requirement for bringing such a collateral attack. Justice Sonia Sotomayor authored the unanimous opinion of the Court.</p>\n<p>Section 1326(d) requires that defendants charged with unlawful reentry \u201cmay not\u201d challenge their underlying removal orders \u201cunless\u201d they \u201cdemonstrat[e]\u201d each of three conditions. The Ninth Circuit\u2019s interpretation to the contrary\u2014that the first two elements are not required if the noncitizen was removed for an offense that should not have rendered him removable\u2014is incompatible with the text of that provision. The first element, exhaustion of administrative remedies, exists \u201cprecisely so noncitizens can challenge the substance of immigration judges\u2019 decisions.\u201d Additionally, all of the requirements apply regardless of whether the defendant alleges the removal order was procedurally flawed or substantively invalid.</p>\n"
+}

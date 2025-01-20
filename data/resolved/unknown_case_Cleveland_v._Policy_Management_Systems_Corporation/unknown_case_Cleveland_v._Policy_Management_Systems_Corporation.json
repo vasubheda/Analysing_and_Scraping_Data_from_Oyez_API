@@ -1,0 +1,35 @@
+{
+    "ID": 54756,
+    "name": "Cleveland v. Policy Management Systems Corporation",
+    "href": "https://api.oyez.org/cases/1998/97-1008",
+    "view_count": 0,
+    "docket_number": "97-1008",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                919836000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38271"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                927522000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38272"
+        }
+    ],
+    "question": "<p>Does application for, and receipt of, Social Security Disability Insurance reflexively bar alleged victims of discrimination from simultaneously pursuing a claim against their former employers under the 1990 Americans with Disabilities Act?</p>\n",
+    "citation": {
+        "volume": "526",
+        "page": "795",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18685"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/526/795/",
+    "facts_of_the_case": "<p>While working for Policy Management Systems (PMS), Carolyn Cleveland suffered a stroke. Ultimately, she lost her job but was awarded Social Security Disability Insurance (SSDI) benefits because she claimed she was unable to work due to her stroke-induced disability. A week before her SSDI award, Cleveland challenged her termination by PMS as a violation of the 1990 Americans with Disabilities Act (ADA). PMS defended itself by stating that Cleveland's SSDI award negated her ADA suit, because her receipt of SSDI funds proved she was not terminated in spite of an ability to perform her duties. On appeal from adverse rulings in both the lower courts, the Supreme Court granted Cleveland certiorari.</p>\n",
+    "conclusion": "<p>No. In a unanimous decision, the Court held that SSDI and ADA claims do not conflict in such a way as to automatically bar anyone from raising them jointly. The Court explained that when determining SSDI eligibility, the significant ADA question of whether someone would have been capable of performing their job if \"reasonable accommodations\" had been made by their employer, is not considered. As such, the \"reasonable accommodation\" issue is left open for resolution during an ADA claim. The Court added that any inconsistencies between ADA and SSDI claims are even more trivial if the ADA claim is brought prior to an actual SSDI award - as Cleveland did. Even in clear cases, where a contradiction would seem to lie between the two claims, alleged victims must still have the opportunity to present their cases.</p>\n"
+}

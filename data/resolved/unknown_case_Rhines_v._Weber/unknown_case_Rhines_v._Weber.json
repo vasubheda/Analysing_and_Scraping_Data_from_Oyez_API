@@ -1,0 +1,42 @@
+{
+    "ID": 55256,
+    "name": "Rhines v. Weber",
+    "href": "https://api.oyez.org/cases/2004/03-9046",
+    "view_count": 0,
+    "docket_number": "03-9046",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1088398800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39330"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1105509600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39331"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1112162400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39332"
+        }
+    ],
+    "question": "<p>May a federal court stay a habeas petition that included exhausted and unexhausted claims, when the stay was necessary to allow a petitioner to exhaust claims in state court without having the one-year statute of limitations in the Antiterrorism and Effective Death Penalty Act (AEDPA) bar the right to a federal petition?</p>\n",
+    "citation": {
+        "volume": "544",
+        "page": "269",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19184"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/544/269/",
+    "facts_of_the_case": "<p>A South Dakota court convicted Charles Rhines of murder. Rhines filed a habeas corpus petition with a federal district court, alleging various violations of his constitutional rights in the trial and conviction. The district court ruled Rhines failed to exhaust all of his claims in state court. The court stayed Rhines' habeas petition so that Rhines could finish his claims in state court. The stay prevented the one-year statute of limitations in the federal Antiterrorism and Effective Death Penalty Act from barring Rhines from appealing to a federal court once he exhausted state remedies. The state penitentiary warden appealed. The Eight Circuit Court of Appeals reversed and ruled the U.S. Supreme Court's decision in <em>Rose v. Lundy</em> (1982) required the dismissal of a habeas petition that included unexhausted claims.</p>\n",
+    "conclusion": "<p>Yes. In a 9-0 opinion delivered by Justice Sandra Day O'Connor, the Court held that a district court could stay a mixed petition to allow a petitioner to present unexhausted claims in state court and then return to federal court. The Court recognized that its decision in Rose, combined with the one-year statute of limitations required by the AEDPA (enacted 14 years after Rose) could have permanently deprived petitioners like Rhines of the opportunity to seek federal review for unexhausted claims. As a result, federal district courts could grant a stay on a mixed petition if (1) there was good cause for the petitioner's failure to exhaust his claims in state court, (2) the unexhausted claims had merit, and (3) the petitioner was not engaged in intentionally dilatory litigation tactics.</p>\n"
+}

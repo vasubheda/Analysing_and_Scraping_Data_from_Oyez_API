@@ -1,0 +1,42 @@
+{
+    "ID": 55215,
+    "name": "Halbert v. Michigan",
+    "href": "https://api.oyez.org/cases/2004/03-10198",
+    "view_count": 0,
+    "docket_number": "03-10198",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1105077600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39221"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1114405200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39222"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1119502800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39223"
+        }
+    ],
+    "question": "<p>Did the due process and equal protection clauses require the appointment of counsel for defendants, convicted on their pleas, who sought access to a Michigan appellate court?</p>\n",
+    "citation": {
+        "volume": "545",
+        "page": "605",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/20539"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/545/605/",
+    "facts_of_the_case": "<p>Halbert pleaded no contest in a Michigan court to two counts of criminal sexual conduct. The day after Halbert's sentence was imposed, Halbert moved to withdraw his plea. The trial court denied the motion and told Halbert the property remedy for his complaint was the state appellate court. Michigan required a defendant convicted on a guilty or no contest plea to apply for leave of appeal to the state appellate court. Halbert asked the trial court twice to appoint counsel to help him with his application. The trial court refused. Without counsel, Halbert still applied for leave to appeal, which the court of appeals denied. The state supreme court also denied Halbert's application for leave to appeal to that court.</p>\n",
+    "conclusion": "<p>Yes. In a 6-3 opinion delivered by Justice Ruth Bader Ginsburg, the Court held that the due process and equal protection clauses required Michigan to provide counsel for defendants who wanted to appeal to the state appellate court. The Court reasoned that if indigent defendants convicted on their pleas did not have counsel to guide them through Michigan's complex appellate process, their right to appeal would not be meaningful.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55246,
+    "name": "Dodd v. United States",
+    "href": "https://api.oyez.org/cases/2004/04-5286",
+    "view_count": 0,
+    "docket_number": "04-5286",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1101708000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39300"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1111471200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39301"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1119243600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39302"
+        }
+    ],
+    "question": "<p>Is the start date for a federal prisoner's one-year limitation period the date on which the Court \"initially recongized\" the right asserted in an applicant's motion, or the date on which the right is \"made retroactive?\"</p>\n",
+    "citation": {
+        "volume": "545",
+        "page": "",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/20554"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>In 1997, Dodd was convicted under federal law for knowingly and intentionally engaging in a continuing criminal enterprise. On April 4, 2001 he filed a motion that the conviction should be set aside because it was contrary to the U.S. Supreme Court's decision in 1999 in Richardson v. U.S. In that case, the Court held that a jury must agree unanimously that a defendant is guilty of each of the specific violations that constitute the continuing criminal enterprise. The district court rejected Dodd's motion, because it was filed more than a year after the Court decided Richardson. Under federal law, the one-year limitation period in which a prisoner may file a motion to change his sentence, begins \"on the date on which the right asserted was initially recognized by the Supreme Court, if that right has been newly recognized by the Supreme Court and made retroactively applicable to cases on collateral review.\" The 11th Circuit affirmed.</p>\n",
+    "conclusion": "<p>In a 5-4 opinion delivered by Justice Sandra Day O'Connor, the Court held that the text of the federal law \"unequivocally\" stated that the one-year limitation period begins to run on the date on which the Court \"initially recongized\" the right, not the date on which that right was made retroactive. O'Connor wrote that Dodd's reliance on the statute's second clause was misplaced, because that clause merely limited the subsection's applicability to cases where applicants assert rights both \"newly recognized by the Supreme Court and made applicable to cases on collateral reviiew.\" Thus, the date the right was asserted does not apply at all unless the second clause's conditions are met. The Court noted that this would make it difficult for applicants filing second or successive motions to obtain relief, since the Court rarely announces a new rule and makes it retroactive within a year.</p>\n"
+}

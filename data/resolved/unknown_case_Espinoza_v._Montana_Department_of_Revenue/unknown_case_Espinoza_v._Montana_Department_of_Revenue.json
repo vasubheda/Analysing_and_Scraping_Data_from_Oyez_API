@@ -1,0 +1,42 @@
+{
+    "ID": 63157,
+    "name": "Espinoza v. Montana Department of Revenue",
+    "href": "https://api.oyez.org/cases/2019/18-1195",
+    "view_count": 0,
+    "docket_number": "18-1195",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1561698000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54571"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1579672800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54654"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1593493200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54738"
+        }
+    ],
+    "question": "<p>Does a state law that allows for funding for education generally while prohibiting funding for religious schools violate the Religion Clauses or the Equal Protection Clause of the federal Constitution?</p>\n",
+    "citation": {
+        "volume": "591",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27704"
+    },
+    "term": "2019",
+    "description": "A case in which the Court held a Montana state law that provides funding for education but excludes religious education options violates the Free Exercise Clause of the federal Constitution.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/591/18-1195/",
+    "facts_of_the_case": "<p>Petitioners Kendra Espinoza and others are low-income mothers who applied for scholarships to keep their children enrolled in Stillwater Christian School, in Kalispell, Montana. The Montana legislature enacted a tax-credit scholarship program in 2015 to provide a modest tax credit to individuals and businesses who donate to private, nonprofit scholarship organizations. Shortly after the program was enacted, the Montana Department of Revenue promulgated an administrative rule (\u201cRule 1\u201d) prohibiting scholarship recipients from using their scholarships at religious schools, citing a provision of the state constitution that prohibits \u201cdirect or indirect\u201d public funding of religiously affiliated educational programs.</p>\n<p>Espinoza and the other mothers filed a lawsuit in state court challenging Rule 1. The court determined that the scholarship program was constitutional without Rule 1 and granted the plaintiffs\u2019 motion for summary judgment. On appeal, the Department of Revenue argued that the program is unconstitutional without Rule 1. The Montana Supreme Court agreed with the Department and reversed the lower court.\u00a0</p>\n",
+    "conclusion": "<p>The application of the Montana Constitution\u2019s \u201cno-aid\u201d provision to a state program providing tuition assistance to parents who send their children to private schools discriminated against religious schools and the families whose children attend or hope to attend them in violation of the Free Exercise Clause. Chief Justice John Roberts authored the opinion on behalf of the 5-4 majority.</p>\n<p>The Court first noted that the Free Exercise Clause \u201cprotects religious observers against unequal treatment\u201d and against \u201claws that impose special disabilities on the basis of religious status.\u201d In this case, Montana\u2019s no-aid provision excluded religious schools from public benefits solely because of religious status. As such, the law must be subject to strict scrutiny review; that is, the government must show that its action advances \u201c\u2018interests of the highest order\u201d and that the action is \u201cnarrowly tailored in pursuit of those interests.\u201d Montana\u2019s interest in this case\u2014which the Court described as creating greater separation of church and state than the federal Constitution requires\u2014does not satisfy strict scrutiny given its infringement of free exercise. Because the Free Exercise Clause barred the application of Montana\u2019s no-aid provision, the Montana Supreme Court lacked the authority to invalidate the program on the basis of that provision.\u00a0</p>\n<p>Justice Clarence Thomas authored a concurring opinion in which Justice Neil Gorsuch joined, opining that the Court\u2019s interpretation of the Establishment Clause (not at issue in this case) hampers free exercise rights.\u00a0</p>\n<p>Justice Samuel Alito and Justice Gorsuch each filed their own separate concurrences. Justice Alito argued, as he did in dissenting from the Court\u2019s decision earlier this term in <em>Ramos v. Louisiana</em>, that original motivation should have no bearing on the present constitutionality of a provision of law, yet even without that consideration, the majority reached the correct conclusion in this case. Justice Gorsuch argued that the Court\u2019s characterization of the Montana Constitution as discriminating based on \u201creligious status\u201d and not \u201creligious use,\u201d is dubious at best.</p>\n<p>Justice Ruth Bader Ginsburg filed a dissenting opinion in which Justice Elena Kagan joined, arguing that the Montana Supreme Court\u2019s decision does not place a burden on petitioners\u2019 religious exercise and thus does not violate the Free Exercise Clause. The Court\u2019s precedents establish that neutral government action is not unconstitutional solely because it fails to benefit religious exercise.</p>\n<p>Justice Stephen Breyer filed a dissenting opinion, in which Justice Elena Kagan joined in part. Justice Breyer argued that the majority\u2019s\u00a0approach and conclusion risk the kind of entanglement and conflict that the Religion Clauses are intended to prevent. Instead, Justice Breyer opined that the Court\u2019s decision in Locke\u2014upholding the application of a no-aid provision in Washington State based on the conclusion that the Free Exercise Clause permitted Washington to forbid state-scholarship funds for students pursuing devotional theology degrees\u2014controlled the outcome in this case, in which the no-aid provision was \u201cmaterially similar.\u201d</p>\n<p>Justice Sonia Sotomayor filed a separate dissenting opinion, arguing that the Court in this case resolved a constitutional question not presented, thereby violating \u201cArticle III principles older than the Religion Clause\u201d itself. Moreover, Justice Sotomayor continued, the Court answered incorrectly that question it should not have addressed in the first place.</p>\n"
+}

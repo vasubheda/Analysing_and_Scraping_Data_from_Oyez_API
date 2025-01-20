@@ -1,0 +1,42 @@
+{
+    "ID": 55552,
+    "name": "Locke v. Karass",
+    "href": "https://api.oyez.org/cases/2008/07-610",
+    "view_count": 0,
+    "docket_number": "07-610",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1203400800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40138"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1223269200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40139"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1232517600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40140"
+        }
+    ],
+    "question": "<p>Do union requirements that nonmember employees pay a service fee through a pooling arrangement, and used to fund litigation that may not specifically be for the benefit of those nonmembers, violate the First Amendment rights of those nonmember employees?</p>\n",
+    "citation": {
+        "volume": "555",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20814"
+    },
+    "term": "2008",
+    "description": "A case in which the Court found that fees paid by union nonmembers which were not used to specifically benefit those nonmembers did not violate the First Amendment.  ",
+    "justia_url": null,
+    "facts_of_the_case": "<p>After the Maine State Employees Association (a union representing state workers) negotiated a new collective bargaining agreement for certain employees, nonmembers voiced their disapproval with the agreement's requirement that they pay a \"service fee\" to the union as its exclusive bargaining agent. The service fee included an affiliation fee paid to the Service Employees International Union through a general pooling arrangement, meaning that the nonmembers were contributing funds to an affiliate for litigation not specifically for their own benefit. The nonmembers filed suit in the U.S. District Court for the District of Maine claiming that the service fee violated their First amendment rights. The district court granted summary judgment in favor of the union.</p>\n<p>The U.S. Court of Appeals for the First Circuit affirmed, applying the Court's decision in <em>Lehnert</em> to determine that the nonmember employees' First Amendment rights were not implicated by the service fee. Under the <em>Lehnert</em> test, chargeable activities must (1) \"be substantively related to bargaining and ultimately inure to the benefit of local union members, (2) be justified by the government's vital policy interest in labor peace and avoiding free riders, and (3) not significantly add to the burdening of free speech that is inherent in the allowance of agency.\"</p>\n",
+    "conclusion": "<p>No. In a unanimous decision authored by Justice Stephen G. Breyer, the Supreme Court held that the First Amendment permits a local union to charge nonmembers for national litigation expenses so long as 1) the subject matter is of a kind that would be chargeable if the litigation were local and 2) the charge is reciprocal in nature (the contributing local union reasonably expects other local unions to contribute similarly). The Court reasoned that the fees paid by nonmembers of the Maine State Employees Association that funded national litigation expenses met this test and therefore did not violate nonmembers' First Amendment rights.</p>\n<p>Justice Samuel A. Alito filed a separate concurring opinion joined by Chief Justice John G. Roberts. Alito noted the Supreme Court did not reach the question of what \"reciprocity\" means, acknowledging it was not contested by either party.</p>\n"
+}

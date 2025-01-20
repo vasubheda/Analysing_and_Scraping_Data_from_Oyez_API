@@ -1,0 +1,42 @@
+{
+    "ID": 63106,
+    "name": "Ramos v. Louisiana",
+    "href": "https://api.oyez.org/cases/2019/18-5924",
+    "view_count": 0,
+    "docket_number": "18-5924",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1552885200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54471"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1570424400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54582"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1587358800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54688"
+        }
+    ],
+    "question": "<p>Does the Fourteenth Amendment fully incorporate the Sixth Amendment guarantee of a unanimous verdict against the states?</p>\n",
+    "citation": {
+        "volume": "590",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27672"
+    },
+    "term": "2019",
+    "description": "A case in which the Court held that the Fourteenth Amendment fully incorporates the Sixth Amendment\u2019s guarantee of a unanimous verdict against the states.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/590/18-5924/",
+    "facts_of_the_case": "<p>Evangelisto Ramos was charged with second-degree murder and exercised his right to a jury trial. After deliberating, ten of the twelve jurors found that the prosecution had proven its case against Ramos beyond a reasonable doubt, while two jurors reached the opposite conclusion. Under Louisiana\u2019s non-unanimous jury verdict law, agreement of only ten jurors is sufficient to enter a guilty verdict, so Ramos was sentenced to life in prison without the possibility of parole.</p>\n<p>Ramos appealed his case, and the state appellate court affirmed the lower court. The Louisiana Supreme Court denied review.</p>\n",
+    "conclusion": "<p>The Sixth Amendment, as incorporated against the states, requires that a jury find a criminal defendant guilty by a unanimous verdict. Justice Neil Gorsuch authored the primary opinion.</p>\n<p>In Part I, Justice Neil Gorsuch (writing for a majority: himself and Justices Ruth Bader Ginsburg, Stephen Breyer, Sonia Sotomayor, and Brett Kavanaugh) noted that the original public meaning of the Sixth Amendment's right to trial by jury, as well as its history, support an interpretation that it requires guilt be determined by a unanimous jury. Because this right is \u201cfundamental to the American scheme of justice,\u201d it is incorporated against the states (that is, it applies to state governments as well) by the Due Process Clause of the Fourteenth Amendment. Thus, the Sixth Amendment requires a unanimous verdict to support a conviction in state court.</p>\n<p>In Part II-A, Justice Gorsuch, writing for the same majority, explained how the Court\u2019s jurisprudence came to allow Oregon and Louisiana to permit non-unanimous jury verdicts, describing the fractured plurality opinions in those cases (<em>Apodaca v. Oregon</em> and <em>Johnson v. Louisiana</em>) with a fifth vote from Justice Lewis Powell that was \u201cneither here nor there\u201d but effectively permitted those states to proceed with non-unanimous jury verdicts.</p>\n<p>In Part II-B, Justice Gorsuch wrote for a plurality of the Court (himself, and Justices Ginsburg, Breyer, Sotomayor), describing the confusion surrounding the <em>Apodaca</em> decision and the apparent conflict in the Court\u2019s precedent as to whether the Sixth Amendment requires unanimous jury verdicts.</p>\n<p>In Part III, Justice Gorsuch, again writing for the majority, rejected Louisana\u2019s arguments for non-unanimous jury verdicts, finding that the drafting history of the Sixth Amendment is ambiguous at best, the <em>Apodaca</em> plurality\u2019s reasoning was \u201cskimpy,\u201d and most importantly, that the <em>Apodaca</em> plurality \u201csubjected the ancient guarantee of a unanimous jury verdict to its own functionalist assessment.\u201d</p>\n<p>In Part IV-A, Justice Gorsuch, writing for a plurality (himself and Justices Ginsburg and Breyer), addressed the dissent\u2019s argument that the principle of stare decisis required the Court to stand by its decision in <em>Apodaca</em> and uphold Louisiana\u2019s non-unanimous jury law. Justice Gorsuch argued that under no view can the plurality opinion in <em>Apodaca</em> be controlling on today\u2019s Court.</p>\n<p>Writing again for a majority in Part IV-B-1, Justice Gorsuch noted that even if the Court accepted the premise that <em>Apodaca</em> established a precedent, no one on the Court today would say it was rightly decided, and \u201cstare decisis isn\u2019t supposed to be the art of methodically ignoring what everyone knows to be true.\u201d</p>\n<p>For the four-justice plurality (Justice Kavanaugh did not join this part), Justice Gorsuch in Part IV-B-2 addressed the reliance interest Louisiana and Oregon have in the security of their final criminal judgments. Justice Gorsuch minimized the significance of the state\u2019s reliance interests and pointed instead to the reliance interests of the American people in having a just criminal jury that uniformly requires a unanimous verdict for a finding of guilt.</p>\n<p>Justice Sotomayor filed an opinion concurring as to all but Part IV-A, writing separately to raise three points: \u201cFirst, overruling precedent here is not only warranted, but compelled. Second, the interests at stake point far more clearly to that outcome than those in other recent cases. And finally, the racially biased origins of the Louisiana and Oregon laws uniquely matter here.\u201d</p>\n<p>Justice Brett Kavanaugh wrote an opinion concurring in part to explain his view of how stare decisis applies in this case, laying out seven factors, which he argued, support overruling <em>Apodaca</em> in this case.</p>\n<p>Justice Clarence Thomas filed an opinion concurring in the judgment. Justice Thomas noted from the outset that the Sixth Amendment right to trial by jury includes protection against non-unanimous jury verdicts and would thus resolve the question there. He would further find that the Sixth Amendment's right to a jury trial requires a unanimous verdict to support a conviction in federal court, but would find that the Privileges or Immunities Clause incorporates it against the states.</p>\n<p>Justice Samuel Alito filed a dissenting opinion, in which Chief Justice John Roberts joined, and which Justice Elena Kagan joined as to all but Part III-D. Justice Alito argued that stare decisis requires following <em>Apodaca</em> and that in overruling that case, the majority \u201ccast[] aside an important and long-established decision with little regard for the enormous reliance the decision has engendered.\u201d In the part of the dissent that Justice Kagan did not join, Justice Alito argued that the reliance in this case \u201cfar outstrips\u201d the reliance interests in other recent cases where the dissenters in those cases claimed reliance interests.</p>\n"
+}

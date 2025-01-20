@@ -1,0 +1,42 @@
+{
+    "ID": 54091,
+    "name": "Moreau v. Klevenhagen",
+    "href": "https://api.oyez.org/cases/1992/92-1",
+    "view_count": 0,
+    "docket_number": "92-1",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                730965600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37033"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                736405200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37034"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                718261200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53744"
+        }
+    ],
+    "question": "<p>Can the Sheriff\u2019s department take advantage of the compensatory time exception from the FLSA absent a collective bargaining agreement in a state that prohibits collective bargaining agreements, but employees have a union representative for other purposes?</p>\n",
+    "citation": {
+        "volume": "508",
+        "page": "22",
+        "year": "1993",
+        "href": "https://api.oyez.org/case_citation/case_citation/18020"
+    },
+    "term": "1992",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/508/22/",
+    "facts_of_the_case": "<p>The Fair Labor Standards Act (FLSA) allows public employers to give employees compensatory time off instead of overtime pay in some situations.  The employees of the Harris County Sheriff\u2019s Department had a union representative who dealt with workers' compensation and filing grievances, but Texas law prohibited collective bargaining agreements.  Each employee had an individual employment agreement with the Sheriff\u2019s Department. These agreements provided that employees would receive 1 \u00bd hours of compensatory time for each hour of overtime work.</p>\n<p>Lynwood Moreau, president of the union, sued the Sheriff\u2019s Department for giving compensatory time instead of overtime pay.  He argued that where there is a designated union representative, the FLSA requires a collective bargaining agreement to authorize this kind of compensation.  The Sheriff\u2019s Department argued that, because Texas prohibited collective bargaining agreements, there was no properly designated union representative, and the individual employment agreements were effective.  The district court ruled in favor of the Sheriff\u2019s Office and the U.S. Court of Appeals for the Fifth Circuit affirmed.</p>\n",
+    "conclusion": "<p>In a unanimous decision, Justice John Paul Stevens wrote the majority opinion affirming the lower court.  The Court held that the individual employment agreements authorized compensatory time.  The union representative did not qualify under the FSLA because, under Texas law, he could not enter into a collective bargaining agreement.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55486,
+    "name": "Klein & Co. Futures, Inc. v. Board of Trade of the City of New York",
+    "href": "https://api.oyez.org/cases/2007/06-1265",
+    "view_count": 0,
+    "docket_number": "06-1265",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1179723600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39957"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1193634000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39958"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1198821600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41550"
+        }
+    ],
+    "question": "<p>Do futures commission merchants, who buy and sell futures contracts on behalf of others, \"engage[] in [...] transaction[s]\" subject to the rules of a commodity board of trade and therefore have standing to sue under Section 22 of the Commodities Exchange Act?</p>\n",
+    "citation": {
+        "volume": "552",
+        "page": "1085",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/19409"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>In his role as chairman of a settlement committee of the Board of Trade of the City of New York, Norman Eisler allegedly manipulated the daily settlement prices of commodities futures in order to conceal bad investments. During this period Eisler's company purchased futures contracts through its broker, the commodity futures merchant Klein &amp; Co. Futures, Inc., but the alleged price manipulation distorted Klein's appraisal of Eisler's ability to pay. When the scheme unravelled, Eisler's company could not meet its obligations and Klein was forced to absorb the loss.</p>\n<p>Klein sued Eisler and the Board of Trade under Section 22 of the Commodities Exchange Act (CEA), claiming that the Board of Trade failed to enforce rules that would have prevented the manipulation. The CEA requires boards of trade to set rules governing the market, and Section 22 allows private parties to sue for failure to enforce the rules as long as the party was \"engaged in any transaction\" subject to the board's rules.</p>\n<p>The U.S. District Court dismissed Klein's claim for lack of standing to sue, and the U.S. Court of Appeals for the Second Circuit affirmed. The Second Circuit interpreted Section 22 as including buyers and sellers of futures contracts but excluding the commodity futures merchants who conduct the actual trades on behalf of their customers. The court ruled that Klein's financial loss was not sufficient to grant it standing, because the loss was suffered in the aftermath of the futures trading and not during the trading itself.</p>\n",
+    "conclusion": "<p>Dismissed pursuant to Rule 46 as a result of settlement.</p>\n"
+}

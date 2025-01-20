@@ -1,0 +1,42 @@
+{
+    "ID": 55946,
+    "name": "Descamps v. United States",
+    "href": "https://api.oyez.org/cases/2012/11-9540",
+    "view_count": 0,
+    "docket_number": "11-9540",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1346389200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41199"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1357538400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41200"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1371704400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41201"
+        }
+    ],
+    "question": "<p>Did the United States properly plead and prove the defendant's prior violent felony convictions for application of an enhanced sentence under the Armed Career Criminal Act?</p>\n",
+    "citation": {
+        "volume": "570",
+        "page": "254",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19868"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that it was improper to apply the categorical approach in which the courts apply elements of a prior conviction with elements of a generic crime in order to enhance a sentence under the ACCA. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/570/254/",
+    "facts_of_the_case": "<p>On September 13, 2007, a jury found Matthew R. Descamps guilty of felony possession of a firearm and ammunition. Descamps already had five previous felony convictions. Under the Armed Career Criminal Act (\"ACCA\"), criminals with three prior convictions for violent felonies must receive a minimum sentence of 15 years for any subsequent felony conviction. The ACCA defines a violent felony as any crime involving threatened use of physical force\u2014or burglary\u2014and punishable by imprisonment for a term exceeding one year. The United States District Court for the Eastern District of Washington concluded that Descamps' prior convictions of robbery, burglary, and felony harassment constituted three predicate violent felonies under the ACCA. Subsequently, the district court sentenced Descamps to 262 months in custody with 5 years of supervised release.</p>\n<p>Descamps appealed his sentence to the United States Court of Appeals for the Ninth Circuit, arguing that all prior convictions used to enhance a sentence under the ACCA must be charged in the indictment and submitted to a jury. A judge may only increase the sentence if the three prior convictions are proved beyond a reasonable doubt. The appellate court disagreed and affirmed the sentence.</p>\n",
+    "conclusion": "<p>No. Justice Elena Kagan delivered the opinion for the 8-1 majority. The Supreme Court held that Descamps' ACCA enhancement was improper because a felony burglary conviction under the California Penal Code is not a generic burglary conviction. To count for sentence enhancement under the ACCA, a prior burglary conviction must at least match a conviction using the traditional elements of the offense: \"breaking and entering a building.\" The Court also held that the Ninth Circuit's examination of Descamps' burglary plea hearing transcript exceeded the purview of the Court of Appeals. The Supreme Court reiterated that sentencing courts may only consult outside documents to ascertain the basis of the defendant's conviction (\"modified categorical approach\") when the statute defines elements in the alternative\u2014for example, \"breaking and entering a building [generic] or automobile [non-generic].\" California's burglary statute does not require \"unlawful entry\" as an element, or an alternative element, of the offense, so courts may not use the modified categorical approach. Allowing a sentencing court to determine, from the record, whether a defendant's prior conviction could have satisfied the traditional elements of the offense \"raises serious Sixth Amendment concerns,\" Such as encouraging ill-advised guilty pleas.</p>\n<p>Justice Anthony M. Kennedy wrote a concurring opinion in which he agreed with the majority opinion's concern that defendants would enter guilty pleas or let certain facts go uncontested without considering the potential consequences under the ACCA. He also expressed concern over the burden the majority's opinion places on state legislatures to revise their statutes. In his opinion concurring in the judgment, Justice Clarence Thomas argued that the ACCA framework amounts to a judicial factfinding expedition that runs counter to what is allowed by previous precedent. However, because the majority opinion limited the circumstances under which courts may consult documents relating to the defendant's prior conviction, Thomas concurred in the judgment.</p>\n<p>Justice Samuel Alito wrote a dissenting opinion in which he contended that the majority opinion artificially limits the reach of the ACCA and treats similar convictions differently based solely on the arbitrary wording of state statutes. To remedy this problem, he argued that sentencing courts should always be permitted to consult the record to determine whether the defendant's conviction matched the generic offense.</p>\n"
+}

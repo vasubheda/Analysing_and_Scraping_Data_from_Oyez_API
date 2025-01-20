@@ -1,0 +1,42 @@
+{
+    "ID": 56143,
+    "name": "Reyes Mata v. Lynch",
+    "href": "https://api.oyez.org/cases/2014/14-185",
+    "view_count": 0,
+    "docket_number": "14-185",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1421388000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41745"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1430283600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41746"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1434344400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52748"
+        }
+    ],
+    "question": "<p>Did the U.S. Court of Appeals for the Fifth Circuit err in holding that it did not have the jurisdiction to review a Board of Immigration Appeals decision not to suspend the 90-day filing limitation?</p>\n",
+    "citation": {
+        "volume": "576",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20973"
+    },
+    "term": "2014",
+    "description": "A case in which the Court held that circuit courts of appeals have jurisdiction over Board of Immigration Appeals decisions to deny motions to reopen immigration proceedings.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/576/143/",
+    "facts_of_the_case": "<p>Noel Reyes Mata, a citizen of Mexico, was convicted of assaulting a woman he was dating; he was deported in 2010. His appeal to the Board of Immigration Appeals (BIA) was dismissed after his attorney failed to file an appellate brief. Mata subsequently moved to reopen his case based on ineffective assistance of counsel, but the BIA denied Mata's motion as untimely because it was filed well after the 90 days allowed. Mata appealed the BIA's denial of his motion to the U.S. Court of Appeals for the Fifth Circuit and argued that the BIA should not have enforced the filing period limitation because his attorney's failure to file a brief deprived him of his due process rights. The appellate court held that such a motion was subject to the complete discretion of the BIA, and thus the appellate court lacked the jurisdiction to review the decision.</p>\n",
+    "conclusion": "<p>Yes. Justice Elena Kagan delivered the opinion for the 8-1 majority. The Court held that precedent establishes that circuit courts of appeals have jurisdiction to review an alien\u2019s appeal of the Board of Immigration Appeals (BIA) decision to deny a motion to reopen proceedings. Although Congress has limited the appellate courts\u2019 authority over BIA decisions in other ways, this authority has remained in place. Additionally, while the appellate courts may lack the jurisdiction to decide the merits of whether the case should be reopened, the lack of jurisdiction over that issue does not affect the appellate court\u2019s jurisdiction over the BIA\u2019s decision to deny the motion.</p>\n<p>Justice Clarence Thomas wrote a dissenting opinion in which he argued that, prior to determining whether it had jurisdiction, the U.S. Court of Appeals for the Fifth Circuit should have construed the ambiguous motion in question as either invoking statutory relief or requesting that the BIA assert its inherent authority to reopen the case.</p>\n"
+}

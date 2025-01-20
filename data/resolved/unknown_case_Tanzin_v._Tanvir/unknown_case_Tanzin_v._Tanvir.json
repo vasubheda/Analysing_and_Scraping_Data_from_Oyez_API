@@ -1,0 +1,42 @@
+{
+    "ID": 63190,
+    "name": "Tanzin v. Tanvir",
+    "href": "https://api.oyez.org/cases/2020/19-71",
+    "view_count": 0,
+    "docket_number": "19-71",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1574402400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54608"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1601960400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54761"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1607580000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54809"
+        }
+    ],
+    "question": "<p>Does the Religious Freedom Restoration Act of 1993, 42 U.S.C. \u00a7 2000bb, permit lawsuits seeking money damages against individual federal employees?</p>\n",
+    "citation": {
+        "volume": "592",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27722"
+    },
+    "term": "2020",
+    "description": "A case in which the Court held that the Religious Freedom Restoration Act of 1993, 42 U.S.C. \u00a7 2000bb, permits lawsuits seeking money damages against individual federal employees.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/592/19-71/",
+    "facts_of_the_case": "<p>The plaintiffs, Muslim men born outside of the U.S. but living lawfully inside the country, allege that the Federal Bureau of Investigation (FBI) placed their names on the national \u201cNo Fly List,\u201d despite posing no threat to aviation, in retaliation for their refusal to become FBI informants reporting on fellow Muslims. They sued the agents in their official and individual capacities in U.S. federal court under the First Amendment, the Fifth Amendment, the Administrative Procedure Act, and the RFRA. They claim that the listing of their names substantially burdened their exercise of religion, in violation of the Religious Freedom Restoration Act (\u201cRFRA\u201d), because their refusal was compelled by Muslim tenets. Under RFRA, \u201c[a] person whose religious exercise has been burdened in violation of this section may assert that violation as a claim or defense in a judicial proceeding and obtain appropriate relief against a government.\u201d\u00a0</p>\n<p>The U.S. District Court dismissed the claims against the agents in Appeals for the Second Circuit, a panel of which reversed the lower court. One of the agents, Tanzin, moved for rehearing en banc, which the court denied, over the dissent of several judges.</p>\n",
+    "conclusion": "<p>The express remedies of the Religious Freedom Restoration Act of 1993 (RFRA) permit litigants to obtain money damages against federal officials in their individual capacities. Justice Clarence Thomas delivered the opinion of the unanimous (8-0) Court.</p>\n<p>RFRA states that persons may sue and \u201cobtain appropriate relief against a government,\u201d including officials of the United States. In using this language, RFRA adopts a meaning of the word \u201cgovernment\u201d different from its ordinary meaning\u2014one that encompasses individual officials. The phrase \u201cappropriate relief\u201d is \u201copen-ended,\u201d and monetary damages have long been awarded as an appropriate form of relief. Thus, the best understanding of RFRA is that it permits lawsuits seeking money damages against individual federal officials.</p>\n<p>Justice Amy Coney Barrett took no part in the consideration or decision of this case.</p>\n"
+}

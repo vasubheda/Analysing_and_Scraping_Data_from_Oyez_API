@@ -1,0 +1,42 @@
+{
+    "ID": 55496,
+    "name": "Gonzalez v. United States",
+    "href": "https://api.oyez.org/cases/2007/06-11612",
+    "view_count": 0,
+    "docket_number": "06-11612",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1190696400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39983"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1199772000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39984"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1210568400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39985"
+        }
+    ],
+    "question": "<p>May a magistrate judge conduct voir dire if she has received approval from attorneys for both sides, but has not directly sought or received approval from the defendant?</p>\n",
+    "citation": {
+        "volume": "553",
+        "page": "242",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20720"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/553/242/",
+    "facts_of_the_case": "<p>Homero Gonzalez was tried with a co-defendant on several drug-related charges. He pled not guilty and opted for a jury trial. When jury selection began, a magistrate judge who had presided over several pretrial matters announced that she would conduct voir dire, and sought consent from the parties. Attorneys for the government and for Gonzalez expressly agreed. Gonzalez, who was being assisted by a translator, was not directly asked to consent, nor did he affirmatively object. He argued on appeal that he had the right to a new trial because he did not give his personal consent for a magistrate to conduct the jury interviews.</p>\n",
+    "conclusion": "<p>The Court held 8-1 that express consent by counsel suffices to permit a magistrate judge to preside over jury selection in a felony trial, stating that such \"scheduling matters\" are among those for which agreement by counsel generally controls. Seven Justices formed the majority opinion written by Justice Anthony Kennedy with Justice Antonin Scalia concurring in the judgment and Justice Clarence Thomas dissenting.</p>\n"
+}

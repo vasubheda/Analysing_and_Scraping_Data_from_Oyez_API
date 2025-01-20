@@ -1,0 +1,35 @@
+{
+    "ID": 54698,
+    "name": "Wyoming v. Houghton",
+    "href": "https://api.oyez.org/cases/1998/98-184",
+    "view_count": 0,
+    "docket_number": "98-184",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                916120800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38164"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                923288400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38165"
+        }
+    ],
+    "question": "<p>May police officers, with probable cause to search a car, inspect personal items belonging to its passengers without violating the Fourth Amendment's protection against unreasonable searches?</p>\n",
+    "citation": {
+        "volume": "526",
+        "page": "295",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18627"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/526/295/",
+    "facts_of_the_case": "<p>After pulling Sandra Houghton's friend over during a routine traffic stop, a Wyoming Highway Patrol officer noticed a needle in the driver's shirt pocket. Upon learning that the needle was used for drugs, the officer searched the car and Houghton's purse, where he found more drug paraphernalia. Houghton challenged her subsequent arrest on drug charges, alleging that the officer's search of her purse was unconstitutional. On appeal from an adverse appeals court ruling, overturning a favorable trial court decision, the Supreme Court granted Wyoming certiorari.</p>\n",
+    "conclusion": "<p>Yes. In a 6-to-3 decision the Court held that so long as there is probable cause to search a stopped vehicle, all subsequent searches of its contents are legal as well. The Court added that such searches are especially warranted if aimed at looking into objects or personal belongings capable of concealing items that are the object of the search.</p>\n"
+}

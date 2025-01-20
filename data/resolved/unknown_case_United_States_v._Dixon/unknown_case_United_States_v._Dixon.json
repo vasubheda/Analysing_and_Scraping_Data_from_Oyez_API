@@ -1,0 +1,42 @@
+{
+    "ID": 54145,
+    "name": "United States v. Dixon",
+    "href": "https://api.oyez.org/cases/1992/91-1231",
+    "view_count": 0,
+    "docket_number": "91-1231",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                723276000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37138"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                741243600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37139"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                704350800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53530"
+        }
+    ],
+    "question": "<p>Does the Double Jeopardy Clause bar prosecution of a defendant on substantive criminal charges based on the same conduct for which the defendant previously has been held in contempt of court?</p>\n",
+    "citation": {
+        "volume": "509",
+        "page": "688",
+        "year": "1993",
+        "href": "https://api.oyez.org/case_citation/case_citation/18074"
+    },
+    "term": "1992",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/509/688/",
+    "facts_of_the_case": "<p>Alvin J. Dixon was arrested on second-degree murder charges and released on bond with an order not to commit any criminal offense.  Violation of the order would result in prosecution for contempt of court.  While awaiting trial, Dixon was arrested for possession of cocaine with intent to distribute.  The Superior Court of the District of Columbia found Dixon guilty of contempt.  Dixon moved to dismiss a subsequent indictment for cocaine possession, arguing that it violated the Fifth Amendment protection against double jeopardy.  The Superior Court granted the motion.</p>\n<p>Michael Foster\u2019s wife obtained a civil protection order requiring that he not \u201cmolest, assault, or in any manner threaten or physically abuse\u201d her, or he would face prosecution for contempt of court.  Foster\u2019s wife later moved to have him held in contempt for threatening her.  Foster was found guilty of contempt on two occasions, but acquitted on three others.  Foster was later indicted on several counts of assault arising out of those same threats.  He moved to have the charges dismissed arguing that it violated double jeopardy.  The trial court denied the motion.</p>\n<p>The U.S. Court of Appeals for the District of Columbia Circuit consolidated the two cases, holding that the subsequent prosecutions were barred by <i>Grady v. Corbin</i>, which held that subsequent prosecutions violate the double jeopardy clause if the two prosecutions require proof of the same \u201cessential element.\u201d</p>\n",
+    "conclusion": "<p>Yes.  Justice Antonin Scalia delivered the judgment of the court.  Though not agreeing on an opinion, five justices agreed that the proper test was whether the offense in the second prosecution contained the same elements as the offense in the first.  Five justices also agreed that double jeopardy did not bar the subsequent prosecutions in either case.  Justice Scalia noted that <i>Grady</i> was wrongly decided and must be overruled.  Chief Justice William H. Rehnquist, Justice Sandra Day O\u2019Connor, Justice Anthony M. Kennedy, and Justice Clarence Thomas joined in the judgment.</p>\n<p>Chief Justice Rehnquist concurred in part and dissented in part, writing that the subsequent prosecutions did not violate double jeopardy under the same elements test.  Justice O\u2019Connor and Justice Thomas joined in the opinion.  Justice Byron R. White concurred in the judgment in part and dissented in part, arguing that double jeopardy bars prosecution for an offense if the accused has already been held in contempt for its commission.  Justice John Paul Stevens and Justice David H. Souter joined in the opinion.  Justice Harry A. Blackmun concurred in the judgment in part and dissented in part, writing that none of the subsequent prosecutions were barred because the interests served by contempt proceedings were fundamentally different from the interests served by criminal prosecution.  Justice Souter concurred in the judgment in part and dissented in part, arguing that the same elements test was inadequate and <i>Grady</i> had been correctly decided.  Justice Stevens joined in the opinion</p>\n"
+}

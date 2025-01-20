@@ -1,0 +1,33 @@
+{
+    "ID": 63692,
+    "name": "Republic of Hungary v. Simon",
+    "href": "https://api.oyez.org/cases/2024/23-867",
+    "view_count": 0,
+    "docket_number": "23-867",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1719205200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55480"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1733205600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55547"
+        }
+    ],
+    "question": "<p>1. Does historical commingling of assets suffice to establish that proceeds of seized property have a commercial nexus with the United States under the expropriation exception to the Foreign Sovereign Immunities Act?</p>\n<p>2. Must a plaintiff make out a valid claim that an exception to the FSIA applies at the pleading stage, rather than merely raising a plausible inference?</p>\n<p>3. Does a sovereign defendant bear the burden of producing evidence to affirmatively disprove that the proceeds of property taken in violation of international law have a commercial nexus with the United States under the expropriation exception to the FSIA?</p>\n<p>\u00a0</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28026"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether and how the expropriation exception to the Foreign Sovereign Immunities Act applies in cases involving seized property, specifically regarding the requirements for establishing a commercial nexus with the United States and the burden of proof at different stages of litigation.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-867/"
+}

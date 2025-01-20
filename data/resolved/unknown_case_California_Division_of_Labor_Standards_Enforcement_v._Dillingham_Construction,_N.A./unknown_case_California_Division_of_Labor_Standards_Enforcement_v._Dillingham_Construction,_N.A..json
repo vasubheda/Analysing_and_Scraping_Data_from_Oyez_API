@@ -1,0 +1,35 @@
+{
+    "ID": 54528,
+    "name": "California Division of Labor Standards Enforcement v. Dillingham Construction, N.A.",
+    "href": "https://api.oyez.org/cases/1996/95-789",
+    "view_count": 0,
+    "docket_number": "95-789",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                847173600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37849"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                856245600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37850"
+        }
+    ],
+    "question": "<p>Does the Employee Retirement Income Security Act of 1974 preempt California's prevailing wage law to the extent that the law prohibits payment of an apprentice wage to an apprentice trained in an unapproved program?</p>\n",
+    "citation": {
+        "volume": "519",
+        "page": "316",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18457"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/519/316/",
+    "facts_of_the_case": "<p>California requires public works project contractors to pay its workers the prevailing wage in the project's locale, but allows payment of a lower wage to participants in state approved apprenticeship programs. Dillingham Construction subcontracted some of the work on its state contract to respondent Arceo, doing business as Sound Systems Media (SSM). SSM entered a collective bargaining agreement with Dillingham that included an apprenticeship wage scale and provided for affiliation with an apprenticeship committee that ran an unapproved program. SSM used that committee for its apprentices, to whom it paid the apprentice wage. The California Division of Apprenticeship Standards (the Division) issued a notice of noncompliance to both Dillingham and SSM, charging that paying the apprentice wage, rather than the prevailing journeyman wage, to apprentices from an unapproved program violated the state's prevailing wage law. Dillingham sued to prevent the Division from interfering with payment under the subcontract. Dillingham alleged that the Employee Retirement Income Security Act of 1974 (ERISA) preempted enforcement of the state law. The District Court ruled in favor of the Division. In reversing, the Court of Appeals held that the apprenticeship program was an \"employee welfare benefit plan\" under the ERISA, and that the state law \"relate[d] to\" the plan and was therefore superseded by it.</p>\n",
+    "conclusion": "<p>No. In a unanimous decision, authored by Justice Clarence Thomas, the Court ruled that California's prevailing wage law does not \"relate to\" employee benefit plans, and thus is not preempted by the Employee Retirement Income Security Act of 1974.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55954,
+    "name": "Los Angeles County Flood Control District v. Natural Resources Defense Council, Inc.",
+    "href": "https://api.oyez.org/cases/2012/11-460",
+    "view_count": 0,
+    "docket_number": "11-460",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1340600400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41222"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1354600800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41223"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1357624800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41224"
+        }
+    ],
+    "question": "<p>Can the transfer of water from one portion of a river to another portion via a manmade improvement for the purpose of controlling storm water runoff still be considered a \"discharge\" under the Clean Water Act?</p>\n",
+    "citation": {
+        "volume": "568",
+        "page": "78",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19876"
+    },
+    "term": "2012",
+    "description": "A case in which the Court found that transferring polluted water from one portion of a waterway to another portion of the same waterway did not constitute pollution under the Clean Water Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/568/78/",
+    "facts_of_the_case": "<p>The level of pollution detected in the Santa Clara River, the Los Angeles River, the San Gabriel River, and Malibu Creek\u2014collectively known as the Watershed Rivers\u2014far exceeds what is allowed by the National Pollutant Discharge Elimination System permit held by Los Angeles County. The National Resource Defense Council (NRDC) and other environmental organizations brought legal action against the county and the district, alleging that the county violated the Clean Water Act. The allegations stem from the fact that the county and district allowed untreated storm water that had collected myriad pollutants to run unchecked through storm sewers and into the rivers. The county and district did not contest the fact that the amount of pollutants was high but rather contested the allegations that they were solely responsible.</p>\n<p>The federal district court found for county and the district and held that there was no evidence that they were directly responsible. The United States Court of Appeals for the Ninth Circuit upheld the district court's decision with respect to the Santa Clara River and the Malibu Creek but reversed the decision with respect to the San Gabriel River and the Los Angeles River.</p>\n",
+    "conclusion": "<p>No. Justice Ruth Bader Ginsburg delivered the opinion of the 9-0 majority. The Court held that the pumping of polluted water from one portion of a waterway to another section of the same waterway did not constitute pollution under the Clean Water Act. Based on the text of the CWA, the \"discharge of a pollutant\" refers to the addition of a pollutant to a waterway. Because the pollutant is coming from farther up the same waterway, it cannot be considered an addition. Justice Samuel A. Alito, Jr. concurred in the judgment.</p>\n"
+}

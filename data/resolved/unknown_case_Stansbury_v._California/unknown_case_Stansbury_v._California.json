@@ -1,0 +1,42 @@
+{
+    "ID": 54245,
+    "name": "Stansbury v. California",
+    "href": "https://api.oyez.org/cases/1993/93-5770",
+    "view_count": 0,
+    "docket_number": "93-5770",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                765007200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37325"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                767336400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37326"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                752133600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53508"
+        }
+    ],
+    "question": "<p>May a trial court determine that a criminal defendant is not \"in custody\" for Miranda purposes on the basis of police officers' subjective and undisclosed conclusions that they did not consider the defendant a \"suspect\"?</p>\n",
+    "citation": {
+        "volume": "511",
+        "page": "318",
+        "year": "1994",
+        "href": "https://api.oyez.org/case_citation/case_citation/18174"
+    },
+    "term": "1993",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/511/318/",
+    "facts_of_the_case": "<p>Robert Edward Stansbury, an ice cream truck driver, was taken to the Pomona Police Department for questioning as a potential witness in the investigation of the death of a 10-year-old girl.  Stansbury was not a suspect in the death, and did not receive Miranda warnings, but during questioning, made a statement that put him under suspicion.  After further questioning, Stansbury admitted to prior convictions for rape, kidnapping and child molestation.  At this point the interrogating officer advised Stansbury of his Miranda rights and Stansbury refused to make any further statements.  Stansbury requested an attorney and was arrested and charged with first-degree murder.  The trial court held that Stansbury was not truly in custody and therefore not entitled to Miranda warnings until suspicion focused on him.  The court refused to suppress Stansbury\u2019s statements made prior to the warning.  Stansbury was convicted of first-degree murder and sentenced to death.  The Supreme Court of California affirmed.</p>\n",
+    "conclusion": "<p>No.  In a per curiam opinion, the Supreme Court reversed the lower court and remanded.  The Court held that an officer\u2019s subjective view is irrelevant to the determination of whether a person being interrogated is \u201cin custody.\u201d  On remand, the Supreme Court of California should consider whether the objective circumstances showed that Stansbury was in custody during his entire interrogation.  Justice Harry A. Blackmun concurred, writing that the death penalty cannot be imposed fairly within the constraints of the Constitution.</p>\n"
+}

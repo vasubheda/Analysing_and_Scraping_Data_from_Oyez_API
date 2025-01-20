@@ -1,0 +1,35 @@
+{
+    "ID": 54867,
+    "name": "United States v. United Foods, Inc.",
+    "href": "https://api.oyez.org/cases/2000/00-276",
+    "view_count": 0,
+    "docket_number": "00-276",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                987483600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38477"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                993445200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38478"
+        }
+    ],
+    "question": "<p>Do mandatory advertising assessments imposed on mushroom producers and handlers under the Mushroom Promotion, Research, and Consumer Information Act violate the First Amendment?</p>\n",
+    "citation": {
+        "volume": "533",
+        "page": "405",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18796"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/533/405/",
+    "facts_of_the_case": "<p>The Mushroom Promotion, Research, and Consumer Information Act mandates that fresh mushroom handlers pay assessments used primarily to fund advertisements promoting mushroom sales. United Foods, Inc. refused to pay the assessment, claiming that it violated the First Amendment. Ultimately, United Foods sought review in the District Court. In granting the Government summary judgement, the court relied on Glickman v. Wileman Brothers &amp; Elliott, Inc., which held that the First Amendment was not violated when agricultural marketing orders, as part of a larger regulatory marketing scheme, required producers of California tree fruit to pay assessments for product advertising. In reversing, the Court of Appeals held that Glickman did not control because the mandated payments in this case were not part of a comprehensive statutory agricultural marketing program.</p>\n",
+    "conclusion": "<p>Yes. In a 6-3 opinion delivered by Justice Anthony M. Kennedy, the Court held that the assessment requirement violates the First Amendment. Justice Kennedy wore for the Court that \"the mandated support is contrary to the First Amendment principles set forth in cases involving expression by groups which include persons who object to the speech, but who, nevertheless, must remain members of the group by law or necessity.\" \"We have not upheld compelled subsidies for speech in the context of a program where the principal object is speech itself,\" continued Justice Kennedy.</p>\n"
+}

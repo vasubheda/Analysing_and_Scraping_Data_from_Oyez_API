@@ -1,0 +1,42 @@
+{
+    "ID": 55456,
+    "name": "Parents Involved in Community Schools v. Seattle School District No. 1",
+    "href": "https://api.oyez.org/cases/2006/05-908",
+    "view_count": 0,
+    "docket_number": "05-908",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1149483600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39873"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1165212000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39874"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1183006800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39875"
+        }
+    ],
+    "question": "<p>1) Do the decisions in <em>Grutter v. Bollinger</em> and <em>Gratz v. Bollinger</em> apply to public high school students?</p>\n<p>2) Is racial diversity a compelling interest that can justify the use of race in selecting students for admission to public high schools?</p>\n<p>3) Does a school district that normally permits a student to attend the high school of her choice violate the Equal Protection Clause by denying the student admission to her chosen school because of her race in an effort to achieve a desired racial balance?</p>\n",
+    "citation": {
+        "volume": "551",
+        "page": "701",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/19379"
+    },
+    "term": "2006",
+    "description": "A case in which the Court held that the Seattle School District's high school admissions system, which placed students based on their race, violated the Equal Protection Clause of the Fourteenth Amendment. ",
+    "justia_url": null,
+    "facts_of_the_case": "<p>The Seattle School District allowed students to apply to any high school in the District. Since certain schools often became oversubscribed when too many students chose them as their first choice, the District used a system of tiebreakers to decide which students would be admitted to the popular schools. The second most important tiebreaker was a racial factor intended to maintain racial diversity. If the racial demographics of any school's student body deviated by more than a predetermined number of percentage points from those of Seattle's total student population (approximately 40% white and 60% non-white), the racial tiebreaker went into effect. At a particular school either whites or non-whites could be favored for admission depending on which race would bring the racial balance closer to the goal.</p>\n<p>A non-profit group, Parents Involved in Community Schools (Parents), sued the District, arguing that the racial tiebreaker violated the Equal Protection Clause of the Fourteenth Amendment as well as the Civil Rights Act of 1964 and Washington state law. A federal District Court dismissed the suit, upholding the tiebreaker. On appeal, a three-judge panel the U.S. Court of Appeals for the Ninth Circuit reversed.</p>\n<p>Under the Supreme Court's precedents on racial classification in higher education, <em>Grutter v. Bollinger</em> and <em>Gratz v. Bollinger</em>, race-based classifications must be directed toward a \"compelling government interest\" and must be \"narrowly tailored\" to that interest. Applying these precedents to K-12 education, the Circuit Court found that the tiebreaker scheme was not narrowly tailored. The District then petitioned for an \"en banc\" ruling by a panel of 11 Ninth Circuit judges. The en banc panel came to the opposite conclusion and upheld the tiebreaker. The majority ruled that the District had a compelling interest in maintaining racial diversity. Applying a test from <em>Grutter</em>, the Circuit Court also ruled that the tiebreaker plan was narrowly tailored, because 1) the District did not employ quotas, 2) the District had considered race-neutral alternatives, 3) the plan caused no undue harm to races, and 4) the plan had an ending point.</p>\n",
+    "conclusion": "<p>No, no, and yes. By a 5-4 vote, the Court applied a \"strict scrutiny\" framework and found the District's racial tiebreaker plan unconstitutional under the Equal Protection Clause of the Fourteenth Amendment. Chief Justice John Roberts wrote in the plurality opinion that \"The way to stop discrimination on the basis of race is to stop discriminating on the basis of race.\" The Court acknowledged that it had previously held that racial diversity can be a compelling government interest in university admissions, but it ruled that \"[t]he present cases are not governed by <em>Grutter</em>.\" Unlike the cases pertaining to higher education, the District's plan involved no individualized consideration of students, and it employed a very limited notion of diversity (\"white\" and \"non-white\"). The District's goal of preventing racial imbalance did not meet the Court's standards for a constitutionally legitimate use of race: \"Racial balancing is not transformed from 'patently unconstitutional' to a compelling state interest simply by relabeling it 'racial diversity.'\" The plans also lacked the narrow tailoring that is necessary for race-conscious programs. The Court held that the District's tiebreaker plan was actually targeted toward demographic goals and not toward any demonstrable educational benefit from racial diversity. The District also failed to show that its objectives could not have been met with non-race-conscious means. In a separate opinion concurring in the judgment, Justice Kennedy agreed that the District's use of race was unconstitutional but stressed that public schools may sometimes consider race to ensure equal educational opportunity.</p>\n"
+}

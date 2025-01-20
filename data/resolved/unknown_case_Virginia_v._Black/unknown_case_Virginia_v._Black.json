@@ -1,0 +1,35 @@
+{
+    "ID": 55041,
+    "name": "Virginia v. Black",
+    "href": "https://api.oyez.org/cases/2002/01-1107",
+    "view_count": 0,
+    "docket_number": "01-1107",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1039586400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38808"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1049691600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38809"
+        }
+    ],
+    "question": "<p>Does the Commonwealth of Virginia's cross-burning statute, which prohibits the burning of a cross with the intent of intimidating any person or group of persons, violate the First Amendment?</p>\n",
+    "citation": {
+        "volume": "538",
+        "page": "343",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/18970"
+    },
+    "term": "2002",
+    "description": "A case in which the Court held that a law banning cross-burning with the intent to intimidate is constitutional. However, cross burning is not prima facie evidence of intent to intimidate.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/538/343/",
+    "facts_of_the_case": "<p>Barry Black, Richard Elliott, and Jonathan O'Mara were convicted separately of violating a Virginia statute that makes it a felony \"for any person..., with the intent of intimidating any person or group..., to burn...a cross on the property of another, a highway or other public place,\" and specifies that \"any such burning...shall be prima facie evidence of an intent to intimidate a person or group.\" At trial, Black objected on First Amendment grounds to a jury instruction that cross burning by itself is sufficient evidence from which the required \"intent to intimidate\" could be inferred. He was found guilty. O'Mara pleaded guilty to charges of violating the statute, but reserved the right to challenge its constitutionality. In Elliott's trial, the judge did not give an instruction on the statute's prima facie evidence provision. Ultimately, the Virginia Supreme Court held, among other things, that the cross-burning statute is unconstitutional on its face and that the prima facie evidence provision renders the statute overbroad because the probability of prosecution under the statute chills the expression of protected speech.</p>\n",
+    "conclusion": "<p>Yes, but in a plurality opinion delivered by Justice Sandra Day O'Connor, the Court held that while a State, consistent with the First Amendment, may ban cross burning carried out with the intent to intimidate, in which four other justices joined, the provision in the Virginia statute treating any cross burning as prima facie evidence of intent to intimidate renders the statute unconstitutional in its current form, in which three other justices joined. Justice Antonin Scalia left the latter portion of the Court's conclusion to argue that the Court should vacate and remand the judgment of the Virginia Supreme Court with respect to Elliott and O'Mara, so that that court could have an opportunity to construe the cross-burning statute's prima-facie-evidence provision. Justice David H. Souter, joined by Justices Anthony M. Kennedy and Ruth Bader Ginsburg, concluded that the Virginia statute is unconstitutional and therefore concurred in the Court's judgment insofar as it affirmed the invalidation of Black's conviction. Justice Clarence Thomas dissented.</p>\n"
+}

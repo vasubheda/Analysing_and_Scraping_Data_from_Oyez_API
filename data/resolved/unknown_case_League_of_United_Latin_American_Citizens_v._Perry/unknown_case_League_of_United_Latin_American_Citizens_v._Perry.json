@@ -1,0 +1,42 @@
+{
+    "ID": 55347,
+    "name": "League of United Latin American Citizens v. Perry",
+    "href": "https://api.oyez.org/cases/2005/05-204",
+    "view_count": 0,
+    "docket_number": "05-204",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1134367200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39583"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1141192800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39584"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1151470800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39585"
+        }
+    ],
+    "question": "<p>Did the Texas legislature violate the Constitution and and the Voting Rights Act when it used 2000 census data to redistrict in 2003 for partisan advantage, resulting in districts that (by 2003 numbers) did not conform to the one person, one vote standard?</p>\n",
+    "citation": {
+        "volume": "548",
+        "page": "399",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20630"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/548/399/",
+    "facts_of_the_case": "<p>In 2003, the Texas State Legislature passed a redistricting plan that replaced the one created by a federal judge following the 2000 census. Critics of the plan charged that it was unconstitutional and violated section 2 the Voting Rights Act because it diluted racial minority voting strength and was designed to maximize partisan advantage. A three-judge district court panel disagreed, finding that the plan was constitutional and that the legislature had the right to redistrict in 2003 using census data from 2000.</p>\n<p>The case was appealed to the U.S. Supreme Court, but while it was pending the Court decided <em>Vieth v. Jubelirer</em>, another redistricting case from Pennsylvania. Justice Anthony Kennedy, the deciding vote in that case, wrote that the Court could hear claims of partisan discrimination in redistricting cases, but left open the question of the test those claims would be subjected to.</p>\n<p>The three-district panel in this case then affirmed its earlier decision, finding that the Texas redistricting plan was not substantively unfair.</p>\n",
+    "conclusion": "<p>The Supreme Court held that the Texas Legislature's redistricting plan did not violate the Constitution, but that part of the plan violated the Voting Rights Act. Justice Anthony Kennedy, writing for a majority of the justices, stated that District 23 had been redrawn in such a way as to deny Latino voters as a group the opportunity to elect a candidate of their choosing, thereby violating the Voting Rights Act. Justice Kennedy also wrote, however, that nothing in the Constitution prevented the state from redrawing its electoral boundaries as many times as it wanted, so long as it did so <em>at least</em> once every ten years.</p>\n"
+}

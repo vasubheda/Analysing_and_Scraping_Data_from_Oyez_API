@@ -1,0 +1,42 @@
+{
+    "ID": 55974,
+    "name": "Schuette v. Coalition to Defend Affirmative Action",
+    "href": "https://api.oyez.org/cases/2013/12-682",
+    "view_count": 0,
+    "docket_number": "12-682",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1364187600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41277"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1381813200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41278"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1398142800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41579"
+        }
+    ],
+    "question": "<p>Does an amendment to a state's constitution to prohibit race-and sex-based discrimination and preferential treatment in public university admission decisions violate the Equal Protection Clause of the Fourteenth Amendment?</p>\n",
+    "citation": {
+        "volume": "572",
+        "page": "291",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20891"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that the judiciary did not have standing to overturn the state constitutional amendment regarding affirmative action in school admissions.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/572/291/",
+    "facts_of_the_case": "<p>In November 2006 election, a majority of Michigan voters supported a proposition to amend the state constitution to prohibit \"all sex-and race-based preferences in public education, public employment, and public contracting.\" The day after the proposition passed, a collection of interest groups and individuals formed the Coalition to Defend Affirmative Action, Integration and Immigration Rights and Fight for Equality by Any Means Necessary (Coalition). The Coalition sued the governor and the regents and boards of trustees of three state universities in district court by arguing that the proposition as it related to public education violated the Equal Protection Clause. About a month later, the Michigan Attorney General and Eric Russell, an applicant to the University of Michigan Law School, filed separate motions to intervene as defendants, which were granted. Both sides moved for summary judgment and the plaintiffs moved to have Russell removed from the case as he did not represent interests separate from those of the Michigan Attorney General. The district court granted summary judgment in favor of the defendants and granted the motion to remove Russell as an intervenor. The U.S. Court of Appeals for the Sixth Circuit affirmed in part and reversed in part by holding the proposed amendment unconstitutional and upholding the removal of Russell as a party to the litigation.</p>\n",
+    "conclusion": "<p>No. Justice Anthony M. Kennedy delivered the opinion for the three-justice plurality. The plurality held that this case was not about the constitutionality of race-conscious admissions, but rather about whether the voters of a state can choose to prohibit the use of race preferences in the decisions of governmental bodies, specifically with respect to school admissions. The plurality held that the attempt to define and protect interests based on race ran the risk of allowing the government to classify people based on race and therefore perpetuate the same racism such policies were meant to alleviate. While voters may certainly determine that some race-based preferences should be adopted, it is not the role of the courts to disempower the voters from making such a choice. If certain issues were decided to be too sensitive to be addressed by voters, it would be denying the voters their right to debate and act through the lawful democratic process.</p>\n<p>Chief Justice John G. Roberts, Jr. wrote a concurring opinion in which he argued that the use of racial preferences might reinforce racial awareness and therefore do more harm than good. In his opinion concurring in the judgment, Justice Antonin Scalia wrote that a state law that provided equal protection by not allowing the use of racial preferences at least facially did not violate the Constitution. Justice Scalia argued that judges should not be in the position of dividing the country into racial blocs and determining what policies are in each one's interests. Additionally, Justice Scalia saw no reason to allow local subordinate authorities to have more power over the use of race-based preferences than the voters of the state. Since the amendment in question prohibits the use of racial preferences, it patently provides equal protection under the law rather than denying it. Justice Clarence Thomas joined in the opinion concurring in the judgment. Justice Stephen G. Breyer wrote a separate opinion concurring in the judgment in which he argued that, while the Constitution allows local, state, and national communities to implement narrowly tailored, race-conscious policies, it is the voters and not the courts who should determine the merits of such strategies. The amendment better allowed for this process to take place because it took the power to decide whether to implement race-conscious policies away from unelected actors and placed it firmly in the hands of the voters.</p>\n<p>Justice Sonia Sotomayor wrote a dissenting opinion in which she argued that the democratic process does not in and of itself provide sufficient protection against the oppression of minority groups, which is why the Equal Protection Clause of the Fourteenth Amendment exists. Although equal protection is typically construed as referring to the treatment of different groups under existing laws, it also protects against the implementation of new laws that would oppress certain groups on the basis of race, among other things. Because the amendment in question creates one admission process for those who do think race should be considered and a separate one for those who do not, it places special burdens on minority groups in a manner that violates the Equal Protection Clause. Judicial precedent holds that governmental action violates the Equal Protection Clause when it has a racial focus that places a greater burden on minority. The amendment in question both has a racial focus and places a greater burden on the minority; therefore, it violates the Equal Protection Clause, and the voters of a state cannot democratically ratify an amendment that violates the Constitution. Justice Sotomayor argued that the plurality and concurring opinions allow a majority of voters in Michigan to prevent the elected university boards from implementing constitutional race-sensitive admission policies, and therefore they ignore a key purpose of the Equal Protection Clause. Justice Ruth Bader Ginsburg joined in the dissenting opinion.</p>\n<p>Justice Elena Kagan did not participate in the discussion or decision of this case.</p>\n"
+}

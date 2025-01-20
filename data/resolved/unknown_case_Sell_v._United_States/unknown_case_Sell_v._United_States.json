@@ -1,0 +1,35 @@
+{
+    "ID": 55047,
+    "name": "Sell v. United States",
+    "href": "https://api.oyez.org/cases/2002/02-5664",
+    "view_count": 0,
+    "docket_number": "02-5664",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1046671200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38820"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1055739600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38821"
+        }
+    ],
+    "question": "<p>May the Federal Government administer antipsychotic drugs involuntarily to a mentally ill criminal defendant in order to render that defendant competent to stand trial for serious, but nonviolent, crimes?</p>\n",
+    "citation": {
+        "volume": "539",
+        "page": "166",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/18976"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/539/166/",
+    "facts_of_the_case": "<p>In 1997, the Federal Government charged Charles Sell with submitting fictitious insurance claims for payment. Although Sell has a long history of mental illness and was initially found competent to stand trial for fraud and attempted murder, a Federal Magistrate Judge ordered his hospitalization to determine whether he would attain the capacity to allow his trial to proceed. Subsequently, the Magistrate authorized forced administration of antipsychotic drugs. In affirming, the District Court concluded that medication was the only viable hope of rendering Sell competent to stand trial and was necessary to serve the Federal Government's interest in obtaining an adjudication of his guilt or innocence. The Court of Appeals affirmed. On the fraud charges, the appellate court found that the Federal Government had an essential interest in bringing Sell to trial, that the treatment was medically appropriate, and that the medical evidence indicated that Sell would fairly be able to participate in his trial.</p>\n",
+    "conclusion": "<p>Yes. In a 6-3 opinion delivered by Justice Stephen G. Breyer, the Court held that the Constitution allows the Federal Government to administer antipsychotic drugs, even against the defendant's will, in limited circumstances. The Court reasoned that such conditions include if the treatment is medically appropriate, is substantially unlikely to have side effects that may undermine the trial's fairness, and, taking account of less intrusive alternatives, is necessary significantly to further important governmental trial-related interests. Finding that the District Court and Court of Appeals's findings did not satisfy these conditions, the Court vacated the appellate court's judgment. Justice Antonin Scalia, joined by Justice Clarence Thomas, dissented, arguing that the Court did not have jurisdiction to decide the case.</p>\n"
+}

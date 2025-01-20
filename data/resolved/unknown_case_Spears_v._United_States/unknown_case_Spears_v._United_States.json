@@ -1,0 +1,35 @@
+{
+    "ID": 55565,
+    "name": "Spears v. United States",
+    "href": "https://api.oyez.org/cases/2008/08-5721",
+    "view_count": 0,
+    "docket_number": "08-5721",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1232517600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40177"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                1232517600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53426"
+        }
+    ],
+    "question": "<p>May a district court vary from the advisory ratio of cocaine base to cocaine powder used in the United States Sentencing Commission Guidelines Manual when determining sentencing due to a disagreement with the disparity the Guidelines create?</p>\n",
+    "citation": {
+        "volume": "555",
+        "page": "261",
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/19488"
+    },
+    "term": "2008",
+    "description": "A case in which the Court held that district courts may vary from the advisory ratio of cocaine base to cocaine powder used in the United States Sentencing Commission Guidelines Manual when determining sentencing.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/555/261/",
+    "facts_of_the_case": "<p>In 2004, Steven Spears was charged and convicted of conspiracy to distribute at least 50 grams of crack cocaine and 500 grams of powder cocaine. The district court determined that the 100:1 weight ratio for sentencing crack cocaine and powder cocaine that the United States Sentencing Commission Guidelines Manual (Guidelines) used was excessive given the circumstances, so the district court instead based its ruling on a 20:1 ratio. The U.S. Court of Appeals for the Eighth Circuit held that the district court could not decide what ratio it wanted to apply for conviction and remanded Spears case for retrial and sentencing. The Supreme Court granted certiorari and remanded the case for reconsideration in light of the Court\u2019s decision in <em>Kimbrough v. United States</em>, in which the Court held that the Guidelines were advisory and that a district court does not abuse its discretion by varying from the Guidelines\u2019 prescribed ratio due to disagreement with the disparity the Guidelines create between crack cocaine and powder cocaine. On remand, the appellate court again held that the district court erred in categorically rejecting the Guidelines\u2019 ratio and substituting its own.</p>\n",
+    "conclusion": "<p>In a per curiam opinion, the majority held that the ratio the United States Sentencing Commission Guidelines Manual uses for sentencing crack cocaine and powder cocaine convictions are not binding. Previous precedent had established that, not only may district courts vary from the Guidelines\u2019 ratio based on a case-specific determination, but they may also do so based on a policy disagreement with the Guidelines and the disparity between sentences for crack and powder cocaine that the ratio in question creates. Therefore, the Court held that the district court did not err is using a 20:1 ratio rather than an 100:1 ratio in this case.</p>\n<p>Justice Anthony M. Kennedy would have set the case for oral argument.</p>\n<p>Justice Clarence Thomas dissented without writing an opinion.</p>\n<p>Justice John G. Roberts, Jr. wrote a dissent arguing that it is not the role of the Court to determine if the appellate courts are correctly following protocol. He wrote that the U.S. Court of Appeals for the Eighth Circuit should have been given more time to rule in Spears\u2019 case rather than having the case be decided by the Supreme Court. Justice Samuel A. Alito, Jr. joined the dissent.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 54512,
+    "name": "United States v. Gonzales",
+    "href": "https://api.oyez.org/cases/1996/95-1605",
+    "view_count": 0,
+    "docket_number": "95-1605",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                850284000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37820"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                857368800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37821"
+        }
+    ],
+    "question": "<p>Can the federal mandatory five-year prison term for carrying a gun while committing a crime be served concurrently with a separate state sentence?</p>\n",
+    "citation": {
+        "volume": "520",
+        "page": "1",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18441"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/520/1/",
+    "facts_of_the_case": "<p>Miguel Gonzales, Orlenis Hernandez Diaz, and Mario Perez were convicted in New Mexico state court on charges arising from their use of guns to holdup undercover officers during a drug sting. After they began to serve their state sentences, they were convicted by a District Court on federal drug and firearm charges related to the sting. Federal law requires a five-year prison sentence for carrying a gun while committing a crime. A Court of Appeals vacated the additional firearms sentences on the ground that they should have run concurrently with the state prison terms.</p>\n",
+    "conclusion": "<p>No. In a 7-to-2 decision delivered by Justice Sandra Day O'Connor, the Court announced \"[t]he plain language of (the law) forbids a district court to direct that a term of imprisonment under the statute run concurrently with any other term of imprisonment, whether state or federal.\"</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55684,
+    "name": "Dolan v. United States",
+    "href": "https://api.oyez.org/cases/2009/09-367",
+    "view_count": 0,
+    "docket_number": "09-367",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1262930400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40493"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1271739600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40494"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1276491600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40495"
+        }
+    ],
+    "question": "<p>May a federal district court enter a restitution order beyond the time prescribed under the Mandatory Victims Restitution Act?</p>\n",
+    "citation": {
+        "volume": "560",
+        "page": "605",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19606"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that federal courts may enter a restitution order beyond the time prescribed under the Mandatory Victims Restitution Act if certain qualifications are met.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/560/605/",
+    "facts_of_the_case": "<p>Brian Russell Dolan pleaded guilty to assault resulting in bodily harm in the New Mexico federal district court. He was sentenced to twenty-one months in prison and ordered to pay the victim $250 per month in restitution. Mr. Dolan appealed arguing that because the district court failed to award restitution within ninety days of Mr. Dolan's sentencing, the district court lacked the authority to do so.</p>\n<p>The U.S. Court of Appeals for the Ninth Circuit affirmed the district court. The court held that the time limits established by the Mandatory Victims Restitution Act are not jurisdictional and, thus, the district court's tardiness in entering the order does not relieve the defendant of his obligation to pay.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court held that a court, which has missed the 90-day deadline still has the power to order restitution, at least under certain circumstances. The majority held that the consequences of missing a statutory deadline where the statute is silent on the subject depends on the statutory language and the relevant context and what they reveal about the purpose of the deadline. Some deadlines are \"jurisdictional,\" so that their expiration deprives a court of the authority to take the action to which the deadline attaches. Others are \"claims-processing rules\" that regulate the timing of motions or claims brought before the court; these deadlines are waived unless the opposing party brings them to the court's attention. Still others simply seek speedy disposition of matters by \"creating a time-related directive that is legally enforceable but does not deprive a judge . . . of the power to take the action\" if the deadline is missed. Chief Justice John G. Roberts, Jr. dissented, joined by Justices John Paul Stevens, Antonin Scalia and Anthony Kennedy.</p>\n"
+}

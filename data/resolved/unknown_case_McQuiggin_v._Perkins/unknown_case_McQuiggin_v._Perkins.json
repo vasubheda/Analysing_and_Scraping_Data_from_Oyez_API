@@ -1,0 +1,42 @@
+{
+    "ID": 55899,
+    "name": "McQuiggin v. Perkins",
+    "href": "https://api.oyez.org/cases/2012/12-126",
+    "view_count": 0,
+    "docket_number": "12-126",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1351486800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41060"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1361772000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41061"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1369717200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41062"
+        }
+    ],
+    "question": "<p>1. Must an accused claiming actual innocence prove that extraordinary circumstances prevented the timely filing of his habeas petition?</p>\n<p>2. If so, must an accused pursue an actual innocence claim with the same reasonable diligence required to toll the statute of limitations for other habeas petition claims?</p>\n",
+    "citation": {
+        "volume": "569",
+        "page": "383",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/20863"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that proving actual innocence allows a petitioner to pursue habeas corpus relief regardless of a statute of limitations.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/569/383/",
+    "facts_of_the_case": "<p>Floyd Perkins was convicted for the murder of Rodney Henderson in Michigan state court. The conviction became final on May 5, 1997 and under the Antiterrorism and Effective Death Penalty Act (AEDPA), Perkins should have filed a writ of habeas corpus by May 5, 1998, but he did not file until July 13, 2008 in the U.S. District Court for the Western District of Michigan. Perkins claimed problems with the sufficiency of evidence, jury instruction, trial procedure, prosecutorial misconduct, and ineffective assistance of counsel. The magistrate judge recommended dismissal of the petition as barred by the AEDPA statute of limitations. Perkins objected, arguing that the \"new evidence\" provision, which extends the statute of limitations to one year from when the \"factual predicate of the claim could have been discovered through the exercise of due diligence\", applied.</p>\n<p>In support of his objection, Perkins produced three previously unpresented affidavits that alluded to his innocence. The affidavits were signed in 1997, 1999 and 2002, so the district court denied the writ, holding that the ADEPA statute of limitations extension expired in 2003, one year after the last affidavit was signed. Perkins then asked the court to extend the statute of limitations because he was actually innocent of the crime. The district court rejected this argument, holding that the \"new\" evidence was not the type needed to pursue an actual innocence claim, and even if it were, Perkins did not pursue his claims with reasonable diligence. The U.S. Court of Appeals for the Sixth Circuit reversed, holding that although the U.S. Supreme Court has held that tolling the statute of limitations requires parties to be reasonably diligent in pursuit of their claims, no court has analyzed whether actual innocence claims must be pursued in the same way.</p>\n",
+    "conclusion": "<p>No, yes. Justice Ruth Bader Ginsburg delivered the opinion of the 5-4 majority. The Court held that a credible showing of actual innocence allows a petitioner to pursue habeas corpus relief on the merits of the case regardless of any procedural bar, such as a statute of limitations. The miscarriage of justice exception that allows petitioners to pursue cases that would otherwise be dismissed as untimely demonstrates clear congressional intent to allow petitioners arguing actual innocence to do the same. The Court also held that, to prove the actual innocence claim, the petitioner must prove that it is more likely than not that a reasonable juror would not convict in light of the new evidence. Under this burden of proof, unexplained delay may impact the petitioner's credibility but does not necessarily defeat the claim.</p>\n<p>Justice Antonin Scalia wrote a dissenting opinion in which he argued that Congress enacted a valid barrier to habeas corpus relief, and the majority's opinion does not have the authority to overrule Congress. He argued that the Supreme Court does not have the legislative power to create an exception where one does not exist. Chief Justice John G. Roberts, Jr., Justice Clarence Thomas, and Justice Samuel A. Alito, Jr. joined in the dissent.</p>\n"
+}

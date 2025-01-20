@@ -1,0 +1,28 @@
+{
+    "ID": 55224,
+    "name": "Brosseau v. Haugen",
+    "href": "https://api.oyez.org/cases/2004/03-1261",
+    "view_count": 0,
+    "docket_number": "03-1261",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1102917600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39243"
+        }
+    ],
+    "question": "<p>Was a police officer who shot a fleeing suspect entitled to qualified immunity?</p>\n",
+    "citation": {
+        "volume": "543",
+        "page": "194",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19152"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/543/194/",
+    "facts_of_the_case": "<p>Brosseau, a police officer in Washington state, shot Haugen in the back as he tried to flee in his vehicle from the police. Haugen sued Brosseau in federal district court, alleging Brosseau used excessive force in shooting him and violated his constitutional rights. The district court ruled for Brosseau, finding she was entitled to qualified immunity. The Ninth Circuit reversed.</p>\n",
+    "conclusion": "<p>Yes. In an 8-1 per curiam decision, the Court held that Brosseau was entitled to qualified immunity because the Court's previous cases did not clearly establish that shooting the fleeing Hogan would have violated his constitutional rights.</p>\n"
+}

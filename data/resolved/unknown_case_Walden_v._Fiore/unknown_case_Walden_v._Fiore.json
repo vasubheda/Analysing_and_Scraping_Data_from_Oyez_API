@@ -1,0 +1,42 @@
+{
+    "ID": 55985,
+    "name": "Walden v. Fiore",
+    "href": "https://api.oyez.org/cases/2013/12-574",
+    "view_count": 0,
+    "docket_number": "12-574",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1362376800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41298"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1383544800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41299"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1393308000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41577"
+        }
+    ],
+    "question": "<p>Does due process allow the Nevada court to exercise personal jurisdiction over Walden?</p>\n<p>Is the District of Nevada the place where \"a substantial part of the events or omissions giving rise to the claim occurred\" for purposes of establishing venue when all of defendant's alleged acts or omissions happened in another district?</p>\n",
+    "citation": {
+        "volume": "571",
+        "page": "277",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20889"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that an FDA officer could not be sued in Nevada under the Fourteenth Amendment, due to his lack of connection with that state.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/571/277/",
+    "facts_of_the_case": "<p>In 2006 Gina Fiore and Keith Gipson traveled from Las Vegas, Nevada to Atlantic City, New Jersey, to San Juan, Puerto Rico before returning to Las Vegas by way of Atlanta, Georgia. The two are professional gamblers with residences in California and Las Vegas. At a Transportation Security Administration (TSA) checkpoint in San Juan, Fiore and Gipson were subjected to heightened security because they were travelling on a one-way ticket. TSA officers search the gamblers luggage and found $97,000 in U.S. currency. San Juan Drug Enforcement Administration (DEA) officers arrived and questioned the pair to determine whether the money was the proceeds of illegal drug trade. Fiore and Gipson stated that the cash was their seed money and winnings from gambling. The DEA let Fiore and Gipson board the plane to Atlanta with their luggage.</p>\n<p>When Fiore and Gipson landed at Atlanta Hartsfield-Jackson International Airport, Anthony Walden and other DEA agents approached and questioned them. Fiore and Gipson repeated their story and produced records of their travels. When a drug-detecting dog pawed Gipson's bag once, Walden stated that he had probable cause to seize the cash and took both Fiore and Gipson's bags before allowing them to continue on to Las Vegas without the money. When Fiore and Gipson got to Las Vegas they sent records of their gambling earnings along with past tax returns to prove their status as professional gamblers to Walden. Walden refused to return the money and referred the matter to a U.S. Attorney in Georgia based on a false probable cause affidavit. The U.S. Attorney found no probable cause and ordered the money returned. The money was returned to Fiore and Gipson seven months after it was seized.</p>\n<p>Fiore and Gipson sued Walden in the U.S. District Court for the District of Nevada alleging that the seizure violated their Fourth Amendment rights. Walden moved to dismiss for lack of personal jurisdiction, and the District Court granted the motion. The U.S. Court of Appeals for the Ninth Circuit reversed, holding that the court did have personal jurisdiction because Walden intentionally caused foreseeable harm in Nevada by falsifying the probable cause affidavit and attempting to secure the seized funds permanently for the Atlanta DEA.</p>\n",
+    "conclusion": "<p>No, unanswered. Justice Clarence Thomas delivered the opinion for the unanimous Court. The Court held that the district court could not exercise personal jurisdiction over Walden because he lacked contacts with Nevada. The Due Process Clause of the Fourteenth Amendment requires that a non-resident defendant have a substantial connection with the state in which he is sued. This connection must arise from the contacts that the defendant himself creates; yet all of Walden's conduct occurred in Georgia. The fact that Fiore and Gibson were injured in Nevada was insufficient to establish personal jurisdiction over Walden their only connection to Nevada was that they chose to reside there during the months the money was seized.</p>\n"
+}

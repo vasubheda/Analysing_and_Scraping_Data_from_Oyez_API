@@ -1,0 +1,42 @@
+{
+    "ID": 56033,
+    "name": "Hall v. Florida",
+    "href": "https://api.oyez.org/cases/2013/12-10882",
+    "view_count": 0,
+    "docket_number": "12-10882",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1382331600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41382"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1393826400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52379"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1401166800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52380"
+        }
+    ],
+    "question": "<p>Does the Florida scheme for identifying mentally retarded defendants in capital punishment cases violate the standards established in <em>Atkins v. Virginia</em>?</p>\n",
+    "citation": {
+        "volume": "572",
+        "page": "701",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/19955"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that the execution of intellectually disabled individuals violated the protection against cruel and unusual punishment guaranteed in the Eighth Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/572/701/",
+    "facts_of_the_case": "<p>Freddie Lee Hall was tried, convicted, and sentenced to death for the 1978 murder of Karol Hurst. Hall sought a writ of habeas corpus and a stay of execution in state court, which was denied. Hall then sought a writ of habeas corpus in federal court and was denied without an evidentiary hearing. Hall appealed to the U.S. Court of Appeals for the Eleventh Circuit, which reversed in part and remanded the case for a hearing regarding the potential effect of his absence from the courtroom during the trial and ineffective counsel. On remand, the district court again denied habeas corpus and held that Hall's absences from the courtroom were harmless and that he deliberately bypassed ineffective counsel claims. The Court of Appeals affirmed.</p>\n<p>Hall petitioned the Supreme Court of Florida for habeas corpus relief based on the Supreme Court decision in <em>Hitchcock v. Dugger</em>, which held that all mitigating factors should be considered rather than just the mitigating factors listed in the relevant statutes. The Supreme Court of Florida denied the petition and held that no error occurred in sentencing. After the governor signed his second death warrant, Hall filed a motion to vacate the sentence, which the trial court denied by holding that the Supreme Court of Florida's decision barred further review of the case. The Supreme Court of Florida disagreed and held that the case involved additional non-record facts that had not been considered in the previous review. The case was vacated and remanded for new sentencing. At the new sentencing trial, the trial court held that Hall's mental retardation was a mitigating factor with \"unquantifiable weight,\" and he was again sentenced to death. The Supreme Court of Florida affirmed.</p>\n<p>In 2002, the Supreme Court decided the case <em>Atkins v. Virginia</em>, in which the Court held that the execution of mentally retarded defendants constituted cruel and unusual punishment in violation of the Eighth Amendment. Hall filed a motion to declare certain sections of the Florida death penalty statute unconstitutional based on this decision and filed a claim to be exempt from the death penalty under that ruling. The trial court held a hearing to determine if Hall was eligible for such a claim and found that he was not because the first prong of the test\u2014whether he had an IQ below 70\u2014could not be met. The Supreme Court of Florida affirmed.</p>\n",
+    "conclusion": "<p>Yes. Justice Anthony M. Kennedy delivered the opinion for the 5-4 majority. The Court held that executing an intellectually disabled person violates the Eighth Amendment\u2019s protection against cruel and unusual punishment. If a person is unable to make the calculated judgments that are the premise for the rationale that the death penalty functions as a deterrent and as retribution, then the death penalty serves no legitimate purpose. While the Florida statute in question may be constitutional on its face, the Florida courts have interpreted the statute too narrowly by relying only on an IQ test score\u2014which itself is not infallible\u2014instead of allowing for the consideration of other evidence regarding the defendant\u2019s intellectual disability. In this manner, the mandatory cutoff at an IQ of 70 allows for intellectually disabled people to be sentenced to death in violation of the Eighth Amendment.</p>\n<p>Justice Samuel A. Alito, Jr. wrote a dissent in which he argued that the majority opinion represented an unprecedented departure from Eighth Amendment jurisprudence because it relied on professional standards rather than the evolving standards of society at large. Because the standards of professional organizations frequently change, tying Eighth Amendment jurisprudence to them will likely result in legal instability and protracted litigation. In fact, Justice Alito argued that there was no evidence that the new method the majority opinion favored was any more accurate than the IQ test, and that Florida\u2019s statutory scheme already took the risk of testing error into account by allowing for the introduction of multiple test scores into evidence. Chief Justice John G. Roberts, Jr., Justice Antonin Scalia, and Justice Clarence Thomas joined in the dissent.</p>\n"
+}

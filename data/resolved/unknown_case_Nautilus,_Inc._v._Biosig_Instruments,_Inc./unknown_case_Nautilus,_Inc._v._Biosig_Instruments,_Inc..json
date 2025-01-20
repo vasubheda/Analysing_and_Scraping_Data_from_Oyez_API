@@ -1,0 +1,42 @@
+{
+    "ID": 62264,
+    "name": "Nautilus, Inc. v. Biosig Instruments, Inc.",
+    "href": "https://api.oyez.org/cases/2013/13-369",
+    "view_count": 0,
+    "docket_number": "13-369",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1389333600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52628"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1398661200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52629"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1401685200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52630"
+        }
+    ],
+    "question": "<p>(1) Does the U.S. Court of Appeals for the Federal Circuit's standard of whether a patent claim is \"insolubly ambiguous\" defeat the purpose of the statutory requirement for patents to be particular and distinct?</p>\n<p>(2) Does the presumption of patent validity dilute the statutory requirement for patents to be particular and distinct?</p>\n",
+    "citation": {
+        "volume": "572",
+        "page": "898",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/27060"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that, although a U.S. patent may be vague in certain areas, it is still protected by patent law as long as the patent is definite enough for the general public to know what has or has not been patented already.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/572/898/",
+    "facts_of_the_case": "<p>Biosig Instruments, Inc. (Biosig) holds the '753 Patent, which refers to a heart rate monitor associated with exercise equipment and procedures. Biosig sued Nautilus, Inc. (Nautilus) in federal district court and alleged that Nautilus infringed on several claims of the patent. Nautilus moved for summary judgment on two issues: whether there was infringement, and whether the patent was invalid due to its vagueness. The district court denied Nautilus' motion as far as the issue of infringement due to lack of discovery and granted the motion as it related to the patent's invalidity because of its vagueness. Biosig appealed and the U.S. Court of Appeals for the Federal Circuit reversed. The Court of Appeals held that a patent claim could only be considered legally indefinite when it is \"insolubly ambiguous,\" or not possible for a person of ordinary skill in the area to understand and resolve.</p>\n",
+    "conclusion": "<p>No, unanswered. Justice Ruth Bader Ginsburg delivered the opinion for the unanimous Court. The Court first held that determining whether a patent claim is sufficiently definite must be done by evaluating the patent with the perspective of an individual learned in the relevant field, a standard that accepts a certain amount of ambiguity in the patent claim. However, because patents serve a public service function, patent claims must be definite enough to appraise the public at large as to what has or has not been patented yet. In attempting to balance these interests, the Court held that a patent is sufficiently definite when the patent taken as a whole which includes the patent application, the U.S. Patent and Trademark Office's response, and any amendments made by the applicant informs those learned in the relevant field of the scope of the invention with reasonable certainty. The Court then remanded the case back to the Federal Circuit to reevaluate Nautilus's claim in light of this newly articulated standard.</p>\n"
+}

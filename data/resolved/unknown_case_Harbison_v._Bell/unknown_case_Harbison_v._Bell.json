@@ -1,0 +1,42 @@
+{
+    "ID": 55564,
+    "name": "Harbison v. Bell",
+    "href": "https://api.oyez.org/cases/2008/07-8521",
+    "view_count": 0,
+    "docket_number": "07-8521",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1214197200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40174"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1231740000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40175"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1238562000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40176"
+        }
+    ],
+    "question": "<p>1) According to 28 U.S.C. Section 2254, is a certificate of appealability required to appeal an order denying a request for federally-funded counsel?</p>\n<p>2) Does 18 U.S.C. Section 3599 permit federally-funded habeas counsel to represent a condemned inmate in state clemency proceedings when the state has denied state-funded counsel for that purpose?</p>\n",
+    "citation": {
+        "volume": "556",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20822"
+    },
+    "term": "2008",
+    "description": "A case in which the Court held that a certificate of appealability is not required to appeal an order denying a request for federally appointed counsel; and the federally appointed counsel may represent their client in state clemency proceedings and are entitled to compensation for such representation.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>Edward Jerome Harbison was convicted in a Tennessee state court of first-degree murder, second-degree burglary, and grand larceny, and was sentenced to death. After unsuccessfully appealing his case through the Tennessee courts, a federal district court appointed Mr. Harbison a federal public defender to represent him in filing a federal habeas corpus petition. That petition was denied by the both the federal district court as well as the U.S. Court of Appeals for the Sixth Circuit. As Tennessee law does not authorize the appointment of state public defenders as counsel in state clemency proceedings, Mr. Harbison's federal public defender requested to represent him in his state clemency proceedings. Both the district court and Sixth Circuit denied the request, holding that federal law does not authorize federal compensation for legal representation in state matters.</p>\n",
+    "conclusion": "<p>No and Yes. First, the Supreme Court held that a certificate of appealability (COA) is not required to appeal an order denying a request for federally appointed counsel. With Justice John Paul Stevens writing for the majority, and joined by Justices Anthony M. Kennedy, David H. Souter, Ruth Bader Ginsburg, and Stephen G. Breyer, the Court reasoned that a COA is only required to appeal final orders in habeas corpus petitions. Here, Mr. Harbison did not require a COA because he merely appealed an order denying his request to expand the authority of his federally appointed counsel. Second, the Supreme Court held that federally appointed counsel may represent their clients in state clemency proceedings and are entitled to compensation for such representation. The Court stated that the plain language of 18 U.S.C. Section 3599 authorized federally appointed counsel to represent their clients in those proceedings \"as may become available to the defendant\", reasoning that state clemency proceedings met this description.</p>\n<p>Chief Justice John G. Roberts and Justice Clarence Thomas each wrote separately concurring in the judgment. Justice Antonin G. Scalia, joined by Justice Samuel A. Alito, concurred in part and dissented in part. He agreed that a COA was not required to appeal an order denying the expansion of a federally appointed counsel's authority. However, he disagreed that 18 U.S.C. Section 3599 authorizes state prisoners' federally funded counsel to pursue state clemency on their clients' behalf.</p>\n"
+}

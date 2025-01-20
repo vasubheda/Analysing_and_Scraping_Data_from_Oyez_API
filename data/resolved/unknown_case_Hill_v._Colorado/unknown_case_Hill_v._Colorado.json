@@ -1,0 +1,35 @@
+{
+    "ID": 54791,
+    "name": "Hill v. Colorado",
+    "href": "https://api.oyez.org/cases/1999/98-1856",
+    "view_count": 0,
+    "docket_number": "98-1856",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                948261600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38332"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                962168400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38333"
+        }
+    ],
+    "question": "<p>Does Colorado's statutory requirement that speakers obtain consent from people within 100 feet of a health care facility's entrance before speaking, displaying signs, or distributing leaflets to such people violate the First Amendment rights of the speaker?</p>\n",
+    "citation": {
+        "volume": "530",
+        "page": "703",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18720"
+    },
+    "term": "1999",
+    "description": "A case in which the Court held that a statute requiring speakers within 100 feet of a medical facility to obtain consent before speaking, using signs, or distributing leaflets does not violate the First Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/530/703/",
+    "facts_of_the_case": "<p>A Colorado statute makes it unlawful for any person within 100 feet of a health care facility's entrance to \"knowingly approach\" within 8 feet of another person, without that person's consent, in order to pass \"a leaflet or handbill to, display a sign to, or engage in oral protest, education, or counseling with [that] person....\" Leila Hill and others, sidewalk counselors who offer abortion alternatives to women entering abortion clinics, sought to enjoin the statute's enforcement in state court, claiming violations of their First Amendment free speech rights and right to a free press. In dismissing the complaint, the trial court held that the statute imposed content-neutral time, place, and manner restrictions narrowly tailored to serve a significant government interest and left open ample alternative channels of communication. The Colorado Court of Appeals affirmed, and the Colorado Supreme Court denied review. The U.S. Supreme Court vacated that judgment after holding that a provision creating a speech-free floating buffer zone with a 15-foot radius violated the First Amendment. On remand, the Colorado Court of Appeals reinstated its judgment. In affirming, the Colorado Supreme Court reiterated the lower court's conclusions. The court concluded that the statute struck a proper balance between a person's right to protest and a person's right to medical treatment.</p>\n",
+    "conclusion": "<p>No. In a 6-3 opinion delivered by Justice John Paul Stevens, the Court held that the Colorado statute's restrictions on speech-related conduct are constitutional. The Court concluded that the statute \"is not a regulation of speech. Rather, it is a regulation of the places where some speech may occur.\" \"Although the statute prohibits speakers from approaching unwilling listeners, it does not require a standing speaker to move away from anyone passing by. Nor does it place any restriction on the content of any message that anyone may wish to communicate to anyone else, either inside or outside the regulated areas. It does, however, make it more difficult to give unwanted advice, particularly in the form of a handbill or leaflet, to persons entering or leaving medical facilities,\" Justice Stevens wrote for the Court. \"The unwilling listener's interest in avoiding unwanted communication has been repeatedly identified in our cases.\" Justices Antonin Scalia, Clarence Thomas, and Anthony M. Kennedy dissented.</p>\n"
+}

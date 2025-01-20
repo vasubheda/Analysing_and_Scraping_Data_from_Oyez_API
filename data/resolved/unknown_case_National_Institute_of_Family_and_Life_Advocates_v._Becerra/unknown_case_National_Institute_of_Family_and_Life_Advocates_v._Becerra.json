@@ -1,0 +1,42 @@
+{
+    "ID": 62921,
+    "name": "National Institute of Family and Life Advocates v. Becerra",
+    "href": "https://api.oyez.org/cases/2017/16-1140",
+    "view_count": 0,
+    "docket_number": "16-1140",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1510552800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54158"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1521522000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54220"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1529989200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54326"
+        }
+    ],
+    "question": "<p>Do disclosures required by a California reproductive rights law violate protections arising from the free speech clause of the First Amendment, applicable to the states through the 14th Amendment?</p>\n",
+    "citation": {
+        "volume": "585",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27554"
+    },
+    "term": "2017",
+    "description": "A case in which the Court decided that pro-life pregnancy center petitioners were likely to succeed on their claim that the California Reproductive Freedom, Accountability, Comprehensive Care, and Transparency Act violated the First Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/585/16-1140/",
+    "facts_of_the_case": "<p>The National Institute of Family and Life Advocates and two other religiously-affiliated pro-life entities engaged in providing pregnancy-related services in the state of California (collectively \u201cNIFLA\u201d) sought to enjoin the enforcement of the California Reproductive Freedom, Accountability, Comprehensive Care, and Transparency Act (the \u201cAct\u201d). The law\u2019s stated purpose is to ensure access to reproductive health services for all California women, regardless of income. NIFLA argued that the Act\u2019s requirements that (1) licensed clinics provide information to patients about free and low-cost publicly funded family planning services, including contraception and abortion, and that (2) unlicensed clinics inform patients of their unlicensed status violated their free speech and free exercise rights under the First Amendment.</p>\n<p>The U.S. District Court for the Southern District of California denied NIFLA\u2019s motion for preliminary injunction, concluding that they had not demonstrated a likelihood of success on the merits, as required under Winter v. Natural Resources Defense Council, Inc., 555 U.S. 7 (2008), as to either their free speech or free exercise claims.</p>\n<p>The Ninth Circuit affirmed, ruling that the district court had not abused its discretion by denying the injunction. The Court rejected NIFLA\u2019s argument that strict scrutiny should apply to the Act, because while the law compelled content-based speech by requiring NIFLA to disseminate information about low-cost family planning services, it did not discriminate based on viewpoint. Relying on its own precedent in the face of a circuit split regarding the level of scrutiny to apply in the abortion-related disclosure context, the Court reasoned that the type of speech at issue in this case was professional speech. It was therefore subject to intermediate scrutiny, which the family planning information disclosure requirement survived.\u00a0</p>\n<p>The Court also affirmed that the requirement that unlicensed facilities disclose their unlicensed status survived any level of scrutiny.</p>\n<p>Finally, the Court agreed with the decision below that NIFLA was not entitled to a preliminary injunction on free exercise grounds, finding that the Act to be a facially neutral law of general applicability that survived rational basis review. The Supreme Court\u2019s grant of certiorari did not include this issue.</p>\n",
+    "conclusion": "<p>In a 5-4 vote, the Court reversed and remanded, holding that the pro-life pregnancy center petitioners were likely to succeed on their claim that the California Reproductive Freedom, Accountability, Comprehensive Care, and Transparency Act (the \u201cFACT Act\u201d or the \u201cAct\u201d) violated the First Amendment.</p>\n<p>In an opinion authored by Justice Thomas, the Court began its discussion by explaining that the licensed notice was a content-based regulation that likely violated the First Amendment. The court rejected the Ninth Circuit\u2019s characterization of the licensed notice as regulating professional speech, stating that the Court had never recognized \u201cprofessional speech\u201d as a separate category of speech that was subject to different free speech rules. The Court explained that it had only granted lesser protection to professional speech in two situations--where professionals were required to disclose \u201cfactual, noncontroversial information in their \u2018commercial speech,\u2019\u2019\u2019 and where states regulated professional conduct that incidentally implicated speech--and that neither of those lines of authority were applicable in the instant case. The Court further stated that it had a long history of protecting the First Amendment rights of professionals outside of those two contexts, emphasizing that imposing content-based regulations on professional speech created a risk of the government seeking to suppress unpopular ideas rather than advance legitimate regulatory objectives. The Court also concluded that the licensed notice did not survive even intermediate scrutiny, as it was \u201cwildly underinclusive\u201d in light of the Act\u2019s stated purpose of providing low income women with information about the state-sponsored health services at issue.</p>\n<p>The Court also held that the unlicensed notice unduly burdened protected speech. Assuming without deciding that rules requiring professionals to disclose \u201cfactual, noncontroversial information in their \u2018commercial speech\u2019\u201d applied here, the Court stated that California was required to show that such disclosures were only justified if they addressed a potentially real and not simply hypothetical harm, and that here, the state had only presented hypothetical risks. And even if the state had overcome this requirement, the Court ruled that the unlicensed notice was still unduly burdensome because it \u201cimpose[d] a government-scripted, speaker-based disclosure requirement that [wa]s wholly disconnected from the State\u2019s informational interest,\u201d possibly leaving unburdened speakers whose messages aligned with the state\u2019s views.</p>\n<p>Justice Kennedy filed a concurring opinion, in which Chief Justice Roberts, and Justices Alito and Gorsuch joined.</p>\n<p>Justice Breyer filed a dissenting opinion, in which Justices Ginsburg, Sotomayor, and Kagan joined.\u00a0The dissent argued that both notice requirements were likely to pass constitutional scrutiny. Regarding the licensed notice, Breyer highlighted the Court\u2019s precedent permitting state notice requirements as to abortion alternatives, such as adoption, and asked why a state law couldn\u2019t require healthcare provider to provide information about abortion and childbirth services in this case. Breyer also rejected the majority\u2019s assertion that the unlicensed notice was supported by only a \u201chypothetical\u201d interest, as well as the conclusion that this particular requirement should be deemed facially unconstitutional due to the fact that it could create an undue burden in some situations.</p>\n"
+}

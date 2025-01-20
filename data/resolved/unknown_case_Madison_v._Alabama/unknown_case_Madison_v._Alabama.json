@@ -1,0 +1,42 @@
+{
+    "ID": 62991,
+    "name": "Madison v. Alabama",
+    "href": "https://api.oyez.org/cases/2018/17-7505",
+    "view_count": 0,
+    "docket_number": "17-7505",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1519624800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54262"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1538456400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54353"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1551247200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54461"
+        }
+    ],
+    "question": "<ol><li>Does the Eighth Amendment and the Court\u2019s jurisprudence prohibit a state from executing a prisoner whose mental disability leaves him with no memory of the commission of the capital offense?</li>\n<li>Does the Eighth Amendment prohibition of cruel and unusual punishment preclude a state from executing a prisoner who suffers from severe cognitive dysfunction such that he cannot remember the crime for which he was convicted or understand the circumstances of his scheduled execution?</li>\n</ol>",
+    "citation": {
+        "volume": "586",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27592"
+    },
+    "term": "2018",
+    "description": "A case in which the Court held that the Eighth Amendment does not prohibit a state from executing a prisoner who due to mental disability cannot remember committing his crime, but it does prohibit executing a prisoner who cannot rationally understand the reasons for his execution, whether that inability is due to psychosis or dementia.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/586/17-7505/",
+    "facts_of_the_case": "<p>Vernon Madison has been on death row in Alabama for over 30 years and has had several serious strokes, rendering him unable to remember committing the crime for which he is to be executed. He also exhibits other symptoms of brain damage, including slurred speech, blindness, inability to walk independently, and urinary incontinence. Madison was originally scheduled to be executed in May 2016, and he challenged his competency in state court. The court denied his claim, and Madison then sought habeas corpus relief in federal court. The US Court of Appeals for the Eleventh Circuit found that he was incompetent to be executed.</p>\n<p>In November 2017, the US Supreme Court reversed the grant of habeas corpus relief in <a href=\"https://www.oyez.org/cases/2017/17-193\"><em>Dunn v. Madison</em></a>, finding that the state court\u2019s determinations of law and fact were \u201cnot so lacking in justification\u201d as to give rise to error \u201cbeyond any possibility for fairminded disagreement\u201d as required under the Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA).</p>\n<p>Madison was rescheduled for execution for January 2018, and he again petitioned state court for relief, this time with new evidence that the court-appointed expert upon whose testimony the prior courts relied had been suspended from the practice of psychology. The court again denied his petition, finding Madison competent to be executed. Madison then sought asked the US Supreme Court to consider the constitutional issues underlying his claim, rather than the AEDPA ones it ruled on earlier.</p>\n",
+    "conclusion": "<p>The Eighth Amendment does not prohibit a state from executing a prisoner who cannot remember committing his crime, but it does prohibit executing a prisoner who cannot rationally understand the reasons for his execution, whether that inability is due to psychosis or dementia.</p>\n<p>In a 5-3 opinion authored by Justice Elena Kagan, the Court reviewed its precedents on the scope of the Eighth Amendment as applied to mentally incompetent death row prisoners. In 1986, the Court held in <a href=\"https://www.oyez.org/cases/1985/85-5542\"><em>Ford v. Wainwright</em>, 477 U.S. 399,</a> that the Eighth Amendment prohibits execution of a prisoner who has \u201clost his sanity\u201d after sentencing, relying on a \u201cmoral intuition\u201d that \u201ckilling one who has no capacity\u201d to understand his crime or punishment \u201csimply offends humanity.\u201d In Ford, the Court also pointed out that there is no \u201cretributive value\u201d in executing a person who has no comprehension of the sentence. In 2007, the Court in <a href=\"https://www.oyez.org/cases/2006/06-6407\"><em>Panetti v. Quarterman</em>, 551 U.S. 930,</a> provided more specific criteria for how to identify prisoners ineligible for execution, identifying the \u201ccritical question\u201d as whether a \u201c\u2018prisoner\u2019s mental state is so distorted by a mental illness\u2019 that he lacks a \u2018rational understanding\u2019 of \u2018the State\u2019s rationale for [his] execution.\u2019\u201d</p>\n<p>Although the parties disputed in the lower courts whether the lack of memory of commiting the crime, alone, disqualified a prisoner from execution, Madison accepted Alabama\u2019s position that it does not, under <em>Panetti</em>. Likewise, the parties disputed in the lower courts whether <em>Panetti</em> applies only to prisoners suffering from psychosis, and categorically excludes those suffering from dementia, and Alabama accepted Madison\u2019s position that it does not. The remaining issue, then, is whether the prisoner is unable to rationally understand the reasons for his sentence; if so, the Eighth Amendment forbids his execution. This is a question for the lower court on remand.</p>\n<p>Justice Samuel Alito filed a dissenting opinion in which Justices Clarence Thomas and Neil Gorsuch joined. The dissent would not have reached the second question, opining that Madison presented only the first question in its petition and that Madison\u2019s counsel raised the other question only after concluding that the first argument was unlikely to prevail.</p>\n<p>Justice Brett Kavanaugh took no part in the consideration or decision of the case.</p>\n"
+}

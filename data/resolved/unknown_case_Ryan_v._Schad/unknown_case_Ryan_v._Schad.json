@@ -1,0 +1,35 @@
+{
+    "ID": 55951,
+    "name": "Ryan v. Schad",
+    "href": "https://api.oyez.org/cases/2012/12-1084",
+    "view_count": 0,
+    "docket_number": "12-1084",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1372050000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41214"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1372050000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41215"
+        }
+    ],
+    "question": "<p>Did the U.S. Court of Appeals for the Ninth Circuit abuse its discretion by failing to issue the mandate for execution after the U.S. Supreme Court declined to issue a writ of certiorari?</p>\n",
+    "citation": {
+        "volume": "570",
+        "page": "521",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19873"
+    },
+    "term": "2012",
+    "description": "A case in which the Court determined that, once the Court has denied a petition for a writ of certiorari to an inmate on death row, the appellate court must issue a mandate for execution immediately absent extraordinary circumstances.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/570/521/",
+    "facts_of_the_case": "<p class=\"p1\">In 1985, an Arizona jury convicted Edward Schad of first-degree murder and sentenced him to death for strangling 74-year-old Lorimer Grove. His sentence was affirmed on direct appeal, and Schad sought state habeas relief based on ineffective assistance of counsel, but the state courts denied his petition. Schad then sought federal habeas relief based on his claim of ineffective assistance of counsel, which the district court denied. The U.S. Court of Appeals for the Ninth Circuit remanded the case to consider whether Schad\u2019s state habeas counsel was properly diligent, at which point the state of Arizona petitioned for a writ of certiorari from the Supreme Court. The Supreme Court granted the petition and remanded the case based on a recent decision holding that federal habeas review is limited to the record of the state habeas proceedings. The appellate court then affirmed the district court\u2019s denial of relief.</p>\n<p class=\"p1\">Schad filed a motion for the appellate court to reconsider, which was denied, and the Supreme Court again denied certiorari. Schad then filed a motion requesting a stay of the mandate for the execution, which the appellate court denied. Then, instead of issuing the mandate, the appellate court construed the previous motion as another motion to reconsider, which it granted and remanded the case to the district court.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam decision, the Court held that, once the Supreme Court has denied a petition for a writ of certiorari, the appellate court must issue the mandate for execution immediately absent extraordinary circumstances. In this case, there were no extraordinary circumstances because the argument that Schad advanced was exactly the same one that the appellate court and the Supreme Court had previously denied.</p>\n"
+}

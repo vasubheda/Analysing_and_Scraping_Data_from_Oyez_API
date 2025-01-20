@@ -1,0 +1,42 @@
+{
+    "ID": 55261,
+    "name": "Dura Pharmaceuticals, Inc. v. Broudo",
+    "href": "https://api.oyez.org/cases/2004/03-932",
+    "view_count": 0,
+    "docket_number": "03-932",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1088398800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52719"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1105509600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52720"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1113886800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39347"
+        }
+    ],
+    "question": "<p>To prove \"loss causation\" in a securities fraud case, is it sufficient to show that the price of the security on the date of purchase was inflated because of misrepresentation?</p>\n",
+    "citation": {
+        "volume": "544",
+        "page": "336",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/27083"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/544/336/",
+    "facts_of_the_case": "<p>Michael Broudo and a group of shareholders sued Dura Pharmaceuticals under the Securities and Exchange Act after the price of the company's stock dropped sharply. The shareholders alleged the company's misleading statements about its antibiotic sales and about the possibility of FDA approval of an asthma device caused the price drop. The district court ruled the investors failed to prove \"loss causation\" because they could not prove a causal connection between the alleged fraud and the drop in price. The Ninth Circuit Court of Appeals reversed and ruled the investors proved loss causation because they proved the stock price on the date of purchase was inflated because of misrepresentation.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Stephen Breyer, the Court held that an inflated purchase price did not by itself prove \"loss causation.\" At most, an inflated purchase price suggested that misrepresentation \"touched upon\" a later economic loss, but did not necessarily cause it. The Court reasoned that at the moment the transaction took place, the plaintiff had not suffered a loss because the inflated purchase price was offset by ownership of a share that possessed equivalent value at that instant. Further, the logical link between the inflated purchase price and any later economic loss was not invariably strong, because other factors may have affected the price.</p>\n"
+}

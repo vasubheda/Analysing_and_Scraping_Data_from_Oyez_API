@@ -1,0 +1,42 @@
+{
+    "ID": 55297,
+    "name": "Will v. Hallock",
+    "href": "https://api.oyez.org/cases/2005/04-1332",
+    "view_count": 0,
+    "docket_number": "04-1332",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1118034000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39446"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1133157600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39447"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1137564000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39448"
+        }
+    ],
+    "question": "<p>1) If a claim under the FTCA is dismissed on the grounds that it is covered by one of the Act's exceptions to the waiver of sovereign immunity, is the dismissal a final judgment that bars a subsequent suit against the individual federal employees who were involved? 2) Did the Circuit Court have jurisdiction under the collateral order doctrine to hear an appeal of the District Court's order?</p>\n",
+    "citation": {
+        "volume": "546",
+        "page": "345",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20588"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/546/345/",
+    "facts_of_the_case": "<p>U.S. Customs Service agents investigating a child pornography website raided Susan and Richard Hallock's residence and seized several computers. The Hallocks were cleared of any guilt, but the computers were damaged beyond repair. Susan Hallock originally sued the government under the Federal Tort Claims Act (FTCA), which waives the government's sovereign immunity in certain cases. The District Court dismissed that case for lack of jurisdiction, because the FTCA's waiver has an exception for claims arising from the detention of goods by customs. Hallock then sued Will and the other customs agents as individuals. The agents made a motion for dismissal under a provision of the FTCA that bars suits where a judgment on the claim has already been entered. The District Court denied the motion, accepting Hallock's argument that the dismissal for lack of jurisdiction did not constitute a final judgment. Although the trial had not yet concluded, the Second Circuit Court of Appeals granted the agents' appeal of the District Court's ruling on the motion and affirmed the District Court, ruling that since Hallock had not properly brought a claim in the original suit, no judgment had been entered. The Circuit Court ruled that it had jurisdiction to hear the appeal under the collateral order doctrine, under which some decisions of lower courts other than final judgments can be appealed. The Supreme Court granted certiorari on the question of the motion to dismiss, but instructed the parties to argue the question of the Circuit Court's authority to hear the appeal.</p>\n",
+    "conclusion": "<p>Unanswered, and no. In a unanimous opinion, the Court ruled that the Circuit Court had no jurisdiction to hear an appeal under the collateral order doctrine. Writing for the Court, Justice David Souter stressed the narrow scope of the doctrine. The Court reiterated that only orders that cannot be \"effectively\" reviewed after a final judgment can be appealed before the close of the trial. Essential to this determination is the importance of the interest at stake. In this case, the Court ruled that the agents' interest in appealing the District Court's order had no \"greater importance than the typical defense of claim preclusion\" and it therefore warranted \"no immediate appeal of right as a collateral order.\"</p>\n"
+}

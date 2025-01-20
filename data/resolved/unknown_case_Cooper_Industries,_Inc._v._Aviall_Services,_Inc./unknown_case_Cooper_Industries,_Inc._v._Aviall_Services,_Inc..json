@@ -1,0 +1,42 @@
+{
+    "ID": 55208,
+    "name": "Cooper Industries, Inc. v. Aviall Services, Inc.",
+    "href": "https://api.oyez.org/cases/2004/02-1192",
+    "view_count": 0,
+    "docket_number": "02-1192",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1073628000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39200"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1097038800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39201"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1102917600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39202"
+        }
+    ],
+    "question": "<p>Does the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA) require that a party liable for pollution be sued under CERCLA before seeking clean up funds from other liable parties?</p>\n",
+    "citation": {
+        "volume": "543",
+        "page": "157",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19136"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/543/157/",
+    "facts_of_the_case": "<p>Texas prodded Aviall Services to clean up contaminated property bought from Cooper Industries. Aviall sued in federal district court to force Cooper to pay some of the clean up costs. Aviall claimed it could sue Cooper under the federal Comprehensive Environmental Response, Compensation and Liability Act (CERCLA). Cooper admitted to being a potentially responsible party (PRP), but claimed it was not liable because Aviall was never sued to clean up the land and had no federal requirement to do so. The district court and a panel for the Fifth Circuit Court of Appeals ruled against Aviall. The entire appellate court reversed and ruled CERCLA does not require a PRP to first be sued before seeking clean up funds from other PRPs.</p>\n",
+    "conclusion": "<p>In a 7-2 opinion delivered by Justice Clarence Thomas, the Court held that a private party, who, like Aviall, had not been sued under CERCLA could not obtain cleanup contributions from other liable parties. The Court reasoned that CERCLA's language made clear that parties could seek cleanup contribution only during or following a civil action.</p>\n"
+}

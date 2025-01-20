@@ -1,0 +1,42 @@
+{
+    "ID": 55859,
+    "name": "Arizona v. United States",
+    "href": "https://api.oyez.org/cases/2011/11-182",
+    "view_count": 0,
+    "docket_number": "11-182",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1323410400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40948"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1335330000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40949"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1340600400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40950"
+        }
+    ],
+    "question": "<p>Do the federal immigration laws preclude Arizona's efforts at cooperative law enforcement and preempt the four provisions of S.B. 1070 on their face?</p>\n",
+    "citation": {
+        "volume": "567",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19781"
+    },
+    "term": "2011",
+    "description": "A case in which the Court found that Arizona's state immigration provisions conflicted in part with federal immigration laws.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/567/387/",
+    "facts_of_the_case": "<p>On April 23, 2010, the Arizona State Legislature passed S.B. 1070; Governor Jan Brewer signed the bill into law. On July 6, 2010, the United States sought to stop the enforcement of S.B. 1070 in federal district court before the law could take effect. The district court did not enjoin the entire act, but it did enjoin four provisions. The court enjoined provisions that (1) created a state-law crime for being unlawfully present in the United States, (2) created a state-law crime for working or seeking work while not authorized to do so, (3) required state and local officers to verify the citizenship or alien status of anyone who was lawfully arrested or detained, and (4) authorized warrantless arrests of aliens believed to be removable from the United States.</p>\n<p>Arizona appealed the district court's decision to the U.S. Court of Appeals for the Ninth Circuit. The appellate court affirmed the district court's decision, holding that the United States had shown that federal law likely preempted: (a) the creation of a state-crime for violation of federal registration laws, (b) the creation of a state-crime for work by unauthorized aliens, (c) the requirement to verify citizenship of all detained persons, and (d) the authorization for police officers to effect warrantless arrests based on probable cause of removability from the United States. Arizona appealed the court's decision.</p>\n",
+    "conclusion": "<p>Yes for provisions 1, 2, and 4; No for provision 3. Justice Anthony M. Kennedy, writing for a 5-3 majority, reversed in part and affirmed in part. The Supreme Court held that provision 1 conflicts with the federal alien registration requirements and enforcement provisions already in place. Provision 2 is preempted because its method of enforcement interferes with the careful balance Congress struck with federal laws on unauthorized employment of aliens. Provision 4 is preempted because it usurps the federal government's authority to use discretion in the removal process. This creates an obstacle to carrying out the purposes and objectives of federal immigration laws.</p>\n<p>The Court upheld provision 3 as constitutional on its face. This provision merely allows state law enforcement officials to communicate with the federal Immigrations and Customs Enforcement office during otherwise lawful arrests. The provision has three limitations that protect individual rights: a detainee is presumed not to be an illegal alien if he/she produces a valid Arizona drivers license; an officer may not consider race, color, or national origin during a check; and the check must be implemented in a manner consistent with federal law. Justice Kennedy noted that this decision did not foreclose any future constitutional challenges to the law on an as applied basis.</p>\n<p>Justice Antonin Scalia concurred in part and dissented in part, writing that all four provisions are constitutional. He argued that the Arizona statute does not conflict with federal law, but enforces federal immigration restrictions more effectively. Justice Clarence Thomas concurred in part and dissented in part, agreeing with Justice Scalia that all four provisions are constitutional. He argued that there is no conflict between the ordinary meaning of the federal laws and the Arizona statute. Justice Samuel A. Alito, Jr. concurred in part and dissented in part, agreeing with the majority on provisions 1 and 3, but disagreeing on 2 and 4. Justice Elena Kagan took no part in the consideration or decision in the case.</p>\n"
+}

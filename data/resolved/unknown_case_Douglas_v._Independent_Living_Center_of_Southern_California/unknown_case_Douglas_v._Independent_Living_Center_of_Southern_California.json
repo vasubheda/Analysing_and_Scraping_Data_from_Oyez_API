@@ -1,0 +1,42 @@
+{
+    "ID": 55845,
+    "name": "Douglas v. Independent Living Center of Southern California",
+    "href": "https://api.oyez.org/cases/2011/09-958",
+    "view_count": 0,
+    "docket_number": "09-958",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1295330400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40910"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1317618000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40911"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1329890400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40912"
+        }
+    ],
+    "question": "<p>Does federal law preempt state reductions in Medicaid payments?</p>\n",
+    "citation": {
+        "volume": "565",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19767"
+    },
+    "term": "2011",
+    "description": "A case which the Court remanded to the Ninth Circuit regarding whether or not federal law preempts state reductions in Medicaid payments.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/565/606/",
+    "facts_of_the_case": "<p>The California Legislature approved a series of cutbacks in the payments to physicians, hospitals and pharmacies to address the state's budget deficit. In each case, the providers have sued in federal court and won rulings from the United States Court of Appeals for the Ninth Circuit, which blocked the cutbacks on the grounds that they conflicted with the Medicaid law. The providers argued that if the cutbacks were approved, the state would not provide the level of care required under Medicaid.</p>\n<p>The Supreme Court agreed to hear three separate appeals from the state, all of which raise the same issue. The lead case is <em>Maxwell-Jolly v. Independent Living Center of Southern California</em>. The other two cases are <em>Maxwell-Jolly v. California Pharmacists Association</em> and <em>Maxwell-Jolly v. Santa Rosa Memorial Hospital</em>. David Maxwell-Jolly served as the director of California's Department of Health Care Services.</p>\n",
+    "conclusion": "<p>Maybe. In a 5-4 decision Justice Stephan G. Breyer wrote the majority opinion vacating the judgment and remanding to the Ninth Circuit. Since the court granted certiorari, the federal Centers for Medicare &amp; Medicaid Services (CMMS) approved many of the cutbacks as consistent with federal law. California withdrew all cutbacks that were not approved. In light of this development, the majority argued that the healthcare providers may need to seek review of the CMMS decision under the Administrative Procedure Act instead of maintaining a supremacy clause action. The Court remanded the case so the parties could prepare new arguments based on the new circumstances.</p>\n<p>Chief Justice John G. Roberts Jr. wrote a dissent, stating that he would reverse because the health care providers no longer have a cause of action under the Supremacy Clause. Justices Antonin Scalia, Clarence Thomas, and Samuel A. Alito Jr. joined in the dissent.</p>\n"
+}

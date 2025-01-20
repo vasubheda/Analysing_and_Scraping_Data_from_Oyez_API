@@ -1,0 +1,42 @@
+{
+    "ID": 55531,
+    "name": "John R. Sand & Gravel Company v. United States",
+    "href": "https://api.oyez.org/cases/2007/06-1164",
+    "view_count": 0,
+    "docket_number": "06-1164",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1180414800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40078"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1194328800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40079"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1199772000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40080"
+        }
+    ],
+    "question": "<p>Is the six-year statute of limitations in the Tucker Act a jurisdictional requirement?</p>\n",
+    "citation": {
+        "volume": "552",
+        "page": "130",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20721"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/552/130/",
+    "facts_of_the_case": "<p>John R. Sand &amp; Gravel Company had leased the rights to mine sand and gravel on a piece of Michigan property that also contained an old landfill. After thousands of drums of illegally-buried industrial waste were discovered in the landfill, the EPA started a clean-up operation. In 1994 the EPA erected a security fence around its operations. Although John R. Sand kept mining other parts of the property, the fence blocked certain mining sites. John R. Sand's ability to mine the area was still impeded after the EPA moved the fence in 1998. In 2002 John R. Sand brought suit against the government, arguing that the restrictions on its operations amounted to a Fifth Amendment taking of property. The Tucker Act waives the government's sovereign immunity for such suits, but the Act has a six-year statute of limitations. John R. Sand argued that the issue in its claim originated in 1998 when the EPA moved its fence and for the first time obtained an order granting it unrestrained access to the property. The government countered that the claim actually accrued back in 1994 when the fence first went up, which would make the suit untimely. The U.S. Court of Federal Claims ruled that the suit was timely, but it also ruled that the government was not liable for a Fifth Amendment taking.</p>\n<p>In John R. Sand's appeal to the U.S. Court of Appeals for the Federal Circuit, the issue of the statute of limitations was raised again - not by either of the parties, but by a group of corporations who were not parties to the case. Citing its own precedents, the Federal Circuit ruled that the statute of limitations was jurisdictional. Jurisdictional requirements determine whether courts can hear a case. They cannot be waived by the parties to the case, and courts can consider jurisdictional issues on the courts' own initiative. The Federal Circuit ruled that John R. Sand's claim accrued no later than 1994. Since the suit fell outside the time limit, the Federal Circuit ruled that it lacked jurisdiction and it dismissed the case without considering the merits of the Fifth Amendment claim.</p>\n",
+    "conclusion": "<p>In a seven-member majority opinion written by Justice Stephen G. Breyer, the Court upheld the Federal Circuit ruling that the statute of limitations was \"jurisdictional,\" or a predicate for court authority. Breyer referred to roughly five decades of the Court's case law to determine that the doctrine of stare decisis required it to follow the time limit and dismiss John R. Sand's claim. Justices John Paul Stevens and Ruth Bader Ginsburg filed separate dissenting opinions, each essentially reading the case law in a different light and determining that it had established a more flexible standard for applying statutes of limitation to suits against the government.</p>\n"
+}

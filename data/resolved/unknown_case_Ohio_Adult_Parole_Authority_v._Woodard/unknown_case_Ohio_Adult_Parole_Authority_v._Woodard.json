@@ -1,0 +1,35 @@
+{
+    "ID": 54616,
+    "name": "Ohio Adult Parole Authority v. Woodard",
+    "href": "https://api.oyez.org/cases/1997/96-1769",
+    "view_count": 0,
+    "docket_number": "96-1769",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                881733600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38015"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                890805600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38016"
+        }
+    ],
+    "question": "<p>Does an inmate have a protected life or liberty interest in clemency proceedings? Does the option of voluntarily participating in an interview as part of the clemency process violate an inmate's Fifth Amendment rights?</p>\n",
+    "citation": {
+        "volume": "523",
+        "page": "272",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18545"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/523/272/",
+    "facts_of_the_case": "<p>After Eugene Woodard's death sentence was finalized, the Ohio Adult Parole Authority commenced a clemency investigation. The Authority informed Woodard of his voluntary interview and clemency hearing. Ultimately, Woodard filed suit, alleging that Ohio's clemency process violated his Fourteenth Amendment due process right and his Fifth Amendment right to remain silent. Ultimately, the Court of Appeals held that Woodard had failed to establish a life or liberty interest protected by due process arising out of the clemency proceeding itself. The appellate court, however, also held that Woodard's pretrial life and liberty interests were protected because a minimal amount of due process attached to clemency due to its distance from trial. Subsequently, the Court of Appeals remanded the case for a determination as to what that process should be.</p>\n",
+    "conclusion": "<p>No and no. In an opinion delivered by Chief Justice William H. Rehnquist, the Court unanimously held that Ohio had not violated the Woodard's privilege against compelled self-incrimination by giving him the option of voluntarily participating in a clemency interview without the benefit of counsel or a grant of immunity for any statements. In an 8-1 split, with Justice John Paul Stevens dissenting, the Court held that Ohio's clemency procedures do not violate due process. The eight-member majority was unable to agree on an opinion as to the extent of due process protections required in clemency proceedings.</p>\n"
+}

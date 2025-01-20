@@ -1,0 +1,35 @@
+{
+    "ID": 55064,
+    "name": "Dastar Corporation v. Twentieth Century Fox Film Corporation",
+    "href": "https://api.oyez.org/cases/2002/02-428",
+    "view_count": 0,
+    "docket_number": "02-428",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1049263200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38852"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1054530000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38853"
+        }
+    ],
+    "question": "<p>Does the Lanham Act prevent the unaccredited copying of a work? If so, may a court double a profit award under the Act in order to deter future infringing conduct?</p>\n",
+    "citation": {
+        "volume": "539",
+        "page": "23",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/18993"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/539/23/",
+    "facts_of_the_case": "<p>Doubleday published the WWII book, Crusade in Europe, registered the work's copyright, and granted exclusive television rights to Twentieth Century Fox Film Corporation. In 1975, Doubleday renewed the book's copyright, but Fox never renewed the copyright on the television series, leaving the series in the public domain. In 1988, Fox reacquired the television rights. In 1995, Dastar Corporation released a video set, World War II Campaigns in Europe, which it made from tapes of the original version of the Crusade television series. Fox filed suit, alleged that Dastar's sale of Campaigns without proper credit to the Crusade television series constituted \"reverse passing off\" in violation of the Lanham Act. The District Court granted Fox summary judgment. In affirming, the Court of Appeals held that, because Dastar copied substantially the Crusade series, labeled it with a different name, and marketed it without attribution to Fox, Dastar had committed a \"bodily appropriation\" of Fox's series, which was sufficient to establish reverse passing off.</p>\n",
+    "conclusion": "<p>No; the Court did not answer the question. In an 8-0 opinion delivered by Justice Antonin Scalia, the Court held that section 43(a) of the Lanham Act does not prevent the unaccredited copying of an uncopyrighted work. Under the Lanham Act, the Court reasoned that no false designation of origin was shown since the phrase \"origin of goods,\" as used in the Act, did not connote the person or entity that originated the ideas contained in the video, but instead referred only to the producer's tangible video product. Thus, Dastar was the \"origin\" of the products it sold as its own, without acknowledging the series, because it marketed a video that copied a public domain television series. Justice Stephen G. Breyer took no part in the consideration or decision of this case.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55630,
+    "name": "Union Pacific R. Co. v. Locomotive Engineers",
+    "href": "https://api.oyez.org/cases/2009/08-604",
+    "view_count": 0,
+    "docket_number": "08-604",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1235368800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40359"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1254891600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40360"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1260252000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40361"
+        }
+    ],
+    "question": "<p>1) Did the Seventh Circuit err in setting aside a final arbitration award for an alleged due process violation?</p>\n<p>2) Are prearbitration settlement conferences a prerequisite for NRAB jurisdiction over a dispute?</p>\n",
+    "citation": {
+        "volume": "558",
+        "page": "67",
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/19553"
+    },
+    "term": "2009",
+    "description": "A case in which the Court further held that pre-arbitration settlement conferences are not a prerequisite for National Railroad Adjustment Board jurisdiction over a dispute.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/558/67/",
+    "facts_of_the_case": "<p>The plaintiffs, employees of the Union Pacific Railroad (UPR), filed claims through their union, Brotherhood of Locomotive Engineers and Trainmen (BLET), contesting their discharge or discipline imposed by the UPR. The National Railroad Adjustment Board (NRAB) dismissed the claims for lack of jurisdiction reasoning that the BLET failed to submit conclusive evidence that the aggrieved parties had held a conference with the UPR to attempt to resolve the disputes \u2013 a prerequisite to arbitration \u2013 though conferences were in fact held. The plaintiffs appealed to a federal district where the dismissal was affirmed.</p>\n<p>On appeal, the U.S. Court of Appeals for the Seventh Circuit reversed, holding that the NRAB denied the plaintiffs due process by requiring evidence of conferencing on the record as a prerequisite to arbitration. The court reasoned that this requirement was not clearly established in the statutes, regulations, or collective bargaining agreement and therefore the NRAB had created a new requirement, which it imposed retroactively.</p>\n",
+    "conclusion": "<p>Yes and No. With Justice Ruth Bader Ginsburg writing for a unanimous bench, the Court held that the Seventh Circuit effectively resolved the Union's core complaint, but erred in doing so under a \"constitutional, rather than statutory headline.\" The Court reasoned that there was no due process issue \"alive\" in the case. The Court further held that prearbitration settlement conferences are not a prerequisite for NRAB jurisdiction over a dispute. The Court reasoned that prearbitration conference requirements set out by the NRAB run independent of the collective bargaining process and do not bear on the merits of an actual grievance.</p>\n"
+}

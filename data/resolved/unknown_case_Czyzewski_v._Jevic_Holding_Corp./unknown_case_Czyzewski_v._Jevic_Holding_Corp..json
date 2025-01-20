@@ -1,0 +1,42 @@
+{
+    "ID": 62735,
+    "name": "Czyzewski v. Jevic Holding Corp.",
+    "href": "https://api.oyez.org/cases/2016/15-649",
+    "view_count": 0,
+    "docket_number": "15-649",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1467090000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53877"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1481090400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53923"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1490158800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53999"
+        }
+    ],
+    "question": "<p>Can a bankruptcy court authorize a distribution of settlement proceeds in a manner that does not comply with the Bankruptcy Code\u2019s priority distribution scheme?</p>\n",
+    "citation": {
+        "volume": "580",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27446"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that bankruptcy court cannot authorize a distribution of settlement proceeds in a manner that does not comply with the Bankruptcy Code\u2019s priority distribution scheme.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/580/15-649/",
+    "facts_of_the_case": "<p>Jevic Transportation, Inc. was a trucking company headquartered in New Jersey that in 2006 was purchased by a subsidiary of Sun Capital Partners. In 2008, Jevic filed for bankruptcy under Chapter 11 of the Bankruptcy Code; at that point, it owed about $53 million to its first-priority senior secured creditors and about $20 million to its tax and general unsecured creditors. Two lawsuits ensued in bankruptcy court: one was the truck drivers suing Jevic for violating federal and state Worker Adjustment and Retraining Notification Acts, which required 60 days\u2019 notice to workers before they were laid off, and the other was a fraudulent conveyance action on behalf of the unsecured creditors. In March 2012, the parties to the fraudulent conveyance action negotiated a structured dismissal settlement that disposed of many of the claims, but left out the drivers. The drivers objected to the settlement because it distributed property to creditors of lower priority than the drivers, according to the priorities established in the Bankruptcy Code. The bankruptcy court rejected the objections and approved the proposed settlement. The federal district court and the U.S. Court of Appeals for the Third Circuit affirmed and held that the bankruptcy court had the discretion to approve a settlement scheme outside of the Chapter 11 proceedings that did not comply with the Bankruptcy Code\u2019s distribution scheme.</p>\n",
+    "conclusion": "<p dir=\"ltr\">Bankruptcy courts cannot authorize distributions of settlement proceeds that do not follow the priority distribution scheme established in the Bankruptcy Code without the consent of the affected creditors. Justice Stephen G. Breyer delivered the opinion of the 6-2 majority. The Court held that, although the Bankruptcy Code does not explicitly state that the priority distribution rules apply to structured dismissal settlements, the priority system is so integral to the Bankruptcy Code that it should be presumed to apply absent an affirmative expression of Congress\u2019 intent to do otherwise. Although the dismissal sections of the Bankruptcy Code grant judges some flexibility, that flexibility should be interpreted in the larger context of the statute as limited to orders that protect the reliance interests in the bankruptcy case, including those based on the priority rules. Although there have been lower court holdings that have allowed for settlement distributions that violated the priority scheme, those were interim dispositions, rather than final dispositions as in this case. Allowing a settlement distribution to deviate from the priority distribution scheme at the final distribution stage would circumvent the Bankruptcy Code\u2019s procedural safeguards and therefore is impermissible.</p>\n<p>Justice Clarence Thomas wrote a dissent in which he argued that the parties briefed and argued a narrower issue than they had first presented to the Court. While the original question had been the subject of multiple cases in the lower courts that had come out different ways, the narrower formulation of the question has not been extensively addressed by the lower courts and the Court should have declined to answer it. Justice Alito joined in the dissent.</p>\n"
+}

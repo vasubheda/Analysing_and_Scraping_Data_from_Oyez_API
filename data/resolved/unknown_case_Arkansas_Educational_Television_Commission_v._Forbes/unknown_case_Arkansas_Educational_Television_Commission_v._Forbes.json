@@ -1,0 +1,35 @@
+{
+    "ID": 54609,
+    "name": "Arkansas Educational Television Commission v. Forbes",
+    "href": "https://api.oyez.org/cases/1997/96-779",
+    "view_count": 0,
+    "docket_number": "96-779",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                876286800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38001"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                895467600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38002"
+        }
+    ],
+    "question": "<p>Is the exclusion of a ballot-qualified candidate from a debate sponsored by a state-owned public television broadcaster a violation of the candidate's First Amendment right to freedom of speech?</p>\n",
+    "citation": {
+        "volume": "523",
+        "page": "666",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18538"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/523/666/",
+    "facts_of_the_case": "<p>During the 1992 race for Arkansas' Third Congressional District, the Arkansas Educational Television Commission (AETC) -- a state-owned public television broadcaster -- sponsored a debate between the major party candidates. Running as an independent candidate with little popular support, Ralph Forbes sought to participate in the debate but was denied permission. After unsuccessfully challenging AETC's refusal in district court, Forbes appealed and won a reversal. AETC then appealed and the Supreme Court granted certiorari.</p>\n",
+    "conclusion": "<p>No. In a 6-to-3 decision, the Court held that public broadcasters could selectively exclude participants from their sponsored debates, so long as these were not designed as \"public forums.\" The Court found that by reserving participation rights only to candidates for a particular congressional district, rather then hosting an open-microphone format, and selecting among those which were eligible to participate, based on objective indications of their popular support rather then their view points, AETC's debate was a \"nonpublic forum.\" As such, AETC could decide who should and should not participate in its sponsored event.</p>\n"
+}

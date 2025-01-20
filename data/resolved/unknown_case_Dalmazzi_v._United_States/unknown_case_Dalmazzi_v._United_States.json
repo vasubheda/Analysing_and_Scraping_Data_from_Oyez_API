@@ -1,0 +1,42 @@
+{
+    "ID": 62891,
+    "name": "Dalmazzi v. United States",
+    "href": "https://api.oyez.org/cases/2017/16-961",
+    "view_count": 0,
+    "docket_number": "16-961",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1506574800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54119"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1516082400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54175"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1529643600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54307"
+        }
+    ],
+    "question": "<ol><li>Does the Court have jurisdiction to review two of the consolidated cases under 28 U.S.C. \u00a7 1259(3)?</li>\n<li>Does Judge Martin T. Mitchell\u2019s simultaneous service on the US Court of Military Commission Review (CMCR) and the US Air Force Court of Criminal Appeals (AFCCA) violate the Appointments Clause?</li>\n<li>Does Judge Mitchell\u2019s service on the CMCR disqualify him from continuing to serve on the AFCCA?</li>\n<li>Did the US Court of Appeals for the Armed Forces err in holding Petitioner\u2019s claims moot?</li>\n</ol>",
+    "citation": {
+        "volume": "585",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27539"
+    },
+    "term": "2017",
+    "description": "A case in which the Court was asked to determine (1) whether it has jurisdiction to review two of the consolidated cases under 28 U.S.C. \u00a7 1259(3); (2) whether Judge Martin T. Mitchell\u2019s simultaneous service on the US Court of Military Commission Review (CMCR) and the US Air Force Court of Criminal Appeals (AFCCA) violated the Appointments Clause; (3) whether Judge Mitchell\u2019s service on the CMCR disqualified him from continuing to serve on the AFCCA; and (4) whether the US Court of Appeals for the Armed Forces erred in holding Petitioner\u2019s claims moot.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/585/16-961/",
+    "facts_of_the_case": "<p>Since shortly after the Civil War, federal law has required express authorization from Congress before active-duty military officers may hold a \"civil office,\u201d including positions that require \"an appointment by the President by and with the advice and consent of the Senate.\" 10 U.S.C. \u00a7 973(b)(2)(A)(ii). After President Obama nominated and the Senate confirmed Colonel Martin T. Mitchell as a judge of the Article I US Court of Military Commission Review (CMCR), Judge Mitchell continued to serve on the US Air Force Court of Criminal Appeals (CCA). A judge convicted Nicole Dalmazzi of wrongfully using ecstasy, a Schedule I controlled substance and sentenced her to dismissal and confinement for one month. The AFCCA affirmed the findings and sentence. Dalmazzi moved the CCA to vacate its judgment because of the participation of Judge Mitchell on the panel. Before the CCA ruled on her motion, Dalmazzi filed a petition for review with the Court of Appeals for the Armed Forces (CAAF), so the CCA dismissed the motion for lack of jurisdiction. The CAAF rejected as moot Dalmazzi\u2019s challenge to Judge Mitchell's continued service on the AFCCA, because his CMCR commission had not been signed until after the AFCCA decided her case on the merits. Both of the other consolidated cases involve similar facts, where Judge Mitchell was on the CCA panel that affirmed the convictions of the petitioners.</p>\n",
+    "conclusion": "<p>In a per curiam opinion, the Court dismissed the writ of certiorari as improvidently granted in this case and in the consolidated case Cox v. United States (16-1017). The Court reached the merits and issued a decision in the third consolidated case only, <a href=\"https://www.oyez.org/cases/2017/16-1423\">Ortiz v. United States (16-1423)</a>.</p>\n"
+}

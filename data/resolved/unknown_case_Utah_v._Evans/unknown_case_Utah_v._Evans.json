@@ -1,0 +1,35 @@
+{
+    "ID": 55014,
+    "name": "Utah v. Evans",
+    "href": "https://api.oyez.org/cases/2001/01-714",
+    "view_count": 0,
+    "docket_number": "01-714",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1017208800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38756"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1024549200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38757"
+        }
+    ],
+    "question": "<p>Does the Census Bureau's use of \"hot-deck imputation,\" in the 2000 census, violate the statutory provision forbidding use of the statistical method known as sampling? Is this methodology inconsistent with the Constitution's statement that an \"actual Enumeration be made?</p>\n",
+    "citation": {
+        "volume": "536",
+        "page": "452",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/18943"
+    },
+    "term": "2001",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/536/452/",
+    "facts_of_the_case": "<p>In conducting the 2000 census, the Census Bureau used \"hot-deck imputation\" to fill in certain gaps in its information and resolved certain conflicts in the data. Under this methodology, the Bureau imputes the relevant information by inferring that the address or unit about which it is uncertain has the same population characteristics as those of its geographically closest neighbor of the same type. Hot-deck Imputation increased North Carolina's population by 0.4% while increasing Utah's population by only 0.2% such that North Carolina will receive one more Representative and Utah one less than if the Bureau had simply filled relevant informational gaps by counting the related number of individuals as zero. Utah brought suit against the officials charged with conducting the census, claiming that the Bureau's use of hot-deck imputation violates 13 USC section 195, which prohibits use of \"the statistical method known as 'sampling,'\" and is inconsistent with Article 1, section 2, clause 3 of the Constitution, which states that an \"actual Enumeration be made.\" Utah sought an injunction compelling a change of the official census results. The District Court found for the Bureau.</p>\n",
+    "conclusion": "<p>No and no. In a 5-4 opinion delivered by Justice Stephen G. Breyer, the Court held that the use of hot-deck imputation violates neither the statute nor the Constitution. The Court reasoned that, whereas sampling seeks to extrapolate the features of a large population from a small one, the Bureau's imputation process simply sought to fill in missing data as part of an effort to count individuals one by one and that these differences placed imputation outside the scope of the prohibitive statute. Furthermore, the Court reasoned that Article 1's wording that the \"actual Enumeration\" shall take place \"in such Manner as\" Congress itself \"shall by Law direct,\" suggested a breadth of congressional methodological authority, rather than a limitation.</p>\n"
+}

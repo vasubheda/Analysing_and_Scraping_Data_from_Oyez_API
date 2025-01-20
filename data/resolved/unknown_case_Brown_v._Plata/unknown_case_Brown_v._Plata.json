@@ -1,0 +1,42 @@
+{
+    "ID": 55798,
+    "name": "Brown v. Plata",
+    "href": "https://api.oyez.org/cases/2010/09-1233",
+    "view_count": 0,
+    "docket_number": "09-1233",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1276491600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40784"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1291096800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40785"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1306126800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40786"
+        }
+    ],
+    "question": "<p>Does a court order requiring California to reduce its prison population to remedy unconstitutional conditions in its correctional facilities violate the Prison Litigation Reform Act?</p>\n",
+    "citation": {
+        "volume": "563",
+        "page": "493",
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19720"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that a court order requiring California to reduce its prison population to remedy unconstitutional conditions in its correctional facilities did not violate the Prison Litigation Reform Act. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/563/493/",
+    "facts_of_the_case": "<p>The Prison Law Office in Berkeley, Calif., filed a class-action lawsuit in April 2001 on behalf of Marciano Plata and several other prisoners, alleging that California prisons were in violation of the Eighth Amendment to the Constitution, which bans \"cruel and unusual punishment.\" Following a lengthy trial, a special panel of three federal judges determined that serious overcrowding in California's 33 prisons was the \"primary cause\" for violations of the Eighth Amendment. The court ordered the release of enough prisoners so the inmate population would come within 137.5 percent of the prisons' total design capacity. That amounts to between 38,000 and 46,000 inmates being released.</p>\n",
+    "conclusion": "<p>No. The Supreme Court affirmed the decision of special panel in an opinion by Justice Anthony Kennedy. \"The court-mandated population limit is necessary to remedy the violation of prisoners' constitutional rights and is authorized by the PLRA,\" Kenney wrote for the 5-4 majority. Justice Antonin Scalia filed a dissenting opinion, joined by Justice Clarence Thomas, in which he admonished the majority for affirming \"what is perhaps the most radical injunction issued by a court in our Nation's history: an order requiring California to release the staggering number of 46,000 convicted criminals.\" Justice Samuel Alito filed a separate dissenting opinion, joined by Chief Justice John Roberts, in which he wrote that the \"Constitution does not give federal judges the authority to run state penal systems.\"</p>\n"
+}

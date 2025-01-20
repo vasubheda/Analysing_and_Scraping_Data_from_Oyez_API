@@ -1,0 +1,35 @@
+{
+    "ID": 54758,
+    "name": "Chicago v. Morales",
+    "href": "https://api.oyez.org/cases/1998/97-1121",
+    "view_count": 0,
+    "docket_number": "97-1121",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                913183200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38275"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                928990800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38276"
+        }
+    ],
+    "question": "<p>Does Chicago's Gang Congregation Ordinance, which prohibits \"criminal street gang members\" from loitering in public places, violate the Due Process Clause of the Fourteenth Amendment to the U.S. Constitution?</p>\n",
+    "citation": {
+        "volume": "527",
+        "page": "41",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18687"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/527/41/",
+    "facts_of_the_case": "<p>Chicago's Gang Congregation Ordinance prohibits \"criminal street gang members\" from loitering in public places. If a police officer observes a person whom he reasonably believes to be a gang member loitering in a public place with one or more persons, he shall order them to disperse. A violation of the ordinance arises when anyone does not promptly obey a dispersal order. An officer's discretion was purportedly limited by confining arrest authority to designated officers, establishing detailed criteria for defining street gangs and membership therein, and providing for designated, but publicly undisclosed, enforcement areas. In 1993, Jesus Morales was arrested and found guilty under the ordinance for loitering in a Chicago neighborhood after he ignored police orders to disperse. Ultimately, after Morales challenged his arrest, the Illinois Supreme Court held that the ordinance violated due process of law in that it is impermissibly vague on its face and an arbitrary restriction on personal liberties.</p>\n",
+    "conclusion": "<p>Yes. In a plurality ruling, Justice John Paul Stevens delivered an opinion for a majority on several key points. The Court held that Chicago's Gang Congregation Ordinance was unconstitutionally vague and provided law enforcement officials too much discretion to decide what activities constitute loitering. Justice Stevens wrote for the majority that the ordinance's definition of loitering as \"to remain in any one place with no apparent purpose\" does not give people adequate notice of what is prohibited and what is permitted, even if a person does not violate the law until he refuses to disperse. \"'[A] law fails to meet the requirements of the Due Process Clause if it is so vague and standardless that it leaves the public uncertain as to the conduct it prohibits,'\" noted Justice Stevens, \"[i]f the loitering is in fact harmless and innocent, the dispersal order itself is an unjustified impairment of liberty.\"</p>\n"
+}

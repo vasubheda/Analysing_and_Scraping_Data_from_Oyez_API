@@ -1,0 +1,35 @@
+{
+    "ID": 55151,
+    "name": "Till et ux. v. SCS Credit Corp.",
+    "href": "https://api.oyez.org/cases/2003/02-1016",
+    "view_count": 0,
+    "docket_number": "02-1016",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1070344800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52710"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1084770000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39040"
+        }
+    ],
+    "question": "<p>What is the proper interest rate when a bankruptcy filer seeks to reschedule his payments on a loan so that they are equal to the \"total present value\" of the loan?</p>\n",
+    "citation": {
+        "volume": "541",
+        "page": "465",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/20526"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/541/465/",
+    "facts_of_the_case": "<p>Lee Till owed $4,000 in payments on his truck when he filed for Chapter 13 bankruptcy. Under the Bankruptcy Code, a Chapter 13 debtor must promise each creditor future payments \"not less than the [claim's] allowed amount.\" When a repayment plan includes a series of payments (installments), as Till's did, the installments must equal the \"total present value\" of the amount owed. Till proposed that he make monthly payments on the truck to SCS Credit with a 9.5 percent yearly interest rate, which was slightly higher than the average loan rate to make up for the increased risk that Till would fail to make a payment (because he had already declared bankruptcy once). SCS, however, argued that it was entitled to 21 percent interest because that was how much it would have made if it had foreclosed on the loan, taken the truck, sold it, and reinvested the proceeds. SCS argued that this 21 percent plan was necessary to ensure that the payments were equal to the \"total present value\" or \"not less than the [claim's] allowed amount.\" The bankruptcy court ruled for Till. The district court reversed, imposing SCS's 21 percent rate. A divided Seventh Circuit Court of Appeals panel modified that approach slightly, ruling that the 21 percent rate was probably correct but that the parties could introduce evidence that a higher or lower rate should apply.</p>\n",
+    "conclusion": "<p>In a decision that had no majority opinion, four justices held that the proper rate was the 9.5 percent one arrived at by modifying the average national loan rate to make up for the increased risk of non-payment. While this would not give the creditors the same amount of money that they might have gotten had they seized the collateral for the loan, it nevertheless met the statutory requirement that the repayments equal the \"total present value.\" Justice Clarence Thomas, in a separate opinion that provided the fifth vote needed for judgment, found that the 9.5 percent rate was acceptable, but that it could be even lower because the Bankruptcy Code did not require the judge to accommodate for the risk of non-payment.</p>\n"
+}

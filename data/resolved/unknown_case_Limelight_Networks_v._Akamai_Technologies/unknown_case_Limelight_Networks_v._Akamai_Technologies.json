@@ -1,0 +1,42 @@
+{
+    "ID": 62255,
+    "name": "Limelight Networks v. Akamai Technologies",
+    "href": "https://api.oyez.org/cases/2013/12-786",
+    "view_count": 0,
+    "docket_number": "12-786",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1389333600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52603"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1398834000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52604"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1401685200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52605"
+        }
+    ],
+    "question": "<p>Did the Federal Circuit court err in holding that a defendant may be liable for inducing patent infringement under \u00a7 271(b) even if no party committed direct infringement under \u00a7271(a)?</p>\n",
+    "citation": {
+        "volume": "572",
+        "page": "915",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/27051"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that a party is not liable for patent infringement under 35 U.S.C. \u00a7 271(b) unless the party has also violated Section 217(a)o or any other statutory provision.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/572/915/",
+    "facts_of_the_case": "<p>In the late 1990s, two professors at the Massachusetts Institute of Technology (MIT), Tom Leighton and Daniel Lewin, began to research techniques to provide stable internet services during periods of high traffic. These men eventually founded Akamai Technologies, Inc. (Akamai) to capitalize on this research. Akamai is an internet content delivery company that owns and maintains thousands of servers around the United States and contracts with internet service providers. By contracting with these companies, Akamai can deliver stable, fast internet to far-reaching customers with less danger of internet slowdown or failure. On July 14, 1998, the two men filed a patent through MIT for a method designed to alleviate Internet congestion by delivering content from multiple available servers. MIT then licensed this patent to Akamai.</p>\n<p>Shortly thereafter, several other internet companies filed patent applications for internet content delivery systems. This led to a series of litigations that spanned from the late 1990s to the mid-2000s. In 2004, in the midst of these court battles, Akamai entered into negotiations to purchase Limelight Networks, Inc. (Limelight). In 2006, however, Limelight informed Akamai that it no longer wished to be purchased. Akamai subsequently sued Limelight in district court for violating 35 U.S.C. \u00a7 271(a) and \u00a7 271(b), federal laws prohibiting patent infringement. Specifically, \u00a7 271(a) prohibits general patent infringement and \u00a7 271(b) prohibits inducing patent infringement.</p>\n<p>The case proceeded to trial and a jury awarded Akamai a $41.5 million verdict based on lost profit, lost royalties, interest, and price erosion damages. After a series of post-trial motions, the district court ultimately ruled in favor of Limelight and held that, although Akamai's patent was violated, much of the violation occurred when Limelight's customers took the key steps to violate the patent. Although Limelight allowed these steps to occur, it did not control its customers' actions and therefore was not liable. The U.S. Court of Appeals for the Federal Circuit affirmed and held that an entity accused of patent infringement must either perform all of the steps of the claimed method, either personally or through its direct control.</p>\n",
+    "conclusion": "<p>Yes. Justice Samuel A. Alito, Jr. wrote the opinion for the unanimous Court. The Court held that liability for inducement can only be found when there is direct patent infringement. Because patent rights extend only to the claimed combination of steps, there is no direct patent infringement unless all the steps are carried out. The Court also held that conduct that would be infringing in altered circumstances cannot be the basis of liability for inducement. The Court declined to rule on the merits of the Federal Circuit's rule for direct patent infringement, which states that a single party must perform or exercise \"control or direction\" over each step of the patented process.</p>\n"
+}

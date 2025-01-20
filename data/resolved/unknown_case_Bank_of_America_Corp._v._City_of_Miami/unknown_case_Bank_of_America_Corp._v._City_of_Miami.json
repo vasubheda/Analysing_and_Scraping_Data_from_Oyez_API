@@ -1,0 +1,42 @@
+{
+    "ID": 62737,
+    "name": "Bank of America Corp. v. City of Miami",
+    "href": "https://api.oyez.org/cases/2016/15-1111",
+    "view_count": 0,
+    "docket_number": "15-1111",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1467090000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53879"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1478584800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53915"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1493614800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54034"
+        }
+    ],
+    "question": "<ol><li>Does the language in the Fair Housing Act that limits standing to sue to \u201caggrieved person[s]\u201d mean that Congress meant to impose a more narrow standing requirement than that in Article III of the Constitution?</li>\n<li>Does the proximate cause standard in the Fair Housing Act require that the plaintiffs show more than the possibility that the defendants could have foreseen the harm that occurred through a chain of consequences?</li>\n</ol>",
+    "citation": {
+        "volume": "581",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27448"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that the \u201caggrieved persons\u201d language of the Fair Housing Act (FHA) does not impose a more narrow standing standard than Article III does and allows a city to sue, but the proximate cause standard requires the plaintiffs to show more than the possibility that a defendant could have foreseen the harm.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/581/15-1111/",
+    "facts_of_the_case": "<p>The city of Miami sued Bank of America Corporation and similar defendants under the Federal Housing Act (FHA) and argued that the banks engaged in predatory lending practices that targeted minorities for higher-risk loans, which resulted in high rates of default and caused financial harm to the city. Miami also alleged that the banks unjustly enriched themselves by taking advantage of benefits conferred by the city, that their actions denied the city of expected property and tax revenues, and cost the city money that it would not have had to pay had the banks not engaged in these predatory lending practices. The district court dismissed the FHA claims and held that Miami did not fall within the \u201czone of interests\u201d the statute was meant to protect, and therefore did not have standing to sue under the FHA. The district court also held that Miami had not adequately shown that the banks\u2019 conduct was the proximate cause of the harm the city claimed to have suffered. The U.S. Court of Appeals for the Eleventh Circuit reversed and held that, as long as the plaintiffs in an FHA case would have standing to sue under Article III of the Constitution, they can sue under the FHA; the statutory standing requirement is not more narrow than Article III. The appellate court also determined that Miami had sufficiently shown that the banks\u2019 actions were the proximate cause of the harm because the harm was reasonably foreseeable as a consequence of the actions.</p>\n",
+    "conclusion": "<p dir=\"ltr\">The \u201caggrieved persons\u201d language of the Fair Housing Act (FHA) does not impose a more narrow standing standard than Article III does and allows a city to sue, but the proximate cause standard requires the plaintiffs to show more than the possibility that a defendant could have foreseen the harm. Justice Stephen G. Breyer delivered the opinion of the 5-3 majority. The Court held that a plaintiff must meet the traditional standing requirements--an injury in fact that is fairly traceable to the defendant\u2019s conduct and can be redressed by judicial action--as well as showing that the plaintiff\u2019s injury falls within the zone of interests the statute at issue protects. In this case, the City of Miami\u2019s alleged injuries clearly fall within the zone of interests the FHA protects because the City alleged economic injuries that were similar to those that had been sufficient to create standing in prior cases. However, the simple foreseeability of the harm based on the conduct at issue does not satisfy the proximate cause requirement. Because the housing market is so complex and interacts with so many other economic systems, such a loose standard would drastically increase FHA litigation, and nothing in the statute suggests that Congress intended to allow that. The Court held that the proximate cause requirement is met when a plaintiff can show that there is a \u201cdirect relation\u201d between the alleged conduct and alleged injury. </p>\n<p dir=\"ltr\">In his opinion concurring in part and dissenting in part, Justice Clarence Thomas wrote that the City\u2019s alleged injuries fall outside of the zone of interests that the FHA was supposed to protect and therefore that the City cannot be an \u201caggrieved person.\u201d Justice Thomas argued that similar statutory language had been interpreted to confer more limited standing than what Article III allows and that, by enacting such language, Congress did not intend to allow all persons who could claim an injury in fact to recover under the statute. The typical \u201caggrieved person\u201d under the statute is a potential homebuyer or lessee, and while other people may have similar interests at stake, the interests of the City are too different from those the statute was meant to protect. Justice Thomas agreed with the majority that foreseeability was not sufficient to establish proximate cause. Justice Anthony M. Kennedy and Justice Samuel A. Alito, Jr. joined in the opinion concurring in part and dissenting in part.</p>\n<p>Justice Gorsuch did not participate in the discussion or decision of this case.</p>\n"
+}

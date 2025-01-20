@@ -1,0 +1,42 @@
+{
+    "ID": 55153,
+    "name": "Verizon Communications, Inc. v. Law Offices of Curtis V. Trinco, LLP",
+    "href": "https://api.oyez.org/cases/2003/02-682",
+    "view_count": 0,
+    "docket_number": "02-682",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1047276000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39044"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1066107600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39045"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1073973600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39046"
+        }
+    ],
+    "question": "<p>When a company fails to meet its duty to share its network with competitors under the Telecommunications Act, can it be sued under the Sherman Act?</p>\n",
+    "citation": {
+        "volume": "540",
+        "page": "398",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19082"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/540/398/",
+    "facts_of_the_case": "<p>Curtis Trinko was an AT&amp;T customer but received service on lines owned by Verizon, which AT&amp;T was permitted to use for a fee under the anti-monopoly 1996 Telecommunications Act. Trinko claimed that Verizon discriminated against AT&amp;T customers by providing them worse service than it provided to its own customers. He claimed that this violated both the Telecommunications Act and the Sherman Anti-Trust Act of 1890, which prohibits monopolies from aggressively defending their monopoly position in the market. A federal district court ruled that Trinko had no grounds to sue because he was not a direct customer of Verizon. A 2nd Circuit Court of Appeals panel, however, reinstated the charges leveled under the Sherman Act.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Antonin Scalia, the Court held that the complaint alleging breach of Verizon's Telecommunication Act duties to share its network with competitors did not state a claim under the Sherman Act. The Court reasoned that the 1996 act did not alter antitrust law or add new claims and that Verizon did not violate preexisting antitrust standards. The justices declined to add a new claim by making an exception to the rule that businesses need not aid competitors.</p>\n"
+}

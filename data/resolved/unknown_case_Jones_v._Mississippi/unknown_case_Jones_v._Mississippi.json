@@ -1,0 +1,42 @@
+{
+    "ID": 63233,
+    "name": "Jones v. Mississippi",
+    "href": "https://api.oyez.org/cases/2020/18-1259",
+    "view_count": 0,
+    "docket_number": "18-1259",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1583730000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54679"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1604383200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54780"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1619067600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54894"
+        }
+    ],
+    "question": "<p>Does the Eighth Amendment require a sentencing authority to find that a juvenile is permanently incorrigible before it may impose a sentence of life without the possibility of parole?</p>\n",
+    "citation": {
+        "volume": "593",
+        "page": null,
+        "year": "2021",
+        "href": "https://api.oyez.org/case_citation/case_citation/27745"
+    },
+    "term": "2020",
+    "description": "A case in which the Court held that, under the Eighth Amendment, a sentencing authority need not find that a juvenile is permanently incorrigible before it may impose a sentence of life without parole.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/593/18-1259/",
+    "facts_of_the_case": "<p>When Brett Jones was fifteen years old, he stabbed his grandfather to death. He was convicted of murder, and the Circuit Court of Lee County, Mississippi, imposed a mandatory sentence of life imprisonment, and Mississippi law made him ineligible for parole. The appellate court affirmed his conviction and sentence. In a post-conviction relief proceeding, the Supreme Court of Mississippi ordered that Jones be resentenced after a hearing to determine whether he was entitled to parole eligibility. Subsequently, the U.S. Supreme Court decided <a href=\"https://www.oyez.org/cases/2011/10-9646\"><em>Miller v. Alabama</em>, 567 U.S. 460 (2012),</a> and <a href=\"https://www.oyez.org/cases/2015/14-280\"><em>Montgomery v. Louisiana</em>, 577 U.S. __ (2016)</a>. In <em>Miller</em>, the Court held that mandatory life in prison without the possibility of parole sentences for juveniles violated the Eighth Amendment\u2019s prohibition on cruel and unusual punishments. And in <em>Montgomery</em>, it clarified that <em>Miller</em> barred life without the possibility of parole \u201cfor all but the rarest of juvenile offenders, those whose crimes reflect permanent incorrigibility.\u201d The circuit court held the hearing weighing the factors laid out in <em>Miller</em> and determined Jones was not entitled to parole eligibility.</p>\n",
+    "conclusion": "<p>A sentencing authority need not find a juvenile is permanently incorrigible before imposing a sentence of life without the possibility of parole; a discretionary sentencing system is both constitutionally necessary and constitutionally sufficient to impose a sentence of life without parole on a defendant who committed a homicide when they were under 18. Justice Brett Kavanaugh authored the 6-3 majority opinion.</p>\n<p>In <a href=\"https://www.oyez.org/cases/2011/10-9646\"><em>Miller v. Alabama</em>, 567 U.S. 460 (2012)</a>, the Court held that \u201ca sentencer [must] follow a certain process\u2014considering an offender\u2019s youth and attendant characteristics\u2014before imposing\u201d a life-without-parole sentence.\u201d And in <a href=\"https://www.oyez.org/cases/2015/14-280\"><em>Montgomery v. Louisiana</em>, 577 U.S. 190 (2016)</a>, the Court stated that \u201ca finding of fact regarding a child\u2019s incorrigibility . . . is not required.\u201d Taken together, these two cases refute Jones\u2019s argument that a finding of permanent incorrigibility is constitutionally necessary to impose a sentence of life without parole. The Court noted that it expresses neither agreement nor disagreement with Jones\u2019s sentence, and its decision does not preclude states from imposing additional sentencing limits in cases involving juvenile commission of homicide.</p>\n<p>Justice Clarence Thomas authored an opinion concurring in the judgment, arguing that the Court should have reached the same outcome by declaring that <em>Montgomery</em> was incorrectly decided.</p>\n<p>Justice Sonia Sotomayor authored a dissenting opinion, in which Justices Stephen Breyer and Elena Kagan joined. Justice Sotomayor argued that the majority effectively circumvents stare decisis by reading <em>Miller</em> to require only \u201ca discretionary sentencing procedure where youth is considered.\u201d Under <em>Montgomery</em>, sentencing discretion is necessary, but under <em>Miller</em>, it is not sufficient. Rather, a sentencer must actually make the judgment that the juvenile is one of those rare children for whom life without parole is a constitutionally permissible sentence.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 63274,
+    "name": "Garland v. Dai",
+    "href": "https://api.oyez.org/cases/2020/19-1155",
+    "view_count": 0,
+    "docket_number": "19-1155",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1601614800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54770"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1614060000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54845"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1622523600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54906"
+        }
+    ],
+    "question": "<p>Can a court of appeals presume that an immigrant\u2019s testimony is credible and true if an immigration judge or the Board of Immigration Appeals did not specifically find that he was not credible?</p>\n",
+    "citation": {
+        "volume": "593",
+        "page": null,
+        "year": "2021",
+        "href": "https://api.oyez.org/case_citation/case_citation/27767"
+    },
+    "term": "2020",
+    "description": "A case in which the Court held that a court of appeals cannot presume that an immigrant\u2019s testimony is credible and true simply because an immigration judge or the Board of Immigration Appeals did not specifically find that he was not credible.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/593/19-1155/",
+    "facts_of_the_case": "<p>Ming Dai, a native and citizen of China, sought asylum in the United States. An immigration judge denied his applications for asylum, withholding of removal, and protection under the Convention Against Torture, although it did not expressly state that Dai\u2019s testimony lacked credibility. The Board of Immigration Appeals (BIA) upheld the immigration judge\u2019s decision. Dai appealed to the U.S. Court of Appeals for the Ninth Circuit, which overturned the BIA and the immigration judge's ruling, holding that Dai was entitled to withholding of removal proceedings. The appellate court specifically noted that absent a finding that Dai was not credible, he was entitled to a presumption of credibility.</p>\n<p>This case was consolidated with <em>Garland v. Alcaraz-Enriquez</em>, No. 19-1156.</p>\n",
+    "conclusion": "<p>A court of appeals cannot presume that an immigrant\u2019s testimony is true or credible simply based on an absence of an explicit adverse credibility determination. Justice Neil Gorsuch authored the unanimous opinion of the Court.</p>\n<p>The Immigration and Nationality Act (INA) requires that a court reviewing a decision by the Board of Immigration Appeals (BIA) accept \u201cadministrative findings\u201d of fact as \u201cconclusive unless any reasonable adjudicator would be compelled to conclude to the contrary.\u201d Coupled with the established principle that a reviewing court is \u201cgenerally not free to impose\u201d additional judge-made procedural requirements on agencies, this requirement means that so long as the record contains \u201ccontrary evidence\u201d that a reasonable factfinder could find sufficient, a reviewing court may not overturn the agency\u2019s factual determination.</p>\n<p>Although another provision of the INA does describe a presumption of credibility on appeal, it notes that outside the appeal, there is no such presumption of credibility. However, a court\u2019s review of decisions by the BIA is not an appeal in this context. The only \u201cappeal\u201d is from the immigration judge (IJ) to the BIA. Subsequent judicial review is not an appeal but a \u201cpetition for review\u201d; as such, there is no presumption of credibility at that stage of review.</p>\n"
+}

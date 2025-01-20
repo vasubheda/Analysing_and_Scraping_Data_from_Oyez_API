@@ -1,0 +1,35 @@
+{
+    "ID": 54798,
+    "name": "Shalala v. Illinois Council on Long Term Care, Inc.",
+    "href": "https://api.oyez.org/cases/1999/98-1109",
+    "view_count": 0,
+    "docket_number": "98-1109",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                942040800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38346"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                951804000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38347"
+        }
+    ],
+    "question": "<p>Does the Medicare Act bar judicial review, under federal-question jurisdiction, of challenges to the validity of Medicare regulations?</p>\n",
+    "citation": {
+        "volume": "529",
+        "page": "1",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18727"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/529/1/",
+    "facts_of_the_case": "<p>The Illinois Council on Long Term Care, Inc. (Council), an association of nursing homes participating in Medicare, sued the Secretary of Health and Human Services, Donna Shalala, challenging the validity of various Medicare regulations establishing sanctions and remedies for nursing homes found guilty of violating minimum health and safety standards. The Council alleged that certain terms in the new regulations were unconstitutionally vague, that the regulations created administrative procedures inconsistent with the U.S. Constitution's Due Process Clause, and that the regulations' legislative rules that were not promulgated consistent with the Administrative Procedure Act. The Council invoked the Federal District Court's federal-question jurisdiction, which states that \"district courts shall have original jurisdiction of all civil actions arising under the Constitution, laws, or treaties of the United States,\" to rule on its claims. The District Court dismissed the suit on the ground that it lacked jurisdiction. The court concluded that set of special statutory provisions under the Medicare Act create a separate, virtually exclusive, system of administrative and judicial review for such claims. The Court of Appeals reversed and remanded the case for further proceedings.</p>\n",
+    "conclusion": "<p>Yes. In a 5-4 opinion delivered by Justice Stephen G. Breyer, the Court held that the Medicare Act barred federal-question jurisdiction of the Council's challenges to the validity of various Medicare regulations. The Court concluded that the Council must proceed instead through the special review channel that the Medicare statutes create. Justice Clarence Thomas wrote in his dissent that, \"[d]elayed review...may mean no review at all. For when the costs of presenting a claim via the delayed review route exceed the costs of simply complying with the regulation, the regulated entity will buckle under and comply, even when the regulation is plainly invalid.\"</p>\n"
+}

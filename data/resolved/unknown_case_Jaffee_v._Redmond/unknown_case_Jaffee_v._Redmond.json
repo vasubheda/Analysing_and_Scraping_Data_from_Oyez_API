@@ -1,0 +1,35 @@
+{
+    "ID": 54380,
+    "name": "Jaffee v. Redmond",
+    "href": "https://api.oyez.org/cases/1995/95-266",
+    "view_count": 0,
+    "docket_number": "95-266",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                825314400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37578"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                834642000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37579"
+        }
+    ],
+    "question": "<p>Can psychotherapists be forced to provide evidence about their patients in federal court cases?</p>\n",
+    "citation": {
+        "volume": "518",
+        "page": "1",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18309"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/518/1/",
+    "facts_of_the_case": "<p>Mary Lu Redmond, a former police officer, received extensive counseling from a licensed clinical social worker after she shot and killed Ricky Allen. Carrie Jaffee, special administrator for Allen, filed suit in federal District Court alleging that Redmond had violated Allen's constitutional rights by using excessive force in the encounter. During the trial, Jaffee sought access to the notes from Redmond's counseling. Redmond's counsel resisted asserting the conversations were protected against involuntary disclosure by a psychotherapist-patient privilege. The District Court judge rejected the argument, but the notes were not released. The judge instructed the jury that they could presume that the contents could have been unfavorable to Redmond. The jury awarded monetary damages. The Court of Appeals reversed the decision. It found that Federal Rule of Evidence 501 prompted the recognition of a psychotherapist-patient privilege.</p>\n",
+    "conclusion": "<p>No. In a 7-2 decision, announced by Justice John Paul Stevens, the Court ruled that Federal Rule of Evidence 501 protects the conversations between Redmond and her therapist from compelled disclosure. The Rule recognizes a \"psychotherapist-patient privilege.\"</p>\n"
+}

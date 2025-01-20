@@ -1,0 +1,42 @@
+{
+    "ID": 55364,
+    "name": "Sanchez-Llamas v. Oregon",
+    "href": "https://api.oyez.org/cases/2005/04-10566",
+    "view_count": 0,
+    "docket_number": "04-10566",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1131343200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39625"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1143612000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39626"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1151470800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39627"
+        }
+    ],
+    "question": "<p>(1) Does Article 36 of the Vienna Convention create individual, substantive rights? (2) Must evidence obtained after a violation of Article 36 be excluded from trial? (3) May a state refuse to consider a claim of a violation of Article 36 of the Vienna Convention because of a procedural bar under state law?</p>\n",
+    "citation": {
+        "volume": "548",
+        "page": "331",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20572"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>Under Article 36 of the Vienna Convention, a treaty to which the U.S. is a party, any person detained in a foreign country has the right to notify the consulate of his home country of his detention.</p>\n<p>Moises Sanchez-Llamas, a Mexican national, was arrested for his role in a shootout with the police. He was given a Miranda warning, but not informed of his right under Article 36 to notify his consulate. After Sanchez-Llamas made incriminating statements to the police, he was charged with attempted murder. Sanchez-Llamas moved to dismiss the charge. He argued that he had a right under Article 36 which had been violated, and that his confession should consequently be inadmissible as evidence. The trial court denied the motion. The Oregon Court of Appeals and the Oregon Supreme Court both affirmed, holding that the Vienna Convention does not create individual rights, but only rights of countries.</p>\n<p>Mario Bustillo, a Honduran national, was arrested for murdering a man with a baseball bat. He was not informed that Article 36 would allow him to notify his consulate of his arrest. At trial, Bustillo's counsel brought witnesses testifying that another man had committed the crime. Nevertheless, Bustillo was convicted of first-degree murder, and the conviction was affirmed on appeal. Bustillo then filed a petition for review in state habeas court. He argued for the first time that his conviction should be thrown out because his Article 36 right to notify his consulate had been violated. The state habeas court denied the petition. The court ruled that the petition was \"procedurally barred\" under state law because he had failed to raise the issue at trial. The Virginia Supreme Court refused to hear an appeal.</p>\n",
+    "conclusion": "<p>Unanswered, and no. In a 5-4 decision, the Court affirmed the Oregon Supreme Court and ruled that evidence obtained in violation of Article 36 of the Vienna Convention need not be excluded from trial. The opinion by Chief Justice John Roberts held that it would be \"startling\" if the Vienna Convention required suppression of evidence as a penalty for its violation, since the United States is the only country to have the \"exclusionary rule\" for illegaly-obtained evidence. Absent any language in the Convention requiring suppression, the Court could not impose it on states. Furthermore, the Court ruled that an Article 36 violation was not the type of evidence-related violation that normally requires the exclusionary rule. The Court declined to decide the larger issue of whether the Vienna Convention creates individual rights that are enforcable in court. Justice Breyer wrote a dissent, which was joined by Justices Stevens, Souter, and Ginsburg. The dissenters would have decided that the Convention did create individual rights. Justice Breyer also thought that \"suppression may <em>sometimes</em> provide an appropriate remedy\" for Article 36 violations.</p>\n<p>With respect to state law, the Court ruled that states are allowed to have procedural rules that require courts to deny Article 36 claims if they are not raised at the proper time. The opinion by Chief Justice John Roberts noted that the Convention provides that Article 36 \"shall be exercised in conformity with the laws and regulations of the receiving State.\" In an adversarial system like that of the United States, the Court ruled, this means that states must be allowed to decide when claims need to be raised. The Justices also ruled that rulings of the International Court of Justice are not binding on U.S. courts. Justice Breyer wrote a dissent, which was joined by Justices Stevens, Souter, and Ginsburg. The dissent took exception to the absolute language of the majority opinion, arguing that \" <em>sometimes</em> state procedural default rules must yield\" to the Convention's requirement that domestic laws give it \"full effect.\"</p>\n"
+}

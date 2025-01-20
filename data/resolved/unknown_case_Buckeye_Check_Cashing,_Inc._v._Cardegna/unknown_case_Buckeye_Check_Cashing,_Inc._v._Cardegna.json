@@ -1,0 +1,42 @@
+{
+    "ID": 55294,
+    "name": "Buckeye Check Cashing, Inc. v. Cardegna",
+    "href": "https://api.oyez.org/cases/2005/04-1264",
+    "view_count": 0,
+    "docket_number": "04-1264",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1119243600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39437"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1133244000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39438"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1140501600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39439"
+        }
+    ],
+    "question": "<p>Under the Federal Arbitration Act, may a party avoid arbitration by arguing that the contract in which the arbitration clause is contained is illegal?</p>\n",
+    "citation": {
+        "volume": "546",
+        "page": "440",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20584"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/546/440/",
+    "facts_of_the_case": "<p>John Cardegna signed a contract for a loan from Buckeye Check Cashing. The contract contained a clause in which Cardegna agreed to resolve any controversies over the loan through arbitration. Cardegna later sued Buckeye, claiming that the conditions for the loan stipulated by the contract were illegal. Buckeye filed a motion in Florida district court to have the case resolved by arbitration, as required by the contract. Cardegna countered that the contract as a whole was illegal and that the arbitration clause was therefore not enforceable. The court agreed and ruled for Cardegna.</p>\n<p>On appeal, the state appeals court reversed, holding that the Federal Arbirtration Act, as interpreted by the U.S. Supreme Court, allows arbitration clauses to be enforced even if they are part of otherwise invalid contracts. The appeals court relied on the U.S. Supreme Court's decision in Prima Paint Corporation v. Flood &amp; Conklin Manufacturing Company. The Florida Supreme Court disagreed with the appeals court's use of Prima Paint, however, because the contract in that case had been merely voidable, while the contract in Cardegna's case was actually illegal. The Florida Supreme Court therefore reversed, ruling in favor of Cardegna.</p>\n",
+    "conclusion": "<p>No. The 7-1 majority (Justice Samuel Alito not participating) ruled that challenges to the legality of a contract as a whole must be argued before the arbitrator rather than a court. The opinion by Justice Antonin Scalia explained that \"unless the challenge is to the arbitration clause itself, the issue of the contract's validity is considered by the arbitrator in the first instance.\" The Court held that the Florida Supreme Court had been wrong to rely on a distinction between void and merely voidable contracts, because the word \"contract\" in the Federal Arbitration Act includes contracts later found to be void. Justice Clarence Thomas dissented due to his long-held view that the FAA does not apply in state courts.</p>\n"
+}

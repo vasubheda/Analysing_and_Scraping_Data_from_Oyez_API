@@ -1,0 +1,35 @@
+{
+    "ID": 54569,
+    "name": "Quality King Distributors, Inc. v. L'Anzaresearch International, Inc.",
+    "href": "https://api.oyez.org/cases/1997/96-1470",
+    "view_count": 0,
+    "docket_number": "96-1470",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                881560800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37922"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                889423200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37923"
+        }
+    ],
+    "question": "<p>Is section 602(a) of the Copyright Act of 1976, which gives the copyright owner the right to prohibit the unauthorized importation of copies, limited by the \"first sale\" doctrine?</p>\n",
+    "citation": {
+        "volume": "523",
+        "page": "135",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18498"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/523/135/",
+    "facts_of_the_case": "<p>L'anza Research International, Inc., a California based manufacturer and seller of hair care products, has copyrighted the labels that are affixed to its products. Compared to domestic markets, the price of L'anza products in foreign markets is substantially lower. L'anza's distributor in the United Kingdom arranged for the sale of L'anza products, affixed with copyrighted labels, to a distributor in Malta. The Malta distributor then sold the products to Quality King Distributors, Inc., who imported the products back to the U.S. and sold them at discounted prices to unauthorized retailers. In its suit, L'anza alleged that Quality King violated L'anza's exclusive rights under the Copyright Act of 1976 to reproduce and distribute the copyrighted material in the U.S. Rejecting Quality King's defense based on the \"first sale\" doctrine, the District Court ruled in favor of L'anza. The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion delivered by Justice John Paul Stevens, the Court held that the \"first sale\" doctrine endorsed in section 109(a) of the Copyright Act of 1976 is applicable to imported copies. Accordingly, Quality King's unauthorized importation and resale of copyrighted labels from L'anza's foreign distributor was not prohibited by the Act because L'anza's distribution right did not encompass Quality King's reselling, as lawful owners, under first sale doctrine. \"The whole point of the first sale doctrine is that once the copyright owner places a copyrighted item in the stream of commerce by selling it, he has exhausted his exclusive statutory right to control its distribution,\" wrote Justice Stevens for the Court. Justice Ruth Bader Ginsburg wrote a concurring opinion.</p>\n"
+}

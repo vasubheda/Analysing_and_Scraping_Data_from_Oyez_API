@@ -1,0 +1,42 @@
+{
+    "ID": 55719,
+    "name": "CSX Transportation v. McBride",
+    "href": "https://api.oyez.org/cases/2010/10-235",
+    "view_count": 0,
+    "docket_number": "10-235",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1291010400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40581"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1301288400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40582"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1308805200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40583"
+        }
+    ],
+    "question": "<p>Does the Federal Employers' Liability Act require proof of proximate causation?</p>\n",
+    "citation": {
+        "volume": "564",
+        "page": null,
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19641"
+    },
+    "term": "2010",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/564/685/",
+    "facts_of_the_case": "<p>Locomotive engineer Robert McBride filed suit after contending that he injured his hand while adding and removing railroad cars for his employer, CSX Transportation, Inc. Under the Federal Employers' Liability Act, a rail carrier is liable for worker injuries that result from negligence by the carrier. A trial judge instructed the jury that CSX caused or contributed to McBride's injury if its negligence \"played a part, no matter how small, in bringing about the injury.\" The jury found for McBride and awarded him $184,250.</p>\n<p>CSX argued that McBride should have been required to prove that the company's alleged negligence was a cause of the injury. But the U.S. Court of Appeals for the Seventh Circuit disagreed, affirming the verdict.</p>\n",
+    "conclusion": "<p>No. The Supreme Court affirmed the lower court order in an opinion by Justice Ruth Bader Ginsburg. \"The charge proper in FELA cases, we hold, simply tracks the language Congress employed, informing juries that a defendant railroad caused or contributed to a plaintiff employee's injury if the railroad's negligence played any part in bringing about the injury,\" Ginsburg wrote for the majority. Meanwhile, Chief Justice John Roberts dissented, joined by Justices Antonin Scalia, Anthony Kennedy and Samuel Alito. \"The Court is wrong to dispense with that familiar element of an action seeking recovery for negligence, an element 'generally thought to be a necessary limitation on liability,'\" Roberts wrote.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 62660,
+    "name": "Mathis v. United States",
+    "href": "https://api.oyez.org/cases/2015/15-6092",
+    "view_count": 0,
+    "docket_number": "15-6092",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1453183200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53406"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1461646800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53437"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1466658000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53815"
+        }
+    ],
+    "question": "<p>Does a predicate prior conviction under the Armed Career Criminal Act qualify when the courts examine the specific elements of the offenses in question using a modified categorical approach?</p>\n",
+    "citation": {
+        "volume": "579",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27408"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that a state crime cannot qualify as a predicate offense under the Armed Career Criminal Act (ACCA) if the elements of the state offense are broader than those of a listed generic offense based on an \u201celements-only inquiry,\u201d not a modified categorical approach.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/579/15-6092/",
+    "facts_of_the_case": "<p>On March 8, 2013, police officers executed a warrant to search Richard Mathis\u2019 house following allegations of sexual abuse from young men. The officers found a loaded rifle and ammunition. After he was arrested and while in custody, Mathis admitted to owning the rifle and ammunition, and he was charged with being a felon in possession of a firearm in violation of the Armed Career Criminal Act (ACCA) because of his five previous burglary convictions in Iowa state courts. At trial, the district court used a modified categorical approach to determine that Mathis\u2019 prior convictions constituted violent felonies because the elements of the offense were substantially similar to generic burglary and posed the same risk of harm to others. Therefore, Mathis was sentenced to 180 months imprisonment pursuant to the ACCA. Mathis appealed his conviction and argued that his Iowa convictions should not have constituted predicate offenses under the ACCA, but the U.S. Court of Appeals for the Eighth Circuit affirmed the lower court's decision.</p>\n",
+    "conclusion": "<p>A state crime cannot qualify as a predicate offense under the Armed Career Criminal Act (ACCA) if the elements of the state offense are broader than those of a listed generic offense based on an \u201celements-only inquiry,\u201d not a modified categorical approach. Justice Elena Kagan delivered the opinion for the 5-3 majority, which held that, if the elements of the state crime are broader than the generic offense listed under ACCA, the sentence cannot be enhanced, even if the actual conduct in question fits the generic offense listed under ACCA. The textual, elements-only approach is supported by the text of the ACCA as well as Supreme Court precedent, and this approach also avoids unfairness to the defendant. The alternative approach would raise serious Sixth Amendment concerns because it would allow a judge to conduct an inquiry into the circumstances of the crime apart from what the jury determined. In this case, because the elements of the state crime are broader than those of generic burglary, the conviction cannot give rise to a sentence enhancement under the ACCA.</p>\n<p>In his concurrence, Justice Anthony M. Kennedy wrote that, while the majority opinion is correct that the Court\u2019s statutory interpretation precedent controlled the decision in this case, Congress could not have intended for there to be vast sentencing disparities for defendants convicted in different jurisdictions based on substantially similar conduct. While Congress could and should resolve this problem through legislation, if it cannot do so, the Court may need to revisit its precedent. Justice Clarence Thomas wrote a separate concurrence in which he argued that the interpretation of the ACCA that allows sentencing to be based on judge-determined, rather than jury-determined, facts violated the Sixth Amendment.</p>\n<p>Justice Stephen G. Breyer wrote a dissent in which he argued that, by distinguishing between the elements of a crime and the means by which it was accomplished, the majority opinion created a sentencing scheme in which two individuals who engaged in the same conduct could receive drastically different sentences. A state statute is not overbroad for the purposes of ACCA sentencing enhancement when the statute allows for alternative means of proving the crime, but the charging documents for the crime in question allege the version that matches the federal crime. The Court\u2019s precedents allow for this type of interpretation. Justice Ruth Bader Ginsburg joined in the dissent. In his separate dissent, Justice Samuel A. Alito, Jr. wrote that the line of Supreme Court precedent that has limited courts\u2019 ability to use the modified categorical approach has resulted in fewer convictions qualifying for ACCA sentence enhancement, which cannot be what Congress intended. In holding otherwise, the majority opinion moved further away from Congress\u2019 intentions and ignored the real-world relevance of the facts of any given case.</p>\n"
+}

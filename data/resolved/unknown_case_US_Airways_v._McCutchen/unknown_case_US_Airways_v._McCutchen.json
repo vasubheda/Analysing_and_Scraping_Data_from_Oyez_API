@@ -1,0 +1,42 @@
+{
+    "ID": 55953,
+    "name": "US Airways v. McCutchen",
+    "href": "https://api.oyez.org/cases/2012/11-1285",
+    "view_count": 0,
+    "docket_number": "11-1285",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1340600400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41219"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1353996000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41220"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1366088400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41221"
+        }
+    ],
+    "question": "<p>Did the Third Circuit correctly hold that ERISA Section 502(a)(3) authorizes courts to use equitable principles to determine appropriate equitable relief?</p>\n",
+    "citation": {
+        "volume": "569",
+        "page": "88",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19875"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that when a contract is silent on allocation of relief, the parties' intentions are best determined by the common-fund doctrine. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/569/88/",
+    "facts_of_the_case": "<p>After James E. McCutchen suffered a serious injury in a car accident, a benefit plan administered by US Airways paid $66,866 to cover his medical expenses. The plan requires the beneficiary to pay back the medical expenses out of any amount recovered from third parties. Once McCutchen recovered over $100,000 from third parties in a separate suit, the plan demanded that McCutchen reimburse them for the full amount they paid out. McCutchen argued that US Airways did not take into account his legal fees, which reduced his recovery amount from third parties to less than the amount demanded. US Airways then filed suit for \"appropriate equitable relief\" under the Employment Retirement Security Income Act (ERISA). The district court ordered McCutchen to pay the full $66,866.</p>\n<p>The U.S. Court of Appeals for the Third Circuit vacated the district court's judgment, holding that ERISA is subject to equitable limitations. To determine appropriate equitable relief, the district court must take into account the distribution of the amount recovered from third parties between McCutchen and his attorneys.</p>\n",
+    "conclusion": "<p>Maybe. Justice Elena Kagan, writing for a 5-4 majority, vacated the Third Circuit and remanded. The Supreme Court held that equitable limitations did not apply to the benefit plan as a whole because the plan is a valid contract and the parties are only demanding what they bargained for under that contract. The common fund doctrine, however, may provide relief because the benefit plan is silent on the allocation of attorney fees. The common fund doctrine allows a litigant to recover attorney fees from a fund that is created, increased, or protected by that litigant. Because the parties did not contract otherwise, the common fund doctrine provides the best indication of the parties' intent. The case was remanded for further proceedings consistent with this opinion.</p>\n<p>Justice Antonin Scalia dissented, arguing that the majority should not have discussed the plan's lack of a provision for attorney fees because it was not included in the question presented. Chief Justice John G. Roberts, Jr., Justice Clarence Thomas, and Justice Samuel A. Alito, Jr. joined in the dissent.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 62807,
+    "name": "District of Columbia v. Wesby",
+    "href": "https://api.oyez.org/cases/2017/15-1485",
+    "view_count": 0,
+    "docket_number": "15-1485",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1484805600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53965"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1507093200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54100"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1516600800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54202"
+        }
+    ],
+    "question": "<ol><li>Do officers have probable cause to arrest for unlawful entry under D.C. law despite a claim of good-faith entry?</li>\n<li>Was the law sufficiently clearly established to justify the denial of immunity to the officers?</li>\n</ol>",
+    "citation": {
+        "volume": "583",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27501"
+    },
+    "term": "2017",
+    "description": "A case in which the Court decided that (1) officers had probable cause to arrest a number of partygoers for unlawful entry under D.C. law under the totality of the circumstances, and (2) that the officers were entitled to qualified immunity because their actions were not clearly unlawful at the time.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/583/15-1485/",
+    "facts_of_the_case": "<p>On March 16, 2008, Metropolitan Police Department officers responded to a noise complaint for a house party. Upon arrival, the officers heard loud music coming from the house. The officers then entered the house and observed party guests, including Theodore Wesby, drinking and watching \u201cscantily clad women with money tucked into garter belts.\u201d The partygoers claimed that a woman called \u201cPeaches\u201d was the host of the party, and that she had received permission from the owner, from whom Peaches was leasing the house. One partygoer called Peaches on the phone for an officer, since Peaches was not present. Peaches confirmed that she had permission from the owner, but when an officer called the owner, the owner claimed that the lease had not been executed and that he had not given permission for the party. The officers subsequently arrested the partygoers.</p>\n<p>Sixteen of the arrested partygoers sued the officers and the District of Columbia for false arrest. The district court ruled in favor of the partygoers. The U.S. Court of Appeals for the D.C. Circuit affirmed and held both that the officers did not have probable cause for entry and were not entitled to immunity from liability. Probable cause to arrest for unlawful entry under D.C. law exists where a reasonable officer concludes from information known at the time that the arrestee knew or should have known that they entered the house against the will of the owner. The court reasoned that, because the partygoers believed in good faith that the owner had given Peaches permission for the party, they could not have intended to enter unlawfully. The court also ruled that the officers were not entitled to immunity because it was unreasonable for them to believe that they were not violating the partygoers\u2019 clearly established Fourth Amendment rights against false arrest.</p>\n<p>\u00a0</p>\n",
+    "conclusion": "<p>The Court reversed and remanded. Justice Thomas authored the majority opinion, which held that (1) the officers had probable cause to arrest the partygoers, and (2) the officers were entitled to qualified immunity under 42 U. S. C. \u00a71983. With regard to probable cause, Justice Thomas explained that the D.C. Circuit erred in analyzing individual factors rather than the totality of the circumstances at the party scene, which could have reasonably led the officers to believe that there was a substantial chance of criminal activity. On the qualified immunity question, the majority held that the officers were protected from suit unless their actions were \"clearly\" unlawful at the time. Given that they could have reasonably but mistakenly thought that they had probable cause to make the arrests at the time, their actions were not clearly unlawful. Justice Sotomayor filed an opinion concurring in part and concurring in the judgment. Justice Ginsburg filed an opinion concurring in the judgment in part.</p>\n"
+}

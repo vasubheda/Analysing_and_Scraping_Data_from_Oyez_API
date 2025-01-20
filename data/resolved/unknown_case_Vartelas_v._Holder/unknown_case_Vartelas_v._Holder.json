@@ -1,0 +1,42 @@
+{
+    "ID": 55819,
+    "name": "Vartelas v. Holder",
+    "href": "https://api.oyez.org/cases/2011/10-1211",
+    "view_count": 0,
+    "docket_number": "10-1211",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1317099600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40840"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1326866400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40841"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1332910800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40842"
+        }
+    ],
+    "question": "<p>Can 8 U.S.C. \u00a7 1101(a)(13)(C)(v) be applied retroactively to a Lawful Permanent Resident who pleads guilty to a crime of moral turpitude prior to the effective date of the Illegal Immigration Reform and Immigrant Responsibility Act?</p>\n",
+    "citation": {
+        "volume": "566",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19741"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that 8 U.S.C. \u00a7 1101(a)(13)(C)(v) cannot be applied retroactively to a lawful permanent resident who pleads guilty to a crime prior to the effective date of the Illegal Immigration Reform and Immigrant Responsibility Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/566/257/",
+    "facts_of_the_case": "<p>Panagis Vartelas became a Lawful Permanent Resident of the United States on January 5, 1989. On December 9, 1994, Vartelas pled guilty to conspiracy to make or possess a counterfeit security. In January of 2003, Vartelas took a one-week trip to Greece. Upon his return from Greece to the JFK airport in New York on January 29, 2003, an immigration officer questioned Vartelas about his 1994 conviction. On March 27, 2003, immigration officials served Vartelas a notice to appear for removal proceedings on the ground that he sought entry into the United States after being convicted of a crime of moral turpitude and could be deported.</p>\n<p>Vartelas appeared before an immigration judge. He submitted a motion to terminate, before filing an application for waiver. The immigration judge denied the application for waiver on June 27, 2006, and ordered the Vartelas removed to Greece. Vartelas made a timely appeal to the Board of Immigration Appeals, which the board dismissed.</p>\n<p>Vartelas, through new counsel, subsequently filed a motion to reopen with the Board of Immigration Appeals. The motion to reopen claimed that Vartelas' prior counsel was ineffective having failed to raise the issue of whether 8 U.S.C. \u00a7 1101(a)(13)(C)(v) could be applied retroactively. 8 U.S.C. \u00a7 1101(a)(13)(C)(v) overturned prior law which prevented Lawful Permanent Residents from being denied re-entry into the United States after brief casual trips abroad. The Board of Immigration Appeals denied the motion to reopen, and Vartelas filed a petition to review with the U.S. Court of Appeals for the Second Circuit. The Second Circuit denied the petition for review rejecting the argument that the new statute would interfere with the settled expectations of a guilty plea. Vartelas appealed the Second Circuit's decision.</p>\n",
+    "conclusion": "<p>No. Justice Ruth Bader Ginsburg--writing for a 6-3 majority--reversed the lower court, holding that a determination of Vartelas' ability to travel abroad falls under the laws in effect at the time of his conviction. The Court applied the principle against retroactivity. Under this principle, courts will refrain from applying a law retroactively unless Congress expressly provides for it. The Court held that applying the Illegal Immigration Reform and Immigrant Responsibility Act (IIRIRA) imposed a new disability on Vartelas by effectively banning travel abroad. Vartelas also likely relied on the laws at the time, which would allow him brief international trips, when he decided to plead guilty.</p>\n<p>Justice Antonin Scalia dissented, stating that the applicable activity for deciding retroactivity is not Vartelas' conviction, but the act of leaving and then attempting to return to the United States. Vertelas' trip to Greece and return to the U.S. took place after the IIRIRA took effect, so he is subject to the law. Justice Clarence Thomas and Justice Samuel A. Alito joined in the dissent.</p>\n"
+}

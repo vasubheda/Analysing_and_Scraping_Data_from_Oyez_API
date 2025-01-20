@@ -1,0 +1,28 @@
+{
+    "ID": 54880,
+    "name": "Sinkfield v. Kelley",
+    "href": "https://api.oyez.org/cases/2000/00-132",
+    "view_count": 0,
+    "docket_number": "00-132",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                975304800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38503"
+        }
+    ],
+    "question": "<p>Do white Alabama voters, who are residents of various majority-white districts, have standing to challenge Alabama's re-districting plan, which had an acknowledged purpose of maximizing the number of majority-minority districts?</p>\n",
+    "citation": {
+        "volume": "531",
+        "page": "28",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18809"
+    },
+    "term": "2000",
+    "description": "Absent evidence of individuals personally subjected to a racial classification, the appellees lack standing to bring suit.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>With the acknowledged purpose of maximizing the number of majority-minority districts -- i.e., districts in which a majority of voters belong to a minority group -- Alabama implemented a redistricting plan for its state legislative districts. White Alabama voters, who are residents of various majority-white districts (the appellees), brought suit in District Court challenging their own districts as the products of racial gerrymandering in violation of the equal protection clause of the Fourteenth Amendment. Ultimately, a three-judge court held that seven of the challenged majority-white districts were the product of unconstitutional racial gerrymandering and enjoined their use in any election. The judicial panel found that the group had standing on the ground that injury-in-fact could be conclusively presumed from the mere fact of residence in a gerrymandered district, independent of the plaintiff's subjective assessment of harm, because of the bizarre shapes of their districts. On direct appeal, Alabama state officials and a group of African-American voters argued that the appellees lacked standing to maintain the suit.</p>\n",
+    "conclusion": "<p>No. In a unanimous per curiam opinion, the Court held that the appellees lacked standing to maintain their challenge. The opinion stated that the appellees \"have neither alleged nor produced any evidence that any of them was assigned to his or her district as a direct result of having 'personally been subjected to a racial classification.'\" Consequently, the appellees lacked standing.</p>\n"
+}

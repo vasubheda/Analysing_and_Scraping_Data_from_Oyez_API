@@ -1,0 +1,35 @@
+{
+    "ID": 55781,
+    "name": "Montana v. Wyoming and North Dakota",
+    "href": "https://api.oyez.org/cases/2010/137-orig",
+    "view_count": 0,
+    "docket_number": "137-orig",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1294639200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40743"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1304312400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40744"
+        }
+    ],
+    "question": "<p>Has Wyoming violated the Yellowstone River Compact by leaving less water in the river for Montana's uses?</p>\n",
+    "citation": {
+        "volume": "563",
+        "page": "368",
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19703"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that Montana did not violate the Yellowstone River Compact by leaving less water in the river for Montana's uses.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>1950, Montana, Wyoming and North Dakota signed the Yellowstone River Compact, which spelled out how the states would share water. In 2007, Montana sued Wyoming, alleging farmers and other water users along the Powder and Tongue rivers were being harmed by Wyoming's excessive water use. Attorneys for Wyoming argued that much of the water used by the state's residents and businesses was not covered by the 1950 agreement.</p>\n<p>Special Master Barton Thompson issued an interim report, finding that Montana had grounds to sue over Wyoming's expanded use of water since 1950. However, Thompson rejected Montana's claim that Wyoming should be held liable for increased water use due to irrigation improvements. Meanwhile, North Dakota, also a member of the Yellowstone compact, was named as a second defendant in the original lawsuit. But Montana officials have said its inclusion was a formality and that they have no disagreement with their eastern neighbor.</p>\n",
+    "conclusion": "<p>No. In an opinion written by Justice Clarence Thomas, the Supreme Court agreed with the Special Master who found that \"Montana's allegation fails to state a claim because more efficient irrigation systems are permissible under the compact so long as the conserved water is used to irrigate the same acreage watered in 1950.\" Justice Antonin Scalia dissented, arguing that the \"court's analysis substitutes its none-too-confident reading of the common law and the compact's definition of 'beneficial use.'\" Justice Elena Kagan did not take part in consideration of the case.</p>\n"
+}

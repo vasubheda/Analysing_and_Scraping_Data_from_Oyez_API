@@ -1,0 +1,42 @@
+{
+    "ID": 63506,
+    "name": "In re Grand Jury",
+    "href": "https://api.oyez.org/cases/2022/21-1397",
+    "view_count": 0,
+    "docket_number": "21-1397",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1664773200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55150"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1673244000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55199"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1674453600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55215"
+        }
+    ],
+    "question": "<p>If a communication involves both legal and non-legal advice, when is it protected from disclosure by attorney-client privilege?</p>\n",
+    "citation": {
+        "volume": "598",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27909"
+    },
+    "term": "2022",
+    "description": "A case in which the Court was asked to decide whether a communication involving both legal and non-legal advice is protected by attorney-client privilege when obtaining or providing legal advice was one of the significant purposes behind the communication.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/598/21-1397/",
+    "facts_of_the_case": "<p>A grand jury issued subpoenas to two parties\u2014\u201cCompany\u201d and \u201cLaw Firm\u201d\u2014requesting documents and communications related to a criminal investigation into the owner of Company and client of Law Firm. In response to the subpoenas, Company and Law Firm refused to disclose certain documents, citing attorney-client privilege and the work-product doctrine because the primary purpose of the documents at issue was to seek legal advice, not to obtain tax advice. The government moved to compel production, and the district court granted the government\u2019s motion in part. Company and Law Firm disagreed with the district court\u2019s ruling and continued to withhold the documents. The district court then held Company and Law Firm in contempt. The U.S. Court of Appeals for the Ninth Circuit affirmed, finding the primary purpose of the communications was to obtain legal advice.</p>\n",
+    "conclusion": "<p>The Court dismissed certiorari as improvidently granted.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 54689,
+    "name": "Hanlon v. Berger",
+    "href": "https://api.oyez.org/cases/1998/97-1927",
+    "view_count": 0,
+    "docket_number": "97-1927",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                922255200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38150"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                927522000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38151"
+        }
+    ],
+    "question": "<p>Do federal agents violate the Fourth Amendment's prohibition on unreasonable searches and seizures when they let representatives of the news media accompany and observe their conduct in the execution of a search warrant?</p>\n",
+    "citation": {
+        "volume": "526",
+        "page": "808",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18618"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/526/808/",
+    "facts_of_the_case": "<p>In 1993, a magistrate judge issued a warrant authorizing the search of Paul and Erma Berger's Montana ranch for evidence of the taking of wildlife in violation of federal law. Later, a multiple-vehicle caravan consisting of government agents and a crew of photographers and reporters from CNN proceeded to the ranch. In executing the warrant, the federal officers allowed the media crew to accompany and observe them. Subsequently, the Berger's filed suit, asserting that the officials, special agents of the United States Fish and Wildlife Service and an assistant United States attorney, had violated their rights under the Fourth Amendment. The District Court concluded that the officials were entitled to qualified immunity, as no clearly established law protecting individuals from the commercial recording of a search of their premises existed at the time. The Court of Appeals reversed.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion, the Court held that, although the agents did violate the Fourth Amendment, they were entitled to qualified immunity. The opinion stated that \"police violate the Fourth Amendment rights of homeowners when they allow members of the media to accompany them during the execution of a warrant in their home. We also hold there that because the law on this question before today's decision was not clearly established, the police in that case were entitled to the defense of qualified immunity.\" Justice John Paul Stevens, concurring and dissenting in part, argued that the constitutional rule recognized had been clearly established long before 1992.</p>\n"
+}

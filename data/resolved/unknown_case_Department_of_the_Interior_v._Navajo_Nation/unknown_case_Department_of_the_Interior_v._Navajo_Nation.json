@@ -1,0 +1,42 @@
+{
+    "ID": 63526,
+    "name": "Department of the Interior v. Navajo Nation",
+    "href": "https://api.oyez.org/cases/2022/22-51",
+    "view_count": 0,
+    "docket_number": "22-51",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1667538000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55177"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1679288400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55339"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1687410000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55340"
+        }
+    ],
+    "question": "<p>Does the U.S. Supreme Court retain exclusive jurisdiction over the allocation of waters of the Colorado River?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/27919"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held that the 1868 treaty establishing the Navajo Reservation reserved necessary water to accomplish the purpose of the Navajo Reservation but did not require the United States to take affirmative steps to secure water for the Tribe.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>The Navajo Reservation is the \u201cpermanent home\u201d of the Navajo Nation, under the 1868 Treaty, and subsequent expansions by executive orders and acts of Congress. The Reservation includes parts of Arizona, New Mexico, and Utah, and lies almost entirely within the drainage basin of the Colorado River. Due to water scarcity, rights to the Colorado River\u2019s waters are allocated through federal treaties, statutes, regulations, common law rulings, Supreme Court decrees, and interstate compacts\u2014collectively known as the \u201cLaw of the River.\u201d</p>\n<p>In 2003, the Navajo Nation sued the U.S. Department of the Interior and other federal agencies under the National Environmental Policy Act (NEPA) and a breach of trust claim for failure to consider their water rights in managing the Colorado River. Arizona, Nevada, and several other entities intervened to protect their interests in the Colorado River waters. The district court dismissed their claim, finding the Supreme Court retained original jurisdiction over the allocation of rights to the Colorado River. The U.S. Court of Appeals for the Ninth Circuit reversed.</p>\n",
+    "conclusion": "<p>The 1868 treaty establishing the Navajo Reservation reserved necessary water to accomplish the purpose of the Navajo Reservation but did not require the United States to take affirmative steps to secure water for the Tribe. Justice Brett Kavanaugh authored the majority opinion of the Court.</p>\n<p>To succeed on a breach-of-trust claim, as the Tribe asserts here, it must establish, among other things, that the text of a treaty, statute, or regulation imposed certain duties on the United States. The 1868 treaty did not do so. While it did impose a number of specific duties, such as to construct a number of buildings on the reservation and to provide teachers for schools for at least 10 years, the treaty said nothing about any affirmative duty for the United States to secure water for the Tribe. The Court declined to infer such a duty to secure water, particularly when the treaty imposed no such duty with respect to land.</p>\n<p>Justice Clarence Thomas authored a concurring opinion highlighting the confusion over the definition of a \u201ctrust relationship\u201d and calling upon the Court to clarify its meaning in future cases.</p>\n<p>Justice Neil Gorsuch authored a dissenting opinion, in which Justices Sonia Sotomayor, Elena Kagan, and Ketanji Brown Jackson joined. Justice Gorsuch characterized the case as the Navajo Tribe simply asking the United States to identify the water rights it holds for them, and, if the United States has misappropriated the Navajo\u2019s water rights, to formulate a plan to stop doing so prospectively. Under this characterization, the dissenters would allow the Tribe\u2019s case to proceed.</p>\n"
+}

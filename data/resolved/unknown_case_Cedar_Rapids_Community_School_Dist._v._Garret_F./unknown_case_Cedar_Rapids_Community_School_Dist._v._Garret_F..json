@@ -1,0 +1,35 @@
+{
+    "ID": 54749,
+    "name": "Cedar Rapids Community School Dist. v. Garret F.",
+    "href": "https://api.oyez.org/cases/1998/96-1793",
+    "view_count": 0,
+    "docket_number": "96-1793",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                910159200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38257"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                920440800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38258"
+        }
+    ],
+    "question": "<p>Do schools that receive federal funding under the Individuals with Disabilities Education Act have to pay for one-on-one nursing assistance for certain of their students with disabilities?</p>\n",
+    "citation": {
+        "volume": "526",
+        "page": "66",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18678"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/526/66/",
+    "facts_of_the_case": "<p>Garret F., a minor and student in Cedar Rapids Community School District, requires a wheelchair and is dependent upon a ventilator. He requires assistance in attending to his physical needs during the school day. The school district declined to accept financial responsibility for Garret's services in order for him to be able to attend school. The school district believed it was not legally obligated to provide one-on-one care. An Administrative Law judge concluded that the Individuals with Disabilities Education Act (IDEA) required the school district to provide \"school health services,\" which are provided by a \"qualified school nurse or other qualified person,\" but not medical services, which are limited to services provided by a physician. The District Court and the Court of Appeals affirmed despite arguments from the school district that such one-on-one care is too costly and too involved to be considered anything but medical in nature.</p>\n",
+    "conclusion": "<p>Yes. In a 7-to-2 decision, the Court held that if the services in question are \"related\" to keeping the child with disabilities in school and able to access educational opportunities available to others IDEA funded school districts must provide such services. The Court added that although the nature and cost of providing certain IDEA \"related services\" is not determinative of whether their financial burdens must be met, potential financial burdens shall inform any decision governing their provision. In the present case, the benefits of providing Garret with his needed care outweighed the burdens.</p>\n"
+}

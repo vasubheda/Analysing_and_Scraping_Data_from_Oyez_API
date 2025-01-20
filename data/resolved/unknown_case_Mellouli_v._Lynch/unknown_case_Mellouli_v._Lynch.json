@@ -1,0 +1,42 @@
+{
+    "ID": 56049,
+    "name": "Mellouli v. Lynch",
+    "href": "https://api.oyez.org/cases/2014/13-1034",
+    "view_count": 0,
+    "docket_number": "13-1034",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1404104400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41615"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1421215200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41616"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1433134800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51710"
+        }
+    ],
+    "question": "<p>To trigger deportability under the Immigration and Nationality Act, must the government prove the connection between a drug paraphernalia conviction and a substance listed in the Controlled Substances Act?</p>\n",
+    "citation": {
+        "volume": "575",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/26956"
+    },
+    "term": "2014",
+    "description": "The Government must prove the connection between a state drug paraphernalia conviction and a substance listed in the Controlled Substances Act to trigger deportability under the Immigration and Nationality Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/575/798/",
+    "facts_of_the_case": "<p>In 2010, Moones Mellouli, a citizen of Tunisia residing in the United States, was arrested for driving under the influence. While Mellouli was detained, police discovered four tablets of Adderall in his sock. Although initially charged with trafficking a controlled substance in a jail, Mellouli ultimately pled guilty to the lesser charge of possessing drug paraphernalia in violation of a Kansas statute. In 2012, the government attempted to deport Mellouli pursuant to the Immigration and Nationality Act (INA), which states that aliens convicted under any law \"relating to a controlled substance\" as defined by the Controlled Substances Act (CSA), are deportable.</p>\n<p>In immigration court, Mellouli argued that, since his 2010 conviction did not specify a particular controlled substance and the Kansas statute includes some substances not included in the CSA, his conviction did not necessarily \"relate to a controlled substance\" for the purposes of the INA. The judge rejected the argument and held that Mellouli was deportable because the particular controlled substance involved in his conviction was irrelevant. The Board of Immigration Appeals (BIA) affirmed and held that possession of drug paraphernalia involves drug trade in general, which is \"related to a controlled substance,\" and therefore Mellouli's conviction met the criteria required by the INA. The U.S. Court of Appeals for the Eight Circuit denied Mellouli's petition for review and his petition for rehearing en banc. The appellate court held that the BIA's conclusion was reasonable in light of the INA's use of the general term \"relating to\" instead of a more specific term like \"involving.\"</p>\n",
+    "conclusion": "<p>Yes. Justice Ruth Bader Ginsburg delivered the opinion of the 7-2 majority. The Court held that a drug conviction under state law triggers deportation only if the crime falls within a category of deportable offenses defined by federal law. It has long been established that, if a state criminalizes certain \u201cnarcotics\u201d not listed as a \u201cnarcotic drug\u201d under federal law, a state conviction cannot serve as the basis for deportation. Because the Board of Immigration Appeals\u2019 approach in this case makes state paraphernalia convictions deportable because they generally \u201crelate to\u201d any and all controlled substances, whether or not federally listed, less grave paraphernalia possession misdemeanors can have harsher consequences than certain drug possession and distribution offenses. The text of the Immigration and Nationality Act (INA) limits the meaning of \u201ccontrolled substance\u201d for removal purposes to those listed under the Controlled Substances Act (CSA). Because the Kansas paraphernalia statute does not depend on whether the substance is listed under the CSA, nor did state prosecutors seek to prove that Mellouli possessed a substance listed under the CSA, Mellouli\u2019s conviction does not warrant deportation.</p>\n<p>Justice Clarence Thomas wrote a dissent in which he argued that the narcotics on Kansas\u2019 controlled substances list are the same as those listed in the CSA, with nine additions. Therefore, the Kansas law under which Mellouli was convicted \u201crelates to\u201d a \u201ccontrolled substance\u201d as defined in the CSA, and Mellouli\u2019s state paraphernalia conviction could trigger deportability under the INA. Justice Samuel A. Alito, Jr., joined in the dissent.</p>\n"
+}

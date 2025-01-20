@@ -1,0 +1,35 @@
+{
+    "ID": 55031,
+    "name": "State Farm Mutual Automobile Insurance Company v. Campbell",
+    "href": "https://api.oyez.org/cases/2002/01-1289",
+    "view_count": 0,
+    "docket_number": "01-1289",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1039586400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38789"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1049691600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38790"
+        }
+    ],
+    "question": "<p>Is an award of $145 million in punitive damages, when full compensatory damages are $1 million, excessive and in violation of the Due Process Clause of the Fourteenth Amendment?</p>\n",
+    "citation": {
+        "volume": "538",
+        "page": "408",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/18960"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/538/408/",
+    "facts_of_the_case": "<p>Although investigators concluded that Curtis Campbell caused an accident in which one person was killed and another permanently disabled, his insurer, State Farm Mutual Automobile Insurance Company, contested liability and took the case to trial. State Farm assured the Campbells that they would represent their interests. After losing in court, the Campbells sued State Farm for bad faith, fraud, and intentional infliction of emotional distress. In the first part of the trial, the jury found State Farm's decision not to settle unreasonable. In the second part, the trial court denied State Farm's renewed motion to exclude dissimilar out-of-state conduct evidence, ruling such evidence was admissible to determine whether State Farm's conduct in the Campbell case was indeed intentional and sufficiently egregious to warrant punitive damages. The jury awarded the Campbells $2.6 million in compensatory damages and $145 million in punitive damages, which the trial court reduced to $1 million and $25 million respectively. The Utah Supreme Court reinstated the $145 million punitive damages award.</p>\n",
+    "conclusion": "<p>Yes. In a 6-3 opinion delivered by Justice Anthony M. Kennedy, the Court held that the punitive award of $145 million was neither reasonable nor proportionate to the wrong committed, and it was thus an irrational, arbitrary, and unconstitutional deprivation of the property of the insurer. The Court reasoned that evidence of dissimilar out-of-state misconduct was an improper basis for punishing the insurer for the limited harm and noted, \"few awards exceeding a single-digit ratio between punitive and compensatory damages, to a significant degree, will satisfy due process.\" Justices Antonin Scalia, Clarence Thomas, and Ruth Bader Ginsburg dissented. Justices Scalia and Thomas argued that the Due Process Clause provides no substantive protections against excessive or unreasonable awards of punitive damages. Justice Ginsburg noted that the decision overstepped states' traditional territory to regulate punitive damages.</p>\n"
+}

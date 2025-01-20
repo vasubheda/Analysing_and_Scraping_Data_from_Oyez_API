@@ -1,0 +1,42 @@
+{
+    "ID": 56026,
+    "name": "Utility Air Regulatory Group v. EPA",
+    "href": "https://api.oyez.org/cases/2013/12-1146",
+    "view_count": 0,
+    "docket_number": "12-1146",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1381813200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41370"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1393221600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52711"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1403499600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52712"
+        }
+    ],
+    "question": "<p>Did the EPA permissibly determine that its regulation of greenhouse gas emissions from new motor vehicles under the Clean Air Act also triggered permit requirements for stationary sources of greenhouse gas emissions?</p>\n",
+    "citation": {
+        "volume": "573",
+        "page": "302",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/19948"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that, under the Clean Air Act, the EPA is not required to include greenhouse gas emissions every time it mentions air pollution.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/573/302/",
+    "facts_of_the_case": "<p>After the 2007 Supreme Court decision in <em>Massachusetts v. EPA</em> that determined that air pollution was subject to Environmental Protection Agency (EPA) regulation under the Clean Air Act, the EPA set out a series of standards governing greenhouse gas emissions. One of these benchmarks set emission standards for vehicles, while another one required stationary sources of greenhouse gases to obtain constructing and operating permits from the EPA. The petitioners, who include various state and industry groups, challenged these rules on the grounds that they were based on an improper construction of the Clean Air Act and are arbitrary and capricious because they are based on an inadequate scientific record. The U.S. Court of Appeals for the Federal Circuit dismissed the challenges.</p>\n",
+    "conclusion": "<p>No. Justice Antonin Scalia delivered the opinion for the 9-0 member majority. The Court held that, while the <em> Massachusetts</em> decision found that the Clean Air Act\u2019s general definition of \u201cair pollutant\u201d included greenhouse gas emissions, it does not require the Environmental Protection Agency (EPA) to include greenhouse gas emissions every time the Act uses the term \u201cair pollutant.\u201d Instead, the EPA retains its ability to interpret the term in a context-appropriate way depending on where the term was being used. Because the inclusion of greenhouse gases as an \u201cair pollutant\u201d under the permitting scheme would compel the EPA to regulate tens of thousands of additional pollution emitters, it would not be reasonable for the EPA to interpret this specific instance of \u201cair pollution\u201d to include greenhouse gas emissions. Furthermore, even if the EPA were able to interpret this instance of \u201cair pollution\u201d to include greenhouse gases, the EPA lacks the authority to modify the threshold limits Congress dictated. Though the EPA overstepped its authority in trying to regulate greenhouse gases under this section of the Clean Air Act, the Court held that the EPA\u2019s decision was within the boundaries of the EPA\u2019s discretion.</p>\n<p>Justice Stephen G. Breyer wrote an opinion concurring in part and dissenting in part in which he argued that the Clean Air Act\u2019s language regarding which pollution emitters are required to obtain permits should not be read to include all pollution emitters. This interpretation would solve the tension between the majority\u2019s position, which denies the ability of the EPA to regulate greenhouse gases in some cases, and the Court\u2019s decision in <em>Massachusetts</em>, which explicitly held that greenhouse gases are subject to EPA regulation. Justice Ruth Bader Ginsburg, Justice Sonia Sotomayor and Justice Elena Kagan joined the opinion. In his separate opinion concurring in part and dissenting in part, Justice Samuel A. Alito, Jr. argued that <em>Masschusetts</em> had been wrongly decided and should be overturned. Furthermore, because the majority held that the term \u201cair pollution\u201d under the permitting requirement does not include greenhouse gas emissions, then the same phrase under the capture technology requirement should likewise be read to not include greenhouse gas emissions. Therefore, the EPA should not be allowed to require pollution-capturing technology for greenhouse gas emission. Justice Clarence Thomas joined the opinion.&lt;/p</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 55061,
+    "name": "Borden Ranch Partnership v. Army Corps of Engineers",
+    "href": "https://api.oyez.org/cases/2002/01-1243",
+    "view_count": 0,
+    "docket_number": "01-1243",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1039500000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38846"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1040018400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38847"
+        }
+    ],
+    "question": "<p>Does deep plowing ranchland to plant deep-rooted crops constitute the \"addition\" of a \"pollutant\" from a \"point source\" so as to fall within the regulation of the Clean Water Act? Is deep plowing ranchland which is farmable in its natural state to plant deep-rooted crops statutorily exempt from regulation under the Act's exemption for any discharge from \"normal farming...activities such as plowing?\" Does the Act's civil penalty section authorize assessing the maximum daily penalty for each time a plow crosses a seasonal drainage feature, without regard to the number of days when such activity occurred?</p>\n",
+    "citation": {
+        "volume": "537",
+        "page": "99",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/18990"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/537/99/",
+    "facts_of_the_case": "<p>In 1993, Angelo Tsakopoulos purchased the Borden Ranch, an 8348-acre ranch in California. Tsakopoulos planned to subdivide the land into parcels for cultivation as vineyards and orchards. Because a dense layer of material prevented water from reaching the depths necessary to cultivate vineyards or orchards, Tsakopoulos intended to \"deep rip\" the soil. Deep ripping has a dramatic effect on the character of a wetland area. The Corps of Engineers and the Environmental Protection Agency informed Tsakopoulos that he was not to deep rip protected waters without a permit. Ultimately, the District Court found that Tsakopoulos had violated the Clean Water Act multiple times and imposed a substantial fine. The Court of Appeals affirmed in relevant part.</p>\n",
+    "conclusion": "<p>In a per curiam opinion, the Court affirmed the judgment of the appeals court by an equally divided vote. Justice Anthony M. Kennedy took no part in the consideration or decision of this case.</p>\n"
+}

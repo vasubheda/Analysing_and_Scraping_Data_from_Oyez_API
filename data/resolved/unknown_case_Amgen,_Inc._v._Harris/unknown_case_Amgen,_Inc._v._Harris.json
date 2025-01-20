@@ -1,0 +1,35 @@
+{
+    "ID": 62663,
+    "name": "Amgen, Inc. v. Harris",
+    "href": "https://api.oyez.org/cases/2015/15-278",
+    "view_count": 0,
+    "docket_number": "15-278",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1453701600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53410"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1453701600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53411"
+        }
+    ],
+    "question": "<p>Did the plaintiffs in this case \u201cplausibly allege\u201d a breach of the duty of prudence?</p>\n",
+    "citation": {
+        "volume": "577",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27411"
+    },
+    "term": "2015",
+    "description": "A case in which the Court held that the court of appeals erred in failing to assess whether the complaint \u201cplausibly alleged\u201d a breach of the duty of prudence under the standard the Court established in Fifth Third v. Dudenhoeffer.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/577/308/",
+    "facts_of_the_case": "<p>Current and former employees of Amgen, Inc. (Amgen) and Amgen Manufacturing, Limited (AML) participated in two employer-sponsored pension plans (the Plans). The Plans included holdings in the Amgen Common Stock Fund which held only Amgen common stock. The plaintiffs were a group of employees who filed a class action suit under the Employee Retirement Income Security Act (ERISA) against Amgen, AML, Amgen\u2019s board of directors, and the Fiduciary Committees of the Plans when the value of the Amgen common stock fell. The plaintiffs alleged that the defendants breached their fiduciary duties under ERISA by allowing the participants to purchase and hold Amgen stock while knowing its price was artificially inflated. The district court granted the defendants\u2019 motion to dismiss, and the plaintiffs appealed. The United States Court of Appeals for the Ninth Circuit reversed and remanded on the grounds that the district court did not properly apply the \u201cpresumption of prudence\u201d as illustrated in <em>Quan v. Computer Science Corp.</em> The presumption of prudence explains that the fiduciary who invests assets in the employer\u2019s stock is entitled to a presumption that they acted consistently with ERISA. The court found that even if the presumption of prudence did apply, the plaintiffs had sufficiently argued a violation of the defendant\u2019s fiduciary duty. On remand, the district court again dismissed the action and the Court of Appeals again reversed. The Supreme Court granted certiorari and vacated and remanded the case in light of its decision in <em>Fifth Third Bancorp v. Dudenhoeffer</em>, which held that ERISA fiduciaries who administer employee stock ownership plans are not entitled to a presumption of prudence but are \u201csubject to the same duty of prudence that applies to ERISA fiduciaries in general, except that they need not diversify the fund\u2019s assets.\u201d The appellate court again reversed the dismissal of the complaint on the same grounds.</p>\n",
+    "conclusion": "<p>In a per curiam decision, the Court held that the U.S. Court of Appeals for the Ninth Circuit failed to properly evaluate the complaint to determine whether the plaintiffs plausibly alleged a breach of the duty of prudence. Although the appellate court held that the standard established in <em>Fifth Third v. Dudenhoeffer</em> was satisfied because it was \u201cquite plausible\u201d that the fiduciaries\u2019 actions would not \u201ccaus[e] undue harm to plan participants,\u201d the Supreme Court held the appellate court did not properly apply the standard. Instead, the Court held that the appellate court erred in failing to assess whether the complaint \u201cplausibly alleged\u201d that a prudent fiduciary in the same position \u201ccould not have concluded\u201d that the alternative action \u201cwould do more harm than good.\u201d The Court reversed and remanded the case to determine if the plaintiffs \u201cplausibly alleged\u201d a breach of duty of prudence under the appropriate standard.</p>\n"
+}

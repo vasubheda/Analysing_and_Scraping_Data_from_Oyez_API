@@ -1,0 +1,35 @@
+{
+    "ID": 54592,
+    "name": "Foster v. Love",
+    "href": "https://api.oyez.org/cases/1997/96-670",
+    "view_count": 0,
+    "docket_number": "96-670",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                876114000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37968"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                881042400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37969"
+        }
+    ],
+    "question": "<p>Does Louisiana's open primary violate the federal statutes that establish a uniform federal election day?</p>\n",
+    "citation": {
+        "volume": "522",
+        "page": "67",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18521"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/522/67/",
+    "facts_of_the_case": "<p>The Elections Clause of the Constitution provides that \"the Times, Places and Manner of holding Elections for Senators and Representatives, shall be prescribed in each State by the Legislature thereof; but the Congress may at any time by Law make or alter such Regulations.\" 2 USC sections 1 and 7 provide that the Tuesday after the first Monday in November in an even-numbered year is established as the date for federal congressional and presidential elections. In 1975, Louisiana adopted an \"open primary,\" which occurs before the uniform federal election day and in which all candidates appear on the ballot and all voters may vote. If a candidate for a given office receives a majority at the open primary, that candidate is elected and no further act is done on federal election day to fill that office. Louisiana voters challenged the open primary is a violation of federal law. Reversing the District Court, the Court of Appeals held that Louisiana's system squarely \"conflicts with the federal statutes that establish a uniform federal election day.\"</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion delivered by Justice David H. Souter, the Court held that when Louisiana's open primary is applied to select among congressional candidates in October, it conflicts with federal law and to that extent is void. The Court rejected the argument that Louisiana's system only concerns the manner, not the time, of a federal election. Justice Souter reasoned that a federal election occurs in Louisiana before the federal election date whenever a candidate receives a majority in the open primary.</p>\n"
+}

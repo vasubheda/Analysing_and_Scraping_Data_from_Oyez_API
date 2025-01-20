@@ -1,0 +1,42 @@
+{
+    "ID": 56037,
+    "name": "Scialabba v. Cuellar De Osorio",
+    "href": "https://api.oyez.org/cases/2013/12-930",
+    "view_count": 0,
+    "docket_number": "12-930",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1372050000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41389"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1386655200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41390"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1402290000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41594"
+        }
+    ],
+    "question": "<p>(1) Does the INA allow aliens who qualify as \"children\" at the time a visa application is filed but subsequently \"age out\" by turning twenty-one to retain their original application date?</p>\n<p>(2) Did the Board of Immigration Appeals reasonably interpret the INA when denying the respondents' request?</p>\n",
+    "citation": {
+        "volume": "573",
+        "page": "41",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20904"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that the Immigration and Nationality Act does not allow children who have submitted an application for a visa to keep their original application date if they \"aged out\" before it was processed.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/573/41/",
+    "facts_of_the_case": "<p>The respondents are all immigrants to the United States and are considered lawful permanent residents. At various times each of the respondents applied for family-sponsored visas. However, because of the delays caused by visa quotas and serious backlogs in the U.S. immigration system meant that all of their children had turned twenty-one and, based on the Immigration and Nationality Act (INA), had \"aged out\" of eligibility for any derivative child-visas. As a result, their visa applications converted from child-applications to adult-applications and were moved to the bottom of the adult-application list, which potentially added years to their wait to receive a visas.</p>\n<p>In 2009, after the Board of Immigration Appeals converted several child visa petitions to adult petitions, the respondents filed two cases in federal district court in the U.S. District Court for the Southern District of California asking hat the court order the Board to retain use of their children's original visa filing dates. That court denied the request. The respondents then appealed to the U.S. Court of Appeals for the Ninth Circuit. There, the petitioners argued that certain provisions in the Child Status Protection Act (CSPA) should allow the use of the children's original application dates for certain visa applications. The Ninth Circuit agreed, holding that the language of both CSPA and the INA allow the child-status petition to convert to an adult petition while still retaining the original date when the visa petition was filed.</p>\n",
+    "conclusion": "<p>No, yes. Justice Elena Kagan delivered the opinion for the three-justice plurality. The plurality held that the relevant sections of the Child Status Protection Act are not ambiguous but rather allow children to retain their original application date only in certain situations and not in others. Therefore, the interpretation of the Board of Immigration Appeals is reasonable and should receive deference in this case. However, the plurality also noted that the CSPA does not require the Board's interpretation in this case; it is simply one possible reading based on the differences in the text of the statute.</p>\n<p>Chief Justice John G. Roberts, Jr. wrote an opinion concurring in judgment in which he argued that Congress intended any ambiguity in the statute to be resolved by the Board. Chief Justice Roberts agreed with the plurality that the Board's interpretation of the statute was reasonable and should be allowed to stand. Justice Antonin Scalia joined in the opinion concurring in judgment.</p>\n<p>In his dissent, Justice Samuel A. Alito, Jr. wrote that the CSPA has an appropriate category into which to convert the petitions of children who have \"aged out\" of their previous category. Because such a conversion is possible without any action on the part of the INA, the respondents' petitions should have been immediately converted and their original petition dates should be retained. Justice Sonia Sotomayor wrote a separate dissent in which she argued that, because all five categories of aged out children meet the requirement in the initial clause of the statute, they are entitled to relief in the form of retaining their original petition dates. By holding that the Board's interpretation was a reasonable one, the plurality's opinion ignores the principle of statutory interpretation that requires courts to assume that Congress constructed the statute as a coherent whole. Because the Board's construction of the statute neglected this principle and treated the statute as entirely disparate parts, Justice Sotomayor argued that the Board's interpretation was impermissible. Justice Stephen G. Breyer and Justice Clarence Thomas joined in the dissent.</p>\n"
+}

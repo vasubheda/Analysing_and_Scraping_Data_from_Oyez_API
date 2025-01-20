@@ -1,0 +1,42 @@
+{
+    "ID": 55451,
+    "name": "Wallace v. Kato",
+    "href": "https://api.oyez.org/cases/2006/05-1240",
+    "view_count": 0,
+    "docket_number": "05-1240",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1150693200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39858"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1162792800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39859"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1172037600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52229"
+        }
+    ],
+    "question": "<p>When does the statute of limitations for a claim for damages arising out of a false arrest start running when the fruits of the search were introduced in a person's criminal trial and he was convicted?</p>\n",
+    "citation": {
+        "volume": "549",
+        "page": "384",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20655"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/549/384/",
+    "facts_of_the_case": "<p>In 1994, Andre Wallace was arrested and charged with murder. Two years later he was convicted and sent to prison. Wallace appealed, arguing that the police had arrested him without probable cause and coerced him into confessing to the crime. In 1998, an appeals court agreed that Wallace had been arrested without probable cause and granted him a new trial. Finally, in 2002, the prosecution dropped its case against him. The next year Wallace sued the police officers and the city of Chicago for violating his Fourth Amendment rights through false arrest.</p>\n<p>The District Court ruled against Wallace, because his suit was time-barred. In Illinois there is a two-year statute of limitations on false-arrest claims. Since Wallace had not brought suit within two years of either his arrest or the time the arrest was declared invalid, his time was up. Wallace appealed to the Seventh Circuit Court of Appeals, arguing that the two-year limit did not begin until his conviction was finally set aside in 2002.</p>\n<p>The Circuit Court upheld the District Court, ruling against Wallace. The Circuit Court panel acknowledged that other Circuits had failed to agree on the question of when the statute of limitations for a false arrest claim should begin. The Seventh Circuit opted for a clear rule - the two-year limit starts at the time of the arrest, and therefore Wallace's suit was too late</p>\n",
+    "conclusion": "<p>By a 7-2 vote, the Court affirmed the Seventh Circuit. The opinion by Justice Antonin Scalia held that \"the statute of limitations begins to run when the alleged false imprisonment ends.\" Since false imprisonment is detention without legal process, the Court ruled, the false imprisonment ends when legal processes begin. At that point, the clock begins to run on the time limit for filing a false imprisonment claim.</p>\n"
+}

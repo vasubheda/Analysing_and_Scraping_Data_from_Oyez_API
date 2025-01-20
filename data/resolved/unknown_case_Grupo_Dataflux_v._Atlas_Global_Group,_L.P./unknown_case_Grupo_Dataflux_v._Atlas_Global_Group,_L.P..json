@@ -1,0 +1,42 @@
+{
+    "ID": 55168,
+    "name": "Grupo Dataflux v. Atlas Global Group, L.P.",
+    "href": "https://api.oyez.org/cases/2003/02-1689",
+    "view_count": 0,
+    "docket_number": "02-1689",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1084770000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39087"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                1066107600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52705"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1078293600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52706"
+        }
+    ],
+    "question": "<p>If a suit is filed in federal court without the diversity necessary to establish jurisdiction, but the citizenship of one of the parties changes before the case begins so that diversity is present, should the court ignore the filing error?</p>\n",
+    "citation": {
+        "volume": "541",
+        "page": "567",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/27077"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/541/567/",
+    "facts_of_the_case": "<p>Atlas Global Group was a limited partnership company created under Texas law. They filed a suit in federal court against Grupo Dataflux, a Mexican corporation. The suit dealt with a state law, but Atlas filed the case in federal court because, it claimed, the court had \"diversity jurisdiction\" (when a case involves citizens of two different states, or an American citizen and a foreign citizen, it is heard in federal court). However, at the time the case was filed, two of Atlas's partners were Mexican citizens (they left the partnership before the trial began). After the case was decided, but before the judgment was announced, Grupo Dataflux filed a motion to dismiss the case because the court did not have diversity jurisdiction. The judge granted the motion, finding that Atlas was a Mexican \"citizen\" at the time of filing because of the citizenship of its partners, and that the federal courts therefore did not have jurisdiction. On appeal, Atlas argued that even if the necessary diversity had not been present at the time of filing, it was present before the trial began and the court should therefore ignore the error under an exception for cases that have already been decided. A Fifth Circuit Court of Appeals panel agreed, reversing the decision.</p>\n",
+    "conclusion": "<p>No. In a 5-to-4 decision written by Justice Antonin Scalia, the Court ruled that allowing diversity jurisdiction to change after a case is filed would create uncertainty and expensive litigation that dealt with jurisdiction rather than the merits of the case. \"Uncertainty regarding the question of jurisdiction is particularly undesirable, and collateral litigation on the point particularly wasteful,\" wrote Justice Scalia. \"The stability provided by our time tested rule (of requiring diversity at the time of filing) weighs heavily against the approval of any new deviation.\"</p>\n"
+}

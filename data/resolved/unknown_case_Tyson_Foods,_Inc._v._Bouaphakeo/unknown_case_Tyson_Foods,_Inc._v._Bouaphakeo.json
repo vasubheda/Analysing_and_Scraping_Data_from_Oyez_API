@@ -1,0 +1,42 @@
+{
+    "ID": 62322,
+    "name": "Tyson Foods, Inc. v. Bouaphakeo",
+    "href": "https://api.oyez.org/cases/2015/14-1146",
+    "view_count": 0,
+    "docket_number": "14-1146",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1433739600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52791"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1447135200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52813"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1458622800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53460"
+        }
+    ],
+    "question": "<p>May differences among plaintiff class members be ignored for the purpose of class certification when liability and damages will be calculated based on statistical techniques that presume all class members are identical to an average?</p>\n<p>May a class action be certified and maintained when the class contains members who were not injured and therefore have no legal right to damages?</p>\n",
+    "citation": {
+        "volume": "577",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27122"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that a class action is properly certified and maintained, despite differences among the plaintiff class, if all the individual plaintiffs' cases ask the same central question and even if some plaintiffs were not injured and have no legal right to damages. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/577/442/",
+    "facts_of_the_case": "<p>Peg Bouaphakeo and the rest of the plaintiff class are current and former employees of Tyson Foods, Inc. (Tyson) at the company\u2019s meat-processing facility in Storm Lake, Iowa. The employees worked on a \u201cgang-time\u201d system, which means they were paid only for time they were at their working stations and the production line was moving. The employees sued Tyson and argued that the company violated the Fair Labor Standards Act of 1938 and the Iowa Wage Payment Collection Law by not paying appropriate compensation for the time spent putting on and taking off protective clothing at the beginning and end of the work day and lunch break. The district court certified the class, and the jury returned a verdict in favor of the plaintiffs and awarded damages of several million dollars.</p>\n<p>Tyson appealed and argued that the district court erred in certifying the plaintiff class because factual differences among the plaintiffs made class certification improper. Tyson also argued that the class should be decertified because evidence presented at trial showed that some members of the class were not injured by the company\u2019s actions and therefore had no right to damages. The U.S. Court of Appeals for the Eighth Circuit affirmed the district court\u2019s certification of the plaintiff class.</p>\n",
+    "conclusion": "<p>Despite differences among class members, the class action was based under one question and therefore the class was properly certified. Additionally, although some class members who had not been injured would have no right to damages, the award had not yet been dispersed, so the district court can review the disbursement on remand. Justice Anthony Kennedy wrote the opinion for the 6-2 majority, which held that the class members were joined under one common question, and that satisfies the requirements for a class action suit despite differences among the members. The case was remanded for the lower court to consider of the proper disbursement of the award.</p>\n<p>In his concurring opinion, Chief Justice John G. Roberts, Jr. wrote that the district court would be unable to appropriately distribute the $2.9 million award among the class members. The jury did not allocate the direct calculation of damages to unpaid overtime compensation and each plaintiff spent different amounts of time doffing and donning the protective clothing, so it would be extremely difficult to determine which plaintiffs are excluded from the award for lack of damages and the amount of the damages the other plaintiffs should receive. Justice Samuel A. Alito joined in the part of the concurrence that addressed the problems of allocating damages.</p>\n<p>Justice Clarence Thomas wrote a dissent in which he argued that the district court erred in certifying the class action because the amount of time individual plaintiffs spent dealing with the protective clothing varied significantly. Some plaintiffs may not have been pushed over 40 hours a week and would not be owed damages. The awarded $2.9 million will be difficult to distribute among the 3344-members of the class action suit, and the district court should not have certified the class action suit. Justice Alito joined in the dissent.</p>\n"
+}

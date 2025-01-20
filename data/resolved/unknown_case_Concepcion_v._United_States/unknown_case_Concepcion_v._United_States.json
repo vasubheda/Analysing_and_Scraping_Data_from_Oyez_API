@@ -1,0 +1,42 @@
+{
+    "ID": 63406,
+    "name": "Concepcion v. United States",
+    "href": "https://api.oyez.org/cases/2021/20-1650",
+    "view_count": 0,
+    "docket_number": "20-1650",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1632978000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54990"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1642572000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55031"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1656306000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55142"
+        }
+    ],
+    "question": "<p>Must or may a district court consider intervening legal and factual developments when deciding whether to \u201cimpose a reduced sentence\u201d on an individual under Section 404(b) of the First Step Act of 2018?</p>\n",
+    "citation": {
+        "volume": "597",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27848"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held that a district court may consider intervening legal and factual developments when deciding whether to \u201cimpose a reduced sentence\u201d on an individual under Section 404(b) of the First Step Act of 2018.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/597/20-1650/",
+    "facts_of_the_case": "<p>In 2008, Carlos Concepcion pleaded guilty to crack cocaine charges, and in 2009 he was sentenced to 228 months in prison. While he was serving his sentence, Congress passed the Fair Sentencing Act, which reduced the statutory penalties for most federal crimes involving crack cocaine. In 2018, Congress made these changes retroactive, and Concepcion moved for resentencing. The district court denied his motion, and Concepcion appealed. The U.S. Court of Appeals affirmed, finding that the district court was not obligated to update and reevaluate the sentencing factors.</p>\n",
+    "conclusion": "<p>The First Step Act allows district courts to consider intervening changes of law or fact in exercising their discretion to reduce a sentence. Justice Sonia Sotomayor authored the majority opinion of the Court.</p>\n<p>District courts enjoy substantial discretion to consider all relevant information at a sentencing hearing. That discretion extends to subsequent hearings modifying sentencing, as well. The First Step Act preserves this discretion, allowing the district court to reduce sentences based not only on the changes to sentencing ranges, but also on other legal or factual changes that have occurred since the original sentencing.</p>\n<p>Justice Brett Kavanaugh authored a dissenting opinion, joined by Chief Justice John Roberts and Justices Samuel Alito and Amy Coney Barrett. Justice Kavanaugh argued that the text of the First Step Act authorizes district courts to reduce sentences based only on\u00a0changes to the crack-cocaine sentencing ranges, not on other unrelated changes that have occurred since the original sentencing.</p>\n<p>\u00a0</p>\n"
+}

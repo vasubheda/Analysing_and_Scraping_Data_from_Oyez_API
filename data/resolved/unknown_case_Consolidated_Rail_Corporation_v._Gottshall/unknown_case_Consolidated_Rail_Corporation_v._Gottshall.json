@@ -1,0 +1,35 @@
+{
+    "ID": 54198,
+    "name": "Consolidated Rail Corporation v. Gottshall",
+    "href": "https://api.oyez.org/cases/1993/92-1956",
+    "view_count": 0,
+    "docket_number": "92-1956",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                762415200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37236"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                772434000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37237"
+        }
+    ],
+    "question": "<p>Under the Federal Employers' Liability Act (FELA), does \"emotional stress\" resulting from employer \"negligence\" constitute an \"injury\" for which an employee can hold his employer liable?</p>\n",
+    "citation": {
+        "volume": "512",
+        "page": "532",
+        "year": "1994",
+        "href": "https://api.oyez.org/case_citation/case_citation/18127"
+    },
+    "term": "1993",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/512/532/",
+    "facts_of_the_case": "<p>Consolidated Rail Corporation (Conrail) employee James Gottshall observed a fellow worker, Richard Johns, die of a heart attack while on duty. Gottshall's boss postponed seeking medical assistance during Johns' heart attack, insisted that the crew keep working, and left the body at the work site for the remainder of the work day. Shortly after Johns's death, Gottshall was admitted to a psychiatric institution. Gottshall sued Conrail under the Federal Employers' Liability Act (FELA) for exposing him to distressing circumstances which he claimed caused his illness. A District Court rejected the suit.</p>\n<p>The U.S. Court of Appeals for the Third Circuit reversed and found that Gottshall's injuries were \"genuine and severe.\" The Third Circuit contrasted the liberal injury recovery policy embodied in FELA over the more limited injury relief recovery policy embodied in common law standards, which often applied harsh tests to prove employee injury.</p>\n<p>Conrail employee Alan Carlisle also filed a FELA action against Conrail. He claimed that Conrail subjected him to unsafe working conditions, which caused him stress and lead to health problems. Because the stress related health problems were foreseeable to Conrail, the Third Circuit affirmed the judgment for Carlisle.</p>\n",
+    "conclusion": "<p>No. Justice Clarence Thomas authored the opinion for a 7-2 Court. The Court categorized FELA emotional stress claims closely with common law treatments of emotional stress claims. The Court rejected the Third Circuit's assertion that common law tests were arbitrary and could be disregarded. Instead, common law standards should be used to verify claims filed under FELA. The Court adopted the \"zone of danger test\" from common law, which limits relief to those employees who sustain physical injury resulting from emotional stress caused by employer negligence. The Court held that this test would best distinguish between genuine and fraudulent claims, and provide relief in the case of injury. The Court rejected the Third Circuit's holding that employers were liable for causing foreseeably stressful conditions, reasoning that this would extend to many types of everyday employment.</p>\n"
+}

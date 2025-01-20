@@ -1,0 +1,42 @@
+{
+    "ID": 54845,
+    "name": "Slack v. McDaniel",
+    "href": "https://api.oyez.org/cases/1999/98-6322",
+    "view_count": 0,
+    "docket_number": "98-6322",
+    "timeline": [
+        {
+            "event": "Reargued",
+            "dates": [
+                954309600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51871"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                956725200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52214"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                939013200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52215"
+        }
+    ],
+    "question": "<p>If a person's petition for a federal writ of habeas corpus is dismissed without prejudice for failure to exhaust state remedies and is re-filed after those remedies are exhausted, are any claims not raised in the first petition \"second or successive\" and abusive of the right?</p>\n",
+    "citation": {
+        "volume": "529",
+        "page": "473",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18774"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/529/473/",
+    "facts_of_the_case": "<p>Antonio Tonton Slack was convicted of second-degree murder in Nevada. In 1991, after an unsuccessful direct appeal, Slack filed a petition for a writ of habeas corpus in federal court. In federal court, Slack attempted to litigate claims he had not yet presented to the Nevada courts and was prevented from doing so. Slack, therefore, filed a motion to hold his federal petition in abeyance while he returned to state court to exhaust his new claims. The Federal District Court ordered the habeas petition dismissed and granted Slack leave to file an application to renew upon his exhaustion of state remedies. In 1995, after unsuccessful state post-conviction proceedings, Slack filed again in the federal court. The state moved to dismiss, arguing that Slack's petition raised claims that had not been presented to the state courts and that claims not raised in Slack's 1991 federal petition had to be dismissed as an abuse of the writ. The District Court granted the state's motion. Slack then filed a notice of appeal. The court denied Slack leave to appeal, concluding the appeal would raise no substantial issue. The Court of Appeals also denied Slack leave to appeal.</p>\n",
+    "conclusion": "<p>No. In an 7-2 opinion delivered by Justice Anthony M. Kennedy, the Court held that a federal habeas corpus petition filed by a state prisoner, after an initial petition was dismissed without adjudication on the merits, does not constitute a \"second or successive\" petition, subject to dismissal for abuse of writ. That \"a vexatious litigant could inject undue delay into the collateral review process,\" wrote Justice Kennedy, can be countered, \"the State remains free to impose proper procedural bars to restrict repeated returns to state court for postconviction proceedings.\"</p>\n"
+}

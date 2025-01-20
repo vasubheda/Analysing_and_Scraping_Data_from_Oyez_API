@@ -1,0 +1,35 @@
+{
+    "ID": 53925,
+    "name": "Riverside County v. McLaughlin",
+    "href": "https://api.oyez.org/cases/1990/89-1817",
+    "view_count": 0,
+    "docket_number": "89-1817",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                663228000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36715"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                674110800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36716"
+        }
+    ],
+    "question": "<p>Did Riverside violate the Court's holding in Gerstein v. Pugh (420 U.S. 103), which required prompt probable cause determinations?</p>\n",
+    "citation": {
+        "volume": "500",
+        "page": "44",
+        "year": "1991",
+        "href": "https://api.oyez.org/case_citation/case_citation/17854"
+    },
+    "term": "1990",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/500/44/",
+    "facts_of_the_case": "<p>McLaughlin was arrested without a warrant and argued that Riverside did not act promptly (within 48 hours) on judicial probable cause determinations and arraignment procedures in his case and others.</p>\n",
+    "conclusion": "<p>The Court held that Riverside's actions did not comply with the Gerstein precedent. Justice O'Connor argued that it was the state's burden to demonstrate extraordinary circumstances when delaying probable cause determinations beyond 48 hours. The lower court in this case had placed that responsibility on the accused. Intervening weekends or complicated pretrial proceedings were not legitimate reasons for delay.</p>\n"
+}

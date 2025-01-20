@@ -1,0 +1,42 @@
+{
+    "ID": 63512,
+    "name": "The Ohio Adjutant General\u2019s Department v. Federal Labor Relations Authority",
+    "href": "https://api.oyez.org/cases/2022/21-1454",
+    "view_count": 0,
+    "docket_number": "21-1454",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1664773200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55156"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1673244000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55200"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1684386000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55278"
+        }
+    ],
+    "question": "<p>Does the Civil Service Reform Act of 1978 empower the Federal Labor Relations Authority to regulate the labor practices of state militias?</p>\n",
+    "citation": {
+        "volume": "598",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27915"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held that the Civil Service Reform Act of 1978, which empowers the Federal Labor Relations Authority to regulate the labor practices of federal agencies, also empowers it to regulate the labor practices of state militias.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/598/21-1454/",
+    "facts_of_the_case": "<p>In 2016, the Ohio National Guard and its Adjutant General (the \u201cGuard\u201d) decided to end its 45-year-long relationship with the union that represents its technicians, who are civilian federal employees but are described as dual-status employees because of their hybrid civilian and military roles.</p>\n<p>As it was terminating the relationship, the Guard informed the union that it did not have Standard Form 1187s, which federal-sector bargaining-unit members are required to submit and which the Guard was obligated to maintain. The union filed four Unfair Labor Practice charges (ULPs) with the Federal Labor Relations Authority (FLRA). The FLRA\u2019s regional general counsel investigated and found that the Guard had refused to negotiate in good faith. The Guard responded that it was not an \u201cagency\u201d and that the technicians were not \u201cemployees\u201d within the meaning of the Federal Service Labor-Management Relations Statute. An administrative law judge (ALJ) disagreed, and a three-member FLRA panel adopted the ALJ\u2019s recommended decision in full. The U.S. Court of Appeals for the Sixth Circuit denied the Guard\u2019s petition for review, finding the FLRA has jurisdiction to adjudicate the collective-bargaining dispute.</p>\n",
+    "conclusion": "<p>The Federal Labor Relations Authority (FLRA) had jurisdiction over this labor dispute because the state militia was acting as a federal agency when it hired and supervised dual-status technicians serving in their civilian roles. Justice Clarence Thomas authored the 7-2 majority opinion of the Court.</p>\n<p>Under the Federal Service Labor-Management Relations Statute (FSLMRS), the FLRA has jurisdiction only over labor organizations and federal agencies. The FSLMRS defines \u201cagency\u201d to include the Department of Defense. Dual-status technicians are defined by statute to be employees of the Department of the Air Force or Department of the Army\u2014both of which are components of the Department of Defense and thus plainly within the jurisdiction of the FLRA. By hiring and supervising these employees, the Ohio National Guard and its Adjutant General were acting as a federal agency.</p>\n<p>Justice Samuel Alito filed a dissenting opinion, in which Justice Neil Gorsuch joined, arguing that while the Guard may act as a federal agency, exercise the authority of such an agency, and function as an agency, is not actually an agency and thus is outside the jurisdiction of the FLRA.</p>\n"
+}

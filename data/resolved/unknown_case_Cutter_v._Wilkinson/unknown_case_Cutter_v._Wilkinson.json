@@ -1,0 +1,42 @@
+{
+    "ID": 55271,
+    "name": "Cutter v. Wilkinson",
+    "href": "https://api.oyez.org/cases/2004/03-9877",
+    "view_count": 0,
+    "docket_number": "03-9877",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1097557200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39375"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1111384800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39376"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1117515600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39377"
+        }
+    ],
+    "question": "<p>Did a federal law prohibiting government from burdening prisoners' religious exercise violate the First Amendment's establishment clause?</p>\n",
+    "citation": {
+        "volume": "544",
+        "page": "709",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19199"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/544/709/",
+    "facts_of_the_case": "<p>The Religious Land Use and Institutionalized Persons Act (2000, RLUIPA) prohibited government from imposing a substantial burden on prisoners' religious exercise, unless the burden furthered a \"compelling government interest.\" Prisoners in Ohio alleged in federal district court that prison officials violated RLUIPA by failing to accomodate the inmates' exercise of their \"nonmainstream\" religions. The prison officials argued that the act improperly advanced religion and thus violated the First Amendment's establishment clause (which prohibited government from making laws \"respecting an establishment of religion\"). The district court rejected that argument and ruled for the inmates. The Sixth Circuit Court of Appeals reversed.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Ruth Bader Ginsburg, the Court held that, on its face, RLUIPA made an accommodation allowed by the First Amendment. The Court reasoned that the law was an effort to alleviate the \"government-created burden\" on religious exercise that prisoners faced. Nor did section three discriminate between mainstream and non-mainstream religions. The Court did point out that constitutional problems could arise if RLUIPA were enforced improperly and religious prisoners received favored treatment, or if religious exercise and security concerns were not properly balanced.</p>\n"
+}

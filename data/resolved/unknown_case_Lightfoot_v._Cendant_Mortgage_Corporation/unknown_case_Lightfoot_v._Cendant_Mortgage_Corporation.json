@@ -1,0 +1,42 @@
+{
+    "ID": 62731,
+    "name": "Lightfoot v. Cendant Mortgage Corporation",
+    "href": "https://api.oyez.org/cases/2016/14-1055",
+    "view_count": 0,
+    "docket_number": "14-1055",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1467090000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53853"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1478584800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53912"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1484719200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53964"
+        }
+    ],
+    "question": "<ol><li>Does language \u201cto sue or and be sued, and to complain and to defend, in any court of competent jurisdiction, State or Federal\" in the federal charter of the Federal National Mortgage Association (Fannie Mae) confer subject matter jurisdiction to federal court in every case in which Fannie Mae is a plaintiff or defendant?</li>\n<li>Should the court\u2019s decision in <em>American National Red Cross v. S.G.\u00a0</em>-- which held that, when language in a federal charter expressly authorizes an organization to sue and be sued in federal courts, that language grants federal courts subject matter jurisdiction -- be overruled?</li>\n</ol>",
+    "citation": {
+        "volume": "580",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27442"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that language in the federal charter of the Federal National Mortgage Association (Fannie Mae) that authorizes the organization to sue and be sued does not mean that federal courts have subject matter jurisdiction over any case in which Fannie Mae is a plaintiff or defendant, and the Supreme Court\u2019s precedent in American National Red Cross v. S.G. doe not require a different result.\r\n",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/580/14-1055/",
+    "facts_of_the_case": "<p>Crystal Monique Lightfoot and Beverly Ann Hollis-Arlington sued the Federal National Mortgage Association (Fannie Mae) in federal district court and alleged numerous state and federal law claims arising out of the foreclosure proceedings Fannie Mae initiated against Hollis-Arlington\u2019s home. The district court dismissed and held that the plaintiffs had failed to show the existence of a genuine issue of material fact regarding their claims. The U.S. Court of Appeals for the Ninth Circuit affirmed the dismissal.</p>\n<p>The plaintiffs then sued in California state court and alleged the state law equivalents of the claims in the earlier federal suit. Fannie Mae removed the case to federal court and argued that its federal corporate charter contained language that granted federal courts subject matter jurisdiction over cases in which it was involved as a plaintiff or defendant. The plaintiffs in this case moved for a remand back to state court, but the district court denied the remand and then dismissed all the claims as having already been litigated in the earlier case in federal court. The appellate court determined that the language in Fannie Mae\u2019s federal charter conferred subject matter jurisdiction to federal courts and affirmed the dismissal.</p>\n",
+    "conclusion": "<p>The \u201cto sue or and be sued\u201d language in the federal charter of the Federal National Mortgage Association (Fannie Mae) does not grant federal district courts subject matter jurisdiction over case involving Fannie Mae, and American National Red Cross v. S.G. need not be overturned. Justice Sonia Sotomayor delivered the opinion for the unanimous Court, which examined previous cases in which the Court had decided whether a \u201csue and be sued\u201d clause conferred federal jurisdiction. Although the language in Fannie Mae\u2019s charter looks like language in charters that the Court held conferred federal jurisdiction, it also included the qualification \u201cof competent jurisdiction,\u201d which the other clauses lacked. Because this language was not identical to those in the charters that the Court had held established federal subject matter jurisdiction, the previous cases do not control the outcome of this case. Instead, the additional \u201ccompetent jurisdiction\u201d language means that only a court with existing subject matter jurisdiction can hear a case in which Fannie Mae is suing or being sued. The Court\u2019s prior opinion in American National Red Cross v. S.G. does not require a different result because it confirmed the rule that a \u201csue and be sued\u201d clause only confers federal jurisdiction if it specifically references federal courts. There was no reason to think that Congress intended a different result. </p>\n"
+}

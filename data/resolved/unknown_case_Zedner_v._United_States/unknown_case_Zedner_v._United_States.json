@@ -1,0 +1,42 @@
+{
+    "ID": 55374,
+    "name": "Zedner v. United States",
+    "href": "https://api.oyez.org/cases/2005/05-5992",
+    "view_count": 0,
+    "docket_number": "05-5992",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1136527200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39649"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1145336400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39650"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1149483600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39651"
+        }
+    ],
+    "question": "<p>(1) May a defendant waive his right to a speedy trial under the Speedy Trial Act of 1974? (2) May Zedner, who had previously signed a waiver of his rights under the Act, later base an appeal on the fact that such a waiver was invalid? (3) And was the judge's failure to exempt the 91-day period on the record harmless error?</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "489",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20643"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/547/489/",
+    "facts_of_the_case": "<p>Under the Speedy Trial Act of 1974, a federal criminal trial must begin within 70 days of the defendant's arrest or first appearance in court. The Act includes a list of delays which do not count toward this 70-day period, and one of these acceptable delays occurs when a federal district court finds on the record that the \"ends of justice\" served by granting a delay outweigh the public's and defendant's interest in a speedy trial. In this case, Zedner was a defendant in a criminal trial and twice asked the district court to issue such an order. The third time he requested one, the district court judge suggested that he sign a waiver of his right to a speedy trial under the Act for all time. Zedner signed the form, and accordingly the next time he asked for a delay the judge did not make on-the-record findings exempting the 91-day delay. Four years later, Zedner filed a motion to dismiss based on the failure to comply with the Act's 70-day period that resulted from that 91-day delay. The district court rejected the motion because of the waiver, and the Second Circuit Court of Appeals affirmed. Zedner appealed to the Supreme Court, arguing that the waiver he signed was invalid under the Act.</p>\n",
+    "conclusion": "<p>No, yes, and no. In an opinion by Justice Samuel Alito, the Supreme Court unanimously held that a defendant may not simply waive his right to a speedy trial under the Act. The list of acceptable reasons for an \"ends-of-justice\" order by the judge includes specific mention of the defendant's need for time to obtain counsel and prepare his case. If the defendant could simply waive his rights under the Act in order to meet these needs, the judge would not need to give them special consideration.</p>\n"
+}

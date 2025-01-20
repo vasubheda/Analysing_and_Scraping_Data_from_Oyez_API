@@ -1,0 +1,42 @@
+{
+    "ID": 63445,
+    "name": "Arizona v. City and County of San Francisco",
+    "href": "https://api.oyez.org/cases/2021/20-1775",
+    "view_count": 0,
+    "docket_number": "20-1775",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1635483600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55026"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1645596000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55044"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1655269200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55106"
+        }
+    ],
+    "question": "<p>Can states with interests intervene to defend a rule when the United States ceases to defend it?</p>\n",
+    "citation": {
+        "volume": "596",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27871"
+    },
+    "term": "2021",
+    "description": "A case in which the Court was asked to decide whether states with interests should be permitted to intervene to defend a rule when the United States ceases to defend it.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/596/20-1775/",
+    "facts_of_the_case": "<p>Although federal immigration law uses the term \u201cpublic charge,\u201d referring generally to recipients of federal benefits, it lacks a precise and clear definition. Under the Clinton administration, it referred only to a noncitizen who received cash benefits (as opposed to other types of benefits). In 2019, the Trump administration issued a final rule defining \u201cpublic charge\u201d as a noncitizen who would likely need cash benefits and/or government-provided housing, food assistance, or medical insurance for more than twelve months.</p>\n<p>The rule was subject to legal challenges, and the Biden administration stopped defending the rule and dismissed all the cases challenging the rule. The federal government also took additional steps to revert the definition to that of the Clinton administration. Several states sought to intervene in the litigation and take up the defense of the rule where the federal government left off. The U.S. Court of Appeals for the Ninth Circuit denied the states\u2019 motion to intervene.</p>\n",
+    "conclusion": "<p>Dismissed as improvidently granted.</p>\n"
+}

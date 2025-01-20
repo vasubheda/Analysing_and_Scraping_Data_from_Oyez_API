@@ -1,0 +1,42 @@
+{
+    "ID": 62611,
+    "name": "Voisine v. United States",
+    "href": "https://api.oyez.org/cases/2015/14-10154",
+    "view_count": 0,
+    "docket_number": "14-10154",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1446181200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53307"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1456725600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53368"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1467003600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53825"
+        }
+    ],
+    "question": "<p>Does a misdemeanor crime that requires only a showing of recklessness qualify as a misdemeanor crime of domestic violence under federal statutes 18 U.S.C. \u00a7\u00a7 921(a)(33)(A) and 922(g)(9)?</p>\n",
+    "citation": {
+        "volume": "579",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27380"
+    },
+    "term": "2015",
+    "description": "A case in which the Court held that a reckless domestic violence assault qualifies as misdemeanor crime of domestic violence for the purpose of prohibiting firearm possession.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/579/14-10154/",
+    "facts_of_the_case": "<p>In 2003 and 2005, Stephen Voisine was convicted of assaulting a woman (with whom he was in a domestic relationship) under a Maine state statute that establishes that a person is guilty of assault if that person \u201cknowingly, intentionally, or recklessly causes bodily injury or offensive physical contact to another person.\u201d A violation of that statute is misdemeanor domestic violence assault if the victim is a family or household member. In 2009, Voisine was arrested on the federal misdemeanor charge of killing a bald eagle. During the course of the investigation, police recovered a rifle from Voisine and, because of his earlier misdemeanor assault convictions, arrested and charged Voisine with violating a federal statute that makes it a crime for a person convicted of misdemeanor domestic violence to possess a firearm.</p>\n<p>William Armstrong III was convicted of assaulting his wife in violation of Maine\u2019s misdemeanor domestic violence assault statutes in 2002 and 2008. In 2010, police searched the Armstrong residence for drugs and drug paraphernalia and discovered ammunition which was later linked to guns Armstrong had transported to a friend\u2019s house. Armstrong was also charged with violating the federal statute that makes it a crime for a person convicted of misdemeanor domestic violence to possess a firearm.</p>\n<p>Voisine and Armstrong moved to dismiss the charges against them and argued that Maine\u2019s misdemeanor domestic violence assault statutes do not constitute misdemeanor domestic violence under the federal statute because \u201crecklessness\u201d is sufficient for conviction under the Maine statute, but not the federal one. The district court denied the motions, and the U.S. Court of Appeals for the First Circuit affirmed. The defendants petitioned for a writ of certiorari from the U.S. Supreme Court, which remanded the case in light of that Court\u2019s decision in <em>United States v. Castleman</em>, which held that offensive touching satisfied the \u201cphysical force\u201d requirement of the federal statute. On remand, the appellate court again held that Maine\u2019s statute constituted misdemeanor domestic violence under the federal statute.</p>\n",
+    "conclusion": "<p>A reckless domestic violence assault qualifies as misdemeanor crime of domestic violence under 18 U.S.C. \u00a7\u00a7 921(a)(33)(A) and 922(g)(9). Justice Elena Kagan delivered the opinion for the 6-2 majority. The Court held that the relevant statutory text -- \u201cus[ing] force\u201d -- does not rule out an interpretation that encompasses an act of force carried out recklessly, or with a conscious disregard of the substantial risk of causing harm. Although the statutory language does not apply to true accidents, it certainly does to reckless conduct. The legislative history of the statute also supports this reading, because Congress expressly intended for the statute to prevent those convicted of misdemeanors of domestic assault from being able to purchase firearms. In many states, such misdemeanor offenses are defined as only requiring reckless intent; if these were not included in the statutory prohibition, the statute would not be effective in a majority of jurisdictions.</p>\n<p>Justice Clarence Thomas wrote a dissent in which he argued that term \u201cuse of force\u201d required intentional conduct to trigger the statutory firearm prohibition. The Court has traditionally interpreted \u201cuse\u201d in ways that make it clear that the conduct must be intentional, which is consistent with its use elsewhere in the statute. In holding otherwise, Justice Thomas argued that the majority opinion conflated recklessly causing force with recklessly causing harm through the intentional use of force. Because the Maine domestic violence statute emcompasses reckless conduct while the federal statute does not, a conviction under the Maine statute should not trigger the firearm prohibition. The majority opinion also extended the sweep of the statute into unconstitutional territory by denying those convicted of a reckless misdemeanor of domestic violence their Second Amendment rights. Justice Sonia Sotomayor joined in the dissent, though not in the part that addressed the Second Amendment.</p>\n"
+}

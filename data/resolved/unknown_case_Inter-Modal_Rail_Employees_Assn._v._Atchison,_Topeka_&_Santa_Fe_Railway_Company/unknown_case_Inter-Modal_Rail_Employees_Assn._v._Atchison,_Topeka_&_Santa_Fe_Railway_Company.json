@@ -1,0 +1,35 @@
+{
+    "ID": 54531,
+    "name": "Inter-Modal Rail Employees Assn. v. Atchison, Topeka & Santa Fe Railway Company",
+    "href": "https://api.oyez.org/cases/1996/96-491",
+    "view_count": 0,
+    "docket_number": "96-491",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                858578400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37855"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                863413200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37856"
+        }
+    ],
+    "question": "<p>Does Section 510 of ERISA bar interference only with vested rights?</p>\n",
+    "citation": {
+        "volume": "520",
+        "page": "510",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18460"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/520/510/",
+    "facts_of_the_case": "<p>Employees of Santa Fe Terminal Services, Inc. (SFTS), a wholly owned subsidiary of The Atchison, Topeka and Santa Fe Railway Co. (ATSF), were entitled to pension, health and welfare benefits under the terms of their collective bargaining agreements. These benefit plans were subject to the Employee Retirement Income Security Act of 1974 (ERISA). In 1990, ATSF awarded the work performed by SFTS to In Terminal Services (ITS), and terminated those SFTS employees unwilling to continue work with ITS. The benefit plan offered by ITS was less favorable than the SFTS plan, and SFTS employees brought suit under, alleging that they had been discharged \"for the purpose of interfering with the attainment\" of rights to which they would have \"become entitled under [their SFTS] plan.\" ERISA Section 510. After the District Court dismissed the Section 510 claims, the Court of Appeals for the Ninth Circuit reinstated the employees' pension claims because Section 510 prevented interference with vested rights, but dismissed the employees' welfare benefit claims because such benefits did not vest.</p>\n",
+    "conclusion": "<p>No. The plain language of Section 510 indicates that the applicability of its interference clause is not limited to vested rights. Congress used the word \"plan\" to refer to both pension and welfare benefits, and at the same time indicated that welfare plans are exempt from ERISA's stringent vesting requirements. This statutory language forecloses the possibility that Congress meant to limit the protections of Section 510 to vested rights. The Court remanded the case to the Ninth Circuit for determination of whether the fact that the SFTS employees were eligible for welfare benefits meant that they had already \"attained\" such rights, so that any subsequent actions taken by SFTS could not \"interfere\" with the \"attainment of . . . right[s] . . . under the plan.\"</p>\n"
+}

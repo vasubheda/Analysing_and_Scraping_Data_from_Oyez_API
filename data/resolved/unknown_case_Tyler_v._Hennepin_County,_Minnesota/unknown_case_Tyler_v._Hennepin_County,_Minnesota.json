@@ -1,0 +1,42 @@
+{
+    "ID": 63549,
+    "name": "Tyler v. Hennepin County, Minnesota",
+    "href": "https://api.oyez.org/cases/2022/22-166",
+    "view_count": 0,
+    "docket_number": "22-166",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1673589600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55206"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1682485200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55255"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1684990800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55283"
+        }
+    ],
+    "question": "<p>1. Does taking and selling a home to satisfy a debt to the government, and keeping the surplus value as a windfall, violate the Fifth Amendment\u2019s Takings Clause?</p>\n<p>2. Is the forfeiture of property worth far more than needed to satisfy a debt a fine within the meaning of the Eighth Amendment?</p>\n",
+    "citation": {
+        "volume": "598",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27934"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held that taking and selling a home to satisfy a debt to the government, and keeping the surplus value as a windfall, violates the Fifth Amendment\u2019s Takings Clause.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/598/22-166/",
+    "facts_of_the_case": "<p>Geraldine Tyler owned a condominium in Minneapolis. She stopped paying her property taxes and accrued a tax debt of $15,000. To satisfy the debt, Hennepin County foreclosed on Tyler\u2019s property and sold it for $40,000, retaining the net proceeds from the sale.</p>\n<p>Tyler sued the County, arguing that its actions violated her constitutional rights. The district court dismissed Tyler\u2019s case for failure to state a claim, and the U.S. Court of Appeals for the Eighth Circuit affirmed.</p>\n",
+    "conclusion": "<p>Taking and selling a home to satisfy a debt to the government, and keeping the surplus value as a windfall, violates the Fifth Amendment\u2019s Takings Clause. Chief Justice John Roberts authored the unanimous opinion of the Court holding that Tyler plausibly alleged that Hennepin County\u2019s actions violated the Takings Clause and thus that her claim can go forward.</p>\n<p>The Takings Clause of the Fifth Amendment, applicable to the States through the Fourteenth Amendment, prohibits the government from taking private property without \u201cjust compensation.\u201d This does not prevent the government from collecting taxes, or from taking action to enforce the collection of taxes. However, the government may not, as Minnesota purported to do by statute in 1935, extinguish a property owner\u2019s interest in property when she falls behind on her property taxes. English law, from which the U.S. Constitution derives much meaning, has long proscribed the taking of more from a taxpayer than she owes. Moreover, Supreme Court precedents and Minnesota law itself, in other contexts, recognize the principle that a taxpayer is entitled to the surplus in excess of the debt owed.</p>\n<p>Justice Neil Gorsuch authored a concurring opinion, in which Justice Ketanji Brown Jackson joined, addressing the second question presented, which the majority declined to address. In Justice Gorsuch\u2019s view, Hennepin County\u2019s actions likely also violate the Eighth Amendment\u2019s Excessive Fines Clause.</p>\n"
+}

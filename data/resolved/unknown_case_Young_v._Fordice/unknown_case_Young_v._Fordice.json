@@ -1,0 +1,35 @@
+{
+    "ID": 54470,
+    "name": "Young v. Fordice",
+    "href": "https://api.oyez.org/cases/1996/95-2031",
+    "view_count": 0,
+    "docket_number": "95-2031",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                852530400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37742"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                859788000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37743"
+        }
+    ],
+    "question": "<p>Did the state of Mississippi violate the Voting Rights Act of 1965 by implementing a new voter registration policy, the \"New System,\" without explicit approval from the U.S. Attorney General?</p>\n",
+    "citation": {
+        "volume": "520",
+        "page": "273",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18399"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/520/273/",
+    "facts_of_the_case": "<p>In 1995, Mississippi attempted to simplify voter registration in accordance with the National Voter Registration Act of 1993 (NVRA). A \"Provisional Plan\" for registration replaced the \"Old System,\" mandating that, among other things, driver's license applications could double as voter registration forms for state and federal elections. As required by the Voting Rights Act of 1965 (VRA), the U.S. Attorney General pre-cleared the Provisional Plan, confirming that it did not discriminate against minority voters. Mississippi abandoned the pre-cleared Provisional Plan in favor of a composite \"New System,\" which used the Old System for state elections and both the Provisional Plan and Old System for federal elections. Mississippi assumed that the Attorney General's pre-clearance of the Provisional Plan extended to the New System. Thomas Young, a Mississippi citizen, filed suit against Governor Kirk Fordice, alleging a violation of the VRA. A three-judge District Court ruled in favor of Mississippi.</p>\n",
+    "conclusion": "<p>Yes. The unanimous Court reversed the District Court and ruled that Mississippi must submit the New System to the Attorney General for pre-clearance. The opinion by Justice Stephen Breyer held that \"the New System contains numerous examples of new, significantly different administrative practices [....]\" Therefore, the Attorney General must ensure that the proposed policy does not discriminate against minorities.</p>\n"
+}

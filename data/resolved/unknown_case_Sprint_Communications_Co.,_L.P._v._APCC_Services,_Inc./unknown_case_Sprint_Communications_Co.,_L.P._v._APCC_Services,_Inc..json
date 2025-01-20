@@ -1,0 +1,42 @@
+{
+    "ID": 55527,
+    "name": "Sprint Communications Co., L.P. v. APCC Services, Inc.",
+    "href": "https://api.oyez.org/cases/2007/07-552",
+    "view_count": 0,
+    "docket_number": "07-552",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1199426400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40068"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1208754000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40069"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1214197200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40070"
+        }
+    ],
+    "question": "<p>Do third-party companies hired by pay-phone operators to collect compensation for coinless long-distance calls have standing to sue telecommunication companies over the amount of the fees?</p>\n",
+    "citation": {
+        "volume": "554",
+        "page": "269",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20772"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/554/269/",
+    "facts_of_the_case": "<p>In 1996, the Federal Communications Commission moved to require long-distance carriers to compensate pay-phone companies for so-called coinless phone calls. Last year, the Supreme Court ruled in <em>Global Crossing Telecommunications, Inc. v. Metrophones Telecommunications, Inc.</em>, that pay-phone operators could sue for greater compensation. This case arose when APCC Services brought such a suit against Sprint seeking compensation for coinless long-distance calls. Sprint argued that APCC had no stake in the outcome of the case because, under the terms of the assignment, any compensation from a favorable judgment or settlement would go directly to the pay-phone companies, not \"intermediary\" companies such as APCC.</p>\n<p>The district court initially dismissed APCC's suit, but the court eventually reversed itself, concluding that it was sufficient that the assignment transferred legal title to the claim rather than merely transferring power of attorney. The U.S. Court of Appeals for the Eight Circuit affirmed, concluding that, as a matter of law, the assignment of a legal right to bring a claim gives the assignee a personal stake in the litigation sufficient to confer standing.</p>\n",
+    "conclusion": "<p>Yes. In a close 5-4 ruling, the Court held that third-party companies like APCC have standing to pursue legal claims that have been assigned to them, even when they must then pass along any proceeds from the litigation to the pay-phone operators who hired them. The Court based its ruling on the \"history and precedent\" of assignees brining legal claims on behalf of others, and found that Sprint had not made any convincing arguments for departing from that history in this case. Justice Stephen Breyer delivered the opinion of the Court. Chief Justice John G. Roberts, joined by Justices Antonin Scalia, Clarence Thomas, and Samuel Alito, filed a dissenting opinion. Roberts referred to the historical precedent relied on by the majority as \"at best, equivocal.\" Because APCC was required to pass the proceeds from the lawsuit onto the pay-phone operators, it had \"nothing to gain\" from the suit. Roberts therefore argued that the case should be dismissed.</p>\n"
+}

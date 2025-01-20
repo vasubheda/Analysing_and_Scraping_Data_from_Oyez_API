@@ -1,0 +1,28 @@
+{
+    "ID": 54566,
+    "name": "Mazurek v. Armstrong",
+    "href": "https://api.oyez.org/cases/1996/96-1104",
+    "view_count": 0,
+    "docket_number": "96-1104",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                866437200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37917"
+        }
+    ],
+    "question": "<p>Did a Court of Appeals err in holding that the parties seeking to enjoin the enforcement of a Montana statute, which restricted the performance of abortions to licensed physicians, had shown a fair chance of success on the merits of their claim of undue burden concerning abortion rights?</p>\n",
+    "citation": {
+        "volume": "520",
+        "page": "968",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18495"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/520/968/",
+    "facts_of_the_case": "<p>In 1995, the Montana Legislature enacted a statute restricting the performance of abortions to licensed physicians. A group of licensed physicians and one physician-assistant brought suit, challenging that statute under the Constitution. The District Court denied the practitioners' motion for a preliminary injunction, finding that they had not established any likelihood of prevailing on their claim that the law imposed an undue burden concerning abortion rights. The Court of Appeals vacated the judgment, holding that the practitioners had shown a fair chance of success on the merits of their claim and thus had met the threshold requirement for preliminary injunctive. On remand, the District Court entered an injunction pending appeal and postponed a hearing on the preliminary injunction motion until the U.S. Supreme Court's disposition of the state attorney general's certiorari petition.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion, the Court held that the Court of Appeals' finding that the practitioners had shown a fair chance of success on the merits was erroneous. The Court noted that its precedents repeatedly stated that the performance of abortions could be restricted to physicians, where there was no evidence of an unlawful motive on the part of the state legislature. Justice John Paul Stevens, joined by Justice Stephen G. Breyer, dissented.</p>\n"
+}

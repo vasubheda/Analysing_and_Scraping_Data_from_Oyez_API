@@ -1,0 +1,28 @@
+{
+    "ID": 55236,
+    "name": "City of San Diego v. Roe",
+    "href": "https://api.oyez.org/cases/2004/03-1669",
+    "view_count": 0,
+    "docket_number": "03-1669",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1102312800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39274"
+        }
+    ],
+    "question": "<p>San Diego fired John Roe from the city police force after he made and sold online a video showing him engaging in sexually explicit acts. Did this violate John Roe's First Amendment right to free speech?</p>\n",
+    "citation": {
+        "volume": "543",
+        "page": "77",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19164"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/543/77/",
+    "facts_of_the_case": "<p>John Roe, a San Diego police officer, was fired for selling a video on eBay that showed him stripping off a police uniform and masturbating. He then sued the city in federal district court and alleged his firing violated his First Amendment right to freedom of speech. The district court ruled against the officer; the Ninth Circuit reversed.</p>\n",
+    "conclusion": "<p>No. In a unanimous per curiam opinion, the Court held that firing Roe for his behavior and \"speech\" did not violate the First Amendment. Government employers, the Court wrote, could restrict their employees' speech in ways that would be unconstitutional if applied to the general public. But government employees had the right to speak on matters of public concern, such as on government policies of interest to the public. In this case, however, Roe's activities did not inform the public about the police department and were also detrimental to the force.</p>\n"
+}

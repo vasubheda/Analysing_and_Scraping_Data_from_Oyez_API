@@ -1,0 +1,42 @@
+{
+    "ID": 55216,
+    "name": "Exxon Mobil Corporation v. Saudi Basic Industries Corporation",
+    "href": "https://api.oyez.org/cases/2004/03-1696",
+    "view_count": 0,
+    "docket_number": "03-1696",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1097557200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39224"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1109138400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39225"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1112162400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39226"
+        }
+    ],
+    "question": "<p>Did the Rooker-Feldman doctrine bar a suit that was filed in federal district court before a state court ruled on the petitioner's related claims?</p>\n",
+    "citation": {
+        "volume": "544",
+        "page": "280",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19144"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/544/280/",
+    "facts_of_the_case": "<p>Two subsidiaries of ExxonMobil formed joint ventures with Saudi Basic Industries Corp. (SABIC) to produce polyethylene in Saudi Arabia. When a dispute arose over the royalties SABIC had charged, SABIC sued the two subsidiaries in a Delaware state court, seeking a ruling that the royalties were proper. ExxonMobil countersued in federal district court, alleging SABIC had overcharged. Before the state-court trial, the district court denied SABIC's motion to dismiss the federal suit. As SABIC appealed, the Delaware court ruled for ExxonMobil. The Third Circuit held that as a result of of the state court judgment, the Rooker-Feldman doctrine barred the suit. That doctrine was an offshoot of the federal law giving the U.S. Supreme Court sole authority to modify and prohibiting a federal district court from exercising appellate jurisdiction.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Ruth Bader Ginsburg, the Court held that the the Third Circuit \"misperceived the narrow ground occupied by Rooker-Feldman.\" That doctrine was confined to cases brought by state-court losers complaining of state-court judgments made before the federal district court proceedings began and inviting district court rejection of those judgments. In this case, ExxonMobil's federal suit was filed before any state-court judgment and had not sought the review of any such judgment. Rather, the company had sought to protect itself in the event it lost in state court on grounds that might not have precluded relief in federal court. Moreover, in cases of parallel state and federal litigation, Rooker-Feldman was not triggered simply by the entry of a state court judgment. Properly invoked concurrent jurisdiction did not vanish if a state court reached judgment on the same or a related question while the case remained before a federal district court. Rooker-Feldman did not otherwise override or supplant preclusion doctrine or add to the circumscribed doctrines allowing federal courts to dismiss proceedings in deference to state-court actions.</p>\n"
+}

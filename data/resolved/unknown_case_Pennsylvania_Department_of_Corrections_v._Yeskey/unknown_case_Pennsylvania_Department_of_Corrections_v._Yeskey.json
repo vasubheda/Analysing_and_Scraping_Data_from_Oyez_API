@@ -1,0 +1,35 @@
+{
+    "ID": 54579,
+    "name": "Pennsylvania Department of Corrections v. Yeskey",
+    "href": "https://api.oyez.org/cases/1997/97-634",
+    "view_count": 0,
+    "docket_number": "97-634",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                893739600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37942"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                897886800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37943"
+        }
+    ],
+    "question": "<p>Did the Pennsylvania Department of Corrections' refusal to allow a prison inmate to participate in a motivational boot camp, because of the inmate's history of hypertension, violate Title II of the Americans with Disabilities Act of 1990 (ADA) prohibiting disability-based discrimination against qualified individuals?</p>\n",
+    "citation": {
+        "volume": "524",
+        "page": "206",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18508"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/524/206/",
+    "facts_of_the_case": "<p>After being sentenced to 18 to 36 months in prison, Ronald Yeskey was recommended as a candidate for a Motivational Boot Camp for first-time offenders. Successful completion of the Boot Camp could have resulted in Yeskey's early parole after just six months. When the Pennsylvania Department of Corrections discovered Yeskey's medical history of hypertension, he was denied admission to the Boot Camp. Yeskey challenged the refusal as discriminatory. On appeal from a reversal of a district court's dismissal of the claim, the Supreme Court granted certiorari.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion, the Court held that under the ADA no \"public entity\" may discriminate against qualified disabled individuals due to their disability. Moreover, the Court stated that the ADA's protections extended to cover prison inmates as well as any other liberated citizen.</p>\n"
+}

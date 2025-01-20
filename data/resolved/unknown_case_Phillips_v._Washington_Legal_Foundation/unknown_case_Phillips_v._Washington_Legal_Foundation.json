@@ -1,0 +1,35 @@
+{
+    "ID": 54611,
+    "name": "Phillips v. Washington Legal Foundation",
+    "href": "https://api.oyez.org/cases/1997/96-1578",
+    "view_count": 0,
+    "docket_number": "96-1578",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                884671200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38005"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                897886800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38006"
+        }
+    ],
+    "question": "<p>Does Texas' public use of interest accrued on principal client funds, deposited by mandate into federally funded accounts, violate the Fifth Amendment's Takings Clause?</p>\n",
+    "citation": {
+        "volume": "524",
+        "page": "156",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18540"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/524/156/",
+    "facts_of_the_case": "<p>Under Texas' Interest on Lawyers Trust Account (IOLTA) program, lawyers must deposit their client's funds into a special interest-bearing \"NOW\" account upon determination that the funds could not earn the client interest or compensate for other financial and accounting fees. Interest federally funded interest accrued on IOLTA accounts is then paid to the Texas Equal Access to Justice Foundation (TEAJF) which supports legal services for low-income persons. Acting on behalf of others opposed to IOLTA, the Washington Legal Foundation (the \"Foundation\") challenged TEAJF's receipt and use of the IOLTA funds. On appeal from an appellate court's reversal of a favorable district court decision, the Supreme Court granted the Foundation certiorari.</p>\n",
+    "conclusion": "<p>Yes. In a 5-to-4 decision, the Court held that TEAJF's used of IOLTA interest funds violated the Takings Clause which prohibits the taking of \"private property for public use, without just compensation.\" The Court noted that since the principal client fees deposited into the IOLTA account are private property, any accrued interest on such fees attaches as a property right incident to ownership of the underlying principal. Thus, since they may not redistribute the principal deposits, TEAJF is also prohibited from assigning any interest accumulated thereon.</p>\n"
+}

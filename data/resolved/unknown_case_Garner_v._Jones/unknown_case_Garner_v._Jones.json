@@ -1,0 +1,35 @@
+{
+    "ID": 54795,
+    "name": "Garner v. Jones",
+    "href": "https://api.oyez.org/cases/1999/99-137",
+    "view_count": 0,
+    "docket_number": "99-137",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                947570400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38340"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                954223200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38341"
+        }
+    ],
+    "question": "<p>Does the retroactive application of a Georgia provision permitting the extension of intervals between parole considerations violate the Ex Post Facto Clause?</p>\n",
+    "citation": {
+        "volume": "529",
+        "page": "244",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18724"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/529/244/",
+    "facts_of_the_case": "<p>While serving a life sentence for murder in Georgia, Robert Jones escaped and committed a second murder in 1982. Jones was sentenced to a second life term. At the time of Jones' second offense, Georgia law required the State's Board of Pardons and Paroles (Board) to consider inmates serving life sentences for parole after seven years and if it was not granted at that time, that it be reconsidered every three years thereafter. Jones was initially considered for parole in 1989, seven years after his 1982 conviction, and parole was denied. After Jones was incarcerated but before his first parole hearing, the Board amended its rule to require that parole reconsideration take place only once every eight years. Subsequently, the Board scheduled Jones for reconsideration eight years later, in 1997. However, a Federal Court of Appeals ruling, that such board actions could not be applied retroactively, allowed Jones to be reconsidered for parole in 1992 and again in 1995. Then a U.S. Supreme Court decision was read to allow for retroactive adjustments in parole and Jones was scheduled for reconsideration in 2003 (eight years later), rather then in 1998. Jones sued the Board members, claiming that retroactive application of the amended rule violated the Ex Post Facto Clause. The District Court ruled in favor of the Board. In reversing, the Court of Appeals found that the amended Rule's retroactive application was necessarily an ex post facto violation.</p>\n",
+    "conclusion": "<p>No. In a 6-3 opinion delivered by Justice Anthony M. Kennedy, the Court held that the retroactive application of the Georgia provision permitting extension of intervals between parole considerations does not to necessarily violate the Ex Post Facto Clause. The Court concluded that the key element in deciding whether an increase in the interval between a state's parole hearings for prison inmates violates the Ex Post Facto Clause is whether the change creates a sufficient risk of increasing the punishment attached to the covered crimes. \"States must have due flexibility in formulating parole procedure and addressing problems associated with confinement and release,\" wrote Justice Kennedy.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 54581,
+    "name": "Pennsylvania Bd. of Probation and Parole v. Scott",
+    "href": "https://api.oyez.org/cases/1997/97-581",
+    "view_count": 0,
+    "docket_number": "97-581",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                891237600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37946"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                898491600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37947"
+        }
+    ],
+    "question": "<p>Does the federal exclusionary rule, prohibiting the introduction of evidence seized in violation of the Fourth Amendment's protections against unreasonable search and seizure, apply to parole revocation hearings?</p>\n",
+    "citation": {
+        "volume": "524",
+        "page": "357",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18510"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/524/357/",
+    "facts_of_the_case": "<p>In granting Keith M. Scott parole, the Pennsylvania Board of Probation and Parole (the \"Board\"), stipulated that he refrain from owning or possessing weapons. When officers learned that Scott may be in possession of weapons, they searched his home and found a bow and arrow and some firearms. Despite objecting at his parole violation hearing that the search was unconstitutional, the seized weapons were admitted as evidence and Scott was ultimately recommitted. On appeal, the Commonwealth Court of Pennsylvania affirmed Scott's challenge to the search and the Pennsylvania Supreme Court sustained the decision. The Supreme Court granted the Board certiorari.</p>\n",
+    "conclusion": "<p>No. In a 5-to-4 decision, the Court held that the federal exclusionary rule does not apply to parole revocation hearings. Noting that the exclusionary rule is not constitutionally mandated, the Court explained that it applies only in situations where its deterrent benefits outweigh the utilities that accompany the consideration of reliable, probative evidence. Since officers are unaware of whether their search subjects are parolees or not, the danger of their deliberately conducting illegal searches is small. By comparison, the deleterious impact that an application of the exclusionary rule would have on traditionally flexible state parole revocation proceedings is great. State parole authorities must have greater legal latitude since they deal with individuals who, in light of past criminal activities, are more likely than average citizens to offend again.</p>\n"
+}

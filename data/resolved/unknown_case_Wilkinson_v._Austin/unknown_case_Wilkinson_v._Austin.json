@@ -1,0 +1,42 @@
+{
+    "ID": 55233,
+    "name": "Wilkinson v. Austin",
+    "href": "https://api.oyez.org/cases/2004/04-495",
+    "view_count": 0,
+    "docket_number": "04-495",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1102658400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39265"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1112162400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39266"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1118638800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39267"
+        }
+    ],
+    "question": "<p>Did the placement policies for Ohio's highest security prison violate the 14th Amendment's due process clause?</p>\n",
+    "citation": {
+        "volume": "543",
+        "page": "1032",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/20552"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>When Ohio's highest security prison first opened, no official policy governed placement there, resulting in haphazard and erroneous placements. Ohio ultimately issued the \"New Policy,\" which required formal procedures for evaluating whether prisoners classified for placement into the facility. The New Policy also required a three-tier review process after a recommendation for Supermax placement was made. For instance, the state had to explain a placement recommendation to an inmate and that inmate had to have an opportunity for rebuttal at a hearing. Prisoners in the facility sued in federal district court, alleging the prison placement policy violated the 14th Amendment's due process clause. The court agreed that the New Policy violated due process and ordered elaborate and far-reaching modifications to the policy. The Sixth Circuit affirmed but set aside the substantive modifications on the ground they exceeded the court's authority.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Anthony Kennedy, the Court held that the procedures by which the New Policy classified prisoners for placement at the facility provided sufficient protection to comply with the due process clause. The Court reasoned that procedural protections afforded to prisoners were necessarily limited, and that the New Policy sufficiently minimized risk of erroneous placement. The Court also cited Ohio's interests in prison security against gangs and in preserving scarce resources.</p>\n"
+}

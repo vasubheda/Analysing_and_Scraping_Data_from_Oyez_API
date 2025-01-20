@@ -1,0 +1,35 @@
+{
+    "ID": 54239,
+    "name": "Fogerty v. Fantasy, Inc.",
+    "href": "https://api.oyez.org/cases/1993/92-1750",
+    "view_count": 0,
+    "docket_number": "92-1750",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                755330400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37313"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                762501600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37314"
+        }
+    ],
+    "question": "<p>Do federal courts have discretion over whether or not to force a losing party to pay all or part of the victorious party's attorney's fees?</p>\n",
+    "citation": {
+        "volume": "510",
+        "page": "517",
+        "year": "1994",
+        "href": "https://api.oyez.org/case_citation/case_citation/18168"
+    },
+    "term": "1993",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/510/517/",
+    "facts_of_the_case": "<p>After successfully defending against a copyright infringement suit filed against him by Fantasy Inc. (Fantasy), John Fogerty sought to recover the cost of his attorney's fees from Fantasy. Fogerty based his claim on 17 U.S.C. section 505 which states in part that: \"the court may award a reasonable attorney's fee to the prevailing party as part of the costs.\" On appeal from an unfavorable district court ruling, the Court of Appeals affirmed as it found that Fogerty did not demonstrate that Fantasy's original suit was frivolous or brought in bad faith. Fogerty appealed again, and the Supreme Court granted certiorari.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion, the Court held that while attorney's fees are awarded from time to time to prevailing defendants or plaintiffs, this practice is entirely subject to the deciding court's discretion. Indeed, the Court observed, that the statute in question emphasizes such discretion by stating in relevant part that a court \"may\" award attorney's fees. The Court concluded that such discretion is to be applied evenhandedly between victorious defendants and plaintiffs.</p>\n"
+}

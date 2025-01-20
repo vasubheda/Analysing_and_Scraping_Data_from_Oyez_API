@@ -1,0 +1,35 @@
+{
+    "ID": 54610,
+    "name": "Kalina v. Fletcher",
+    "href": "https://api.oyez.org/cases/1997/96-792",
+    "view_count": 0,
+    "docket_number": "96-792",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                876200400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38003"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                881733600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38004"
+        }
+    ],
+    "question": "<p>Does the doctrine of absolute prosecutorial immunity protect a prosecutor for making false statements of fact in an affidavit supporting an application for an arrest warrant against a damages remedy under 42 USC section 1983?</p>\n",
+    "citation": {
+        "volume": "522",
+        "page": "118",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18539"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/522/118/",
+    "facts_of_the_case": "<p>Lynne Kalina, a Deputy Prosecuting Attorney for King County, Washington, commenced criminal proceedings against Rodney Fletcher, in connection with a school robbery, by filing the appropriate documents. Included in those documents was a \"Certification for Determination of Probable Cause.\" Based on the certification, the trial court found probable cause, and Fletcher was arrested. Kalina's certification contained two inaccurate factual statements: that Fletcher had \"never been associated with the school in any manner and did not have permission to enter the school or to take any property,\" and that Fletcher had been identified asking for an appraisal of a computer stolen from the school. Subsequently, Fletcher sued Kalina for damages, alleging that she had violated his constitutional right to be free from unreasonable seizures. The Federal District Court denied her motion for summary judgment, holding that she was not entitled to absolute prosecutorial immunity and that whether qualified immunity would apply was a question of fact. The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice John Paul Stevens, the Court held that section 1983 may create a damages remedy against a prosecutor for making false statements of fact in an affidavit supporting an application for an arrest warrant, since such conduct is not protected by the doctrine of absolute prosecutorial immunity. Noting that the Fourth Amendment requires that arrest warrants be based \"upon probable cause, supported by Oath or affirmation,\" Justice Stevens wrote that,\" [e]ven when the person who makes the constitutionally required 'Oath or affirmation' is a lawyer, the only function that she performs in giving sworn testimony is that of a witness.\" Thus, section 1983 may, under some circumstances, provide a damages remedy against such a prosecutor.</p>\n"
+}

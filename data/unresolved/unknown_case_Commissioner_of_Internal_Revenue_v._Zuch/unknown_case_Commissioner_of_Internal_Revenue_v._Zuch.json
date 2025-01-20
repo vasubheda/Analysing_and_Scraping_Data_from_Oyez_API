@@ -1,0 +1,26 @@
+{
+    "ID": 63747,
+    "name": "Commissioner of Internal Revenue v. Zuch",
+    "href": "https://api.oyez.org/cases/2024/24-416",
+    "view_count": 0,
+    "docket_number": "24-416",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1736488800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55595"
+        }
+    ],
+    "question": null,
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28065"
+    },
+    "term": "2024",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/24-416/"
+}

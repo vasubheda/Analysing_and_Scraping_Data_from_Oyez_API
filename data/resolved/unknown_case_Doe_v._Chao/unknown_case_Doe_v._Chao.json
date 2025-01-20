@@ -1,0 +1,42 @@
+{
+    "ID": 55200,
+    "name": "Doe v. Chao",
+    "href": "https://api.oyez.org/cases/2003/02-1377",
+    "view_count": 0,
+    "docket_number": "02-1377",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1056690000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39176"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1070431200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39177"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1077602400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39178"
+        }
+    ],
+    "question": "<p>Does the federal Privacy Act require that people prove they suffered \"actual damage\" stemming from the government's violation of their privacy rights in order to win damages in a suit against the government?</p>\n",
+    "citation": {
+        "volume": "540",
+        "page": "614",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19128"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/540/614/",
+    "facts_of_the_case": "<p>Seven coal miners sued the Department of Labor, claiming that the department had violated the federal Privacy Act and the right to privacy found in the federal Constitution by releasing their social security numbers (SSNs). The Privacy Act stated that any \"person entitled to recovery\" in a suit against the government for a violation of privacy would be awarded \"actual damages sustained by the individual... but in no case... [would the damages awarded be] less than the sum of $1000\" and attorney fees.</p>\n<p>The miners argued that all they needed to prove in order to receive the $1000 minimum award was that the government had violated their privacy by releasing their SSNs; they did not need to prove that they had suffered actual damages. They maintained that the inclusion of \"actual damages\" in the act was only intended to limit the size of judgments awarded against the government, not to require proof of actual damage. The government argued that the act required the miners to prove that they had been harmed by the government's violation of their privacy.</p>\n<p>The district court ruled in favor of the government. A divided Fourth Circuit Court of Appeals panel affirmed.</p>\n",
+    "conclusion": "<p>Yes. Justice David Hackett Souter delivered the Court's 6-3 opinion that the Privacy Act requires plaintiffs prove actual damages to qualify for the minimum statutory award of $1000. The Court reasoned that \"a straightforward textual analysis\" of the Privacy Act shows that the statute guarantees the $1000 minimum for victims of willful Privacy Act violations only in relation to \"actual damages sustained.\" Individuals subjected to an adverse effect - like the miners in this case - have \"injury enough to open the courthouse door, but without more\" have \"no cause of action for damages under the Privacy Act.\"</p>\n"
+}

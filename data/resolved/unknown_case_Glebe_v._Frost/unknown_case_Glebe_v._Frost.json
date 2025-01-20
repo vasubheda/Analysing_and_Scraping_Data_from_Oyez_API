@@ -1,0 +1,35 @@
+{
+    "ID": 56155,
+    "name": "Glebe v. Frost",
+    "href": "https://api.oyez.org/cases/2014/14-95",
+    "view_count": 0,
+    "docket_number": "14-95",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1416204000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41769"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1416204000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41770"
+        }
+    ],
+    "question": "<p>Was the Washington Supreme Court's decision to classify the restriction of closing arguments as trial error rather than structural error correct?</p>\n",
+    "citation": {
+        "volume": "574",
+        "page": "21",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20932"
+    },
+    "term": "2014",
+    "description": "A case in which the Court affirmed the Washington Supreme Court\u2019s decision to classify the restriction of closing arguments as trial error rather than structural error.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/574/21/",
+    "facts_of_the_case": "<p>Over the course of eleven days in April 2003, Joshua James Frost and two associates committed a series of armed robberies in the state of Washington. Frost was charged with robbery and related offenses. During closing arguments, Frost's lawyer expressed his desire to argue both that the prosecution did not meet their burden and that Frost acted under duress. The trial judge made the defense choose between the two alternative defenses, and the defense chose duress. The jury convicted Frost of multiple counts.</p>\n<p>The Washington Supreme Court held that the trial court's restriction of the closing argument violated Frost's rights to due process and assistance of counsel. However, that decision constituted trial error, which makes the mistake reviewable, rather than structural error, which would require automatic reversal. Upon such review, the Washington Supreme Court held that there was sufficient evidence to convict Frost and upheld the conviction.</p>\n<p>Frost filed a petition for a writ of habeas of corpus that the district court denied, and a panel of the U.S. Court of Appeals for the Ninth Circuit affirmed the dismissal. Upon rehearing en banc, the appellate court reversed and directed the district court to grant the petition because the Washington Supreme Court unreasonably applied clearly established law by failing to classify the trial court's restriction of the defense's closing argument as structural error.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion, the Court held that there was no clearly established federal law that required placing the restriction of a closing argument in the narrow category of structural error. While preventing a closing argument altogether would constitute structural error, preventing the defense from arguing in the alternative and forcing them to choose between legal theories did not rise to this level of error.</p>\n"
+}

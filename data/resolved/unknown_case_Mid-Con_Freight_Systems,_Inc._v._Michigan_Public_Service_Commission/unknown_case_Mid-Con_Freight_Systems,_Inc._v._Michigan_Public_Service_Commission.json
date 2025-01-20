@@ -1,0 +1,42 @@
+{
+    "ID": 55276,
+    "name": "Mid-Con Freight Systems, Inc. v. Michigan Public Service Commission",
+    "href": "https://api.oyez.org/cases/2004/03-1234",
+    "view_count": 0,
+    "docket_number": "03-1234",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1105682400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39390"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1114491600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39391"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1119243600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39392"
+        }
+    ],
+    "question": "<p>Did federal law establishing for trucks the Single State Registration System (SSRS) preempt a separate Michigan registration fee?</p>\n",
+    "citation": {
+        "volume": "545",
+        "page": "440",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/20541"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/545/440/",
+    "facts_of_the_case": "<p>A Michigan law imposed an annual $100 fee on each Michigan license-plated truck that operated entirely in interstate commerce. A group of interstate trucking companies sought unsuccesfully to have Michigan courts invalidate the law. The companies claimed that the federal law that had created the Single State Registration System (SSRS) preempted and prohibited such state fees. Under the federal law a trucking company could obtain a permit applicable in every state by registering once in a single state. While the initial state could demand a fee equal to the sum of its individual state fee, the law prohibited a state from imposing an additional \"state registration requirement.\"</p>\n",
+    "conclusion": "<p>No. In a 6-3 opinion delivered by Justice Stephen Breyer, the Court held that \"reference to text, historical context, and purpose\" proved that the words \"state registration requirement\" in the federal law applied only to state requirements concerning SSRS registration. The Michigan statute, the majority reasoned, had nothing to do with SSRS.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 54907,
+    "name": "Bush v. Gore",
+    "href": "https://api.oyez.org/cases/2000/00-949",
+    "view_count": 0,
+    "docket_number": "00-949",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                976514400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38554"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                976600800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38555"
+        }
+    ],
+    "question": "<p>Did the Florida Supreme Court violate Article II Section 1 Clause 2 of the U.S. Constitution by making new election law? Do standardless manual recounts violate the Equal Protection and Due Process Clauses of the Constitution?</p>\n",
+    "citation": {
+        "volume": "531",
+        "page": "98",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18836"
+    },
+    "term": "2000",
+    "description": "A case in which the Court found that the Florida government violated the Equal Protection Clause in ordering a partial recount of the 2000 presidential election ballots.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/531/98/",
+    "facts_of_the_case": "<p>Following the U.S. Supreme Court's decision in <em>Bush v. Palm Beach County Canvassing Board</em>, and concurrent with Vice President Al Gore's contest of the certification of Florida presidential election results, on December 8, 2000 the Florida Supreme Court ordered that the Circuit Court in Leon County tabulate by hand 9000 contested ballots from Miami-Dade County. It also ordered that every county in Florida must immediately begin manually recounting all \"under-votes\" (ballots which did not indicate a vote for president) because there were enough contested ballots to place the outcome of the election in doubt. Governor George Bush and his running mate, Richard Cheney, filed a request for review in the U.S. Supreme Court and sought an emergency petition for a stay of the Florida Supreme Court's decision. The U.S. Supreme Court granted review and issued the stay on December 9. It heard oral argument two days later.</p>\n",
+    "conclusion": "<p>Noting that the Equal Protection clause guarantees individuals that their ballots cannot be devalued by \"later arbitrary and disparate treatment,\" the per curiam opinion held 7-2 that the Florida Supreme Court's scheme for recounting ballots was unconstitutional. Even if the recount was fair in theory, it was unfair in practice. The record suggested that different standards were applied from ballot to ballot, precinct to precinct, and county to county. Because of those and other procedural difficulties, the court held, 5 to 4, that no constitutional recount could be fashioned in the time remaining (which was short because the Florida legislature wanted to take advantage of the \"safe harbor\" provided by 3 USC Section 5).</p>\n<p>Loathe to make broad precedents, the per curiam opinion limited its holding to the present case. Rehnquist (in a concurring opinion joined by Scalia and Thomas) argued that the recount scheme was also unconstitutional because the Florida Supreme Court's decision made new election law, which only the state legislature may do. Breyer and Souter (writing separately) agreed with the per curiam holding that the Florida Court's recount scheme violated the Equal Protection Clause, but they dissented with respect to the remedy, believing that a constitutional recount could be fashioned. Time is insubstantial when constitutional rights are at stake. Ginsburg and Stevens (writing separately) argued that for reasons of federalism, the Florida Supreme Court's decision ought to be respected. Moreover, the Florida decision was fundamentally right; the Constitution requires that every vote be counted.</p>\n"
+}

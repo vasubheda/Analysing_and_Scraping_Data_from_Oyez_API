@@ -1,0 +1,42 @@
+{
+    "ID": 55841,
+    "name": "Minneci v. Pollard",
+    "href": "https://api.oyez.org/cases/2011/10-1104",
+    "view_count": 0,
+    "docket_number": "10-1104",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1305522000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40899"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1320123600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40900"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1326175200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40901"
+        }
+    ],
+    "question": "<p>Can employees of private prison operators be sued for violating the constitutional rights of inmates?</p>\n",
+    "citation": {
+        "volume": "565",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19763"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that a prisoner cannot assert an Eighth Amendment claim for damages against private prison employees.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/565/118/",
+    "facts_of_the_case": "<p>Richard Lee Pollard, an inmate at a federal prison run by the private company GEO Group, slipped on a cart left in a doorway and injured both elbows. As GEO employees were preparing to transport him to an outside orthopedic clinic, he said they made him wear a jumpsuit and a \"black box\" wrist restraint, despite his claim that both would cause him excruciating pain. Pollard sued GEO and its employees for allegedly violating his Eighth Amendment protection against cruel and unusual punishment.</p>\n<p>The U.S. District Court for the Eastern District of California dismissed Pollard's suit. On appeal, the U.S. Court of Appeals for the Ninth Circuit reversed, concluding that the Supreme Court recognized an implied cause of action for injury caused by \"a federal agent acting under his authority.\"</p>\n",
+    "conclusion": "<p>No. Justice Stephen Breyer wrote the opinion of the Supreme Court. Breyer rejected Pollard's arguments and held that a prisoner can not assert an Eighth Amendment claim for damages against private prison employees.</p>\n<p>Justice Antonin Scalia filed a concurring opinion which Justice Clarence Thomas joined. In his concurring opinion the justice emphasized that he believed that the case law in Bivens, creating a cause of action under the Eighth Amendment, should be limited.</p>\n<p>Justice Ruth Bader Ginsburg filed a dissenting opinion. She stated that she would not deny Pollard relief merely for the fact that he was placed in a privately operated prison rather than a federal or state operated facility.</p>\n"
+}

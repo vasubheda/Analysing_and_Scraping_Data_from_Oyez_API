@@ -1,0 +1,42 @@
+{
+    "ID": 55283,
+    "name": "Miller-El v. Dretke",
+    "href": "https://api.oyez.org/cases/2004/03-9659",
+    "view_count": 0,
+    "docket_number": "03-9659",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1088398800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39410"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1102312800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39411"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1118638800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39412"
+        }
+    ],
+    "question": "<ol>\n<li>Did the Fifth Circuit Court of Appeals, by rejecting Miller-El's claim the prosecution purposefully excluded blacks from his jury, violate the U.S. Supreme Court's decision in Miller-El v. Cockrell (2003)? 2. Did the Texas jury selection manual encourage unconstitutional disparate questioning based on race?</li>\n</ol>\n",
+    "citation": {
+        "volume": "545",
+        "page": "",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/20546"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>Miller-El alleged the prosecution in his capital murder trial violated the 14th Amendment's equal protection clause by excluding 10 of 11 blacks from the jury. The jury convicted Miller-El and he was sentenced to death. State courts rejected Miller-El's appeals and ruled Miller-El failed to meet the requirements for proving jury-selection discrimination outlined by the U.S. Supreme Court in <em>Batson v. Kentucky</em> (1986). Miller-El then appealed to a federal district court. The district court rejected Miller-El's appeal and ruled the court must defer to the state courts' acceptance of prosecutors' race-neutral justifications for striking potential jurors. The Fifth Circuit Court of Appeals affirmed and ruled a federal court could only grant an appeal if the applicant made a substantial showing of the denial of a constitutional right.</p>\n<p>Miller-El appealed to the U.S. Supreme Court and in <em>Miller-El v. Cockrell</em> (2003) the Court ruled the Fifth Circuit should have accepted Miller- El's appeal to review the district court's ruling. The Supreme Court said an appeal should have been granted if the petitioner could demonstrate reasonable jurists could disagree with the district court's decision. The Court said the district court did not give full consideration to the substantial evidence Miller-El presented. The Fifth Circuit reconsidered Miller-El's appeal and ruled Miller-El failed to show clear and convincing evidence that the state court was wrong to find no purposeful discrimination.</p>\n",
+    "conclusion": "<p>Yes and yes. In a 6-3 opinion delivered by Justice David Souter, the Court held that Miller-El deserved to win his appeal because the jury selection in his case violated the Fourteenth Amendment's equal protection clause. The Court began by noting that the prosecutors used peremptory strikes to exclude 91 percent of the eligible black prospective jurors, \"a disparity unlikely to have been produced by happenstance.\" After comparing two eliminated black prospective jurors with similar white jurors who were not eliminated, the Court concluded that the \"selection process was replete with evidence that prosecutors were selecting and rejecting potential jurors because of race.\" The Court further concluded that Texas' jury selection manual, both in this case and generally, tended to allow prosecutors to read disparate questions to prospective jurors depending on whether they were black or white.</p>\n"
+}

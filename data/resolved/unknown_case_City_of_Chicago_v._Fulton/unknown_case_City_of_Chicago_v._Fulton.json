@@ -1,0 +1,42 @@
+{
+    "ID": 63211,
+    "name": "City of Chicago v. Fulton",
+    "href": "https://api.oyez.org/cases/2020/19-357",
+    "view_count": 0,
+    "docket_number": "19-357",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1576648800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54637"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1602565200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54765"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1610604000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54833"
+        }
+    ],
+    "question": "<p>Does the Bankruptcy Code\u2019s automatic stay provision, 11 U.S.C \u00a7 362, require that an entity that is passively retaining possession of property in which a bankruptcy estate has an interest return that property to the debtor or trustee immediately upon the filing of the bankruptcy petition?</p>\n",
+    "citation": {
+        "volume": "592",
+        "page": null,
+        "year": "2021",
+        "href": "https://api.oyez.org/case_citation/case_citation/27732"
+    },
+    "term": "2020",
+    "description": "A case in which the Court held that the mere retention of estate property after the filing of a bankruptcy petition does not violate 11 U.S.C. \u00a7362(a)(3), which operates as a \u201cstay\u201d of \u201cany act\u201d to \u201cexercise control\u201d over the property of the estate.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/592/19-357/",
+    "facts_of_the_case": "<p>The City of Chicago towed and impounded the Robbin Fulton\u2019s vehicle for a prior citation of driving on a suspended license. Fulton filed a Chapter 13 bankruptcy action treating the City as an unsecured creditor. The City filed an unsecured proof of claim, and the bankruptcy court confirmed Fulton\u2019s plan. The City then amended its proof of claim and asserted its status as a secured creditor. It refused to return Fulton\u2019s vehicle, and Fulton filed a motion for sanctions against the City.</p>\n<p>The bankruptcy court held that the City was obligated to return the vehicle under <em>Thompson v. General Motors Acceptance Corp.</em>, 566 F.3d 699 (7th Cir. 2009), a binding case in which the Seventh Circuit had held that a creditor must comply with the automatic stay and return a debtor\u2019s vehicle upon her filing of a bankruptcy petition. The City moved to stay the order in federal district court, and the court denied its request. The Seventh Circuit affirmed the lower court\u2019s judgment denying the City's request.</p>\n",
+    "conclusion": "<p>The Bankruptcy Code\u2019s automatic stay provision, 11 U.S.C. \u00a7 362 prohibits only affirmative acts that would disturb the status quo of estate property at the time the bankruptcy petition was filed, not the mere passive retention of possession of the debtor\u2019s property. Justice Samuel Alito authored the unanimous (8-0) opinion of the Court.</p>\n<p>Section 362(a)(3) provides that the filing of a bankruptcy petition operates as a \u201cstay\u201d of \u201cany act\u201d to \u201cexercise control\u201d over the property of the estate. The most natural understanding of that language is that it prohibits affirmative acts that would affect the estate property. To read it as the Respondents propose would render superfluous the \u00a7 542\u2019s \u201ccentral command\u201d\u2014that an entity in possession of certain estate property \u201cshall deliver to the trustee \u2026 such property.\u201d Additionally, the Respondents\u2019 proposed interpretation would mean that \u00a7 362(a)(3) required turnover at the same time that \u00a7 542 exempted it.</p>\n<p>Justice Amy Coney Barrett took no part in the consideration or decision of the case.</p>\n"
+}

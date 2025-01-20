@@ -1,0 +1,35 @@
+{
+    "ID": 54937,
+    "name": "Gitlitz v. Commissioner of Internal Revenue",
+    "href": "https://api.oyez.org/cases/2000/99-1295",
+    "view_count": 0,
+    "docket_number": "99-1295",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                970462800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38613"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                979020000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38614"
+        }
+    ],
+    "question": "<p>Does the Internal Revenue Code permit taxpayers to increase bases in their S corporation stock by the amount of an S corporation's discharge of indebtedness excluded from gross income? If the Code permits such an increase, does the increase occur before taxpayers are required to reduce the S corporation's tax attributes?</p>\n",
+    "citation": {
+        "volume": "531",
+        "page": "206",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18866"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/531/206/",
+    "facts_of_the_case": "<p>In 1991, P. D. W. &amp; A., Inc., an insolvent corporation taxed under Subchapter S, excluded its entire discharge of indebtedness amount from its gross income. David Gitlitz and other shareholders were assessed tax deficiencies because they used the untaxed discharge of indebtedness to increase their basis in S corporation stock and to deduct suspended losses. Ultimately, the Tax Court held that Gitlitz and others could not use an S corporation's untaxed discharge of indebtedness to increase their basis in corporate stock. In affirming, the Court of Appeals held that the discharge of indebtedness amount first had to be used to reduce certain tax attributes of the S corporation and that only the leftover amount could be used to increase their basis. In so holding, the court assumed that the excluded discharge of indebtedness is an item of income subject to passthrough to shareholders.</p>\n",
+    "conclusion": "<p>Yes and yes. In an 8-1 opinion delivered by Justice Clarence Thomas, the Court held that excluded discharged debt is an \"item of income,\" which passes through to shareholders and increases their bases in an S corporation's stock and that pass-through is performed before the reduction of an S corporation's tax attributes. Justice Thomas wrote that the Code \"simply does not say that discharge of indebtedness ceases to be an item of income when the S corporation is insolvent. Instead it provides only that discharge of indebtedness ceases to be included in gross income.\" \"In order to determine the 'tax imposed,' an S corporation shareholder must adjust his basis in his corporate stock and pass through all items of income and loss. Consequently, the attribute reduction must be made after the basis adjustment and pass-through,\" continued Justice Thomas.</p>\n"
+}

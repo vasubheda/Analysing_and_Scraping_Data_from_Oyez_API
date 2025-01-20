@@ -1,0 +1,35 @@
+{
+    "ID": 54959,
+    "name": "Securities and Exchange Commission v. Zandford",
+    "href": "https://api.oyez.org/cases/2001/01-147",
+    "view_count": 0,
+    "docket_number": "01-147",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1016431200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38655"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1023080400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38656"
+        }
+    ],
+    "question": "<p>Is the alleged fraudulent conduct of a securities broker, who sells his customer's securities and using the proceeds for his own benefit without the customer's knowledge or consent, in connection with the purchase or sale of any security within the meaning of the Securities Exchange Act of 1934 and SEC Rule 10b-5?</p>\n",
+    "citation": {
+        "volume": "535",
+        "page": "813",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/18888"
+    },
+    "term": "2001",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/535/813/",
+    "facts_of_the_case": "<p>In 1987, Charles Zandford, a securities broker, persuaded William Wood to open a joint investment account for himself and his mentally retarded daughter. The Woods gave Zandford discretion to manage the account and a general power of attorney to engage in securities transactions without their prior approval. After Wood died, all of the money that he had invested was gone. Subsequently, Zandford was indicted on federal wire fraud charges for selling securities in the Woods' account and making personal use of the proceeds. The Securities and Exchange Commission (SEC) also filed a civil complaint, alleging that Zandford had violated section 10 of the Securities Exchange Act of 1934 and the SEC's Rule 10b-5 by engaging in a scheme to defraud the Woods and misappropriating their securities without their knowledge or consent. After Zandford's conviction in the criminal case, the District Court granted the SEC summary judgment in the civil case. In reversing, the Court of Appeals directed the District Court to dismiss the complaint, holding that neither the criminal conviction nor the allegations in the complaint established that Zandford's fraud was in connection with the purchase or sale of any security.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion delivered by Justice John Paul Stevens, the Court held that assuming that the complaint's allegations were true, the securities broker's conduct was in connection with the purchase or sale of any security. Noting that Zandford's practices were not independent events, the Court found that each sale was made to further his fraudulent scheme and that each was deceptive because it was neither authorized by, nor disclosed to, the Woods. Therefore, Justice Stevens concluded, the stockbroker's breaches of fiduciary duty were in connection with the securities sales, within the meaning of the Securities Exchange Act of 1934, because the securities transactions and breaches of fiduciary duty coincided.</p>\n"
+}

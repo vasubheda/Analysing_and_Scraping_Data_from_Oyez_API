@@ -1,0 +1,42 @@
+{
+    "ID": 55506,
+    "name": "Logan v. United States",
+    "href": "https://api.oyez.org/cases/2007/06-6911",
+    "view_count": 0,
+    "docket_number": "06-6911",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1171951200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40008"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1193720400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40009"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1196748000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40010"
+        }
+    ],
+    "question": "<p>Are convictions that do not result in loss of civil rights excluded from the three convictions necessary to activate the Armed Career Criminal Act's sentence enhancement?</p>\n",
+    "citation": {
+        "volume": "552",
+        "page": "23",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20743"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/552/23/",
+    "facts_of_the_case": "<p>Four-time convicted felon James Logan received an enhanced sentence of 15 years under the Armed Career Criminal Act (ACCA) after his conviction for firearm possession. The ACCA imposes heavier penalties upon felons convicted of three or more violent crimes. Logan contended that his three battery convictions did not count toward the three-conviction threshold because none of them had resulted in the loss of his civil rights. (Battery is a misdemeanor in Wisconsin, but it qualifies as a violent crime under the ACCA.) Since the ACCA excludes those violent crime convictions for which civil rights have been restored to the felon, Logan argued that convictions that never stripped him of his civil rights should be excluded as well.</p>\n<p>A District Court ruled against Logan because a literal reading of the ACCA excluded only those who have \"had civil rights restored.\" The United States Court of Appeals for the Seventh Circuit affirmed that it is impossible to restore civil rights that are never taken away, and that Logan's battery convictions must therefore be counted under the ACCA.</p>\n",
+    "conclusion": "<p>The Court, in a unanimous opinion authored by Justice Ruth Bader Ginsburg, affirmed the Seventh Circuit and held that the ACCA amendment should be read literally and should apply only when civil rights had been rescinded and later restored. Although Ginsburg admitted the amendment might result in disparate treatment of criminals under the Act, she declined to offer a clarifying interpretation of the ACCA, stating that it was unclear what subset of criminals Congress intended to treat leniently by using the \"civil rights restored\" language.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55446,
+    "name": "Winkelman v. Parma City School District",
+    "href": "https://api.oyez.org/cases/2006/05-983",
+    "view_count": 0,
+    "docket_number": "05-983",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1161925200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39843"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1172556000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39844"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1179723600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39845"
+        }
+    ],
+    "question": "<p>In a lawsuit under the Individuals with Disabilities Education Act (IDEA), may a non-lawyer parent of a disabled child argue in federal court either on his own behalf (\"pro se\") or on behalf of his child?</p>\n",
+    "citation": {
+        "volume": "550",
+        "page": "516",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20688"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/550/516/",
+    "facts_of_the_case": "<p>Jeff and Sandee Winkelman claimed that Parma City School District failed to give their disabled son Jacob a \"free appropriate public education\" as required by the Individuals with Disabilities Education Act (IDEA). Despite the Winkelmans' opposition, the school district planned to place Jacob in a public elementary school. After a preliminary school district hearing affirmed Jacob's placement, the Winkelmans placed Jacob in a private school at their own expense and petitioned a federal District Court for reimbursement.</p>\n<p>The District Court ruled for the School District. On appeal, the U.S. Court of Appeals for the Sixth Circuit dismissed the suit because the Winkelmans lacked a lawyer. The Winkelmans argued that according to the IDEA, \"any party aggrieved by the findings\" of a preliminary school district hearing may appeal in a federal court. Also, because the IDEA demands active parental involvement in order to enforce proper child placement, the parent should be able to appear in court \"pro se\" - without a lawyer. The Sixth Circuit rejected both arguments and held that the IDEA does not establish any right of a non-lawyer parent to represent his disabled child in federal court. Non-lawyer parents cannot represent themselves either, the Circuit Court ruled, because the IDEA protects the rights of the child, not the parents.</p>\n",
+    "conclusion": "<p>Yes. The Court reversed the Sixth Circuit by a 7-2 vote, ruling that \"[p]arents enjoy rights under IDEA; and they are, as a result, entitled to prosecute IDEA claims on their own behalf.\" Justice Anthony Kennedy's majority opinion held that since the IDEA gives parents enforceable rights in the administrative stage of disputes over \"free appropriate public education,\" it would be inconsistent if they could not exercise the same rights in federal court. An interpretation where some rights inhere and both parents and child while others inhere only in the child would be unnecessarily confusing and was not indicated by the text and structure of IDEA. Therefore the Court ruled that a parent can be a \"party aggrieved\" under the statute and that sections referring to the rights of the child need not be read to exclude the parent. The dissenters would have held that IDEA gives parents the right to represent themselves in court when they seek reimbursement or challenge violations of their own procedural rights, but not when they challenge the adequacy of their child's free appropriate public education. Justice Antonin Scalia argued that the child, as the one who is receiving the education, is the only one with a right to it, and he accused the majority of \"spraying statutory sections about like buckshot [to] create a substantive parental right to education where none exists.\"</p>\n"
+}

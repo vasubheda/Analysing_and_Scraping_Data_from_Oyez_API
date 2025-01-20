@@ -1,0 +1,42 @@
+{
+    "ID": 55877,
+    "name": "First American Financial Corp. v. Edwards",
+    "href": "https://api.oyez.org/cases/2011/10-708",
+    "view_count": 0,
+    "docket_number": "10-708",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1308546000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40994"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1322460000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40995"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1340859600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40996"
+        }
+    ],
+    "question": "<p>Does Edwards have standing to sue?</p>\n",
+    "citation": {
+        "volume": "567",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19799"
+    },
+    "term": "2011",
+    "description": "A case which the Court dismissed, regarding whether or not a private purchaser of real estate services has standing to sue when a kickback does not affect the value or quality of the service.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/567/756/",
+    "facts_of_the_case": "<p>Ohio resident Denise Edwards bought title insurance from First American Financial Corp. through a referral from Tower City, the title company that conducted the closing on her home purchase. Edwards later filed a lawsuit against First American Title Insurance Co. and its parent, the First American Corp., under the Real Estate Settlement Procedures Act (RESPA), alleging that First American improperly paid millions of dollars to individual title companies and in exchange those title companies entered into exclusive referral agreements with First American. Edwards also filed a class action complaint. The district court denied Edwards' motions to certify a nationwide class of customers of First American's captive title agents and a class limited to customers of First American's Tower City subsidiary.</p>\n<p>The U.S. Court of Appeals for the Ninth Circuit reversed the denials of class certification, holding that the district court had abused its discretion in denying certification of a nationwide class without allowing discovery and had abused its discretion in denying certification of the Tower City class.</p>\n",
+    "conclusion": "<p>Unanswered. In a per curiam opinion, the Court dismissed the writ of certiorari as improvidently granted.</p>\n"
+}

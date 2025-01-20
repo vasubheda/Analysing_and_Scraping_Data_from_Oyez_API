@@ -1,0 +1,42 @@
+{
+    "ID": 55575,
+    "name": "Hawaii v. Office of Hawaiian Affairs",
+    "href": "https://api.oyez.org/cases/2008/07-1372",
+    "view_count": 0,
+    "docket_number": "07-1372",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1222837200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40201"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1235541600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40202"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1238475600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40203"
+        }
+    ],
+    "question": "<p>Does the symbolic Apology Resolution restrict the State of Hawaii's sovereign authority to transfer publicly held land for private development, at least until claims over such land are resolved?</p>\n",
+    "citation": {
+        "volume": "556",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20795"
+    },
+    "term": "2008",
+    "description": "A case in which the Court held that the Apology Resolution did not restrict Hawaii's sovereign authority to transfer publicly held land for private development.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>The Office of Hawaiian Affairs (OHA), filed suit against the state of Hawaii to prevent the transfer of \"ceded\" lands for the purpose of private development. The OHA was established to manage the proceeds from lands ceded by the Kingdom of Hawaii following its overthrow by the United States. The lands were marked to provide for the benefit of native Hawaiians. The OHA argued that \"any transfer of ceded lands by the State to third parties would amount to a breach of trust\" and would be without consideration of the claims of native Hawaiians to those lands. However, the trial court held that the State did have the power to transfer the lands. The OHA appealed.</p>\n<p>The Supreme Court of Hawaii overruled the trial court's decision and remanded the case with instructions to issue an injunction to prevent the transfer of ceded lands from the public trust. In its reasoning, it cited <em>Ahuna</em> to illustrate that the State as trustee of these lands was under an obligation to administer the trust 'solely in the interest of the beneficiary' (native Hawaiians). Further, it gave great weight to the Apology Resolution passed by the United States Congress in 1993 to mark the 100th Anniversary of the overthrow of the Kingdom of Hawaii. This resolution stated that \"native Hawaiians (1) 'never directly relinquished their claims to\u2026 their national lands to the United States,' and (2) 'are determined to preserve, develop and transmit to future generations their ancestral territory.'\" Therefore, the court held, it was the responsibility of the State of Hawaii to preserve the ceded lands in the public trust, at least until such land claims were resolved.</p>\n",
+    "conclusion": "<p>No. A unanimous Supreme Court held that the Apology Resolution did not restrict Hawaii's sovereign authority to transfer publicly held land for private development. With Justice Samuel A. Alito writing for the Court, it reasoned that the language of the resolution did not indicate the creation of new substantive rights that could limit the actions of Hawaii.</p>\n"
+}

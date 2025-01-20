@@ -1,0 +1,35 @@
+{
+    "ID": 54600,
+    "name": "Alaska v. Native Village of Venetie Tribal Government",
+    "href": "https://api.oyez.org/cases/1997/96-1577",
+    "view_count": 0,
+    "docket_number": "96-1577",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                881733600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37984"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                888386400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37985"
+        }
+    ],
+    "question": "<p>Is the land owned by the Native Village of Venetie Tribal Government \"Indian country\" pursuant to the Alaska Native Claims Settlement Act?</p>\n",
+    "citation": {
+        "volume": "522",
+        "page": "520",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18529"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/522/520/",
+    "facts_of_the_case": "<p>In 1971, Congress enacted the Alaska Native Claims Settlement Act (ANCSA), which completely extinguished all aboriginal claims to Alaska land. ANCSA revoked the Neets'aii Gwich'in Indians' reservation surrounding the Village of Venetie. Subsequently, two Native corporations established for the Neets'aii Gwich'in elected to use an ANCSA provision allowing them to take title to former reservation lands in return for forgoing the statute's monetary payments and transfers of nonreservation land. The title to the reservation was ultimately transferred to the Native Village of Venetie Tribal Government (Tribe). In 1986, Alaska entered into a joint venture with a private contractor to construct a public school in Venetie. Afterwards, the Tribe notified the contractor that it owed the Tribe approximately $161,000 in taxes for conducting business activities on its land. The Federal District Court held that, because the Tribe's ANCSA lands were not \"Indian country,\" the Tribe lacked the power to impose a tax upon nonmembers. The Court of Appeals reversed.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Clarence Thomas, the Court held that the Tribe's land is not \"Indian country.\" \"As noted, only one Indian reservation, the Annette Island Reserve, survived ANCSA,\" explained Justice Thomas in a footnote, [o]ther Indian country exists in Alaska post-ANCSA only if the land in question meets the requirements of a 'dependent Indian community' under our interpretation of [18 USC section 1151 (b)], or if it constitutes 'allotments' under [18 USC section 1151 (c)].\" \"The Tribe's ANCSA lands do not satisfy either of these requirements,\" concluded Justice Thomas, \"[a]fter the enactment of ANCSA, the Tribe's lands are neither 'validly set apart for the use of the Indians as such,' nor are they under the superintendence of the Federal Government.\"</p>\n"
+}

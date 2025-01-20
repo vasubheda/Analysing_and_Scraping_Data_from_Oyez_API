@@ -1,0 +1,35 @@
+{
+    "ID": 54556,
+    "name": "Atherton v. Federal Deposit Insurance Corporation",
+    "href": "https://api.oyez.org/cases/1996/95-928",
+    "view_count": 0,
+    "docket_number": "95-928",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                847087200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37900"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                853221600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37901"
+        }
+    ],
+    "question": "<p>1) Can states apply standards of negligence that are stricter (more inclusive) than the federal standard of \"gross negligence\" for employees of federally-chartered banks?</p>\n<p>2) Is there a federal common law governing negligence by employees of federally-chartered banks?</p>\n",
+    "citation": {
+        "volume": "519",
+        "page": "213",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18485"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/519/213/",
+    "facts_of_the_case": "<p>City Federal Savings Bank (City Federal) lost a significant amount of its clients' money because of negligent investing by employee John Atherton. The client, Resolution Trust Corporation (RTC), sued Atherton under state law for \"gross negligence,\" \"simple negligence,\" and \"breach of fiduciary duty.\" A three-judge District Court held that Atherton could only be sued for gross negligence, because the more lenient \"gross negligence\" standard for negligent conduct set by federal statutory law annulled stricter standards set by state law. The U.S. Appeals Court for the Third Circuit reversed the decision, and held that federal statutes only ensured a minimum standard of \"gross negligence.\" The stricter state standards still applied.</p>\n<p>On appeal to the Supreme Court, the Federal Deposit Insurance Corporation (FDIC), petitioning on behalf of RTC, argued that federal common law should set a uniform standard of negligent conduct for all employees at federally chartered banks. According to FDIC, allowing state statutes to regulate federally chartered banks would contradict the federal charter system's purpose of upholding federal common law. The Supreme Court was asked to decide which law applied to Atherton: state law, federal common law, or federal statutory law.</p>\n",
+    "conclusion": "<p>Yes and no. The unanimous Court concluded that \"state law sets the standard of conduct as long as the state standard is stricter than that of the federal statute.\" The opinion by Justice Stephen Breyer held that the federal \"gross negligence\" statute was only intended to set a \"floor\" or minimum standard for state laws governing negligent conduct. The Court also ruled that \"[t]here is no federal common law that would create a general standard of care applicable to this case.\"</p>\n"
+}

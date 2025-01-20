@@ -1,0 +1,42 @@
+{
+    "ID": 55611,
+    "name": "Knowles v. Mirzayance",
+    "href": "https://api.oyez.org/cases/2008/07-1315",
+    "view_count": 0,
+    "docket_number": "07-1315",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1214542800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40306"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1231826400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40307"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1237870800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40308"
+        }
+    ],
+    "question": "<p>1) Did the Ninth Circuit exceed it authority by granting habeas corpus relief without considering whether state court adjudication of Mr. Mirzayance's claim was \"unreasonable\" under 28 U.S.C. Section 2254(d)?</p>\n<p>2) May a federal appellate court substitute factual findings of the district court without determining whether the district court's findings were \"clearly erroneous?\"</p>\n",
+    "citation": {
+        "volume": "556",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20793"
+    },
+    "term": "2008",
+    "description": "A case in which the Court found that in order to find counsel ineffective, the defendant must show both \"deficient performance\" and \"prejudice.\"",
+    "justia_url": null,
+    "facts_of_the_case": "<p>Alexandre Mirzayance was convicted of first-degree murder in a California state court. He was subsequently denied post-conviction relief by the trial court and the California Court of Appeals. Mr. Mirzayance then petitioned for federal habeas corpus relief in a California federal district court. He maintained that he was denied his Sixth Amendment right to effective counsel because at trial, his attorney advised him to abandon his plea of not guilty by reason of insanity (NGI). The federal district court denied Mr. Mirzayance's petition, but was reversed by the U.S. Court of Appeals for the Ninth Circuit, which ordered an evidentiary hearing limited to determining whether \"there were tactical reasons for abandoning the defense.\"</p>\n<p>At the hearing, the Magistrate Judge found that Mr. Mirzayance's counsel had \"nothing to lose\" by going forward with the NGI plea and thus found his performance ineffective. The federal district court accepted this finding and granted Mr. Mirzayance's petition for habeas corpus relief. On appeal, the Ninth Circuit affirmed, reasoning that Mr. Mirzayance's attorney's advice to withdraw his NGI plea was unreasonable because there was \"reasonable probability\" the jury would find Mr. Mirzayance insane. The Supreme Court granted certiorari, vacated the Ninth Circuit's decision, and remanded the case for consideration in light of <em>Carey v. Musladin</em>. On remand, the Court of Appeals reaffirmed its decision stating that Mr. Mirzayance's attorney's failure to pursue the NGI defense constituted ineffective counsel because it \"secured no tactical advantage.\"</p>\n",
+    "conclusion": "<p>Yes and not answered. The Supreme Court reversed the Ninth Circuit, holding that the California Court of Appeals' decision to deny Mr. Mirzayance's petition for habeas corpus relief was not \"an unreasonable application of, clearly established Federal law.\" With Justice Clarence Thomas writing for the majority and joined by Chief Justice John G. Roberts, Justice John Paul Stevens, Justice Anthony M. Kennedy, Justice Stephen G. Breyer, and Samuel A. Alito, the Court concluded that the Ninth Circuit reached an erroneous result because it applied an improper standard of review when it found Mr. Mirzayance's counsel ineffective for abandoning the NGI plea because there was \"nothing to lose\" in pursuing it. Rather, the Court stated that in order to find counsel ineffective, the defendant must show both \"deficient performance\" and \"prejudice.\" The Court reasoned that Mr. Mirzayance's counsel was not deficient when he abandoned an NGI plea that had \"almost no chance of success.\" Therefore, the California Court of Appeals was not \"unreasonable\" in denying Mr. Mirzayance's petition for habeas corpus relief.</p>\n"
+}

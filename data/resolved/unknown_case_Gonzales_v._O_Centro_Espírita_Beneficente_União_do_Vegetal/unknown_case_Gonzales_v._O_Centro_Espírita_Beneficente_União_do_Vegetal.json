@@ -1,0 +1,42 @@
+{
+    "ID": 55361,
+    "name": "Gonzales v. O Centro Esp\u00edrita Beneficente Uni\u00e3o do Vegetal",
+    "href": "https://api.oyez.org/cases/2005/04-1084",
+    "view_count": 0,
+    "docket_number": "04-1084",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1113800400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39616"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1130824800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39617"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1140501600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39618"
+        }
+    ],
+    "question": "<p>Does the Religious Freedom Restoration Act of 1993 require the government to permit the importation, distribution, possession and use of an otherwise illegal drug by a religious organization when Congress has found that the drug has a high potential for abuse, is unsafe for use even under medical supervision, and violates an international treaty when imported or distributed?</p>\n",
+    "citation": {
+        "volume": "546",
+        "page": "418",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20574"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/546/418/",
+    "facts_of_the_case": "<p>O Centro Espirita Benficiente Uniao do Vegetal (UDV), a religious organization, brought suit in federal court to prevent the government from interfering with UDV's use of hoasca, a substance used during religious ceremonies that contains a drug prohibited by the Controlled Substances Act. UDV argued that the Religious Freedom Restoration Act, which prohibits substantial imposition on religious practices in the absence of a compelling government interest, established their right to use hoasca.</p>\n<p>The district court sided with UDV and the Tenth Circuit Court of Appeals affirmed, finding that the government had not sufficiently proved the alleged health risks posed by hoasca and could not show a substantial risk that the drug would be abuse recreationally. In response to the Attorney General's argument that prohibiting the drug was required by an international treaty, the court ruled that the government had failed to \"narrowly tailor\" its prohibition of the drug.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous 8-0 decision (Justice Alito not participating), the Court held that the government had failed to prove a compelling interest in regulating the UDV's use of drugs for religious purposes. Writing for the Court, Chief Justice John Roberts rejected the government's argument that the Controlled Substances Act could accommodate no exceptions. On the contrary, Justice Roberts wrote, the Court is required by the RFRA to examine individual religious freedom claims and grant exceptions to generally-applicable laws where no compelling government interest can be shown.</p>\n<p>The Court also rejected the argument that an exception for UDV was precluded by international treaty. The government failed to submit \"evidence addressing the international consequences of granting an exemption for the UDV,\" instead citing \"the general importance of honoring international obligations and of maintaining the leadership position of the United States in the international war on drugs.\" The Court held that such general government interests were not sufficient to satisfy the compelling interest standard.</p>\n"
+}

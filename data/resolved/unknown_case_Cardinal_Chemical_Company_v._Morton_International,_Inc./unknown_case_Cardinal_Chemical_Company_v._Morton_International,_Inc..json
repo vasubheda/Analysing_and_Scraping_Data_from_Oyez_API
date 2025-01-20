@@ -1,0 +1,35 @@
+{
+    "ID": 54134,
+    "name": "Cardinal Chemical Company v. Morton International, Inc.",
+    "href": "https://api.oyez.org/cases/1992/92-114",
+    "view_count": 0,
+    "docket_number": "92-114",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                731138400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37116"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                737614800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37117"
+        }
+    ],
+    "question": "<p>Can a federal court, with exclusive jurisdiction over all federal appeals concerning patent litigation, use its finding that a patent has not been infringed as a per se justification for upholding the validity of the disputed patents themselves?</p>\n",
+    "citation": {
+        "volume": "508",
+        "page": "83",
+        "year": "1993",
+        "href": "https://api.oyez.org/case_citation/case_citation/18063"
+    },
+    "term": "1992",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/508/83/",
+    "facts_of_the_case": "<p>Acting upon a belief that Cardinal Chemical (\"Cardinal\") violated two of its patents on chemical compounds used in polyvinyl chloride, Morton International (\"Morton\") challenged Cardinal's actions in a South Carolina District Court. Cardinal counterclaimed that Morton's patents were invalid. The District Court ruled that although none of Morton's patents were violated, they were both invalid. Morton appealed to the Federal Circuit Court which sustained the lower courts infringement finding but issued a per se reversal of its determination as to the validity of Morton's patents based on a practice dating back to 1987. Cardinal appealed the per se rejection of its validity counterclaim and the Supreme Court granted certiorari.</p>\n",
+    "conclusion": "<p>No. In a unanimous decision, the Court held that two questions of law do not always necessarily cancel each other out when only one is resolved. The Court observed that in matters of patent law, noninfringement and invalidity are two separate questions. Therefore, the Court of Appeals for the Federal Circuit may find that a patent has not been infringed but it may not rely on such a determination as a per se basis for vacating a judgement holding the same patent invalid. Although the Court of Appeals' dogmatic practice existed since 1987, it was unsupported by the \"case or controversy\" requirement of Article III, and imposed undue burdens on those who remained convinced of the disputed patent's invalidity.</p>\n"
+}

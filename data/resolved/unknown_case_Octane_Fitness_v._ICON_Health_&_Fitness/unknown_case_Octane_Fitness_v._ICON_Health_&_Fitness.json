@@ -1,0 +1,42 @@
+{
+    "ID": 55993,
+    "name": "Octane Fitness v. ICON Health & Fitness",
+    "href": "https://api.oyez.org/cases/2013/12-1184",
+    "view_count": 0,
+    "docket_number": "12-1184",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1380603600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41314"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1393394400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52656"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1398747600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52657"
+        }
+    ],
+    "question": "<p>Did the appellate court's interpretation of \"exceptional\" under the attorney fees statute improperly raise the standard for accused patent infringers to recoup attorney fees and encourage potential plaintiffs to bring frivolous patent lawsuits that cause competitive harm?</p>\n",
+    "citation": {
+        "volume": "572",
+        "page": "545",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/19915"
+    },
+    "term": "2013",
+    "description": "A case in which the Court defined \"exceptional\" cases as ones that simply stand out from others due to a frivolous nature related to its legal claims.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/572/545/",
+    "facts_of_the_case": "<p>ICON Health &amp; Fitness, Inc. (ICON) manufactures and sells exercise equipment throughout the United States. In 2000, ICON obtained U.S. Patent No. 6,019,710 (the '710 patent) for a system designed to link parts in elliptical exercise machines. In 2010, ICON filed a complaint against another manufacturer and seller of exercise equipment, Octane Fitness (Octane), and claimed that Octane's elliptical design infringed upon the '710 patent.</p>\n<p>The federal district court held that Octane's design did not violate ICON's '710 patent. ICON appealed to the U.S. Court of Appeal for the Federal Circuit. Octane argued that ICON's lawsuit was not based on any real patent infringement, but instead aimed at hampering upstart competitors with expensive, frivolous lawsuits. Therefore, Octane asked the court to apply a patent law attorney fees statute, a statute that awards attorney fees when the plaintiff's suit is found to be \"exceptional.\" The appellate court affirmed the lower court's decision, but found that ICON had not acted \"exceptionally\" under the statute.</p>\n",
+    "conclusion": "<p>Yes. Justice Sonia Sotomayor delivered the opinion for the unanimous Court. The Court held that the appellate court construed the attorney fees statute in a manner that was unduly rigid. Restricting the grant of reasonable attorney fees to the prevailing party in all but two exceptions would render the statute meaningless and would contradict patent litigation norms. The appellate court\u2019s interpretation of the statute would also impermissibly encumber the district court\u2019s discretionary power to award such fees. The Court also held that an \u201cexceptional\u201d case is simply one that stands out from others because of its frivolous nature relating to the legal arguments or merits of the claim. District courts may determine exceptionalness by considering the totality of the circumstances on a case-by-case basis. Finally, the Court rejected the appellate court\u2019s \u201cclear and convincing evidence\u201d standard that successful patent litigants would have to establish in order to receive fees. Instead, the Court held that a simple discretionary inquiry would serve to determine whether granting attorney fees is appropriate.</p>\n"
+}

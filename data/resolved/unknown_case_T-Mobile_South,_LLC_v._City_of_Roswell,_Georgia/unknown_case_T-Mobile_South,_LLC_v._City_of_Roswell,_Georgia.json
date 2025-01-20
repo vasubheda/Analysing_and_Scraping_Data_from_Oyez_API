@@ -1,0 +1,42 @@
+{
+    "ID": 56129,
+    "name": "T-Mobile South, LLC v. City of Roswell, Georgia",
+    "href": "https://api.oyez.org/cases/2014/13-975",
+    "view_count": 0,
+    "docket_number": "13-975",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1399266000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41726"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1415599200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41727"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1421215200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41728"
+        }
+    ],
+    "question": "<p>Does a document stating that an application has been denied without providing reasons for the denial comply with the \"in writing\" requirement of the Telecommunications Act?</p>\n",
+    "citation": {
+        "volume": "574",
+        "page": "293",
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20929"
+    },
+    "term": "2014",
+    "description": "A case in which the Court held that the Telecommunications Act of 1996 does not require localities to provide reasons for their denial of construction applications in the written denial notification as long as the reasons appear in some other sufficiently clear written record.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/574/293/",
+    "facts_of_the_case": "<p>Telecommunications service provider T-mobile South, LLC (T-mobile) submitted an application to construct a 108\u2013foot cell tower resembling a man-made tree (monopine) in Roswell, Georgia. The location of the site, though planned inside a vacant lot, would be in an area zoned for single-family residences within a well-established residential neighborhood. Following an outpouring of public opposition to the tower, Roswell's Planning and Zoning Division recommended that the Mayor and city council, who ultimately approve applications after a public hearing, impose certain conditions before approving the application. Specifically, the Planning and Zoning Division recommended that T-Mobile should relocate the site to another part of the property, erect a fence around the tower, and plant pine trees to shield it from residential owners' view. At the public hearing, city council members voted to deny the application.</p>\n<p>Two days later, Roswell sent T-Mobile a letter notifying the company that the application was denied and referred the company to the minutes of the public hearing. T-Mobile sued Roswell and claimed that the city had not provided substantial evidence that would support a denial of the application. T-Mobile also alleged that, by prohibiting T-Mobile from building the structure, Roswell violated the Telecommunications Act of 1996 (TCA). The district court did not rule on the substantial evidence question and instead held that Roswell had not met the \"in writing\" component of the TCA, which required the government to state the reason(s) for denying an application. The district court ordered Roswell to grant the permit, and Roswell appealed. The U.S. Court of Appeals for the Eleventh Circuit held that Roswell had met the \"in writing\" requirement by issuing a written denial and referring to the minutes of the hearing for the reasoning.</p>\n",
+    "conclusion": "<p>Yes. Justice Sonia Sotomayor delivered the opinion for the 6-3 majority. The Court held that the Telecommunications Act of 1996 does not require localities to provide reasons for their denial of construction applications in the written denial notification as long as the reasons appear in some other sufficiently clear written record. While the language of the Act requires localities to provide reasons for the denial of an application, it does not specify how those reasons should be presented. However, the reasons for denial must be made available at essentially the same time as the notice of denial. Because the reasons for denial in this case were issued 26 days after the date of the written denial, the Court held that the City of Roswell did not comply with the requirements of the Telecommunications Act.</p>\n<p>In his concurring opinion, Justice Samuel A. Alito, Jr. wrote that a court should be able to uphold a decision as long as the locality's logic can be reasonably followed, even if all of the reasons are not explicitly stated. If a locality has erred, a court should uphold its decision if the error was harmless, and it should generally remand the case to be reconsidered by the locality.</p>\n<p>Chief Justice John G. Roberts, Jr. wrote a dissenting opinion in which he argued that the City of Roswell fully complied with every requirement of the Telecommunications Act: it issued its decision in writing and provided reasons for that decision in a written record. The majority opinion's timing requirement does not exist in the text of the statute and therefore should not be valid. Justice Ruth Bader Ginsburg and Justice Clarence Thomas joined in the dissent. Justice Thomas also wrote a separate dissent to express his concern that the majority opinion created a requirement that does not exist in the text of the statute.</p>\n"
+}

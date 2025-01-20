@@ -1,0 +1,35 @@
+{
+    "ID": 54498,
+    "name": "Harbor Tug & Barge Company v. Papai",
+    "href": "https://api.oyez.org/cases/1996/95-1621",
+    "view_count": 0,
+    "docket_number": "95-1621",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                853135200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37796"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                863413200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37797"
+        }
+    ],
+    "question": "<p>Could a reasonable jury conclude that John Papai is a Jones Act seaman in accordance with his record of employment?</p>\n",
+    "citation": {
+        "volume": "520",
+        "page": "548",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18427"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/520/548/",
+    "facts_of_the_case": "<p>John Papai was injured while painting the housing structure of the tug Pt. Barrow. The Pt. Barrow is operated by Harbor Tug &amp; Barge Co., which hired Papai to do the work, which involved no sailing with the vessel. Papai had been employed by Harbor Tug on twelve previous occasions in the two months before his injury, receiving those jobs through the Inland Boatman's Union hiring hall, which had provided Papai with short term jobs with various vessels for about two years. Most of Papai's jobs were deckhand work, which Papai said involved manning the lines on and off board vessels while they dock or undock. Papai sued Harbor Tug, claiming negligence under the Jones Act, which serves to protect seamen or workers who face regular exposure to the perils of the sea. The District Court granted Harbor Tug summary judgment upon finding that Papai did not enjoy seaman status under the Jones Act. The Court of Appeals reversed and remanded for a trial Papai's seaman status and his corresponding Jones Act claim. The court concluded that the relevant inquiry was not whether Papai had a permanent connection with the vessel, but whether his relationship with a vessel or an identifiable group of vessels was substantial in duration and nature, and found that this required consideration of his employment's total circumstances. Moreover, the court determined that a reasonable jury could conclude that Papai satisfied this test, for if the type of work a maritime worker customarily performs would entitle him to seaman status if performed for a single employer, he should not be deprived of that status simply because the industry operates under a daily assignment, rather than a permanent employment system.</p>\n",
+    "conclusion": "<p>No. In a 6-3 decision, authored by Justice Anthony Kennedy, the Court ruled that John Papai's record would not permit a reasonable jury to conclude that he is a Jones Act seaman. Jones Act coverage is confined to seamen, those workers who face regular exposure to the perils of the sea. Justice Kennedy wrote, \"[a]n important part of the test for determining who is a seaman is whether the injured worker has a substantial connection to a vessel or to a fleet of vessels, and the latter concept requires a requisite degree of common ownership or control.\"</p>\n"
+}

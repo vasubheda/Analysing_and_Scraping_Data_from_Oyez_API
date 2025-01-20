@@ -1,0 +1,42 @@
+{
+    "ID": 55284,
+    "name": "Wilkinson v. Dotson",
+    "href": "https://api.oyez.org/cases/2004/03-287",
+    "view_count": 0,
+    "docket_number": "03-287",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1079935200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39413"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1102312800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39414"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1110175200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39415"
+        }
+    ],
+    "question": "<p>(1) May a prisoner bring a claim under 42 U.S.C. 1983 claiming that his parole proceedings violate due process, even though success on the merits of the claim would result only in a new parole hearing and would not necessarily guarantee earlier release from prison? (2) Does a federal court judgment ordering a new parole hearing \"necessarily imply the invalidity of\" the decision at the previous parole hearing and therefore challenge the sentence itself?</p>\n",
+    "citation": {
+        "volume": "544",
+        "page": "74",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19212"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/544/74/",
+    "facts_of_the_case": "<p>Ohio state prisoners Rogerico Johnson and William Dwight Dotson separately alleged their parole proceedings violated due process. Each sued the Ohio prison system under a section of the U.S. Code - section 1983 - which allows prisoners to challenge conditions of confinement. The district courts dismissed the prisoners' claims. The courts ruled their claims challenging parole decisions actually challenged their sentences and that the U.S. Supreme Court's decision in <em>Heck v. Humphrey</em> (1994) barred prisoners from using section 1983 to do this. The prisoners could make their claims only under the section of the U.S. Code that allows prisoners to petition for habeas corpus. A federal appellate court reversed the district courts' decisions.</p>\n",
+    "conclusion": "<p>Yes and No. In an 8-1 decision, the Court affirmed the appellate court and ruled that prisoners could use Section 1983 to challenge a state's parole procedures. The majority opinion by Justice Stephen Breyer held that though prisoners cannot use Section 1983 to directly challenge their sentences, they can bring suit under the Section when a successful suit \"would not necessarily spell immediate or speedier release for the prisoner.\" Though a successful constitutional challenge to Ohio's parole procedures might make it more likely that the prisoners would be released from prison sooner, the Court called the connection \"too tenuous\" for the prisoners' suit to be considered a challenge of the sentences themselves. The Court ruled that since the prisoners sought only new parole hearings, not reduced sentences, a favorable ruling would not necessarily imply the invalidity of their sentences. Justice Anthony Kennedy wrote a lone dissent arguing that challenges to parole proceedings can only be brought by a petition for habeas corpus.</p>\n"
+}

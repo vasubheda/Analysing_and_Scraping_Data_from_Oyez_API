@@ -1,0 +1,42 @@
+{
+    "ID": 55167,
+    "name": "Scarborough v. Principi",
+    "href": "https://api.oyez.org/cases/2003/02-1657",
+    "view_count": 0,
+    "docket_number": "02-1657",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1064898000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39082"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1077516000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39083"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1083560400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39084"
+        }
+    ],
+    "question": "<p>May someone who won a suit against the government and applied for repayment of attorney's fees under the Equal Access to Justice Act amend his application to assert that the government's position in the suit was not \"substantially justified\"?</p>\n",
+    "citation": {
+        "volume": "541",
+        "page": "401",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19095"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/541/401/",
+    "facts_of_the_case": "<p>Randall Scarborough won a case against the Department of Veterans Affairs. He then applied for attorney's fees to the U.S. Veterans' Court under the federal Equal Access to Justice Act (EAJA). Under the EAJA, the government must pay attorney's fees to anyone who wins against the federal government in litigation unless the government can show that its position was \"substantially justified.\" However, Scarborough's attorney submitted an incomplete application, neglecting to assert that the government's position was not substantially justified. Though he amended and resubmitted it, he did so after the 30-day filing deadline. The Veterans' Court dismissed the application for \"lack of subject matter jurisdiction\" - that is, because it was not filed in its complete form within the 30-day deadline. The Court of Appeals for the Federal Circuit affirmed.</p>\n",
+    "conclusion": "<p>Yes. In a 7-to-2 opinion written by Justice Ruth Bader Ginsburg, the Court held that the statement on the application that the government's position had not been \"substantially justified\" was merely procedural. There was no need to prove the assertion - the applicant merely had to make the claim to shift the burden of proof to the government. Because the government was not harmed by the initial omission of the statement - filing the claim made it obvious that the applicant thought the government's position was not substantially justified, even without the specific statement - Scarborough should be able to amend his application even after the 30-day filing period had passed.</p>\n"
+}

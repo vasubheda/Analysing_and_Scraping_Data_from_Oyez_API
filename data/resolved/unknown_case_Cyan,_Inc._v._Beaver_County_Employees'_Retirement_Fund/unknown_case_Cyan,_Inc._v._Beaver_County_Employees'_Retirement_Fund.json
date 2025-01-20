@@ -1,0 +1,42 @@
+{
+    "ID": 62863,
+    "name": "Cyan, Inc. v. Beaver County Employees' Retirement Fund",
+    "href": "https://api.oyez.org/cases/2017/15-1439",
+    "view_count": 0,
+    "docket_number": "15-1439",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1498539600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54085"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1511848800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54127"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1521608400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54241"
+        }
+    ],
+    "question": "<p>Do\u00a0state courts have subject matter jurisdiction over covered class actions that allege only Securities Act of 1933 claims?</p>\n",
+    "citation": {
+        "volume": "583",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27527"
+    },
+    "term": "2017",
+    "description": "A case in which the Court held that that the Securities Litigation Uniform Standards Act of 1998 does not strip state courts of jurisdiction to hear claims under the Securities Act of 1933, nor does it permit defendants to remove class actions alleging only 1933 Act claims from state to federal court.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/583/15-1439/",
+    "facts_of_the_case": "<p>Since the enactment of the Securities Act of 1933, state courts have had concurrent jurisdiction to decide federal law claims brought under that statute. Congress then passed the Securities Litigation Uniform Standards Act of 1998, which precluded certain state law securities class actions, and amended the 1933 Act to reflect that limitation on state court claims.</p>\n<p>Beaver County Employees' Retirement Fund filed a lawsuit in a California superior court asserting claims under the 1933 Act. Cyan Inc. moved to dismiss the claims, arguing that the amended 1933 Act precluded state courts from exercising subject matter jurisdiction over 1933 Act claims entirely. The superior court rejected Cyan's objection to the exercise of jurisdiction. Federal district courts are split as to whether state courts have subject matter jurisdiction over covered class actions that allege only 1933 Act claims.</p>\n",
+    "conclusion": "<p>The Securities Litigation Uniform Standards Act of 1998 (SLUSA) does not strip state courts of jurisdiction to hear claims under the Securities Act of 1933, nor does it permit defendants to remove class actions alleging only 1933 Act claims from state to federal court. In a unanimous opinion authored by Justice Elena Kagan, the Court found that the language of SLUSA, which modifies the Securities Act of 1933, leaves the state courts' jurisdiction intact. The background rule of \u00a7 77v(a) gives state courts concurrent jurisdiction over all suits \u201cbrought to enforce any liability or duty created by\u201d that statute. Section 77p, which bars certain securities class actions based on state law, controls if there is a conflict between \u00a7 77v(a) and \u00a7 77p, but \u00a777p does nothing to limit state-court jurisdiction\u00a0over class actions brought under the 1933 Act. The Court also found that the structure and context also support its reading of the provision.</p>\n<p>The 1933 Act barred the removal of certain claims from state to federal court. Section 77p(c) of SLUSA modifies the removal ban, permitting the removal of certain class actions to federal court, where they are subject to dismissal. The Court found that the most natural reading of that provision does not alter the ban on removal of class actions alleging only 1933 Act claims.</p>\n"
+}

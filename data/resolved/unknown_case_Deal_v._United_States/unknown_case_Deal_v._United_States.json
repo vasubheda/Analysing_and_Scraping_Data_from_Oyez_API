@@ -1,0 +1,35 @@
+{
+    "ID": 54067,
+    "name": "Deal v. United States",
+    "href": "https://api.oyez.org/cases/1992/91-8199",
+    "view_count": 0,
+    "docket_number": "91-8199",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                730965600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36987"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                737614800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36988"
+        }
+    ],
+    "question": "<p>Does a criminal's second through sixth convictions under section 924(c)(1) in a single proceeding arise \"in the case of his second or subsequent conviction\" within the meaning of section 924(c)(1)?</p>\n",
+    "citation": {
+        "volume": "508",
+        "page": "129",
+        "year": "1993",
+        "href": "https://api.oyez.org/case_citation/case_citation/17996"
+    },
+    "term": "1992",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/508/129/",
+    "facts_of_the_case": "<p>Between January and April 1990, Thomas Lee Deal committed six bank robberies. In each robbery, he used a gun. Subsequently, Deal was convicted, in a single proceeding, of six counts of carrying and using a firearm during and in relation to a crime of violence in violation of 18 USC section 924(c)(1). Section 924(c)(1) prescribes a 5-year prison term for the first such conviction, in addition to the punishment provided for the crime of violence, and requires a 20-year sentence \"in the case of [a] second or subsequent conviction under this subsection.\" The District Court sentenced Deal to 5 years' imprisonment on the first section 924(c)(1) count and to 20 years on each of the five other counts, the terms to run consecutively. The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>Yes. In a 6-3 opinion delivered by Justice Antonin Scalia, the Court held that Deal's second through sixth convictions in a single proceeding arose \"in the case of his second or subsequent conviction\" within the meaning of section 924(c)(1), finding that the statute was not ambiguous. The Court rejected that the rule of lenity applied because Deal's \"105-year sentence 'is so glaringly unjust.'\" Writing for the court, Justice Scalia said the 105 years sentence for the gun offenses was not unjust \"simply because [Deal] managed to evade detection, prosecution and conviction for the first five offenses and was ultimately tried for all six in a single proceeding.\" Justice Stevens wrote a dissenting opinion, in which Justices Sandra Day O'Connor and Harry A. Blackmun joined.</p>\n"
+}

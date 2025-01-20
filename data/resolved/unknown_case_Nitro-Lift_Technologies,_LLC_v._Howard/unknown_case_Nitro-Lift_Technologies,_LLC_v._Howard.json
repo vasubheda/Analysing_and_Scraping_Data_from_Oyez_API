@@ -1,0 +1,35 @@
+{
+    "ID": 55925,
+    "name": "Nitro-Lift Technologies, LLC v. Howard",
+    "href": "https://api.oyez.org/cases/2012/11-1377",
+    "view_count": 0,
+    "docket_number": "11-1377",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1353909600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41138"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1353909600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41139"
+        }
+    ],
+    "question": "<p>Did the Oklahoma Supreme Court err in preventing the arbitration of the non competition agreement?</p>\n",
+    "citation": {
+        "volume": "568",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19847"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that the Federal Arbitration Act supersedes any conflicting state statute or policy.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/568/17/",
+    "facts_of_the_case": "<p>Eddie Lee Howard and Shane D. Schneider worked for Nitro-Lift Technologies LLC. As a condition of employment, they entered into confidentiality and noncompetition agreements that contained a clause requiring any dispute between Nitro-Lift and its employees to be settled in arbitration. When Howard and Schneider quit, they went to work for one of Nitro-Lift's competitors. Nitro-Lift demanded arbitration for breach of the noncompetition agreements. Howard and Schneider sued in the District Court of Johnson County, Oklahoma, asking the court to declare their noncompetition agreements null and void. The court dismissed the case, holding that the agreements contained a valid arbitration clause, so the arbitrator had to settle any dispute between the parties. On appeal, Nitro-Lift cited several U.S. Supreme Court cases interpreting the Federal Arbitration Act (FAA), noting that the law favoring arbitration applied in both federal and state cases. Despite this, the Oklahoma Supreme Court reversed, holding that the existence of an arbitration clause did not prohibit judicial review of the underlying agreement. The court went on to find the noncompetition agreements \"void and unenforceable as against Oklahoma's public policy.\"</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion, the Supreme Court vacated the lower judgment and remanded for further proceedings. The Court held that the Oklahoma Supreme Court clearly erred in disregarding binding precedent. The FAA is the \"supreme law of the land,\" giving it priority over any conflicting state statute or policy. The FAA provides that a court may review the enforceability of the arbitration clause itself, but if the clause is valid, the validity of the remainder of the agreement is for the arbitrator to decide.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 63429,
+    "name": "ZF Automotive US, Inc. v. Luxshare, Ltd.",
+    "href": "https://api.oyez.org/cases/2021/21-401",
+    "view_count": 0,
+    "docket_number": "21-401",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1639116000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55005"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1648011600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55060"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1655096400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55112"
+        }
+    ],
+    "question": "<p>Does 28 U.S.C. \u00a7 1782(a), which gives federal district courts authority to order litigants subject to their jurisdiction to give testimony or produce documents \u201cfor use in a foreign or international tribunal,\u201d apply to private commercial arbitral tribunals?</p>\n",
+    "citation": {
+        "volume": "596",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27860"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held that a federal law that gives district courts the discretion to order someone in that district to give testimony or produce documents \u201cfor use in a foreign or international tribunal\u201d does not apply to private commercial arbitral tribunals.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/596/21-401/",
+    "facts_of_the_case": "<p>In August 2017, Luxshare entered into a large-scale business deal with ZF Automotive US, and the deal closed in April 2018. Luxshare allegedly discovered that ZF fraudulently concealed certain material facts, inflating the purchase price.</p>\n<p>The parties\u2019 purchase agreement required that all disputes be settled by three arbitrators in Germany, and Luxshare intended to bring claims for the losses as a result of ZF\u2019s allegedly wrongful conduct. However, it first sought to obtain discovery from ZF and its senior officers and asked a federal district court to compel discovery under 28 U.S.C. 1782(a).</p>\n",
+    "conclusion": "<p>Although 28 U.S.C. \u00a71782(a) permits a district court to order discovery \u201cfor use in a proceeding in a foreign or international tribunal,\u201d only a governmental or intergovernmental adjudicative body may qualify as such a tribunal, and the arbitration panels in these cases are not such adjudicative bodies. Justice Amy Coney Barrett authored the unanimous opinion of the Court.</p>\n<p>The word \u201ctribunal\u201d in the context of \u00a7 1782, with modifiers \u201cforeign or international\u201d is best understood to refer to an adjudicative body that exercises governmental authority. The statute\u2019s history confirms this understanding, as does analogy to the Federal Arbitration Act. The adjudicative bodies in these cases are not governmental or intergovernmental and thus are not subject to \u00a7 1782(a).</p>\n"
+}

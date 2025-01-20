@@ -1,0 +1,35 @@
+{
+    "ID": 55720,
+    "name": "Stok & Associates, P.A. v. Citibank, N.A.",
+    "href": "https://api.oyez.org/cases/2010/10-514",
+    "view_count": 0,
+    "docket_number": "10-514",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1298354400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40584"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1306990800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40585"
+        }
+    ],
+    "question": "<p>Under the Federal Arbitration Act, should a party be required to demonstrate prejudice after the opposing party waives its contractual right to arbitrate by participating in litigation?</p>\n",
+    "citation": {
+        "volume": "565",
+        "page": null,
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19642"
+    },
+    "term": "2010",
+    "description": "A case the Court dismissed, which would have considered whether under the Federal Arbitration Act, a party is required to demonstrate prejudice after the opposing party waives its contractual right to arbitrate by participating in litigation. ",
+    "justia_url": null,
+    "facts_of_the_case": "<p>In November 2008, Stok &amp; Associates, a Florida law firm, deposited a cashier's check for $173,015 from someone the firm thought was a client into its Citibank trust account. After Citibank accepted the check and made the funds available, the bank discovered the check was counterfeit and restricted Stok's use of the funds. The problem was the firm had already wired the money to the Bank of Tokyo-Mitsubishi. Stok said Citibank then removed $173,015 from his trust account and notified the Florida Bar of the deficiency in the trust account.</p>\n<p>The firm filed a lawsuit in Florida state court, alleging fraud and breach of contract, among other things. Citibank meanwhile filed a petition in federal court to compel arbitration and stay the state court proceedings, pursuant to an arbitration clause that appears in the contract governing the parties' relationship. The district court denied the motion to compel arbitration, but the United States Court of Appeals for the Eleventh Circuit reversed.</p>\n",
+    "conclusion": "<p>Not decided. Prior to arguments, the Court dismissed this case via Court Rule 46.</p>\n"
+}

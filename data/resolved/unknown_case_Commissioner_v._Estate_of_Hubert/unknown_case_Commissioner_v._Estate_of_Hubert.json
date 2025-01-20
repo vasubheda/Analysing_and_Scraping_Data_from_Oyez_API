@@ -1,0 +1,35 @@
+{
+    "ID": 54517,
+    "name": "Commissioner v. Estate of Hubert",
+    "href": "https://api.oyez.org/cases/1996/95-1402",
+    "view_count": 0,
+    "docket_number": "95-1402",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                847778400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37829"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                858664800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37830"
+        }
+    ],
+    "question": "<p>Does the cost of administering an estate necessarily reduce the allowed estate-tax deduction for assets left to a spouse or charity?</p>\n",
+    "citation": {
+        "volume": "520",
+        "page": "93",
+        "year": "1997",
+        "href": "https://api.oyez.org/case_citation/case_citation/18446"
+    },
+    "term": "1996",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/520/93/",
+    "facts_of_the_case": "<p>The executors of Otis C. Hubert's substantial estate filed a federal estate tax return about a year after his death. Subsequently, the Commissioner of Internal Revenue issued a notice of deficiency, claiming underreporting of federal estate tax liability caused by the estate's asserted entitlement to marital and charitable deductions. While the estate's redetermination petition was pending in the Tax Court, the interested parties settled on the use of the estate's assets. The agreement divided the estate's principal, assumed to be worth $26 million, equally between marital trusts and a charitable trust. It also provided that the estate would pay its administration expenses either from the principal or the income of the assets. The estate paid about $500,000 of its nearly $2 million of administration expenses from principal and the rest from income. It then recalculated its tax liability, reducing the marital and charitable deductions by the amount of principal, but not the amount of income, used to pay the expenses. The Commissioner concluded that using income for expenses required a dollar for dollar reduction of the deductions. The Tax Court disagreed, finding that no reduction was required by reason of the executors' power, or the exercise of their power, to pay administration expenses from income. The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>No. In an opinion authored by Justice Anthony M. Kennedy, the Court ruled that a taxpayer does not have to reduce the estate tax deduction for marital or charitable bequests by the amount of the administration expenses that were paid from income generated during administration by assets allocated to those bequests. \"When income is used . . . to pay administration expenses, this does not require the estate tax deductions be diminished,\" wrote Justice Kennedy.</p>\n"
+}

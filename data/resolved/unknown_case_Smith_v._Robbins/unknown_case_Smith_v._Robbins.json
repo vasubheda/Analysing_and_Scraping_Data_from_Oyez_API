@@ -1,0 +1,35 @@
+{
+    "ID": 54789,
+    "name": "Smith v. Robbins",
+    "href": "https://api.oyez.org/cases/1999/98-1037",
+    "view_count": 0,
+    "docket_number": "98-1037",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                939099600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38328"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                948261600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38329"
+        }
+    ],
+    "question": "<p>Does California's no-merit brief procedure, in which defense counsel has concluded that an appeal would be frivolous, violate a defendant's right to the effective assistance of appellate counsel?</p>\n",
+    "citation": {
+        "volume": "528",
+        "page": "259",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18718"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/528/259/",
+    "facts_of_the_case": "<p>A California state-court jury convicted Lee Robbins of second degree murder and grand theft auto. After the trial, in which Robbins defended himself, his appointed counsel on appeal concluded that an appeal would be frivolous. Under a new California procedure, established in People v. Wende, Robbins' counsel then filed with the California Court of Appeal to allow him to withdraw or to let the court dispose of the case by filing a brief that was silent on the merits of the case and offered to brief issues at the court's direction. The court affirmed and, after Robbins appealed his own case, the California Supreme Court denied review. After exhausting his state post-conviction remedies, Robbins sought federal habeas corpus relief, arguing that he had been denied effective assistance of appellate counsel. The Federal District Court granted Robbins' petition and concluded that his counsel failed to meet even the minimum duty to further a client's case after determining that his appeal was without merit. The Court of Appeals affirmed, but remanded the case for the District Court to consider other trial errors raised by Robbins.</p>\n",
+    "conclusion": "<p>No. In a 5-4 opinion delivered by Justice Clarence Thomas, the Court held that \"States are free to adopt different procedures, so long as those procedures adequately safeguard a defendant's right to appellate counsel,\" as does California's procedure. Justice Thomas wrote for the Court that California's procedure \"reasonably ensures that an indigent's appeal will be resolved in a way that is related to the merit of that appeal. Whatever its strengths or weaknesses as a matter of policy, we cannot say that it fails to afford indigents the adequate and effective appellate review that the Fourteenth Amendment requires.\" The dissenting minority collectively noted that California's procedures allowed attorneys to remain too passive.</p>\n"
+}

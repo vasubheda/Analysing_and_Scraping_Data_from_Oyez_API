@@ -1,0 +1,35 @@
+{
+    "ID": 54180,
+    "name": "Board of Education of Kiryas Joel Village School District v. Grumet",
+    "href": "https://api.oyez.org/cases/1993/93-517",
+    "view_count": 0,
+    "docket_number": "93-517",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                765007200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37206"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                772693200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37207"
+        }
+    ],
+    "question": "<p>Did the 1989 statute violate the First Amendment's Establishment?</p>\n",
+    "citation": {
+        "volume": "512",
+        "page": "687",
+        "year": "1994",
+        "href": "https://api.oyez.org/case_citation/case_citation/18109"
+    },
+    "term": "1993",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/512/687/",
+    "facts_of_the_case": "<p>In 1989, the New York legislature passed a school districting law that intentionally drew its boundaries in accordance with the boundaries of the Village of Kiryas Joel, a religious enclave of Satmar Hasidim who practice a strict form of Judaism. Shortly before the new district commenced operations, the taxpayers and the association of state school boards embarked on a lawsuit claiming that the statute created a school district that limited access only to residents of Kiryas Joel.</p>\n",
+    "conclusion": "<p>Yes. In a 6-to-3 decision, the Court held that the statute's purpose was to exclude all but those who lived in and practiced the village enclave's extreme form of Judaism. This exclusionary intent failed to respect the Establishment Clause's requirement that states maintain a neutral position with respect to religion, because it clearly created a school zone which excluded those who were non-religious and/or did not practice Samtar Hasidism. Indeed, the very essence of the Establishment Clause is that government should not demonstrate a preference for one religion over another, or religion over non-religion in general.</p>\n"
+}

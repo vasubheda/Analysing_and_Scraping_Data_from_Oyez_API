@@ -1,0 +1,33 @@
+{
+    "ID": 63728,
+    "name": "Esteras v. United States",
+    "href": "https://api.oyez.org/cases/2024/23-7483",
+    "view_count": 0,
+    "docket_number": "23-7483",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1729918800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55565"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1740463200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55585"
+        }
+    ],
+    "question": "<p>When revoking supervised release and imposing a prison sentence, may a district court consider the sentencing factors in 18 U.S.C. \u00a7 3553(a)(2)(A)\u2014namely, \u201cthe seriousness of the offense,\u201d \u201cpromot[ing] respect for the law,\u201d and \u201cjust punishment\u201d\u2014even though these factors are not explicitly referenced in the supervised release statute?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28054"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether a court may, in considering whether to revoke an individual\u2019s supervised release and impose a prison sentence, consider factors from the law governing sentencing not mentioned in the supervised release law.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-7483/"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55145,
+    "name": "United States v. Flores-Montano",
+    "href": "https://api.oyez.org/cases/2003/02-1794",
+    "view_count": 0,
+    "docket_number": "02-1794",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1066107600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39022"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1077688800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39023"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1080626400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39024"
+        }
+    ],
+    "question": "<p>Does the Fourth Amendment require customs officers at the international border to have reasonable suspicion in order to remove, disassemble, and search a vehicle's gas tank for illegal material?</p>\n",
+    "citation": {
+        "volume": "541",
+        "page": "149",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19074"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/541/149/",
+    "facts_of_the_case": "<p>When Manuel Flores-Montano approached the U.S.-Mexico border, U.S. Customs inspectors noticed his hand shaking; an inspector tapped Flores-Montano's gas tank with a screwdriver and noticed that the tank sounded solid; a drug-sniffing dog alerted to the vehicle. After a mechanic began disassembling the car's fuel tank, inspectors found 37 kilograms of marijuana bricks in the tank.</p>\n<p>Flores-Montano was charged in federal district court in California for importing and possessing marijuana with intent to distribute. Flores-Montano moved to suppress the marijuana finding on Fourth Amendment grounds. He argued that the search that yielded the marijuana finding was intrusive and non-routine and therefore required reasonable suspicion (which, he argued, was not present in his case).</p>\n<p>Relying on U.S. v. Molina-Tarazon, a case decided by the U.S. Ninth Circuit Court of Appeals in 2002 (with similar circumstances), the district court agreed that the search was non-routine and thus required reasonable suspicion. The government, the court held, failed to prove that reasonable suspicion prompted its search. The Ninth Circuit Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Chief Justice William Rehnquist, the Court held that the government had authority to inspect a vehicle's fuel tank at the border without suspicion. Though the Fourth Amendment \"'protects property as well as privacy,'\" interference with a vehicle owner's gas tank \"is justified by the Government's paramount interest in protecting the border.\" The Court rejected the argument that the requirement of suspicion for highly intrusive searches of people be carried over to cars (especially at the border): \"Complex balancing tests...have no place in border searches of vehicles.\"</p>\n"
+}

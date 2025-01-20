@@ -1,0 +1,42 @@
+{
+    "ID": 62811,
+    "name": "Bristol-Myers Squibb Co. v. Superior Court of California",
+    "href": "https://api.oyez.org/cases/2016/16-466",
+    "view_count": 0,
+    "docket_number": "16-466",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1484805600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53969"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1493096400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54028"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1497848400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54060"
+        }
+    ],
+    "question": "<p>Do a plaintiff\u2019s claims sufficiently arise out of or relate to a defendant\u2019s forum activities to create specific jurisdiction when the plaintiff\u2019s claims would be exactly the same even if the defendant had no forum contacts?</p>\n",
+    "citation": {
+        "volume": "582",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27505"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that, when the plaintiffs\u2019 claims would have been exactly the same even if the defendant had no forum state contacts, there is no basis for specific jurisdiction because the case does not sufficiently arise out of or relate to the defendant\u2019s forum activities.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/582/16-466/",
+    "facts_of_the_case": "<p>Bristol-Myers Squibb Co. (BMS) is a global pharmaceutical company incorporated in Delaware and headquartered in New York. BMS manufactures Plavix, a prescription drug intended to prevent blood clotting, and markets and sells the drug nationwide, including in California. In addition, BMS maintains five offices in California, four research facilities, and one government affairs office, as well as 250 sales representatives. In eight amended complaints filed with the San Francisco Superior Court, 86 California residents and 575 non-California residents joined in suing BMS and McKesson Corporation, a California-based Plavix distributor, on individual product defect claims. Each alleged serious side effects from their use of Plavix, that BMS had misrepresented the drug\u2019s safety and efficacy, and asserted numerous California product liability causes of action against BMS. BMS moved to dismiss the claims for lack of personal jurisdiction in California. BMS argued that these claims had no link to its California activities, as the nonresident plaintiffs were not injured by Plavix in California, had not been prescribed Plavix in California, and had not received Plavix distributed by McKesson from California. Additionally, BMS did not research or manufacture Plavix at its facilities in California. The trial court denied BMS\u2019s motion and held that the company was subject to the California court\u2019s general jurisdiction because it had \u201cwide-ranging, continuous, and systematic activities in California.\u201d The California Court of Appeal rejected the trial court\u2019s assessment that BMS was subject to general jurisdiction in California, but held that the nonresident plaintiffs\u2019 claims were sufficiently related to BMS\u2019s California activities to support specific jurisdiction. The California Supreme Court affirmed and held that BMS\u2019s nationwide marketing and distribution created a \u201csubstantial nexus\u201d between the nonresident plaintiffs\u2019 claims and BMS\u2019s activities in California because the claims were based on the same allegedly defective product and misleading marketing that allegedly caused injury both in and outside of California. </p>\n",
+    "conclusion": "<p>When the plaintiffs\u2019 claims would have been exactly the same even if the defendant had no forum state contacts, there is no basis for specific jurisdiction because the case does not sufficiently arise out of or relate to the defendant\u2019s forum activities. Justice Samuel A. Alito, Jr. delivered the opinion for the 8-1 majority. The Court held that the exercise of personal jurisdiction must comport with the requirements of the Due Process Clause of the Fourteenth Amendment, which examined whether the defendant had a sufficient relationship with the state to subject it to jurisdiction. For general personal jurisdiction to apply, a corporation must be incorporated or headquartered within the state seeking to assert jurisdiction. For specific, or case-linked, jurisdiction, the suit had to arise out of the defendant\u2019s contacts with the forum state. Therefore, there must be a connection between the controversy at issue and the state seeking to exercise specific jurisdiction. In this case, the relevant plaintiffs were not California residents and did not claim to have suffered harm there; all the relevant acts occurred outside of California. Therefore, this case did not sufficiently arise out of or relate to the defendant\u2019s contacts with California for California to exercise specific jurisdiction.</p>\n<p>Justice Sonia Sotomayor wrote a dissent in which she argued that the majority opinion would make it unnecessarily difficult to hold a nationwide corporation liable for acts that harm plaintiffs in different states. The basis for personal jurisdiction was whether the defendant had sufficient minimum contacts with a state such that subjecting the defendant to a lawsuit within that state did not offend \u201ctraditional notions of fair play and substantial justice.\u201d Within this framework, the exercise of specific jurisdiction is appropriate when a defendant purposefully availed itself of the privileges of doing business in the forum state, when the claim arose out of or related to the defendant\u2019s contacts with the state, and when the exercise of jurisdiction was reasonable under the circumstances. Applying these factors to this case showed that California had specific jurisdiction over these claims. By holding otherwise, the majority made it more difficult for plaintiffs to aggregate their claims, which would likely lead to an increase in litigation and make it easier for corporate defendants to avoid liability.</p>\n"
+}

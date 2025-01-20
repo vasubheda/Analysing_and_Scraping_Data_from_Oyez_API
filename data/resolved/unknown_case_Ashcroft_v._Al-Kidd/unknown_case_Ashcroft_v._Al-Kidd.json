@@ -1,0 +1,42 @@
+{
+    "ID": 55735,
+    "name": "Ashcroft v. Al-Kidd",
+    "href": "https://api.oyez.org/cases/2010/10-98",
+    "view_count": 0,
+    "docket_number": "10-98",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1287378000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40624"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1299045600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40625"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1306818000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40626"
+        }
+    ],
+    "question": "<p>Is the former government official entitled to qualified immunity from the pretext claim based on the conclusions that (a) the Fourth Amendment prohibits an officer from executing a valid material witness warrant with the intent of conducting further investigation or preventively detaining the subject; and (b) this Fourth Amendment rule was clearly established at the time of Al-Kidd's arrest?</p>\n",
+    "citation": {
+        "volume": "563",
+        "page": "731",
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19657"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that former Attorney General John Ashcroft was entitled to qualified immunity.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/563/731/",
+    "facts_of_the_case": "<p>In 2003, the FBI arrested Abdullah al-Kidd as he was preparing to travel to Saudi Arabia to study Arabic and Islamic law. He was held for 16 days as a material witness in the terrorism trial of Sami Omar al-Hussayen. Al-Kidd has since argued the government classified him as a material witness because it lacked enough evidence to hold him as a suspect. He filed a lawsuit against then-Attorney General John Ashcroft personally, claiming that he created and authorized a program that allegedly misused the material witness statute to detain suspected terrorists.</p>\n<p>The lawsuit did not go to trial and in September 2009, the U.S. Court of Appeals for the Ninth Circuit rejected Ashcroft's bid for absolute immunity, holding that it didn't apply because the government's motive for arresting Al-Kidd allegedly had nothing to do with the al-Hussayen prosecution.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court reversed the lower court order in an opinion by Justice Antonin Scalia. \"Efficient and even-handed application of the law demands that we look to whether the arrest is objectively justified, rather than to the motive of the arresting officer,\" Scalia wrote.</p>\n<p>Justice Anthony Kennedy filed a concurring opinion, in which Justices Ruth Bader Ginsburg, Stephen Breyer and Sonia Sotomayor joined as to Part I. Kennedy expressed concern that the court's \"holding is limited to the arguments presented by the parties and leaves unresolved whether the government's use of the Material Witness Statute in this case was lawful.\"</p>\n<p>Ginsburg filed a separate opinion concurring in the judgment, in which Justices Breyer and Sotomayor joined. Ginsburg also addressed the Material Witness Statute and wrote that Al-Kidd's \"ordeal is a grim reminder of the need to install safeguards against disrespect for human dignity, constraints that will control officialdom even in perilous times.\"</p>\n<p>Meanwhile, Justice Sotomayor filed an opinion concurring in the judgment, in which Justices Ginsburg and Breyer joined. \"Whether the Fourth Amendment permits the pretextual use of a material witness warrant for preventive detention of an individual whom the Government has no intention of using at trial is, in my view, a closer question than the majority's opinion suggests,\" Sotomayor declared.</p>\n<p>Justice Elena Kagan took no part in consideration of the case.</p>\n"
+}

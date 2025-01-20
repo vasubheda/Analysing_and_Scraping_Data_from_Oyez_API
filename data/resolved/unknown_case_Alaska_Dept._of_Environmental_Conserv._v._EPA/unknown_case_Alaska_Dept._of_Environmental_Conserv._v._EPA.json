@@ -1,0 +1,42 @@
+{
+    "ID": 55174,
+    "name": "Alaska Dept. of Environmental Conserv. v. EPA",
+    "href": "https://api.oyez.org/cases/2003/02-658",
+    "view_count": 0,
+    "docket_number": "02-658",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1046066400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39103"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1065589200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39104"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1074664800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39105"
+        }
+    ],
+    "question": "<p>Under the Clean Air Act, does the Environmental Protection Agency have the authority to overrule a state agency's decision that a company is using the \"best available controlling technology\" to prevent pollution?</p>\n",
+    "citation": {
+        "volume": "540",
+        "page": "461",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19102"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/540/461/",
+    "facts_of_the_case": "<p>Under the Clean Air Act, state agencies must determine the best way to prevent air pollution in areas that have met national clean air standards. In part, they must require that polluting companies use the \"best available control technology\" to limit pollution whenever they construct new facilities. In 1998, Teck Cominco Alaska, a mining company, requested a permit to build an additional generator at one of its mines. The Alaska Department of Environmental Conservation (ADEC) issued the permit, which called for Cominco to use \"Low NOx\" technology on all its generators, not just the new one. The Environmental Protection Agency (EPA), however, stepped in, arguing that a better technology was available. ADEC appealed the EPA's decision to the Ninth Circuit Court of Appeals, arguing that the EPA did not have the right to interfere with the state agency's decision. The Ninth Circuit sided with the EPA.</p>\n",
+    "conclusion": "<p>Yes. In a 5-4 opinion delivered by Justice Ruth Bader Ginsburg, the Court held that the Clean Air Act authorized the EPA to bar the construction of the polluting facility in Alaska. Though Alaska determined the facility's use of \"Low NOx\" met the act's requirement that facilities use \"best available control technology,\" the EPA was reasonable to reject this claim. Justice Anthony Kennedy delivered a dissent joined by Justices Clarence Thomas, Antonin Scalia and Chief Justice William Rehnquist.</p>\n"
+}

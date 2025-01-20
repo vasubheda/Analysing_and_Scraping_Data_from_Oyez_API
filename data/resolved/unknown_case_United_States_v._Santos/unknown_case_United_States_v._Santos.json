@@ -1,0 +1,42 @@
+{
+    "ID": 55522,
+    "name": "United States v. Santos",
+    "href": "https://api.oyez.org/cases/2007/06-1005",
+    "view_count": 0,
+    "docket_number": "06-1005",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1177304400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40053"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1191387600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40054"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1212382800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40055"
+        }
+    ],
+    "question": "<p>In the federal money laundering statute 18 U.S.C. 1956(a)(1), which makes it a crime to use the proceeds of an illegal activity to promote the activity or conceal the proceeds, does the word \"proceeds\" refer to the gross income received from the illegal activity or to the net income (profits, or gross income minus expenses)?</p>\n",
+    "citation": {
+        "volume": "553",
+        "page": "507",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20716"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/553/507/",
+    "facts_of_the_case": "<p>For his role in running an illegal lottery or \"bolita,\" Efrain Santos was convicted on charges of illegal gambling and money laundering. Santos had used income from the lottery to pay both the winners and the couriers and collectors who worked for the gambling operation. The money laundering charges were based on 18 U.S.C. 1956(a)(1), which criminalizes the use of the \"proceeds\" of an illegal activity to promote or conceal that activity. However, federal courts disagreed on the meaning of \"proceeds.\" The U.S. Court of Appeals for the Third Circuit had ruled that the proceeds used in money laundering can be any of the gross income obtained from the illegal activity, but the U.S. Court of Appeals for the Seventh Circuit, which had jurisdiction over Santos's case, had recently ruled that only net income (gross revenues minus expenses) used to promote or conceal illegal activities can be the basis of a money laundering conviction. Because Santos had only used gross revenues to promote his lottery, the District Court reversed the convictions.</p>\n<p>The government argued on appeal that the Seventh Circuit's interpretation would put too great a burden on prosecutions, because the bookkeeping of criminal operations is often purposefully incomplete or misleading in order to obscure the distinction between gross and net income. The narrow interpretation would also restrict money laundering prosecutions to criminal enterprises that are actually profitable. Santos countered that the government's broad interpretation would result in overlapping convictions for a wide variety of offenders charged with both money laundering and the underlying crime. He argued that the government's interpretation strayed too far from the traditional understanding of money laundering, which focuses on the subsequent disguising of profits obtained from a criminal venture. The Seventh Circuit ruled for Santos and affirmed its original ruling.</p>\n",
+    "conclusion": "<p>Splitting 5 to 4, the Court affirmed the Seventh Circuit, answering that \"proceeds\" refers to \"net income\" or profits and not to \"gross income.\" Because the statute nowhere defines the term \"proceeds\", the plurality applied the so-called rule of lenity which requires such ambiguous statutes to be interpreted in favor of defendants. Justice Antonin Scalia announced the judgment and wrote a plurality opinion for himself and three other justices. Justice John Paul Stevens concurred in the judgment. Justice Samuel Alito wrote a dissenting opinion, joined by Chief Justice John G. Roberts, Jr., Justices Anthony Kennedy and Stephen G. Breyer.</p>\n"
+}

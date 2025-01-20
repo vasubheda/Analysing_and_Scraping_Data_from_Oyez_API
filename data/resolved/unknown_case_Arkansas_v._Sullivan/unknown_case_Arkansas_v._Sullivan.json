@@ -1,0 +1,28 @@
+{
+    "ID": 54942,
+    "name": "Arkansas v. Sullivan",
+    "href": "https://api.oyez.org/cases/2000/00-262",
+    "view_count": 0,
+    "docket_number": "00-262",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                991112400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38623"
+        }
+    ],
+    "question": "<p>Did the Arkansas Supreme Court err by taking into account an officer's subjective motivation in its probable-cause Fourth Amendment analysis contrary to the U.S. Supreme Court's controlling precedent, Whren v. United States?</p>\n",
+    "citation": {
+        "volume": "532",
+        "page": "769",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18871"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>In 1998, Officer Joe Taylor of the Conway, Arkansas, Police Department stopped Kenneth Andrew Sullivan for traffic violations. When Officer Taylor saw Sullivan's license, he realized that he was aware of narcotics intelligence regarding him. Sullivan was then arrested. Afterwards Officer Taylor conducted an inventory search of Sullivan's vehicle and discovered methamphetamine as well as items of drug paraphernalia. Ultimately, Sullivan was charged with various state-law drug offenses, unlawful possession of a weapon, and speeding. Sullivan moved to suppress the evidence seized from his vehicle on the basis that his arrest was merely a \"pretext and sham to search\" him and, therefore, violated the Fourth and Fourteenth Amendments. The trial court granted the motion and the Arkansas Supreme Court affirmed. In petitioning for rehearing, the State argued that the court had erred by taking into account Office Taylor's subjective motivation using Whren v. United States, which makes \"the ulterior motives of police officers...irrelevant so long as there is probable cause for the traffic stop.\" The court rejected the argument and denied the petition.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion, the Court held that the Arkansas Supreme Court's decision was contrary to the U.S. Supreme Court's controlling precedent, which held that police officers' subjective intentions played no role in ordinary, probable-cause Fourth Amendment analysis, and reversed its decision. In addressing the Arkansas court's alternative holding, that it could interpret the U.S. Constitution to provide greater protection than the U.S. Supreme Court, the Court reiterated that while a State may impose greater restrictions, it \"may not impose such greater restrictions as a matter of federal constitutional law when this Court specifically refrains from imposing them.\" Justice Ruth Bader Ginsburg wrote a concurring opinion, which was joined by Justices John Paul Stevens, Sandra Day O'Connor, and Stephen G. Breyer.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55997,
+    "name": "Air Wisconsin Airlines Corp. v. Hoeper",
+    "href": "https://api.oyez.org/cases/2013/12-315",
+    "view_count": 0,
+    "docket_number": "12-315",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1371445200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41321"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1386568800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41322"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1390802400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41569"
+        }
+    ],
+    "question": "<p>1. Must a trial court decide whether the Aviation and Transportation Security Act grants immunity to a party before trial?</p>\n<p>2. Does the Free Speech Clause of the First Amendment require a court to independently examine the record when reviewing a defamation case?</p>\n",
+    "citation": {
+        "volume": "571",
+        "page": "237",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/20881"
+    },
+    "term": "2013",
+    "description": "A case in which the Court ruled that the Aviation and Transportation Security Act protects transportation officials from false statements, as long as the statements are not materially false within the ATSA context.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/571/237/",
+    "facts_of_the_case": "<p>Section 125 of the Aviation Transportation Safety Act (ATSA) states that an air carrier who voluntarily reports suspicious transactions or behavior shall not be \"civilly liable.\" The immunity does not apply to disclosures made with \"actual knowledge\" that the disclosure is false, inaccurate, or misleading. Likewise, the immunity does not extend to an air carrier that makes a disclosure with \"reckless disregard\" as to its truth or falsity.</p>\n<p>William Hoeper, a pilot for Air Wisconsin, made four unsuccessful attempts to become certified to fly another type of aircraft after Air Wisconsin discontinued use of the type of plane that Hoeper had previously piloted. During his fourth and final opportunity to pass the test, Hoeper abruptly ended the test because he believed that the test administrators were deliberately sabotaging his efforts to pass. One test administrator knew that the Transportation Security Administration (TSA) had issued a firearm to Hoeper in his role as a federal flight deck officer (FFDO). FFDO pilots are not allowed to carry the firearm while traveling as passengers. This administrator booked Hoeper on a flight from the testing center in Virginia to Hoeper's home in Denver and then called the TSA to report that Hoeper was a disgruntled, and possibly armed, employee. In response, TSA officials arrested and searched Hoeper.</p>\n<p>Hoeper sued Air Wisconsin in a Colorado state court and alleged defamation under Virginia law. Air Wisconsin moved for a directed verdict based on the argument that it was immune from civil liability under ATSA. Air Wisconsin also argued that Hoeper could not prove \"actual malice\" because its statements were \"substantially true\" and therefore protected by the Free Speech Clause of the First Amendment. The trial court denied the motion to dismiss. The jury found that Air Wisconsin's statements to the TSA were false and that it made at least one statement with reckless disregard for the truth, so the jury awarded Hoeper damages. A Colorado appellate court affirmed the verdict. The Colorado Supreme Court held that the trial court's submission of the matter to the jury was improper; however, the error was harmless in this case because Air Wisconsin was not entitled to claim immunity under ATSA. The Colorado Supreme Court further held that substantial evidence supported the jury's finding that the statements were false.</p>\n",
+    "conclusion": "<p>No. Justice Sonia Sotomayor delivered the opinion for the 6-3 majority. The Court held that ATSA immunity protects false statements, as long as they are not materially false within the ATSA context, which means that they would not affect a reasonable security officer's perception of and response to a particular threat. Although Air Wisconsin's report to the TSA contained slight inaccuracies, they would not have influenced a TSA security officer's desire to investigate Hoeper, given the true facts that he was an FFDO and upset about losing his job. The Court further held that the Colorado Supreme Court erred in its analysis of material falsity and that Air Wisconsin was entitled to ATSA immunity as a matter of law.</p>\n<p>Justice Antonin Scalia wrote an opinion concurring in part and dissenting in part in which he argued that, while he agreed with the majority opinion's ATSA immunity analysis, he would have remanded the case for further proceedings. He argued that the issue of material falsity was an important question for the jury and that a reasonable jury could find that Hoeper's conduct did not justify the making of any report to the TSA. Justice Clarence Thomas and Justice Elena Kagan joined in the opinion concurring in part and dissenting in part.</p>\n"
+}

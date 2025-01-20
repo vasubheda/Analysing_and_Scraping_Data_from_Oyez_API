@@ -1,0 +1,42 @@
+{
+    "ID": 55320,
+    "name": "Wisconsin Right to Life, Inc. v. Federal Election Commission",
+    "href": "https://api.oyez.org/cases/2005/04-1581",
+    "view_count": 0,
+    "docket_number": "04-1581",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1127797200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39508"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1137477600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39509"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1137996000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39510"
+        }
+    ],
+    "question": "<p>Does <em>McConnell v. Federal Election Commission</em> (2003) allow \"as-applied\" challenges to the Bipartisan Campaign Reform Act's prohibitions on corporate funding of political advertisements?</p>\n",
+    "citation": {
+        "volume": "546",
+        "page": "410",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20599"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/546/410/",
+    "facts_of_the_case": "<p>The Bipartisan Campaign Reform Act of 2002 (BCRA) prohibits corporate funds from being used for certain political advertisements in the 60-day period prior to an election. Wisconsin Right to Life (WRTL) ran a series of television advertisements encouraging viewers to contact two U.S. Senators and tell them to oppose judicial filibusters. WRTL anticipated that the ads would probably run afoul of BCRA and sued the Federal Election Commission (FEC), seeking an order barring the FEC from enforcing BCRA against the ads. WRTL's suit alleged that BCRA is unconstitutional as it applies to the ads, which it claimed are \"grassroots lobbying advertisements\" unrelated to electoral campaigning. The FEC argued that the Supreme Court in McConnell v. Federal Election Commission (2003) had ruled out all \"as-applied\" challenges to BCRA. The U.S. District Court for D.C. agreed and denied WRTL's motion.</p>\n",
+    "conclusion": "<p>Yes. The unanimous <em>per curiam opinion</em> reversed the District Court's judgment, allowing WRTL to proceed with its as-applied challenge. The opinion explained that the District Court had misinterpreted a footnote in McConnell that seemed to foreclose such challenges. The Justices instructed the lower court to consider the larger question of whether the BCRA is constitutional as applied to WRTL's ads.</p>\n"
+}

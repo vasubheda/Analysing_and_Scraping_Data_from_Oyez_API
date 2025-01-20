@@ -1,0 +1,42 @@
+{
+    "ID": 55251,
+    "name": "Norfolk Southern Railway Company v. James N. Kirby, Proprietary Limited",
+    "href": "https://api.oyez.org/cases/2004/02-1028",
+    "view_count": 0,
+    "docket_number": "02-1028",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1073628000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39315"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1097038800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39316"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1099980000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39317"
+        }
+    ],
+    "question": "<ol>\n<li>Did federal law govern the interpretation of the ICC and Hamburg Sud bills of lading (contracts)? 2. Was Norfolk entitled to the protection of the liability limitations in both bills?</li>\n</ol>\n",
+    "citation": {
+        "volume": "543",
+        "page": "14",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19179"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/543/14/",
+    "facts_of_the_case": "<p>James Kirby hired International Cargo Control (ICC) as a shipping intermediary to arrange a shipment of goods from Australia to Alabama. ICC issued Kirby a bill of lading (a contract that set shipping terms). The bill invoked liability limitations provided by the Carriage of Goods by Sea Act (COGSA). The bill also included a Himalaya Clause, which extended ICC's limitations of liability to companies ICC hired. ICC hired Hamburg Sud to transport the goods. Hamburg Sud issued ICC a bill of lading that also invoked COGSA protections and included a Himalaya Clause. Hamburg Sud carried the goods on a ship to Georgia and subcontracted Norfolk Southern Railroad to transport the goods inland to Alabama.</p>\n<p>The train derailed and Kirby sued Norfolk Southern to recover the $1.5 million in damages he claimed the derailment caused his goods. The district court ruled Norfolk Southern could limit its liability to Kirby on the basis of the Himalaya clause in the Hamburg Sud contract. The 11th Circuit Court of Appeals reversed and ruled the Hamburg Sud bill did not limit Norfolk Southern's liability to Kirby because Kirby was not bound by its terms.</p>\n",
+    "conclusion": "<p>Yes and yes. In a unanimous opinion delivered by Justice Sandra Day O'Connor, the Court held that federal law controlled the interpretation of both bills, because they were maritime contracts and the dispute was not inherently local. The Court also held that the 11th Circuit misinterpreted the bills as not protecting Norfolk.</p>\n"
+}

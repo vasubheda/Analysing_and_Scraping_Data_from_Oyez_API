@@ -1,0 +1,42 @@
+{
+    "ID": 63590,
+    "name": "Vidal v. Elster",
+    "href": "https://api.oyez.org/cases/2023/22-704",
+    "view_count": 0,
+    "docket_number": "22-704",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1685941200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55318"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1698814800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55356"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1718254800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55570"
+        }
+    ],
+    "question": "<p>Does the refusal to register a trademark under 15 U.S.C. \u00a7 1052(c) when the mark contains criticism of a government official or public figure violate the Free Speech Clause of the First Amendment?</p>\n",
+    "citation": {
+        "volume": "602",
+        "page": null,
+        "year": "2024",
+        "href": "https://api.oyez.org/case_citation/case_citation/27960"
+    },
+    "term": "2023",
+    "description": "A case in which the Court held the refusal to register a trademark under 15 U.S.C. \u00a7 1052(c) does not violate the Free Speech Clause of the First Amendment when the mark contains criticism of a government official or public figure.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/602/22-704/",
+    "facts_of_the_case": "<p>In 2018, Steve Elster attempted to register the phrase \u201cTRUMP TOO SMALL\u201d for use on various types of shirts, intending the mark to serve as political commentary on President Donald Trump and his policies. The Patent and Trademark Office (PTO) examiner rejected the application, citing two sections of the Lanham Act: Section 2(c), which prohibits registering a mark that identifies a living individual without their consent, and Section 2(a), which bars marks that falsely suggest a connection with living or dead persons. Elster appealed, arguing that the provisions infringed on his First Amendment rights and were not narrowly tailored to serve a compelling government interest. The Board upheld the examiner's decision based solely on Section 2(c), asserting that the statute is constitutional and serves compelling government interests, including the protection of individual rights and consumer protection. Elster appealed the decision, and the Federal Circuit reversed.</p>\n",
+    "conclusion": "<p>The Lanham Act\u2019s \u201cnames clause,\u201d which prohibits registering trademarks containing a living person\u2019s name without their consent, does not violate the Free Speech Clause of the First Amendment. Justice Clarence Thomas authored the 6-3 majority opinion of the Court.</p>\n<p>While the \u201cnames clause\u201d restriction is content-based since it depends on whether a mark contains a name, it is viewpoint-neutral because it applies regardless of the message. Due to trademark law\u2019s historical coexistence with the First Amendment and its inherently content-based nature, the restriction does not need to satisfy heightened scrutiny.</p>\n<p>There is a deep historical tradition of restricting the trademarking of names. Under common law, people could only trademark their own names and could not prevent others with the same name from using it. This tradition reflected two key principles: that people have ownership rights over their own names, and that trademarks serve to identify the source of goods and protect the reputation of their makers. The names clause follows this tradition by preventing people from exploiting others\u2019 names and reputations without consent, similar to how the Court previously upheld restrictions on using the word \u201cOlympic\u201d without the U.S. Olympic Committee\u2019s permission.</p>\n<p>Justice Brett Kavanaugh authored an opinion concurring in part, in which Chief Justice John Roberts joined.</p>\n<p>Justice Amy Coney Barrett authored an opinion concurring in part, in which Justice Elena Kagan joined, and in which Justices Sonia Sotomayor and Ketanji Brown Jackson joined in part.</p>\n<p>Justice Sotomayor authored an opinion concurring in the judgment, in which Justices Kagan and Jackson joined.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 62884,
+    "name": "Murphy v. Smith",
+    "href": "https://api.oyez.org/cases/2017/16-1067",
+    "view_count": 0,
+    "docket_number": "16-1067",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1503637200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54106"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1512540000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54134"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1519192800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54209"
+        }
+    ],
+    "question": "<p>Does the parenthetical phrase \u201cnot to exceed 25 percent,\u201d as used in 42 U.S.C. \u00a7 1997e(d)(2), mean any amount up to 25 percent (as four circuits hold), or exactly 25 percent (as the Seventh Circuit holds)?</p>\n",
+    "citation": {
+        "volume": "583",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27535"
+    },
+    "term": "2017",
+    "description": "A case in which the Court interpreted the parenthetical phrase \u201cnot to exceed 25 percent,\u201d as used in 42 U.S.C. \u00a7 1997e(d)(2), to mean exactly 25 percent, thereby precluding the district court from exercising its discretion to allocate a lower percentage of the damage award to attorney's fees.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/583/16-1067/",
+    "facts_of_the_case": "<p>Charles Murphy was an inmate in the Vandalia Correctional Center in Illinois. In July 2011, correctional officers hit Murphy, fracturing his eye socket, and did not provide him proper medical attention. Murphy sued under 42 U.S.C. \u00a7 1983 and state law theories. A jury returned a verdict in his favor and awarded him damages for some of his claims under state law, and the district court awarded him attorney fees under 42 U.S.C. \u00a7 1988. Two of the defendants appealed the judgment, arguing that the Illinois doctrine of sovereign immunity bars the state-law claims and that the Prison Litigation Reform Act requires that 25 percent of the damages awarded be used to pay the attorney fee award.</p>\n<p>The Seventh Circuit affirmed the district court's holding that the state officials or employees are not entitled to sovereign immunity against state-law claims where the officials or employees violated statutory or constitutional law, which violations Murphy alleged and proved. The Seventh Circuit reversed on the attorney fee award, however, finding that the 42 U.S.C. \u00a7 1997e(d) requires that the attorney fee award must first be satisfied from up to 25 percent of the damage award and that the district court does not have discretion to reduce that maximum percentage.</p>\n",
+    "conclusion": "<p>The phrase \"not to exceed 25 percent\" as used in 42 U.S.C. \u00a7 1997e(d)(2) with respect to the award of attorneys fees in a civil rights suit means that the district court must use as much of the judgment as necessary to satisfy the fee award without exceeding the 25% limit, as the Seventh Circuit held. Justice Neil Gorsuch delivered the opinion of the 5-4 majority. The language of the provision, including the words \"shall\" and use of the infinitive phrase \"to satisfy the amount of attorney's fees awarded\" indicated the mandatory, rather than discretionary, nature of the provision's command to the district court. The majority also found that the statutory scheme, including Congress's intent in enacting a new and different law for prisoner rights suits, as well as the surrounding provisions, supported this reading of the statute.\u00a0</p>\n<p>Justice Sonia Sotomayor filed a dissenting opinion, in which Justices Ruth Bader Ginsburg, Stephen Breyer, and Elena Kagan joined. In the dissent's view,\u00a0the plain language of the provision at issue should give district courts the discretion to allocate a portion of a prisoner-plaintiff\u2019s monetary judgment to an attorney\u2019s fee award, provided that the portion is not greater than 25 percent. In support of its position, the dissent points to language considered but not accepted by Congress that more clearly supports the respondent-prisoners' interpretation.</p>\n"
+}

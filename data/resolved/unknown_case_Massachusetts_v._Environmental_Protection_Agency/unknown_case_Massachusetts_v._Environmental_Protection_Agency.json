@@ -1,0 +1,42 @@
+{
+    "ID": 55390,
+    "name": "Massachusetts v. Environmental Protection Agency",
+    "href": "https://api.oyez.org/cases/2006/05-1120",
+    "view_count": 0,
+    "docket_number": "05-1120",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1151298000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39686"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1164780000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39687"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1175490000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39688"
+        }
+    ],
+    "question": "<p>1) May the EPA decline to issue emission standards for motor vehicles based on policy considerations not enumerated in the Clean Air Act?</p>\n<p>2) Does the Clean Air Act give the EPA authority to regulate carbon dioxide and other greenhouse gases?</p>\n",
+    "citation": {
+        "volume": "549",
+        "page": "497",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20650"
+    },
+    "term": "2006",
+    "description": "A case in which the Court ruled that states could sue the EPA for potential damage to their territory caused by global warming, and that the Clean Air Act imposes a duty upon the EPA to regulate the emissions of carbon dioxide and other gases that contribute to global warming. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/549/497/",
+    "facts_of_the_case": "<p>Massachusetts and several other states petitioned the Environmental Protection Agency (EPA), asking EPA to regulate emissions of carbon dioxide and other gases that contribute to global warming from new motor vehicles. Massachusetts argued that EPA was required to regulate these \"greenhouse gases\" by the Clean Air Act - which states that Congress must regulate \"any air pollutant\" that can \"reasonably be anticipated to endanger public health or welfare.\"</p>\n<p>EPA denied the petition, claiming that the Clean Air Act does not authorize the Agency to regulate greenhouse gas emissions. Even if it did, EPA argued, the Agency had discretion to defer a decision until more research could be done on \"the causes, extent and significance of climate change and the potential options for addressing it.\" Massachusetts appealed the denial of the petition to the Court of Appeals for the D.C. Circuit, and a divided panel ruled in favor of EPA.</p>\n",
+    "conclusion": "<p>No and yes. By a 5-4 vote the Court reversed the D.C. Circuit and ruled in favor of Massachusetts. The opinion by Justice John Paul Stevens held that Massachusetts, due to its \"stake in protecting its quasi-sovereign interests\" as a state, had standing to sue the EPA over potential damage caused to its territory by global warming. The Court rejected the EPA's argument that the Clean Air Act was not meant to refer to carbon emissions in the section giving the EPA authority to regulate \"air pollution agent[s]\". The Act's definition of air pollutant was written with \"sweeping,\" \"capacious\" language so that it would not become obsolete. Finally, the majority ruled that the EPA was unjustified in delaying its decision on the basis of prudential and policy considerations. The Court held that if the EPA wishes to continue its inaction on carbon regulation, it is required by the Act to base the decision on a consideration of \"whether greenhouse gas emissions contribute to climate change.\" Chief Justice Roberts's dissenting opinion argued that Massachusetts should not have had standing to sue, because the potential injuries from global warming were not concrete or particularized (individual and personal). Justice Scalia's dissent argued that the Clean Air Act was intended to combat conventional lower-atmosphere pollutants and not global climate change.</p>\n"
+}

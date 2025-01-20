@@ -1,0 +1,42 @@
+{
+    "ID": 63446,
+    "name": "West Virginia v. Environmental Protection Agency",
+    "href": "https://api.oyez.org/cases/2021/20-1530",
+    "view_count": 0,
+    "docket_number": "20-1530",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1635483600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55027"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1646028000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55028"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1656565200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55141"
+        }
+    ],
+    "question": "<p>Does the Environmental Protection Agency have the authority to regulate greenhouse gas emissions in virtually any industry, so long as it considers cost, non-air impacts, and energy requirements?</p>\n",
+    "citation": {
+        "volume": "597",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27872"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held that the Environmental Protection Agency lacks the authority to regulate greenhouse gas emissions.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/597/20-1530/",
+    "facts_of_the_case": "<p>The Trump administration repealed the 2015 Clean Power Plan, which established guidelines for states to limit carbon dioxide emissions from power plants, and issued in its place the Affordable Clean Energy (ACE) Rule, which eliminated or deferred the guidelines. However, the U.S. Court of Appeals for the D.C. Circuit vacated the ACE Rule as arbitrary and capricious. One of the challengers, North American Coal Corporation, challenged the Environmental Protection Agency\u2019s authority to so broadly regulate greenhouse gas emissions.</p>\n",
+    "conclusion": "<p>Congress did not grant the Environmental Protection Agency in Section 111(d) of the Clean Air Act the authority to devise emissions caps based on the generation shifting approach the Agency took in the Clean Power Plan.</p>\n<p>Under the \u201cmajor questions doctrine,\u201d there are \u201cextraordinary cases\u201d in which the \u201chistory and the breadth of the authority that [the agency] has asserted,\u201d and the \u201ceconomic and political significance\u201d of that assertion, provide a \u201creason to hesitate before concluding that Congress\u201d meant to confer such authority. This is one such case, so the EPA must point to \u201cclear congressional authorization\u201d for the authority it claims. It cannot do so.</p>\n<p>The EPA has admitted that issues of electricity transmission, distribution, and storage are not within its traditional expertise, yet it claims that Congress implicitly tasked it with the regulation of how Americans get their energy. Without \u201cclear congressional authorization\u201d for the EPA to regulate in such a manner, the agency lacks authority to implement the Clean Power Plan under the Clean Air Act.</p>\n<p>Justice Neil Gorsuch filed a concurring opinion, in which Justice Samuel Alito joined.</p>\n<p>Justice Elena Kagan filed a dissenting opinion, in which Justices Stephen Breyer and Sonia Sotomayor joined.</p>\n"
+}

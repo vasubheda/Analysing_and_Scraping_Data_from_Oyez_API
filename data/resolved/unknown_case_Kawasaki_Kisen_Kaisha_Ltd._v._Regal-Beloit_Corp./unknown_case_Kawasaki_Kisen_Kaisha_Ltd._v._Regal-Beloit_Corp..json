@@ -1,0 +1,42 @@
+{
+    "ID": 55677,
+    "name": "Kawasaki Kisen Kaisha Ltd. v. Regal-Beloit Corp.",
+    "href": "https://api.oyez.org/cases/2009/08-1553",
+    "view_count": 0,
+    "docket_number": "08-1553",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1256014800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40481"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1269406800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40482"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1277096400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40483"
+        }
+    ],
+    "question": "<p>Does the Carmack Amendment apply to the inland leg of an international shipment?</p>\n",
+    "citation": {
+        "volume": "561",
+        "page": "89",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19599"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that the Carmack Amendment of the Interstate Commerce Act does not apply to the inland leg of an international shipment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/561/89/",
+    "facts_of_the_case": "<p>Shippers sued the ocean carrier and rail carrier it used to ship products from China to the United States in a California state court to recover for damages. During the transport of the shippers' products, a train derailed damaging the products. The case was removed to a California federal district court only to be dismissed. The district court held that the contracts between the parties did not cover claims for cargo damage.</p>\n<p>On appeal, the U.S. Court of Appeals for the Ninth Circuit held that the district court erred in its analysis. The court reasoned that the Carriage of Goods by Sea Act (\"COGSA\") does not govern the inland transport of goods, unless the parties opted out of coverage by the Carmack Amendment to Interstate Commerce Act. The Carmack Amendment governs damage claims against motor and rail carriers, and narrowly limits the venues in which such suits can be brought. Because the district court did not consider whether the parties opted out of the COGSA by the Carmack Amendment, the Ninth Circuit remanded the case for that determination.</p>\n",
+    "conclusion": "<p>No. The Supreme Court held that because the Carmack Amendment does not apply to a shipment originating overseas under a single through bill of lading, the parties' agreement to litigate these cases in Tokyo, Japan is binding. With Anthony M. Kennedy writing for the majority, the Court reasoned that, as illustrated in <em>Norfolk Southern R. Co. v. James N. Kirby</em>, when a a bill of lading requires \"substantial carriage of goods by sea,\" like in this case, \"its purpose is to effectuate maritime commerce.\" Under such circumstances, applying state law undermines maritime law. Therefore, the Carmack Amendment is inapplicable to this case.</p>\n<p>Justice Sonia Sotomayor, joined by Justices John Paul Stevens and Ruth Bader Ginsburg, dissented. She argued that the Carmack Amendment applies to circumstances like at issue in this case unless the parties have contracted around Carmack's requirements. Here, she viewed the Carmack Amendment as providing the default legal regime for rail transportation in the United States and, consequently, would have reached the issue as to whether Union Pacific, one of the paties, was free to opt out of Carmack.</p>\n"
+}

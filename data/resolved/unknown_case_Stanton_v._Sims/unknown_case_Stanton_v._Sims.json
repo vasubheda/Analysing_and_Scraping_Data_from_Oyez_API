@@ -1,0 +1,35 @@
+{
+    "ID": 55979,
+    "name": "Stanton v. Sims",
+    "href": "https://api.oyez.org/cases/2013/12-1217",
+    "view_count": 0,
+    "docket_number": "12-1217",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1383544800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41287"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1383544800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41288"
+        }
+    ],
+    "question": "<p>Is a police officer who commits a warrantless entry of the curtilage of a private residence entitled to qualified immunity?</p>\n",
+    "citation": {
+        "volume": "571",
+        "page": "3",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19901"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that a police officer who commits a warrantless entry of a private residence is entitled to qualified immunity if he/she has not violated a \"clearly established\" right.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/571/3/",
+    "facts_of_the_case": "<p>In the early hours of the morning on May 27, 2008, Officer Mike Stanton and his partner responded to a reported disturbance involving a person with a baseball bat in La Mesa, California. When the officers arrived at the location, they observed three men walking along the street, two of whom promptly turned into a nearby apartment complex while the third crossed the street in front of the police vehicle. Although he did not see a baseball bat, Stanton considered the behavior of this third man to be suspicious and ordered him to stop. The man continued walking into the residence and closed a gate behind him. With the gate closed, Stanton's view was blocked, and believing that the man had committed a jailable offense by refusing to stop, he decided to forcibly open the gate. Unbeknownst to Stanton, the residence's owner, Drendolyn Sims was standing behind the gate and was injured when Stanton opened it.</p>\n<p>Sims sued Stanton in federal district court and argued that he had unreasonably searched her home without a warrant in violation of the Fourth Amendment. The district court granted summary judgment to Stanton and held that Stanton's entry was justified by the potential danger of the situation, Sims had a lesser expectation of privacy in the curtilage\u2014surrounding area\u2014of her home, and Stanton was entitled to qualified immunity. The U.S. Court of Appeals for the Ninth Circuit reversed and held that Stanton's actions were unconstitutional because Sims was entitled to the same expectation of privacy in the curtilage of her home as she was in her home itself. The Court of Appeals also held that Stanton's warrantless entry was not justified because the man was only suspected of a misdemeanor and that Stanton was not entitled to qualified immunity.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam decision, the Supreme Court held that qualified immunity protects government officials from liability as long as their actions do not violate clearly established constitutional provisions that a reasonable person should have known. Because there was no suggestion in the case that Stanton knowingly violated the Constitution and because the courts disagree over whether an officer may enter a private home while in pursuit of a suspect, Stanton did not violate any \"clearly established\" constitutional provisions. The Court also held that there is no reason to tie the constitutionality of the warrantless entry to the severity of the crime the suspect may have committed. Because the constitutionality of Stanton's actions are debatable, he should be granted qualified immunity.</p>\n"
+}

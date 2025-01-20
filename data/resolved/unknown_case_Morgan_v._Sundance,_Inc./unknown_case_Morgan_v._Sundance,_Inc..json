@@ -1,0 +1,42 @@
+{
+    "ID": 63420,
+    "name": "Morgan v. Sundance, Inc.",
+    "href": "https://api.oyez.org/cases/2021/21-328",
+    "view_count": 0,
+    "docket_number": "21-328",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1636956000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55000"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1647838800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55057"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1653282000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55103"
+        }
+    ],
+    "question": "<p>Does the arbitration-specific requirement that the proponent of a contractual waiver defense prove prejudice violate the Supreme Court\u2019s instruction that lower courts must \u201cplace arbitration agreements on an equal footing with other contracts\u201d?</p>\n",
+    "citation": {
+        "volume": "596",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27856"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held the arbitration-specific requirement that the proponent of a contractual waiver defense prove prejudice violates the Supreme Court\u2019s instruction that lower courts must \u201cplace arbitration agreements on an equal footing with other contracts.\u201d",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/596/21-328/",
+    "facts_of_the_case": "<p>In September 2018, Robyn Morgan sued Sundance, Inc. for violations of the Fair Labor Standards Act, alleging that Sundance failed to pay her for overtime work. The district court denied Sundance\u2019s motion to dismiss. Sundance then answered Morgan's complaint but did not assert its right to arbitrate Morgan's claims. After filing its answer, Morgan participated in a settlement mediation with plaintiffs in another similar lawsuit in Michigan. The Michigan case settled, but Morgan's case moved forward. Nearly eight months after the filing of Morgan's complaint, Sundance moved to compel arbitration. The district court denied the motion, concluding Sundance's participation in the litigation waived its right to arbitration. The U.S. Court of Appeals for the Eighth Circuit reversed.</p>\n",
+    "conclusion": "<p>Federal courts may not adopt an arbitration-specific rule conditioning a waiver of the right to arbitrate on a showing of prejudice. Justice Elena Kagan authored the unanimous opinion of the Court.</p>\n<p>Outside of the arbitration context, a federal court assessing whether a party has waived a right does not generally ask about prejudice. Rather, waiver is \u201cthe intentional relinquishment or abandonment of a known right.\u201d It focuses on the actions of the person who held the right, not the effects on the opposing party. Although the FAA may express policy favoring arbitration, that policy does not authorize federal courts to invent special arbitration-preferring procedural rules. Federal courts thus may not adopt an arbitration-specific rule requiring that a party show prejudice in order to prevail on a claim of waiver.</p>\n"
+}

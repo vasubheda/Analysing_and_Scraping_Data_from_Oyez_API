@@ -1,0 +1,35 @@
+{
+    "ID": 54449,
+    "name": "United States v. Virginia",
+    "href": "https://api.oyez.org/cases/1995/94-1941",
+    "view_count": 0,
+    "docket_number": "94-1941",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                821858400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37704"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                835765200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37705"
+        }
+    ],
+    "question": "<p>Does Virginia's creation of a women's-only academy, as a comparable program to a male-only academy, satisfy the Fourteenth Amendment's Equal Protection Clause?</p>\n",
+    "citation": {
+        "volume": "518",
+        "page": "515",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18378"
+    },
+    "term": "1995",
+    "description": "A case in which the Court found that the Virginia Military Institute's policy of only admitting and serving males was unconstitutional.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/518/515/",
+    "facts_of_the_case": "<p>The Virginia Military Institute (VMI) boasted a long and proud tradition as Virginia's only exclusively male public undergraduate higher learning institution. The United States brought suit against Virginia and VMI alleging that the school's male-only admissions policy was unconstitutional insofar as it violated the Fourteenth Amendment's equal protection clause. On appeal from a District Court ruling favoring VMI, the Fourth Circuit reversed. It found VMI's admissions policy to be unconstitutional. Virginia, in response to the Fourth Circuit's reversal, proposed to create the Virginia Women's Institute for Leadership (VWIL) as a parallel program for women. On appeal from the District Court's affirmation of the plan, the Fourth Circuit ruled that despite the difference in prestige between the VMI and VWIL, the two programs would offer \"substantively comparable\" educational benefits. The United States appealed to the Supreme Court.</p>\n",
+    "conclusion": "<p>No. In a 7-to-1 decision, the Court held that VMI's male-only admissions policy was unconstitutional. Because it failed to show \"exceedingly persuasive justification\" for VMI's gender-biased admissions policy, Virginia violated the Fourteenth Amendment's equal protection clause. Virginia failed to support its claim that single-sex education contributes to educational diversity because it did not show that VMI's male-only admissions policy was created or maintained in order to further educational diversity. Furthermore, Virginia's VWIL could not offer women the same benefits as VMI offered men. The VWIL would not provide women with the same rigorous military training, faculty, courses, facilities, financial opportunities, or alumni reputation and connections that VMI affords its male cadets. Finally, the Fourth Circuit's \"substantive comparability\" between VMI and VWIL was misplaced. The Court held that the Fourth Circuit's \"substantive comparability\" standard was a displacement of the Court's more exacting standard, requiring that \"all gender-based classifications today\" be evaluated with \"heightened scrutiny.\" When evaluated with such \"heightened scrutiny,\" Virginia's plan to create the VWIL would not provide women with the same opportunities as VMI provides its men and so it failed to meet requirements of the equal protection clause. [NOTE: Justice Ginsburg's announcement of the Court's opinion may be considered an address to the American public. It is a plain-spoken and forceful summary of the majority position.]</p>\n"
+}

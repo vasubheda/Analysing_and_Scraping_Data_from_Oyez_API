@@ -1,0 +1,42 @@
+{
+    "ID": 55683,
+    "name": "Shady Grove Orthopedic Associates, P.A. v. Allstate Insurance Co.",
+    "href": "https://api.oyez.org/cases/2009/08-1008",
+    "view_count": 0,
+    "docket_number": "08-1008",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1241413200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40490"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1257141600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40491"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1270011600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40492"
+        }
+    ],
+    "question": "<p>1) Can a state legislature prohibit federal courts from using a federal class action rule for a state law claim?</p>\n<p>2) Can a state legislature dictate civil procedure in federal courts?</p>\n",
+    "citation": {
+        "volume": "559",
+        "page": "393",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19605"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that Section 901(b) of the New York Rules of Civil Procedure does not preclude a federal court ruling on entities from different jurisdictions from hearing a class action under Rule 23 of the Federal Rules of Civil Procedure.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/559/393/",
+    "facts_of_the_case": "<p>Shady Grove Orthopedics Associates (Shady Grove), on behalf of a class of plaintiffs, sued Allstate Insurance Company (Allstate) in part for Allstate's alleged failure to pay interest penalties on overdue insurance payments as prescribed by New York statute. Allstate moved to dismiss relying on New York's rules of civil procedure which instruct that class action lawsuits are inappropriate unless specifically prescribed by statute. The U.S. District Court for the Eastern District of New York agreed that Shady Grove's class action claim was not authorized and thus dismissed its claim.</p>\n<p>On appeal, Shady Grove argued that the New York rules of civil procedure conflict with Rule 23 of the Federal Rules of Civil Procedure and thus were not applicable. The U.S. Court of Appeals for the Second Circuit disagreed with Shady Grove and affirmed the district court. The Second Circuit, reasoning from the Supreme Court's decision in <em>Erie Railroad Co. v. Tomkins</em>, stated that the New York rules of civil procedure did not conflict with Rule 23 and thus Rule 23 did not control.</p>\n",
+    "conclusion": "<p>No. No. The Supreme Court held that \u00a7901(b) of the New York rules of civil procedure does not preclude a federal court sitting in diversity from entertaining a class action under Rule 23 of the federal rules of civil procedure. With Justice Antonin Scalia writing for the majority as to Parts I and II-A, the Court stated that if Rule 23 answers the question in dispute, it governs, unless it exceeds its statutory authorization or Congress' rulemaking power. Here, the Court reasoned that Rule 23 answers the question in dispute \u2013 whether Shady Grove's suit may proceed as a class action \u2013 and is therefore controlling. With Justice Scalia writing for a plurality as to Parts II-B and II-D, he stated that the Rules Enabling Act, not <em>Erie</em> controls the validity of a federal rule of civil procedure, even if that results in opening the federal courts to class actions that cannot proceed in state court. With Justice Scalia writing for a distinct plurality as to Part II-C, he concluded that the concurrence's analysis conflicted with the Court's precedent in <em>Sibbach</em> \u2013 that the federal rules \"really regulate procedure.\"</p>\n<p>Justice John Paul Stevens wrote separately, concurring. He agreed that Rule 23 applies in this case, but also recognized that in some cases federal courts should apply state procedural rules in diversity cases because they function as part of the state's definition of substantive rights and remedies. Justice Ruth Bader Ginsburg, joined by Justices Anthony M. Kennedy, Stephen G. Breyer, and Samuel A. Alito, dissented. She criticized the majority opinion for using Rule 23 to override New York's statutory restriction on the availability of damages and consequently turning a $500 case into a $5,000,000 one. She cautioned that it is important to interpret the federal rules with sensitivity to state regulatory policies.</p>\n"
+}

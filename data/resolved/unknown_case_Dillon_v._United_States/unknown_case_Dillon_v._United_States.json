@@ -1,0 +1,42 @@
+{
+    "ID": 55625,
+    "name": "Dillon v. United States",
+    "href": "https://api.oyez.org/cases/2009/09-6338",
+    "view_count": 0,
+    "docket_number": "09-6338",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1260165600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40344"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1269925200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40345"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1276750800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40346"
+        }
+    ],
+    "question": "<p>Are the federal sentencing guidelines binding when a district court imposes a new sentence under a revised guideline range?</p>\n",
+    "citation": {
+        "volume": "560",
+        "page": "817",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19548"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that federal sentencing guidelines are binding when a district court imposes a new sentence under a revised guideline range.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/560/817/",
+    "facts_of_the_case": "<p>A Pennsylvania federal district court convicted Percy Dillon for conspiracy to distribute more than 500 grams of cocaine and more than 50 grams of cocaine base, use of a firearm during a drug trafficking crime, and possession with intent to distribute more than 500 grams of cocaine. Subsequently, the Sentencing Commission amended the Sentencing Guidelines to retroactively reduce the base offense level for crack cocaine offenses. Mr. Dillon then moved to have his sentence reduced in accordance with the new guidelines. The district court reduced Mr. Dillon's sentence by two levels, but held that it lacked the authority to reduce his sentence further. On appeal, Mr. Dillon argued that in light of <em>United States v. Booker</em> the district court had the authority to further reduce his sentence. Moreover, he argued that the district court erred in calculating his criminal history score when determining his sentencing.</p>\n<p>The U.S. Court of Appeals for the Third Circuit affirmed the district court, holding that <em>Booker</em> did not allow a district court, when reducing a previously imposed sentence, to treat the amended guidelines' range as advisory. Moreover, the court rejected Mr. Dillon's argument that the district court erred in calculating his criminal history score, reasoning that the district court had no authority to reconsider its prior criminal history determination.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court affirmed the Third Circuit, holding that <em>Booker</em> is inapplicable to the present case and, thus, does not require that the amended guidelines' range be treated as advisory. With Justice Sonia Sotamayor writing for the majority, the Court reasoned that the sentencing guidelines implicated in this case are not governed by <em>Booker</em> because, unlike other sentencing guidelines, the implicated guidelines allow only a limited adjustment to an otherwise final sentence.</p>\n<p>Justice John Paul Stevens dissented. He disagreed with the majority for binding the hands of district courts and not allowing them the discretion to reduce sentences with respect to this one section of the sentencing guidelines. Justice Stevens thought such restrictions had been done away with by the Court's decision in <em>Booker</em>.</p>\n"
+}

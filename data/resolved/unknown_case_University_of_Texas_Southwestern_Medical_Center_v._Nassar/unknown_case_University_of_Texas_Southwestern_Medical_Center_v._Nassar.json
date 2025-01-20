@@ -1,0 +1,42 @@
+{
+    "ID": 55936,
+    "name": "University of Texas Southwestern Medical Center v. Nassar",
+    "href": "https://api.oyez.org/cases/2012/12-484",
+    "view_count": 0,
+    "docket_number": "12-484",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1358488800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41170"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1366779600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41171"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1372050000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41172"
+        }
+    ],
+    "question": "<p>Does the retaliation provision of Title VII of the Civil Rights Act of 1964 require a plaintiff to prove that an employer would not have taken an action but for the existence of an improper motive, or does the provision require only proof that the employer had mixed motives for taking an action?</p>\n",
+    "citation": {
+        "volume": "570",
+        "page": "338",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19858"
+    },
+    "term": "2012",
+    "description": "A case in which the Court found that Title VII of the Civil Rights Act of 1964 requires the plaintiff to prove their employer would not have taken an action but for the existence of improper motives. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/570/338/",
+    "facts_of_the_case": "<p>Dr. Naiel Nassar, who is of Middle Eastern descent, was hired by the University of Texas Southwestern Medical Center (UTSW) in 1995 to work at the Amelia Court Clinic (Clinic), which specializes in HIV/AIDS treatment. After three years there, he left to pursue additional training and returned in 2001 as an Assistant Professor of Internal Medicine and Infectious Diseases and Associate Medical Director of the Clinic. His immediate supervisor at the Clinic was Dr. Philip Keiser, whose supervisor at UTSW was Dr. Beth Levine. After being hired in 2004, Levine immediately began inquiring into Nassar's productivity and billing practices. In 2005, after interviewing a candidate who was of Middle Eastern descent, Levine stated in Nassar's presence, \"Middle Easterners are lazy.\" In 2006, after hiring the candidate, Levine made a similar statement in Keiser's presence. Keiser informed Nassar of these comments as well as the fact that Levine scrutinized Nassar's productivity more than any other doctor. Around this time, Nassar applied for a promotion that Levine actively undermined. In 2006, Nassar resigned from the UTSW faculty and cited Levine's harassment and the creation of an unhealthy work environment in his resignation letter. Nassar resigned with the understanding that he would be offered a position at the Amelia Court Clinic unaffiliated with the UTSW, but the Clinic was forced to withdraw its offer after heavy opposition from the UTSW faculty, who have an agreement with the Clinic regarding positions to be filled by faculty doctors.</p>\n<p>In 2008, Nassar sued UTSW under Title VII of the Civil Rights Act of 1964 and argued that UTSW had constructively discharged and retaliated against him. The jury found in favor of Nassar and awarded him back pay and compensatory damages. The U.S. Court of Appeals for the Fifth Circuit affirmed in part and reversed in part, holding that there was sufficient evidence to support the retaliation claim but insufficient evidence to support the claim of constructive discharge.</p>\n",
+    "conclusion": "<p>The retaliation provision of Title VII requires the plaintiff to prove than an employer would not have taken an action but for the existence of improper motives. Justice Anthony M. Kennedy delivered the opinion for the 5-4 majority. The Court held that there must be a demonstrable causal link between the injury sustained and the wrong alleged. A standard understanding of causation supports the view that an action cannot be the cause of an event unless it can be shown that the event would not have occurred without the action in question. Because there is no language in the retaliation provision that states otherwise, it must be assumed that Congress intended to support the standard understanding of causation. The Court also held that lessening the causation standard would increase the number of frivolous claims and decrease the ability of employers and the courts to deal with the pressing issues of real workplace harassment.</p>\n<p>Justice Ruth Bader Ginsburg wrote a dissenting opinion in which she argued that the majority's decision creates an unnecessary dichotomy between discrimination cases and retaliation cases by restricting retaliation cases to a stricter standard of proof. In doing so, the majority's opinion ignores extensive judicial precedent that supports the close connection between anti-discrimination and anti-retaliation provisions. Additionally, there is no evidence that Congress intended to provide less protection from discrimination than from retaliation, as the majority's reading of the provision suggests. She also argued that the \"but-for\" causation test is particularly difficult to implement in employment discrimination cases as it requires trial courts to reach conclusions as to what would have happened had the employer's thoughts been different. Justice Stephen G. Breyer, Justice Sonia Sotomayor, and Justice Elena Kagan joined in the dissent.</p>\n"
+}

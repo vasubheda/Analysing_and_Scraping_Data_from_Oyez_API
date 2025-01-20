@@ -1,0 +1,42 @@
+{
+    "ID": 55288,
+    "name": "S.D. Warren Co. v. Maine Board of Environmental Protection",
+    "href": "https://api.oyez.org/cases/2005/04-1527",
+    "view_count": 0,
+    "docket_number": "04-1527",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1129006800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39421"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1140501600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51875"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1147669200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52219"
+        }
+    ],
+    "question": "<p>Do hydroelectric dams result in \"discharge\" under the meaning of Section 401 of the federal Clean Water Act?</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "370",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20596"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/547/370/",
+    "facts_of_the_case": "<p>S.D. Warren Company (Warren) operates several hydroelectric dams in Maine. Under Section 401 of the federal Clean Water Act, companies must obtain state approval of \"any activity\" \"which may result in any discharge into the [Nation's] navigable waters.\" When Warren sought to renew the federal licenses for its dams, the Federal Energy Regulatory Commission (FERC) required that it first get approval from the Maine Board of Environmental Protection because, FERC ruled, the dams resulted in a \"discharge.\" Warren disagreed, arguing that the water which moved through the hydroelectric dams was not actually a \"discharge\" because it was water from the same river which had just been temporarily re-routed. After Warren's administrative appeals and state court suit (which went to the Maine Supreme Judicial Court) failed, it appealed the case to the U.S. Supreme Court.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous decision, the Supreme Court held that the term \"discharge\" in section 401 had historically been given a broad meaning by FERC, the Environmental Protection Agency, and even the Supreme Court. Justice David Souter, in the Opinion of the Court, wrote that \"[w]hen it applies to water, 'discharge' commonly means a 'flowing or issuing out.' ... In fact, this understanding of the word was accepted by all Members of the Court sitting in our only other case focused on Section 401 of the Clean Water Act.\" The discharge from hydroelectric dams fit this definition perfectly, and Section 401 therefore mandated state approval.</p>\n"
+}

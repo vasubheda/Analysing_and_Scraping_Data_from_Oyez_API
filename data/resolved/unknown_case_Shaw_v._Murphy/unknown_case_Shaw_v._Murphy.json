@@ -1,0 +1,35 @@
+{
+    "ID": 54893,
+    "name": "Shaw v. Murphy",
+    "href": "https://api.oyez.org/cases/2000/99-1613",
+    "view_count": 0,
+    "docket_number": "99-1613",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                979624800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38527"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                987570000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38528"
+        }
+    ],
+    "question": "<p>Do prison inmates have a constitutional right to provide legal assistance to fellow inmates?</p>\n",
+    "citation": {
+        "volume": "532",
+        "page": "223",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18822"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/532/223/",
+    "facts_of_the_case": "<p>While incarcerated in Montana State Prison, Kevin Murphy sent a letter to an inmate to assist him with his defense after he assaulted a correctional officer. In accordance with prison policy, the letter was intercepted. Based on the letter's content, the prison sanctioned Murphy for violating prison rules prohibiting insolence and interfering with due process hearings. Murphy sought relief, alleging that the disciplinary action violated his First Amendment rights, including the right to provide legal assistance to other inmates. Ruling against Murphy, the District Court, based on precedent, found that reasonably related penological interests allowed the prison regulations to impinge on an inmate's constitutional rights. In reversing, the Court of Appeals found that an inmate's First Amendment right to give legal assistance to other inmates outweighed the government's interests.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Clarence Thomas, the Court held that inmates do not possess a special First Amendment right to provide legal assistance to fellow inmates that enhances the protections otherwise available. \"Augmenting First Amendment protection for inmate legal advice would undermine prison officials' ability to address the 'complex and intractable' problems of prison administration,\" wrote Justice Thomas for the Court. Justice Thomas added that \"[p]risoners have used legal correspondence as a means for passing contraband and communicating instructions on how to manufacture drugs or weapons.\" Justice Ruth Bader Ginsburg also wrote a concurring opinion.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 62788,
+    "name": "TC Heartland LLC v. Kraft Food Brands Group LLC",
+    "href": "https://api.oyez.org/cases/2016/16-341",
+    "view_count": 0,
+    "docket_number": "16-341",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1481695200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53940"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1490590800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54004"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1495429200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54038"
+        }
+    ],
+    "question": "<p>Does the subsection of the general venue statute that allows a corporation to reside in many jurisdictions for the purpose of establishing jurisdiction apply to the patent venue statute?</p>\n",
+    "citation": {
+        "volume": "581",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27488"
+    },
+    "term": "2016",
+    "description": "A case in which the Court held that the subsection of the general venue statute that allows a corporation to reside in many jurisdictions for the purpose of establishing jurisdiction does not apply to the patent venue statute.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/581/16-341/",
+    "facts_of_the_case": "<p>TC Heartland LLC (Heartland) is a company organized under Indiana law and headquartered in Indiana. Kraft Food Brands LLC (Kraft) is a company organized under Delaware law and with its principal place of business in Illinois. Heartland sold liquid water-enhancing products that it shipped to Delaware, pursuant to two of its contracts. Kraft sued Heartland in federal district court in Delaware and argued that these products infringed on Kraft\u2019s patents for similar products. Heartland moved to dismiss the claim and argued that the Delaware lacked personal jurisdiction over the lawsuit because Heartland is not registered to do business in Delaware, has no local presence in Delaware, and does not solicit business in Delaware. The district court held that, under U.S. Court of Appeals for the Federal Circuit precedent, the subsection of the general venue statute that allows a defendant to reside in many jurisdictions for the purpose of establishing jurisdiction applies to the patent venue statute. However, this precedent runs counter the the Supreme Court\u2019s decision in Fourco Glass Co. v. Transmirra Products Corp., which held that the definition of corporate residence is limited to the jurisdiction of incorporation and that the subsection of the general venue statute does not expand jurisdiction under the patent venue statute. The U.S. Court of Appeals for the Federal Circuit affirmed the district court\u2019s decision and held that Congress\u2019 amendments to the general venue statute post-dated and therefore superseded the Fourco precedent. </p>\n",
+    "conclusion": "<p dir=\"ltr\">The subsection of the general venue statute that allows a corporation to reside in many jurisdictions for the purpose of establishing jurisdiction does not apply to the patent venue statute. Justice Clarence Thomas delivered the opinion of the unanimous Court, which held that its interpretation of the patent venue statute in Fourco Glass Co. v. Transmirra Products Corp. was still controlling precedent. Although the general venue statute has been amended since that time, Congress has not amended the patent venue statute since its interpretation in Fourco, and the amendments to the general venue statute did not explicitly apply to patent venue. Additionally, the history of the patent venue statute indicated that it was not meant to dovetail with other venue statutes. </p>\n<p>\u00a0</p>\n<p dir=\"ltr\">Justice Neil Gorsuch did not participate in the discussion or decision of the case. </p>\n"
+}

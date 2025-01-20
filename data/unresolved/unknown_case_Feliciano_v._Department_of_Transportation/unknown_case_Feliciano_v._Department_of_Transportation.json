@@ -1,0 +1,33 @@
+{
+    "ID": 63691,
+    "name": "Feliciano v. Department of Transportation",
+    "href": "https://api.oyez.org/cases/2024/23-861",
+    "view_count": 0,
+    "docket_number": "23-861",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1719205200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55479"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1733724000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55546"
+        }
+    ],
+    "question": "<p>Is a federal civilian employee called or ordered to active duty under a provision of law during a national emergency is entitled to differential pay even if the duty is not directly connected to the national emergency.</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28025"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether a federal civilian employee called or ordered to active duty under a provision of law during a national emergency is entitled to differential pay even if the duty is not directly connected to the national emergency.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-861/"
+}

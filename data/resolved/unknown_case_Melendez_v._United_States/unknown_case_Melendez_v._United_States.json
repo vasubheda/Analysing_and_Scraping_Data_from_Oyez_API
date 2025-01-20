@@ -1,0 +1,35 @@
+{
+    "ID": 54458,
+    "name": "Melendez v. United States",
+    "href": "https://api.oyez.org/cases/1995/95-5661",
+    "view_count": 0,
+    "docket_number": "95-5661",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                825400800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37722"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                834987600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37723"
+        }
+    ],
+    "question": "<p>Does a federal prosecutor's plea agreement that a cooperating defendant be given the minimum sentence authorize a judge to depart below a statutory minimum?</p>\n",
+    "citation": {
+        "volume": "518",
+        "page": "120",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18387"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/518/120/",
+    "facts_of_the_case": "<p>After purchasing cocaine, Juan Melendez was charged with violating federal drug laws. The law carried a minimum sentence of ten years imprisonment. Melendez signed a plea agreement stating he would be cooperative. In turn the government agreed to give him a short sentence. The District Court thus sentenced Melendez to ten years in prison, the mandatory minimum. The Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>No. In a 7-2 decision authored by Justice Clarence Thomas, the Court held that, in the absence of a Government motion requesting or authorizing the district court to \"impose a sentence below a level established by statute as minimum sentence,\" a prison sentence must not violate the statutory sentencing minimum.</p>\n"
+}

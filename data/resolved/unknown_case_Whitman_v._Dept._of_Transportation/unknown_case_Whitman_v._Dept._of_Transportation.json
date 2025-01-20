@@ -1,0 +1,42 @@
+{
+    "ID": 55314,
+    "name": "Whitman v. Dept. of Transportation",
+    "href": "https://api.oyez.org/cases/2005/04-1131",
+    "view_count": 0,
+    "docket_number": "04-1131",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1119848400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39493"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1133762400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39494"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1149483600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39495"
+        }
+    ],
+    "question": "<p>Does the Civil Service Reform Act prevent a federal employee from bringing suit against his employer in federal district court to challenge alleged constitutional and statutory violations?</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "512",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20576"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/547/512/",
+    "facts_of_the_case": "<p>Terry Whitman works as an air traffic assistant for the Federal Aviation Administration (which is part of the Department of Transportation). Federal law requires that FAA employees who perform \"safety-sensitive functions\" submit to random drug tests. Whitman brought suit in federal district court, claiming that the FAA was testing him for substance abuse three times more often than other people holding similar positions. The disproportionate testing, he argued, violated his \"First Amendment right to privacy\" as well as his statutory rights, because the testing was not truly random.</p>\n<p>The district court dismissed the suit, finding that the Civil Service Reform Act requires complaint's like Whitman's to be decided through the arbitration procedures set forth in the collective bargaining agreement between the FAA and the National Association of Government Employees. The Ninth Circuit Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>No. In an anonymous 8-0 opinion, the Court reversed the Circuit Court of Appeals. The Court explained that while the Civil Service Reform Act does not itself enable federal courts to hear civil suits, neither does it remove the jurisdiction over civil suits that federal courts have under other statutes. The Justices declined to rule on whether the District Court should have taken Whitman's case, because lower courts had not determined exactly \"where Whitman's claims fit within the statutory scheme.\" The Court sent the case back to the Court of Appeals with instructions to rule on this question. (Justice Alito took no part in the decision of this case.)</p>\n"
+}

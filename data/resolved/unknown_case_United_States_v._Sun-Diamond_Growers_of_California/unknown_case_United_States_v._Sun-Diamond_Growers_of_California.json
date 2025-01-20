@@ -1,0 +1,35 @@
+{
+    "ID": 54723,
+    "name": "United States v. Sun-Diamond Growers of California",
+    "href": "https://api.oyez.org/cases/1998/98-131",
+    "view_count": 0,
+    "docket_number": "98-131",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                920354400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38209"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                925189200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38210"
+        }
+    ],
+    "question": "<p>Must there be a specific link between the giving of a gratuity to a government official and the latter's performance of a specific act in order to sustain an illegal-gratuity-statute conviction?</p>\n",
+    "citation": {
+        "volume": "526",
+        "page": "398",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18652"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/526/398/",
+    "facts_of_the_case": "<p>Sun-Diamond Growers of California (Sun-Diamond), an agricultural trade association, was charged with violating a federal statute that prohibited the giving of anything valuable to a present, past, or future official \"for or because of any official act performed or to be performed by such public official.\" Sun-Diamond's indictment alleged that it gave illegal gratuities to former Agriculture Secretary Michael Espy while he was considering two matters in which Sun-Diamond had a vested interest. The indictment, however, did not claim a connection between the gratuities in question and either of the matters under Espy's review. Based on this lack of connectivity, Sun-Diamond challenged its indictment but lost in district court. On appeal, the Court of Appeals for the District of Columbia reserved part of the district court decision and the government appealed. Supreme Court granted certiorari.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion, the Court held that to sustain conviction for federal bribery there must be a clear quid pro quo link between the gratuity received and performance of a specific past, present, or future \"official\" act. The Court reasoned that a statutory interpretation that punished the giving of any gifts to public officials would not fit comfortably with the legislation's spirit and traditions. The Court noted that the giving of gratuities to officials, by virtue of their position, is not the same as bribery of officials for the performance of specific conduct.</p>\n"
+}

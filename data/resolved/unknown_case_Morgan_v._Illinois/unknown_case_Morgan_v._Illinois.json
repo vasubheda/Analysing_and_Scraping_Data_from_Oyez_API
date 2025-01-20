@@ -1,0 +1,35 @@
+{
+    "ID": 54016,
+    "name": "Morgan v. Illinois",
+    "href": "https://api.oyez.org/cases/1991/91-5118",
+    "view_count": 0,
+    "docket_number": "91-5118",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                695973600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36890"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                708584400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36891"
+        }
+    ],
+    "question": "<p>Do the Due Process Clause of the Fourteenth Amendment and the Sixth Amendment's impartial jury requirement bar a state from refusing to ask whether a potential juror would automatically vote to impose the death penalty upon a defendant convicted of a capital offense?</p>\n",
+    "citation": {
+        "volume": "504",
+        "page": "719",
+        "year": "1992",
+        "href": "https://api.oyez.org/case_citation/case_citation/17945"
+    },
+    "term": "1991",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/504/719/",
+    "facts_of_the_case": "<p>In the Illinois judicial system, the jury chosen to determine a defendant's guilt or innocence also sentenced the defendant. And, the trial court, not the attorneys, performed <em>voir dire</em>, which involves questioning potential jurors during jury selection to determine their ability to be impartial. Before Derrick Morgan's capital murder trial, he requested that the court ask the potential jurors whether they would automatically sentence him to the death penalty upon conviction. The trial court denied Morgan's request, and he was convicted and sentenced to death. When he appealed, the Illinois Supreme Court affirmed the trial court's decision, Morgan's conviction, and his sentence.</p>\n",
+    "conclusion": "<p>Yes. In a majority opinion authored by Justice Byron R. White, the Court noted that the Due Process Clause of the Fourteenth Amendment and the impartial jury requirement of the Sixth Amendment, in combination, indicate that the criminally accused have a right to an impartial jury. It found that a juror who would automatically vote for the death penalty in criminal sentencing would be prejudiced. The Court also concluded that, in order to detect this prejudice, an adequate <em>voir dire</em> is necessary. Therefore, an adequate <em>voir dire</em> would include a question to determine whether a juror would automatically vote for the death penalty, upon request. Thus, the decision of the Illinois State Supreme Court was reversed.</p>\n"
+}

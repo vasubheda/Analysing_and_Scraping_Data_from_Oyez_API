@@ -1,0 +1,42 @@
+{
+    "ID": 55879,
+    "name": "Greene v. Fisher",
+    "href": "https://api.oyez.org/cases/2011/10-637",
+    "view_count": 0,
+    "docket_number": "10-637",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1301893200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41000"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1318309200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41001"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1320732000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41002"
+        }
+    ],
+    "question": "<p>Does a Supreme Court decision qualify as \"clearly established Federal law\" under 28 U.S.C. \u00a7 2254(d), as amended by the Antiterrorism and Effective Death Penalty Act of 1996, if that Supreme Court decision was entered after the relevant state-court adjudication on the merits ?</p>\n",
+    "citation": {
+        "volume": "565",
+        "page": null,
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19801"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that decisions of the Court do not constitute \"clearly established federal law\" if the decision predates the decision of a relevant state court.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/565/34/",
+    "facts_of_the_case": "<p>A jury found Eric Greene guilty of second-degree murder and other crimes, and the court sentenced him to life imprisonment because he participated in a grocery store robbery that left the owner dead. Greene was tried along with four co-defendants, two of whom made pretrial statements that linked Greene to the robbery. The prosecution used redacted versions of these statements as evidence, but because the co-defendants did not testify in court, Greene could not use cross-examination to challenge the statements.</p>\n<p>Greene appealed his conviction to the Pennsylvania Superior Court. Among other arguments, he renewed his Confrontation Clause claim. The Pennsylvania Superior Court affirmed, holding that the codefendants' confessions as redacted did not so clearly implicate Greene as to violate the Confrontation Clause and Greene then filed a timely petition for allowance of appeal with the Pennsylvania Supreme Court, again pressing his Confrontation Clause claim. The Pennsylvania Supreme Court granted the petition but eight months later dismissed the appeal \"as having been improvidently granted.\"</p>\n<p>In 1998, the U.S. Supreme Court held in <em>Gray v. Maryland</em> that the constitution forbids prosecutors from using redacted statements like those of Greene's co-defendants. Greene asked the U.S. District Court for the Eastern District of Pennsylvania to vacate his conviction under a process known as \"habeas corpus.\" By federal statute, habeas relief is allowed only when a state court violates \"clearly established Federal law.\" The district court held that Greene could not rely on <em>Gray</em> because that decision was not \"clearly established\" when the Pennsylvania Supreme Court affirmed his conviction. The U.S. Court of Appeals for the Third Circuit affirmed the district court's ruling.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion, written by Justice Antonin Scalia, the Supreme Court affirmed the decision of the U.S. Court of Appeals for the Third Circuit. The Court held that under \u00a72254(d), \"clearly established Federal law, as determined by the Supreme Court of the United States\" includes only the Supreme Court's decisions as of the time of the relevant state-court adjudications on the merits. Since the Pennsylvania Superior Court's decision predated the Supreme Court's decision in <em> Gray </em> by three months, the Third Circuit correctly held that <em> Gray </em> was not \"clearly established Federal law\" that would allow the federal court to grant Greene's application for a writ of habeas corpus.</p>\n<p>Scalia further observed that Greene missed two opportunities to obtain relief under <em> Gray </em>. Greene could have filed a petition for writ of certiorari after the Pennsylvania Supreme Court dismissed his appeal, which would have likely produced a remand in light of the <em> Gray </em> decision. Greene also could have asserted <em> Gray </em> in a petition for post-conviction relief.</p>\n"
+}

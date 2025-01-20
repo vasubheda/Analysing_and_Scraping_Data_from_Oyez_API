@@ -1,0 +1,42 @@
+{
+    "ID": 55327,
+    "name": "Maryland v. Blake",
+    "href": "https://api.oyez.org/cases/2005/04-373",
+    "view_count": 0,
+    "docket_number": "04-373",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1113800400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39527"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1130824800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39528"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1131948000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39529"
+        }
+    ],
+    "question": "<p>When a police officer improperly communicates with a suspect after the suspect has invoked his right to an attorney, does <em>Edwards v. Arizona</em> permit consideration of curative measures by the police (such as the detective's quick correction of the officer's improper statement) to conclude that a suspect later initiated communication with the police?</p>\n",
+    "citation": {
+        "volume": "546",
+        "page": "72",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/20603"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/546/72/",
+    "facts_of_the_case": "<p>Following his arrest for murder, Leeander Blake invoked his right to speak with a lawyer. Before Blake's attorney arrived, however, an officer and a detective approached Blake to give him a copy of the charges against him. The statement of the charges included \"DEATH\" as a possible penalty, although Blake was 17 years old and therefore too young to face the death penalty. The officer said to Blake \"I bet you want to talk now, huh!\" The detective then said \"No, he doesn't want to talk to us. He already asked for a lawyer. We cannot talk to him now.\" A half hour later Blake decided to speak to the police without his lawyer, and he proceeded to make incriminating statements about the murder. At trial, Blake argued that the incriminating statements were the product of an illegal interrogation, and therefore inadmissible. (Under <em>Edwards v. Arizona</em>, police must cease interrogating a suspect after he requests an attorney, unless the suspect waives his previous request.) A county circuit court agreed with Blake, and ruled the statement inadmissible. On appeal, Maryland argued that Blake's interaction with the officer and the detective did not constitute an interrogation, because the officer's statement was a mere rhetorical question, and in any case was quickly corrected by the detective. An intermediate state appeals court agreed and allowed the statement to be admitted as evidence. However, the Maryland Court of Appeals reversed that decision, holding that the detective's correction did not reduce the severity of the officer's inappropriate statement. Since the officer's statement was ruled an illegal interrogation in violation of Blake's Miranda rights, the incriminating statement could not be used as evidence at trial.</p>\n",
+    "conclusion": "<p>Unanswered. Shortly after oral argument, the Court dismissed the case. The anonymous <em>Per Curiam</em> opinion stated simply: \"The writ of certiorari is dismissed as improvidently granted.\"</p>\n"
+}

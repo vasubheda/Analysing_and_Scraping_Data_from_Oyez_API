@@ -1,0 +1,49 @@
+{
+    "ID": 55337,
+    "name": "Kansas v. Marsh",
+    "href": "https://api.oyez.org/cases/2005/04-1170",
+    "view_count": 0,
+    "docket_number": "04-1170",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1117515600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39553"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1133935200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52224"
+        },
+        {
+            "event": "Reargued",
+            "dates": [
+                1145941200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51879"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1151298000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52223"
+        }
+    ],
+    "question": "<p>(1) Does a statute that provides for the death penalty when mitigating and aggravating factors are in equipoise violate the Eighth Amendment's ban on cruel and unusual punishment? (2) Does the Supreme Court have jurisdiction to review the Kansas Supreme Court's judgment?</p>\n",
+    "citation": {
+        "volume": "548",
+        "page": "163",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20580"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/548/163/",
+    "facts_of_the_case": "<p>Michael Lee Marsh II was convicted of murdering a mother and her young daughter. During the sentencing phase of the trial, jurors found that the mitigating factors and aggravating factors were in equipoise (i.e., of equal weight). The Kansas capital punishment statute specifically provided for the imposition of the death penalty in that circumstance, so Marsh was sentenced to death. After Marsh's sentencing, however, the Kansas Supreme Court in <em>State v. Kleypas</em> found fault with the concept of the death penalty as a \"tie-breaker.\" The ruled in <em>Kleypas</em> that \"fundamental fairness requires that a 'tie goes to the defendant' when life or death is at issue.\" The State argued that while the prosecution has the burden of proof during the trial, the burden can be shifted to the defendant during the sentencing phase, so that the defendant must show that he deserves less than a death sentence. The Kansas Supreme Court disagreed, and overturned Kansas's death penalty statute as unconstitutional under the Eighth Amendment.</p>\n",
+    "conclusion": "<p>No and Yes. By a 5-4 vote, the Court reversed the Kansas Supreme Court and upheld the Kansas death penalty statute. The Court found that the Kansas Supreme Court's decision had necessarily rested on a federal constitutional issue, so the Supreme Court had jurisdiction to hear the case. The opinion by Justice Thomas drew a comparison with a similar death penalty statute in Arizona that was upheld in <em>Walton v. Arizona</em>. The Court decided to let the <em>Walton</em> precedent stand and uphold the Kansas statute as well. Even apart from the <em>Walton</em> precedent, however, the Court would have upheld the statute as \"consistent with Eighth Amendment requirements.\" As long as juries are allowed to consider all of the relevant mitigating evidence, states are allowed to require the death penalty when aggravating and mitigating factors are equally balanced. Justice Souter, joined by Justices Stevens, Ginsburg, and Breyer, dissented from the Court's opinion. Justice Souter wrote that various death penalty precedents suggested that the statute could not stand up to \"reasoned moral judgment.\" He called the Kansas death penalty statute \"morally absurd,\" \"a moral irrationality,\" and \"obtuse by any moral or social measure.\" Justice Stevens wrote a separate dissent arguing that the Court should never have agreed to hear the case.</p>\n"
+}

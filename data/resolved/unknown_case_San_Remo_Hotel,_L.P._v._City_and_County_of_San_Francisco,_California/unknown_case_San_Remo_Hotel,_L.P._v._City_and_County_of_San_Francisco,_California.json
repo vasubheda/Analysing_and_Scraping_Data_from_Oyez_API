@@ -1,0 +1,42 @@
+{
+    "ID": 55223,
+    "name": "San Remo Hotel, L.P. v. City and County of San Francisco, California",
+    "href": "https://api.oyez.org/cases/2004/04-340",
+    "view_count": 0,
+    "docket_number": "04-340",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1102658400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39240"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1111989600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39241"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1119243600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39242"
+        }
+    ],
+    "question": "<p>Should federal courts make an exception to the full faith and credit statute for Fifth Amendment takings clause claims?</p>\n",
+    "citation": {
+        "volume": "545",
+        "page": null,
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/20550"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>The owners and operators of a hotel in San Francisco sued the city in state court, arguing a $567,000 conversion fee they had to pay in 1996 was an unconstitutional taking of private property. After California courts rejected this argument, the hoteliers argued in federal district court that the fee violated the Fifth Amendment's takings clause. This claim depended on issues identical to those that had been resolved in their state-court suit. The federal full faith and credit statute, however, barred litigants from suing in federal court when that suit was based on issues that had been resolved in state court (the rule of \"issue preclusion\"). The hoteliers asked the district court to exempt from the statute claims brought under the takings clause.</p>\n",
+    "conclusion": "<p>No. In a 9-0 judgment delivered by Justice John Paul Stevens, the Court refused to create an exception to the full faith and credit statute in order to provide a federal forum for litigants seeking to advance federal takings claims. The Court rejected the argument that whenever plaintiffs reserved their federal takings claims in state court, federal courts should review the reserved federal claims, regardless of the issues decided by the state court. Moreover, federal courts were not free to disregard the full faith and credit statute simply to guarantee that all takings plaintiffs can sue in federal court.</p>\n"
+}

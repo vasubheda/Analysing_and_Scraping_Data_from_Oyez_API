@@ -1,0 +1,42 @@
+{
+    "ID": 55487,
+    "name": "Exxon Shipping Co. v. Baker",
+    "href": "https://api.oyez.org/cases/2007/07-219",
+    "view_count": 0,
+    "docket_number": "07-219",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1193634000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53297"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1204092000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39959"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1214370000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52232"
+        }
+    ],
+    "question": "<p>Does maritime law permit judges to award punitive damages for employee misdeeds and does maritime law allow judge-made remedies when Congress has not authorized them?</p>\n",
+    "citation": {
+        "volume": "554",
+        "page": "471",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20760"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/554/471/",
+    "facts_of_the_case": "<p>The Exxon Valdez supertanker ran aground in Alaska's Prince William Sound in 1989 while under the command of Joseph Hazelwood, a relapsed alcoholic. Exxon knew that Hazelwood had resumed drinking but did not relieve him of his post, and the ship eventually spilled 11 million gallons of oil into the ecologically sensitive sound. The jury calculated compensatory damages at $287 million, and then awarded $5 billion in punitive damages. The punitive award has been reviewed three times by the Ninth Circuit Court of Appeals, which ultimately settled on a $2.5 billion figure. In a dissent from the full court's denial of rehearing in the third review of the award, Judge Alex Kozinski posited that any award, no matter its size, violated the maritime law rule that a ship owner need not pay for the reckless actions of an employee.</p>\n",
+    "conclusion": "<p>Maybe and yes. With Justice Samuel Alito taking no part in the decision because he owns Exxon stock, the Court split evenly 4-4 on the issue of whether judges may award punitive damages against a company for employee misdeeds. Therefore, the Court left the Ninth Circuit's ruling that they can undisturbed, but noted that this affirmation could not be used as precedent because it merely reflected an even split in the Court. On the second issue, a 5-4 majority held that judges are free to create remedies in maritime cases where Congress has not legislated in the area. However, this freedom can be lost if Congress passes legislation restraining such judicial activism. Justice David Souter delivered the opinion of the Court. Justice Antonin Scalia, joined by Justice Clarence Thomas, wrote a concurring opinion, agreeing with the Court's application of punitive damages precedent but arguing that those prior holdings were in error. Justice John Paul Stevens concurred in part and dissented in part, stating that Congress, not the courts, should be the sole body entrusted with determining the permissibility of punitive damages. Justice Stephen Breyer also concurred in part and dissented in part, arguing that the punitive damages in this case should have been reduced.</p>\n"
+}

@@ -1,0 +1,35 @@
+{
+    "ID": 54919,
+    "name": "Federal Election Commission v. Colorado Republican Federal Campaign Committee",
+    "href": "https://api.oyez.org/cases/2000/00-191",
+    "view_count": 0,
+    "docket_number": "00-191",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                983340000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38578"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                993445200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38579"
+        }
+    ],
+    "question": "<p>Are congressional campaign expenditure limitations on parties facially unconstitutional and thus unenforceable even as to spending coordinated with a candidate?</p>\n",
+    "citation": {
+        "volume": "533",
+        "page": "431",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18848"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/533/431/",
+    "facts_of_the_case": "<p>The Federal Election Campaign Act of 1971's definition of \"contribution\" includes \"expenditures made by any person in cooperation, consultation, or concert, with, or at the request or suggestion of, a candidate, his authorized political committees, or their agents.\" The U.S. Supreme Court, in Buckley v. Valeo, held that the limitations on political campaign contributions in the Act were generally constitutional, but that the Act's limitations on election expenditures infringed political expression in violation of the First Amendment. In Colorado Republican Federal Campaign Committee v. FEC, the Court held that the First Amendment prohibits the application of the Party Expenditure Provision of the Act to \"an expenditure that the political party has made independently, without coordination with any candidate.\" In the wake of this decision, the Committee's broader claim remained, that the congressional campaign expenditure limitations on parties themselves are facially unconstitutional and thus unenforceable even as to spending coordinated with a candidate. The District Court ruled in favor of the committee and the Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>No. In a 5-4 opinion delivered by Justice David H. Souter, the Court held that \"a party's coordinated expenditures, unlike expenditures truly independent, may be restricted to minimize circumvention of contribution limits.\" Justice Souter noted that \"'there is little evidence to suggest that coordinated party spending limits adopted by Congress have frustrated the ability of political parties to exercise their First Amendment rights to support their candidates.'\" Justice Clarence Thomas filed a dissenting opinion, which was joined by Chief Justice William H. Rehnquist and Justices Antonin Scalia and Anthony M. Kennedy. Justice Thomas argued that the spending limit \"sweeps too broadly, interferes with the party-candidate relationship, and has not been proved necessary to combat corruption.\"</p>\n"
+}

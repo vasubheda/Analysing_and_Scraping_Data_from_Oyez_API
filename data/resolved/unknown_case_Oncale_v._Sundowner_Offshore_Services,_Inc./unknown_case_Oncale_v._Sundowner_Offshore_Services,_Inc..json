@@ -1,0 +1,35 @@
+{
+    "ID": 54601,
+    "name": "Oncale v. Sundowner Offshore Services, Inc.",
+    "href": "https://api.oyez.org/cases/1997/96-568",
+    "view_count": 0,
+    "docket_number": "96-568",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                881128800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37986"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                888991200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37987"
+        }
+    ],
+    "question": "<p>Does the prohibition against sex discrimination, set out in Title VII of the Civil Rights Act of 1964, apply to same-sex sexual harassment?</p>\n",
+    "citation": {
+        "volume": "523",
+        "page": "75",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18530"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/523/75/",
+    "facts_of_the_case": "<p>Joseph Oncale, a male, filed a complaint against his employer, Sundowner Offshore Services, Inc., alleging that he was sexually harassed by co-workers, in their workplace, in violation of Title VII of the Civil Rights Act of 1964 (\"Title VII\"). On appeal from a decision supporting a district court's ruling against Oncale, the Supreme Court granted certiorari.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion, the Court held that while Title VII does not prohibit all verbal or physical harassment in the workplace, it does bar all forms of discrimination \"because of\" sex. Such discrimination, whether motivated by sexual desire or not, is actionable so long at it places its victim in an objectively disadvantageous working condition, regardless of the victim's gender.</p>\n"
+}

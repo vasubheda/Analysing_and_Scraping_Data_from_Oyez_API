@@ -1,0 +1,35 @@
+{
+    "ID": 55254,
+    "name": "Granholm v. Heald",
+    "href": "https://api.oyez.org/cases/2004/03-1116",
+    "view_count": 0,
+    "docket_number": "03-1116",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1102399200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52727"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1116219600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39326"
+        }
+    ],
+    "question": "<p>Does a state law that allows in-state wineries to directly ship alcohol to consumers, but restricts the ability of out-of-state wineries to do so, violate the dormant commerce clause in light of the 21st Amendment?</p>\n",
+    "citation": {
+        "volume": "540",
+        "page": "460",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/20568"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>Michigan and New York laws allowed in-state wineries to directly ship alcohol to consumers but restricted the ability of out-of-state wineries to do so. In separate cases groups sued the states and argued the laws violated the U.S. Constitution's \"dormant\" commerce clause. The dormant commerce clause prohibited states from passing laws affecting interstate commerce, particularly laws favoring in-state business over out-of-state business. The states argued the laws were valid exercises of state power under the 21st Amendment, which ended federal Prohibition and allowed states to regulate alcohol importation. A federal district court ruled for Michigan. The Sixth Circuit Court of Appeals reversed and ruled the Michigan law violated the dormant commerce clause and did not advance the core concerns of the 21st Amendment (such as temperance). A separate federal district court ruled against New York. The Second Circuit Court of Appeals reversed and ruled the 21st Amendment allowed New York's law.</p>\n",
+    "conclusion": "<p>Yes. In a 5-4 opinion delivered by Justice Anthony Kennedy, the Court held that both states' laws violated the commerce clause by favoring in-state wineries at the expense of out-of-state wineries and did so without the authorization of the 21st Amendment. State authority to engage in such economic discrimination was not the purpose the 21st Amendment. Moreover, in modern cases, that amendment did not save state laws violating other provisions of the Constitution.</p>\n"
+}

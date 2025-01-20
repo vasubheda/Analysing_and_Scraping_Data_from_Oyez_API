@@ -1,0 +1,42 @@
+{
+    "ID": 55510,
+    "name": "Quanta Computer, Inc., et al. v. LG Electronics, Inc.",
+    "href": "https://api.oyez.org/cases/2007/06-937",
+    "view_count": 0,
+    "docket_number": "06-937",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1190696400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40019"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1200463200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40020"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1212987600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40021"
+        }
+    ],
+    "question": "<p>May a patent holder seek royalties from companies other than its direct purchaser as the patented product is integrated into larger components during the manufacturing process?</p>\n",
+    "citation": {
+        "volume": "553",
+        "page": "617",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20751"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/553/617/",
+    "facts_of_the_case": "<p>LG Electronics owned patents for a group of products, including microprocessor chips used in personal computers. It licensed the patents to Intel, but in a well-publicized separate agreement excluded from the license any Intel customer that integrated the chip with non-Intel components. One purchaser disregarded the agreement and used the chips in computers made for Dell, Hewlett-Packard and Gateway. LG Electronics sued those who passed the chips down the line of commerce to companies that had not purchased licenses.</p>\n",
+    "conclusion": "<p>The Court concluded unanimously that it could not. Writing for the Court, Justice Clarence Thomas relied on the theory of \"patent exhaustion,\" which provides that a patented item's initial authorized sale terminates all patent rights to that item, denying LGE royalties from companies down the line of commerce.</p>\n"
+}

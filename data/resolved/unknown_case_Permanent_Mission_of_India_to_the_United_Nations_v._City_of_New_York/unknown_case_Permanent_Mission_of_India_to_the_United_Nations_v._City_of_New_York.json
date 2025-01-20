@@ -1,0 +1,42 @@
+{
+    "ID": 55408,
+    "name": "Permanent Mission of India to the United Nations v. City of New York",
+    "href": "https://api.oyez.org/cases/2006/06-134",
+    "view_count": 0,
+    "docket_number": "06-134",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1169186400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39737"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1177390800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39738"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1181797200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39739"
+        }
+    ],
+    "question": "<p>1) Does a suit to recover property taxes imposed on property owned by a foreign state fall within the Foreign Sovereign Immunity Act's \"immovable property\" exception to sovereign immunity?</p>\n<p>2) Did the court of appeals err in relying on two international agreements to which the United States is not a party in the course of interpreting the Foreign Sovereign Immunity Act?</p>\n",
+    "citation": {
+        "volume": "551",
+        "page": "193",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20693"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/551/193/",
+    "facts_of_the_case": "<p>Foreign countries can own buildings surrounding the United Nations in New York City tax-free if the buildings are used exclusively for diplomatic purposes. The City filed lawsuits against the Indian and Mongolian consulates in a District Court for failing to pay taxes on properties used for non-diplomatic purposes. The two consulates argued that the Foreign Sovereign Immunity Act (FSIA) granted them immunity from suit. The District Court ruled that it had jurisdiction to hear the suit under the FSIA's \"immovable property\" exception, which removes immunity from foreign countries when \"rights in immovable property situated in the United States are in issue.\" The two countries argued that \"rights\" denoted a narrow set of property laws and did not extend to tax matters. The U.S. Court of Appeals for the Second Circuit affirmed.</p>\n",
+    "conclusion": "<p>Yes and unanswered. The Court held 7-2 that the \"immovable property\" exception to sovereign immunity in the FSIA covers disputes over tax liens on the property as well as disputes over ownership and possession. The opinion by Justice Clarence Thomas ruled that a tax lien, by both its dictionary definition and its practical effect, is an interest or right in property. This broad interpretation of the exception was consistent with Congress's purpose in passing FSIA to adopt a much more restrictive theory of sovereign immunity than the previous, virtually absolute one. The Court found some of the evidence from contemporaneous international agreements to be ambiguous and equivocal, but it held that its interpretation was consistent with Congress's intention to codify the state of international law at the time of FSIA's enactment. Justice Stevens's dissent argued that \"[s]uch a broad exception to sovereign immunity threatens [...] to swallow the rule.\"</p>\n"
+}

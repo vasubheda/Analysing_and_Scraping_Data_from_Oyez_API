@@ -1,0 +1,49 @@
+{
+    "ID": 62722,
+    "name": "Jennings v. Rodriguez",
+    "href": "https://api.oyez.org/cases/2017/15-1204",
+    "view_count": 0,
+    "docket_number": "15-1204",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1466398800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53833"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1480485600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53919"
+        },
+        {
+            "event": "Reargued",
+            "dates": [
+                1507006800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54099"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1519711200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54214"
+        }
+    ],
+    "question": "<ol><li>Are noncitizens who are subject to mandatory detention under the relevant text of the Immigration and Nationality Act entitled to bond hearings, with the possibility of release, if their detentions last six months?</li>\n<li>Are the noncitizens entitled to release unless the government proves by clear and convincing evidence that the noncitizens are dangers to their communities and flight risks?</li>\n<li>Should the length of the noncitizen\u2019s detention be weighed in favor of release, and should new bond hearings be provided automatically every six months?</li>\n</ol><p>\u00a0</p>\n",
+    "citation": {
+        "volume": "583",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27437"
+    },
+    "term": "2017",
+    "description": "A case in which the Court held that non-citizens who are subject to mandatory detention under the Immigration and Nationality Act are not entitled to periodic bond hearings. with the possibility of release if they are detained for longer than six months.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/583/15-1204/",
+    "facts_of_the_case": "<p>Sections of the Immigration and Nationality Act require that noncitizens who are determined to be inadmissible to the United States must be detained during removal proceedings, though some may be released on bond if they can demonstrate that they are not a flight risk or a danger to the community. Alejandro Rodriguez and other detained noncitizens sued and argued that their prolonged detention without hearings and determinations to justify the detentions violated their due process rights. After litigation regarding class certification, the district court granted a preliminary injunction that required the government to provide each detainee with a bond hearing and to release that detainee unless the government could show, by clear and convincing evidence, that continued detention was justified. The U.S. Court of Appeals for the Ninth Circuit held that prolonged detention without a hearing raised serious constitutional concerns, and therefore that the relevant mandatory statutory language should be interpreted as having a time limitation; at the six-month mark, detainees are entitled to bond hearings. Because the plaintiff class proved that it was likely to succeed on the merits, the appellate court affirmed the grant of the preliminary injunction. The plaintiff class then moved for a permanent injunction, which the district court granted and the appellate court affirmed. The appellate court also determined that the duration of future detention and likelihood of eventual removal should not be considered in the bond hearings, and the noncitizens are entitled to bond hearings at six-month intervals throughout their detentions.</p>\n",
+    "conclusion": "<p>No, 8 U.S.C. \u00a7\u00a7 1225(b), 1226(a), and 1226(c) do not give detained aliens the right to periodic bond hearings during the course of their detention, and the Ninth Circuit misapplied the canon of constitutional avoidance in holding otherwise. Justice Samuel Alito delivered the opinion of the Court, except as to\u00a0Part II (for which there was a plurality).\u00a0Chief Justice John Roberts and Justice Anthony Kennedy joined Justice Alito\u2019s opinion in full, and\u00a0Justices Clarence Thomas and Neil Gorsuch joined as to all but Part II (regarding jurisdiction of the Court to hear the case).</p>\n<p>In Part II-A, a plurality of the Court (Alito, Roberts, Kennedy) held that it had jurisdiction to consider the respondents' claims, despite potential obstacles from 8 U.S.C. \u00a7\u00a7 1252(b)(9) and 1226(e). Section 1252(b)(9) limits the availablility of judicial review in removal proceedings to final orders only. The plurality noted that the \"respondents are not asking for review of an order of removal; they are not challenging the decision to detain them in the first place or to seek removal; and they are not even challenging any part of the process by which their removability will be determined.\" Thus, that section does not deprive the Court of jurisdiction in this case.</p>\n<p>In Part II-B, the plurality similarly found that Section 1226(e), which states that the attorney general's discretionary judgment in removal matters \"shall not be subject to review.\" It found that a challenge to the extent of the government's detention authority is outside the scope of this provision and thus that exercise of jurisdiction is proper.</p>\n<p>Writing for the majority (Alito, Roberts, Kennedy, Gorsuch, Thomas) in Part III, Justice Alito considered the merits of the arguments. In III-A, he looked directly to the statutory text of Sections 1225(b) and found nothing in the text from which to infer a six-month time limit on the length of detention. Without textual support, the canon of constitutional avoidance is inapplicable, and the Ninth Circuit was incorrect to rely on <a href=\"https://www.oyez.org/cases/2000/99-7791\"><em>Zadvydas v. Davis</em></a> as authority for inferring a time limit.</p>\n<p>In Part II-B, the majority interpreted\u00a0Section 1226(c), which allows aliens to be released \"only if\" the attorney general decides that certain conditions are met, as unequivocally prohibiting their release under any other conditions. Because release on bail is prohibited, a bail hearing (periodic or otherwise) is unnecessary.</p>\n<p>In Part II-C, the majority and Justice Sonia Sotomayor found that Section 1226(a) authorizes the attorney general to arrest and detain an alien \"pending a decision\" on removal and permits the attorney general to release the alien on bond. Nothing in the text of this provision supports the imposition of periodic bond hearings or the consideration of the length of detention to determine whether an alien should be released.</p>\n<p>Justice Thomas filed an opinion concurring in part and concurring in the judgment, in which Justice Gorsuch joined except for footnote 6. Justice Thomas opined that the Court lacks jurisdiction to hear the case under 8 U.S.C. \u00a7 1252(b)(9) because claims challenging detention during removal proceedings fall squarely within the jurisdictional bar in that provision. Justice Thomas also wrote to say that the application of Section 1252(b)(9) does not violate the Suspension Clause of the Constitution.</p>\n<p>Justice Breyer filed a dissenting opinion, in which Justices Ginsburg and Sotomayor joined. The dissent highlights the fact that the case concerns \"persons whom immigration authorities believe are not citizens and may not have a right to enter into, or remain within, the United States\" but who \"[n]onetheless ... likely have a reasonable claim that they do have such a right.\" The dissent looks to constitutional language, purposes, and tradition, to find that bail is most likely required in these instances of civil confinement, and that at the very least a bail hearing is required. Finally, the dissent finds that interpreting the statute to require bail proceedings in instances of prolonged detention does not run contrary to the plain language or purpose of the statute.</p>\n<p>Justice Kagan took no part in the decision of the case.</p>\n"
+}

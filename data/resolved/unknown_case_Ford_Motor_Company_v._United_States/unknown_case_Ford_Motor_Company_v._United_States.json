@@ -1,0 +1,35 @@
+{
+    "ID": 56024,
+    "name": "Ford Motor Company v. United States",
+    "href": "https://api.oyez.org/cases/2013/13-113",
+    "view_count": 0,
+    "docket_number": "13-113",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1385964000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41367"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1385964000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41368"
+        }
+    ],
+    "question": "<p>Did the U.S. Court of Appeals for the Sixth Circuit properly hear and decide the case?</p>\n",
+    "citation": {
+        "volume": "571",
+        "page": "28",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19946"
+    },
+    "term": "2013",
+    "description": "A case which the Court dismissed concerning the start of the period of time the Ford Motor Company should receive tax refunds from after an overpayment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/571/28/",
+    "facts_of_the_case": "<p>When a taxpayer overpays his taxes, he is entitled to interest from the government for the period between the date of overpayment and the ultimate refund, but the \"date of overpayment\" is not specifically defined.</p>\n<p>The Internal Revenue Service (IRS) informed the Ford Motor Company (Ford) that it had underpaid on its taxes between 1983 and 1989. Ford subsequently submitted deposits to the IRS that covered the underpayment. Ford later requested that the deposits be considered to cover additional taxes that Ford owed. The parties eventually determined that Ford had overpaid its taxes and was owed a refund. Ford argued that the date of overpayment was the date that it first submitted the deposits to the IRS for the underpayment of taxes, and the Government argued that the date of overpayment was the date when Ford requested that the payment cover additional taxes. Ford sued the Government in federal district court, and the court found in favor of the Government. The U.S. Court of Appeals for the Sixth Circuit affirmed.</p>\n",
+    "conclusion": "<p>No. In a per curiam decision, the Court held that, because the Government changed its jurisdictional argument in the reply to the petition for certiorari, the case should have been heard in the U.S. Court of Federal Claims rather than the federal district court. The Supreme Court is a court of final review, not first review, and therefore the new jurisdictional claim should have been heard by a lower court before being argued before the Supreme Court. The Court vacated the decision and remanded the case for further proceedings.</p>\n"
+}

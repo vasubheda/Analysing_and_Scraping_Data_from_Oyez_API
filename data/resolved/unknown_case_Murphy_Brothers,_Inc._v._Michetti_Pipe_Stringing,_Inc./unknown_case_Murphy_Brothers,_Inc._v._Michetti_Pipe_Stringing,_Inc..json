@@ -1,0 +1,35 @@
+{
+    "ID": 54752,
+    "name": "Murphy Brothers, Inc. v. Michetti Pipe Stringing, Inc.",
+    "href": "https://api.oyez.org/cases/1998/97-1909",
+    "view_count": 0,
+    "docket_number": "97-1909",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                920268000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38263"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                923288400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38264"
+        }
+    ],
+    "question": "<p>Is the time limit in which a named defendant may remove a state-court action to a federal court, as set forth in 28 U. S. C. ?1446(b), triggered by the mere receipt of a complaint unattended by any formal service?</p>\n",
+    "citation": {
+        "volume": "526",
+        "page": "344",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18681"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/526/344/",
+    "facts_of_the_case": "<p>On January 26, 1996, Michetti Pipe Stringing, Inc. (Michetti), filed a complaint in Alabama state court seeking damages for an alleged breach of contract and fraud by Murphy Bros., Inc. (Murphy). Michetti did not serve Murphy then, but three days later it faxed a \"courtesy copy\" of the complaint to a Murphy vice president. Michetti officially served Murphy under local law by certified mail on February 12, 1996. On March 13, 1996, 30 days after service but 44 days after receiving the faxed copy of the complaint, Murphy removed the case under 28 U. S. C. ?1441 to the Federal District Court. Michetti moved to remand the case to the state court on the ground that Murphy filed the removal notice 14 days too late under 28 U. S. C. ?1446(b), which specifies that the notice \"shall be filed within thirty days after the receipt by the defendant, through service or otherwise, of a copy of the [complaint].\" Michetti asserted that the removal was untimely because the notice had not been filed within 30 days of the date on which Murphy's vice president received the facsimile transmission. The District Court denied the remand motion on the ground that the 30-day removal period did not commence until Murphy was officially served with a summons. On an interlocutory appeal, the Court of Appeals reversed, instructing the District Court to remand the action to state court. The court held that the defendant's receipt of a faxed copy of the filed initial pleading sufficed to commence the 30-day removal period, emphasizing the statutory words \"receipt...or otherwise.\"</p>\n",
+    "conclusion": "<p>No. In a 6-3 decision, delivered by Justice Ruth Bader Ginsburg, the Court held that a named defendant's time to remove a state-court action to a federal court is triggered by the simultaneous service of the summons and complaint, or receipt of the complaint, \"through service or otherwise,\" after and apart from service of the summons, but not by the mere receipt of the complaint unattended by any formal service. Justice Ginsburg wrote for that Court that, \"[i]t would take a clearer statement than Congress has made to read its endeavor to extend removal time...to effect so strange a change_to set removal apart from all other responsive acts, to render removal the sole instance in which one's procedural rights slip away before service of a summons.\"</p>\n"
+}

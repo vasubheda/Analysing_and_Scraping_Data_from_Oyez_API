@@ -1,0 +1,35 @@
+{
+    "ID": 55086,
+    "name": "Woodford v. Visciotti",
+    "href": "https://api.oyez.org/cases/2002/02-137",
+    "view_count": 0,
+    "docket_number": "02-137",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1036389600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38891"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                1036389600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53445"
+        }
+    ],
+    "question": "<p>Was a state court\u2019s application of the Supreme Court\u2019s ineffective assistance of counsel precedent as requiring the defendant to show prejudice by a preponderance of the evidence objectively unreasonable?</p>\n",
+    "citation": {
+        "volume": "537",
+        "page": "19",
+        "year": "2002",
+        "href": "https://api.oyez.org/case_citation/case_citation/19015"
+    },
+    "term": "2002",
+    "description": "A case in which the Court determined that a federal court cannot reverse a state court\u2019s decision on habeas review when the state court reasonably applied precedent requiring the defendant show prejudice by strong evidence of ineffective counsel.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/537/19/",
+    "facts_of_the_case": "<p>On November 8, 1982, John Louis Visciotti and his co-worker attempted to rob two fellow employees while driving together to a party. Visciotti asked the driver to stop the car in a remote area, pulled out a gun, and demanded the victims\u2019 wallets. Because the victims had little money in their wallets, Visciotti located the money in the car and then shot the victims. Visciotti was convicted of first-degree murder, attempted murder, and robbery. The jury recommended the death penalty since the homicide took place during a robbery with a deadly weapon.</p>\n<p>Visciotti petitioned for a writ of habeas corpus from the California Supreme Court and claimed that he received ineffective assistance of counsel. The California Supreme Court denied the petition and held that, although Visciotti received ineffective assistance of counsel at the penalty phase of his trial, the jury was not prejudiced. The state court interpreted the Supreme Court\u2019s ineffective assistance of counsel precedent as requiring the defendant to show that, more likely than not, the outcome of the trial would have been different had it not been for the ineffective assistance of counsel. Visciotti then petitioned for a writ of habeas corpus from the federal district court, which granted the petition and determined that Visciotti had received ineffective assistance of counsel. The U.S. Court of Appeals for the Ninth Circuit affirmed.</p>\n",
+    "conclusion": "<p>The Court held that, unless the state court applied established U.S. Supreme Court precedent in a manner that was objectively unreasonable, a federal court cannot overrule a state court\u2019s decision on habeas review. In a per curiam opinion, the Court held that the California Supreme Court did not err in its assessment of whether Visciotti received ineffective assistance of counsel that prejudiced the jury, and therefore the federal court should not have overturned the state court\u2019s decision. Federal review of state court decisions on habeas rulings should be deferential unless the state court erred in its application of the constitutional standard or established precedent, which did not occur in this case.</p>\n"
+}

@@ -1,0 +1,28 @@
+{
+    "ID": 54422,
+    "name": "Leavitt v. Jane L.",
+    "href": "https://api.oyez.org/cases/1995/95-1242",
+    "view_count": 0,
+    "docket_number": "95-1242",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                834987600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37653"
+        }
+    ],
+    "question": "<p>Was the U.S. Court of Appeals for the Tenth Circuit correct to invalidate a Utah statutory provision regulating later-term abortions after a similar provision regulating earlier-term abortions was ruled unconstitutional?</p>\n",
+    "citation": {
+        "volume": "518",
+        "page": "137",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18351"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/518/137/",
+    "facts_of_the_case": "<p>A Utah district court held that a state statutory provision regulating early-term abortions was unconstitutional. The U.S. Court of Appeals for the Tenth Circuit ruled that a similar provision regulating later-term abortions should be invalidated along with the earlier-term provision. The Tenth Circuit held that the Utah Legislature would only have wanted to regulate later-term abortions if it could also regulate earlier-term abortions, and thus concluded that the provisions were not severable (i.e. separable). Utah governor Michael Leavitt appealed to the Supreme Court, arguing that the Utah Legislature intended the two provisions to be severable.</p>\n",
+    "conclusion": "<p>No. In a 5-4 decision, the Court reversed the Tenth Circuit's ruling. The anonymous Per Curiam opinion held that the Utah Legislature had explicitly stated that each of the two abortion provisions was meant to stand independent of the other. The Court called the Tenth Circuit's interpretation of the Utah legislature's intent \"questionable when considered in isolation\" and \"plainly error\" when considered in light of the statutory text. In dissent, Justice Stevens argued that the case should not have been granted, because it dealt with an issue of Utah state law that was better left to the lower courts.</p>\n"
+}

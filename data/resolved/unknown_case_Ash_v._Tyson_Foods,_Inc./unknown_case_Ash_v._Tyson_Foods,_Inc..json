@@ -1,0 +1,28 @@
+{
+    "ID": 55355,
+    "name": "Ash v. Tyson Foods, Inc.",
+    "href": "https://api.oyez.org/cases/2005/05-379",
+    "view_count": 0,
+    "docket_number": "05-379",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1140501600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39604"
+        }
+    ],
+    "question": "<p>(1) Did the Circuit Court use the proper standard of evidence for establishing that an employer's asserted nondiscriminatory reason for a hiring decision is pretextual? (2) Can an employer's use of the word \"boy\" to refer to an employee ever be evidence of racial animus?</p>\n",
+    "citation": {
+        "volume": "546",
+        "page": "454",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20634"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/546/454/",
+    "facts_of_the_case": "<p>Ash, an African American and an employee at a Tyson Foods poultry plant, was passed over for a promotion and sued the company for employment discrimination under Title VII of the Civil Rights Act of 1964. A jury found for Ash and awarded damages, but the District Court granted Tyson's motion for judgment as a matter of law, and ordered a new trial. The Eleventh Circuit Court of Appeals upheld the District Court's order, finding that the evidence presented by Ash was insufficient to support the damages awarded. Tyson claimed that Ash had been passed over for a more qualified employee, and in response Ash introduced evidence of his own superior qualifications in order to show that Tyson's reason was merely a pretext. The Circuit Court held that Ash's evidence did not meet the standard for establishing pretext: the disparity in qualifications needed to be \"so apparent as virtually to jump off the page and slap you in the face.\" In the course of its opinion, the Eleventh Circuit also held that the Tyson plant manager's use of the word \"boy\" to refer to Ash was not evidence of racial animus, because it was never coupled with racial classifications.</p>\n",
+    "conclusion": "<p>No and Yes. In an anonymous and unanimous <em>per curiam</em> opinion, the Court ruled that the Eleventh Circuit had made two separate errors in its decision. First, the Court found the Circuit Court's \"jump off the page and slap you in the face\" image to be \"unhelpful and imprecise as an elaboration of the standard.\" The Court did not precisely define the standard for pretext claims based on superior qualifications or rule on whether Ash necessarily had established pretext. Second, the Court held that while the word \"boy\" is not always evidence of racism, it not always benign either. The meaning depends \"on various factors including context, inflection, tone of voice, local custom, and historical usage,\" and not on the presence of racial modifiers like \"black\" or \"white.\" The Circuit Court's decision was reversed, and the Circuit Court was instructed to determine whether the errors were essential to the outcome of the case.</p>\n"
+}

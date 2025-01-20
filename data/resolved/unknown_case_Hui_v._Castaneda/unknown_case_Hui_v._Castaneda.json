@@ -1,0 +1,42 @@
+{
+    "ID": 55682,
+    "name": "Hui v. Castaneda",
+    "href": "https://api.oyez.org/cases/2009/08-1529",
+    "view_count": 0,
+    "docket_number": "08-1529",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1254286800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40487"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1267509600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40488"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1272862800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40489"
+        }
+    ],
+    "question": "<p>Is the FTCA the exclusive remedy for claims arising from medical care and related functions provided by PHS personnel, thus, barring <em>Bivens</em> actions?</p>\n",
+    "citation": {
+        "volume": "559",
+        "page": "799",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19604"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that the immunity granted by the Federal Tort Claims Act precludes Bivens actions against Public Health Service officers for constitutional violations committed while in the scope of the employees' official duties.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/559/799/",
+    "facts_of_the_case": "<p>These cases involve malpractice suits against Public Health Service (\"PHS\") employees. The plaintiffs filed actions recognized by <em>Bivens v. Six Unknown Named Agents of the Federal Bureau of Narcotics</em> in a California federal district court alleging violations of the Fifth and Eighth Amendments. The PHS sought a dismissal arguing that the Federal Tort Claims Act (FTCA) preempted <em>Bivens</em> claims. The district court rejected the argument and denied the motion to dismiss.</p>\n<p>On appeal, the Ninth Circuit affirmed, holding that FTCA did not preempt <em>Bivens</em> claims. The court reasoned that the FTCA was enacted six months prior to the Supreme Court's decision in <em>Bivens</em> and, thus, could not have been intended as a substitute.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court held that the immunity provided by the FTCA precludes <em>Bivens</em> actions against individual PHS officers or employees for harms arising out of constitutional violations committed while acting within the scope of their offices or employment. Justice Sonia Sotamayor, writing for a unanimous Court, reasoned that 42 U.S.C. \u00a7 233(a) plainly and clearly provides that the FTCA is the \"exclusive\" avenue for claims like those at issue in this case.</p>\n"
+}

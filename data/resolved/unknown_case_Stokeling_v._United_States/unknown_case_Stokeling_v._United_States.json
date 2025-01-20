@@ -1,0 +1,42 @@
+{
+    "ID": 62970,
+    "name": "Stokeling v. United States",
+    "href": "https://api.oyez.org/cases/2018/17-5554",
+    "view_count": 0,
+    "docket_number": "17-5554",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1522645200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54246"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1539061200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54357"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1547532000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54430"
+        }
+    ],
+    "question": "<p>Is a state robbery offense that includes \u201cas an element\u201d the common law requirement of overcoming \u201cvictim resistance\u201d categorically a \u201cviolent felony\u201d under the Armed Career Criminal Act, 18 U.S.C. \u00a7 924(e)(2)(b)(i), when that offense has been specifically interpreted by state appellate courts to require only slight force to overcome resistance?</p>\n",
+    "citation": {
+        "volume": "586",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27584"
+    },
+    "term": "2018",
+    "description": "A case in which the Court held that a state robbery offense that includes \u201cas an element\u201d the common law requirement of overcoming \u201cvictim resistance\u201d is categorically a \u201cviolent felony\u201d under the Armed Career Criminal Act, 18 U.S.C. \u00a7 924(e)(2)(b)(i), even though that offense requires only slight force to overcome resistance.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/586/17-5554/",
+    "facts_of_the_case": "<p>In 2016, Denard Stokeling pleaded guilty to charges that he was a felon in possession of a firearm and ammunition. He had two previous convictions for robbery in Florida, where an element of that offense was \u201covercoming victim resistance.\u201d Some state courts have interpreted this offense as requiring only slight force to overcome victim resistance. Stokeling therefore contended that both of his robbery convictions should not qualify as \u201cviolent felonies\u201d in the context of enhanced sentencing under the Armed Career Criminal Act, 18 U.S.C. \u00a7 924(e), because those convictions did not require a violent use of force. The district court agreed with Stokeling as to one of his convictions. The United States appealed to the 11th Circuit, which vacated Stokeling\u2019s sentence and remanded the case for sentencing as an Armed Career Criminal.</p>\n",
+    "conclusion": "<p>A state robbery offense that has as an element the use of force sufficient to overcome a victim\u2019s resistance is categorically a \u201cviolent felony\u201d under the Armed Career Criminal Act (ACCA) because it necessitates the use of \u201cphysical force.\u201d Justice Clarence Thomas authored the opinion for a 5\u20134 majority. The ACCA\u2019s elements clause covers any offense that has as an element \u201cthe use, attempted use, or threatened use of physical force.\u201d A majority of states define non-aggravated robbery as requiring a degree of force sufficient only to overcome a victim\u2019s resistance; indeed, even the \u201cslightest offensive touching\u201d constitutes \u201cphysical force\u201d in a majority of states. Stokeling\u2019s proposed definition of physical force as force \u201creasonably expected to cause pain or injury\u201d is inconsistent with the degree of force needed to commit robbery at common law and therefore cannot be adopted. Under the broader interpretation of \u201cphysical force,\u201d robbery under Florida law qualifies as an ACCA-predicate offense under the elements clause, so the decision of the Eleventh Circuit below is affirmed.</p>\n<p>Justice Sonia Sotomayor filed a dissenting opinion, in which Chief Justice John Roberts and Justices Elena Kagan and Ruth Bader Ginsburg joined. The dissent opines that in light of the Court\u2019s decision in <a href=\"https://www.oyez.org/cases/2009/08-6925\"><em>Johnson v. United States</em>, 559 U.S. 133 (2010)</a>, which held that the words \u201cphysical force\u201d in the ACCA mean \u201ca heightened degree of force, rather than minimal contact,\u201d a Florida robbery, which can be committed through use of only slight force, should not be a \u201cviolent crime\u201d under the ACCA.</p>\n"
+}

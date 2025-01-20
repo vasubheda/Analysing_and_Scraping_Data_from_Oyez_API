@@ -1,0 +1,35 @@
+{
+    "ID": 54765,
+    "name": "Nynex Corporation v. Discon, Inc.",
+    "href": "https://api.oyez.org/cases/1998/96-1570",
+    "view_count": 0,
+    "docket_number": "96-1570",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                907563600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38287"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                913615200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38288"
+        }
+    ],
+    "question": "<p>Does the antitrust rule outlawing group boycotts apply to a single buyer's decision to buy from one company over another?</p>\n",
+    "citation": {
+        "volume": "525",
+        "page": "128",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18694"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/525/128/",
+    "facts_of_the_case": "<p>Discon Incorporated sold services to remove obsolete telephone equipment to Material Enterprises Company, a subsidiary of NYNEX Corporation. When Material Enterprises started to buy removal services from AT&amp;T Technologies instead, Discon filed suit alleging NYNEX had engaged in unfair and anticompetitive practices. Discon claimed that Material Enterprises paid AT&amp;T more than Discon would have received. Material Enterprises passed on the extra cost to the customers of NYNEX. Material Enterprises then received a rebate from AT&amp;T and shared it with NYNEX. Discon alleged these practices were intended to them and to benefit their competitor, AT&amp;T, because Discon refused to participate in the scheme. The District Court dismissed the suit for failure to state a claim. The Court of Appeals affirmed the dismissal, but held Discon's claims were founded under the Sherman Act. Discon had a valid claim in antitrust rules that prohibit group boycotts because the practices were anticompetitive. Moreover, the complaint stated a valid conspiracy to monopolize. NYNEX argued that this case did not constitute a group boycott and therefore it could not proceed.</p>\n",
+    "conclusion": "<p>No. In a unanimous decision, announced by Justice Stephen G. Breyer, the Court ruled the group boycott rule does not apply to claims with a single buyer and a single supplier. In the competitive environment antitrust laws seek to encourage, NYNEX had the freedom to switch its vendor. As for the conspiracy to monopolize claim, the Court remanded the case to provide Discon a chance to show that NYNEX agreements possibly harmed the competitive process.</p>\n"
+}

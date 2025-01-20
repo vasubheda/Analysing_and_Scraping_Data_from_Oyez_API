@@ -1,0 +1,42 @@
+{
+    "ID": 55535,
+    "name": "14 Penn Plaza LLC v. Pyett",
+    "href": "https://api.oyez.org/cases/2008/07-581",
+    "view_count": 0,
+    "docket_number": "07-581",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1203400800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40090"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1228111200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40091"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1238562000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40092"
+        }
+    ],
+    "question": "<p>Are arbitration clauses in employment contracts -- waiving an employee's right to bring statutory claims in federal court -- enforceable?</p>\n",
+    "citation": {
+        "volume": "556",
+        "page": "247",
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20809"
+    },
+    "term": "2008",
+    "description": "A case in which the Court held that arbitration clauses in employment contracts are enforceable as a matter of federal law.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/556/247/",
+    "facts_of_the_case": "<p>A group of employees brought this action following a job transfer they believed to be based on age discrimination. The employees filed a grievance with their union, including the age discrimination issues but also asserting that the transfer violated their collective bargaining agreement. The union pursued the employees' collective bargaining claim through Penn Plaza's arbitration system; however, the employees themselves pursued their age discrimination claim in federal court under the Age Discrimination in Employment Act (ADEA). Penn Plaza argued that the arbitration clause included in the employment contract, stating that all age discrimination claims must be pursued through arbitration, prevented the employees from bringing the claim in federal court. The district court ruled in favor of the employees, holding the arbitration clause unconscionable and therefore unenforceable.</p>\n<p>The U.S. Court of Appeals for the Second Circuit affirmed the ruling, relying on its previous decisions holding that arbitration clauses with respect to statutory claims, such as the ADEA, are unenforceable.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court held that a provision in a collective bargaining agreement that clearly and unmistakably requires union members to arbitrate ADEA claims is enforceable as a matter of federal law. With Justice Clarence Thomas writing for the majority and joined by Chief Justice John G. Roberts and Justices Anthony G. Scalia, Anthony M. Kennedy, and Samuel A. Alito, the Court reasoned that ,here, the arbitration provision was a \"bargained-for exchange\" in the collective bargaining agreement and thus should not be interfered with by the courts. The Court went on to state that because the ADEA itself did not mandate such interference, the arbitration provision should be enforced.</p>\n<p>Justice John Paul Stevens wrote a separate dissenting opinion. He noted that the majority opinion was a departure from Supreme Court precedent with respect to arbitration clauses in collective bargaining agreements. He went on to state that it was it was Congress' responsibility to reassess the policy arguments favoring arbitration rather than for the Supreme Court to decide. Justice David H. Souter also wrote a separate dissenting opinion and was joined by Justices Stevens, Ruth Bader Ginsburg, and Stephen G. Breyer. He reemphasized that Supreme Court precedent did not preclude the pursuit of an ADEA claim because of an arbitration provision in a collective bargaining agreement, as in this case.</p>\n"
+}

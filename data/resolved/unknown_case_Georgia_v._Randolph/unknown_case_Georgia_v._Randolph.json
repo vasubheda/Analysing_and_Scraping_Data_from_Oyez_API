@@ -1,0 +1,42 @@
+{
+    "ID": 55346,
+    "name": "Georgia v. Randolph",
+    "href": "https://api.oyez.org/cases/2005/04-1067",
+    "view_count": 0,
+    "docket_number": "04-1067",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1113800400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39580"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1131429600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39581"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1143007200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39582"
+        }
+    ],
+    "question": "<p>Can police search a home when one physically present resident consents and the other physically present resident objects?</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "103",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20573"
+    },
+    "term": "2005",
+    "description": "A case in which the Court determined that if one resident grants a search and the other rejects, the search is unconstitutional under the Fourth Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/547/103/",
+    "facts_of_the_case": "<p>Scott Randolph was arrested for drug possession after police found cocaine in his home. The police did not have a warrant to search the home, but Randolph's wife consented to the search. Randolph was also present at the time of the search, however, and objected to the police request. At trial, his attorney argued that the search was unconstitutional because of Randolph's objection, while the prosecution argued that the consent of his wife was sufficient. The trial court ruled for the prosecution, but the appellate court and Georgia Supreme Court both sided with Randolph, finding that a search is unconstitutional if one resident objects, even if another resident consents.</p>\n",
+    "conclusion": "<p>No. In a 5 to 3 decision, the Supreme Court held that when two co-occupants are present and one consents to a search while the other refuses, the search is not constitutional. Justice David Souter, in the majority opinion, compared the reasonableness of such a search to a more casual interaction. Souter wrote, \"it is fair to say that a caller standing at the door of shared premises would have no confidence that one occupant's invitation was a sufficiently good reason to enter when a fellow tenant stood there saying, 'stay out.' Without some very good reason, no sensible person would go inside under those conditions.\" A police search in such circumstances, Souter wrote, would therefore not meet the reasonableness requirement of the Fourth Amendment.</p>\n<p><em>Learn more about the Roberts Court and the Fourth Amendment in <a href=\"http://projects.oyez.org/shifting-scales/\">Shifting Scales</a>, a nonpartisan Oyez resource.</em></p>\n"
+}

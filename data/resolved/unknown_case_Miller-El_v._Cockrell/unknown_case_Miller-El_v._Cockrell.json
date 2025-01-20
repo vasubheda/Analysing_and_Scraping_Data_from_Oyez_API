@@ -1,0 +1,35 @@
+{
+    "ID": 55054,
+    "name": "Miller-El v. Cockrell",
+    "href": "https://api.oyez.org/cases/2002/01-7662",
+    "view_count": 0,
+    "docket_number": "01-7662",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                1034744400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38833"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1046152800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38834"
+        }
+    ],
+    "question": "<p>Must an inmate demonstrate that a state court's finding of the absence of purposeful discrimination was incorrect by clear and convincing evidence in order for a court of appeals to issue a certificate of appealability?</p>\n",
+    "citation": {
+        "volume": "537",
+        "page": "322",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/18983"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/537/322/",
+    "facts_of_the_case": "<p>When Dallas County prosecutors used peremptory strikes to exclude 10 of the 11 African-Americans eligible to serve on the jury at Thomas Miller-El's capital murder trial, he moved to strike the jury on the ground that the exclusions violated equal protection. The trial judge denied relief, finding no evidence indicating a systematic exclusion of African-Americans. Subsequently, the jury found Miller-El guilty, and he was sentenced to death. After Miller-El's direct appeal and state habeas corpus petitions were denied, he filed a federal habeas corpus petition. The Federal District Court denied Miller-El's application for a certificate of appealability (COA) in deference to the state courts' acceptance of the prosecutors' race-neutral justifications for striking the potential jurors. The Court of Appeals also denied the COA, finding that Miller-El failed to present clear and convincing evidence to the contrary.</p>\n",
+    "conclusion": "<p>No. In an 8-1 opinion delivered by Justice Anthony M. Kennedy, the Court held that the Court of Appeals should have issued a COA to review the District Court's denial of habeas corpus relief. The Court reasoned, \"when a habeas applicant seeks permission to initiate appellate review of the dismissal of his petition, the court of appeals should limit its examination to a threshold inquiry into the underlying merit of his claims.\" Thus, a prisoner seeking a COA need only demonstrate \"a substantial showing of the denial of a constitutional right\" and satisfies this standard by demonstrating that jurists of reason could disagree with the district court's resolution of his constitutional claims or that jurists could conclude the issues presented are adequate to proceed further. Justice Clarence Thomas dissented.</p>\n"
+}

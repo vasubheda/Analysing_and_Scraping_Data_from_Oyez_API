@@ -1,0 +1,42 @@
+{
+    "ID": 55956,
+    "name": "Bullock v. BankChampaign",
+    "href": "https://api.oyez.org/cases/2012/11-1518",
+    "view_count": 0,
+    "docket_number": "11-1518",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1351486800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41228"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1363582800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41229"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1368421200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41230"
+        }
+    ],
+    "question": "<p>Are debts arising out of fraud or defalcation in a fiduciary capacity dischargeable in a Chapter 7 bankruptcy proceeding?</p>\n",
+    "citation": {
+        "volume": "569",
+        "page": "267",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19878"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that debts arising out of fraud or defalcation in a fiduciary capacity are not dischargeable in bankruptcy proceedings.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/569/267/",
+    "facts_of_the_case": "<p>In 1978, Randy Curtis Bullock became the trustee of his father's trust. The trust's only asset was his father's life insurance policy, and Bullock and his four siblings were the trust's only beneficiaries. As trustee, Bullock was only allowed to borrow from the trust to pay the life insurance premiums and to satisfy a withdrawal request from another trustee. Despite these restrictions, Bullock borrowed from the trust three times: to satisfy a debt on his father's business, to allow him and his mother to purchase certificates of deposit, and to allow him and his mother to purchase real estate. All of the loans were fully repaid.</p>\n<p>When Bullock's two brothers learned of the existence of the trust and their brother's actions, they sued him in Illinois state court. They claimed that Bullock had breached his fiduciary duty by taking loans that violated the guidelines of the trust. The brothers moved for summary judgment and the court granted it. The court ordered Bullock to pay $250,000 in damages for the benefits he received from his dealings with the trust, $35,000 in attorneys' fees, and placed the property Bullock purchased\u2014a mill in Ohio\u2014in a constructive trust. The constructive trust was awarded to BankChampaign, which replaced Bullock as the trustee of his father's trust. Bullock was unable to sell the mill to satisfy the Illinois judgment.</p>\n<p>In 2009, Bullock filed for bankruptcy under Chapter 7 to discharge his debt from the Illinois judgment. The bank started an adversary proceeding in bankruptcy court where it argued that debts arising out of \"fraud or defalcation while acting in a fiduciary capacity\" are not dischargeable by bankruptcy. The bank moved for summary judgment and the bankruptcy court granted the motion. Bullock appealed the bankruptcy court's judgment to district court, and the district court affirmed. The district court recognized that the only way for Bullock to satisfy the judgment debt was to sell the mill, and the bank could not hold it in perpetuity, so the district court concluded that the bank was abusing its power; however, it still affirmed the decision of the bankruptcy court. The U.S. Court of Appeals for the Eleventh Circuit affirmed the judgment of the bankruptcy court and held that Bullock's conduct met the standard for defalcation because it was objectively reckless and constituted a known breach of a fiduciary duty.</p>\n",
+    "conclusion": "<p>No. Justice Stephen J. Breyer delivered a unanimous opinion holding that a bankruptcy proceeding resulting from \"fraud or defalcation\" is not dischargeable and that the term \"defalcation\" encompasses knowledge of or grossly reckless behavior in a fiduciary capacity. The Court held that the term should include a knowledge or intent requirement because such a reading follows statutory and judicial precedent. Additionally, this interpretation differentiates the term from others in the statute and provides a clear definition on which courts may rely. The Court then vacated the lower court's judgment and remanded the case to determine if further proceedings were necessary under this heightened standard.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 62755,
+    "name": "Endrew F. v. Douglas County School District",
+    "href": "https://api.oyez.org/cases/2016/15-827",
+    "view_count": 0,
+    "docket_number": "15-827",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1475125200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53891"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1484114400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53944"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1490158800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53997"
+        }
+    ],
+    "question": "<p>What is the level of educational benefit that school districts must confer on children with disabilities to provide them with the free appropriate public education guaranteed by the Individuals with Disabilities Education Act (IDEA)?</p>\n",
+    "citation": {
+        "volume": "580",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27460"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that, in order to provide children with disabilities a free and appropriate public education as guaranteed by the IDEA, school districts must offer children an Individualized Education Plan (IEP) that is reasonably calculated to enable each child to make progress appropriate for that child\u2019s circumstances.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/580/15-827/",
+    "facts_of_the_case": "<p>Endrew F. is an autistic fifth grade student who was placed in private school because his parents believed his public school education was inadequate. Endrew was placed in Firefly Autism House and his parents sued for reimbursement of Endrew\u2019s private school tuition and related expenses pursuant to the Individuals with Disabilities Act (IDEA). IDEA provides that if a free public school cannot meet the educational needs of a disabled student, the student\u2019s parents may enroll their child in a private school and seek reimbursement for tuition and related expenses.</p>\n<p>This case first went to an Administrative Law Judge (ALJ) for review. The ALJ rejected Endrew\u2019s parent\u2019s request for reimbursement concluding that Endrew\u2019s public school had provided him with \u201cfree appropriate public education\u201d (FAPE) as required by the IDEA. The district court affirmed the ALJ\u2019s ruling and held that Endrew\u2019s parents failed to meet their burden to prove that Endrew was not provided with FAPE. The U.S. Court of Appeals for the Tenth Circuit affirmed.</p>\n",
+    "conclusion": "<p>In order to provide children with disabilities the free appropriate public education guaranteed by under the Individuals with Disabilities Education Act (IDEA), school districts must offer children an Individualized Education Program (IEP) that is reasonably calculated to enable each child to make progress appropriate for that child\u2019s circumstances. Chief Justice John G. Roberts, Jr., delivered the opinion for the unanimous Court, which held that the inquiry into whether an IEP is reasonably calculated to allow a child to make progress is necessarily an intensive, fact-specific one and therefore neither the Court nor the statute could create a substantive standard. The Court\u2019s decision in Board of Education of <em>Hendrick Hudson Central School District v. Rowley</em> suggests that \u201cappropriate progress\u201d for most children would allow them to be fully integrated into the classroom and to advance from grade to grade. This requirement is substantially more than the \u201cde minimus\u201d benefit that the school district argued was all it was required to provide. However, the Court also held that the standard Endrew F.\u2019s parents argued for was too rigorous and was similar to one that the Court had rejected in its decision in <em>Rowley</em>. In conducting its fact-intensive inquiry, a reviewing court should give deference to the expertise of school authorities but must still ensure that an IEP is reasonably calculated to enable each child to make progress appropriate for that child\u2019s circumstances.</p>\n"
+}

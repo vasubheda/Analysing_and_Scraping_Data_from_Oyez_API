@@ -1,0 +1,42 @@
+{
+    "ID": 55136,
+    "name": "Lamie v. United States Trustee",
+    "href": "https://api.oyez.org/cases/2003/02-693",
+    "view_count": 0,
+    "docket_number": "02-693",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1047276000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38997"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1068444000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38998"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1075096800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38999"
+        }
+    ],
+    "question": "<p>Did Congress intend to omit bankruptcy attorneys from the list of people a corporation could pay during Chapter 7 bankruptcy proceedings?</p>\n",
+    "citation": {
+        "volume": "540",
+        "page": "526",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19065"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/540/526/",
+    "facts_of_the_case": "<p>In the Bankruptcy Reform Act of 1994 Congress created a list of people that corporations could pay while going through Chapter 7 bankruptcy proceedings. The bankruptcy attorney for the corporation was not included in that list. John Lamie, a bankruptcy attorney, challenged the law, arguing that the omission of bankruptcy attorneys from the list was accidental. The bankruptcy court that heard the case ruled that the omission was not inadvertent. Nevertheless, it awarded Lamie the fees in question because money intended to pay them had been set aside in a retainer before the corporation entered Chapter 7 proceedings. A Fourth Circuit Court of Appeals panel reversed the decision to pay Lamie, holding that the retainer was not separate from the corporation's other funds. On the issue of whether the omission of the bankruptcy attorney from the list of acceptable payees, the panel affirmed the lower court's decision.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous decision, the Court upheld the Fourth Circuit, ruling that the Bankruptcy Reform Act of 1994 did not authorize the payment of bankruptcy attorneys by corporations going through Chapter 7 bankruptcy. According to Justice Anthony Kennedy's opinion for the Court: \"The statute is awkward, and even ungrammatical; but that does not make it ambiguous on the point at issue.\" The Court ruled that though the Act's deletion of the words \"or to the debtor's attorney\" from the Bankruptcy Code had rendered a sentence grammatically incorrect, the Act should still be interpreted according to the plain meaning of its text, however awkward. The Court found the legislative history of the Act inconclusive, and concluded that \"we must determine intent from the statute before us.\" The text of the statute, erroneously or not, omitted bankruptcy attorneys from the list of people bankrupt corporations could pay. r</p>\n"
+}

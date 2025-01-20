@@ -1,0 +1,42 @@
+{
+    "ID": 63434,
+    "name": "Johnson v. Arteaga-Martinez",
+    "href": "https://api.oyez.org/cases/2021/19-896",
+    "view_count": 0,
+    "docket_number": "19-896",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1629694800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55011"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1641880800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55012"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1655096400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55110"
+        }
+    ],
+    "question": "<p>Is a noncitizen who has spent more than six months in immigration detention awaiting resolution of their deportation withholding claim entitled to a hearing before an immigration judge to determine whether they can be released on bond?</p>\n",
+    "citation": {
+        "volume": "596",
+        "page": null,
+        "year": "2022",
+        "href": "https://api.oyez.org/case_citation/case_citation/27865"
+    },
+    "term": "2021",
+    "description": "A case in which the Court held that the government is not required to hold a bond hearing for noncitizens who have spent more than six months in immigration detention awaiting resolution of their deportation withholding claim.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/596/19-896/",
+    "facts_of_the_case": "<p>Antonio Arteaga-Martinez is a native and citizen of Mexico who entered the United States without inspection. In May 2018, Immigration and Customs Enforcement (ICE) arrested and detained him and initiated removal proceedings. Arteaga-Martinez applied for withholding and deferral of removal based on fear of violence in Mexico. Six months after the start of his detention, he requested a bond hearing and challenged his continued detention without one.</p>\n",
+    "conclusion": "<p>The Government is not required to provide noncitizens detained for six months with bond hearings in which the Government bears the burden of proving, by clear and convincing evidence, that the noncitizen poses a flight risk or a danger to the community.</p>\n<p>No plausible construction of the text of 9 U.S.C. \u00a7 1231(a)(6) requires the Government to provide bond hearings with the procedures mandated by the Third Circuit. It says nothing about bond hearings before immigration judges or burdens of proof.</p>\n<p>Justice Clarence Thomas authored a concurrring opinion, in which Justice Neil Gorsuch joined in part, arguing that while the majority reached the correct conclusion, he would hold that the Court lacks jurisdiction, the Due Process Clause does not apply to removal of noncitizens, and Zadvydas v. Davis should be overruled.</p>\n<p>Justice Stephen Breyer authored an opinion concurring in part and dissenting in part. He argued that Zadvydas control the outcome in this case.</p>\n"
+}

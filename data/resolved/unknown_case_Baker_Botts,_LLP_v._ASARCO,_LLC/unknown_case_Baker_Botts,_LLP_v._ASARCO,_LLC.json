@@ -1,0 +1,42 @@
+{
+    "ID": 56135,
+    "name": "Baker Botts, LLP v. ASARCO, LLC",
+    "href": "https://api.oyez.org/cases/2014/14-103",
+    "view_count": 0,
+    "docket_number": "14-103",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1412226000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41733"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1424844000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41734"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1434344400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52749"
+        }
+    ],
+    "question": "<p>Does the Bankruptcy Code allow a firm to be awarded damages for defending a challenge to a fee request?</p>\n",
+    "citation": {
+        "volume": "576",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/27097"
+    },
+    "term": "2014",
+    "description": "A case in which the Court held that the Bankruptcy Code does not provide an explicit statutory exception to the American rule of attorney fees\u2014that each litigant pays for his own attorney\u2019s fees.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/576/121/",
+    "facts_of_the_case": "<p>Baker Botts, LLP, along with Jordan, Hyden, Womber, Culbreth &amp; Holzer, PC, was awarded about $120 million in fees for representing Asarco, LLC in its Chapter 11 bankruptcy case, from which Asarco had emerged in 2009 with a reorganization plan that would pay its creditors in full. Baker Botts then filed for a final fee request, which Asarco contested. The bankruptcy court awarded Baker Botts more than $117 million to cover the fees in addition to $5 million for expenses incurred defending the fee claims. The district court affirmed. The U.S. Court of Appeals for the Fifth Circuit held that the Bankruptcy Code did not allow the firms to recover $5 million spent defending the fee request against Asarco's opposition.</p>\n",
+    "conclusion": "<p>No. Justice Clarence Thomas delivered the opinion of the 6-3 majority. The Court held that the American rule of attorney fee structure\u2014that each litigant pays for his own attorney\u2019s fees\u2014can only be altered through an explicit statutory provision. The Bankruptcy Code does not explicitly depart from this rule; instead it allows for \u201creasonable compensation\u201d for services rendered, which cannot be properly construed as including litigation regarding a contested fee request. Additionally, the established policy that, absent express statutory language, no attorneys receive compensation for costs incurred litigating fee challenges means that this reading of the statute creates no unfairness in the profession. Therefore, the American rule should still be assumed in force in cases such as this one.</p>\n<p>In her opinion concurring in part and concurring in the judgment, Justice Sonia Sotomayor wrote that, because the statutory language is clear in this case, the majority opinion should not have considered the policy argument.</p>\n<p>Justice Stephen G. Breyer wrote a dissenting opinion in which he argued that the Bankruptcy Code grants courts a great deal of discretion in determining how to award \u201creasonable compensation\u201d for services rendered, and therefore the courts can consider situations such as the costs of fee-related litigation in making such a determination. Because the costs of litigating fee challenges can be so high, factoring those costs into fee determinations can be the only way to ensure that the compensation is \u201creasonable\u201d as the Bankruptcy Code requires. The American rule can only remain in force if not overridden by statute, and the Bankruptcy Code provides a sufficient statutory exception. Justice Ruth Bader Ginsburg and Justice Elena Kagan joined in the dissent.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 63538,
+    "name": "Polselli v. Internal Revenue Service",
+    "href": "https://api.oyez.org/cases/2022/21-1599",
+    "view_count": 0,
+    "docket_number": "21-1599",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1670565600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55196"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1680066000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55243"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1684386000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55279"
+        }
+    ],
+    "question": "<p>Does the exception in I.R.C. \u00a7 7609(c)(2)(D)(i) to the notice requirements for an Internal Revenue Service summons on third-party recordkeepers apply to a summons for anyone\u2019s records whenever the IRS thinks that person\u2019s records might somehow help it collect a delinquent taxpayer\u2019s liability?</p>\n",
+    "citation": {
+        "volume": "598",
+        "page": null,
+        "year": "2023",
+        "href": "https://api.oyez.org/case_citation/case_citation/27928"
+    },
+    "term": "2022",
+    "description": "A case in which the Court held that the exception in I.R.C. \u00a7 7609(c)(2)(D)(i) to the notice requirements for an Internal Revenue Service summons on third-party recordkeepers applies to a summons for anyone\u2019s records whenever the IRS thinks that person\u2019s records might somehow help it collect a delinquent taxpayer\u2019s liability.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/598/21-1599/",
+    "facts_of_the_case": "<p>Remo Polselli underpaid his federal taxes for over a decade, with an outstanding balance of over $2 million. In pursuit of those unpaid liabilities, the Internal Revenue Service (IRS) issued administrative summonses to the banks of Polselli\u2019s wife and lawyers. The IRS did not notify Polselli\u2019s wife or lawyers of the summonses, relying on the exception in the Internal Revenue Code \u00a7 7609(c)(2)(D)(i), which excludes from the notice requirement summonses issued \u201cin aid of the collection\u201d of tax assessments.</p>\n<p>The district court concluded that the summonses fell within the exception and that Polselli\u2019s wife and lawyers were not entitled to notice. The U.S. Court of Appeals for the Sixth Circuit affirmed.</p>\n",
+    "conclusion": "<p>The exception to the notice requirements described in I.R.C. \u00a7 7609(c)(2)(D)(i) applies to a summons for anyone\u2019s records, regardless of whether the delinquent taxpayer has a legal interest in the accounts or records summoned. Chief Justice John Roberts wrote the opinion for the unanimous Court.</p>\n<p>The IRS has the power to pursue unpaid taxes and the people who owe them. In exercising that power, the IRS may issue a summons, including to third parties, to determine the liability of a taxpayer. In general, such summons require the IRS to give notice to any person identified in the summons. Anyone who is entitled to notice may bring a motion to quash the summons in federal district court, which ordinarily individuals may not do because of the sovereign immunity of the United States.</p>\n<p>The statute describes three conditions under which the IRS is exempt from having to provide notice of a summons: (1) the summons must be issued in aid of collection, (2) it must aid the collection of an assessment made or a judgment rendered, and (3) it must aid the collection of assessments or judgments \u201cagainst the person with respect to whose liability the summons is issued.\u201d</p>\n<p>The IRS\u2019s summonses in this case satisfy these three conditions, so the IRS was not required to give notice to Polselli. Because Polselli was not entitled to notice, he also was not entitled to bring a motion to quash the summons. Therefore, the district court lacked jurisdiction to hear his motion to quash.</p>\n<p>Justice Ketanji Brown Jackson filed a concurring opinion, in which Justice Neil Gorsuch joined, to emphasize that giving notice is the default rule and to caution that reading the exception too broadly would undermine the purpose of the notice-as-default system.</p>\n"
+}

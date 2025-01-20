@@ -1,0 +1,35 @@
+{
+    "ID": 54654,
+    "name": "Texas v. United States",
+    "href": "https://api.oyez.org/cases/1997/97-29",
+    "view_count": 0,
+    "docket_number": "97-29",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                884757600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38084"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                891324000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38085"
+        }
+    ],
+    "question": "<p>Is Texas's claim for a declaratory judgment that Chapter 39's authorized sanctions against school districts for failure to meet mandated educational achievement levels do not need preclearance ripe for adjudication?</p>\n",
+    "citation": {
+        "volume": "523",
+        "page": "296",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18583"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/523/296/",
+    "facts_of_the_case": "<p>In 1995, the Texas Legislature enacted Chapter 39. Chapter 39 holds local school boards accountable to the State for student achievement in the public schools. The State Commissioner of Education may select from various sanctions, including the appointment of a master or a management team and the contracting out of services, when a school district falls short of Chapter 39's accreditation criteria. Under section 5 of the Voting Rights Act of 1965, Texas submitted Chapter 39 to the United States Attorney General for a determination whether any of the sanctions effected voting and thus required preclearance. Ultimately, the Assistant Attorney General for Civil Rights cautioned that such sanctions implementation might violate section 5. Subsequently, Texas sought a declaration District Court that section 5 did not apply to such sanctions. The court concluded that Texas's claim was not ripe.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Antonin Scalia, the Court held that Texas's claim is not ripe for adjudication. The Court's holding turning on the fact that Texas did not indicate any school district in which an application of Chapter 39 was \"foreseen or even likely.\" Justice Scalia wrote for the Court that, \"we find it too speculative whether the problem Texas presents will ever need solving; we find the legal issues Texas raises not yet fit for our consideration, and the hardship to Texas of biding its time insubstantial.\"</p>\n"
+}

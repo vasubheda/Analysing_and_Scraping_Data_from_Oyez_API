@@ -1,0 +1,42 @@
+{
+    "ID": 55749,
+    "name": "Sorrell v. IMS Health Inc.",
+    "href": "https://api.oyez.org/cases/2010/10-779",
+    "view_count": 0,
+    "docket_number": "10-779",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1294380000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40654"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1303794000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40655"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1308805200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40656"
+        }
+    ],
+    "question": "<p>Does a Vermont state statute banning the sale, transmission or use of prescriber-identifiable data, absent prescriber consent, unconstitutionally restrict the free speech rights of pharmaceutical research companies, manufacturers and others to use that data?</p>\n",
+    "citation": {
+        "volume": "564",
+        "page": null,
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19671"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that a Vermont statute banning the sale, transmission or use of prescription drug user data violated protected speech of the pharmaceutical research companies, manufacturers and others who use that data. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/564/552/",
+    "facts_of_the_case": "<p>In 2007, the Vermont legislature passed a law that banned the sale, transmission or use of prescriber-identifiable data (''PI data'') for marketing or promoting a prescription drug without the consent of the prescriber. The law also prohibited the sale, license or exchange for value of PI data for marketing or promoting a prescription drug.</p>\n<p>Three companies -- IMS Health, Verispan and Source Healthcare Analytics, a unit of Dutch publisher Wolters Kluwer -- that collect and sell such data and by a trade group for pharmaceutical manufacturers challenged the law. The U.S. Court of Appeals for the 2nd Circuit struck down the measure, holding that it violated the First Amendment because it restricts the speech rights of data miners without directly advancing legitimate state interests.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court affirmed the lower court order in an opinion by Justice Anthony Kennedy. \"Vermont's statute, which imposes content-and speaker-based burdens on protected expression, is subject to heightened judicial scrutiny,\" Kennedy wrote. Meanwhile, Justice Stephen Breyer dissented, joined by Justices Ruth Bader Ginsburg and Elena Kagan. \"The First Amendment does not require courts to apply a special 'heightened' standard of review when reviewing such an effort,\" Breyer wrote. \"And, in any event, the statute meets the First Amendment standard this Court has previously applied when the government seeks to regulate commercial speech.\"</p>\n"
+}

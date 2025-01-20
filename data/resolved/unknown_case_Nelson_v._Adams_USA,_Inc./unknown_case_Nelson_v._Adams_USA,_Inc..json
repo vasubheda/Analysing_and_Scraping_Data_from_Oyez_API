@@ -1,0 +1,35 @@
+{
+    "ID": 54847,
+    "name": "Nelson v. Adams USA, Inc.",
+    "href": "https://api.oyez.org/cases/1999/99-502",
+    "view_count": 0,
+    "docket_number": "99-502",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                954136800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38439"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                956638800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38440"
+        }
+    ],
+    "question": "<p>May a party, who has been made a party to a civil action, be simultaneously made personally liable?</p>\n",
+    "citation": {
+        "volume": "529",
+        "page": "460",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18776"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/529/460/",
+    "facts_of_the_case": "<p>The Ohio Cellular Products Corporation (OCP) sued Adams USA, Inc. (Adams), for patent infringement. After the District Court ruled in Adams' favor by dismissing the suit, Adams motioned for attorney fees and costs. In granting the motion, the court found that Donald Nelson, who was at all relevant times president and sole shareholder of OCP, had acted in a way that constituted inequitable conduct chargeable to OCP. Fearing it would be unable to collect the award, Adams moved under Rule 15 of the Federal Rules of Civil Procedure to amend its pleading to add Nelson, personally, as a party from whom fees could be collected. Additionally, Adams asked the court, under Rule 59(e), to amend the judgment to make Nelson immediately liable for the fee award. The District Court granted the motion in full. The Court of Appeals affirmed the decision simultaneously making Nelson a party and subjecting him to judgement.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Ruth Bader Ginsburg, the Court held that the District Court erred in amending the judgment immediately upon permitting the amendment of the pleading. Justice Ginsburg wrote for the Court that \"[d]ue process, as reflected in Rule 15 as well as Rule 12, required that Nelson be given an opportunity to respond and contest his personal liability for the award after he was made a party and before the entry of judgment against him.\" Thus, the District Court's granting of Adams' motion to simultaneously make Nelson a party and personally liable violated due process.</p>\n"
+}

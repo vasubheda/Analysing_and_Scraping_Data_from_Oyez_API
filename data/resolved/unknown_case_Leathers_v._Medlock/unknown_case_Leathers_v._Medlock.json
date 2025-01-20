@@ -1,0 +1,35 @@
+{
+    "ID": 53837,
+    "name": "Leathers v. Medlock",
+    "href": "https://api.oyez.org/cases/1990/90-29",
+    "view_count": 0,
+    "docket_number": "90-29",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                663400800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36554"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                671778000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/36555"
+        }
+    ],
+    "question": "<p>Does differential taxation of different media violate the First and 14th Amendments? Does differential taxation of members of the same medium violate the First and 14th Amendments?</p>\n",
+    "citation": {
+        "volume": "499",
+        "page": "439",
+        "year": "1991",
+        "href": "https://api.oyez.org/case_citation/case_citation/17766"
+    },
+    "term": "1990",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/499/439/",
+    "facts_of_the_case": "<p>In 1987, Arkansas amended its Gross Receipts Act (GRA), imposing a tax on cable television but not on print media. Cable companies and others filed suit in the State Chancery Court, alleging that taxing cable services, but not print and satellite broadcast services, violated their First Amendment expressive rights and 14th Amendment equal protection rights. In 1989, after the Chancery Court upheld the amendment, Arkansas again amended the GRA, extending the tax to satellite broadcast services. On appeal, the State Supreme Court upheld the GRA. However, the court ruled that the First Amendment prohibits differential taxation among members of the same medium. Therefore, because cable and scrambled satellite television services are essentially the same, the tax was unconstitutional when it applied only to cable services.</p>\n",
+    "conclusion": "<p>No and no. In an opinion delivered by Justice Sandra Day O'Connor, the Court held 7-2 that without the intent or effect of suppressing expression, the First Amendment allows differential taxation of different media and differential taxation of some members of the same medium. Specifically, the Court held that the GRA was a generally applicable sales tax, and that its burden on cable television, while exempting the print media, was content-neutral, not directed at a select few, and not intended to interfere with expression. The Court went on to rule that the First Amendment allows a differential tax burden on some members of pay television services (that is, a tax on cable but not satellite services), if the tax is not intended to suppress expression. The Court ordered the State Supreme Court to address the 14th Amendment claim on remand. Dissenting, Justice Thurgood Marshall, joined by Justice Harry A. Blackmun, argued that the First Amendment non-discrimination principle prohibits a heavier tax burden on one medium and not other media.</p>\n"
+}

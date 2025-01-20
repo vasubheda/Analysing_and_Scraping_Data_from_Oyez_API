@@ -1,0 +1,35 @@
+{
+    "ID": 54909,
+    "name": "Tyler v. Cain",
+    "href": "https://api.oyez.org/cases/2000/00-5961",
+    "view_count": 0,
+    "docket_number": "00-5961",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                987397200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38558"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                993704400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38559"
+        }
+    ],
+    "question": "<p>Was the ruled established under Cage v. Louisiana, that a jury instruction is unconstitutional if there is a reasonable likelihood that the jury understood the instruction to allow conviction without proof beyond a reasonable doubt, \"made retroactive to cases on collateral review by the Supreme Court,\" such that an inmate is entitled to submit successive a habeas petition based on that new rule?</p>\n",
+    "citation": {
+        "volume": "533",
+        "page": "656",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18838"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/533/656/",
+    "facts_of_the_case": "<p>Melvin Tyler was convicted of second-degree murder. Ultimately, Tyler filed his sixth state habeas petition after the U.S. Supreme Court decided Cage v. Louisiana, which held that a jury instruction is unconstitutional if there is a reasonable likelihood that the jury understood it to allow conviction without proof beyond a reasonable doubt. Tyler claimed that that a jury instruction in his trial was similar to the one ruled unconstitutional in Cage. Ultimately, Tyler filed a second federal habeas petition pursuant to the Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA). The District Court denied relief. In affirming, the Court of Appeals stated the District Court had failed to determine whether Tyler had satisfied the AEDPA's successive habeas standard, which requires a district court to dismiss a claim in a second or successive application unless the applicant \"shows\" that the \"claim relies on a new rule of constitutional law, made retroactive to cases on collateral review by the Supreme Court, that was previously unavailable.\" The court concluded that Tyler did not meet this standard because he \"could not show that any Supreme Court decision renders the Cage decision retroactively applicable to cases on collateral review.\"</p>\n",
+    "conclusion": "<p>No. In a 5-4 opinion by Justice Clarence Thomas, the Court held that the Cage rule was not \"made retroactive to cases on collateral review by the Supreme Court.\" Justice Thomas wrote for the Court that \"[b]ecause 'made' means 'held'...it is clear that the Cage rule has not been 'made retroactive to cases on collateral review by the Supreme Court.' Cage itself does not hold that it is retroactive. The only holding in Cage is that the particular jury instruction violated the Due Process Clause.\" Justice Sandra Day O'Connor filed a concurring opinion. Justice Stephen G. Breyer filed a dissenting opinion, in which Justices John Paul Stevens, David H. Souter and Ruth Bader Ginsburg joined.</p>\n"
+}

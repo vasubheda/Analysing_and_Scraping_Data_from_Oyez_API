@@ -1,0 +1,42 @@
+{
+    "ID": 63585,
+    "name": "Alexander v. South Carolina State Conference of the NAACP",
+    "href": "https://api.oyez.org/cases/2023/22-807",
+    "view_count": 0,
+    "docket_number": "22-807",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1684126800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55281"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1697000400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55347"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1716440400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55464"
+        }
+    ],
+    "question": "<p>Does the South Carolina legislature\u2019s redistricting map, which has the effect of moving tens of thousands of Black voters to a different district, constitute an impermissible racial gerrymander, even if the legislators\u2019 purported intent was merely a political gerrymander?</p>\n",
+    "citation": {
+        "volume": "602",
+        "page": null,
+        "year": "2024",
+        "href": "https://api.oyez.org/case_citation/case_citation/27955"
+    },
+    "term": "2023",
+    "description": "A case in which the Court held that South Carolina\u2019s congressional redistricting plan does not constitute an unconstitutional racial gerrymander.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/602/22-807/",
+    "facts_of_the_case": "<p>After the 2020 Census, South Carolina\u2019s Republican-controlled legislature adopted a new congressional map that moved tens of thousands of Black voters to a different district, effectively making the district a safe seat for Republicans.</p>\n<p>The South Carolina State Conference of the NAACP sued, and a three-judge panel concluded that the district was an unconstitutional racial gerrymander. The legislators appealed directly to the Supreme Court, arguing that the map was actually a political gerrymander (which is permissible) that merely had a racial effect.</p>\n",
+    "conclusion": "<p>The district court\u2019s finding that race predominated in the design of South Carolina\u2019s first congressional district was clearly erroneous, so its racial-gerrymandering and vote-dilution holdings are reversed. Justice Samuel Alito authored the 6-3 majority opinion of the Court.</p>\n<p>To prove unconstitutional racial gerrymandering, a plaintiff must show that race was the \u201cpredominant factor motivating the legislature\u2019s decision to place a significant number of voters within or without a particular district.\u201d To make that showing, a plaintiff must prove that the State \u201csubordinated\u201d race-neutral districting criteria such as compactness, contiguity, and core preservation to \u201cracial considerations.\u201d Racial considerations predominate when \u201c[r]ace was the criterion that, in the State\u2019s view,\u00a0 could not be compromised\u201d in the drawing of district lines. However, when partisanship and race correlate, a constitutionally permissible partisan gerrymandered map can look very similar to a racially gerrymandered map. District courts must presume that legislatures acted in good faith in drawing a districting map. Here, the plaintiffs provided no direct evidence, and only weak circumstantial evidence, of a racial gerrymander. The four experts whose testimony the plaintiffs proffered, and on which the district court relied, are flawed because they \u201cignored certain traditional districting criteria\u201d such as geographical constraints and the legislature\u2019s partisan interests. Further, the plaintiffs failed to provide a substitute map that shows how the State \u201ccould have achieved its legitimate political objectives\u201d while producing \u201csignificantly greater racial balance.\u201d An alternative map of this sort is crucial in helping plaintiffs disentangle race and politics. In light of the weak circumstantial evidence of racial gerrymandering and the absence of an alternative map, the district court's finding that race predominated the redistricting map was clearly erroneous.</p>\n<p>Justice Clarence Thomas authored an opinion concurring in part, arguing that the Court\u2019s review of the expert reports exceeds the proper scope of clear-error review. Justice Thomas argued that the district court\u2019s failure to evaluate evidence reflecting the correlation between race and politics with the necessary presumption of legislative good faith and its failure to properly account for the plaintiffs\u2019 failure to produce an alternative map are alone reversible legal errors.</p>\n<p>Justice Elena Kagan authored a dissenting opinion, in which Justices Sonia Sotomayor and Ketanji Brown Jackson joined, criticizing the \u201cpick[ing] and choos[ing] evidence to its liking.\u201d Justice Kagan argued that rather than giving the district court\u2019s view of the evidence \u201csignificant deference\u201d as is required by \u201cclear error\u201d review, the majority inverts the clear-error standard by using the presumption that a legislature acted in good faith and by treating any \u201cpossibility\u201d that favors the state as \u201cdispositive.\u201d</p>\n"
+}

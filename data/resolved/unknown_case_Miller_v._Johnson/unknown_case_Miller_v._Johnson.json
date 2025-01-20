@@ -1,0 +1,35 @@
+{
+    "ID": 54299,
+    "name": "Miller v. Johnson",
+    "href": "https://api.oyez.org/cases/1994/94-631",
+    "view_count": 0,
+    "docket_number": "94-631",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                798267600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37425"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                804402000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37426"
+        }
+    ],
+    "question": "<p>Is racial gerrymandering of the congressional redistricting process a violation of the Equal Protection Clause?</p>\n",
+    "citation": {
+        "volume": "515",
+        "page": "900",
+        "year": "1995",
+        "href": "https://api.oyez.org/case_citation/case_citation/18228"
+    },
+    "term": "1994",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/515/900/",
+    "facts_of_the_case": "<p>Between 1980 and 1990, only one of Georgia's ten congressional districts was majority-black. According to the 1990 decennial census, Georgia's black population of 27% entitled blacks to an additional eleventh congressional seat, prompting Georgia's General Assembly to re-draw the state's congressional districts. After the Justice Department refused pre-clearance of several of the Assembly's proposed new districts, the Assembly was finally successful in creating an additional majority-black district through the forming of an eleventh district. This district, however, was called a \"geographic monstrosity\" because it extended 6,784.2 square miles from Atlanta to the Atlantic Ocean. In short, \"the social, political, and economic makeup of the Eleventh District tells a tale of disparity, not community.\"</p>\n",
+    "conclusion": "<p>Yes. In some instances, a reapportionment plan may be so highly irregular and bizarre in shape that it rationally cannot be understood as anything other than an effort to segregate voters based on race. Applying the rule laid down in Shaw v. Reno requires strict scrutiny whenever race is the \"overriding, predominant force\" in the redistricting process.</p>\n"
+}

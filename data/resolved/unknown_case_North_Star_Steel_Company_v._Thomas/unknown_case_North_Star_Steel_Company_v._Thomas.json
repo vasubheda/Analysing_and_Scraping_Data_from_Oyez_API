@@ -1,0 +1,35 @@
+{
+    "ID": 54375,
+    "name": "North Star Steel Company v. Thomas",
+    "href": "https://api.oyez.org/cases/1994/94-834",
+    "view_count": 0,
+    "docket_number": "94-834",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                798786000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37568"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                801810000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37569"
+        }
+    ],
+    "question": "<p>Is state law the proper source of the limitations period for civil actions brought to enforce the Worker Adjustment and Retraining Notification Act?</p>\n",
+    "citation": {
+        "volume": "515",
+        "page": "29",
+        "year": "1995",
+        "href": "https://api.oyez.org/case_citation/case_citation/18304"
+    },
+    "term": "1994",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/515/29/",
+    "facts_of_the_case": "<p>The Worker Adjustment and Retraining Notification Act (WARN) authorizes a civil enforcement action by aggrieved employees or their union against a covered employer who fails to give 60 days notice of a plant closing or mass layoff, but provides no limitations period for such an action. In 94-835, the United Steelworkers of America filed a WARN claim, charging Crown Cork &amp; Seal Co., Inc. with laying off 85 employees without giving the required 60-day notice. In rejecting Crown Cork's contention that the statute of limitations had run, the District Court held that the source of the limitations period for WARN suits is state law and that the union's suit was timely under any of the arguably applicable Pennsylvania statutes. In 94-834, another District Court granted summary judgment for North Star Steel Company, holding the nonunion employees' suit barred under a limitations period borrowed from the National Labor Relations Act, which the court believed was more analogous to WARN than any state law. The Court of Appeals consolidated the cases and held that a WARN limitations period should be borrowed from state, not federal, law.</p>\n",
+    "conclusion": "<p>Yes. In a 9-0 opinion delivered by Justice David H. Souter, the Court held that State law is the proper source of the limitations period for civil actions brought to enforce WARN. Where a federal statute fails to provide any limitations period for a new cause of action, the Court noted that its longstanding practice has been to borrow the limitations period from the most closely analogous state statute. The Court reasoned that North Star did not fall within the exception where the relevant state limitations periods would frustrate or interfere with the implementation of national policies or be at odds with the purpose or operation of federal substantive law. Justice Antonin Scalia concurred in the judgment.</p>\n"
+}

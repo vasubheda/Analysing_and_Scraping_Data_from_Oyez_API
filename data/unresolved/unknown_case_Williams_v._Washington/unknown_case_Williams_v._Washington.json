@@ -1,0 +1,33 @@
+{
+    "ID": 63649,
+    "name": "Williams v. Washington",
+    "href": "https://api.oyez.org/cases/2024/23-191",
+    "view_count": 0,
+    "docket_number": "23-191 ",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1705039200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55390"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1728277200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55515"
+        }
+    ],
+    "question": "<p>Does a Section 1983 claim brought in state court require the plaintiffs to first exhaust state administrative remedies?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28003"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether exhaustion of state administrative remedies is required to bring claims under 42 U.S.C. \u00a7 1983 in state court.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2023/23-191 /"
+}

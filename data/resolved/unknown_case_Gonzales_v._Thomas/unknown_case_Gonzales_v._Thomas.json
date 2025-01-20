@@ -1,0 +1,35 @@
+{
+    "ID": 55323,
+    "name": "Gonzales v. Thomas",
+    "href": "https://api.oyez.org/cases/2005/05-552",
+    "view_count": 0,
+    "docket_number": "05-552",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1145250000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39517"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                1145250000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53449"
+        }
+    ],
+    "question": "<p>Can a particular family constitute a \u201cparticular social group\u201d for the purposes of granting asylum under the Immigration and Nationality Act?</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "183",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/19250"
+    },
+    "term": "2005",
+    "description": "A case in which the Court held that an appellate court cannot substitute its judgment for that of the appropriate administrative agency on matters over which the agency has statutory authority.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/547/183/",
+    "facts_of_the_case": "<p>A South African family sought asylum in the United States under the Immigration and Nationality Act (INA), which grants asylum to those who cannot return to another country because of \u201cpersecution or a well-founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or political opinion.\u201d Their application for asylum claimed that they feared persecution if they returned to South Africa because of their (1) political opinions and (2) \u201cmembership in a particular social group,\u201d which they argued included both their race and their kinship with a particular well-known white South African. The immigration judge denied their application, and the Board of Immigration Appeals (BIA) affirmed. On appeal, the U.S. Court of Appeals for the Ninth Circuit held that association with a particular family may fall within the scope of the \u201cparticular social group\u201d language in the INA.</p>\n",
+    "conclusion": "<p>The question of whether a family can constitute a \u201cparticular social group\u201d for the purposes of granting asylum is one that the relevant administrative agency should decide, and that an appellate court cannot substitute its judgment for that of the agency. In a per curiam opinion, the Court held that the U.S. Court of Appeals for the Ninth Circuit erred in failing to remand the case for further agency review.</p>\n"
+}

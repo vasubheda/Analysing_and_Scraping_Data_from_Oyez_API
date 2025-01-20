@@ -1,0 +1,42 @@
+{
+    "ID": 56081,
+    "name": "Williams-Yulee v. The Florida Bar",
+    "href": "https://api.oyez.org/cases/2014/13-1499",
+    "view_count": 0,
+    "docket_number": "13-1499",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1412226000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41656"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1421733600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41657"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1430283600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51648"
+        }
+    ],
+    "question": "<p>Does a rule of judicial conduct that prohibits candidates for judicial office from personally soliciting campaign fund violate the First Amendment?</p>\n",
+    "citation": {
+        "volume": "575",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/26948"
+    },
+    "term": "2014",
+    "description": "A case in which the Court held that a rule prohibiting judicial candidates from personally soliciting campaign funds does not violate the First Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/575/433/",
+    "facts_of_the_case": "<p>During her candidacy for County Court Judge in Hillsborough County, Florida, Lanell Williams-Yulee personally solicited campaign contributions. She stated that she served as the \"community Public Defender\" \u2013 although her title was \"assistant public defender\" \u2013 and inaccurately stated in the media that there was no incumbent in the judicial race for which she was running.</p>\n<p>The Florida Bar filed a complaint against Williams-Yulee and alleged that her actions during the campaign violated the rules regulating The Florida Bar. A referee was appointed who suggested that Williams-Yulee receive a public reprimand. Williams-Yulee appealed the referee's finding, and the Supreme Court of Florida held that Williams-Yulee violated bar rules for directly soliciting funds for her judicial campaign. Williams-Yulee appealed and claimed that The Florida Bar rule prohibiting a candidate from personal solicitation of funds violated the First Amendment protection of freedom of speech.</p>\n",
+    "conclusion": "<p>No. Chief Justice John G. Roberts, Jr. delivered the opinion for the 5-4 majority. The Court held that rules limiting speech in charitable solicitation contexts have typically been subjected to strict First Amendment scrutiny because such speech often deals with issues of public concern in precisely the manner the First Amendment was meant to protect. Therefore, the government may only restrict the speech of a judicial candidate when the restriction is narrowly tailored to serve a compelling state interest. The Court held that the restriction in this case serves the compelling state interest of preserving public confidence in the integrity of the judiciary and is sufficiently narrowly tailored to that interest. Although Williams-Yulee claimed that the rule\u2019s underinclusivity was evidence that it was not sufficiently narrowly tailored, First Amendment jurisprudence does not require that a state take an all-or-nothing approach to regulating problematic speech.</p>\n<p>In his concurring opinion, Justice Stephen G. Breyer wrote that the Court\u2019s doctrine of tiers of scrutiny, such as the strict scrutiny applied in this case, should be viewed as a guideline rather than a mechanical test.</p>\n<p>Justice Ruth Bader Ginsburg wrote an opinion concurring in part and dissenting in part in which she argued that there was no need to apply an exacting standard of scrutiny to a state\u2019s endeavor to distinguish between political and judicial elections. Therefore, states should be granted broad latitude to regulate judicial elections, particularly with respect to campaign finance issues, as vast amounts of spending in judicial elections threatens the appearance and reality of an independent judiciary. Justice Breyer joined in the opinion concurring in part and dissenting in part.</p>\n<p>Justice Antonin Scalia wrote a dissenting opinion in which he argued that the First Amendment protects all speech unless widespread and longstanding tradition permits its regulation, which is not the case here. Because the rule in question presumptively violates the First Amendment, the Court can only uphold it if it is narrowly tailored to serve a compelling state interest. In this case, there is no evidence that banning personal requests for contributions in a judicial election increases public faith in judicial integrity, and the rule bans much more speech than would be narrowly tailored to serve such an interest. Justice Clarence Thomas joined in the dissent. In his separate dissent, Justice Anthony M. Kennedy wrote that the First Amendment protections of speech should especially apply in an electoral context and that the majority opinion erred in its application of strict scrutiny analysis because the rule in question was not narrowly tailored to serve a compelling state interest. Justice Samuel A. Alito, Jr. also wrote a separate dissent to emphasize that the rule in question fails the test of strict scrutiny.</p>\n"
+}

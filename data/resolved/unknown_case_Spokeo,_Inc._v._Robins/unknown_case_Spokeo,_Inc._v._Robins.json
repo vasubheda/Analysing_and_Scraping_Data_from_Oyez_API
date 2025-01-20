@@ -1,0 +1,42 @@
+{
+    "ID": 62164,
+    "name": "Spokeo, Inc. v. Robins",
+    "href": "https://api.oyez.org/cases/2015/13-1339",
+    "view_count": 0,
+    "docket_number": "13-1339",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1430110800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51646"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1446444000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52806"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1463374800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53592"
+        }
+    ],
+    "question": "<p>Can Congress authorize a cause of action based on a violation of a federal statute and therefore confer Article III standing on a plaintiff who has not suffered concrete harm?</p>\n",
+    "citation": {
+        "volume": "578",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/26946"
+    },
+    "term": "2015",
+    "description": "A case in which the Court held that lower courts need to consider the elements of Article III standing analysis separately in determining whether standing is sufficient for a federal court to hear the case. ",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/578/13-1339/",
+    "facts_of_the_case": "<p>Spokeo, Inc. (Spokeo) operated a website that provided information about individuals such as contact data, marital status, age, occupation, and certain types of economic information. Thomas Robins sued Spokeo and claimed that the company willfully violated the Fair Credit Reporting Act (FCRA) by publishing false information about him on the website. However, Robins was unable to allege any \u201cactual or imminent harm,\u201d so the district court granted Spokeo\u2019s motion to dismiss for lack of subject-matter jurisdiction and Robins\u2019 lack of standing under Article III of the Constitution. Robins then filed an amended complaint in which he alleged that he suffered actual harm to his employment prospects due to the website falsely claiming that he was wealthy. The district court originally denied Spokeo\u2019s motion to dismiss but later reconsidered its order and dismissed the complaint for failure to state an injury in fact. Robins appealed and argued that the district court could not reconsider its previous decision and that he had sufficiently alleged an injury in fact to qualify for Article III standing. The U.S. Court of Appeals for the Ninth Circuit reversed and held that, although the district court could reconsider its ruling, the allegation of a violation of a statutory right is sufficient injury to qualify for standing.</p>\n",
+    "conclusion": "<p>Because the U.S. Court of Appeals for the Ninth Circuit did not properly address whether all the elements of standing were met, the Court vacated the case for reconsideration of whether the plaintiff alleged an injury in fact that was \u201cconcrete and particularized.\u201d Justice Samuel A. Alito, Jr. delivered the opinion for the 6-2 majority, which held that, in order to have standing under Article III, a plaintiff must show that he has suffered an injury in fact that is fairly traceable to the defendant\u2019s challenged conduct and is likely to be redressed by a favorable decision in court. The injury-in-fact element is met when the plaintiff shows that he suffered an invasion of a legally protected interest and that the injury was concrete and particularized as well as actual or imminent. The Court held that the standing principles of Article III mean that a plaintiff cannot bring a claim that alleges a bare procedural violation, but in determining whether the plaintiff proved that an injury in fact existed, the lower court must examine the elements of injury-in-fact analysis. Because the appellate court in this case failed to do so, the Court remanded the case for further consideration.</p>\n<p>In his concurring opinion, Justice Clarence Thomas wrote that the standing doctrine applies to both private citizens seeking to vindicate private rights as well as those who alleged violations of public rights. These limitations stem from how the common-law courts traditionally handled the two different types of claims. Therefore, Congress cannot create a new private right of action for the enforcement of public rights without such suits being subject to standing doctrine analysis.</p>\n<p>Justice Ruth Bader Ginsburg wrote a dissent in which she argued that it was not necessary to remand the case because the evidence presented was sufficient to prove that the injury at issue was concrete, and the particularity requirement does not need to be considered separately. In this case, the plaintiff was not alleging a general harm but rather an injury that he suffered individually, so because it meets the concreteness requirement, it does not need to meet a separate particularity one, and there is nothing for the lower court to consider on remand. Justice Sonia Sotomayor joined in the dissent.</p>\n"
+}

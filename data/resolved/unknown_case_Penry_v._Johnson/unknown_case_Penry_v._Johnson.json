@@ -1,0 +1,35 @@
+{
+    "ID": 54928,
+    "name": "Penry v. Johnson",
+    "href": "https://api.oyez.org/cases/2000/00-6677",
+    "view_count": 0,
+    "docket_number": "00-6677",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                985672800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38596"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                991630800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38597"
+        }
+    ],
+    "question": "<p>Was a Texas trial court's supplemental instruction on mitigating evidence of mental retardation under the state's \"special circumstances\" for sentencing in capital murder cases to a jury constitutionally adequate? Does the admission into evidence of statements from a psychiatric report based on an uncounseled interview with the defendant violate the Fifth Amendment's privilege against self-incrimination?</p>\n",
+    "citation": {
+        "volume": "532",
+        "page": "782",
+        "year": "2001",
+        "href": "https://api.oyez.org/case_citation/case_citation/18857"
+    },
+    "term": "2000",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/532/782/",
+    "facts_of_the_case": "<p>In 1989, the U.S. Supreme Court held that Johnny Paul Penry had been sentenced to death in violation of the Eighth Amendment after finding that Texas' special issues questions did not permit the jury to consider mitigating evidence involving his mental retardation. On retrial in 1990, Penry was again found guilty of capital murder. The defense again put on extensive evidence regarding Penry's mental impairments. Ultimately, a psychiatric evaluation, which stated that Penry would be dangerous to others if released, prepared at the request of Penry's former counsel, was cited. Upon submission to the jury, the trial judge instructed the jury to determine Penry's sentence by answering the same special issues in the original Penry case. Additionally, the trial judge gave a supplemental instruction on mitigating evidence. The court sentenced Penry to death in accordance with the jury's answers to the special issues. In affirming, the Texas Court of Criminal Appeals rejected Penry's claims that the admission of language from the psychiatric evaluation violated his Fifth Amendment privilege against self-incrimination, and that the jury instructions were constitutionally inadequate because they did not permit the jury to consider and give effect to his particular mitigating evidence. Penry's petitions for state and federal habeas corpus relief failed.</p>\n",
+    "conclusion": "<p>No and no. In a 6-3 opinion delivered by Justice Sandra Day O'Connor, the Court held that the supplemental instruction was constitutionally inadequate. \"Any realistic assessment of the manner in which the supplemental instruction operated would therefore lead to the same conclusion we reached in Penry I,\" wrote Justice O'Connor \"'A reasonable juror could well have believed that there was no vehicle for expressing the view that Penry did not deserve to be sentenced to death based upon his mitigating evidence.'\" Unanimously, the Court held that \"considerable doubt\" that the psychiatric report \"even if erroneous, had a 'substantial and injurious effect'\" on the verdict, meant not overturning the Texas Court of Criminal Appeals' rejection of Penry's Fifth Amendment claim.</p>\n"
+}

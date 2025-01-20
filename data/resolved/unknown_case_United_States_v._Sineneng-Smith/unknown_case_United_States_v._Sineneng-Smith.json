@@ -1,0 +1,42 @@
+{
+    "ID": 63165,
+    "name": "United States v. Sineneng-Smith",
+    "href": "https://api.oyez.org/cases/2019/19-67",
+    "view_count": 0,
+    "docket_number": "19-67",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1570165200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54579"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1582610400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54662"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1588827600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54704"
+        }
+    ],
+    "question": "<p>Is a federal law criminalizing the act of encouraging or inducing illegal immigration for commercial advantage or private financial gain unconstitutional on its face?</p>\n",
+    "citation": {
+        "volume": "590",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27712"
+    },
+    "term": "2019",
+    "description": "A case in which the Court held that the Ninth Circuit\u2019s decision below was an abuse of discretion because it considered and ruled on an issue not raised by the parties.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/590/19-67/",
+    "facts_of_the_case": "<p>Evelyn Sineneng-Smith operated an immigration consulting firm in San Jose, California. Her clients were mostly natives of the Philippines, who were unlawfully employed in the United States and were seeking to obtain legal permanent residence (green cards). Sineneng-Smith purported to help her clients obtain permanent residence through the Labor Certification process, but that program expired on April 30, 2001. Sineneng-Smith knew that the program had expired but nonetheless continued to tell clients that they could obtain green cards via Labor Certifications.</p>\n<p>Federal law prohibits encouraging or inducing an alien to reside in the country, knowing and in reckless disregard of the fact that such residence is in violation of the law. Sineneng-Smith was indicted, charged, and convicted by a jury of violating this law. She appealed her conviction, and the U.S. Court of Appeals solicited supplemental briefing on several constitutional questions presented in the appeal. The court held that the statute was overbroad in violation of the First Amendment, criminalizing a \u201csubstantial amount of protected expression in relation to the statute\u2019s narrow legitimate sweep.\u201d</p>\n",
+    "conclusion": "<p>In a unanimous opinion authored by Justice Ruth Bader Ginsburg, the Court held that the Ninth Circuit panel abused its discretion when it \u201cdrastic[ally]\u201d departed from the principle of party presentation in ruling on the issue of constitutional overbreadth. The Court found that the Ninth Circuit did not address the party-presented controversy, but instead addressed a different question that the parties did not raise, constituting a \u201cradical transformation\u201d of the case.\u00a0</p>\n<p>Justice Clarence Thomas authored a concurring opinion in which he argued that the Ninth Circuit\u2019s decision violates \u201cfar more than the party presentation rule.\u201d He noted that while he has joined the Court in applying overbreadth doctrine in the past, he has \u201csince developed doubts about its origins and application.\u201d Finding no basis in the Constitution\u2019s text, he would urge the Court to revisit that doctrine.</p>\n"
+}

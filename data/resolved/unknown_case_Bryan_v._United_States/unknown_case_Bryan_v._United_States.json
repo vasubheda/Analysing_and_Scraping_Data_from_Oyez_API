@@ -1,0 +1,35 @@
+{
+    "ID": 54614,
+    "name": "Bryan v. United States",
+    "href": "https://api.oyez.org/cases/1997/96-8422",
+    "view_count": 0,
+    "docket_number": "96-8422",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                891324000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38011"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                897886800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38012"
+        }
+    ],
+    "question": "<p>Does the term \"willfully\" in 18 USC section 924(a)(1)(D) require proof that the defendant knew that his conduct was unlawful and that he knew of the federal licensing requirement for dealing in firearms?</p>\n",
+    "citation": {
+        "volume": "524",
+        "page": "184",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18543"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/524/184/",
+    "facts_of_the_case": "<p>18 USC section 924(a)(1)(D) prohibits anyone from \"willfully\" dealing in firearms without a federal license. The Government presented evidence at Sillasse Bryan's trial to show that he did not have a federal license to deal in firearms, that he was dealing in firearms, and that he knew his conduct was unlawful. No evidence was presented that Bryan was aware of the federal law that prohibits dealing in firearms without a federal license. The trial judge refused to instruct the jury that Bryan could be convicted only if he knew of the federal licensing requirement. The trial judge instructed that a person acts \"willfully\" if he acts with the bad purpose to disobey or disregard the law, but that he need not be aware of the specific law that his conduct may be violating. A jury found Bryan guilty. In affirming, the Court of Appeals concluded that the instruction was proper and that the Government had shown that Bryan had acted willfully.</p>\n",
+    "conclusion": "<p>No. In a 6-3 opinion delivered by Justice John Paul Stevens, the Court held that the term \"willfully\" in section 924(a)(1)(D) requires proof only that the defendant knew his conduct was unlawful, not that he also knew of the federal licensing requirement. Justice Stevens wrote for that court that \"the willfulness requirement of [section 924(a)(1)(D)] does not carve out an exception to the traditional rule that ignorance of the law is no excuse; knowledge that the conduct is unlawful is all that is required.\" In a dissenting opinion, joined by Chief Justice William H. Rehnquist and Justice Ruth Bader Ginsburg, Justice Antonin Scalia argued that ambiguously worded criminal statutes should be resolved in favor of the defendant.</p>\n"
+}

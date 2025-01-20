@@ -1,0 +1,42 @@
+{
+    "ID": 55363,
+    "name": "Lincoln Property Co. v. Roche",
+    "href": "https://api.oyez.org/cases/2005/04-712",
+    "view_count": 0,
+    "docket_number": "04-712",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1109570400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39622"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1129006800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39623"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1133244000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39624"
+        }
+    ],
+    "question": "<p>Could defendants remove an action on the basis of diversity of citizenship if there was complete diversity between all named plaintiffs and all named defendants, and no defendant was a citizen of the forum state?</p>\n",
+    "citation": {
+        "volume": "546",
+        "page": "81",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/20613"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/546/81/",
+    "facts_of_the_case": "<p>Christophe and Juanita Roche leased an apartment in Virginia managed by Lincoln Property Company. The Roches sued Lincoln, which they identified as a Texas company, and other defendants in state court, alleging a variety of problems that arose from their exposure to toxic mold in their apartment. Lincoln moved the litigation to a federal district court, citing diversity of citizenship, which arises when opposing parties are from different states. The Roches then asked that the case be sent back to state court because there was no diversity of citizenship. Rather, one of the partners in the Lincoln-owned subsidiary partnership resided in Virgina. The court denied the motion and held that Lincoln was a Texas citizen. The Fourth Circuit reversed on the ground that Lincoln failed to show complete diversity of citizenship, because it did not disprove the exsistence of an affiliated Virginia entity that was a real party in interest.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion delivered by Justice Ruth Bader Ginsburg, the Court held that Lincoln did not need to negate the existence of a potential defendant whose presence in the action would destroy diversity. To remove the suit to federal court, Lincoln only needed to show complete diversity between all named plaintiffs and all named defendants.</p>\n"
+}

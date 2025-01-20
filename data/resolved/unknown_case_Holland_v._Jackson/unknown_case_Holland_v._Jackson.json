@@ -1,0 +1,35 @@
+{
+    "ID": 55180,
+    "name": "Holland v. Jackson",
+    "href": "https://api.oyez.org/cases/2003/03-1200",
+    "view_count": 0,
+    "docket_number": "03-1200",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1088398800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39121"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                1088398800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53588"
+        }
+    ],
+    "question": "<p>Did the federal appellate court properly determine that the state court unreasonably applied the test from <em>Strickland v. Washington</em>?</p>\n",
+    "citation": {
+        "volume": "542",
+        "page": "649",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19108"
+    },
+    "term": "2003",
+    "description": "A case in which the Court held the state court\u2019s denial of post-conviction relief was reasonable and supported by federal law under the Strickland v. Washington standard.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/542/649/",
+    "facts_of_the_case": "<p>Jessie L. Jackson was sentenced to life in prison in Tennessee in 1987 for the murder of James Crawley. Jackson sought post-conviction relief on the grounds that his trial counsel was ineffective and had failed to conduct an adequate investigation. In order to establish ineffective assistance of counsel as a violation of the Sixth Amendment based on the Supreme Court\u2019s decision in <em>Strickland v. Washington</em>, the accused must show a lack of reasonably effective counsel and that there was a reasonable probability that, but for counsel\u2019s unprofessional errors, the result at trial would have been different. The state court denied relief and determined that Jackson\u2019s counsel was not deficient and that, regardless, he had not suffered prejudice as a result of his counsel\u2019s performance.</p>\n<p>Jackson then sought federal habeas relief, and the district court confirmed the state court\u2019s denial of relief. Despite finding that there had been ineffective assistance of counsel and a reasonable likelihood of prejudice, the district court held that a federal court can only grant relief if the state court\u2019s determination was contrary to established federal law, which was not the case here. The U.S. Court of Appeals for the Sixth Circuit reversed and held that Jackson was entitled to relief because the state court unreasonably applied the Strickland test and the state court\u2019s opinion was contrary to the established Strickland precedent in that it applied a preponderance-of-the-evidence standard rather than a reasonable-probability standard.</p>\n",
+    "conclusion": "<p>The state court did not unreasonably apply the test from <em>Strickland v. Washington</em>. In a per curiam opinion, the Court held the state court\u2019s denial of post-conviction relief was reasonable and therefore that the federal court erred. Because the state court did not clearly use an impermissible preponderance standard and had a potentially independent basis for its decision in the form of new evidence that the federal court did not address, the state court\u2019s determination was reasonable.</p>\n"
+}

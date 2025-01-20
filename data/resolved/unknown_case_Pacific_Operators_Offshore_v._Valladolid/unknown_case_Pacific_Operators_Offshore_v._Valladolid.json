@@ -1,0 +1,42 @@
+{
+    "ID": 55826,
+    "name": "Pacific Operators Offshore v. Valladolid",
+    "href": "https://api.oyez.org/cases/2011/10-507",
+    "view_count": 0,
+    "docket_number": "10-507",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1298354400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40859"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1318309200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40860"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1326261600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40861"
+        }
+    ],
+    "question": "<p>The Outer Continental Shelf Lands Act extends workers' compensation coverage under the Longshore and Harbor Workers' Compensation Act \"with respect to disability or death of an employee resulting from any injury occurring as the result of operations conducted on the outer Continental Shelf for the purpose of exploring for, developing, removing, or transporting by pipeline the natural resources of the outer Continental Shelf.\" Does the OCSLA extend Longshore Act coverage only to workers injured on the outer Continental Shelf itself?</p>\n",
+    "citation": {
+        "volume": "565",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/20858"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that the Outer Continental Shelf Lands Act extends coverage for injuries that occurred as the result of operations conducted on the outer continental shelf to an employee, as long as the employee can establish a substantial connection between the injury and the employer\u2019s extractive operations.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/565/207/",
+    "facts_of_the_case": "<p>Pacific Operations Offshore runs two offshore oil drilling platforms, the Hogan and the Houchin, both located more than three miles off the coast of California. Juan Valladolid worked for Pacific Operations as a roustabout, stationed primarily on the Hogan. He was killed, however, on the grounds of Pacific Operations's onshore oil-processing facility when he was crushed by a forklift. Following his death, his widow, Luisa, sought workers' compensation benefits under the Outer Continental Shelf Lands Act (\"OCSLA\") and the Longshore and Harbor Workers' Compensation Act (\"LHWCA\"). An administrative law judge denied Mrs. Valladolid's OCSLA claim on the grounds that her husband's injury had occurred outside the geographic site of the outer continental shelf. The judge denied the LHWCA claim on two grounds: (1) Valladolid was not engaged in maritime employment, and (2) he was not injured on a maritime situs. The Benefits Review Board upheld the judge's denial of the OCSLA benefits under the \"situs-of-injury\" test, and affirmed the denial of LHWCA benefits on the maritime situs ground.</p>\n<p>The United States Court of Appeals for the Ninth Circuit reversed in part, ruling that the OCSLA does not have a situs-of-injury requirement. The court of appeals held that Section 1333(b) extends Longshore Act coverage to workers injured on land where there is \"a substantial nexus between the injury and extractive operations on the shelf.\" Two other circuits that have addressed the question have reached conflicting results.</p>\n",
+    "conclusion": "<p>No. In a 9-0 decision, Justice Clarence Thomas wrote the majority opinion affirming the lower court and remanding for further proceedings. The Supreme Court held that the \"substantial nexus\" test best represents the text of the OCSLA. The Court noted that persons injured on the Outer Continental Shelf would almost always satisfy this test. The outcome for persons injured in other locals, like Mr. Valladolid, would depend on the individual circumstances of the case. On remand the Valladolid's must show a significant causal link between Mr. Valladolid's death and Pacific's Outer Continental Shelf activities.</p>\n<p>Justice Antonin Scalia wrote a special concurrence, stating that \"substantial nexus\" is just legalese with no established meaning. He felt this test would be impossible to apply. He would apply a proximate cause test, which has been defined by tort law. Justice Samuel Alito joined in the concurrence.</p>\n"
+}

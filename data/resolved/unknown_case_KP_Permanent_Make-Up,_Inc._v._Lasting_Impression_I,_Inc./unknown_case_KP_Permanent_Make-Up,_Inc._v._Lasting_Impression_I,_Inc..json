@@ -1,0 +1,42 @@
+{
+    "ID": 55225,
+    "name": "KP Permanent Make-Up, Inc. v. Lasting Impression I, Inc.",
+    "href": "https://api.oyez.org/cases/2004/03-409",
+    "view_count": 0,
+    "docket_number": "03-409",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1073628000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39244"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1096952400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39245"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1102485600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39246"
+        }
+    ],
+    "question": "<p>Did the classic fair use defense to trademark infringement require the party asserting the defense to demonstrate an absence or likelihood of confusion?</p>\n",
+    "citation": {
+        "volume": "543",
+        "page": "111",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19153"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/543/111/",
+    "facts_of_the_case": "<p>Cosmetics company Lasting Impression trademarked the term \"micro colors.\" Lasting Impression sued K.P. Permanent Make-Up in federal district court for using the term. K.P. used the \"classic fair use defense\" and argued it used the term only to describe K.P. products. The district court sided with K.P. Lasting appealed to the Ninth Circuit Court of Appeals. Unlike other federal appellate courts, the Ninth Circuit required companies that used the fair use defense to prove there was no likelihood of confusion in use of the term. The Ninth Circuit ruled there was likelihood of confusion and reversed the district court's ruling.</p>\n",
+    "conclusion": "<p>No. In a 9-0 opinion delivered by Justice David H. Souter, the Court held that a party raising the classic defense of fair use did not need to negate any likelihood that the practice under question would confuse consumers about the origin of the goods. The Court interpreted federal trademark law as placing the burden of showing likelihood of confusion on the party charging infringement. Moreover, Congress \"said nothing about likelihood of confusion in setting out the elements of the fair use defense.\"</p>\n"
+}

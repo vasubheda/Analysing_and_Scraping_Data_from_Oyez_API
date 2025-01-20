@@ -1,0 +1,35 @@
+{
+    "ID": 54760,
+    "name": "National Aeronautics and Space Administration v. Federal Labor Relations Authority",
+    "href": "https://api.oyez.org/cases/1998/98-369",
+    "view_count": 0,
+    "docket_number": "98-369",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                922168800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38279"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                929595600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38280"
+        }
+    ],
+    "question": "<p>May an investigator employed in NASA's Office of Inspector General be considered a \"representative\" of NASA when examining a NASA employee, such that the right to union representation in the Federal Service Labor-Management Relations Statute may be invoked?</p>\n",
+    "citation": {
+        "volume": "527",
+        "page": "229",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18689"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/527/229/",
+    "facts_of_the_case": "<p>After enacting the Inspector General Act (IGA), which created an Office of Inspector General (OIG) in the National Aeronautics and Space Administration (NASA) and other federal agencies, Congress enacted the Federal Service Labor- Management Relations Statute (FSLMRS). The FSLMRS permits union participation at an employee examination conducted \"by a representative of the agency\" if the employee believes that the examination will result in disciplinary action and requests such representation. In January 1993, NASA's OIG (NASA-OIG) conducted an investigation of certain threatening activities of a NASA employee. A NASA-OIG investigator interviewed the employee and permitted the employee's union representative to attend. Subsequently, the employee's union filed a charge with the Federal Labor Relations Authority (Authority), alleging that NASA and its OIG had committed an unfair labor practice when the investigator limited the union representative's participation in the interview. In ruling for the union, an Administrative Law Judge concluded that the OIG investigator was a \"representative\" of NASA within FSLMRS' meaning, and that the investigator's behavior had violated the employee's right to union representation. On review, the Authority agreed and granted relief against both NASA and NASA-OIG. The Court of Appeals upheld the Authority's rulings and granted the Authority's application for enforcement of its order.</p>\n",
+    "conclusion": "<p>Yes. In a 5-4 opinion delivered by Justice John Paul Stevens, the Court held that an investigator from NASA's Office of Inspector General is a \"representative\" of NASA when conducting an employee examination covered by the Federal Service Labor-Management Relations Statute, such that the right to union representation in the FSLMRS may be invoked. Justice Stevens, writing for the Court, declared: \"[E]mploying ordinary tools of statutory construction...we have no difficulty concluding that [the law] is not limited to agency investigators representing an entity that collectively bargains with the employee's union.\" Justice Thomas, joined by Justices Rehnquist, O'Connor, and Scalia, dissented, citing the independence guaranteed Inspectors General by the Inspector General Act as reason for investigators not representing management with the meaning of the FSLMRS.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 62819,
+    "name": "Hamer v. Neighborhood Housing Services of Chicago",
+    "href": "https://api.oyez.org/cases/2017/16-658",
+    "view_count": 0,
+    "docket_number": "16-658",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1488175200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53982"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1507611600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54103"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1510120800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54157"
+        }
+    ],
+    "question": "<p>Does Federal Rule of Appellate Procedure 4(a)(5)(C) deprive a court of appeals of jurisdiction over an appeal that is statutorily timely?</p>\n",
+    "citation": {
+        "volume": "583",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27509"
+    },
+    "term": "2017",
+    "description": "A case in which Court held that Federal Rule of Appellate Procedure 4(a)(5)(C), which places a time limit on appeals, is not jurisdictional because it is a court-made rule rather than a statute.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/583/16-658/",
+    "facts_of_the_case": "<p>Charmaine Hamer, a former intake specialist for the Housing Services of Chicago (NHS) and Fannie Mae\u2019s Mortgage Help Center, filed suit against her former employers, alleging violations of the Age Discrimination in Employment Act and Title VII of the Civil Rights Act of 1964. The district court granted summary judgment in favor of Fannie Mae and NHS on September 14, 2015.</p>\n<p>Under Federal Rule of Appellate Procedure 4(a)(1)(A) and 28 U.S.C. Section 2107(a), Hamer had until October 14, 2015 to appeal the judgment. On October 8, 2015, her attorney filed a motion to extend the appeal deadline to December 14, 2015, which the district court granted. Hamer filed her appeal on December 11, 2015.</p>\n<p>In a brief requested by the appellate court, Fannie Mae and NHS argued that Hamer\u2019s appeal was untimely under Rule 4(a)(5)(C) and thus that the appellate court lacked jurisdiction over the appeal. That rule states that \u201c[n]o extension under this Rule 4(a)(5) may exceed 30 days after the prescribed time or 14 days after the date when the order granting the motion is entered, whichever is later.\u201d Hamer argued that the rule is at odds with 28 U.S.C. Section 2107(a), which provides that \u201cthe district court may, upon motion filed not later than 30 days after the expiration of the time otherwise set for bringing appeal, extend the time for appeal upon a showing of excusable neglect or good cause.\u201d The appellate court found Hamer\u2019s argument unpersuasive and dismissed her appeal for lack of jurisdiction.</p>\n",
+    "conclusion": "<p>A court-made rule imposing a time limit is not jurisdictional.\u00a0Justice Ruth Bader Ginsburg delivered the opinion for a unanimous court. In Bowles v. Russell, 551 U.S. 205 (2007), the Court held an appeal filing deadline prescribed by statute is \"jurisdictional\" in that missing the deadline requires dismissal of the appeal. Here, applying the principle that only Congress may determine a lower federal court's subject matter jurisdiction, the Court noted that in contrast to congressional legislation, court-made rules (including the Federal Rules of Civil Procedure and the Federal Rules of Appellate Procedure) cannot be jurisdictional. The Court vacated the decision of the of the Seventh Circuit and remanded for further proceedings.</p>\n"
+}

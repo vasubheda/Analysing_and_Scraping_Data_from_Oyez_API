@@ -1,0 +1,35 @@
+{
+    "ID": 54163,
+    "name": "Sale v. Haitian Centers Council, Inc.",
+    "href": "https://api.oyez.org/cases/1992/92-344",
+    "view_count": 0,
+    "docket_number": "92-344",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                731052000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37172"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                740638800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37173"
+        }
+    ],
+    "question": "<p>Is Executive Order No. 12807 a violation of section 243(h) or Article 33?</p>\n",
+    "citation": {
+        "volume": "509",
+        "page": "155",
+        "year": "1993",
+        "href": "https://api.oyez.org/case_citation/case_citation/18092"
+    },
+    "term": "1992",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/509/155/",
+    "facts_of_the_case": "<p>According to Executive Order No. 12807 signed by President George H. W. Bush in 1992, the Coast Guard was required to force the return of all passengers discovered illegally traveling by sea from Haiti to the United States before reaching its borders without determining whether they qualify as refugees. The Haitian Centers Council, Inc., a collection of organizations representing illegal Haitian aliens and Haitians detained at Guantanamo, requested that the District Court for the Eastern District of New York delay the implementation of the order. The council argued that the order violated section 243(h) of the Immigration and Nationality Act of 1952 and Article 33 of the United Nations Protocol Relating to the Status of Refugees which protect individuals escaping potential prosecution from forced repatriation. The District Court denied the council's request, but the Court of Appeals for the Second Circuit reversed.</p>\n",
+    "conclusion": "<p>No. In a majority opinion authored by Justice John Paul Stevens, the Court observed that Acts of Congress do not generally have application outside of United States territory, unless explicitly noted. And, it found that both section 243(h) and Article 33 are silent regarding extraterritorial application. In fact, the language of both suggests that only individuals who have already arrived on United States soil are protected, and their use throughout history confirms this interpretation. Thus, the judgment of the Court of Appeals is reversed.</p>\n"
+}

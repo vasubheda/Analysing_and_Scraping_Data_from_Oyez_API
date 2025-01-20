@@ -1,0 +1,42 @@
+{
+    "ID": 55765,
+    "name": "Board of Trustees of the Leland Stanford Junior University v. Roche Molecular Systems, Inc.",
+    "href": "https://api.oyez.org/cases/2010/09-1159",
+    "view_count": 0,
+    "docket_number": "09-1159",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1288587600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40698"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1298872800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40699"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1307336400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40700"
+        }
+    ],
+    "question": "<p>Must patents on inventions that arise from federally-funded research go to the university where the inventor worked?</p>\n",
+    "citation": {
+        "volume": "563",
+        "page": "776",
+        "year": "2011",
+        "href": "https://api.oyez.org/case_citation/case_citation/19687"
+    },
+    "term": "2010",
+    "description": "A case in which the Court held that patents on inventions that arise from federally-funded research do not automatically go to university where the inventor worked.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/563/776/",
+    "facts_of_the_case": "<p>The case arose over a licensing dispute between Stanford University and pharmaceutical firm Roche Molecular System over the ownership of patents used in the company's HIV test kits. Stanford School of Medicine professor Mark Holodniy developed the technology behind the kits. As a researcher at the university, patents from his work would normally be automatically assigned to Stanford. The 1980 Bayh-Dole Act allows universities to retain the rights to research funded by federal grants. But Holodniy also signed a contract with Cetus Corp., a company that later sold its line of business to Roche, that give the company the patent to anything that resulted from their collaboration. In February 2009, the U.S. Court of Appeals for the Federal Circuit held that the university lacked standing to maintain patent infringement claims against Roche.</p>\n",
+    "conclusion": "<p>No. The Supreme Court affirmed the lower court order in a decision by Chief Justice John Roberts. \"The Bayh-Dole Act does not automatically vest title to federally funded inventions in federal contractors or authorize contractors to unilaterally take title to such inventions,\" Roberts wrote for the majority. Justice Sonia Sotomayor filed a concurring opinion, noting that while she agrees with them majority that \"the appropriate disposition is to affirm. Like the dissent, however, I understand the majority opinion to permit consideration of these arguments in a future case.\" Justice Stephen Breyer dissented, joined by Justice Ruth Bader Ginsburg. He argued that the case should have been remanded to the Federal Circuit for further argument.</p>\n"
+}

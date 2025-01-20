@@ -1,0 +1,42 @@
+{
+    "ID": 55820,
+    "name": "Christopher v. SmithKline",
+    "href": "https://api.oyez.org/cases/2011/11-204",
+    "view_count": 0,
+    "docket_number": "11-204",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1322460000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40843"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1334552400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40844"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1339995600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40845"
+        }
+    ],
+    "question": "<p>1. Must Glaxo and the courts defer to the Secretary of Labor's definition of \"outside salesman\" under the Fair Labor Standards Act?</p>\n<p>2. Does the Secretary of Labor's definition of \"outside salesman\" apply to pharmaceutical sales representatives?</p>\n",
+    "citation": {
+        "volume": "567",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19742"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that the Secretary of Labor's definition of \"outside salesman\" apply to pharmaceutical sales representatives under the Fair Labor Standards Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/567/142/",
+    "facts_of_the_case": "<p>Michael Christopher and Frank Buchanan began working for GlaxoSmithKline LLC (\"Glaxo\") as pharmaceutical sales representatives (\"PSRs\") in 2003. Glaxo developed, produced, marketed and sold pharmaceutical products to distributors or retail pharmacies, which subsequently sell those products to consumers when authorized by doctors via prescription. The plaintiffs worked between ten and twenty hours outside of normal business hours each week. PSRs are compensated with a salary and additional incentive-based pay; they are not paid overtime for work done outside of standard business hours.</p>\n<p>The Fair Labor Standards Act (\"FLSA\") was enacted in 1938 to protect the well-being of workers. It imposed a baseline overtime wage on employers for employees who work over forty hours a week. There was an exception to the rule for \"outside salesmen\", defined by the Secretary of Labor (\"Secretary\") as an employee whose primary duty is making sales or obtaining contracts and who is primarily and regularly engaged outside of the employer's office. Christopher and Buchanan filed suit in August of 2008, alleging that Glaxo's practice of requiring overtime work without additional pay violated the FLSA's overtime provisions. Both parties filed for summary judgment, and the district court found for Glaxo, agreeing that the plaintiffs fell within the FLSA's \"outside salesman\" exception.</p>\n<p>The U.S. Court of Appeals for the the Ninth Circuit affirmed the district court's ruling. The Secretary filed an <em>amicus curiae</em> brief in support of Christopher and Buchanan's position, arguing that when a PSR promotes pharmaceutical products but does not receive items of value in exchange for those products, he does not fall within the \"outside salesman\" exception to the FLSA. The court rejected the Secretary's argument, however, reasoning that this definition is a simple parroting of the Congressional statute; such definitions require less deference by courts because they are not interpretive. Instead, the court pointed to Christopher and Buchanan's training in sales --and their experience in sales as a qualification for employment by Glaxo-- as evidence of their status as \"outside salesmen.\" The court noted that the pharmaceutical industry self-regulated marketing to doctors much like other industries self-regulate direct-to-consumer marketing.</p>\n",
+    "conclusion": "<p>No, Yes. Justice Samuel A. Alito, Jr., writing for a 5-4 majority, affirmed the Ninth Circuit. The Supreme Court held that pharmaceutical sales representatives are \"outside salesmen\" under the FLSA. The Court did not defer to the Secretary's interpretation of the statute because it is directly contrary to the long held industry practice of treating PSRs as exempt. To follow the Secretary's interpretation now would unfairly burden the employers with liability for conduct that occurred long before the Secretary announced that interpretation. The text of the statute also supports the holding that PSRs are outside salesmen.</p>\n<p>Justice Stephen G. Breyer dissented, arguing that PSRs do not actually sell anything because they merely obtain non-binding agreements from doctors to prescribe a certain drug when appropriate. If the PSRs do not make sales, then they cannot be outside salesmen under the FLSA. Justice Ruth Bader Ginsburg, Justice Sonia Sotomayor, and Justice Elena Kagan joined in the dissent.</p>\n"
+}

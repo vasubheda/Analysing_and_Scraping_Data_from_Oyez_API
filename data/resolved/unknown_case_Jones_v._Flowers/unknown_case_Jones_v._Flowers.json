@@ -1,0 +1,42 @@
+{
+    "ID": 55333,
+    "name": "Jones v. Flowers",
+    "href": "https://api.oyez.org/cases/2005/04-1477",
+    "view_count": 0,
+    "docket_number": "04-1477",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1127797200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39542"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1137477600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39543"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1146027600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39544"
+        }
+    ],
+    "question": "<p>When mailed notice of a tax sale or property forfeiture is returned undelivered, does the Fourteenth Amendment's Due Process Clause require the government to make any additional effort to locate the owner before taking the property?</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "220",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20593"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/547/220/",
+    "facts_of_the_case": "<p>In 1993, Gary Jones moved out of his house and into an apartment, while his wife continued to live in the house. Jones failed to notify the state of his new address, however, and after several years of unpaid property taxes the tax authority sent a letter by certified mail to the house notifying him that, if the taxes went unpaid, the house would be sold. The letter was returned as \"unclaimed\" (because Jones was not living at the house and no one was present to sign for its receipt) and the Arkansas Commissioner of State Lands sold the property in a private sale to Linda Flowers.</p>\n<p>Jones sued in state court, claiming that the sale violated his Fourteenth Amendment due process rights because he was never actually notified of the sale. The Arkansas Supreme Court disagreed, however, finding that under the U.S. Supreme Court's decision in <em>Dusenberg v. United States</em> actual notice is not required as long as the state makes a reasonable effort to notify the party of his rights.</p>\n",
+    "conclusion": "<p>Yes. In a 5-3 decision authored by Chief Justice John Roberts, the Court overruled the Arkansas Supreme Court, ruling that \"additional reasonable steps\" are required after a mailed notice is returned undelivered. The Court noted that the Due Process Clause does not require that every property owner receive actual notice, but the government must make a sincere effort. In this case, the government knew that its first effort to notify Jones had failed. Therefore, the Court ruled that the government should have taken additional steps, such as remailing the notice or posting a notice on the house's door. Justice Thomas wrote a dissent, which was joined by Justices Scalia and Kennedy. Justice Alito took no part in the decision.</p>\n"
+}

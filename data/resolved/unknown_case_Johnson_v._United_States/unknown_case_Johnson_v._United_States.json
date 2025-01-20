@@ -1,0 +1,42 @@
+{
+    "ID": 55206,
+    "name": "Johnson v. United States",
+    "href": "https://api.oyez.org/cases/2004/03-9685",
+    "view_count": 0,
+    "docket_number": "03-9685",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1096347600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39194"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1106028000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39195"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1112590800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39196"
+        }
+    ],
+    "question": "<p>Is the vacating of a state conviction a \"fact\" as that term is used in the federal law setting out a statute of limitations on federal sentence modification motions, thus commencing the statute's 1-year limitations period?</p>\n",
+    "citation": {
+        "volume": "544",
+        "page": "295",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19134"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/544/295/",
+    "facts_of_the_case": "<p>In 1998 a Georgia court reversed all of Johnson's seven prior convictions. One of these had been the basis for the enhanced federal sentence Johnson had received in 1994. In light of the reversals, Johnson filed a motion to vacate his enhanced federal sentence. Federal law, however, set out a one-year statute of limitations on motions by prisoners seeking to modify their sentences. That one-year period ran from the latest of four dates, the last of which was \"the date on which the facts supporting the claim...could have been discovered through the exercise of due diligence.\" Johnson argued his motion was timely because the reversals constituted previously undiscoverable \"facts supporting the claim\" and thus triggered a renewed limitation period. The district court and the 11th Circuit denied Johnson's motion as untimely.</p>\n",
+    "conclusion": "<p>Yes. In a 5-4 opinion delivered by Justice David H. Souter, the Court that the vacating of a state sentence that underlay a federal sentence enhancement was a \"fact\" within the meaning of the law, but that fact had to have been discovered with due diligence: that is, the prisoner must have promptly sought to have the state judgment vacated. The Court held that by waiting until more than three years after his federal sentence, Johnson failed to show due diligence in seeking to have his original state convictions vacated.</p>\n"
+}

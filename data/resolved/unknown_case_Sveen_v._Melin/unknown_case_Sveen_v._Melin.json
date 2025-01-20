@@ -1,0 +1,42 @@
+{
+    "ID": 62930,
+    "name": "Sveen v. Melin",
+    "href": "https://api.oyez.org/cases/2017/16-1432",
+    "view_count": 0,
+    "docket_number": "16-1432",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1512712800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54162"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1521435600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54219"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1528693200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54289"
+        }
+    ],
+    "question": "<p>Does the application of a revocation-upon-divorce statute to a contract signed before the law was enacted violate the Contract Clause of the Constitution?</p>\n",
+    "citation": {
+        "volume": "584",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27558"
+    },
+    "term": "2017",
+    "description": "A case in which the Court decided that the retroactive application of Minnesota\u2019s revocation-upon-divorce statute, which automatically nullifies the designation of an ex-spouse as the beneficiary of a life insurance policy or other will substitute, does not violate the contracts clause of the Constitution.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/584/16-1432/",
+    "facts_of_the_case": "<p>Mark A. Sveen and Kaye L. Melin were married in 1997. Sveen purchased a life insurance policy that year, and the following year he named Melin the primary beneficiary, and his children the contingent beneficiaries. Sveen and Melin divorced in 2007, and Sveen died in 2011.\u00a0</p>\n<p>Minnesota had changed its probate code in 2002 to apply a revocation-upon-divorce statute to life insurance beneficiary designations. Sveen had never changed the designation on his life insurance policy, and Melin was therefore still listed as the primary beneficiary at the time of his death.\u00a0</p>\n<p>The insurance company filed an interpleader to establish whether the revocation-upon-divorce statute nullified this designation. Sveen\u2019s children and Melin cross-claimed for the proceeds, and the district court granted summary judgment in favor of the children, rejecting Melin\u2019s contention that retroactively applying the revocation-upon-divorce statute violated the Contract Clause of the Constitution.</p>\n<p>The Eighth Circuit reversed and remanded, finding that under its own precedent, the dispositive issue in this context was the right of the policyholder to have his wishes carried out in accordance with his intentions at the time he signed the contract. Applying the revocation-upon-divorce statute retroactively would deprive him of that right in violation of the Contract Clause.</p>\n",
+    "conclusion": "<p>In an 8-1 opinion authored by Justice Kagan, the Court reversed and remanded, holding that the retroactive application of Minnesota\u2019s revocation-upon-divorce statute, which automatically nullifies an ex-spouse\u2019s beneficiary designation on a life insurance policy or other will substitute, does not violate the contracts clause of the Constitution.</p>\n<p>The Court explained that not all laws affecting pre-existing contracts violate the contracts clause. There is a two-step inquiry to determine whether such a law is in fact unconstitutional in this context. The first question is whether the state law \u201coperated as a substantial impairment of a contractual relationship.\u201d This inquiry involves three sub-issues, which are the extent to which the law 1) undermines the contractual bargain, 2) interferes with a party\u2019s reasonable expectations, and 3) prevents the party from safeguarding or reinstating his rights. If those factors reflect a substantial impairment, the Court must then ask whether the law has been crafted in an \u201cappropriate\u201d and \u201creasonable\u201d way to advance \u201ca significant and legitimate public purpose.\u201d</p>\n<p>In this case the Court stopped its inquiry after considering only the first factor, finding that the Minnesota statute did not substantially impair pre-existing contractual arrangements. It found that first, the law in this case was intended to reflect the policyholder\u2019s intent that he or she likely would not want their life insurance proceeds to pass to a former spouse, thus supporting rather than undermining the contractual scheme. Second, the law was not likely to thwart the policyholder\u2019s expectations, as the policyholder could not reasonably expect a beneficiary designation to stay in place after a divorce. Third, the law in this case served as a mere default rule, which the policyholder could undo at any time by sending in a new beneficiary designation form. The Court stated that such a minimal paperwork burden does not violate the contracts clause under its well-established precedent.</p>\n<p>Justice Gorsuch authored a dissenting opinion.</p>\n"
+}

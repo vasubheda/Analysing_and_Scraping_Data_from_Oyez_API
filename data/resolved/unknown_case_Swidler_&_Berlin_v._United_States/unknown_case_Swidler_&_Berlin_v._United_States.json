@@ -1,0 +1,35 @@
+{
+    "ID": 54603,
+    "name": "Swidler & Berlin v. United States",
+    "href": "https://api.oyez.org/cases/1997/97-1192",
+    "view_count": 0,
+    "docket_number": "97-1192",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                897282000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37990"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                898750800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37991"
+        }
+    ],
+    "question": "<p>Are communications between a client and his or her lawyer protected under the attorney-client confidentiality doctrine, beyond the Fifth Amendment's protections against self-incrimination, even after the client's death?</p>\n",
+    "citation": {
+        "volume": "524",
+        "page": "399",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18532"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/524/399/",
+    "facts_of_the_case": "<p>During the 1993 investigation of the White House Travel Office (\"Travelgate\"), Deputy White House Counsel Vincent W. Foster, Jr., met with an attorney from Swidler &amp; Berlin's law firm named James Hamilton. Nine days later, Foster committed suicide. During a subsequent investigation into the legalities of Travelgate, Independent Counsel Kenneth Starr subpoenaed Hamilton's notes about his meeting with Foster. When Swidler &amp; Berlin challenged Starr's subpoena as a violation of the attorney-client privilege, a district court agreed. On appeal from an appellate court reversal, the Supreme Court granted certiorari.</p>\n",
+    "conclusion": "<p>Yes. In a 6-to-3 opinion, the Court reminded that the purpose of the attorney-client privilege is to promote public observance of the law by encouraging complete and truthful communication between attorneys and their clients. Confidentiality, even after the client's death, is essential for such honesty in both criminal and civil contexts. The Court held that absent a posthumous application of the attorney-client privilege, people would be likely to withhold information for fear of their friends' or family's reputation, civil liability, and general well-being.</p>\n"
+}

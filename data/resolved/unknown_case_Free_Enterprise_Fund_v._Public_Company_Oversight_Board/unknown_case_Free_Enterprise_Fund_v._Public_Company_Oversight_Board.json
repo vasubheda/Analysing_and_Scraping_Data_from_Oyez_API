@@ -1,0 +1,42 @@
+{
+    "ID": 55703,
+    "name": "Free Enterprise Fund v. Public Company Oversight Board",
+    "href": "https://api.oyez.org/cases/2009/08-861",
+    "view_count": 0,
+    "docket_number": "08-861",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1242622800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40539"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1260165600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40540"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1277701200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40541"
+        }
+    ],
+    "question": "<p>1) Does the Sarbanes-Oxley Act violate the separation of powers doctrine by giving broad powers to the Board while simultaneously preventing the President of the power to appoint or remove Board members?</p>\n<p>2) Did the court of appeals correctly hold that the Board members were inferior officers under the direct supervision of the SEC even though the SEC cannot supervise those members individually and can only remove them for just cause?</p>\n<p>3) Does the Sarbanes-Oxley Act violate the Appointments Clause even if the Board's members are inferior because the SEC is not an official department or because the commissioners are not the head of the SEC?</p>\n",
+    "citation": {
+        "volume": "561",
+        "page": "477",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19625"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that the Sarbanes-Oxley Act violated the Appointment Clause of the Constitution.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/561/477/",
+    "facts_of_the_case": "<p>The Free Enterprise Fund, a non-profit organization, brought suit challenging the constitutionality of Title I of the Sarbanes-Oxley Act. It alleged that the creation of the Public Company Oversight Board (the Board) by the Act violated the Appointments Clause because it deprived the President from exercising adequate control over the Board. However, the Board itself was under the direct supervision of the Securities and Exchange Commission (SEC), all of whose commissioners are appointed by and can be removed by the President.</p>\n<p>The U.S. Court of Appeals for the D.C. Circuit held that the creation of the Public Company Accounting Oversight Board did not violate either the Appointments Clause or the separation of powers principle. It reasoned that the Board's members were inferior officers under the supervision of the SEC and thus were not obligated to be appointed by the President. Also, the court noted that the President's ability to remove members of the SEC, who in turn could remove members of the Board, preserved the Constitution's separation of powers.</p>\n",
+    "conclusion": "<p>Yes. Yes. Not answered. The Supreme Court held that the \"for-cause\" limitation on the removal of Board members is unconstitutional because it contravenes the Constitution's separation of powers. With Chief Justice John G. Roberts, Jr., writing for the majority, the Court reasoned because the Act protects Board members from removal except for good cause, but withdraws from the President any decision on whether good cause exists, the Act deprives the President the power to hold Board members accountable. Such an arrangement contradicts Article II's vesting of the executive power in the president. The Court further held that the unconstitutionality of the removal provision did not make unconstitutional the entire Board. The Court concluded that the Board may continue to function as before, but its members may be removed at will by the Commission. Lastly, the Court held that the Board's appointment is consistent with the Appointments Clause of the Constitution. The Court reasoned that Board members are inferior officers, and, thus, their appointment may permissibly be vested in the \"Head of the Department.\" Here, the Commission constitutes the \"Head of the Department.\"</p>\n<p>Justice Stephen G. Breyer, joined by Justices John Paul Stevens, Ruth Bader Ginsburg, and Sonia Sotomayor, dissented. He agreed that the members of the Board are inferior officers. However, he disagreed that the Act unconstitutionally interferes with the President's executive power.</p>\n"
+}

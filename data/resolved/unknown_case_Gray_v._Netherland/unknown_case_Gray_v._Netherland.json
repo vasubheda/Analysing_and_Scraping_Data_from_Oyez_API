@@ -1,0 +1,35 @@
+{
+    "ID": 54419,
+    "name": "Gray v. Netherland",
+    "href": "https://api.oyez.org/cases/1995/95-6510",
+    "view_count": 0,
+    "docket_number": "95-6510",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                829544400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37648"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                835246800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37649"
+        }
+    ],
+    "question": "<p>Can a defendant sentenced to death argue in his habeas corpus petition that prosecutors deceived him, in violation of the Fourteenth Amendment Due Process Clause, by producing surprise evidence in the sentencing phase of the trial?</p>\n",
+    "citation": {
+        "volume": "518",
+        "page": "152",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18348"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/518/152/",
+    "facts_of_the_case": "<p>Coleman Wayne Gray was tried for the murder of Richard McClelland in Virginia. The prosecution acknowledged that if the trial reached the capital penalty phase they would introduce Gray's admissions to other inmates that he had previously murdered 2 other people. Gray's attorney moved to exclude the evidence because Gray had not been officially charged with such crimes. Gray also claimed such evidence was a surprise tactic and that he could not pose the proper defense immediately. The Virginia trial court denied the motion to exclude. Subsequently, Gray was sentenced to death. After exhausting state remedies, Gray sough federal habeas corpus relief. He claimed that inadequate notice of evidence prevented him from a fair defense in the penalty phase of his capital trial in violation of his right to Due Process under the Fourteenth Amendment. The District Court initially denied the petition because it found Gray had no constitutional right to notice of individual testimony. Later, the District Court amended its ruling, holding that Gray was denied due process when the state failed to provide notice of what murder evidence would be presented. The Court of Appeals reversed the District Court. It found that to grant the habeas corpus relief would be to recognize a new federal constitutional law regarding notice-of-evidence claims.</p>\n",
+    "conclusion": "<p>No. In a 5-4 decision, announced by Chief Justice William H. Rehnquist, the Court ruled that the notice-of-evidence claim would require the adoption of a new constitutional rule and therefore could not be raised in a habeas petition. In her dissent, Justice Ruth Bader maintained that due process allows Gray the right to a \"full, fair, potentially effective opportunity to defend against the State's charges.\" Gary was not given that right.</p>\n"
+}

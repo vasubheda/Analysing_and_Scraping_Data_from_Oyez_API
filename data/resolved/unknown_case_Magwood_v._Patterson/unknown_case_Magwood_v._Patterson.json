@@ -1,0 +1,42 @@
+{
+    "ID": 55665,
+    "name": "Magwood v. Patterson",
+    "href": "https://api.oyez.org/cases/2009/09-158",
+    "view_count": 0,
+    "docket_number": "09-158",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1258351200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40453"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1269406800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40454"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1277355600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40455"
+        }
+    ],
+    "question": "<p>When a person is resentenced after having obtained federal habeas corpus relief from an earlier sentence, is a claim in a federal habeas petition challenging the new sentencing judgment a \"successive claim,\" and therefore prohibited, if the petitioner could have challenged his previously imposed sentence on the same constitutional grounds?</p>\n",
+    "citation": {
+        "volume": "561",
+        "page": "320",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19587"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that, when a habeas corpus application alleges new judgment for the first time, it is not \"second or successive\" under the Antiterrorism and Effective Death Penalty Act and is therefore constitutional.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/561/320/",
+    "facts_of_the_case": "<p>An Alabama state court convicted Billy Joe Magwood of murder and sentenced him to death. Subsequently, an Alabama federal district court partially granted Mr. Magwood's petition for federal habeas corpus relief. The court upheld his conviction but instructed the state court to look at mitigating evidence when resentencing Mr. Magwood. Upon resentencing, the state court sentenced Mr. Magwood to death once again. Mr. Magwood filed a second petition for federal habeas corpus relief with the federal district court arguing that a judicial rule was retroactively applied in his case and that he lacked effective counsel at sentencing. The district court granted the petition and vacated Mr. Magwood's death sentence.</p>\n<p>On appeal, the U.S. Court of Appeals for the Eleventh circuit reversed, holding that prisoners may not raise challenges to an original sentence that could have been raised in an earlier petition. The court also held that Mr. Magwood's counsel was not ineffective because he failed to raise an argument that had already been decided by the state's highest court adverse to his client's position.</p>\n",
+    "conclusion": "<p>No. The Supreme Court held that because Mr. Magwood's habeas application challenges new judgments for the first time, it is not \"second or successive\" under the Antiterrorism and Effective Death Penalty Act (\"AEDPA\") With Justice Clarence Thomas writing for the majority, the Court determined that the text of the AEDPA counseled in favor of the Court's conclusion.</p>\n<p>Justice Stephen G. Breyer, joined by Justices John Paul Stevens and Sonia Sotomayor, concurred in part and concurred in the judgment. He noted that the Court was not expanding its holding from <em>Panetti v. Quarterman</em>. Justice Anthony M. Kennedy, joined by Chief Justice John G. Roberts and Justices Ruth Bader Ginsburg and Samuel A. Alito, dissented. He argued that a straightforward application of <em>Panetti</em>, consistent with all of the courts of appeals to rule on the issue, would have dictated an opposite result from the Court's.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 62769,
+    "name": "Esquivel-Quintana v. Sessions",
+    "href": "https://api.oyez.org/cases/2016/16-54",
+    "view_count": 0,
+    "docket_number": "16-54",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1477630800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53908"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1488175200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53977"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1496120400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54043"
+        }
+    ],
+    "question": "<p>Should \u201cunlawful sexual intercourse with a minor\u201d as defined by California law be considered the aggravated felony of \u201csexual abuse of a minor\u201d under the Immigration and Nationality Act and therefore require mandatory removal?</p>\n",
+    "citation": {
+        "volume": "581",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27471"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that the crime of \u201cunlawful sexual intercourse with a minor\u201d as defined by California law cannot be categorically considered the aggravated felony of \u201csexual abuse of a minor\u201d for the purpose of mandatory removal under the Immigration and Nationality Act (INA).",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/581/16-54/",
+    "facts_of_the_case": "<p dir=\"ltr\">Juan Esquivel-Quintana was admitted to the United States as a lawful permanent resident in 2000. In 2009, he pled guilty to unlawful sexual intercourse with a minor under the relevant statute in California. In California, unlawful sexual intercourse with a minor is defined as an act of sexual intercourse with a person who is a minor and not the spouse of the perpetrator. The statute further provides that anyone who is convicted of unlawful sexual intercourse with a minor who is more than three years younger than the perpetrator is guilty of a misdemeanor or a felony. </p>\n<p>After 2009, Esquivel-Quintana moved to Michigan, which is where the Department of Homeland Security initiated removal proceedings against him based on the Immigration and Nationality Act (INA). The INA states that a non-citizen may be removed from the United States if he is convicted of an aggravated felony such as sexual abuse of a minor. An Immigration Judge ruled that Esquivel-Quintana\u2019s conviction under California law constituted sexual abuse of a minor and ordered his removal. The Board of Immigration Appeals (BIA) affirmed and held that the term \u201csexual abuse of a minor\u201d in the INA encompassed convictions under the relevant California statute without looking at the individual facts of the case. The U.S. Court of Appeals affirmed the BIA\u2019s decision. The appellate court determined that the BIA\u2019s decision was entitled to deference as a permissible interpretation of an ambiguous statute under the Supreme Court\u2019s precedent in Chevron, USA, Inc v. Natural Resources Defense Council, Inc., and that the rule of lenity--requiring that statutory ambiguity be resolved in the defendant\u2019s favor--did not apply in a civil case.</p>\n",
+    "conclusion": "<p dir=\"ltr\">The crime of \u201cunlawful sexual intercourse with a minor\u201d as defined by California law cannot be categorically considered the aggravated felony of \u201csexual abuse of a minor\u201d for the purpose of mandatory removal under the Immigration and Nationality Act (INA). Justice Clarence Thomas delivered the opinion for the 8-0 majority. The Court held that, to determine whether an underlying conviction qualifies as an aggravated felony for the purpose of removability under the INA, courts presume that conviction rested upon the least of the acts criminalized by the statute. In the case of the California law criminalizing \u201cunlawful sexual intercourse with a minor,\u201d a minor is someone 18 years old or younger, so the minimum activity that the statute criminalizes was consensual sex between an 18-year-old and a 21-year-old. The Court held that, in the context of statutory rape offenses that criminalize sexual intercourse based solely on the ages of participants, the term \u201csexual abuse of minor\u201d refers to minors under the age of 16. The language and structure of the statute, as well as related federal statutes and state criminal codes all support this interpretation. Because the least criminal activity that the California law criminalizes is not included under the INA\u2019s definition of \u201csexual abuse of a minor,\u201d the California law cannot be categorically considered \u201csexual abuse of a minor for the purpose of removal under the INA. \u00a0</p>\n<p>\u00a0</p>\n<p dir=\"ltr\">Justice Neil Gorsuch did not participate in the discussion or decision of this case. </p>\n"
+}

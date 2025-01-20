@@ -1,0 +1,35 @@
+{
+    "ID": 54378,
+    "name": "Lockheed Corporation v. Spink",
+    "href": "https://api.oyez.org/cases/1995/95-809",
+    "view_count": 0,
+    "docket_number": "95-809",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                830149200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37574"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                834382800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37575"
+        }
+    ],
+    "question": "<p>May a business offer early retirement benefits on the condition that an employee give up the right to sue over any job-related claim? Can the federal government retroactively apply retirement income benefit laws?</p>\n",
+    "citation": {
+        "volume": "517",
+        "page": "882",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18307"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/517/882/",
+    "facts_of_the_case": "<p>Lockheed Corporation hired Paul L. Spink when he was sixty-one. He was excluded from participation in Lockheed's retirement program. Later changes in federal law required Lockheed to add Spink to the retirement program. Lockheed added Spink, but refused accrued benefits for the years he had worked at Lockheed before federal law changed. Lockheed also offered an increased pension benefit to employees who would retire early in exchange for their waiver of any employment claims against the corporation. Spink refused to be added without earning the extra benefits for the previous years he had worked. Spink filed suit alleging he should receive full benefits. The District Court dismissed the case for failure to state a claim. The Court of Appeals ruled in favor of Spink. It held the law applied retroactively which would cover Spink.</p>\n",
+    "conclusion": "<p>Yes and no. In unanimous and 7-2 decisions, announced by Justice Clarence Thomas, the Court ruled that businesses may condition early retirement benefits on the forfeiture of the right to sue in a job-related claim. The Court also ruled that the government could not retroactively apply retirement income benefit laws.</p>\n"
+}

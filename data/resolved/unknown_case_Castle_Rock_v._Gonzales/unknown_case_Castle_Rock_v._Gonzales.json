@@ -1,0 +1,42 @@
+{
+    "ID": 55252,
+    "name": "Castle Rock v. Gonzales",
+    "href": "https://api.oyez.org/cases/2004/04-278",
+    "view_count": 0,
+    "docket_number": "04-278",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1099288800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39318"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1111384800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39319"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1119848400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39320"
+        }
+    ],
+    "question": "<p>Can the holder of a restraining order bring a procedural due process claim against a local government for its failure to actively enforce the order and protect the holder from violence?</p>\n",
+    "citation": {
+        "volume": "545",
+        "page": "748",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/20549"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/545/748/",
+    "facts_of_the_case": "<p>Jessica Gonzales requested a restraining order against her estranged husband. A state trial court issued the order, which prohibited the husband from seeing Gonzales or their three daughters except during pre-arranged visits. A month later, Gonzales's husband abducted the three children. Gonzales repeatedly urged the police to search for and arrest her husband, but the police told her to wait until later that evening and see if her husband brought the children back. During the night Gonzales's husband murdered all three children and then opened fire inside a police station, where police returned fire and killed him. Gonzales brought a complaint in federal District Court, alleging that the Castle Rock police had violated her rights under the Due Process Clause of the Constitution by willfully or negligently refusing to enforce her restraining order. The Due Process Clause states: \"No state shall...deprive any person of life, liberty, or property, without due process of law...\" The District Court dismissed the complaint, ruling that no principle of substantive or procedural due process allowed Gonzales to sue a local government for its failure to enforce a restraining order. On appeal, however, a panel of the Court of Appeals for the Tenth Circuit found that Gonzales had a legitimate procedural due process claim. A rehearing by the full appeals court agreed, ruling that Gonzales had a \"protected property interest in the enforcement of the terms of her restraining order,\" which the police had violated.</p>\n",
+    "conclusion": "<p>No. In a 7-2 decision, the Court ruled that Gonzales had no constitutionally-protected property interest in the enforcement of the restraining order, and therefore could not claim that the police had violated her right to due process. In order to have a \"property interest\" in a benefit as abstract as enforcement of a restraining order, the Court ruled, Gonzales would have needed a \"legitimate claim of entitlement\" to the benefit. The opinion by Justice Antonin Scalia found that state law did not entitle the holder of a restraining order to any specific mandatory action by the police. Instead, restraining orders only provide grounds for arresting the subject of the order. The specific action to be taken is up to the discretion of the police. The Court stated that \"This is not the sort of 'entitlement' out of which a property interest is created.\" The Court concluded that since \"Colorado has not created such an entitlement,\" Gonzales had no property interest and the Due Process Clause was therefore inapplicable. Justice John Paul Stevens, joined by Justice Ruth Bader Ginsburg, dissented.</p>\n"
+}

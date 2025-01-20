@@ -1,0 +1,35 @@
+{
+    "ID": 54662,
+    "name": "United States v. Bestfoods",
+    "href": "https://api.oyez.org/cases/1997/97-454",
+    "view_count": 0,
+    "docket_number": "97-454",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                890719200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38100"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                897282000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38101"
+        }
+    ],
+    "question": "<p>May a parent corporation that actively participated in, and exercised control over, the operations of a subsidiary, without more, be held liable under CERCLA Section 107(a)(2) as an operator of a polluting facility owned or operated by the subsidiary?</p>\n",
+    "citation": {
+        "volume": "524",
+        "page": "51",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18591"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/524/51/",
+    "facts_of_the_case": "<p>The site of a chemical manufacturing plant was polluted over many years. During much of the time, the companies running the plant were wholly owned subsidiaries of, first, CPC International Inc. (CPC), and later Aerojet- General Corp (Aerojet). By 1981, the federal Environmental Protection Agency had undertaken to have the site cleaned up. To recover some of the money spent, the U.S. filed an action under Section 107 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (CERCLA), 42 U.S.C. Section 9607(a)(2). Section 107 allows the U.S. to seek reimbursement for cleanup costs from, among others, \"any person who at the time of disposal of any hazardous substance owned or operated any facility.\" The first phase of the trial concerned only liability, and focused on whether CPC and Aerojet had \"owned or operated\" the facility.</p>\n",
+    "conclusion": "<p>No, unless the corporate veil may be pierced. But a corporate parent that actively participated in, and exercised control over, the operations of the facility itself may be held directly liable in its own right as an operator of the facility.</p>\n"
+}

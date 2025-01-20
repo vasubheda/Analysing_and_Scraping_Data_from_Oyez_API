@@ -1,0 +1,35 @@
+{
+    "ID": 54841,
+    "name": "Ohler v. United States",
+    "href": "https://api.oyez.org/cases/1999/98-9828",
+    "view_count": 0,
+    "docket_number": "98-9828",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                953532000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38427"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                958971600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38428"
+        }
+    ],
+    "question": "<p>Does a defendant waive her right to appeal a ruling granting the government's motion to introduce evidence of a prior conviction under Federal Rule of Evidence 609(a)(1), if she introduces the prior conviction while testifying on direct examination?</p>\n",
+    "citation": {
+        "volume": "529",
+        "page": "753",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18770"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/529/753/",
+    "facts_of_the_case": "<p>In 1997, Maria Ohler was arrested and charged with importation of marijuana and possession of marijuana with the intent to distribute, after a customs inspector noticed that someone had tampered with one of Ohler's van interior panels and discovered approximately 81 pounds of marijuana. Before the trial, the government filed in limine motions to admit Ohler's prior felony conviction as character evidence under Federal Rule of Evidence 404(b) and as impeachment evidence under Rule 609(a)(1). Also before the trial, the District Court denied the motion to admit the conviction as character evidence. After the beginning of the trail, the court ruled that if Ohler testified, evidence of her prior conviction would be admissible under Rule 609(a)(1). While testifying, Ohler admitted on direct examination that she had been convicted of possession of methamphetamine in 1993. Subsequently, Ohler was found guilty. On appeal, Ohler challenged the District Court's in limine ruling, allowing the government to use her prior conviction for impeachment purposes. In affirming, the Court of Appeals held that Ohler waived her objection by introducing evidence of the conviction during her direct examination.</p>\n",
+    "conclusion": "<p>Yes. In a 5-4 opinion delivered by Chief Justice William H. Rehnquist, the Court held that \"a defendant who preemptively introduces evidence of a prior conviction on direct examination may not on appeal claim that the admission of such evidence was error.\" Thus, federal defendants, who choose to acknowledge their prior convictions, waive the right to appeal the evidence's admissibility. Writing for the dissenting minority, Justice David H. Souter argued, [t]here is no reason to discourage the defendant from introducing the conviction herself, as the majority's waiver rule necessarily does.\"</p>\n"
+}

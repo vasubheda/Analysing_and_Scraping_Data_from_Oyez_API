@@ -1,0 +1,42 @@
+{
+    "ID": 55700,
+    "name": "Berghuis v. Thompkins",
+    "href": "https://api.oyez.org/cases/2009/08-1470",
+    "view_count": 0,
+    "docket_number": "08-1470",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1254286800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40530"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1267423200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40531"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1275368400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40532"
+        }
+    ],
+    "question": "<p>1) Did the Sixth Circuit improperly expand the <em>Miranda</em> rule when it held that defendant's Fifth Amendment rights were violated?</p>\n<p>2) Did the Sixth Circuit fail to give the state court deference when it granted habeas corpus relief with respect to defendant's ineffective counsel argument when there was substantial evidence of the defendant's guilt?</p>\n",
+    "citation": {
+        "volume": "560",
+        "page": "370",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19622"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that a Michigan state court did not deprive a prisoner of his Miranda rights or his right to effective counsel because he failed to state his defense of those rights \"unambiguously.\"",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/560/370/",
+    "facts_of_the_case": "<p>A Michigan state court convicted Van Chester Thompkins of first-degree murder, assault with intent to commit murder, and several firearms related charges. After exhausting his remedies in Michigan state court, Thompkins petitioned for habeas corpus relief in a Michigan federal district court. The district court denied the petition.</p>\n<p>On appeal, Thompkins argued that his confession was obtained in violation of the Fifth Amendment and that he was denied effective counsel at trial. The Sixth Circuit held that the Michigan Supreme Court's finding that Thompkins waived his Fifth Amendment right was unreasonable because Thompkins refused to sign an acknowledgement that he had been informed of his <em>Miranda</em> rights and rarely made eye contact with the officer throughout the three hour interview. The Sixth Circuit also held that the Michigan Supreme Court improperly determined that Thompkins was not prejudiced by his counsel's failure to request a limiting instruction related to his separately tried co-defendant's testimony.</p>\n",
+    "conclusion": "<p>Yes. Yes. The Supreme Court reversed the Sixth Circuit, holding that the state court's decision to reject Mr. Thompkins' <em>Miranda</em> claim was correct. With Justice Anthony M. Kennedy writing for the majority, the Court reasoned that Mr. Thompkins failed to invoke his <em>Miranda</em> rights to remain silent and to counsel because he failed to do so \"unambiguously.\" Moreover, the Court reasoned that Mr. Thompkins waived his <em>Miranda</em> right to remain silent when he \"knowingly and voluntarily\" made a statement to the police. The Court further held that, even if Mr. Thompkins' counsel was ineffective, he cannot show he was prejudiced by counsel's deficient performance \u2013 a prerequisite to establishing that his Sixth Amendment right was violated.</p>\n<p>Justice Sonia Sotamayor, joined by Justices John Paul Stevens, Ruth Bader Ginsburg, and Stephen G. Breyer, dissented. She reprimanded the majority for retreating from the broad protections afforded by <em>Miranda</em>, stating that now a criminal suspect waives his rights simply by uttering a \"few one-word responses.\"</p>\n"
+}

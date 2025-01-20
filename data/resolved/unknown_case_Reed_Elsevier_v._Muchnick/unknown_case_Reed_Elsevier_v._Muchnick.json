@@ -1,0 +1,42 @@
+{
+    "ID": 55635,
+    "name": "Reed Elsevier v. Muchnick",
+    "href": "https://api.oyez.org/cases/2009/08-103",
+    "view_count": 0,
+    "docket_number": "08-103",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1235973600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40373"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1254891600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40374"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1267509600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40375"
+        }
+    ],
+    "question": "<p>Does Section 411(a) of the Copyright Act restrict subject matter jurisdiction of federal courts over copyright infringement actions?</p>\n",
+    "citation": {
+        "volume": "559",
+        "page": "154",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19558"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that the registration requirement of Section 411(a) of the Copyright Act is a precondition to filing a copyright infringement claim.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/559/154/",
+    "facts_of_the_case": "<p>A federal district court in New York approved an $18 million settlement in a class-action brought by freelance writers who had contracted with the defendant publishers to publish their works in print. Without authorization, the publishers reproduced the works for electronic distribution. Muchnick and others objected to the settlement.</p>\n<p>The U.S. Court of Appeals for the 2nd Circuit overturned the settlement on the ground that the trial court lacked jurisdiction over claims relating to unregistered works. The court stated that the Copyright Act grants the federal district courts jurisdiction only over those claims that arise from registered works. Since the vast majority of the claimants in the litigation based their claims on unregistered works, the federal district court did not have the power to certify a class in the litigation.</p>\n",
+    "conclusion": "<p>No. Writing for the majority, Justice Clarence Thomas held that Section 411(a)'s registration requirement is a precondition to filing a copyright infringement claim. The Court further held that a copyright holder's failure to comply with the registration requirement does not restrict a federal court's subject matter jurisdiction over infringement claims involving unregistered works. The Court declined to address whether Section 411(a)'s registration requirement is a mandatory precondition to suit that district courts may or should enforce on their own initiative by dismissing copyright infringement claims involving unregistered works.</p>\n<p>Justice Ruth Bader Ginsburg, joined by Justices John Paul Stevens and Stephen G. Breyer, concurred in part and concurred in the judgment. Justice Ginsburg agreed that Section 411(a)'s registration requirement does not restrict a federal court's subject matter jurisdiction. However, she noted that tension remained between the Court's prior holdings in <em>Arbaugh v. Y &amp; H Corp.</em> and <em>Bowles v. Russell</em>. In an attempt to stave off confusion, she attempted to reconcile the two decisions by distinguishing the cases.</p>\n"
+}

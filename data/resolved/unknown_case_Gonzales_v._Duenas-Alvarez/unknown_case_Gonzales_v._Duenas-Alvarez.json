@@ -1,0 +1,42 @@
+{
+    "ID": 55418,
+    "name": "Gonzales v. Duenas-Alvarez",
+    "href": "https://api.oyez.org/cases/2006/05-1629",
+    "view_count": 0,
+    "docket_number": "05-1629",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1159246800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39766"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1165298400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39767"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1169013600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39768"
+        }
+    ],
+    "question": "<p>Does the \"theft offense\" aggravated felony in the Immigration and Nationality Act include aiding and abetting a theft?</p>\n",
+    "citation": {
+        "volume": "549",
+        "page": "183",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20668"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/549/183/",
+    "facts_of_the_case": "<p>Luis Duenas-Alvarez, a Peruvian citizen living in California, was convicted of unlawful driving or taking of a vehicle. The Immigration and Nationality Act (INA) allows for the deportation of aliens who are convicted of an aggravated felony, which includes \"theft offenses.\" The Department of Homeland Security began deportation proceedings against Duenas-Alvarez. An immigration judge ruled in favor of the government and ordered Duenas-Alvarez deported to Peru, and the Board of Immigration Appeals affirmed.</p>\n<p>On appeal to the U.S. Court of Appeals for the Ninth Circuit, Duenas-Alvarez argued that he was not guilty of a theft offense for purposes of the INA because he had only aided and abetted the theft of the car. The California anti-theft law did not distinguish between auto-theft and merely aiding an auto-theft, but the Ninth Circuit had ruled that the INA \"theft offense\" includes only the person who actually stole and took possession of the car, and not necessarily anyone who aided in the theft. Accordingly, the Circuit Court ruled in favor of Duenas-Alvarez and reversed the lower courts.</p>\n",
+    "conclusion": "<p>Yes. The Court ruled unanimously that aiding and abetting a theft qualifies as a \"theft offense\" for purposes of the Immigration and Nationality Act. The opinion by Justice Stephen Breyer held that the common law had done away with all distinctions between \"principals\" and \"aiders and abettors\" of theft crimes. Duenas-Alvarez argued that California's theft law was unique in that it included offenses beyond the \"generic theft\" contemplated by the Immigration and Nationality Act. However, the Court's analysis of California case law led it to the conclusion that California's law, like those of other states, encompassed the generic definition of theft. Because Duenas-Alvarez had not raised the issue in the Questions Presented, the Court refused to consider whether the California theft law included the less severe theft crime of joyriding, which might not fall under \"generic theft\" for purposes of the INA.</p>\n"
+}

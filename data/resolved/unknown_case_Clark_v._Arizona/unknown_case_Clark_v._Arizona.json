@@ -1,0 +1,42 @@
+{
+    "ID": 55338,
+    "name": "Clark v. Arizona",
+    "href": "https://api.oyez.org/cases/2005/05-5966",
+    "view_count": 0,
+    "docket_number": "05-5966",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1133762400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39556"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1145422800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39557"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1151557200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39558"
+        }
+    ],
+    "question": "<p>Does a defendant have a Fourteenth Amendment due process right, separate from his insanity plea, to present expert evidence about his mental state to counter the prosecution's evidence of criminal intent?</p>\n",
+    "citation": {
+        "volume": "548",
+        "page": "735",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20642"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/548/735/",
+    "facts_of_the_case": "<p>Eric Clark shot and killed a police officer during a traffic stop. At trial in Arizona state court, Clark, a diagnosed paranoid schizophrenic who believed his town had been taken over by aliens, introduced expert evidence about his mental state. He wanted to use this evidence not only to prove that he was insane (a claim on which he bore the burden of proof) but also to show that he could not form the criminal intent that the government was required to prove beyond a reasonable doubt. The trial judge, however, ruled that Arizona law confined the use of the expert evidence to his insanity claim and did not permit him to use it to show he could not form the necessary criminal intent. The court ruled that he had not sufficiently proved his insanity defense, and Clark was convicted and sentenced to 25 years to life in prison. The Arizona Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>No. In a 5-to-4 decision by Justice David Souter, the Supreme Court held that Arizona could constitutionally limit the use of expert evidence about a defendant's mental state to his insanity defense. A defendant is presumed sane until he proves otherwise, but Justice Souter argued that allowing a defendant to use evidence of insanity to show that he could not form the necessary criminal intent would enable him to get around that presumption. \"Clark presses no objection to Arizona's decision to require persuasion to a clear and convincing degree before the presumption of sanity and normal responsibility,\" Justice Souter wrote. \"But if a State is to have this authority in practice as well as in theory, it must be able to deny a defendant the opportunity to displace the presumption of sanity more easily when addressing a different issue in the course of the criminal trial.\"</p>\n"
+}

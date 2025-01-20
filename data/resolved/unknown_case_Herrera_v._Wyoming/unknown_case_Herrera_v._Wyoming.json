@@ -1,0 +1,42 @@
+{
+    "ID": 63025,
+    "name": "Herrera v. Wyoming",
+    "href": "https://api.oyez.org/cases/2018/17-532",
+    "view_count": 0,
+    "docket_number": "17-532",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1530162000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54343"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1546927200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54399"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1558328400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54511"
+        }
+    ],
+    "question": "<p>Did Wyoming\u2019s admission to the Union or the establishment of the Bighorn National Forest abrogate the Crow Tribe of Indians\u2019 1868 federal treaty right to hunt on the \u201cunoccupied lands of the United States,\u201d thereby permitting the present-day conviction of a Crow member who engaged in subsistence hunting for his family?</p>\n",
+    "citation": {
+        "volume": "587",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27626"
+    },
+    "term": "2018",
+    "description": "A case in which the Court held that Wyoming\u2019s admission to the Union did not abrogate the Crow Tribe of Indians\u2019 1868 federal treaty right to hunt on the \u201cunoccupied lands of the United States,\u201d and the lands of the Bighorn National Forest did not become categorically \u201coccupied\u201d when the forest was created.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/587/17-532/",
+    "facts_of_the_case": "<p>Clayvin Herrera is an enrolled member of the Crow Tribe of Indians. Herrera and several other tribal members went elk hunting on the Crow Reservation, and at some point, followed several elk across a fence, thereby leaving the Crow Reservation and entering the Big Horn National Forest in Wyoming. They shot three bull elk and took the meat with them to Montana. None of the hunters had a license, and it was closed season.</p>\n<p>Herrera was cited with two hunting-related misdemeanors under Wyoming law. He moved to dismiss the charges under the Supremacy Clause of the US Constitution and the Laramie Treaty of 1868. He argued that the treaty gave the Crow Tribe the right to hunt off the reservation and that the treaty was still valid and thus preempted state law. Bound by the Tenth Circuit\u2019s 1995 decision in <a href=\"https://law.justia.com/cases/federal/appellate-courts/F3/73/982/557379/\"><em>Crow Tribe of Indians v. Repsis</em>, 73 F.3d 982 (10th Cir. 1995)</a>, the state court held that Crow Tribe members do not have off-reservation treaty hunting rights anywhere within the state of Wyoming. Herrera was tried and convicted by a jury on both counts. He appealed the lower court\u2019s pretrial determination on the off-reservation treaty hunting right. Reviewing the lower court\u2019s conclusions de novo, the state appeals court affirmed the lower court.</p>\n",
+    "conclusion": "<p>Wyoming\u2019s admission to the Union did not abrogate the Crow Tribe\u2019s 1868 federal treaty right to hunt on the \u201cunoccupied lands of the United States,\u201d nor did the lands of the Bighorn National Forest become categorically \u201coccupied\u201d when the forest was created.</p>\n<p>Justice Sonia Sotomayor delivered the 5-4 majority opinion.</p>\n<p>As to the question whether the Crow Tribe\u2019s hunting rights under the 1868 Treaty expired when Wyoming became a state, the Court first found that the lower court erroneously relied on the Tenth Circuit\u2019s decision in <a href=\"https://law.justia.com/cases/federal/appellate-courts/F3/73/982/557379/\"><em>Crow Tribe of Indians v. Repsis</em>, 73 F.3d 982 (10th Cir. 1995)</a>, which relied on <a href=\"https://supreme.justia.com/cases/federal/us/163/504/\"><em>Ward v. Race Horse</em>, 163 U.S. 504 (1896)</a>. In <em>Race Horse</em>, the U.S. Supreme Court held that Wyoming\u2019s admission to the Union extinguished treaty rights of Indians under the 1868 Treaty. The Court subsequently established in <a href=\"https://www.oyez.org/cases/1998/97-1337\"><em>Minnesota v. Mille Lacs Band of Chippewa Indians</em>, 526 U.S. 172 (1999)</a>\u00a0a different rule for determining whether a treaty right was extinguished. The Court in <em>Mille Lacs</em> held that the \u201ccrucial inquiry\u201d for interpreting a treaty was whether Congress \u201cclearly expressed\u201d an intent to abrogate an Indian treaty right. Absent such clearly expressed intent, treaty rights cannot be impliedly extinguished at statehood. Thus, while the <em>Mille Lacs</em> Court did not expressly overrule <em>Race Horse</em>, the logic of that case and its progeny, including <em>Repsis</em>, are invalid.</p>\n<p>The Court found unpersuasive Wyoming\u2019s argument that <em>Repsis</em> precludes Herrera from arguing that the 1868 Treaty right survived Wyoming\u2019s becoming a state. Even when the requirements for issue preclusion are met, there is an exception if there has been an intervening \u201cchange in the applicable legal context.\u201d While <em>Repsis</em> involved a the same legal question (whether the 1868 Treaty right survived Wyoming\u2019s statehood) and essentially the same parties (Wyoming and the Crow Tribe), the Court\u2019s decision in <em>Mille Lacs</em> constitutes an \u201cintervening change\u201d that triggers an exception to the doctrine of issue preclusion.</p>\n<p>Applying <em>Mille Lacs</em>, rather than <em>Repsis</em>, the Court found that Congress had not \u201cclearly expressed\u201d an intent to abrogate the treaty\u2019s right to hunt \u201cunoccupied\u201d lands when admitting Wyoming to the Union. The mere acquisition of statehood did not categorically make the lands \u201coccupied,\u201d nor did the creation of the Bighorn National Forest on those lands under any natural understanding of the meaning of the word \u201coccupied.\u201d</p>\n<p>Justice Samuel Alito filed a dissenting opinion in which Chief Justice John Roberts and Justices Clarence Thomas and Brett Kavanaugh joined. Justice Alito argued that issue preclusion should bar Herrera\u2019s claim and that the Court should not reach the merits of interpreting the 1868 Treaty.</p>\n"
+}

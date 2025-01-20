@@ -1,0 +1,42 @@
+{
+    "ID": 55571,
+    "name": "Kennedy v. Plan Administrator for DuPont Sav. and Investment Plan",
+    "href": "https://api.oyez.org/cases/2008/07-636",
+    "view_count": 0,
+    "docket_number": "07-636",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1203400800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40190"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1223355600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40191"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1232949600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40192"
+        }
+    ],
+    "question": "<p>Does the Employee Retirement Income Security Act's anti-alienation provision prevent the enforcement of a waiver recognized by federal common law which holds that a spouse's right to the other spouse's pension benefits is rendered void upon divorce?</p>\n",
+    "citation": {
+        "volume": "555",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20816"
+    },
+    "term": "2008",
+    "description": "A case in which the Court held that the Employee Retirement Income Security Act's anti-alienation provision nonetheless recognizes a wavier which holds that a spouse's right to the other spouse's pension benefits is void upon divorce.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>William Kennedy designated his wife, Liv, as the sole beneficiary of his Dupont pension and retirement savings plans. The couple subsequently divorced, and as part of the settlement Liv agreed to give up any interests she may have in the plans. However, William never submitted this portion of the settlement prior to his death in 2001, so the pension and retirement savings benefits were paid out to Liv. William's daughter, Keri, the executor of his estate, brought suit against Dupont to recover the benefits. The U.S. District Court for the Eastern District of Texas granted summary judgment for the estate, awarding it the value of the benefits.</p>\n<p>The U.S. Court of Appeals for the Fifth Circuit reversed, explaining that because William had never submitted the portion of the settlement agreement denying the benefits to Liv, they were correctly paid out to her by Dupont.</p>\n",
+    "conclusion": "<p>No. In a unanimous decision with Justice David Souter writing for the Court, the Supreme Court held that Liv's waiver of her former husband's pension benefits upon their divorce was not rendered void by the Employee Retirement Income Security Act's anti-alienation provision. However, the Court held that Liv was appropriately granted the benefits of her ex-husband's estate because the plan administrator properly disregarded her waiver. It reasoned that the pension plan was clearly laid out and recognized Liv as the beneficiary. The plan had a mechanism in which Liv could have disclaimed her interest, but she did not.</p>\n"
+}

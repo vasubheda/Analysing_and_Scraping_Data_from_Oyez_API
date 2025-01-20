@@ -1,0 +1,35 @@
+{
+    "ID": 54671,
+    "name": "O'Sullivan v. Boerckel",
+    "href": "https://api.oyez.org/cases/1998/97-2048",
+    "view_count": 0,
+    "docket_number": "97-2048",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                922773600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38118"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                928731600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38119"
+        }
+    ],
+    "question": "<p>Must a state prisoner present all of his claims to a state supreme court in a petition for discretionary review in order to satisfy the exhaustion requirement, 28 U. S. C. Sections 2254(b)(1), (c), for federal habeas relief?</p>\n",
+    "citation": {
+        "volume": "526",
+        "page": "838",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18600"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/526/838/",
+    "facts_of_the_case": "<p>After Darren Boerckel's state convictions of rape, burglary, and aggravated battery were affirmed by the Illinois Appellate Court and the Illinois Supreme Court denied his petition for leave to appeal, he filed a federal habeas corpus petition. The petition asked for relief on six grounds: (1) that Boerckel had not knowingly and intelligently waived his Miranda rights; (2) that his confession was not voluntary; (3) that the evidence against him was insufficient to sustain the conviction; (4) that his confession was the fruit of an illegal arrest; (5) that he received ineffective assistance of counsel at trial and on appeal; and (6) that his right to discovery of exculpatory material was violated. In denying the petition, the District Court found that Boerckel had procedurally defaulted his first three claims by failing to include them in his petition to the Illinois Supreme Court. In reversing and remanding, the Court of Appeals concluding that Boerckel had not procedurally defaulted those claims because he was not required to present them in a petition for discretionary review to the Illinois Supreme Court in order to satisfy 28 U. S. C. Sections 2254(b)(1), (c), the exhaustion requirement. Under the exhaustion requirement federal habeas relief is available to state prisoners only after they have exhausted their claims in state court.</p>\n",
+    "conclusion": "<p>Yes. In a 6-3 decision, delivered by Justice Sandra Day O'Connor, the Court held that in order to satisfy the exhaustion requirement, a state prisoner must present his claims to a state supreme court in a petition for discretionary review when that review is part of the State's ordinary appellate review procedure. Justice O'Connor wrote for the court that \"state prisoners must give the state courts one full opportunity to resolve any constitutional issues by invoking one complete round of the state's established appellate review process.\" Inmates can use federal habeas petitions as shortcuts only if their state's highest court does not allow them to raise all claims before it, she said.</p>\n"
+}

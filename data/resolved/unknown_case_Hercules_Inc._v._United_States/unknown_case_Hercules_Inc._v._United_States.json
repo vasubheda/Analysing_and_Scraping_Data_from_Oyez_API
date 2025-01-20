@@ -1,0 +1,35 @@
+{
+    "ID": 54410,
+    "name": "Hercules Inc. v. United States",
+    "href": "https://api.oyez.org/cases/1995/94-818",
+    "view_count": 0,
+    "docket_number": "94-818",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                815032800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37633"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                825919200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37634"
+        }
+    ],
+    "question": "<p>May the chemical manufacturers of Agent Orange recover costs incurred from defending and settling third-party tort claims arising out of their performance of Government contracts from the Government on alternative theories of contractual indemnification or warranty of specifications provided by the Government?</p>\n",
+    "citation": {
+        "volume": "516",
+        "page": "417",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18339"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/516/417/",
+    "facts_of_the_case": "<p>During the 1960s, the United States government contracted with several chemical manufacturers, including Hercules Incorporated and Wm. T. Thompson Company, to manufacture the herbicide known as Agent Orange. After health problems arose, Vietnam veterans and their families began filing lawsuits against the manufactures. The manufacturers incurred substantial costs defending, and then settling, the claims. The manufactures then filed suit under the Tucker Act to recover such costs from the Government on theories of contractual indemnification and warranty of specifications provided by the government. Ultimately, the Court of Appeals rejected the theory of implied warranty of specifications and the theory of implied promise to indemnify for liabilities incurred in performing the contracts. The appellate court also held that, by settling, the manufactures had voluntarily assumed liability for which the Government was not responsible.</p>\n",
+    "conclusion": "<p>No. In a 6-2 opinion delivered by Chief Justice William H. Rehnquist, the Court held that the manufacturers may not recover on their warranty-of-specifications and contractual-indemnification claims. Chief Justice Rehnquist wrote for the Court that the manufactures could not recover from the government because the contracts did not contain warranties or indemnification provisions for costs in defending and settling third-party tort claims resulting from chemical manufacture and use. Moreover, Chief Justice Rehnquist wrote that the context in which the government compelled the manufacturer to manufacture Agent Orange did not give rise to an implied-in-fact indemnity agreement. Justice Stephen G. Breyer wrote a dissent that was joined by Justice Sandra Day O'Connor. Justice John Paul Stevens did not participate in the case.</p>\n"
+}

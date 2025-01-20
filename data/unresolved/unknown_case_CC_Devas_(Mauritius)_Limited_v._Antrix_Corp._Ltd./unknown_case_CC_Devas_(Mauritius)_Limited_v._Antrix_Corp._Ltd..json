@@ -1,0 +1,33 @@
+{
+    "ID": 63722,
+    "name": "CC/Devas (Mauritius) Limited v. Antrix Corp. Ltd.",
+    "href": "https://api.oyez.org/cases/2024/23-1201",
+    "view_count": 0,
+    "docket_number": "23-1201",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1728018000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55543"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1740981600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55588"
+        }
+    ],
+    "question": "<p>Must plaintiffs prove minimum contacts before federal courts may assert personal jurisdiction over foreign states sued under the Foreign Sovereign Immunities Act?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28049"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether plaintiffs must prove minimum contacts before federal courts may assert personal jurisdiction over foreign states sued under the Foreign Sovereign Immunities Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-1201/"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55935,
+    "name": "Gabelli v. Securities and Exchange Commission",
+    "href": "https://api.oyez.org/cases/2012/11-1274",
+    "view_count": 0,
+    "docket_number": "11-1274",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1348549200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41167"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1357624800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41168"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1361944800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41169"
+        }
+    ],
+    "question": "<p>Does the five-year statute of limitations begin when the SEC can first bring an action, or when the alleged violation is committed?</p>\n",
+    "citation": {
+        "volume": "568",
+        "page": "442",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19857"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that a five-year statute of limitations period begins at the time the violation is committed.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/568/442/",
+    "facts_of_the_case": "<p>Defendant Mark Gabelli was the portfolio manager for the Gabelli Global Growth Fund (GGGF), as well as several affiliated funds, from 1997 until 2004. Defendant Bruce Alpert had been the Chief Operating Officer of Gabelli Funds, a company that advises GGGF, since 1988. Beginning in 1999, Gabelli permitted another company, Headstart, to engage in \"market-time\" trading with GGGF. \"Market-time\" trading is premised on the fact that price movements during the New York trading day can cause corresponding movements in the international markets that will not be incorporated into new stock prices until the following day. Traders can then buy and sell at artificially low and high prices, respectively. By early 2002, Alpert became concerned about the effects of market-timing and instructed Headstart to reduce the number of those transactions. On August 7, 2002, Gabelli announced that all market-timing must stop, and Headstart pulled its money from GGGF.</p>\n<p>On September 3, 2003, the New York Attorney General announced an inquiry into market-timing. On April 24, 2008, the SEC sued the defendants and alleged that Gabelli and Alpert knew of Headstart's market-timing but deliberately mislead GGGF's Board and shareholders in violation of the Securities and Exchange Act of 1934. The district court dismissed the SEC's claims for failure to bring the suit within the five-year statute of limitations, and the SEC appealed. The United States Court of Appeals for the Second Circuit reversed.</p>\n",
+    "conclusion": "<p>When the alleged violation is committed. Chief Justice John G. Roberts, Jr., writing for a unanimous Court, reversed the Second Circuit and remanded. Starting the limitations period at the time of the violation is the most natural reading of the statute. This reading is supported by past precedent and dictionary definitions. In the past, the \"discovery rule\", which pauses the statute of limitations until fraud is discovered, has been applied when the victims of the fraud would be denied relief. The protection that the rule provides for the injured is not relevant to a Government enforcement action such as this one. It would also be nearly impossible to determine when the Government \"knows\" of a violation and Congress did not require that determination.</p>\n"
+}

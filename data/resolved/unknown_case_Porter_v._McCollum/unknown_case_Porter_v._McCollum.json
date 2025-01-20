@@ -1,0 +1,35 @@
+{
+    "ID": 55667,
+    "name": "Porter v. McCollum",
+    "href": "https://api.oyez.org/cases/2009/08-10537",
+    "view_count": 0,
+    "docket_number": "08-10537",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1259560800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40459"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1259560800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40460"
+        }
+    ],
+    "question": "<p>Did the Eleventh Circuit err when it held that a person's Sixth Amendment right to effective counsel was not violated when his attorney at sentencing failed to bring forward evidence of his heroic war record and other mitigating evidence.</p>\n",
+    "citation": {
+        "volume": "558",
+        "page": "30",
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/19589"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that an attorney's failure to bring forth evidence of a client's heroic war record and other mitigating evidence violated the client's Sixth Amendment rights to effective counsel.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/558/30/",
+    "facts_of_the_case": "<p>A Florida state court convicted George Porter of murder and sentenced him to death. After exhausting his state court remedies, Mr. Porter filed for habeas corpus relief in a Florida federal district court. He argued that his attorney's failure to bring forward evidence about his war record and how it left him a changed man violated his Sixth Amendment right to effective counsel. The district court agreed and granted the petition. On appeal, the U.S. Court of Appeals for the Eleventh Circuit reversed on the ground that the Florida Supreme Court's determination that Mr. Porter was not prejudiced by any deficient performance by his counsel was a reasonable application of <em>Strickland v. Washington</em>.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion, the Supreme Court reversed the Eleventh Circuit, holding that Mr. Porter's Sixth Amendment right to effective counsel was violated. The Court reasoned that there was a reasonable probability that Mr. Porter's sentence would have been different if the sentencing judge and jury had heard the mitigating evidence that Mr. Porter's attorney failed to uncover or present.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 62936,
+    "name": "Benisek v. Lamone",
+    "href": "https://api.oyez.org/cases/2017/17-333",
+    "view_count": 0,
+    "docket_number": "17-333",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1512712800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54168"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1522213200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54226"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1529298000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54294"
+        }
+    ],
+    "question": "<ol><li>Did the majority err in holding that, to establish an actual, concrete injury in a First Amendment retaliation challenge to a partisan gerrymander,\u00a0a plaintiff must prove that the gerrymander has dictated and will continue to dictate the outcome of every election held in the district under the gerrymandered map?</li>\n<li>Did the majority err in holding that the <em>Mt. Healthy</em> burden-shifting framework is inapplicable to First Amendment retaliation challenges to partisan gerrymanders?</li>\n<li>Regardless of the applicable legal standards, did the majority err in holding that the present record does not permit a finding that the 2011 gerrymander was a but-for cause of the Democratic victories in the district in 2012, 2014, or 2016?\u00a0</li>\n</ol>",
+    "citation": {
+        "volume": "585",
+        "page": null,
+        "year": "2018",
+        "href": "https://api.oyez.org/case_citation/case_citation/27564"
+    },
+    "term": "2017",
+    "description": "A case in which the Court upheld the federal district court's denial of a motion for a preliminary injunction by several Republican voters who alleged partisan gerrymandering in Maryland.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/585/17-333/",
+    "facts_of_the_case": "<p>In 2011, the State of Maryland engaged in a process of redistricting, which in that state entails two parallel procedures: a public-facing procedure led by the Governor\u2019s Redistricting Advisory Committee and an internal procedure involving Maryland\u2019s congressional delegation and a consulting firm called NCEC Services, Inc. NCEC developed sample maps using voter demographic data, a computer program, and a proprietary metric that predicts the likelihood of Democratic candidate success. In comparison to sample maps submitted by third parties, the NCEC-developed maps were assessed to be more likely to see Democratic candidate success. There is no evidence that the final map that was enacted to law was one of the ones developed by NCEC; rather, former Governor Martin O\u2019Malley testified that the legislative director and staff from the Maryland Department of Planning likely created the final document. After the 2011 plan was implemented, the \u201cCook Partisan Voting Index\u201d rated the Sixth District as a \u201clikely\u201d Democratic seat, whereas before the 2011 plan, the Sixth District was a \u201csafe\u201d Republican seat. In the 2012 congressional election, Democrat John Delaney defeated incumbent Republican congressman Roscoe Bartlett by a 20.9% margin. Subsequent elections saw other Democratic candidates succeeding over Republican candidates.</p>\n<p>The plaintiffs sought a preliminary injunction barring the State from enforcing the 2011 redistricting plan and requiring the State to implement a new map in advance of the 2018 midterm elections. A majority of the district court panel denied the motion and stayed the case pending the outcome of Gill v. Whitford, another gerrymandering case before the US Supreme Court.</p>\n",
+    "conclusion": "<p>Without resolving the substantive questions, the Court held, in an unsigned per curiam opinion, that the district court did not abuse its discretion in denying the Republican voters' motion for a preliminary injunction. To succeed on a motion for preliminary injunction, the party seeking the injunction must show likelihood of success on the merits, that he is likely to suffer irreparable harm in the absence of preliminary relief, that the balance of equities tips in his favor, and that an injunction is in the public's interest. Even assuming, contrary to the district court's findings, that the plaintiffs were likely to succeed on the merits, the Court found that they had unreasonably delayed seeking a preliminary injunction and that the public interest was not served in granting the injunction. Thus, it was not an abuse of discretion for the district court to deny the motion for preliminary injunction.</p>\n"
+}

@@ -1,0 +1,28 @@
+{
+    "ID": 55285,
+    "name": "Salinas v. United States",
+    "href": "https://api.oyez.org/cases/2005/05-8400",
+    "view_count": 0,
+    "docket_number": "05-8400",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1145854800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39416"
+        }
+    ],
+    "question": "<p>Is a prior conviction of simple possession of a controlled substance a \u201ccontrolled substance offense\u201d for sentencing purposes?</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "188",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/19213"
+    },
+    "term": "2005",
+    "description": "A case in which the Court held that a prior conviction of simply possession of a controlled substance is not a \u201ccontrolled substance offense\u201d for sentencing purposes.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/547/188/",
+    "facts_of_the_case": "<p>Jeffrey Jerome Salinas was charged with bank robbery in federal district court. The district court treated Salinas\u2019 two prior robbery convictions as unrelated. But because he had a prior conviction for possession of a controlled substance, he was treated as a career offender for sentencing purposes, which meant that his sentence was increased in accordance with the U.S. Sentencing Guidelines. The U.S. Court of Appeals for the Fifth Circuit affirmed the district court\u2019s ruling and held that the district court properly treated Salinas\u2019 prior robbery convictions as unrelated and that his conviction for simple possession of a controlled substance was a \u201ccontrolled substance offense\u201d within the meaning of \"career offender\" for sentencing purposes.</p>\n",
+    "conclusion": "<p>In a per curiam decision, the Court held that simple possession of a controlled substance did not constitute a \u201ccontrolled substance offense.\u201d Because the U.S. Sentencing Guidelines states that possession of a controlled substance must be accompanied by \u201cintent to manufacture, import, export, distribute or dispense,\u201d Salinas\u2019 conviction for simple possession did not qualify.</p>\n"
+}

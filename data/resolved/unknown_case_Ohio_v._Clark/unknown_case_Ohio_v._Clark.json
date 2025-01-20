@@ -1,0 +1,42 @@
+{
+    "ID": 56069,
+    "name": "Ohio v. Clark",
+    "href": "https://api.oyez.org/cases/2014/13-1352",
+    "view_count": 0,
+    "docket_number": "13-1352",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1412226000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41642"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1425276000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41643"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1434603600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52760"
+        }
+    ],
+    "question": "<p>1. Does an individual\u2019s obligation to report suspected child abuse make that individual an agent of law enforcement for purposes of the Confrontation Clause?<br />\n2. Do a child\u2019s out-of-court statements to a teacher in response to the teacher\u2019s concerns about potential child abuse qualify as \u201ctestimonial\u201d statements subject to the Confrontation Clause?</p>\n",
+    "citation": {
+        "volume": "576",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/27102"
+    },
+    "term": "2014",
+    "description": "A case in which the Court held that the introduction of a child\u2019s testimony at trial through a teacher does not violate the Confrontation Clause of the Sixth Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/576/237/",
+    "facts_of_the_case": "<p>On March 17, 2010, a preschool teacher at Cleveland's William Patrick Day Head Start Center noticed some facial injuries on one of her three-year-old students. When the teacher inquired about the injuries, the student indicated that his mother's boyfriend, Darius Clark, caused them. The teacher forwarded her concerns to a child-abuse hotline, which resulted in the arrest and subsequent charging of Clark for child abuse.</p>\n<p>Prior to trial, a judge ruled the three-year-old child was incompetent to testify but refused to exclude the child's out-of-court identification of Clark as his abuser. Clark was found guilty. On appeal Clark claimed that the admission of the child's out-of-court statements violated his Sixth Amendment right to confront the witnesses against him. The Supreme Court of Ohio reversed the lower court's ruling and held that, because state law required the teacher to report suspected incidences of child abuse, the teacher was acting as an agent for law enforcement when inquiring about the child's injuries. Therefore, the child's out-of-court statements could only be admitted if the primary purpose of the teacher's questioning was to address an ongoing emergency, as opposed to attempting to establish past events. Because the child was not in immediate danger of further injury, the out-of-court statement could not be admitted.</p>\n",
+    "conclusion": "<p>No and no. Justice Samuel A. Alito, Jr., delivered the opinion of the Court in which five justices joined. The Court held that the three-year-old\u2019s statements to his teachers were non-testimonial because the totality of the circumstances indicated that the primary purpose of the conversation was not to create an out-of-court substitute for trial testimony. In this case, there was an ongoing emergency because the child, who had visible injuries, could have been released into the hands of his abuser, and therefore the primary purpose of the teachers\u2019 questions was most likely to protect the child. Moreover, a very young child who does not understand the details of the criminal justice system is unlikely to be speaking for the purpose of creating evidence. Finally, the Court held that a mandatory reporting statute does not convert a conversation between a concerned teacher and a student into a law enforcement mission aimed primarily at gathering evidence for a prosecution.</p>\n<p>Justice Antonin Scalia wrote an opinion concurring in the judgment and argued that a statement that satisfies the primary purpose test alone is sufficient to be testimonial. Justice Ruth Bader Ginsburg joined this opinion. In his separate opinion concurring in the judgment, Justice Clarence Thomas wrote that the primary purpose test was not the proper test to determine whether a statement is testimonial. Instead, Justice Thomas argued that only statements that bear \u201csufficient indicia of solemnity\u201d are testimonial.</p>\n"
+}

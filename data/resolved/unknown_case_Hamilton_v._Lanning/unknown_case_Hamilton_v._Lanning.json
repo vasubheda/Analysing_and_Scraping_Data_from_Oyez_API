@@ -1,0 +1,42 @@
+{
+    "ID": 55657,
+    "name": "Hamilton v. Lanning",
+    "href": "https://api.oyez.org/cases/2009/08-998",
+    "view_count": 0,
+    "docket_number": "08-998",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1257141600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40430"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1269234000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40431"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1275886800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40432"
+        }
+    ],
+    "question": "<p>In calculating a debtor's \"projected disposable income,\" may the bankruptcy court consider evidence suggesting that the debtor's income or expenses during that period are likely to be different from the debtor's income or expenses during the pre-filing period?</p>\n",
+    "citation": {
+        "volume": "560",
+        "page": "505",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19579"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that a bankruptcy court may take evidence into account that suggests a debtor's finances prior to the filing period would be different than the debtor's finances during the period of bankruptcy.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/560/505/",
+    "facts_of_the_case": "<p>A Kansas federal bankruptcy court denied objections to a Chapter 13 debtor's repayment plan. The Bankruptcy Appellate Panel of the Tenth Circuit affirmed the lower court's decision. On appeal, the U.S. Court of Appeals for the Tenth Circuit affirmed, holding that the starting point for calculating a Chapter 13 debtor's \"projected disposable income\" is presumed to be the debtor's current monthly income. However, the court stated that the calculation is subject to a showing that there is a substantial change in circumstances. The court remanded the case to the bankruptcy court to determine whether the debtor had shown there was a substantial change in her circumstances.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court affirmed the Tenth Circuit, holding that a bankruptcy court may account for changes in the debtor's income or expenses that are \"known or virtually certain\" at the time of confirmation when it calculates a debtor's projected disposable income. With Justice Samuel A. Alito writing for the majority, the Court reasoned that the plain meaning of \"projected disposable income\" within the statute supports the Court's holding.</p>\n<p>Justice Antonin Scalia dissented. He disagreed with the majority's interpretation of the term \"projected.\" He maintained that the term did allow for a bankruptcy court to depart from the \"inflexible formula\" provided by the statute.</p>\n"
+}

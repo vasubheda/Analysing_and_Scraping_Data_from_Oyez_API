@@ -1,0 +1,42 @@
+{
+    "ID": 55203,
+    "name": "Johanns v. Livestock Marketing Association",
+    "href": "https://api.oyez.org/cases/2004/03-1164",
+    "view_count": 0,
+    "docket_number": "03-1164",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1085374800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39185"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1102485600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39186"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1116824400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39187"
+        }
+    ],
+    "question": "<p>Does the Beef Promotion and Research Act of 1985 (Beef Act) violate the First Amendment by requiring cattle producers to pay to fund advertising with which they disagree?</p>\n",
+    "citation": {
+        "volume": "544",
+        "page": "550",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19131"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/544/550/",
+    "facts_of_the_case": "<p>The Beef Promotion and Research Act (1985) required cattle producers to pay a fee for generic beef advertisements done on behalf of the cattle industry. Some cattle producers disagreed with the advertisements. The Livestock Marketing Association sued the Department of Agriculture (USDA) in federal district court and alleged a government-required fee for advertising with which some cattle producers disagreed violated their First Amendment right to free speech. The USDA argued the advertising was government speech immune from First Amendment challenge. Another group of cattle producers, the Nebraska Cattlemen, sided with the USDA and sued the Livestock Marketing Association. The two cases were consolidated. The district court and the Eighth Circuit Court of Appeals ruled the program violated the First Amendment and that the advertising was compelled and not government speech.</p>\n",
+    "conclusion": "<p>No. In a 6-3 opinion delivered by Justice Antonin Scalia, the Court held that the fund was for government speech and that therefore the government could not be sued under the First Amendment. The Court pointed to the rule that while compelled funding of private speech raises First Amendment concerns, compelled funding of government speech generally does not.</p>\n"
+}

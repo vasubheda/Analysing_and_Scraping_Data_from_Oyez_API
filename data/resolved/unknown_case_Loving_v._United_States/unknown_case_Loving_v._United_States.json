@@ -1,0 +1,35 @@
+{
+    "ID": 54459,
+    "name": "Loving v. United States",
+    "href": "https://api.oyez.org/cases/1995/94-1966",
+    "view_count": 0,
+    "docket_number": "94-1966",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                821167200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37724"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                833778000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37725"
+        }
+    ],
+    "question": "<p>Does the President have the authority, consistent with the separation-of-powers principle, to prescribe aggravating factors that permit a court-martial to impose the death penalty upon a member of the armed forces convicted of murder?</p>\n",
+    "citation": {
+        "volume": "517",
+        "page": "748",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18388"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/517/748/",
+    "facts_of_the_case": "<p>A general court-martial found Dwight J. Loving, an Army private, guilty of both premeditated murder and felony murder under Article 118 of the Uniform Code of Military Justice. The court-martial sentenced Loving to death based on the aggravating factors that the premeditated murder was committed during a robbery and that he had committed a second murder. The commander who convened the court-martial approved the findings and sentence. In affirming, the U.S. Army Court of Military Review and the U.S. Court of Appeals for the Armed Forces rejected Loving's contention that the President lacked the authority to prescribe aggravating factors in capital murder cases that enabled the court-martial to sentence him to death. Loving claimed that the separation-of-powers principle prevented the President from promulgating the Executive Order.</p>\n",
+    "conclusion": "<p>Yes. In a unanimous opinion delivered by Justice Anthony Kennedy, the Court held that not only does the Constitution require the aggravating factors of the military's death penalty, but that the President's prescription of the challenged aggravating factors did not violate the separation-of-powers principle. Justice Kennedy wrote, \"[a]lthough it may not delegate the power to make the law...Congress may delegate to others the authority or discretion to execute the law under and in pursuance of its terms.\"</p>\n"
+}

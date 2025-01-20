@@ -1,0 +1,33 @@
+{
+    "ID": 63694,
+    "name": "Seven County Infrastructure Coalition v. Eagle County, Colorado",
+    "href": "https://api.oyez.org/cases/2024/23-975",
+    "view_count": 0,
+    "docket_number": "23-975",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1719205200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55482"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1733810400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55550"
+        }
+    ],
+    "question": "<p>Does the National Environmental Policy Act require an agency to study environmental impacts beyond the proximate effects of the action over which the agency has regulatory authority?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28028"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether the National Environmental Policy Act requires an agency to study environmental impacts beyond the proximate effects of the action over which the agency has regulatory authority.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-975/"
+}

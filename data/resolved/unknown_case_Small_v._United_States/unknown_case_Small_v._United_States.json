@@ -1,0 +1,42 @@
+{
+    "ID": 55267,
+    "name": "Small v. United States",
+    "href": "https://api.oyez.org/cases/2004/03-750",
+    "view_count": 0,
+    "docket_number": "03-750",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1080540000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39363"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1099461600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39364"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1114491600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39365"
+        }
+    ],
+    "question": "<p>Federal law made gun possession illegal for any person \"convicted in any court\" for crimes punishable by more than a year in prison. Does \"convicted in any court\" include convictions in foreign courts?</p>\n",
+    "citation": {
+        "volume": "544",
+        "page": "385",
+        "year": "2005",
+        "href": "https://api.oyez.org/case_citation/case_citation/19195"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/544/385/",
+    "facts_of_the_case": "<p>Federal law made gun possession illegal for any person \"convicted in any court\" for crimes punishable by more than a year in prison. A Japanese court convicted Gary Sherwood Small for crimes punishable by a prison term longer than one year. Years later a U.S. District Court convicted Small, because of his prior conviction, of illegally possessing a gun. Small appealed and argued the term \"convicted in any court\" did not include convictions in foreign courts. The Third Circuit Court of Appeals ruled against Small.</p>\n",
+    "conclusion": "<p>No. In a 5-3 opinion delivered by Justice Stephen Breyer, the Court held that the federal law's phrase, \"convicted in any court,\" encompassed only domestic, not foreign, convictions. The majority reasoned that in determining the scope of the phrase, it was appropriate to assume Congress had domestic concerns in mind. Moreover, the statute's overall language suggested no intent to reach beyond domestic convictions.</p>\n"
+}

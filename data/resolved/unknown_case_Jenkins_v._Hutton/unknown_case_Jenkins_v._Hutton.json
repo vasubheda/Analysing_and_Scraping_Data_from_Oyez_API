@@ -1,0 +1,35 @@
+{
+    "ID": 62879,
+    "name": "Jenkins v. Hutton",
+    "href": "https://api.oyez.org/cases/2016/16-1116",
+    "view_count": 0,
+    "docket_number": "16-1116",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1497848400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54092"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1497848400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54093"
+        }
+    ],
+    "question": "<p>Did the Sixth Circuit err in holding that it could review the merits of a criminal defendant's procedurally defaulted claim in order to prevent a fundamental miscarriage of justice?</p>\n",
+    "citation": {
+        "volume": "582",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27534"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that, under the circumstances of the particular case, the Sixth Circuit in a habeas proceeding should not have reviewed the merits of a criminal defendant's procedurally defaulted claim.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/582/16-1116/",
+    "facts_of_the_case": "<p>In 1985, Percy Hutton allegedly lured two friends into his car and shot each of them, killing one, on his suspicion that they had stolen from him. An Ohio jury convicted Hutton of aggravated murder, attempted murder, and kidnaping. To reach the aggravated murder conviction, the jury found that Hutton engaged in conduct that met statutory requirements for \"aggravating circumstances,\" the presence of which, under Ohio law, require a sentence of \"death, life imprisonment without parole, [or] life imprisonment with parole eligibility after\" at least 20 years in prison. After the verdict was reached, the jury reconvened for the penalty phase of the trial. The State argued for the death penalty, and in opposition Hutton gave an unsworn statement professing his innocence and presented evidence about his background and psychological profile. The trial court instructed the jury that it could recommend a death sentence only if it unanimously found that the State had \"prove[d] beyond a reasonable doubt that the aggravating circumstances, of which the Defendant was found guilty, outweigh[ed] the [mitigating factors].\" After deliberations, the jury recommended death, and the trial court accepted its recommendation. The Ohio Court of Appeals and the Ohio Supreme Court affirmed.</p>\n<p>In 2005, Hutton sought habeas relief in a federal district court, arguing that the trial court violated his due process rights during the penalty phase of his trial by not telling the jurors that they could consider only the two aggravating factors they had found during the guilt phase. Because Hutton had not objected to the instruction when it was given nor on direct appeal, the district court concluded that his due process claim was procedurally defaulted. The U.S. Court of Appeals for the Sixth Circuit reversed, finding that it could evaluate the merits of his claim to avoid a fundamental miscarriage of justice,\u00a0even though he had not raised it during the trial or on direct appeal. The Sixth Circuit reasoned that Hutton was not eligible for the death sentence because the jury had not found aggravating circumstances and because the trial court did not instruct the jury as to what it may consider as aggravating circumstances.</p>\n",
+    "conclusion": "<p>Yes. In a per curiam opinion, the Court held that the U.S. Court of Appeals for the Sixth Circuit erred in reviewing the merits of the Hutton's defaulted claim.</p>\n<p>The first reason the Sixth Circuit gave for reaching the merits of Hutton's claim relied on an incorrect reading of the procedural facts of the case. The jury found aggravating circumstances during the guilt phase of Hutton's trial, so there was no need for it to be instructed again of aggravating circumstances during the penalty phase. Neither Hutton nor the Sixth Circuit contends that there was any error in the instructions during the guilt phase of the trial. Thus the penalty phase instruction had no effect on the jury's decision that aggravating circumstances were present when Hutton committed the murder.</p>\n<p>The Court found that the second reason the Sixth Circuit gave for reaching the merits relies on a misapplication of the Court's precedent in Sawyer v. Whitley. Under Sawyer, a court may review a procedurally defaulted claim if \"but for a constitutional error, no reasonable jury would have found the petitioner eligible for the death penalty.\" Rather than consider whether <em>proper</em> jury instructions would have permitted a reasonable jury to find that aggravating circumstances outweighed mitigating circumstances, the Sixth Circuit erroneously considered instead whether the allegedly <em>improper</em> instructions affected the verdict. This consideration was inconsistent with the Court's holding in Sawyer.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 54074,
+    "name": "Godinez v. Moran",
+    "href": "https://api.oyez.org/cases/1992/92-725",
+    "view_count": 0,
+    "docket_number": "92-725",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                735368400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37001"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                740898000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37002"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                724312800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53622"
+        }
+    ],
+    "question": "<p>Does the Due Process Clause of the Fourteenth Amendment require a trial court to apply a heightened \"reasoned choice\" standard to determine the competency of a defendant to enter a plea of guilty or waive counsel?</p>\n",
+    "citation": {
+        "volume": "509",
+        "page": "389",
+        "year": "1993",
+        "href": "https://api.oyez.org/case_citation/case_citation/18003"
+    },
+    "term": "1992",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/509/389/",
+    "facts_of_the_case": "<p>Richard Allen Moran allegedly shot three people and attempted to kill himself.  He pleaded not guilty to three counts of first-degree murder in Nevada state court.  After a court-ordered psychiatric examination, Moran was found competent to stand trial.  Two and a half months later, Moran told the court he wanted to discharge his attorney and change his pleas to guilty.  Moran said he wanted to prevent anyone from introducing any favorable evidence.  After some questioning, the judge accepted Moran\u2019s waiver of his right to counsel and the guilty pleas.  The court sentenced him to death.  The Supreme Court of Nevada affirmed as to two of the murders.</p>\n<p>After sentencing, Moran claimed he was mentally incompetent to represent himself and sought post-conviction relief in state court.  The court rejected Moran\u2019s claim based on findings from the psychiatric evaluations.  The Supreme Court of Nevada dismissed his appeal.  Moran then filed a petition for habeas corpus in federal district court.  The district court denied the petition, but the U.S. Court of Appeals for the Ninth Circuit reversed, concluding that there was enough doubt at the time Moran pleaded guilty that the trial court should have held a hearing to evaluate whether Moran could make a \u201creasoned choice\u201d among the alternatives given.  The record did not support a finding that Moran was capable of making a reasoned choice.</p>\n",
+    "conclusion": "<p>No.  Justice Clarence Thomas, writing for a 7-2 majority, reversed the Ninth Circuit and remanded.  The Supreme Court held that pleading guilty and waiving a right to counsel do not require a higher level of competency that standing trial.  There is no reason to believe waiving these rights requires a higher mental capacity than waiving other constitutional rights.  Whether a defendant is able to adequately defend himself without an attorney is irrelevant to this decision.</p>\n<p>Justice Anthony M. Kennedy concurred in part and concurred in the judgment, writing that using the same competency standard for pleading guilty without counsel and standing trial with counsel does not violate due process.  Justice Antonin Scalia joined in Justice Kennedy\u2019s opinion.</p>\n<p>Justice Harry A. Blackmun dissented, arguing that courts should conduct a specific inquiry to determine whether a defendant can proceed without counsel when the accused\u2019s competency to stand trial has already been questioned.  Justice John Paul Stevens joined in the dissent.</p>\n"
+}

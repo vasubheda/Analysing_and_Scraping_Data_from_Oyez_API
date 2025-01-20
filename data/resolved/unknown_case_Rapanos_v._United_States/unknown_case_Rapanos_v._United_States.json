@@ -1,0 +1,42 @@
+{
+    "ID": 55326,
+    "name": "Rapanos v. United States",
+    "href": "https://api.oyez.org/cases/2005/04-1034",
+    "view_count": 0,
+    "docket_number": "04-1034",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1129006800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39524"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1140501600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39525"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1150693200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39526"
+        }
+    ],
+    "question": "<p>Does the phrase \"waters of the United States\" in the Clean Water Act include a wetland that at least occasionally empties into a tributary of a traditionally navigable water?</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "715",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20571"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/547/715/",
+    "facts_of_the_case": "<p>John Rapanos sought to fill in three wetland areas on his property in order to build a shopping center. Rapanos ignored warnings from the Michigan Department of Environmental Quality that the area was protected wetlands under the Clean Water Act (CWA). The CWA allows the government to regulate the discharge of any pollutant (including dirt or sand) into \"navigable waters,\" which the Act defines as \"the waters of the United States.\" Under regulations issued by the Army Corps of Engineers (Corps), wetlands are covered by the CWA as long as they are adjacent to traditionally navigable waters or tributaries of such waters. After Rapanos also ignored cease-and-desist orders from the U.S. Environmental Protection Agency, the government brought a civil suit against him. Rapanos argued before the District Court that the CWA gives the government jurisdiction to regulate only traditionally navigable waters. The government countered that Rapanos's lands were covered by the CWA as \"adjacent wetlands\" under the Corps's interpretation of the Act; the sites drained into man-made drains which eventually emptied into navigable rivers and lakes. The District Court rejected Rapanos's argument and upheld the Corps's regulations including the wetlands as \"waters of the United States.\" The Sixth Circuit Court of Appeals affirmed, holding that the \"hydrological connection\" of the wetlands to the navigable waters qualifies them as \"waters of the United States\" under the Act.</p>\n<p>The Carabells sought to fill in a wetland on their property in order to build a condominium, but were denied a permit because the wetland was protected under the Clean Water Act (CWA). The CWA allows the government to regulate the discharge of any pollutant (including dirt or sand) into \"navigable waters,\" which the Act defines as \"the waters of the United States.\" Under regulations issued by the Army Corps of Engineers (Corps), wetlands are covered by the CWA as long as they are adjacent to traditionally navigable waters or tributaries of such waters. Carabell's site is separated from a nearby ditch by a 4-foot-wide berm (earthen barrier), but the Corps's regulations specify that the wetland is nevertheless adjacent to the waterway. The ditch empties into another ditch, which in turn empties into a creek and ultimately into Lake St. Clair, a navigable water. After exhausting administrative appeals, Carabell sued in District Court. Carabell argued that the government lacked jurisdiction under the CWA to regulate the relatively isolated wetland as part of the \"waters of the United States.\" The District Court disagreed, and upheld the Corps's expansive interpretation of the CWA. On appeal, the Sixth Circuit Court of Appeals also ruled for the Corps, holding that as long as wetlands are \"adjacent\" to tributaries of traditionally navigable waters and share a \"significant nexus\" with such waters, the wetlands qualify as \"waters of the United States\" for purposes of the CWA.</p>\n",
+    "conclusion": "<p>Unanswered. The closely-divided Court split 4-1-4, with Justice Anthony Kennedy providing the crucial fifth vote to reject the Sixth Circuit's decision.</p>\n<p>Justice Antonin Scalia wrote the plurality opinion, which was joined by three other Justices. The plurality rejected the argument that only actually-navigable waters can be regulated by the Clean Water Act, but also held that the word \"navigable\" in the Act cannot be divested of all meaning. The plurality held that the definitional term \"waters of the United States\" can only refer to \"relatively permanent, standing or flowing bodies of water,\" not \"occasional,\" \"intermittent,\" or \"ephemeral\" flows. Furthermore, A mere \"hydrological connection\" is not sufficient to qualify a wetland as covered by the CWA; it must have a \"continuous surface connection\" with a \"water of the United States\" that makes it \"difficult to determine where the 'water' ends and the 'wetland' begins.\"</p>\n<p>Justice Kennedy wrote a separate concurring opinion, which disagreed with much of the plurality's reasoning. In Justice Kennedy's view, wetlands need not have a continuous surface connection to a continuously flowing body of water to be covered under the CWA, but mere adjacency to a tributary of a navigable water is not sufficient. Instead, Wetlands that are not adjacent to a traditionally navigable water must have a \"significant nexus\" with a one. This requirement is satisfied if the wetland has a significant effect on the water quality of navigable waters. Justice Kennedy suggested that Rapanos's wetlands may be covered under the CWA if more evidence of a significant nexus were presented.</p>\n<p>Justice Stevens wrote a dissent, which was joined by Justices Souter, Ginsburg, and Breyer. The dissent argued that the Corps's regulations should be upheld as a reasonable interpretation of the Act. The inclusion of all wetlands adjacent to tributaries of navigable waters was most consistent with the CWA's purpose of eliminating pollution in the nation's waters.</p>\n<p>Though the Court failed to obtain a majority on most of the legal issues presented by the case, the plurality and Justice Kennedy agreed to send the case back to the Sixth Circuit for a new decision based on a different analysis.</p>\n"
+}

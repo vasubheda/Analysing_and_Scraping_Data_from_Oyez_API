@@ -1,0 +1,42 @@
+{
+    "ID": 55155,
+    "name": "Hamdi v. Rumsfeld",
+    "href": "https://api.oyez.org/cases/2003/03-6696",
+    "view_count": 0,
+    "docket_number": "03-6696",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1073628000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39048"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1083128400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39049"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1088398800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39050"
+        }
+    ],
+    "question": "<p>Did the government violate Hamdi's Fifth Amendment right to Due Process by holding him indefinitely, without access to an attorney, based solely on an Executive Branch declaration that he was an \"enemy combatant\" who fought against the United States? Does the separation of powers doctrine require federal courts to defer to Executive Branch determinations that an American citizen is an \"enemy combatant\"?</p>\n",
+    "citation": {
+        "volume": "542",
+        "page": "507",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19083"
+    },
+    "term": "2003",
+    "description": "A case in which the Court held that individuals held in military confinement by the national government have a right, under the Fifth Amendment, to appeal that confinement in front of a neutral decision-making body.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/542/507/",
+    "facts_of_the_case": "<p>In the fall of 2001, Yaser Hamdi, an American citizen, was detained by the United States military in Afghanistan. He was accused of fighting for the Taliban against the U.S., declared an \"enemy combatant,\" and was held in Guantanamo Bay. Upon learning he was an American citizen, he was transferred to a military prison in Virginia. Hamdi\u2019s father, Esam Fouad Hamdi, filed a petition for a writ of habeas corpus naming himself as Hamdi\u2019s \u201cnext friend,\u201d in an attempt to have Hamdi\u2019s detention declared unconstitutional. The district court granted Hamdi\u2019s petition, and appointed the Federal Public Defender for the Eastern District of Virginia, Frank Dunham, Jr., as counsel for the petitioners. He argued that the government had violated Hamdi's Fifth Amendment right to Due Process by holding him indefinitely and not giving him access to an attorney or a trial. The government countered that the Executive Branch had the right, during wartime, to declare people who fight against the United States \"enemy combatants\" and thus restrict their access to the court system.</p>\n<p>The district court refused to answer the question of whether the declaration of \"enemy combatant\" was sufficient to justify his detention without review of materials and criteria used in making the determination. It ordered the government to produce these materials for a review by the court. Not wanting to produce these materials, the government appealed. The Fourth Circuit Court of Appeals panel reversed, finding that the separation of powers required federal courts to practice restraint during wartime because \"the executive and legislative branches are organized to supervise the conduct of overseas conflict in a way that the judiciary simply is not.\" The panel therefore found that it should defer to the Executive Branch's \"enemy combatant\" determination.</p>\n",
+    "conclusion": "<p>Yes and no. In an opinion backed by a four-justice plurality and partly joined by two additional justices, Justice Sandra Day O'Connor wrote that although Congress authorized Hamdi's detention, Fifth Amendment due process guarantees give a citizen held in the United States as an enemy combatant the right to contest that detention before a neutral decisionmaker. The plurality rejected the government's argument that the separation-of-powers prevents the judiciary from hearing Hamdi's challenge. Justice David H. Souter, joined by Justice Ruth Bader Ginsburg, concurred with the plurality that Hamdi had the right to challenge in court his status as an enemy combatant. Souter and Ginsburg, however, disagreed with the plurality's view that Congress authorized Hamdi's detention. Justice Antonin Scalia issued a dissent joined by Justice John Paul Stevens. Justice Clarence Thomas dissented separately.</p>\n"
+}

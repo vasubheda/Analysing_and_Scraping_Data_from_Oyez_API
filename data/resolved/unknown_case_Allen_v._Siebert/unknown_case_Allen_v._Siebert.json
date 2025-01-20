@@ -1,0 +1,35 @@
+{
+    "ID": 55492,
+    "name": "Allen v. Siebert",
+    "href": "https://api.oyez.org/cases/2007/06-1680",
+    "view_count": 0,
+    "docket_number": "06-1680",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1194242400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39973"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                1194242400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53424"
+        }
+    ],
+    "question": "<p>Is a petition for state post-conviction relief that was determined to be untimely considered \u201cproperly filed\u201d under the meaning of the Antiterrorism and Effective Death Penalty Act so that the one-year statute of limitations for federal habeas corpus review does not run?</p>\n",
+    "citation": {
+        "volume": "552",
+        "page": "3",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/19415"
+    },
+    "term": "2007",
+    "description": "A case in which the Court decided that a claim for state post-conviction relief that was determined to be untimely does not prevent the statute of limitations for federal writ of habeas corpus from running under the Antiterrorism and Effective Death Penalty Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/552/3/",
+    "facts_of_the_case": "<p>Daniel Siebert was convicted of the murder of Linda Jarman and sentenced to death by electrocution in 1989. His conviction was confirmed on appeal, and Siebert\u2019s petition for a writ of certiorari to the Supreme Court was denied in 1990. In 1992, Siebert filed a petition for state post-conviction relief that was denied because it was filed after the two-year statute of limitations period. In 2001, Siebert filed a federal writ of habeas corpus that was denied because the Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA) has a one-year statute of limitation for filing a federal writ of habeas corpus. Siebert appealed to U.S. Court of Appeals for the Eleventh Circuit and argued that the statute of limitations should not run while his \u201cproperly filed\u201d state post-conviction relief was pending. The appellate court determined that the state statute of limitations was not jurisdictional and the state courts could have granted Siebert\u2019s petition, so his petition for state post-conviction relief was \u201cproperly filed\u201d and should have prevented the AEDPA\u2019s statute of limitations from running. The appellate court remanded the case for consideration of the petition on the merits. While that review was pending, the Supreme Court decided <em>Pace v. DiGuglielmo</em>, in which the Court held that a petition for state post-conviction relief that was determined to be untimely did not halt the running of the AEDPA\u2019s statute of limitations. Therefore, the district court again rejected Siebert\u2019s petition. The appellate again remanded by holding that the state statute of limitations in this case was non-jurisdictional, and therefore <em>Pace</em> did not apply.</p>\n",
+    "conclusion": "<p>In per curiam opinion, the majority of the Court held that a petition for state post-conviction relief that was determined to be untimely was not \u201cproperly filed\u201d under the meaning of the Antiterrorism and Effective Death Penalty Act (AEDPA) and therefore does not prevent the statute of limitations from running. Because Siebert\u2019s petition for state post-conviction relief was untimely, the U.S. Court of Appeals for the Eleventh Circuit erred in remanding Siebert\u2019s petition to be reheard at the trial level. The Court held that statutes of limitations create conditions of filing that are tantamount to jurisdictional bars. Therefore, the Court\u2019s precedent established in <em>Pace v. DiGuglielmo</em> applied.</p>\n<p>Justice John Paul Stevens wrote a dissent in which he argued that the statute of limitations for Siebert\u2019s petition did operate as an affirmative defense, which could be waived and did not bar the district court from hearing the petition. Therefore, the <em>Pace</em> precedent did not apply in this case, and Siebert had properly filed under the meaning of the AEDPA. Justice Ruth Bader Ginsburg joined in the dissent.</p>\n"
+}

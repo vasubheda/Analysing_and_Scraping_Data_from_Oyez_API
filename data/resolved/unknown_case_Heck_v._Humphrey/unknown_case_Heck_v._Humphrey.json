@@ -1,0 +1,42 @@
+{
+    "ID": 54268,
+    "name": "Heck v. Humphrey",
+    "href": "https://api.oyez.org/cases/1993/93-6188",
+    "view_count": 0,
+    "docket_number": "93-6188",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                766645200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37367"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                772434000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37368"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                758527200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53610"
+        }
+    ],
+    "question": "<p>(1) Can a state prisoner attacking the legality of his conviction circumvent the habeas corpus exhaustion requirement by filing an action under 42 U.S.C. \u00a7 1983 and confining his prayer for relief to a declaratory judgment and money damages?</p>\n<p>(2) Should a state prisoner's action attacking the legality of his conviction that includes unexhausted claims be dismissed without prejudice?</p>\n",
+    "citation": {
+        "volume": "512",
+        "page": "477",
+        "year": "1994",
+        "href": "https://api.oyez.org/case_citation/case_citation/18197"
+    },
+    "term": "1993",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/512/477/",
+    "facts_of_the_case": "<p>Roy Heck was convicted of voluntary manslaughter for the death of his wife in Indiana state court and sentenced to 15 years in prison.  He filed an action in federal district court claiming that the prosecution engaged in an \u201cunlawful, unreasonable, and arbitrary investigation\u201d before his arrest and knowingly destroyed favorable evidence.  Heck sought compensatory and punitive damages under 42 U.S.C. \u00a71983, but did not seek a release from custody.  The district court dismissed the action.  While his appeal to the U.S. Court of Appeals for the Seventh Circuit was pending, the Indiana Supreme Court affirmed his conviction and sentence.  Heck\u2019s petition for habeas corpus was denied.  The Seventh Circuit affirmed the dismissal of Heck\u2019s damages action, stating that the action challenged the legality of the conviction, so Heck must exhaust all state remedies before seeking \u00a71983 relief like he would under the habeas corpus statute.</p>\n",
+    "conclusion": "<p>No, Yes.  Justice Antonin Scalia, writing for five members of the court, affirmed.  The Supreme Court held that a defendant cannot claim damages for an allegedly unconstitutional conviction or imprisonment without showing that the conviction or sentence has been overturned in some way.  The defendant must also exhaust state court remedies before bringing a \u00a71983 action.  The Court derived its analysis from the common law tort of malicious prosecution which requires termination of the criminal proceeding before it can begin.  Justice Clarence Thomas concurred, writing that the majority\u2019s opinion limited the scope of \u00a71983.  Justice David H. Souter concurred in the judgment, arguing that the proper way to resolve the case would be to interpret \u00a7 1983 in light of the habeas corpus statute instead of common law torts.  Justice Harry A. Blackmun, Justice John Paul Stevens, and Justice Sandra Day O\u2019Connor joined in the concurrence in the judgment.</p>\n"
+}

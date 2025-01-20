@@ -1,0 +1,35 @@
+{
+    "ID": 55542,
+    "name": "Al-Marri v. Spagone",
+    "href": "https://api.oyez.org/cases/2008/08-368",
+    "view_count": 0,
+    "docket_number": "08-368",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1228456800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40111"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1236319200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51674"
+        }
+    ],
+    "question": "<p>1) Does the Authorization for Use of Military Force empower the President to indefinitely detain lawful residents of the United States without criminal charge or trial based on government assertions that the detainee conspired with Al-Quaeda to engage in terrorist activities?</p>\n<p>2) Does the Constitution allow the indefinite detention of lawful residents of the United States without criminal charge or trial?</p>\n",
+    "citation": {
+        "volume": "555",
+        "page": "1220",
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/19465"
+    },
+    "term": "2008",
+    "description": "A case the Court dismissed regarding whether the Authorization for Use of Military Force authorizes the President to indefinitely detain lawful United States residents without criminal charge or trial.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>In December, 2001, Ali Saleh Hahlah Al-Marri, a Qatari citizen and permanent resident of the United States, was arrested at his home in Peoria, IL for his alleged involvement in the September 11 attacks. In February 2002, he was charged with the possession of unauthorized or counterfeit credit card numbers and with the intent to defraud. In January 2003, he was additionally charged with making a false statement to the FBI, making a false statement on a bank application, and using another person's identification for the purpose of influencing the action of a federally insured financial institution. Mr. Al- Marri pleaded not guilty to all counts. Just before trial, the government moved to dismiss its criminal charges against him and by order of the President designated Mr. Al-Marri an \"enemy combatant\". Thereafter, he has been held without charge in military custody.</p>\n<p>Mr. Al-Marri was denied a petition for a writ of habeas corpus by the federal district court in South Carolina. On appeal, the United States Court of Appeals for the Fourth Circuit reversed and ordered that his military detention cease. The court subsequently vacated this judgment and reconsidered the case en banc. It held in a 5-4 decision that if the government's allegations about Mr. Al-Marri are true then Congress by the Authorization for Use of Military Force (AUMF) has provided the President the power to detain him as an enemy combatant. But, in another 5-4 vote, it held that assuming the President is empowered to detain Mr. Al Marri as an enemy combatant, he was not afforded sufficient due process to challenge his detention. It remanded the case to the district court for further fact finding.</p>\n",
+    "conclusion": "<p>Unanswered. Prior to argument, the respondent filed a motion to dismiss the case as moot. The court granted the motion.</p>\n"
+}

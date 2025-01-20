@@ -1,0 +1,42 @@
+{
+    "ID": 63104,
+    "name": "Kansas v. Garcia",
+    "href": "https://api.oyez.org/cases/2019/17-834",
+    "view_count": 0,
+    "docket_number": "17-834",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1552885200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54469"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1571202000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54586"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1583301600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54676"
+        }
+    ],
+    "question": "<p>Does the Immigration Reform and Control Act (IRCA) expressly or impliedly preempt states from using information provided on a federal Form I-9 in a prosecution of any person when the same information also appears in non-IRCA documents?</p>\n",
+    "citation": {
+        "volume": "589",
+        "page": null,
+        "year": "2020",
+        "href": "https://api.oyez.org/case_citation/case_citation/27670"
+    },
+    "term": "2019",
+    "description": "A case in which the Court upheld Kansas's prosecution of noncitizens who used stolen social security numbers to gain employment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/589/17-834/",
+    "facts_of_the_case": "<p>The controversy before the Court arises from three cases presenting the same issue.</p>\n<p>In <em>State v. Garcia</em>, Ramiro Garcia was stopped for speeding in Overland Park, Kansas. When asked why he was speeding, he told officers that he was on his way to work. A records check revealed that he was already the subject of an investigation, and police contacted his employer to obtain employment documents. Among the documents was his federal Form I-9, which listed a social security number belonging to another person. Further investigation revealed that Garcia had used the same number on other federal and state forms. On the basis of this information, Garcia was charged with identity theft under state law.</p>\n<p>In <em>State v. Morales</em>, a special agent with the Social Security Administration determined that Donaldo Morales was using a social security number issued to another person. The agent reviewed Morales\u2019s employment file, which included a federal Form I-9 as well as various federal and state tax forms. Morales was charged with identity theft and two other state-law offenses.</p>\n<p>In <em>State v. Ochoa-Lara</em>, federal and state officers determined that Guadalupe Ochoa-Lara was using a social security number issued to another individual to lease an apartment. On further investigation, officers reviewed the Form W-4 that Ochoa-Lara had completed for employment and found he was using the same social security number that belonged to another individual. On this basis, Ochoa-Lara was charged with two counts of identity theft under state law.</p>\n<p>All three defendants were convicted of at least one related charge, and all three appealed their convictions.</p>\n",
+    "conclusion": "<p>The Immigration Reform and Control Act (IRCA) neither expressly nor impliedly preempts Kansas\u2019s application of its state identity-theft and fraud statutes to the noncitizens in this case. Justice Samuel Alito delivered the 5-4 majority opinion.</p>\n<p>The express preemption provision of IRCA applies only to employers and those who recruit or refer prospective employees and thus does not apply to state laws, such as the one at issue in this case, that impose criminal or civil sanctions on employees or applicants for employment. The Kansas Supreme Court erroneously relied on a different provision, \u00a7 1324a(b)(5), which prohibits any use of an I-9 or any information \u201ccontained in\u201d that form; that interpretation is \u201ccontrary to standard English usage.\u201d Thus, IRCA does not expressly preempt state law.</p>\n<p>Further, IRCA does not impliedly preempt state law for two key reasons. First, Kansas\u2019s prosecutions of the noncitizens in this case were based on the information provided not in the I-9, but in tax-withholding forms, which are outside of immigration-enforcement functions. Thus, the relevant provisions of the IRCA \u201cdid not create a comprehensive and unified system regarding information a State may require employees to provide.\u201d Second, the Court found no intent by Congress to eliminate overlap between state identity-theft prosecutions and federal prosecution fraud crimes arising from the employment-verification process or tax-withholding forms. Thus, the federal laws do not conflict with the state laws, nor do they pose \u201can obstacle to the accomplishment and execution of the full purposes of IRCA.\u201d</p>\n<p>Because IRCA neither expressly nor impliedly preempts Kansas\u2019s laws, the Court reversed the Kansas Supreme Court\u2019s decision, validating the convictions below.</p>\n<p>Justice Clarence Thomas authored a concurring opinion in which Justice Neil Gorsuch joined to express his view that the Court should explicitly abandon its \u201cpurposes and objectives\u201d preemption jurisprudence.</p>\n<p>Justice Stephen Breyer filed an opinion concurring in part (with respect to express preemption and dissenting in part (with respect to implied preemption), in which Justices Ruth Bader Ginsburg, Sonia Sotomayor, and Elena Kagan joined. Justice Breyer argued that\u00a0 IRCA\u2019s text, structure, context, and purpose, make it \u201c\u2018clear and manifest\u2019\u201d that Congress has \u201coccupied at least the narrow field of policing fraud committed to demonstrate federal work authorization.\u201d In Justice Breyer\u2019s view, it should not matter that Kansas relied on the information in the tax-withholding forms rather than the I-9; the noncitizens were still submitting information as part of the process of verifying their employment eligibility.</p>\n<p>\u00a0</p>\n"
+}

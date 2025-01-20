@@ -1,0 +1,35 @@
+{
+    "ID": 54755,
+    "name": "Holloway Aka Ali v. United States",
+    "href": "https://api.oyez.org/cases/1998/97-7164",
+    "view_count": 0,
+    "docket_number": "97-7164",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                910591200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38269"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                920354400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38270"
+        }
+    ],
+    "question": "<p>Does the federal carjacking law apply to crimes committed with the \"conditional intent\" of harming drivers who refuse a carjacker's demands?</p>\n",
+    "citation": {
+        "volume": "526",
+        "page": "1",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18684"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/526/1/",
+    "facts_of_the_case": "<p>Franois Holloway, a.k.a. Abdu Ali, was charged with several federal offenses, including carjacking. Federal law defines carjacking as \"tak[ing] a motor vehicle ... from ... another by force and violence or by intimidation\" \"with the intent to cause death or serious bodily harm.\" Holloway's accomplice testified that there was no intent to harm the drivers of the cars, just steal their vehicles. However, he said he would have used his gun if he had been given a \"hard time.\" The District Court judge instructed the jury that the requisite intend under law may be conditional. Moreover, the government would satisfy this condition if it had proved to them that the defendant intended to cause death or bodily harm if the drivers refused to turn over their cars. Subsequently, the jury found Holloway guilty. The Court of Appeals affirmed. It held that a conditional intent to harm was within a reasonable interpretation of the legislative purpose of the carjacking law.</p>\n",
+    "conclusion": "<p>Yes. In a 7-2 decision, announced by Justice John Paul Stevens, the Court ruled that the federal carjacking law applies to carjacking crimes committed with \"conditional intent\" of harming drivers who refuse a carjacker's demands. \"The intent requirement...is satisfied when the government proves that at the moment the defendant demanded or took control over the driver's automobile the defendant possessed the intent to seriously harm or kill the driver if necessary to steal the car,\" wrote Justice Stevens.</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 55921,
+    "name": "Standard Fire Insurance Company v. Knowles",
+    "href": "https://api.oyez.org/cases/2012/11-1450",
+    "view_count": 0,
+    "docket_number": "11-1450",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1346389200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41126"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1357538400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41127"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1363669200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41128"
+        }
+    ],
+    "question": "<p>Can a plaintiff in a class action case stipulate that the potential damages are less than $5 million, which removes the case from federal jurisdiction?</p>\n",
+    "citation": {
+        "volume": "568",
+        "page": "588",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19843"
+    },
+    "term": "2012",
+    "description": "A case in which the Court held that a plaintiff in a class action case cannot stipulate that the potential damages are less than $5 million in order to remove the case from federal jurisdiction.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/568/588/",
+    "facts_of_the_case": "<p>On March 10, 2010, Greg Knowles' home was damaged in a hailstorm, and he requested payment from his insurer, Standard Fire Insurance Company, for the full amount of the damage. On April 13, 2011, Knowles filed a class action lawsuit against Standard Fire Insurance Company alleging that he and others had been denied the full payment for damages that their contracts provided.</p>\n<p>According to the Class Action Fairness Act of 2005 (CAFA), defendants in a class action lawsuit can move the case to federal court if the potential damages exceed $5 million. In the past, plaintiffs have attempted to avoid federal jurisdiction by stipulating that the potential damages in a given case are worth less than $5 million, and the U.S. Court of Appeals for the Eighth Circuit has allowed such a stipulation.</p>\n<p>The defendant, Standard Fire Insurance Company moved the case from the Miller County Circuit Court to the Western District of Arkansas. The district court held that the plaintiffs' stipulation that the potential damages were less than $5 million was sufficient to prove with \"legal certainty\" that was the case. The U.S. Court of Appeals for the Eighth Circuit affirmed.</p>\n",
+    "conclusion": "<p>No. Justice Stephen G. Breyer, writing for a unanimous court, vacated the lower court decision and remanded. To defeat jurisdiction the stipulation must be binding, and a plaintiff bringing a proposed class action cannot bind members of the proposed class before the class is certified. Knowles only has the authority to bind himself to a stipulated claim amount. Federal jurisdiction cannot be based on contingent future events, and the non-binding stipulation may not survive the certification process. For example, the complaint may clearly show an amount in controversy over $5 million, Knowles may be an inadequate class representative, or another party might intervene with an amended complaint. Individual plaintiffs may control jurisdiction through stipulation, but a named plaintiff in a not yet certified class action cannot.</p>\n"
+}

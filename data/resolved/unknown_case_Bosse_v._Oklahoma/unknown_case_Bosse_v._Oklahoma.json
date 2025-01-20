@@ -1,0 +1,35 @@
+{
+    "ID": 62758,
+    "name": "Bosse v. Oklahoma",
+    "href": "https://api.oyez.org/cases/2016/15-9173",
+    "view_count": 0,
+    "docket_number": "15-9173",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1476162000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53894"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1476162000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53898"
+        }
+    ],
+    "question": "<p>Did the U.S. Supreme Court\u2019s decision in Payne v. Tennessee overrule the Court\u2019s decision in Booth v. Maryland that the Eighth Amendment prohibited testimony by the victim\u2019s family members regarding their opinions about the defendant, the crime, or the sentence?</p>\n",
+    "citation": {
+        "volume": "580",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27463"
+    },
+    "term": "2016",
+    "description": "A case in which the Court held that its decision in Payne v. Tennessee did not overrule the Court\u2019s prior decision in Booth v. Maryland--that the Eighth Amendment prohibited testimony by the victim\u2019s family members regarding their opinions about the defendant, the crime, or the sentence.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/580/15-9173/",
+    "facts_of_the_case": "<p dir=\"ltr\">In 1987, the U.S. Supreme Court decided in Booth v. Maryland that the Eighth Amendment prohibits a sentencing jury in a death penalty case from considering victim impact evidence that does not directly relate to the circumstances of the crime. In Payne v. Tennessee, four years later, the Supreme Court determined that the ban only applied to victim impact testimony. Because Payne did not deal with the victim\u2019s family member\u2019s characterizations of the defendant, the crime, or the sentence as Booth had, the Payne Court did not address these types of evidence.</p>\n<p>Shaun Michael Bosse was convicted of three counts of first-degree murder for killing Katrina Griffin and her two children. The prosecution sought the death penalty and, over Bosse\u2019s objection, asked three of the victims\u2019 family members to recommend a sentence to the jury. All three recommended the death penalty, and the jury sentenced Bosse to death. Bosse appealed and argued that the sentencing process had violated the U.S. Supreme Court\u2019s decision in Booth. The Oklahoma Court of Criminal Appeals affirmed the sentence and held that Payne had \u201cimplicitly overruled\u201d Booth as it related to characterizations of the defendant and opinions about the sentence. </p>\n",
+    "conclusion": "<p dir=\"ltr\">No. In a per curiam opinion, the Court held that the Court in Payne stated specifically that its opinion did not affect the Booth Court\u2019s prohibition against victim impact testimony relating to the crime, the defendant, and the sentence. Because only the U.S. Supreme Court can overrule its own precedent, the Oklahoma Court of Criminal Appeals erred in holding otherwise. </p>\n<p>In his concurring opinion, Justice Clarence Thomas wrote that the Payne decision did not explicitly overrule Booth and only the U.S. Supreme Court can overrule itself. Therefore, the Oklahoma Court of Criminal Appeals erred in holding that the Payne decision went so far as to overrule Booth, but this decision does not affect the underlying analysis of Booth or Payne. Justice Samuel A. Alito, Jr., joined in the concurrence. </p>\n"
+}

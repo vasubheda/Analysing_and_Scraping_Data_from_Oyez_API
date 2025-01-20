@@ -1,0 +1,35 @@
+{
+    "ID": 56016,
+    "name": "Mount Holly v. Mt. Holly Gardens Citizens in Action, Inc.",
+    "href": "https://api.oyez.org/cases/2013/11-1507",
+    "view_count": 0,
+    "docket_number": "11-1507",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1371445200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41353"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1384495200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41551"
+        }
+    ],
+    "question": "<p>1. Did the Township's redevelopment plans have a racially disparate impact in violation of the Fair Housing Act?</p>\n<p>2. If so, does the burden then shift to the Township to show that there were no less discriminatory alternatives available?</p>\n",
+    "citation": {
+        "volume": "570",
+        "page": null,
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19938"
+    },
+    "term": "2013",
+    "description": "A case that was settled before trial regarding whether or not a New Jersey township's redevelopment plan of an historically poor area violated the Fair Housing Act.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>The Gardens is a low-income neighborhood in the Township of Mount Holly, New Jersey. African American and Hispanic residents made up most of the occupants of the neighborhood's 329 homes. Problems relating to crowding, vacant properties, and crime have long plagued the Gardens. Shortly after designating the area \"in need of development\" in 2000, the Township began acquiring properties and instituted a series of redevelopment plans over the next several years. Each plan called for the demolition of most, if not all, of the original homes in the neighborhood and the construction of new, more expensive homes in their place. The number and type of affordable-housing units available to existing Gardens residents varied in each plan.</p>\n<p>In 2003, Citizens in Action sued the Township in state court and alleged violations of New Jersey redevelopment and antidiscrimination laws. The court dismissed some of their claims and granted summary judgment in favor of the Township on other claims. Mt. Holly Gardens Citizens in Action and a number of current and former Gardens residents sued in federal court in 2008 and argued that the Township's actions violated the Fair Housing Act (FHA) and other federal antidiscrimination laws. The FHA makes it unlawful to \"refuse to sell or rent . . . or otherwise make unavailable or deny, a dwelling to any person because of race, color, religion, sex, familial status, or national origin.\" The court granted summary judgment in favor of the Township by ruling that the plaintiffs had failed to show that the plans had a racially disparate impact under the FHA. The U.S. Court of Appeals for the Third Circuit reversed and held that the plaintiffs had indeed presented a prima facie case of discrimination and that material questions of fact relating to less discriminatory alternatives available to the Township remained open.</p>\n",
+    "conclusion": "<p>Unanswered. Prior to argument, the parties settled out of court, and the case was dismissed.</p>\n"
+}

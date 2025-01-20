@@ -1,0 +1,35 @@
+{
+    "ID": 63069,
+    "name": "Shoop v. Hill",
+    "href": "https://api.oyez.org/cases/2018/18-56",
+    "view_count": 0,
+    "docket_number": "18-56",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1546840800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54410"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1546840800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54411"
+        }
+    ],
+    "question": "<p>Did the Sixth Circuit err in determining that the decisions of Ohio courts as to a defendant\u2019s intellectual disability were contrary to clearly established Supreme Court precedent at the time?</p>\n",
+    "citation": {
+        "volume": "586",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27644"
+    },
+    "term": "2018",
+    "description": "A case in which the Court held that the Sixth Circuit erroneously relied on a Supreme Court case that was decided after critical state-court decisions in order to grant a capital defendant federal habeas relief.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/586/18-56/",
+    "facts_of_the_case": "<p>In 1986, Danny Hill was convicted in an Ohio court for the torture, rape, and murder of a 12-year-old boy. An intermediate state court affirmed his conviction, as did the Ohio Supreme Court. The US Supreme Court denied certiorari in 1993.</p>\n<p>After unsuccessfully seeking to obtain post-conviction relief in state and federal court, Hill filed a new petition in Ohio state court arguing that his death sentence was illegal under <a href=\"https://www.oyez.org/cases/2001/00-8452\"><em>Atkins v. Virginia</em>, 536 U.S. 304 (2002)</a>, which held that the Eighth Amendment prohibits the criminal execution of a defendant who is \u201cmentally retarded.\u201d The trial court denied the claim, an intermediate court affirmed the denial, and the Ohio Supreme Court denied review.</p>\n<p>In 2010, Hill filed a federal habeas petition under 28 U.S.C. \u00a7 2254 seeking federal review of his <em>Atkins</em> claim. The federal district court denied the petition, but the Sixth Circuit reversed and granted habeas relief under 28 U.S.C. \u00a7 2254(d)(1), which applies when a state-court adjudication \u201cresulted in a decision that was contrary to, or involved an unreasonable application of, clearly established Federal law, as determined by the Supreme Court of the United States.\u201d Though it expressly disclaimed reliance on the Supreme Court\u2019s 2017 decision in <a href=\"https://www.oyez.org/cases/2016/15-797\"><em>Moore v. Texas</em>, 581 U.S. __ (2017)</a>\u2014in which the Court struck down a state law that relied on outdated medical standards in determining intellectual disability for the purpose of eligibility for the death penalty\u2014the Sixth Circuit repeatedly cited the language and the decision of&nbsp;<em>Moore</em> itself in reaching its decision granting the petition.</p>\n",
+    "conclusion": "<p>In a per curiam opinion issued without oral argument, the Court held that the Sixth Circuit erroneously relied on the Supreme Court\u2019s decision in <a href=\"https://www.oyez.org/cases/2016/15-797\"><em>Moore v. Texas</em>, 581 U.S. __ (2017)</a> to grant the defendant\u2019s habeas relief because that decision had not been decided at the time of the state-court decisions. The Sixth Circuit\u2019s opinion draws heavily from the language of Moore, and it was not even until that court asked for supplemental briefing on the applicability of <em>Moore</em> did the defendant introduce the argument that underpinned the court\u2019s decision granting habeas relief. Because <em>Moore</em> had not been decided until after the state-court decisions, the Court remanded the case for the Sixth Circuit to determine whether, without <em>Moore</em>, the relevant legal rules were clearly established such that habeas relief would be appropriate.</p>\n"
+}

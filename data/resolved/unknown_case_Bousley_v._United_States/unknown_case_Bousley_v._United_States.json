@@ -1,0 +1,35 @@
+{
+    "ID": 54604,
+    "name": "Bousley v. United States",
+    "href": "https://api.oyez.org/cases/1997/96-8516",
+    "view_count": 0,
+    "docket_number": "96-8516",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                888904800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37992"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                895467600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37993"
+        }
+    ],
+    "question": "<p>May defendants who pleaded guilty to \"using\" a firearm in violation of 18 USC section 924(c)(1) contest the validity of their convictions by claiming that their guilty pleas were not knowing and intelligent because they were misinformed by the District Court as to the nature of the charged crime?</p>\n",
+    "citation": {
+        "volume": "523",
+        "page": "614",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18533"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/523/614/",
+    "facts_of_the_case": "<p>In 1990, Kenneth Eugene Bousley pleaded guilty to \"using\" a firearm \"during and in relation to a drug trafficking crime,\" in violation of 18 USC section 924(c)(1). Ultimately, Bousley sough habeas relief, claiming his guilty plea lacked a factual basis because a connection between the firearms, located in the bedroom, and the location where the drug trafficking occurred, in the garage, was not shown in either the evidence or the plea. Dismissing the petition, the District Court found that a factual basis for the plea existed because the guns were in close proximity to the drugs and were readily accessible. In affirming, the Court of Appeals rejected Bousley's argument, among others, that his guilty plea was not knowing and intelligent because he was misinformed about the elements of a section 924(c)(1) offense.</p>\n",
+    "conclusion": "<p>Yes. In a 7-2 opinion delivered by Chief Justice William H. Rehnquist, the Court held that, although Bousley's claim was procedurally defaulted, Bousley may be entitled to a hearing on the merits of it if he makes the necessary showing to relieve the default. The Court's opinion made Bailey v. United States, 516 U.S. 137 (1995), which held that section 924(c)(1)'s \"use\" element requires the Government to show \"active employment of the firearm,\" retroactive. Accordingly, the Court ruled that Bousley need demonstrate no more than that he did not \"use\" a firearm as defined in Bailey to be entitled to have his defaulted claim of an unintelligent plea considered on its merits.</p>\n"
+}

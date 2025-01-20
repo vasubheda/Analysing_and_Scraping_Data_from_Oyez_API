@@ -1,0 +1,42 @@
+{
+    "ID": 62987,
+    "name": "Lamps Plus, Inc. v. Varela",
+    "href": "https://api.oyez.org/cases/2018/17-988",
+    "view_count": 0,
+    "docket_number": "17-988",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1525064400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54258"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1540789200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54352"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1556082000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54505"
+        }
+    ],
+    "question": "<p>Does the Federal Arbitration Act foreclose a state-law interpretation of an arbitration agreement that would authorize class arbitration based solely on general language commonly used in arbitration agreements?</p>\n",
+    "citation": {
+        "volume": "587",
+        "page": null,
+        "year": "2019",
+        "href": "https://api.oyez.org/case_citation/case_citation/27588"
+    },
+    "term": "2018",
+    "description": "A case in which the Court held that under the Federal Arbitration Act, an ambiguous agreement cannot provide the necessary contractual basis for concluding that the parties agreed to submit to class arbitration.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/587/17-988/",
+    "facts_of_the_case": "<p>Frank Varela filed a class action complaint against his employer, Lamps Plus, under theories including negligence, invasion of privacy, and breach of contract after the company released employee personal identifying information in response to a phishing scam. Varela had signed an arbitration agreement as a condition of his employment. After he filed suit, Lamps Plus relied on this agreement as a basis for a motion to compel bilateral arbitration.&nbsp;</p>\n<p>The district court found the agreement to be a contract of adhesion and ambiguous as to whether it permitted class arbitration. It construed the ambiguity against the drafter, Lamps Plus, and allowed the arbitration to proceed on a class-wide basis. Lamps Plus appealed, arguing that it had not agreed to class arbitration, but the Ninth Circuit affirmed and ruled that class arbitration could move forward.</p>\n<p>The appeals court explained that because the agreement was capable of two reasonable interpretations, the district court was correct in finding ambiguity. Under California law it was also proper to construe the ambiguity against the drafter, particularly since it was a contract of adhesion. Further, it was a reasonable interpretation of the agreement to conclude that it covered legal disputes including class-wide claims, not just individual ones. By accepting this interpretation, the district court had found the requisite \u201ccontractual basis\u201d for agreement to class arbitration under <a href=\"https://www.oyez.org/cases/2009/08-1198\"><em>Stolt-Nielsen S.A. v. AnimalFeeds Int\u2019l Corp.</em>, 559 U.S. 662 (2010)</a>.</p>\n",
+    "conclusion": "<p>Under the Federal Arbitration Act (FAA), an arbitration agreement that is ambiguous as to the availability of class arbitration does not manifest sufficient consent by the parties to submit to class arbitration. In a 5-4 opinion authored by Chief Justice John Roberts, the Court held that the arbitration agreement between Varela and his employer, Lamps Plus, which contained only general language commonly used in arbitration agreements, did not provide the necessary contractual basis for compelling class arbitration.</p>\n<p>The Court first determined that it had jurisdiction to review the lower court\u2019s decision because an order that both compels arbitration and dismisses the underlying claims is a \u201cfundamental\u201d change in the rights of a party and thus qualifies as \u201ca final decision with respect to an arbitration\u201d within the meaning of the statute.\u00a0</p>\n<p>On the merits, the Court first noted that the availability of class arbitration is a matter of consent\u2014that is, all parties must consent to class arbitration for it to be available. Because there are crucial differences between class arbitration and sole arbitration, the Court found utmost importance in giving effect to the intent of the parties. In <a href=\"https://www.oyez.org/cases/2009/08-1198\"><em>Stolt-Nielsen S.A. v. AnimalFeeds Int\u2019l Corp.</em>, 559 U.S. 662 (2010)</a>, the Court held that a contract\u2019s silence toward class arbitration precluded its availability, and the same holds true for ambiguity.</p>\n<p>The Court rejected the California law that an ambiguous provision of a contract be construed against the drafter, finding that rule preempted by the FAA despite arguments by Varela and the dissenting justices that the law is nondiscriminatory.</p>\n<p>Justice Clarence Thomas joined the majority but wrote a separate concurrence expressing that he would not reach consideration of the California law of interpretation.</p>\n<p>Justice Ruth Bader Ginsburg wrote a dissenting opinion, in which Justices Stephen Breyer and Sonia Sotomayor joined, to emphasize that the Court\u2019s decision strays even further from the principle that \u201carbitration is a matter of consent, not coercion.\u201d Justice Ginsburg notes the irony that in contracts between parties with vastly unequal bargaining power, as between employers and employees, an inference that an ambiguous contract requires solo arbitration vests the employer with even greater power of coercion.</p>\n<p>Justice Breyer wrote a dissenting opinion expressing his individual view that both the court of appeals, below, and the Court itself lacked jurisdiction to review the case.</p>\n<p>Justice Sotomayor wrote a dissenting opinion to point out that the majority reaches its holding without actually first agreeing that the contract is ambiguous, thereby unnecessarily invading California law by invoking preemption.</p>\n<p>Justice Elena Kagan wrote a dissenting opinion, in which Justices Ginsburg and Breyer join, and in which Justice Sotomayor joins as to Part II. Justice Kagan pointed out that the FAA, while requiring courts to enforce arbitration agreements according to their terms, does not federalize contract law. Thus, even under the FAA, state law governs the interpretation of arbitration agreements as long as it treats other types of contracts the same way. In Justice Kagan\u2019s view, this principle should resolve the matter in this case.</p>\n"
+}

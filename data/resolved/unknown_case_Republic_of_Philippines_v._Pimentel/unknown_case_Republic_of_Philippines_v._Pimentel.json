@@ -1,0 +1,42 @@
+{
+    "ID": 55533,
+    "name": "Republic of Philippines v. Pimentel",
+    "href": "https://api.oyez.org/cases/2007/06-1204",
+    "view_count": 0,
+    "docket_number": "06-1204",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1196661600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40084"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1205730000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40085"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1213246800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40086"
+        }
+    ],
+    "question": "<p>Did the U.S. Court of Appeals for the Ninth Circuit err in approving the award of assets to creditors of former Philippine President Ferdinand Marcos when the Philippine government, claiming rightful ownership of the assets, excluded itself from the proceedings based on sovereign immunity?</p>\n",
+    "citation": {
+        "volume": "553",
+        "page": "851",
+        "year": "2008",
+        "href": "https://api.oyez.org/case_citation/case_citation/20723"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/553/851/",
+    "facts_of_the_case": "<p>The case arises from competing claims to more than $30 million, the rewards of an investment former Philippine President Ferdinand Marcos made with Merrill Lynch and subsequently misappropriated. A Philippine agency charged with recovering the funds, several Marcos family creditors, and human rights victims who had already secured a judgment against Marcos' estate each laid claim to the money, prompting Merrill Lynch to file an interpleader action to settle all of the claims in one case. The Philippine government, acting in concert with the recovery agency, claimed that it had sovereign immunity from suit and, because it was an indispensable party to the suit under Federal Rule of Civil Procedure 19(b), justice required that the case be stayed and brought before a special Philippine court established to return such misappropriated funds to the public treasury. However, the district court continued to adjudicate the case, eventually awarding the assets to the creditors.</p>\n<p>The Ninth Circuit upheld the award, noting that the government's claim was barred by the applicable Philippine statute of limitations. The Ninth Circuit further held that the \"equity and good conscience\" requirements of Federal Rule of Civil Procedure 19(b) did not require the Philippine government's participation in the case. In its petition for certiorari, the Philippine government argued that the award of assets undermined the comity principles of the Foreign Sovereign Immunities Act and violated Federal Rule of Civil Procedure 19(b) by not including the government as an indispensable party.</p>\n",
+    "conclusion": "<p>Yes it did. The Court's opinion was unanimous in finding that the Philippine government was a required party to the case under Rule 19(b). Such a required party must be joined to the suit if it is \"feasible,\" and the Court ruled that the government's inclusion was feasible in this case. The Court sent the case back to the district court with instructions to dismiss the interpleader action. Justice Anthony Kennedy delivered the opinion of the Court in which Justices John Paul Stevens and David Souter concurred in part and dissented in part.</p>\n"
+}

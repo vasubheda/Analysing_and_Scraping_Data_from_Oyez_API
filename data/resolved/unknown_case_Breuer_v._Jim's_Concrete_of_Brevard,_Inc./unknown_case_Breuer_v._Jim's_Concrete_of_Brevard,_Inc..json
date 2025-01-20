@@ -1,0 +1,35 @@
+{
+    "ID": 55037,
+    "name": "Breuer v. Jim's Concrete of Brevard, Inc.",
+    "href": "https://api.oyez.org/cases/2002/02-337",
+    "view_count": 0,
+    "docket_number": "02-337",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1053320400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38801"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1049263200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52708"
+        }
+    ],
+    "question": "<p>In providing for suits under the FLSA, did Congress bar removal of such actions from state to federal court?</p>\n",
+    "citation": {
+        "volume": "538",
+        "page": "691",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/27079"
+    },
+    "term": "2002",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/538/691/",
+    "facts_of_the_case": "<p>Philip Breuer sued in state court to resolve an overtime dispute under the Federal Labor Standards Act (FLSA). Attorneys for Breuer's employer, Jim's Concrete of Brevard, had the case moved to federal court by citing the federal removal statute. According to the statute, defendants in state court cases dealing with federal laws may have the case moved to federal court \"unless otherwise expressly provided by Act of Congress.\" Breuer's attorney argued that Congress had provided for suits under the FLSA to be heard in state court and that the case should therefore be returned to state court; attorneys for Jim's Concrete disagreed. The district court refused to send the case back to state court. The 11th Circuit Court of Appeals affirmed.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered David H. Souter, the Court held that the FLSA does not bar removal of a suit from state to federal court, thus Breuer's case was properly removed under section 1441. The Court reasoned that nothing on the face of the FLSA looked like an express prohibition of removal, there being no mention of removal, let alone of prohibition, given that word \"maintain\" and its bearing on removal was ambiguous at best. Rejecting all of Breuer's arguments, the Court noted that numerous other statutes provided indisputable prohibitions of removal, which demonstrated Congress's intent to give plaintiffs an absolute choice of forum in unmistakable terms.</p>\n"
+}

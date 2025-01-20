@@ -1,0 +1,35 @@
+{
+    "ID": 54748,
+    "name": "Immigration & Naturalization Service v. Aguirre-Aguirre",
+    "href": "https://api.oyez.org/cases/1998/97-1754",
+    "view_count": 0,
+    "docket_number": "97-1754",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                920440800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38255"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                925707600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38256"
+        }
+    ],
+    "question": "<p>Does the Immigration and Nationality Act require deportation boards, who face aliens that committed nonpolitical crimes prior to seeking asylum, to: balance the severity of the alien's offenses against the threat of political persecution, compare the atrocities of the crimes with others it faced in the past, or consider whether the crimes were politically necessary or successful?</p>\n",
+    "citation": {
+        "volume": "526",
+        "page": "415",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18677"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/526/415/",
+    "facts_of_the_case": "<p>While the Immigration and Nationality Act (INA) provides asylum to aliens who can demonstrate that they will be persecuted if deported, it does not protect aliens who commit \"serious nonpolitical crimes\" before their arrival in the United States. After burning busses, assaulting passengers, and vandalizing private property in his native Guatemala, Juan Aguiree fled to and, sought asylum in, the United States. Despite Aguirre's claims that his acts constituted political protest, the Board of Immigration Appeals (BIA) overturned an administrative court's finding in favor of asylum. On appeal, the Ninth Circuit reversed as it found the BIA's analysis deficient in three parts: it failed to balance the severity of Aguirre's offenses against the threat of political persecution; it failed to qualify the atrocities of Aguiree's acts in comparison with others it faced in the past; and it did not consider whether Aguree's acts were politically necessary or successful. When the Immigration and Naturalization Service (INS) appealed, the Supreme Court granted certiorari.</p>\n",
+    "conclusion": "<p>No. In a unanimous opinion, the Court noted that withholding of deportation is mandatory if an alien establishes that it is more likely than not that he or she will suffer political persecution if deported. The Court added that the BIA was not required to balance the severity of the acts in question against threats of political persecution, compare the actions with others, or pronounce on their political success or necessity. Likelihood of political persecution is the overarching issue when considering an alien's deportability, followed by a determination of whether the crimes at issue were serious and nonpolitical.</p>\n"
+}

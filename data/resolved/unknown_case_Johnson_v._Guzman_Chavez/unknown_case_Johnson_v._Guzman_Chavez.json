@@ -1,0 +1,42 @@
+{
+    "ID": 63250,
+    "name": "Johnson v. Guzman Chavez",
+    "href": "https://api.oyez.org/cases/2020/19-897",
+    "view_count": 0,
+    "docket_number": "19-897",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1592197200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54730"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1610344800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54818"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1624942800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54951"
+        }
+    ],
+    "question": "<p>Are the respondents\u2014who were subject to reinstated removal orders, but with pending claims for withholding of removal\u2014detained under 8 U.S.C. \u00a7 1226 or under 8 U.S.C. \u00a7 1231?</p>\n",
+    "citation": {
+        "volume": "594",
+        "page": null,
+        "year": "2021",
+        "href": "https://api.oyez.org/case_citation/case_citation/27755"
+    },
+    "term": "2020",
+    "description": "A case in which the Court held that Section \u00a71231, not \u00a71226, applies to the detention of a nonresident who is subject to a reinstated removal order and who is pursuing withholding or deferral of removal.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/594/19-897/",
+    "facts_of_the_case": "<p>Respondents are a class of noncitizens subject to reinstated removal orders, which generally are not open to challenge. However, if a noncitizen has a reasonable fear of persecution or torture in the countries designated in their removal orders, the person may pursue withholding of removal. That is the remedy the respondents in this case sought, and they are being detained by the government while they await the outcome of those withholding-only proceedings.</p>\n<p>The respondents requested individualized bond hearings, which could lead to their release during the withholding-only proceedings. The government argued that they are not entitled to individualized bond hearings because they were subject to mandatory detention under 8 U.S.C. \u00a7 1231, and bond hearings were denied.\u00a0</p>\n<p>The noncitizens argued that 8 U.S.C. \u00a7 1226, rather than 8 U.S.C. \u00a7 1231, governs their detention. Section 1226 provides for detention \"pending a decision on whether the alien is to be removed from the United States\" and allows for discretionary release on bond.</p>\n<p>The district court ruled in favor of the noncitizens, finding that the text of the two statutes made clear that \u00a7 1226 applied. The court held that \u00a7 1231 does not come into play until the government has \u201cthe present and final legal authority to actually execute that order of removal.\u201d A divided three-judge panel of the U.S. Court of Appeals for the Fourth Circuit affirmed.</p>\n",
+    "conclusion": "<p>Section \u00a71231, not \u00a71226, governs the detention of aliens subject to\u00a0reinstated orders of removal. Justice Samuel Alito authored the majority opinion of the Court.</p>\n<p>Section 1231 authorizes detention \u201cwhen an alien is ordered removed\u201d and enters the \u201cremoval period,\u201d which begins on \u201c[t]he date the order of removal becomes administratively final.\u201d The presence of the word \u201cadministratively,\u201d means DHS does not need to wait for the alien to seek or exhaust judicial review of that order. Even if the alien pursues withholding-only relief, the removal order remains in full force, and DHS retains the authority to remove the alien to any other authorized country. The validity of removal orders is not affected by the outcome of withholding-only proceedings. The statutory structure confirms this interpretation.</p>\n<p>Justice Clarence Thomas authored an opinion, joined by Justice Neil Gorsuch, concurring except as to the majority\u2019s determination that it has jurisdiction to review the decision below. Justice Thomas argued that the Court lacks jurisdiction to hear challenges to detention during the removal process but otherwise agreed with the majority\u2019s opinion.</p>\n<p>Justice Stephen Breyer authored a dissenting opinion in which Justices Sonia Sotomayor and Elena Kagan joined. Justice Breyer argued that it is unreasonable to infer, and statutory language does not support, that Congress intended to deny a bond hearing to individuals who reasonably fear persecution or torture, and who, as a result, face proceedings that may last for many months or years.</p>\n"
+}

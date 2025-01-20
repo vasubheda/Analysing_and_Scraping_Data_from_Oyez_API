@@ -1,0 +1,42 @@
+{
+    "ID": 55191,
+    "name": "Dretke v. Haley",
+    "href": "https://api.oyez.org/cases/2003/02-1824",
+    "view_count": 0,
+    "docket_number": "02-1824",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1066107600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52586"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1078207200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52587"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1083560400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39154"
+        }
+    ],
+    "question": "<p>Does the actual-innocence exception to the procedural-default doctrine apply to both capital and non-capital cases?</p>\n",
+    "citation": {
+        "volume": "541",
+        "page": "386",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/20533"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/541/386/",
+    "facts_of_the_case": "<p>Haley was convicted in Texas state courts of a felony theft and sentenced as a habitual felony offender (extending his sentence). After a failed appeal to the Texas appellate court, Haley filed a state habeas application in the trial court, arguing that his past crimes did not qualify him as a habitual offender and that his attorney had provided ineffective counsel when he failed to object to the extended sentence. The court dismissed his claims on procedural grounds, because he had not raised the issue during his trial and therefore could not raise it in the habeas petition. The Texas Court of Criminal Appeals denied his habeas application based on the trial court's findings.</p>\n<p>Haley then filed for habeas corpus relief in federal district court. Pointing to the procedural-default doctrine, Texas argued that Haley's claim was procedurally barred from federal habeas review. Under the procedural-default doctrine, federal courts cannot grant habeas relief if the last state court rejected the appeal for procedural violations of state law; the only exception is if the petitioner is actually innocent.</p>\n<p>The district court held that Haley showed he was \"actually innocent\" of earlier violations on which his sentence enhancement was based. The court ruled that Haley's sentence was therefore improperly extended. It never reached his ineffective assistance of counsel claim, having already found grounds for overturning the extended sentence. The U.S. Fifth Circuit Court of Appeals affirmed, rejecting Texas's argument that the actual-innocence exception applies only to cases involving capital offenses.</p>\n",
+    "conclusion": "<p>The Court declined to answer the question presented, ruling instead that the district court should have first considered the ineffective assistance of counsel claim before reaching the question of whether the \"actual innocence\" exception applies to non-capital cases. Justice Sandra Day O'Connor, for a seven-member majority, wrote that the ineffective assistance of counsel claim would accomplish the same thing - the reduction of the sentence - without burdening the state with the need to prove the existence of all prior convictions beyond a reasonable doubt.</p>\n"
+}

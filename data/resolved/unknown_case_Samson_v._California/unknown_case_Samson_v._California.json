@@ -1,0 +1,42 @@
+{
+    "ID": 55306,
+    "name": "Samson v. California",
+    "href": "https://api.oyez.org/cases/2005/04-9728",
+    "view_count": 0,
+    "docket_number": "04-9728",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1127797200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39471"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1140588000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39472"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1150693200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39473"
+        }
+    ],
+    "question": "<p>Did the Fourth Amendment prohibit police from conducting a warrantless search of a person who was subject to a parole search condition, where there was no suspicion of criminal wrongdoing and the sole reason for the search was because the person was on parole?</p>\n",
+    "citation": {
+        "volume": "547",
+        "page": "843",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20624"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/547/843/",
+    "facts_of_the_case": "<p>A police officer stopped and searched Samson on the street in San Bruno, California. The officer had no warrant and later admitted he had stopped Samson only because he knew him to be on parole. The officer found that Samson was in possession of methamphetamines. Samson was arrested and charged with drug possession in state court. At trial Samson argued the drugs were inadmissible as evidence, because the search had violated his Fourth Amendment rights. The trial court denied the motion and the state supreme court declined to hear the case.</p>\n",
+    "conclusion": "<p>No. In a 6-to-3 decision authored by Justice Clarence Thomas, the Supreme Court held that Samson \"did not have an expectation of privacy that society would recognize as legitimate.\" Parole allows convicted criminals out of prison before their sentence is completed. An inmate who chooses to complete his sentence outside of direct physical custody, however, remains in the Department of Correction's <em>legal</em> custody until the conclusion of his sentence, and therefore has significantly reduced privacy rights. In this case, Samson had also been required, as a condition of his parole, to sign an agreement that he would be \"subject to search or seizure by a parole officer or other peace officer..., with or without a search warrant and with or without cause.\" This written consent to suspicionless searches, along with his already reduced privacy interests as a parolee, combined to make the search constitutional. Justices Stevens, Souter and Breyer dissented, arguing that parolees have an expectation of privacy greater than that of prisoners, which was violated by the search at issue in this case.</p>\n<p><em>Learn more about the Roberts Court and the Fourth Amendment in <a href=\"http://projects.oyez.org/shifting-scales/\">Shifting Scales</a>, a nonpartisan Oyez resource.</em></p>\n"
+}

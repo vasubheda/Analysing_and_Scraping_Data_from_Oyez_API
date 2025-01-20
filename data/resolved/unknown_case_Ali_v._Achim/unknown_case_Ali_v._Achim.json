@@ -1,0 +1,35 @@
+{
+    "ID": 55464,
+    "name": "Ali v. Achim",
+    "href": "https://api.oyez.org/cases/2007/06-1346",
+    "view_count": 0,
+    "docket_number": "06-1346",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1190696400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39896"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1198735200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39897"
+        }
+    ],
+    "question": "<p>May the government deny certain forms of protection to an immigrant because he has committed a crime that does not rise to the level of an aggravated felony?</p>\n",
+    "citation": {
+        "volume": "552",
+        "page": "1085",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/19387"
+    },
+    "term": "2007",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>A Somalian immigrant fled ethnic strife in his homeland, coming to the United States with his family in 1999. Two years later, he was involved in a fight during which he injured another man with a box cutter. He pleaded no contest to a felony charge of substantial battery with a dangerous weapon and was sentenced to an 11-month prison term as well as seven years of probation. When he was released, immigration authorities began deportation proceedings because of the felony conviction. The immigration court ruled that the man could stay in the U.S. because he faced retribution if he returned to Somalia, but refused to offer additional forms of protection because it deemed his felony offense \"particularly serious.\" The man appealed, arguing that his crime cannot be considered \"particularly serious\" because it was not an aggravated felony.</p>\n",
+    "conclusion": "<p>The Court dismissed the case under Supreme Court Rule 46 after the government agreed to grant protection to the defendant immigrant. Because the case settled, the Court issued no written opinion.</p>\n"
+}

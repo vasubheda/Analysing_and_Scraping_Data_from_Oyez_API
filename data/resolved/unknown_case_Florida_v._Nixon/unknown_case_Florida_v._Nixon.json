@@ -1,0 +1,42 @@
+{
+    "ID": 55269,
+    "name": "Florida v. Nixon",
+    "href": "https://api.oyez.org/cases/2004/03-931",
+    "view_count": 0,
+    "docket_number": "03-931",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1078120800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39369"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1099375200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39370"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1102917600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39371"
+        }
+    ],
+    "question": "<p>1.) Is a defense lawyer's use of a strategy that concedes the defendant's guilt ineffective assistance of counsel if the strategy was pursued without the explicit approval of the defendant? 2.) Should counsel be held to a standard that considers whether counsel's statements were deficient and prejudicial to the defendant, or should counsel be considered ineffective per se?</p>\n",
+    "citation": {
+        "volume": "543",
+        "page": "175",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19197"
+    },
+    "term": "2004",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/543/175/",
+    "facts_of_the_case": "<p>A Florida court convicted Joe Elton Nixon of murder and sentenced him to death. During the trial Nixon's lawyer told the jury Nixon was guilty. Nixon appealed and argued he received ineffective counsel in violation of the Sixth Amendment. Nixon said he did not agree to the lawyer's strategy. After several appeals the Florida Supreme Court granted Nixon a new trial. The court said Nixon's lawyer's comments were essentially a guilty plea and that because Nixon did not explicitly agree to the strategy, the lawyer was \"per se ineffective.\"</p>\n",
+    "conclusion": "<p>In a unanimous 8-0 decision, the Court ruled that Nixon's lawyer's strategy - pursued without Nixon's express approval - did not automatically qualify the lawyer as ineffective. The Court reversed the ruling of the Florida Supreme Court, faulting that court for inappropriately applying presumptions of prejudice and deficient performance. The opinion by Justice Ruth Bader Ginsburg held that \"When counsel informs the defendant of the strategy counsel believes to be in the defendant's best interest and the defendant is unresponsive, counsel's strategic choice is not impeded by any blanket rule demanding the defendant's explicit consent.\" Nixon's lawyer would have needed Nixon's consent for a formal guilty plea, but the Court ruled that the tactic of effectively conceding guilt in order to concentrate on the sentencing phase of the trial was legitimate as long as the defendant was informed of the strategy. Chief Justice William H. Rehnquist took no part in the decision of the case.</p>\n"
+}

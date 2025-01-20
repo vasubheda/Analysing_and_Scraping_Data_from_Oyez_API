@@ -1,0 +1,33 @@
+{
+    "ID": 63714,
+    "name": "Gutierrez v. Saenz",
+    "href": "https://api.oyez.org/cases/2024/23-7809",
+    "view_count": 0,
+    "docket_number": "23-7809",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1728018000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55542"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1740376800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55583"
+        }
+    ],
+    "question": "<p>Does a Texas death-row inmate have standing to sue the state over its refusal to grant access to DNA testing under a law that allows such testing only when the person can demonstrate that exculpatory results would have prevented their conviction?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28048"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether a Texas death-row inmate has standing to sue the state over its refusal to give him access to DNA testing pursuant to a law permitting DNA testing only when the person can prove that he would not have been convicted if the DNA testing produced exculpatory results.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-7809/"
+}

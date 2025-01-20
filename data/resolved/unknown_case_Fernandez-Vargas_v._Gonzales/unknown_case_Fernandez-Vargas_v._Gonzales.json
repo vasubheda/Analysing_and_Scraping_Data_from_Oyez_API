@@ -1,0 +1,42 @@
+{
+    "ID": 55368,
+    "name": "Fernandez-Vargas v. Gonzales",
+    "href": "https://api.oyez.org/cases/2005/04-1376",
+    "view_count": 0,
+    "docket_number": "04-1376",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1130738400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39637"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1143007200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39638"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1150952400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39639"
+        }
+    ],
+    "question": "<p>(1) Does the reinstatement statute of the Immigration and Nationality Act, which allows a prior deportation order against an illegal alien to be reinstated, apply to aliens who re-entered the U.S. before the statute went into effect? (2) If so, is this application impermissibly retroactive?</p>\n",
+    "citation": {
+        "volume": "548",
+        "page": "30",
+        "year": "2006",
+        "href": "https://api.oyez.org/case_citation/case_citation/20591"
+    },
+    "term": "2005",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/548/30/",
+    "facts_of_the_case": "<p>Humberto Fernandez-Vargas entered the United States illegally and was deported in 1981. He illegally re-entered in 1982 and lived in the U.S. until 2001, when he married a U.S. citizen and applied to adjust his status to permanent resident. While applying, Fernandez-Vargas was arrested and eventually deported pursuant to Section 241(a)(5) (the \"reinstatement statute\") of the Immigration and Nationality Act (INA). The reinstatement statute, which became effective in 1997, allows prior deportation orders to be reinstated against aliens who re-enter the country illegally, and denies those aliens any form of relief under the INA. Fernandez-Vargas petitioned the Tenth Circuit Court of Appeals for review, arguing that Section 421(a)(5) was not intended to reinstate deportation orders that were issued prior to its enactment. The Circuit Court denied the petition. It held that Fernandez-Vargas' application for permanent resident status was a form of relief not allowd by the reinstatement statute. It also held that Congress did intend the reinstatement statute to apply to deportation orders, such as Fernandez-Vargas', that were issued before the statute went into effect. Finally, the Tenth Circuit held that this application of the law was not impermissibly retroactive, because Fernandez-Vargas had no \"protectable expectation of being able to adjust his status.\"</p>\n",
+    "conclusion": "<p>Yes and no. In an 8-1 decision authored by Justice David Souter, the Court ruled that the reinstatement statute does apply to illegal aliens who re-entered the U.S. before the effective date of the statute, and that the application to such aliens was not impermissibly retroactive. The Court held that the purpose of Section 421(a)(5) was most consistent with a broad application, and \"Common principles of statutory interpretation fail to unsettle the apparent application [...] to any reentrant present in the country, whatever the date of return.\" The majority opinion affirmed the presumption against retroactive statutes, but found the reinstatement statute permissible under a test set out in <em>Landgraf v. USI Film Products</em>. The main weakness in Fernandez-Vargas's argument was that his offense was not a \"past act that he is helpless to undo,\" but rather the \"continuing violation\" of remaining in the country illegally.</p>\n<p>In a lone dissent, Justice John Paul Stevens disagreed with both of the Court's conclusions. He wrote that Fernandez-Vargas \"legitimately complains that the Government has changed the rules midgame.\"</p>\n"
+}

@@ -1,0 +1,42 @@
+{
+    "ID": 63740,
+    "name": "TikTok, Inc. v. Garland",
+    "href": "https://api.oyez.org/cases/2024/24-656",
+    "view_count": 0,
+    "docket_number": "24-656",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1734501600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55580"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1736488800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55582"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1737093600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55596"
+        }
+    ],
+    "question": "<p>Does the Protecting Americans from Foreign Adversary Controlled Applications Act, as applied to TikTok, violate the First Amendment?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28061"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether the Protecting Americans from Foreign Adversary Controlled Applications Act, as applied to TikTok, violates the First Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/24-656/",
+    "facts_of_the_case": "<p>TikTok is a social media platform with approximately 170 million monthly U.S. users that allows users to create and watch short video clips. The platform\u2019s content is determined by a recommendation engine originally developed by ByteDance, a China-based company that is TikTok\u2019s ultimate parent. While TikTok created a U.S. subsidiary (TTUSDS) and partnered with Oracle to handle U.S. operations and data security, ByteDance retains significant control over the platform's global operations and source code development.</p>\n<p>In response to national security concerns about Chinese influence over TikTok, both the Trump and Biden administrations attempted various measures to address these risks, including attempted forced divestiture and transaction bans. After lengthy negotiations over TikTok\u2019s proposed National Security Agreement proved unsuccessful, Congress passed a law in 2024 requiring \u201cforeign adversary controlled applications\u201d (specifically including TikTok) to divest from foreign ownership or face effective shutdown through prohibitions on U.S. companies providing hosting and distribution services. The law takes effect on January 19, 2025, though companies can avoid the prohibitions by completing a qualified divestiture that eliminates foreign adversary control and operational relationships.</p>\n<p>Three sets of petitioners (ByteDance/TikTok, Based Politics, and eight individual TikTok creators) filed constitutional challenges to the Act in May 2024, but the U.S. Court of Appeals for the D.C. Circuit concluded that the Act survived constitutional scrutiny.</p>\n",
+    "conclusion": "<p>In a per curiam (unsigned) opinion, the Court held that the challenged provisions of the Protecting Americans from Foreign Adversary Controlled Applications Act do not violate TikTok\u2019s First Amendment rights.</p>\n<p>First, the Court determined that intermediate scrutiny applies because the law is content-neutral; it targets TikTok not based on the content of speech on the platform, but because of China\u2019s ability to access sensitive data from 170 million U.S. users through its control of ByteDance. While laws that discriminate among different speakers often raise First Amendment concerns, TikTok\u2019s unique characteristics\u2014its massive scale and susceptibility to foreign adversary control\u2014justify treating it differently from other platforms. The law does not reflect a preference for certain content or viewpoints, so it is subject to intermediate scrutiny. In other words, the law must further an important government interest unrelated to the suppression of free expression and not burden substantially more speech than necessary to further that interest.</p>\n<p>Under that test, the law was sufficiently tailored to serve the government\u2019s important interest in preventing China from collecting vast amounts of sensitive user data. Congress had substantial evidence of the extensive personal information TikTok collects and China's ability to compel Chinese companies to surrender data. Rather than banning TikTok outright, the law allows the platform to continue operating if ByteDance divests it to eliminate Chinese control. While there may be less restrictive alternatives like disclosure requirements or data sharing restrictions, Congress retains latitude to choose its preferred regulatory solution so long as it does not burden substantially more speech than necessary to achieve its goal.</p>\n<p>Justice Sonia Sotomayor wrote separately concurring in part and concurring in the judgment.</p>\n<p>Justice Neil Gorsuch wrote an opinion concurring in the judgment.</p>\n"
+}

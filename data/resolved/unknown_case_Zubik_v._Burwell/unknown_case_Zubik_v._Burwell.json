@@ -1,0 +1,42 @@
+{
+    "ID": 62620,
+    "name": "Zubik v. Burwell",
+    "href": "https://api.oyez.org/cases/2015/14-1418",
+    "view_count": 0,
+    "docket_number": "14-1418",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1446789600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53317"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1458709200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53416"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1463374800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53595"
+        }
+    ],
+    "question": "<p>(1) Does the availability of a regulatory exemption for religious employers regarding the Affordable Care Act\u2019s contraceptive mandate eliminate the substantial burden on those organizations\u2019 exercise of their religious freedom?</p>\n<p>(2) Do the Department of Health and Human Services\u2019 guidelines satisfy the Religious Freedom Restoration Act\u2019s demanding test for overriding religious objections?</p>\n<p>(3) Do the Department of Health and Human Services\u2019 guidelines violate the Religious Freedom Restoration Act when the government has not proven that the guidelines are the least restrictive means of advancing the compelling government interest?</p>\n",
+    "citation": {
+        "volume": "578",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27384"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that insurance companies could potentially provide contraceptive coverage to employees of organizations that object to such coverage on religious grounds without the organizations needing to provide notification.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/578/14-1418/",
+    "facts_of_the_case": "<p>In 2010, Congress passed the Affordable Care Act (ACA), which requires group health plans and health insurance issuers offering health plans to provide preventative care and screenings for women pursuant to the guidelines established by the Department of Health and Human Services (HHS). These guidelines include \u201capproved contraceptive methods, sterilization procedures, and patient education and counseling for all women with reproductive capacity.\u201d The regulations include an exemption from contraceptive coverage for the group health plan of a religious employer. The exemption does not mean that such services are not covered, but that they are not covered through a cost-sharing mechanism.</p>\n<p>The petitioners are religious organizations that argue that the contraceptive coverage mandate of the ACA violates the Religious Freedom Restoration Act (RFRA), which Congress enacted in 1993, because the mandate requires these organizations to \u201cfacilitate\u201d the provision of insurance coverage for contraceptive services that they oppose on religious grounds. In several separate cases, the relevant district courts issued injunctions against the government, and the relevant Courts of Appeals reversed. The appellate courts held that the religious organizations were unable to show that the contraceptive mandate substantially burdened the exercise of their religious freedom.</p>\n",
+    "conclusion": "<p>After determining through supplemental briefing that insurance companies could provide contraceptive coverage to employees of organizations that object to such coverage on religious grounds without the organizations needing to provide notification, the Court vacated the case for further consideration by the lower courts in light of this agreement from the parties. In a per curiam opinion, the Court held that it reached no decision on the merits of the case, and nothing in the opinion should be construed as affecting the ability of the government to ensure that employees covered by the insurance plans at issue receive full contraceptive coverage. Given the importance of the issues involved in this case, the Court remanded the case to the lower courts to afford the parties the opportunity to determine how to proceed in a manner that grants employees full contraceptive coverage while also respecting the organizations\u2019 religious exercise.</p>\n<p>In her concurring opinion, Justice Sonia Sotomayor wrote that nothing in the majority opinion should be construed as signaling to lower courts where the Supreme Court stands on the merits of the case. Remanding the case allows the lower courts to consider whether the existing or modified regulations may properly balance the interests at issue.</p>\n"
+}

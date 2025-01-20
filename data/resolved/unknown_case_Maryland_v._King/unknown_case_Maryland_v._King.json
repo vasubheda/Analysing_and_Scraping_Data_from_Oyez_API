@@ -1,0 +1,42 @@
+{
+    "ID": 55928,
+    "name": "Maryland v. King",
+    "href": "https://api.oyez.org/cases/2012/12-207",
+    "view_count": 0,
+    "docket_number": "12-207",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1352440800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41146"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1361858400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41147"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1370235600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41148"
+        }
+    ],
+    "question": "<p>Does the Fourth Amendment allow states to collect and analyze DNA from people arrested, but not convicted, of serious crimes?</p>\n",
+    "citation": {
+        "volume": "569",
+        "page": "435",
+        "year": "2013",
+        "href": "https://api.oyez.org/case_citation/case_citation/19850"
+    },
+    "term": "2012",
+    "description": "A case in which the Court found that taking a DNA sample from people who are arrested, but not yet convicted, of a serious crime is not a violation of the Fourth Amendment.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/569/435/",
+    "facts_of_the_case": "<p>The Maryland DNA Collection Act (MDCA) allows state and local law enforcement officers to collect DNA samples from individuals who are arrested for a crime of violence, an attempted crime of violence, burglary, or attempted burglary. Alonzo Jay King, Jr. was arrested on first and second degree assault charges. While under arrest, but prior to conviction, King's DNA was collected and logged in Maryland's DNA database. That database matched King's DNA to a DNA sample from an unsolved rape case. This sample was the only evidence linking King to the rape. The trial judge denied King's motion to suppress the DNA evidence and he was convicted of first-degree rape and sentenced to life in prison.</p>\n<p>King appealed the conviction, arguing that the MDCA was an unconstitutional infringement of his Fourth Amendment privilege against warrantless searches. The Court of Appeals of Maryland reversed, holding that the MDCA was unconstitutional. The court held that King's expectation of privacy was greater than Maryland's interest in using the DNA for identification purposes.</p>\n",
+    "conclusion": "<p>Yes. Justice Anthony M. Kennedy delivered the opinion of the 5-4 majority. The Court held that conducting a DNA swab test as a part of the arrest procedure does not violate the Fourth Amendment because the test serves a legitimate state interest and is not so invasive so as to require a warrant. The routine administrative procedures that occur during a booking for an arrest do not require the same justification and the search of a location. The Court held that ascertaining an arrestee's identity and criminal history is a crucial part of the arrest procedure and that a DNA test is just as valid and informative as fingerprinting. Determining an arrestee's criminal history also serves the legitimate state interest of determining what level of risk the individual poses to the public and what conditions should be set on his/her release from custody.</p>\n<p>Justice Antonin Scalia wrote a dissent in which he argued that the Fourth Amendment categorically prevents searching a person for evidence of a crime without cause. Because the majority's opinion allows for DNA tests to be conducted in the absence of evidence linking the arrestee to a specific DNA-related crime, these tests fall within the boundaries of the British \"general warrants\" the Fourth Amendment was intended to prohibit. He also argued that the procedural safeguards on the DNA evidence make it an ineffective and redundant identification tool. Justice Ruth Bader Ginsburg, Justice Sonia Sotomayor, and Justice Elena Kagan joined in the dissent.</p>\n<p><em>Learn more about the Roberts Court and the Fourth Amendment in <a href=\"http://projects.oyez.org/shifting-scales/\">Shifting Scales</a>, a nonpartisan Oyez resource.</em></p>\n"
+}

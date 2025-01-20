@@ -1,0 +1,35 @@
+{
+    "ID": 54834,
+    "name": "Christensen v. Harris County",
+    "href": "https://api.oyez.org/cases/1999/98-1167",
+    "view_count": 0,
+    "docket_number": "98-1167",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                951285600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38413"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                957157200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38414"
+        }
+    ],
+    "question": "<p>Does the Fair Labor Standards Act of 1938 prohibit a public employer from compelling its employees to use their compensatory time without a preexisting agreement?</p>\n",
+    "citation": {
+        "volume": "529",
+        "page": "576",
+        "year": "2000",
+        "href": "https://api.oyez.org/case_citation/case_citation/18763"
+    },
+    "term": "1999",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/529/576/",
+    "facts_of_the_case": "<p>The Fair Labor Standards Act of 1938 (FLSA) permits governmental entities to compensate their employees for overtime work by granting them compensatory time in lieu of cash payment. If the employees do not use their accumulated compensatory time, the employer must pay cash compensation under certain circumstances. Harris County, Texas, found that too many of its deputy sheriffs had too many hours of accrued compensatory time. Fearing a budget crisis, the county adopted a policy under which its employees could be ordered to schedule compensatory time at specified times in order to reduce the amount of accrued time that would otherwise require cash payment. Edward Christensen and 128 other deputy sheriffs in Harris County believed they had the right to use their compensatory time when they saw fit. The sheriffs sued, claiming that the FLSA does not permit an employer to compel an employee to use compensatory time in the absence of an agreement permitting the employer to do so. The District Court ruled in favor of the sheriffs, concluding that the policy violated the FLSA. In reversing, the Court of Appeals held that the FLSA did not address the issue in question and thus did not prohibit the county from implementing a compensatory time policy.</p>\n",
+    "conclusion": "<p>No. In an opinion delivered by Justice Clarence Thomas, the Court held 6-3 that \"[n]othing in the FLSA or its implementing regulations prohibits a public employer from compelling the use of compensatory time.\" Justice Thomas wrote for the Court that, \"under the FLSA, an employer is free to require an employee to take time off work, and an employer is also free to use the money it would have paid in wages to cash out accrued compensatory time. The compelled use of compensatory time challenged in this case merely involves doing both of these steps at once.\"</p>\n"
+}

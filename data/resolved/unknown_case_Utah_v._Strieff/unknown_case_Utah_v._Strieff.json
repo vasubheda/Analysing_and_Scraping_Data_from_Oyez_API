@@ -1,0 +1,42 @@
+{
+    "ID": 62585,
+    "name": "Utah v. Strieff",
+    "href": "https://api.oyez.org/cases/2015/14-1373",
+    "view_count": 0,
+    "docket_number": "14-1373",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1443675600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53278"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1456120800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53362"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1466398800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53788"
+        }
+    ],
+    "question": "<p>Should evidence seized incident to a lawful arrest on an outstanding warrant be suppressed because the warrant was discovered during an investigatory stop later found to be unlawful?</p>\n",
+    "citation": {
+        "volume": "579",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/27363"
+    },
+    "term": "2015",
+    "description": "A case in which the Court determined that, in the absence of flagrant police misconduct, the discovery of a valid, pre-existing, and untainted arrest warrant attenuated the connection between the unconstitutional investigatory stop and the evidence seized incident to the lawful arrest.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/579/14-1373/",
+    "facts_of_the_case": "<p>Utah Detective Douglas Fackrell received an anonymous tip about drug sales in a South Salt Lake residence, so he surveyed the area over a short period of time and speculated there was drug activity taking place. Fackrell saw Edward Joseph Strieff, Jr. leaving the residence and stopped him for questioning. During the stop, Fackrell discovered Strieff had an outstanding warrant and arrested him. During the lawful search after his arrest, Fackrell found methamphetamine and a drug pipe on Strieff\u2019s person. The district court ruled that, although Fackrell did not have enough evidence to conduct an investigatory stop, the methamphetamine and drug paraphernalia obtained during the lawful search incident to arrest justified the admission of that evidence for trial. The Utah Court of Appeals affirmed the district court\u2019s ruling, but the Utah Supreme Court reversed and held that the evidence should have been suppressed because the warrant that was the basis for the arrest was discovered during an unlawful investigatory stop.</p>\n",
+    "conclusion": "<p>In the absence of flagrant police misconduct, the discovery of a valid, pre-existing, and untainted arrest warrant attenuated (weakened) the connection between the unconstitutional investigatory stop and the evidence seized incident to the lawful arrest, which allowed the evidence to be used against the defendant. Justice Clarence Thomas delivered the opinion of the 5-3 majority. The Court held that evidence obtained in violation of the Fourth Amendment\u2019s protections should not be excluded from evidence when the costs of its exclusion outweighs its benefits. Exclusion is not justified when the link between the unconstitutional conduct and the discovered evidence is too attenuated. To determine whether the connection is attenuated, courts must examine the temporal proximity of the discovery of the evidence to the unconstitutional conduct, the presence of intervening circumstances, and the flagrancy of the police misconduct. Based on the analysis of those factors, when a valid warrant is discovered after an unconstitutional investigatory stop, the connection between the unconstitutional conduct and the discovery of evidence incident to a lawful arrest based on the warrant is sufficiently attenuated.</p>\n<p>Justice Sonia Sotomayor wrote a dissent in which she argued that the Fourth Amendment\u2019s exclusionary rule was intended to prevent police officers from taking advantage of their own unconstitutional conduct, which was the case here. Because the initial unconstitutional stop was clearly calculated to procure further evidence, it was not an intervening circumstance that attenuated the connection between the misconduct and the discovery of evidence. Justice Sotomayor also argued that allowing the police such free rein essentially created a group of second-class citizens that could be subjected to police invasion of constitutional rights at a whim. Justice Ruth Bader Ginsburg joined in all but the last portion of the dissent. In her separate dissent, Justice Elena Kagan wrote that the discovery of the evidence was too closely connected to the unconstitutional investigatory stop for the valid warrant to attenuate the connection. Because the two events were closely connected in time, the warrant itself was not an intervening circumstance, and the police conduct was purposeful and flagrant, the exclusionary rule should apply in cases like this one. Justice Ginsburg joined in the dissent.</p>\n"
+}

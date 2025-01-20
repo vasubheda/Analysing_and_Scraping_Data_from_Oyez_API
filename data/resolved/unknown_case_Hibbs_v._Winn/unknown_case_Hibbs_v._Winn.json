@@ -1,0 +1,42 @@
+{
+    "ID": 55176,
+    "name": "Hibbs v. Winn",
+    "href": "https://api.oyez.org/cases/2003/02-1809",
+    "view_count": 0,
+    "docket_number": "02-1809",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1064898000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39109"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1074578400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39110"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1087189200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39111"
+        }
+    ],
+    "question": "<p>Do the federal Tax Injunction Act and comity principles require federal district courts to dismiss (for lack of jurisdiction) constitutional challenges to state tax credits that directly affect a state's tax system?</p>\n",
+    "citation": {
+        "volume": "542",
+        "page": "88",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19104"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/542/88/",
+    "facts_of_the_case": "<p>Several Arizona residents challenged in federal district court an Arizona statute that allows tax credits for money spent toward parochial schools. They alleged that the statute violates the religious establishment clause of the U.S. Constitution's First Amendment.</p>\n<p>The district court dismissed the case and ruled that it lacked jurisdiction for two reasons: First, the federal Tax Injunction Act (TIA) prohibits federal district courts from ruling on the \"assessment, levy or collection of any tax under state law where a plain, speedy and efficient remedy may be had in the courts of such state.\" And second, the court pointed to the comity doctrine - that is, the deference that federal courts should generally give to state tax laws. The Ninth Circuit Court of Appeals reversed, ruling that neither the TIA nor comity place the case outside federal jurisdiction. The court reasoned that the TIA was inapplicable because invalidating a tax credit would not harm Arizona's ability to raise revenue.</p>\n",
+    "conclusion": "<p>No. In a 5-to-4 decision written by Justice Ruth Bader Ginsburg, the Court held that the intention of the Tax Injunction Act (TIA) was to prevent taxpayers from trying to avoid their state taxes through federal litigation. TIA was not intended, however, to prevent all federal interference with state taxation. Justice Ginsburg wrote, \"Third-party suits not seeking to stop the collection of a tax <em>imposed on plaintiffs</em> were outside Congress' purview. ... Nowhere does the [legislative] history announce a sweeping congressional direction to prevent federal-court interference with all aspects of state tax administration.\" (emphasis original) Establishment clause challenges to state tax exemptions for religious eduction could therefore be challenged without violating TIA.</p>\n"
+}

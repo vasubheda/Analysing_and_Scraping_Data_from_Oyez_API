@@ -1,0 +1,35 @@
+{
+    "ID": 54700,
+    "name": "Conn v. Gabbert",
+    "href": "https://api.oyez.org/cases/1998/97-1802",
+    "view_count": 0,
+    "docket_number": "97-1802",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                919749600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38166"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                923288400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38167"
+        }
+    ],
+    "question": "<p>Does a prosecutor violate the opposing attorney's Fourteenth Amendment right to practice his profession when the prosecutor causes the attorney to be searched at the same time his client is testifying before a grand jury?</p>\n",
+    "citation": {
+        "volume": "526",
+        "page": "286",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18629"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/526/286/",
+    "facts_of_the_case": "<p>Los Angeles County Deputy District Attorneys David Conn and Carol Najera, prosecutors in the retrial of the Menendez brothers, learned that Lyle Menendez had written a letter to Traci Baker, in which he may have instructed her to testify falsely at the first trial. After being subpoenaed to testify before a grand jury and to produce any correspondence that she had received from Menendez, Baker responded that she had given all of Menendez's letters to her attorney, Paul L. Gabbert. When Baker appeared as directed before the grand jury, accompanied by Gabbert, Conn directed police to secure a warrant to search Gabbert for the letter. While Gabbert was being searched, Najera called Baker before the grand jury for questioning. Gabbert brought suit against the prosecutors contending that his Fourteenth Amendment right to practice his profession without unreasonable government interference was violated when the prosecutors executed a search warrant at the same time his client was testifying before the grand jury. The Federal District Court granted Conn and Najera summary judgment on the basis of qualified immunity. Reversing in part, the Court of Appeals held that Conn and Najera were not entitled to qualified immunity on Gabbert's Fourteenth Amendment claim because their actions were not objectively reasonable. The court concluded that Gabbert had a right to practice his profession without undue and unreasonable government interference.</p>\n",
+    "conclusion": "<p>No. In an opinion delivered by Chief Justice William H. Rehnquist, the Court held that \"[a] prosecutor does not violate an attorney's Fourteenth Amendment right to practice his profession by executing a search warrant while the attorney's client is testifying before a grand jury.\" Chief Justice Rehnquist wrote for the Court that, \"[w]e hold that the 14th Amendment right to practice one's calling is not violated by the execution of a search warrant, whether calculated to annoy or even to prevent consultation with a grand jury witness.\" Justice John Paul Stevens concurred in the judgment.</p>\n"
+}

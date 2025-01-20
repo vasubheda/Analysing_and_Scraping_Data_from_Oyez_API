@@ -1,0 +1,42 @@
+{
+    "ID": 55131,
+    "name": "Intel Corporation v. Advanced Micro Devices, Inc.",
+    "href": "https://api.oyez.org/cases/2003/02-572",
+    "view_count": 0,
+    "docket_number": "02-572",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1068444000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38982"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1082437200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38983"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1087794000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38984"
+        }
+    ],
+    "question": "<p>Does Section 1782 of Title 28 of U.S. Code authorize a federal district court to compel the release of material for use in a \"foreign tribunal\" when the foreign tribunal itself is unwilling to demand production of the material? Does Section 1782 authorize a federal district court to compel the release of material for a fact-finding investigation by the directorate general of the European Commission on the theory that the information may eventually lead to an investigation by a foreign tribunal?</p>\n",
+    "citation": {
+        "volume": "542",
+        "page": "241",
+        "year": "2004",
+        "href": "https://api.oyez.org/case_citation/case_citation/19060"
+    },
+    "term": "2003",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/542/241/",
+    "facts_of_the_case": "<p>Advanced Micro Devices (AMD) filed a complaint against Intel with the European Commission, alleging that Intel was using its size to unfairly dominate the computer microprocessor market. Complaints filed with the European Commission are first reviewed by the commission's directorate general, which does fact-finding to decide whether or not to pursue the complaint. AMD asked the directorate to review documents containing some of Intel's trade secrets from a separate American court case involving Intel. The directorate declined.</p>\n<p>Because European law did not provide a way for AMD to gain access to the documents, AMD filed suit against Intel in United States federal district court seeking access to the documents so that it could use them to support its complaint. The suit was filed under Title 28, Section 1782 of U.S. Code, which allows (but does not require) federal district courts to give \"interested persons\" access to material for proceedings before \"foreign or international tribunal(s).\" AMD argued that, though the directorate was only a fact-finding body, the case could eventually be appealed to a trial court and was therefore covered under section 1782. Further, it argued that the directorate's unwillingness to demand the documents was irrelevant. Intel, on the other hand, argued that the directorate was not a \"foreign or international tribunal\" and that the federal district court therefore did not have the authority to compel Intel to release the documents. It also argued that the directorate's unwillingness to compel production of the documents should preclude U.S. action.</p>\n<p>The district court sided with Intel, ruling that the directorate's investigation was not a foreign tribunal and that the court therefore could not give AMD access to the documents. A Ninth Circuit Court of Appeals panel unanimously reversed the decision. After the case was accepted for review by the U.S. Supreme Court, the European Commission filed a brief in the case supporting Intel's position that the directorate was not a foreign tribunal.</p>\n",
+    "conclusion": "<p>Yes and Yes. In a 7-to-1 decision, the Court ruled that just because a foreign tribunal was unwilling to demand certain documents did not mean that it would be unwilling to accept them if provided to them by other means. By permitting, but not forcing, American judges to allow discovery of certain documents, Congress allowed judges to exercise their discretion to decide whether a foreign tribunal would be receptive to the the documents at question. The Court also ruled that it would be impractical to limit the fact-finding to only the actual trial before a foreign tribunal because, in cases like this one, the foreign tribunal does not gather evidence itself but instead relies on the evidence presented to the investigatory commission (in this case the directorate general). In order to make the evidence available for the tribunal, therefore, it would be necessary to present it first to the commission.</p>\n"
+}

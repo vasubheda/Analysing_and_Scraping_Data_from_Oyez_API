@@ -1,0 +1,42 @@
+{
+    "ID": 55395,
+    "name": "Meredith v. Jefferson County Board of Education",
+    "href": "https://api.oyez.org/cases/2006/05-915",
+    "view_count": 0,
+    "docket_number": "05-915",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1149483600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39700"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1165212000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39701"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1183006800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/39702"
+        }
+    ],
+    "question": "<p>1) Do <em>Grutter v. Bollinger</em> and <em>Gratz v. Bollinger</em> allow a school district to use race as the sole factor to assign high school students to public schools?</p>\n<p>2) Can a student enrollment plan that requires each school's student population to be between 15% and 50% African-American meet the Fourteenth Amendment's requirement that racial classifications be narrowly tailored to a compelling government interest?</p>\n",
+    "citation": {
+        "volume": "551",
+        "page": "701",
+        "year": "2007",
+        "href": "https://api.oyez.org/case_citation/case_citation/20685"
+    },
+    "term": "2006",
+    "description": null,
+    "justia_url": null,
+    "facts_of_the_case": "<p>Jefferson County Public Schools (JCPS) were integrated by court order until 2000. After its release from the order, JCPS implemented an enrollment plan to maintain substantial racial integration. Students were given a choice of schools, but not all schools could accommodate all applicants. In those cases, student enrollment was decided on the basis of several factors, including place of residence, school capacity, and random chance, as well as race. However, no school was allowed to have an enrollment of black students less than 15% or greater than 50% of its student population.</p>\n<p>Meredith and other parents sued the school district, arguing that the plan's racial classifications violated the students' Fourteenth Amendment right to equal protection of the laws. Under the Supreme Court's decisions in <em>Grutter v. Bollinger</em> and <em>Gratz v. Bollinger</em>, race-based classifications must be directed toward a \"compelling government interest\" and must be \"narrowly tailored\" to that interest.</p>\n<p>The District Court ruled that the plan was constitutional because the school had a compelling interest in maintaining racial diversity. The court held that though the plan paid \"some attention to numbers,\" it did not constitute a rigid quota system. According to the Supreme Court's precedents, rigid racial quotas are never narrowly tailored. The Sixth Circuit Court of Appeals upheld the District Court without issuing an opinion of its own, and Meredith appealed to the Supreme Court. (See also <em>Parents Involved in Community Schools v. Seattle School District #1</em>, No. 05-908)</p>\n",
+    "conclusion": "<p>No and no. By a 5-4 vote, the Court applied a \"strict scrutiny\" framework and found Jefferson County's enrollment plan unconstitutional under the Equal Protection Clause of the Fourteenth Amendment. Chief Justice John Roberts wrote in the plurality opinion that \"The way to stop discrimination on the basis of race is to stop discriminating on the basis of race.\" The Court acknowledged that it had previously held that racial diversity can be a compelling government interest in university admissions, but it ruled that \"[t]he present cases are not governed by <em>Grutter</em>.\" Unlike the cases pertaining to higher education, Jefferson County's plan involved no individualized consideration of students, and it employed a very limited notion of diversity (\"black\" and \"other\"). Jefferson County's goal of preventing racial imbalance did not meet the Court's standards for a constitutionally legitimate use of race: \"Racial balancing is not transformed from 'patently unconstitutional' to a compelling state interest simply by relabeling it 'racial diversity.'\" The plans also lacked the narrow tailoring that is necessary for race-conscious programs. The Court held that Jefferson County's enrollment plan was actually targeted toward demographic goals and not toward any demonstrable educational benefit from racial diversity. Jefferson County also failed to show that its objectives could not have been met with non-race-conscious means. In a separate opinion concurring in the judgment, Justice Kennedy agreed that Jefferson County's use of race was unconstitutional but stressed that public schools may sometimes consider race to ensure equal educational opportunity.</p>\n"
+}

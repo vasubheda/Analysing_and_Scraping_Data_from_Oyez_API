@@ -1,0 +1,35 @@
+{
+    "ID": 54382,
+    "name": "Shaw v. Hunt",
+    "href": "https://api.oyez.org/cases/1995/94-923",
+    "view_count": 0,
+    "docket_number": "94-923",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                818143200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37582"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                834642000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37583"
+        }
+    ],
+    "question": "<p>Does North Carolina's redistricting plan constitute racial gerrymandering in violation of the Fourteenth Amendment's equal protection clause?</p>\n",
+    "citation": {
+        "volume": "517",
+        "page": "899",
+        "year": "1996",
+        "href": "https://api.oyez.org/case_citation/case_citation/18311"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/517/899/",
+    "facts_of_the_case": "<p>Residents of North Carolina challenged a plan to create two congressional districts on the ground that the proposed districts were racially gerrymandered. On initial review, a three-judge District Court panel dismissed the action only to have its decision reversed and remanded to it by the Supreme Court. However, the Court's standard for review left very little room for racial engineering of congressional voting districts. On remand, the District Court found the redistricting plans to be racially tailored and, therefore, unconstitutional. Again, the matter was appealed to the Supreme Court.</p>\n",
+    "conclusion": "<p>Yes. In a 5-to-4 opinion by Chief Justice Rehnquist, the Court first confronted the threshold question of \"standing.\" It held that some of the appellants lacked proper standing to challenge the redistricting plan. Only those voters who resided in a congressional district alleged to have been created by racial gerrymandering had proper standing to challenge the constitutionality of that district's creation. Those voters who did not reside in one of the two allegedly racially gerrymandered districts, and who failed to provide evidence that they were assigned to their district of residence on the basis of race, lacked proper standing to participate in the racial gerrymandering claim. After noting the challenged district's unusually non-compact serpentine shape, and the appellants' admission that the districts' were primarily designed to create black voting majorities, the Court applied \"strict scrutiny\" to the facts at hand. Finding no narrowly tailored plans aimed at serving a compelling state interest that would justify the creation of racially gerrymandered districts, the Court concluded that the redistricting plans violated the Fourteenth Amendment's equal protection clause.</p>\n"
+}

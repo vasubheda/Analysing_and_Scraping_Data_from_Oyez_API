@@ -1,0 +1,35 @@
+{
+    "ID": 54431,
+    "name": "Robinson v. United States",
+    "href": "https://api.oyez.org/cases/1995/94-7448",
+    "view_count": 0,
+    "docket_number": "94-7448",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                815032800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37668"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                818229600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/37669"
+        }
+    ],
+    "question": "<p>Is evidence of the proximity and accessibility of a firearm to drugs or drug proceeds alone sufficient to support a conviction for \"use\" of a firearm during and in relation to a predicate narcotics offense under 18 U.S.C. Section 924(c)(1)?</p>\n",
+    "citation": {
+        "volume": "516",
+        "page": "137",
+        "year": "1995",
+        "href": "https://api.oyez.org/case_citation/case_citation/18360"
+    },
+    "term": "1995",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/516/137/",
+    "facts_of_the_case": "<p>Roland Bailey and Candisha Robinson were each convicted of violating 18 U.S.C. Section 924(c)(1), which, in relevant part, imposes a mandatory minimum sentence upon a person who \"uses or carries a firearm\" both \"during and in relation to\" a predicate offense. Bailey's Section 924(c)(1) conviction was based on a loaded pistol which the police found inside a bag in the locked trunk of a car he was driving after they arrested him for possession of illegal drugs. Robinson's Section 924(c)(1) conviction was based on an unloaded, holstered firearm which the police, executing a search warrant, found locked in a trunk in her bedroom closet, along with drugs and money from an earlier controlled buy. The D.C. Circuit, sitting en banc, upheld the Section 924(c)(1) convictions, interpreting \"use\" of a gun in violation of Section 924(c)(1) in accordance with an \"accessibility and proximity\" test.</p>\n",
+    "conclusion": "<p>No. The proximity and accessibility test for \"use\" is so broad that no independent role remains for \"carry.\" \"Use\" in Section 924(c)(1) requires more than proximity and accessibility that might embolden a defendant. It requires active employment of the firearm by the defendant, making the firearm an operative factor in relation to the predicate offense.</p>\n"
+}

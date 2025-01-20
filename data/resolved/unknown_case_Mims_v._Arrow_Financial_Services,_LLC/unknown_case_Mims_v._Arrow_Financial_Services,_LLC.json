@@ -1,0 +1,42 @@
+{
+    "ID": 55848,
+    "name": "Mims v. Arrow Financial Services, LLC",
+    "href": "https://api.oyez.org/cases/2011/10-1195",
+    "view_count": 0,
+    "docket_number": "10-1195",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1309150800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40919"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1322460000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40920"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1326866400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40921"
+        }
+    ],
+    "question": "<p>Did Congress divest the federal district courts of their federal-question jurisdiction under 28 U.S.C. \u00a7 1331 over private actions brought under the Telephone Consumer Protection Act?</p>\n",
+    "citation": {
+        "volume": "565",
+        "page": null,
+        "year": "2012",
+        "href": "https://api.oyez.org/case_citation/case_citation/19770"
+    },
+    "term": "2011",
+    "description": "A case in which the Court held that the Telephone Consumer Protection Act does not strip federal courts of the ability to hear cases that would normally be brought in state courts.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/565/368/",
+    "facts_of_the_case": "<p>Marcus Mims sued Arrow Financial Services, alleging violations of the Telephone Consumer Protection Act. The U.S. District Court for the Southern District of Florida and the U.S. Court of Appeals for the Eleventh Circuit both held that they lacked jurisdiction over Mims' TCPA claim because, in their view, the TCPA creates exclusive state-court jurisdiction over private actions.</p>\n",
+    "conclusion": "<p>No. Writing for a unanimous court, Justice Ruth Bader Ginsberg held that state and federal courts have concurrent jurisdiction over TCPA claims made by private individuals. Justice Ginsberg looked to the legislative history of the act, noting congress' concern about companies evading state law prohibitions on telemarketing through interstate operations. She also noted that, apart from the deletion of an amount-in-controversy requirement, the federal-question provision of \u00a71331 has not changed since 1875. According to Justice Ginsburg, there is a deeply rooted presumption of concurrent state and federal jurisdiction rebuttable only by an explicit statutory directive, an implication from legislative history, or an incompatibility between state and federal court interests.</p>\n<p>Justice Ginsburg acknowledged that the TCPA's language is state-court oriented, but argued that it did not explicitly make state-court jurisdiction exclusive, citing other statutes where congress specifically excluded \u00a7 1331 claims. She contrasted the TCPA's language on claims made by private individuals with its directive on suits brought by state Attorneys General; these latter claims may be brought \"exclusively\" in federal district courts, but no such language appears in the statute's language on private actions. Justice Ginsburg explained that congress intended to remove any confusion about courts' concurrent jurisdiction over TCPA claims and to give states' flexibility over the venue for these claims.</p>\n<p>Justice Ginsburg rejected Arrow's concerns over defendants removing $500-per-violation TCPA claims to federal court to unfairly pressure plaintiffs to settle. She pointed out that the federal district court filing fee is $350 and that only sixty five such cases have been so removed, all class action suits.</p>\n"
+}

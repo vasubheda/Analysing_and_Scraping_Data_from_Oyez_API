@@ -1,0 +1,42 @@
+{
+    "ID": 55704,
+    "name": "Berghuis v. Smith",
+    "href": "https://api.oyez.org/cases/2009/08-1402",
+    "view_count": 0,
+    "docket_number": "08-1402",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1254286800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40542"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1263967200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40543"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1269925200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40544"
+        }
+    ],
+    "question": "<p>Did the Sixth Circuit err in holding that the Michigan Supreme Court failed to apply clearly established U.S. Supreme Court precedent for evaluating whether the jury was comprised of a fair cross-section of the community?</p>\n",
+    "citation": {
+        "volume": "559",
+        "page": "314",
+        "year": "2010",
+        "href": "https://api.oyez.org/case_citation/case_citation/19626"
+    },
+    "term": "2009",
+    "description": "A case in which the Court held that a Michigan state court did not create an unfair bias in jury selection for a murder trial.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/559/314/",
+    "facts_of_the_case": "<p>A Michigan state court convicted Diapolis Smith of second degree murder and felony possession of a firearm and sentenced him to life in prison. After exhausting his remedies in the Michigan state courts, Smith petitioned for habeas corpus relief in a Michigan federal district court. The district court denied the petition. On appeal, Smith argued that he was denied an impartial jury from a fair cross-section of the community in violation of the Sixth Amendment.</p>\n<p>The Sixth Circuit held that the Michigan Supreme Court unreasonably applied federal law in concluding that county jury selection \"worked no systematic exclusion.\" The Court reasoned the state trial court's policy of excusing potential jurors for whom jury duty would constitute hardship based on child care concerns or transportation issues, when viewed together with another policy that assigned prospective jurors from the county's only large city, established a prima facie case of systematic under-representation of African- American jurors.</p>\n",
+    "conclusion": "<p>Yes. The Supreme Court held that the Sixth Circuit erred in ruling that the Michigan Supreme Court's decision \"involved an unreasonable application of clearly established federal law.\" With Justice Ruth Bader Ginsburg writing for a unanimous Supreme Court, it reasoned that <em>Duren v. Missouri</em> did not establish that Mr. Smith was denied his Sixth Amendment right to an impartial jury. While the <em>Duren</em> defendant established an absolute disparity, comparative disparity, and standard deviation of underrepresentation of women, that case did not specify the method courts must use to measure underrepresentation. Here, Mr. Smith did not provide sufficient evidence to prove that the trial court's policies had any significant effect on the underrepresentation of African-American jurors in the area.</p>\n<p>Justice Clarence Thomas wrote separately, concurring. He challenged the Court to reconsider that the Sixth Amendment guarantees a defendant the right to a jury that represents \"a fair cross section\" of the community. Instead, he proposed that the right stems more from an \"amalgamation of the Due Process Clause and the Equal Protection Clause.\"</p>\n"
+}

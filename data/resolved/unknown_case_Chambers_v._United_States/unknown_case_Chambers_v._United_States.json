@@ -1,0 +1,42 @@
+{
+    "ID": 55558,
+    "name": "Chambers v. United States",
+    "href": "https://api.oyez.org/cases/2008/06-11206",
+    "view_count": 0,
+    "docket_number": "06-11206",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1208754000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40156"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1226296800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40157"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1231826400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/40158"
+        }
+    ],
+    "question": "<p>Does a conviction for felonious escape under Illinois law, arising from the defendant's failure to report for imprisonment, qualify as a \"crime of violence\" for the purposes of the federal Armed Career Criminals Act?</p>\n",
+    "citation": {
+        "volume": "555",
+        "page": null,
+        "year": "2009",
+        "href": "https://api.oyez.org/case_citation/case_citation/20776"
+    },
+    "term": "2008",
+    "description": "A case in which the Court found that the \"failure to report\" crime does not satisfy the Armed Career Criminals Act's (ACCA) \"crime of violence\" definition.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>Deondery Chambers pled guilty to being a felon in possession of a firearm in an Illinois federal court. After finding that Chambers had committed three previous crimes of violence, the judge sentenced him to 188 months in prison. The judge based his sentencing decision on the Armed Career Criminals Act (ACCA) which defines a crime of violence as any crime posing a serious risk of potential injury to another and imposes a sentencing hike on a defendant with three such convictions on his record. On appeal, Chambers argued that one of the prior convictions, for felonious escape under Illinois law, should not qualify as a crime of violence under the ACCA.</p>\n<p>The U.S. Court of Appeals for the Seventh Circuit refused to grant Chambers relief. Finding that Chambers had \"knowingly fail[ed] to report to a penal institution\" on several occasions, the equivalent of an actual escape under Illinois law, the court affirmed his sentence. Although the court determined that its precedents compelled such a ruling, the opinion indicated that more research would be needed to determine the desirability of classifying all escapes and failures to report as crimes of violence. For the time being, however, the court perpetuated Illinois' rule that felonious escape of any kind qualifies as a crime of violence for the purposes of the ACCA.</p>\n",
+    "conclusion": "<p>No. Justice Stephen G. Breyer writing for the majority and joined by Chief Justice John G. Roberts, Justice John Paul Stevens, Justice Antonin G. Scalia, Justice Anthony M. Kennedy, Justice David H. Souter, and Justice Ruther Bader Ginsburg held that the \"failure to report\" crime does not satisfy the Armed Career Criminals Act's (ACCA) \"crime of violence\" definition. The Court reasoned that the \"failure to report\" crime does not \"involve conduct that presents a serious potential risk of physical injury to another\" as it is a crime of inaction and therefore should not be categorized as a \"crime of violence\".</p>\n<p>Justice Samuel A. Alito Jr. wrote a separate concurring opinion and was joined by Justice Clarence Thomas. While agreeing with the Court's analysis, Justice Alito highlighted the difficulty the courts have had in applying the ACCA. He encouraged Congress to amend the ACCA and include a specific list of crimes that appropriately enhance a sentence.</p>\n"
+}

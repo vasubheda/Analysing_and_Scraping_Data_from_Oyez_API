@@ -1,0 +1,42 @@
+{
+    "ID": 56056,
+    "name": "U.S. Department of Transportation v. Association of American Railroads",
+    "href": "https://api.oyez.org/cases/2014/13-1080",
+    "view_count": 0,
+    "docket_number": "13-1080",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1403499600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41626"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1418018400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41627"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1425877200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/41781"
+        }
+    ],
+    "question": "<p>Are the metrics and standards invalid because Congress gave a private entity, Amtrak, the authority to create them?</p>\n",
+    "citation": {
+        "volume": "575",
+        "page": null,
+        "year": "2015",
+        "href": "https://api.oyez.org/case_citation/case_citation/20962"
+    },
+    "term": "2014",
+    "description": "A case in which the Court held that for purposes of the validity of metrics and standards, Amtrak is a governmental entity.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/575/43/",
+    "facts_of_the_case": "<p>In 1970, Congress created the National Railroad Passenger Corporation (Amtrak) through the Rail Passenger Service Act and gave them the priority to use track systems owned by freight railroads for passenger travel. In 2008, Congress gave Amtrak and the Federal Railroad Administration (FRA) joint authority to issue metrics and standards addressing scheduling, including on-time performance and train delays. The Association of American Railroads (AAR) sued the Department of Transportation, the FRA, and two officials alleging that the metrics and standards are unconstitutional. The AAR alleged that allowing a private entity, like Amtrak, to exercise joint authority in their issuance violated the Fifth Amendment Due Process Clause by vesting the coercive power of government in an interested private party, and also violated the constitutional provisions regarding separation of powers by placing legislative authority in a private entity.</p>\n<p>The district court rejected the AAR\u2019s argument, but the U.S. Court of Appeals for the District of Columbia reversed holding that Amtrak is a private corporation and Congress violated the constitutional provisions regarding separation of powers.</p>\n",
+    "conclusion": "<p>No. Justice Anthony M. Kennedy delivered the opinion for the majority. The Court held that, for purposes of determining the validity of the metrics and standards, Amtrak is a governmental entity. The members of Amtrak\u2019s Board of Directors are appointed by the President and confirmed by the Senate, and Amtrak is required by statute to pursue broad public objectives. &nbsp;Because of Amtrak\u2019s significant ties to the government, Amtrak is not a private enterprise, and therefore, treating Amtrak as a governmental entity is consistent with the constitutional separation of powers.</p>\n<p>Justice Samuel A. Alito, Jr. wrote a concurring opinion in which he addressed the issues of accountability and the constitutional questions that arise out of the recognition that Amtrak is functionally a governmental entity. First, unlike other governmental officers, Amtrak\u2019s board members are not required to take an oath to uphold the Constitution. Next, the arbitration clause of the PRIIA is potentially unconstitutional if it is interpreted to allow for a private arbitrator because private parties are not vested with legislative powers. Finally, although all of the other board members are appointed by the President and confirmed by the Senate, Amtrak\u2019s president is not but is rather selected by the other board members.</p>\n<p>In his opinion concurring in the judgment, Justice Clarence Thomas argued that Amtrak is a private entity and therefore should be subject to generally applicable rules of private conduct created through the proper exercise of legislative power. Because Congress has permitted Amtrak, a private corporation, to make legally binding rules, there are serious constitutional questions that the majority opinion failed to address.</p>\n"
+}

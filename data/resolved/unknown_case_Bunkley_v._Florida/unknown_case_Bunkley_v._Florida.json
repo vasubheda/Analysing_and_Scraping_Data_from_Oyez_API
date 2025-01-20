@@ -1,0 +1,35 @@
+{
+    "ID": 55070,
+    "name": "Bunkley v. Florida",
+    "href": "https://api.oyez.org/cases/2002/02-8636",
+    "view_count": 0,
+    "docket_number": "02-8636",
+    "timeline": [
+        {
+            "event": "Decided",
+            "dates": [
+                1054011600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38864"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                1054011600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53427"
+        }
+    ],
+    "question": "<p>Should the first-degree burglary conviction be remanded to the state court to consider whether the inmate\u2019s pocketknife fit within the \u201ccommon pocketknife\u201d exception at the time his conviction became final?</p>\n",
+    "citation": {
+        "volume": "538",
+        "page": "835",
+        "year": "2003",
+        "href": "https://api.oyez.org/case_citation/case_citation/18999"
+    },
+    "term": "2002",
+    "description": "A case in which the Court held that the state court must consider whether an inmate\u2019s pocketknife fit within the \u201ccommon pocketknife\u201d exception at the time his conviction became final.",
+    "justia_url": null,
+    "facts_of_the_case": "<p>In 1989, Clyde Timothy Bunkley was convicted of burglary in the first degree because he was armed with a \u201cdangerous weapon\u201d at the time of the burglary. The \u201cdangerous weapon\u201d was a pocketknife with a 2.5-3 inch blade. In 1997, the state court interpreted the \u201ccommon pocketknife\u201d exception to the definition of \u201cweapon\u201d as a blade of 3.75 inches or shorter. Bunkley filed a motion for state post-conviction relief based on the state court\u2019s 1997 decision and argued that his pocketknife could not have been considered a \u201cweapon.\u201d The trial court rejected the defendant\u2019s motion for relief, and the Court of Appeals affirmed. The Florida Supreme Court also affirmed and found the \u201ccommon pocketknife\u201d exception did not apply retroactively because the 1997 decision was merely an \u201cevolutionary refinement,\u201d not a \u201cmajor constitutional change,\u201d and therefore did not apply retroactively.</p>\n",
+    "conclusion": "<p>In a per curiam opinion, the majority held that the Florida Supreme Court failed to decide whether the pocketknife fit within the \u201ccommon pocketknife\u201d exception at the time the conviction became final. Although the state court called the interpretation an \u201cevolutionary refinement,\u201d it did not decide whether the weapon statute had \u201cevolved\u201d by 1989 to fit the inmate\u2019s pocketknife within the exception. Therefore, the Court held the first-degree burglary conviction should be remanded to the state court to consider whether the inmate\u2019s pocketknife fit within the \u201ccommon pocketknife\u201d exception at the time his conviction became final.</p>\n<p>Chief Justice William H. Rehnquist dissented and argued that the Supreme Court should not have granted certiorari in this case. He argued that the Florida Supreme Court has already concluded that the change in the law in question should not apply retroactively. Therefore, the majority\u2019s decision incorrectly revisited and overrode the Florida Supreme Court. Justice Anthony M. Kennedy and Justice Clarence Thomas joined in the dissent.</p>\n"
+}

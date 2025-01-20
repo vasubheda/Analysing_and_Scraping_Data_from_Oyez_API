@@ -1,0 +1,35 @@
+{
+    "ID": 54673,
+    "name": "Hughes Aircraft Company v. Jacobson",
+    "href": "https://api.oyez.org/cases/1998/97-1287",
+    "view_count": 0,
+    "docket_number": "97-1287",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                909986400
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38122"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                917244000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38123"
+        }
+    ],
+    "question": "<p>Did an employer violate federal pension protection law when it amended its retirement plan by establishing an early retirement program and creating a noncontributory benefit structure for new participants?</p>\n",
+    "citation": {
+        "volume": "525",
+        "page": "432",
+        "year": "1999",
+        "href": "https://api.oyez.org/case_citation/case_citation/18602"
+    },
+    "term": "1998",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/525/432/",
+    "facts_of_the_case": "<p>Stanley I. Jacobson and other retired employees of Hughes Aircraft Company were beneficiaries of Hughes Non-Bargaining Retirement Plan. Jacobson and the others claimed in their class-action lawsuit that Hughes violated the Employee Retirement Income Security Act of 1974 (ERISA), the federal pension protection law, when it amended the plan twice in response to a $1.2 billion dollar surplus. ERISA requires that some of the surplus be distributed to cover employees when a pension plan is terminated. Hughes' first amendment to the plan established an early retirement program that provided significant additional retirement benefits to certain eligible active employees. The second amendment disallowed new participants from contributing to the plan. Jacobson and others argued that Hughes had terminated one plan and started another by stopping its pension plan contributions. Thus, the company had used the plan's surplus to benefit new employees at the expense of the retirees. The District Court dismissed the complaint for failure to state a claim. The Court of Appeals reversed the District Court by finding that the early retirement program and noncontributory benefit structure were prohibited by the ERISA.</p>\n",
+    "conclusion": "<p>No. In a unanimous decision, announced by Justice Clarence Thomas, the Court reversed the Court of Appeals. The Court held Hughes did not violate the ERISA by establishing an early retirement program and creating a noncontributory benefit structure for new participants. Justice Thomas, writing for the Court, said the plan amendments \"did not affect the rights of pre-existing plan participants and Hughes did not use the surplus for its own benefit.\"</p>\n"
+}

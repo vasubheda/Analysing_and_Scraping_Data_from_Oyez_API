@@ -1,0 +1,42 @@
+{
+    "ID": 62167,
+    "name": "Campbell-Ewald Company v. Gomez",
+    "href": "https://api.oyez.org/cases/2015/14-857",
+    "view_count": 0,
+    "docket_number": "14-857",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1431925200
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/51723"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1444798800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52804"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1453269600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53390"
+        }
+    ],
+    "question": "<p>(1) Does a case become moot when a plaintiff receives an offer of complete relief for his claim?\u00a0If so, is the answer different when the plaintiff has asserted a class action claim but receives the offer of complete relief before any class is certified?<br />(2) Is the doctrine of derivative sovereign immunity limited to claims arising out of property damage caused by public works projects?</p>\n",
+    "citation": {
+        "volume": "577",
+        "page": null,
+        "year": "2016",
+        "href": "https://api.oyez.org/case_citation/case_citation/26960"
+    },
+    "term": "2015",
+    "description": "A case in which the Court held that an unaccepted settlement offer does not make a plaintiff\u2019s claim moot, and a federal contractor does not have derivative sovereign liability from a suit under the Telephone Consumer Protection Act.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/577/153/",
+    "facts_of_the_case": "<p>On May 11, 2006, Jose Gomez received an unsolicited text message advertising the U.S. Navy. The text message was the result of a partnership between the Navy and the Campbell-Ewald Company, a marketing consultant that the Navy hired to help with a recruiting campaign. The compilation of the list of targeted phone numbers and the actual sending of the message was outsourced to a company called Mindmatics.</p>\n<p>Gomez sued and argued that that Campbell-Ewald violated the Telephone Consumer Protection Act by instructing or allowing a third-party vendor to send unsolicited text messages on the behalf of a client. After Campbell-Ewald\u2019s motion to dismiss was denied, the company offered Gomez a settlement, which Gomez rejected. Campbell-Ewald again moved to dismiss the case and argued that Gomez\u2019s rejection of the settlement offer made the claim moot. The district court denied the motion, and Campbell-Ewald moved for summary judgment based on the argument that the company had derivative sovereign immunity because it was acting on behalf of the government. The district court granted the motion for summary judgment. The U.S. Court of Appeals for the Ninth Circuit reversed and held that Campbell-Ewald was not entitled to the derivative sovereign immunity defense because the defense had only ever been applied in the context of property damage resulting from public works projects.</p>\n",
+    "conclusion": "<p>An unaccepted settlement offer does not make a plaintiff\u2019s claim moot, and a federal contractor does not have derivative sovereign liability from a suit under the Telephone Consumer Protection Act. Justice Ruth Bader Ginsburg delivered the opinion for the 5-4 majority. The Court held that, pursuant to Rule 68 of the Federal Rules of Civil Procedure, an unaccepted settlement offer has no force and does not affect whether the case presents an actual case or controversy over which a court has jurisdiction under Article III of the Constitution. Like unaccepted offers in other areas of law, such as contracts, an offer has no force and creates no obligation if it is not accepted. As long as the parties continue to have a concrete interest in the outcome of the litigation at hand, the case is not moot. The Court also held that government contractors only obtain immunity for actions they take pursuant to their contractual undertakings. When a contractor violates both federal law and the government\u2019s express instructions, as occurred in this case, there is no immunity. In his concurrence in the judgment, Justice Clarence Thomas wrote that, because the common law of tendering offers dictates that an unaccepted offer, without more, is not binding and Rule 68 of the Federal Rules of Civil Procedure stemmed from this common law history, the majority opinion did not need to examine contract law to reach this conclusion.</p>\n<p>Chief Justice John G. Roberts, Jr. wrote a dissent in which he argued that, once relief for the plaintiffs\u2019 claims is available, the plaintiffs no longer have a personal stake in the outcome of the litigation, and there is no longer an actual case or controversy for the federal courts to adjudicate. Justice Roberts also argued that there was Supreme Court precedent establishing that the plaintiff\u2019s acceptance of the offer was not required to moot the case. The fact that failure to accept an offer makes the offer null in contract law has no bearing on the analysis of whether the case remains an actual case or controversy under Article III. Justice Antonin Scalia and Justice Samuel A. Alito, Jr. joined in the dissent. Justice Alito also wrote a separate dissent in which he argued that a case is moot when there is no dispute as to whether the defendant would \u201cmake good\u201d on the settlement offer if the case were dismissed. Because there was no such dispute in this case, the case was moot.</p>\n"
+}

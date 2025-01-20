@@ -1,0 +1,42 @@
+{
+    "ID": 62651,
+    "name": "Murr v. Wisconsin",
+    "href": "https://api.oyez.org/cases/2016/15-214",
+    "view_count": 0,
+    "docket_number": "15-214",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1452837600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53393"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1489986000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53988"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1498194000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54074"
+        }
+    ],
+    "question": "<p>In a regulatory taking case, should two legally distinct but commonly owned contiguous parcels be combined for takings analysis purposes?</p>\n",
+    "citation": {
+        "volume": "582",
+        "page": null,
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27399"
+    },
+    "term": "2016",
+    "description": "A case in which the Court determined that, in a regulatory takings case, two legally distinct but commonly owned contiguous parcels should be combined for takings analysis purposes.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/582/15-214/",
+    "facts_of_the_case": "<p>The parents of Joseph P. Murr and his siblings (the Murrs) purchased two adjacent lots (Lots E and F) in St. Croix County in 1960. The two lots together made up approximately .98 acres. In 1994 and 1995 respectively, the Murrs\u2019 parents transferred Lot F and Lot E to their children. In 1995, the two lots were merged pursuant to St. Croix County\u2019s code of ordinances. The relevant ordinance prohibits the individual development or sale of adjacent lots under common ownership, unless an individual lot was at least one acre. The ordinance further specified that if each lot is not at least one acre, the lots may be measured together to equal one acre. Seven years later, the Murrs wanted to sell Lot E and not Lot F. The St. Croix County Board of Adjustment denied the Murrs\u2019 application to sell the lots separately.</p>\n<p>The Murrs sued the state and county and claimed the ordinance in question resulted in an uncompensated taking of their property and deprived them of \u201call, or practically all, of the use of Lot E because the lot cannot be sold or developed as a separate lot.\u201d The circuit court granted summary judgement to the state and county. The Court of Appeals of Wisconsin affirmed and held that the Murrs were not deprived of their practical use of the property.</p>\n",
+    "conclusion": "<p dir=\"ltr\">In a regulatory takings case, two legally distinct but commonly owned contiguous parcels should be combined for takings analysis purposes. Justice Anthony M. Kennedy delivered the opinion for the 5-3 majority. The Court held that, while generally governmental regulation of property was not a taking, regulation could be so burdensome that it became a taking. The analysis essentially required courts to balance the rights of property ownership against the government\u2019s power to adjust rights for the good of the public, which is a fact-intensive inquiry. In order to properly conduct this inquiry, it was necessary to define the scope of the relevant property. The Court had determined that two approaches did not adequately protect the property rights at stake: defining the property as only the portion targeted by the challenged regulation and allowing state law to define the property. Instead, courts should consider factors such as the treatment of land under state and local law, the physical characteristics of the land, and the prospective value of the regulated land. This inquiry was objective and examined the landowner\u2019s reasonable expectation about whether the property at issue would be treated as a single parcel or separate ones. In this case, the proper application of these factors meant that the parcels in question should be evaluated as a single unit for takings analysis purposes. </p>\n<p dir=\"ltr\">Chief Justice John G. Roberts, Jr. wrote a dissent in which he argued that the Takings Clause of the Fifth Amendment applied to established private property rights, which had historically been defined by state law. Because the analysis of whether a regulation constituted a taking required the examination of the impact of the regulation on a property right, there was an incentive for property owners to define the relevant property rights narrowly to maximize the impact of the regulation. State laws, however, provided definite, easily ascertainable boundaries to units of land and therefore clearly defined the affected property. Using state law to define the relevant property for takings analysis purposes simplified the analysis and avoided creating a \u201clitigation-specific\u201d definition of property. Justice Clarence Thomas and Justice Samuel A. Alito, Jr. joined in the dissent. In his separate dissent, Justice Thomas wrote that the Court should reexamine its decisions on regulatory takings to determine whether such a concept was actually grounded in the original meaning of the Fifth and Fourteenth Amendments. </p>\n<p>\u00a0</p>\n<p dir=\"ltr\">Justice Neil Gorsuch did not participate in the discussion or decision of this case. </p>\n"
+}

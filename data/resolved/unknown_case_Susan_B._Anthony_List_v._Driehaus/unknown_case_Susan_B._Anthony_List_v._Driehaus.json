@@ -1,0 +1,42 @@
+{
+    "ID": 62259,
+    "name": "Susan B. Anthony List v. Driehaus",
+    "href": "https://api.oyez.org/cases/2013/13-193",
+    "view_count": 0,
+    "docket_number": "13-193",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1389333600
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52613"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1398142800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52614"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                1402894800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/52615"
+        }
+    ],
+    "question": "<p>(1) Did the U.S. Court of Appeals for the Sixth Circuit err in holding that the advertising company's rejection of the proposed billboard and the Commission's actions against SBA List do not demonstrate an imminent threat of future prosecution sufficient to establish ripeness under Article III?</p>\n<p>(2) Did the U.S. Court of Appeals for the Sixth Circuit err in holding that state laws prohibiting false political speech are not subject to pre-enforcement First Amendment review as long as the speaker maintains that the statements are factually true?</p>\n",
+    "citation": {
+        "volume": "573",
+        "page": "149",
+        "year": "2014",
+        "href": "https://api.oyez.org/case_citation/case_citation/27055"
+    },
+    "term": "2013",
+    "description": "A case in which the Court held that pre-enforcement challenges are justiciable when evidence indicates that threatened enforcement of the law is sufficiently imminent.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/573/149/",
+    "facts_of_the_case": "<p>Prior to the 2010 general election, Susan B. Anthony List (SBA List), a nonprofit, pro-life organization, announced that it intended to put up a billboard in the district of then-Congressman Steven Driehaus. The planned billboard would have asserted that Driehaus's vote in favor of the Affordable Care Act amounted to a vote in favor of taxpayer-funded abortion. Citing threats of legal action by Driehaus's counsel, the company that owned the billboard space refused to put up the ad. Driehaus filed a complaint with the Ohio Elections Commission alleging that SBA List violated Ohio's campaign laws by making false statements about his voting record. SBA List filed an action in federal district court arguing that the Ohio statutes infringed upon its rights to free speech and association under the First Amendment. Driehaus withdrew his complaint upon losing his bid for re-election and subsequently moved to Swaziland for an assignment with the Peace Corps. The district court dismissed the suit by SBA List for lack of standing and ripeness. The U.S. Court of Appeals for the Sixth Circuit affirmed.</p>\n",
+    "conclusion": "<p>Yes. Justice Clarence Thomas wrote the opinion for the unanimous Court. The Court held that pre-enforcement challenges are justiciable when circumstances indicate that threatened enforcement of the statute is sufficiently imminent. If the threatened enforcement is sufficiently imminent, the petitioners have alleged sufficient injury for Article III standing and justiciability. In this case, the petitioners' political speech focused on the issue of support for the Affordable Care Act, not simply on Driehaus, and thus was likely to continue despite Driehaus' departure. The Court determined that there was a threat of future enforcement even though petitioners maintained their statements were true. Moreover, because the respondents did not disavow enforcement if petitioners carried out their speech in the future, the Court held that the prospect of enforcement was not \"imaginary or speculative\" and that petitioners had shown sufficient injury for pre-enforcement review. The Court also held that the petitioners' suit was prudentially ripe because their challenge was purely legal, the issue would not be clarified by future factual development, and denying prompt judicial review would force them to choose between refraining from political speech or risking burdensome Commission proceedings and criminal prosecution.</p>\n"
+}

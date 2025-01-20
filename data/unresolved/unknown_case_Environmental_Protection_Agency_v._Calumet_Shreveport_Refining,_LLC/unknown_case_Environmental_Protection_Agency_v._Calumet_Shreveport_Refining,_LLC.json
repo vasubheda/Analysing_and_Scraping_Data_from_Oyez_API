@@ -1,0 +1,26 @@
+{
+    "ID": 63727,
+    "name": "Environmental Protection Agency v. Calumet Shreveport Refining, LLC",
+    "href": "https://api.oyez.org/cases/2024/23-1229",
+    "view_count": 0,
+    "docket_number": "23-1229",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1729486800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/55564"
+        }
+    ],
+    "question": "<p>Should challenges by small oil refineries seeking exemptions from the requirements of the Clean Air Act\u2019s Renewable Fuel Standard program be heard exclusively in the U.S. Court of Appeals for the D.C. Circuit because the agency\u2019s denial actions are \u201cnationally applicable\u201d or \u201cbased on a determination of nationwide scope or effect\u201d?</p>\n",
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https://api.oyez.org/case_citation/case_citation/28053"
+    },
+    "term": "2024",
+    "description": "A case in which the Court will decide whether challenges by small oil refineries seeking exemptions from the requirements of the Clean Air Act\u2019s Renewable Fuel Standard program should be heard exclusively in the U.S. Court of Appeals for the D.C. Circuit because the agency\u2019s denial actions are \u201cnationally applicable\u201d or \u201cbased on a determination of nationwide scope or effect.\u201d",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-1229/"
+}

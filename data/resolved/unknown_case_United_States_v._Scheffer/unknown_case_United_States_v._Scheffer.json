@@ -1,0 +1,35 @@
+{
+    "ID": 54613,
+    "name": "United States v. Scheffer",
+    "href": "https://api.oyez.org/cases/1997/96-1133",
+    "view_count": 0,
+    "docket_number": "96-1133",
+    "timeline": [
+        {
+            "event": "Argued",
+            "dates": [
+                878536800
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38009"
+        },
+        {
+            "event": "Decided",
+            "dates": [
+                891324000
+            ],
+            "href": "https://api.oyez.org/case_timeline/case_timeline/38010"
+        }
+    ],
+    "question": "<p>Does Military Rule of Evidence 707, excluding the admission of polygraph results into evidence, violate a defendant's Sixth Amendment right to present a fair defense?</p>\n",
+    "citation": {
+        "volume": "523",
+        "page": "303",
+        "year": "1998",
+        "href": "https://api.oyez.org/case_citation/case_citation/18542"
+    },
+    "term": "1997",
+    "description": null,
+    "justia_url": "https://supreme.justia.com/cases/federal/us/523/303/",
+    "facts_of_the_case": "<p>While defending himself before a military court martial on, among other things, substance abuse charges, airman Edward G. Scheffer sought to introduce his polygraph examination results. The results indicated there was \"no deception\" in Scheffer's denial that he used drugs while enlisted. Relying on Military Rule of Evidence 707 (\"Rule 707\"), prohibiting the use of polygraph results in court-martial proceedings, the military judge refused Scheffer's request to admit his results into evidence. On successive appeals, following his conviction on all charges, the Air Force Court of Appeals affirmed but the Court of Appeals for the Armed Forces reversed, finding the evidentiary exclusion to be unconstitutional. The United States appealed and the Supreme Court granted certiorari.</p>\n",
+    "conclusion": "<p>No. In an 8-to-1 decision, the Court held that Rule 707 was consistent with the legitimate interest of state and federal authorities to admit only reliable evidence. In addition to noting the even-handed scope of Rule 707, excluding from evidence both favorable and unfavorable polygraph results, the Court emphasized the poor reliability of polygraph evidence as a whole. In the absence of sounder detection methods, the Court noted that the fundamental premise of the criminal justice system is that juries are the ultimate and most reliable evaluators of credibility and truthfulness.</p>\n"
+}
